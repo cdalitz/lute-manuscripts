@@ -18,3 +18,18 @@ programs *abctab2ps*, *ghostscript*, *ps2eps*, *dvisvgm* (for SVG), and
 > it is recommended to run the frontend only locally. Otherwise it will fill
 > up your hard disk after some time. 
 
+## Authors and license
+
+Authors and Copyright
+ - 2009-2023: Markus Lutz (+) & Peter Steur
+ - since 2023: Peter Steur & Christoph Dalitz
+
+Both data and code of this database may be freely used, copied,
+and modified under the terms of the GNU General Public License,
+version 3.0 or later. This means that it may be freely used and
+distributed, but derived works must be put under the same license
+again.
+
+See the file `LICENSE` for details.
+
+
