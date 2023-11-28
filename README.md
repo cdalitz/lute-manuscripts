@@ -20,7 +20,7 @@ programs *abctab2ps*, *ghostscript*, *ps2eps*, *dvisvgm* (for SVG), and
 
 ## Authors and license
 
-Authors and Copyright
+Copyright
  - 2009-2023: Markus Lutz (+) & Peter Steur
  - since 2023: Peter Steur & Christoph Dalitz
 
