@@ -7,7 +7,7 @@
 ## Permissions
 Both data and code of this database may be freely used, copied,
 and modified under the terms of the GNU General Public License,
-verison 3.0 or later. This means that it may be freely used and
+version 3.0 or later. This means that it may be freely used and
 distributed, but derived works must be put under the same license
 again.
 
