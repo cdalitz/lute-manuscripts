@@ -5,9 +5,9 @@ in *abctab* format, together with a web based GUI frontend for viewing the
 content of the database.
 
 The data of the lute sources database is stored in the following CSV files:
- - `data/MssNames.csv` - meta information of all manuscripts
- - `data/Concordances.csv` - all concordances
- - `mss/*.csv` - the contents of all manuscripts with incipits
+ - `www-data/data/MssNames.csv` - meta information of all manuscripts
+ - `www-data/data/Concordances.csv` - all concordances
+ - `www-data/mss/*.csv` - the contents of all manuscripts with incipits
  
 As a GUI frontend, a PHP implementation is provided, which requires an Apache
 webserver with PHP activated. The incipits are generated on the fly with the
@@ -41,13 +41,13 @@ See the file `LICENSE` for details.
 
 Running the web based frontend requires installation and configuration of 
 the respective software on a Linux system, which is described in the 
-follwoing sections. A debian based Linux system is assumed, e.g. Ubuntu.
+following sections. A debian based Linux system is assumed, e.g. Ubuntu.
 A dollar sign in command lines stands for the shell prompt.
 
 ### Software incipit generation
 
 Most required software comes with Ubuntu, so that you can install it
-over its package manger with
+over its package manager with
 
     $ sudo apt install ghostscript ps2eps dvisvgm imagemagick
 
@@ -134,7 +134,7 @@ should be visible in your browser under the URL `ms-lute.localhost`.
 
 ### Copy the lute database to Apache
 
-Now you can remove the file `index.html` and cpy the content of the database
+Now you can remove the file `index.html` and copy the content of the database
 to the appropriate directory. If you are in the root of this git repository,
 this is done with
 
