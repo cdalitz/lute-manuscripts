@@ -1,0 +1,47 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+;;;Taken from Coelho (1995);;;;;;;
+1;;1r;Ballo di Mantova;;;OT;;3;"[abdca1] ,a ,b ,d | [a,,,d1] [a{8}] [b,,a] a [,d,,,d] d | \
+[ab,,d2] {8} a |";italian7tab
+2;;1r;di la segue;;Passacaglia;OT;;3;"[abd2] ,,d [abd] | [aab2] a [,ddd] | \
+[,cda1] ,a [bdc2] [,ad,,a1] ,,c |";italian7tab
+3;;3r;Passamezzo;;;OT;;C;",,d/ a [cdd{a}1] | ,,,,a1 ,,,a (c/ d) f1 | \
+[c,,a1] [d,,c] [a,,,e] [c,,a] | ,d1 [a,,,d] ,,,,a";italian7tab
+4;;3v;Gagliardda;;;OT;ConcR2737;3;"[cdda4] {a}2 | d2 [c,,a] [a,,,e] | [,d,,c3] c1 a ,d | \
+[acdca2] {10} ,a |";italian7tab
+5;;3v;Folia;;;OT;;3;"[abdca4] [abd2] | [aacc2] ,,,,,a [aac] | \
+[abdca2] {10}1 ,a ,b ,d | [,abacd1] {11} ,,,,,d ,,a ,,b ,,d |";italian7tab
+6;;4r;Pavaniglia;;;OT;Conc_4499;C;"[,dda1] b a ,d | [acdca2] {10}1 ,d | [acdca1] ,d a ,c | \
+[bdda1] {a}/ a b1 ,d/ d |";italian7tab
+7;;4v;Ritornello;;;OT;;C;"a/ | [bdda/] [ad,,d] [ad,,b] [ad,,a] [ad,,,d] [ad,,a] [ad,,b] [ad,,,d/4] ,c | \
+[bdda/] {a}";italian7tab
+8;;4v;Romanescha;;;OT;ConcR2801;3;"d1 b a | [cdda2] {a} [bd] | [bbdd2] [bbdd] a | \
+[bbdd2] [f,,d] [d,,c] | [b,,a2] [ab,,d] {8} |";italian7tab
+9;;5r;Romanescha;;;OT;ConcR2801;3;"d1 b a | [cdda2] {a} [bdd] | [bbdd2] [bbd1] a [bbdd2] | \
+[f,,d2] [d,,c] [b,,a] | [ab,,d2] {8} [db] |";italian7tab
+10;;5v;Ballo di Mantova;;;OT;;C;"[aabd1] ,,,a [aabc] ,,a | [aab1] [aa] | \
+,,a1 [aabc] ,,,a [aabc] |";italian7tab
+11;;6r;Alemana;;;OT;;C;",,a1 | [aabcca1] ,a/ ,a [,aab] {9} ,,d ,a | \
+[,,b,,a/] ,,,c ,,d ,,d [,,d,a] ,a [,,b,,a] ,,d | \
+[,,a{9}] ,,,a ,,b ,,a [,,,c{8}] ,,b [,,b{a}] ,,a |";italian7tab
+12;;6v;Gagliardda;;;OT;;3;"[fd,a2] | [fd2] ,,,,a d | [c,,a2] [d,,,c] [d,,,d] | \
+[c,,a2] [ddff] [ddf1] f | [ddff2] [h,,f] h |";italian7tab
+13;;6v;Corrente;;;OT;;3;",,d1 | [,d,a1] {a}/ ,c ,d a | [c,,a1] [ad,,a] ,d/ a | \
+,d1 {a} ,,,a | [,da2] a1 |";italian7tab
+14;;7r;Passaggio;;;OT;;C;"[c,,a/] ,d a c [d,,c] c d c | [a,,,d/] c d a [c,,a] d c a | \
+[,d,,c/] a c ,d [a,,,d] ,d ,c ,a | \
+[,b,,a/] ,d a ,b [,d,,c] a ,d ,b |";italian7tab
+15;;7r;Corrente d. la Vernia;;di Bernia?;OT;;3;"(,d/ ,b ,a) ,,d | [,a{11}2] ,,b ,d | {10}3/2 ,b/ ,,d ,b | \
+{9}3/2 ,a/ ,,b ,a |";italian7tab
+16;;7v;[Passacaglia];;;OT;;3;"[,abacd1] {11} [,aba] | [,,da{a}1] ,a [,,b,,a] | \
+[,aaac2] {9}1 | [,,b{8}1] [,,b{a}] ,,a |";italian7tab
+17;;8r;Corrente;;;OT;;3;"a1 | [acd2] [aac1] | [acd1] a [cea] | [ef1] ,,,,,a ,,,,,c | \
+[a,,,,e1] ,,,c a/ ,d | [,cd1] ,,,,a ,,,,c |";italian7tab
+18;;9r;[Passacaglia];;;OT;;3;"[acd1] [ac] [acd] | [,acc1] [,ac] [,cee] | \
+[,,d,e1] ,,d [,aaa] |";italian7tab
+19;;10r;Sans titre;;;OT;;3;",,,a1 | [,ab,,d2] ,,,a1 | [,ab,,d2] ,,d1 | [,ab,,d2] {11}1 | \
+[,ab2] ,,d1 | [,a,,,d3/2] ,c/ ,d1 |";italian7tab
+20;;10v;Passacaglia;;"crossed out (""questi mali copiare"")";OT;;3;"[bdda1] {a}/ ,c ,d a | [b,,a1] [a,,,d] a/ b | \
+[d,,c1] ,,,,,a/ ,c ,d a | [b,,aa1] [a,,a] b |";italian7tab
+21;;11r;Sans titre;;;OT;;3;",,d1 | [,,da{a}3/2] ,,b/ ,,a ,,,c | [,,a,,d1] [,,a,,c] [,,b,,a] | \
+[,,aa{a}3/2] ,,a/ ,,b ,,d | [,a,,,d1] [,,d,,c] [,,b,,a] |";italian7tab
+22;;12v;fragments;;upside down;OT;;;;italian7tab

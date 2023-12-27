@@ -1,0 +1,94 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1;g moll;1r;Prelude;;"ff. 1v-3r vacat; f.1r ""C. Sol ut fa par b. mol, ou la 11.me par b. mol""";;;none;"{4} ,,d ,a V,b ,,d ,b a Vc ,,d ',,c ,a c 'a ,a ,,d ,b a \
+,,,c ,,d ,a ',,c"
+2;c moll;3v;Folies d'Espagne;;ff. 5v-8r vacat;;Conc_1975;3;"[,,d{4}/] ,,d [,,dcbd1] [,,dc/] ,,d | \
+'[,,c{a}/] ,,c [,,cca] ,,,,d ',,,,b ,,,,a | \
+[,,d{4}/] ,,d [,,dcbd1] [,,dc/] ,,d | \
+[,a{d}/] ,a [,aba] ,,,d ',,,c ,,,a |"
+3;c moll;8v;La Royalle Allemande de Dubut;;;;Conc_50;C;"c/ | [cbdc{4}1] ,,,c3/4 c/4 [cbd1] [ca,,,a3/4] ,d/4 | \
+'[,b,,,d/] ,,,c ,,d3/4 a/4 ,b/ {,a} '[,a,d3/4] ,,d/4 | \
+'[,,c{a}/] ,,,c1 ',,,a/4 ,,,,a [,,dcb1] ',,,,a/ ,a/4 ,,,,,d |"
+4;c moll;9v;Courante de Gaultier le vieux;;ff. 10v-20v vacat;;Conc_51;3;",,,c/ ,,a ,,c | ,,d3/2 ,,,,d/ ',,,,b ,,,a | \
+V,,,c1 ,,,,d [,,,c,c/] ,,,,d | '[,,,,bd1] {4}3/2 ,d/ | \
+[,da{,,,a}1] '[,,ba3/2] ,,,d/ | \
+'[,,,c{,,a}1] ,b/ ,,,,b V,,,,d1 |"
+5;C dur;21r;Prelude;;"ff. 21v-24r vacat; ""C. sol ut fa par B. care ou la 11.me par B. care""";;;none;"{4} c ',c ,,d c ,,c ,a a ,,d ,c {a} (,,,c ,,d a ',,c) {,a} {,,a} \
+,,,,c ,,,c ,,d ',,c"
+6a;C dur;24v;Allemande de Dubut;;;;Conc_52;C;",,,c/ | V[,,,ccd{4}3/2] ,,a/ [,,aaad{,a}] ,,d '[,,cca{a}3/4] ,,d/4 | \
+[,,dcc{4}3/2] ,a/ [,a,,,c] [,c,c] [,,d,,a] [,a,a] | \
+'[,,c{a}/] ,,,c ,,a ',,,a ,,,,c [c,d] e [a,c,a] |"
+6b;C dur;25v;double de l'allemande cy devant;;;;Conc_53;C;",,,c/ | [,,,c{4}/4] ,,,e ',,,c ,,,a ,,,,c ,,a ,,c ,,d \
+[,,a{,a}] ,a ,c ,,d '[,,c{a}] ,,,a ',,,,c ,,,,a | \
+{4}/ ',,,c/4 ,,,a ,,,,c/ ,,,,,d"
+7;C dur;26v;courante de Dubut le fils;;;;Conc_54;3;",,c/ ,,d ,a | V,c1 ,,,,c [,ca,d] | [,acc1] [,aca] [,c,,c] | \
+[,d,,a1] ,,a/ ,,c [,cd,c1] | [,c,,d1] '[,a,,c] {a}/ ,d | \
+'[,c{4}1] ,,,,,d [,cdc] |"
+8;C dur;27r;Canaries de Dubut le fils;;;;Conc_56;3;",c/ V,d1 | [c,c3/2] ,d/ '[,cd1] | ,,,c/ ,,c ,a ,,,a ,,,,c ,c | \
+,,,,d/ ,,,a ,,a ,a ,,,,a1 | '[,,cc3/2] ,,,a/ [,,d,c1] |"
+9;C dur;27v;Sarabande de Dubut le fils;;;;Conc_55;3;",a/ ,c a | [ccd1] ',,c/ ,a c ,d | '[,cd1] [,da] [cac] | \
+'[,cd1] [,adc] ',,c | [,,dcc{4}3/2] ,a/ ,c a |"
+10;C dur;28r;Gavotte;;;;;C;",,,c1 | [,,d{4}1] [,a,,,c] V[,c,,,d2] | \
+'[,a{a}2] [,,d,,a3/2] ,,c/ | [,,a{,a}1] [,,c{a}] [,,,c{,,a}] [,,d,,d] | \
+'[,,d,a{a}3/2] ,,c/ [,,d{4}1] |:| ,c1 | \
+[,cdc,d3/2] ,a/ [,c,,,a1] ,e |"
+11;C dur;28v;Allemande d'Aymon;;ff. 29v-36v vacat;;Conc_765;C;",,d/ | [,,dcc{4}3/2] ,,,c/ V,,,e ,,,,c V,,,,d ,,,c | \
+',,,,c/ ,,,,,d ,,,,c [,,,,ac] ,,,c ,,,c [,,,ccd] [,,db,a] | \
+'[,,c{a}/] ,,,c [,,dc{,,a}3/4] ,,d/4 \
+[,,d{,a}/] ,,,e {,,a} [a,c{,,,a}] |"
+12;d moll;37r;Prélude de Dubut;;"ff. 37v-40r vacat; ""D. la re sol par B. mol, ou la 10.me par B. mol""";;;none;"{,,,a} ,,,,a ,,,a ,,a ,a ',c a c Ve ,,,,a e ,,,a ,,a ,a e \
+,,,,a [,,a,,e] ,c c ,,,,a a"
+13;d moll;40v;Allemande de Pinel;;;;Conc_312;C;",,a/ | [,,aaa{,,,a}3/2] (3,,a/4 ,,c ,,e) [,a,,a/] ,c '[,,e,,a] {a} | \
+[,,aa{,a}1] e3/4 e/4 '[c{a}/] a '[,c,,,a3/4] ,a/4 | \
+[,aaa{,,,a}3/4] e/4 ,a/ ,c"
+14;d moll;41v;Canon de Gautier de Paris Courante;;;;Conc_15;3;"e1 ,a ,,e/ ,c | ,a/ a ,,a c 'a ,,,,a | \
+[,c,,c1] ,,,a/ ,,a ,a ,,,c | \
+',,,a/ ,a ,,,,,a ,,,,c ',a3/4 ,,e/4 |"
+15;d moll;42v;Sarabande de Dubut;;f. 43r vacat;;Conc_302;3;"[eaa{,,,a}1] [ea/] [ea] [f{a}1] | '[c{4}3/2] c/ [e{,a}1] | \
+[,aba{d}1] [,ab/] [,ab] {a} ,c | '[,,e,,a3/2] ,a/ [,aaa{,,,a}1] |:| \
+[,aaaa1] [,aa/] ,c [a{,a}1] |"
+16;d moll;43v;Gigue de Gautier le vieux;;;;Conc_62;C;",a/ | [,aVf3/2] ',,e/ ,a ,,a [,ab3/4] ,,,c/4 | \
+[,,ae/] {,,,a} ,a ',c [a,,,a] ,,,,,d [ca,,,'b3/4] ,,,,c/4 | \
+[e,,,,a/] ,,a 'c ,d/4 c"
+17;d moll;44v;L'immortelle courante de Gautier le vieux;;;;Conc_95;3;",,a/ ',,,c ,,a | [,,,aa3/2] [,,,aa/] [,,,cc1] | \
+[,,aad3/2] ,,a/ ,a ,,,c | ,,,e/ ,,e ,,,,,a ,,,c ',,,a ,,,,c | \
+[,a{,,,a}1] ',c/ a/4 ,c a/ ,,,,a |"
+18;d moll;45v;Thombeau de Mezengeau Allemande de Gautier le vieux;;"ff. 46v-101r vacat; f.81r ""E. mi la par B. Care, ou la 9.me par B. care""; f.89r ""f ut fa par B. mol, ou la 8me par B. mol""; f.101r ""F ut Fa par B. care ou la 8.me par B. care""";;Conc_1121;C;",,a/ | [,,aaa{,,,a}3/2] ',,,c/4 ,,,,d/8 ,,,c ,,a/ ,,,,a ',,,,c ,,,,,e | \
+[,,,,aVf1] [,,a,,d/] [,,b,,b] [,,d,,a] ,,,a '[,,b,a{a}3/4] ,,,,c/4 | \
+[,,aad{,a}3/2] (3,,a/4 ,,c ,,d)"
+19;F dur;101v;[Prelude];;;;;none;"{,a} ,,,a ,,a ,d a {,a} {,,a} ,,,,c ,,d c {,,,a} ,,,,a ,,b c 'a \
+{4} ,,b ,c ,,,,,a"
+21;F dur;102v;[Allemande];;;;Conc_9;C;"a/ | [aVda{,a}1] ,,,a/4 ,d '[,c,c] ,a [,,de/] ,,,f/4 ,a '[,,bc/] (,,a/4 ,,b) | \
+[,,aa/] ',,b V,,d (,,,,d ',,,,c/4) ,,,c ,,d ,,b '[,,aa/] \
+(3,,a/4 ,,b ,,d) |"
+21;F dur;103v;[Courante];;;;Conc_58;3;",,d/ [,,,c{,,a}] ,,b | '[,,a{,a}/] ,,,c/4 ,,a ,,,a1 ',,a3/4 ,,b/4 | \
+[,,d{4}/] ,,d [,,dccd3/2] ,,b/ | '[,,a{,a}/] ,,a [,,aadd3/2] ,,,,b/ | \
+[,,baa1] [,,ba/] [,,ba] ,,,,,a ,,d |"
+22;F dur;104v;[Sarabande];;;;Conc_59;3;",,,,d1,,d | {,a}1 ([,,dc{,,a}] ',,b) | '[,,a{,a}1] ,,,a ,,a | \
+,,,,,a1 '[,,aa] ,,,,,b | ,,,,,d1 ,,,,c ,,,c | \
+',,,,,b1 [,,a,,a] [,,b{a}] | [,,d{,a}1] {,,a} [,,,c,d] |"
+23;F dur;105v;[Gigue];;"ff.106r-140v vacat; f.117r ""G. re sol. ut par B. mol. ou la 7.me par B. mol""; f.129 ""G. re sol ut par B. care ou la 7.me par B. care""";;;3;"[,,aa{,a}3] | V[,,ba{d}3] | '[,,a{,a}3/2] ,,,c/ ,,a1 | \
+'[,,,c{4}2] ,,,,,d1 | '[,,a{,a}3/2] ,,,c/4 ,,a ,,,a1 | \
+V[,,b{,,a}2] ,,,c1 | [,,a{,a}3/2] ,,,,,b/ ,,a1 | \
+'[,,,cc{4}3] |:| [,,de3] | [,,ff2] [,,de1] |"
+24;a moll;141r;Prélude de Dubut;;"ff. 141v-145r vacat; f.141v ""A. mi la re par B. mol ou la 6.me par B. mol""";;Conc_5351;none;"(,,,e ,,d ,a ,c ,,,e) ',,,d ,,a ,a ,,c [,,de] {,,a} [,,cec] \
+',,,d ,,a ,,,d ,,,,,a ',c a ,c a ,,,,a ,,,,c"
+25;a moll;145v;Courante de Dubut le Fils;;;;Conc_157;3;",c1 | [,ca,,a3/2] ,c/ ,e c | Ve1 ,,,c ',,,a/ e | '[d,,,c1] ,c [ec,,,d] | \
+,,,,a1 ,,,,c/ ,,c e d | V[e,,,,a1] ,,a/ g h1 |"
+26;a moll;146v;La Symphonie courante de Gautier le vieux;;;;Conc_3;3;"[,,a,cd1] ',,,,,c/ ,,,,a ,,a ,,,d | [,,a,,a1] ,c/ ,,,,,a {b} ,,c | \
+,,,,,a/ ,,,,c ,,d {a} {,a} ,a | [,c{,,a}1] ,,,,c [,,cd/] ,,c |"
+27;a moll;147v;[Gavotte];;"ff. 148r-185r vacat; f.161r ""A Mila Re par becare ou la 6.me par B. Care"" - ""B fa b. mi par b. mol ou la b. de la 6me par. b. mol""; f.177r ""B. fa b. mi par b. mol ou le b. de la 6me par B. mol et"" - B. fa. B. mi. Par b. care, ou le b. de la 6.me par B. care""";;Conc_2547;C;",,,e1 ,,,,c | ,,,e/ ,,c V,,d1 [,,d,,a] [,a,,,c] | \
+[,(c,,,(d1] ,,a [,c),,,d)3/2] ,,a/ | \
+[,ac,a1] [,,d,c] [,,c{,,a}/] ,,,e ',,,d ,,c | \
+V[,,de1] ,,,,,a |:|"
+28;B dur;185v;Gigue de Gautier le vieux;;;;Conc_65;C;",a/ | [,aaa,a3/2] ',b/ a ,a 'c e | Vf/ ,a ,,f ,f a ,,,f ,,c ,,,e | \
+[,,aVf3/2] ',,a/4 ,,c ,a/ ,,,f [,,ce] ,a |"
+29;B dur;186r;Courante de Gaultier le vieux;;;;Conc_49;3;"a/ c e | V[faa,,a1] ,,,,a/ ,,,a 'a ,b | ',a1 ,,a [c{,,a}/] c | \
+[c,,,b1] ',,a ,,c | [,a,,a1] ,,,a/ ,,a 'a a |"
+30;B dur;186v;Allemande de Mezengeau;;;;Conc_833;C;"a/ | [aaa,,a1] ,,,,a/ ,,,a [aaa1] ',b/ a | \
+',a/ ,,,,,a ,,,,a [,aaa3/2] ,,,d/ | \
+',,,c/ V,b ,,a a ,,,a c Vd f |"
+31;B dur;187r;Courante de Gaultier le vieux;;;;Conc_66;3;",a1 | [,aaa,a1] (,d/4 ,b ,a ,b) a1 | ,,,f/ ,,a ,,,e ,,c ,,a ,a | \
+,,,a/ ,,c {,a} ,,e ',,c1 |"
+32;B dur;187v;Sarabanda de Gaultier le vieux;;"ff.188r-203v vacat; f.193r ""Diesis d fut fa, ou E. de la 5.me par B. mol""";;Conc_2073;3;"[a,,a1] '[,b,c3/2] ,,,e/ | [,a,Vf1] ,,,,a ,,,,b | \
+[,a,a1] '[,,c{,a}3/2] ,,a/ | [,,aaaa3] | '[,,a,,a1] {a}/ ,,,a ,,c ,a | \
+[,,a{,c}1] ,,,,a [,,c,c] |"

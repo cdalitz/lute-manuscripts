@@ -1,0 +1,53 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+;Tre Sonate per il Liuto con Violino obligato composte da Federic Guiglielmo Rust. Nell' anno 1791;;;;;;;;
+;;;[Sonata I in G];[Sonata I in G];Violinstimme auf f. 11r-12r;Violin part on f. 11r-12r;;;
+1;G dur;1v;;Friedrich Wilhelm Rust;;;Conc_5127;C;"[,,c,a{a}/] [,,c,f] ,,,,e [,,dcc{a}] [,ac,a{a}3/4] [,cd/4] [,ac/] \
+{a} | [,cdc/] [,cd] ,,,c [,ede] [cacc] > e g [,,c,a{a}] | 
+[V:Vl1] [B/D/G,/] B1 (d/8c/8B/8c/8) (d/>e/) d/ z/  | \ 
+[e/c/G/] e/- (e/8f/8g/8a/8b/8c'/8a/8f/8) Tg3/4(f/8e/8) d/ z/ |"
+2;G dur;2v;Romanza;Friedrich Wilhelm Rust;;;Conc_5128;C;"[baa{,,,a}3/2] [,cec/] [,'ae'b1] [,aab{,,,a}/] {,a} | \
+[c,e,ca1] ,,,,,a/ [ba,,a] [,'ce'e,,a1] [,cee/] ,,,c | \
+[eaab1] ,,,,c/ [c,e] ['caa,a/] ,e (',e ,c) | \
+[,ac{a}/] {,a} [cc{,,a}] {a} [baa,,a1] [,ce{6}] | 
+[V:Vl1] z4 | z4 | z4 | z4 |"
+3;G dur;3v;Tempo di Minuetto;Friedrich Wilhelm Rust;;;Conc_5129;3/4;"(3{a}/ c ,a) (3,,c ,a ,,c) (3{a} ,,c ,a) | \
+(3[,,,ca/] ,,a ,a) (3,,,b ,,d ,a) (3,,,c ,,c ,a) | \
+(3{a}/ c ,a) (3,,c ,a ,,c) (3[,,,,a{a}] ,,c ,a) | 
+[V:Vl1] z1 z1 d1 | d3/2 (e/4c/4) B1 | z1 z1 D1 |"
+;;;[Sonata II in d] ;;Violinstimme auf f. 12v-13r;Violin part on f. 12v-13r;;;
+4;d moll;4v;Sonata II / Allegro maestoso;Friedrich Wilhelm Rust;;;Conc_5130;C;"[,aaa{,,,a}2] [aaa] | [eaa{,,,a}2] {,a}1 (c/4 a) \
+(,c ,a) | [,,e,,a1] ,,e ,c ,c | [c,e{,,a}1] {,,a} {a} {a} | \
+[,,e{5}1] ,,e ,c ,c | 
+[V:Vl1] d2 f2 | a3 (g/4f/4e/4d/4) | ^c1 z1 z2 | z4 | ^c2 e2 |"
+5;d moll;6v;Arioso;Friedrich Wilhelm Rust;;;Conc_5131;3/4;"z1 | [,,ded{,a}1] z1 [,,ded{,a}1] | [,,dc,d{,,a}1] z1 \
+[,,dc,d{,,a}1] | [,dde{4}1] z1 [,dcc{4}1]  | ([,ddc{,,,a}1] [,c,c/]) ,,,,,d ,,,,a ,,,,c | \  
+[,aba{5}1] z1 [,aba{5}1] | 
+[V:Vl1] c | (c A) c | (c G) c | (f a) (g/f/) | (f2 e1) | (d > e) d | "
+6;d moll;7r;Rondo;Friedrich Wilhelm Rust;;;Conc_5132;3/8;"""p.""[ed/] {,,,a} [cc] | [aa/] ,,a ,c | [,a,a/] ,,a [,c,c] | \
+a/ ,,a ,a | [ed/] {,,,a} [cc] | [aa/] ,,a ,c | [,a,a/] ,,a \
+[,c,c] | [,a,a/] ,,a ,,,,a | 
+[V:Vl1] ((a1 g/) | (f1 e/) | d1 e/) | (f1 d/) | ((a1 g/) | (f1 e/) | d1 e/ | d1) z/ |"
+;;;[Sonata III in C] ;;Violinstimme auf f. 13v-14v;Violin part on f. 13v-14v;;;
+7;C dur;8v;Sonata III / Allegro;Friedrich Wilhelm Rust;;;;;"([c,,,c,a{4}/] ,c) ,,d ,,d (,,d ,c) ([,c,,,d] [c,,,c]) | [c,ca{a}/] a [,ac] [,ac] \ 
+[,aca{a}] ,,,,,a ,,,,,b [ca,a,c] | [c,,,c,a{4}/] ,c ,,d ,,d ,,,c ,,d [,c,,,d] [c,,,c] | 
+[V:Vl1] z4 | z4 | z4 | "
+8;F dur;9r;Andantino;Friedrich Wilhelm Rust;;;;;"h/ | [ed,,,d{,a}1] [ed/] [ed,a/] [ff] [eda] | [ccd1] [ff{4}/] [ff,,,d1] [ed{,a}/] | \ 
+[ki{5}1] [hc/] [fa/] [e,d] [d,caa] | [d,ca,d/] ,d ,a [cc,c,d/] ,,,,a [h,d,c] |
+[V:Vl1] c/ | f1 f/ (f/e/f/) | (g1 e/) e1 f/ | d1 d/ (d/e/f/) | (f1 e/) e1 c/ |"
+9a;C dur;9v;Aria. con Var:;Friedrich Wilhelm Rust;;;;;"(e/4 c) | [c,,,c{4}/] > ,c ,,d (e/4 c) | [a,,,a{a}/] > ,a ,,c [c,c/4] [a,,c] | \ 
+[,cde/] [,,d,ca] [,a,,,a{,,,a}/4] [,,d,c] [,a,a{a}] [,c,c] | 
+[V:Vl1] z/ | z1 z/ (f/4e/4) | (d/>B/) G/ (e/4d/4) | c/ c1 (B/4c/4) | "
+_9b;C dur;9v;Var: 1.;Friedrich Wilhelm Rust;;;;;"z/ | {4}/4 ,,,c ,,d ,c a ,c [,,d{,,a}] c | {a}/4 ,,c a ,c ,,c [,,cc{a}] [,,dc,a] [,a,c,c] | \ 
+,,,,,d/4 [,cd] ,,,,c [c,d] ,,,a[e,d] [c,,c] [,dc] |
+[V:Vl1] (a/4g/4) | (g/>e/) c/ (a/4g/4) | (g/>f/) d/ (g/4f/4) | \ 
+e/4g/c/4 d/d/4e/4 | "
+_9c;C dur;9v;Var: 2.;Friedrich Wilhelm Rust;;;;;",,d/ | (3([c{4}/4] e) c (3([,d,,c],c) ,a (3[,,d{,,a}],,d,,d (3[,c,c] ,d c | \
+(3[,d{,,,a}/4] e ,d (3[,a,a] ,a [,ad] (3[,ac{a}] ,,a ,,,c (3[c,ca] [,,d,c] [,a,,a] |
+[V:Vl1] z/ | z1 z/ (3[g/4c/4][g/4c/4][g/4c/4] | [fc1] (3z/4(B/4c/4 (3d/4e/4f/4) | "
+_9d;C dur;10r;Var: 3;Friedrich Wilhelm Rust;;;;;"""accomp:""z/ | {4}/ [cc,c] {,,a} [c,dc] | {,,,a}/ [a,de/4] ,,,d {,,,a}/ [a,c]  |
+[V:Vl1] G/ | C/8g/8^f/8g/8 e/8g/8c/8e/8 G/8c/8E/8G/8 C/4>g/4 | 
+=f/8d/8^c/8d/8 A/8d/8F/8=c/8 B/8F/8D/8F/8 G,/4>f/4 |"
+_9e;C dur;10r;Var 4;Friedrich Wilhelm Rust;;;;;"z/ | {4}/8 c (e c) (,d ,c) (,a ,,d) ,,d/4 [,,b,,a] [,,a,,e] [,cee{6}] | \
+{,,,a}/8 a (c a) (,c ,a) (,,d ,,c)  [c,,(c/4]> a [,c,d)] [da{,,a}] |
+[V:Vl1] (G/ | [E/G,/]) z/ (c/8B/8c/8d/8e/8f/8g/8)g/8 |
+f/ z/ (B/8A/8B/8c/8d/8e/8f/8)f/8 | "

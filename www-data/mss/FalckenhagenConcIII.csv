@@ -1,0 +1,117 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+;;;Concerto I C.b.;;;;;;
+1;c moll;1;Allegro ma non tanto;A. Falckenhagen;;;;C;"{4}/ ,,,,b ,,,c [,,ca{,,,a}] {,,a} ,,,c ,,d [,,ca{,,,a}] | \
+{4}/ ,,,c ,,d [,,ca{,,,a}] {,,a} ,,,c ,,d {,,a} | \
+[a{,a}/] ,b {,a} ,a {,a} ,,d {,a} ,,c"
+2;c moll;3;Larghetto;A. Falckenhagen;;;;6/8;"[,,bc{,,a}/] [,,bc{,,a}] [,,bc{,,a}] \
+[,,dd{,,a}] [,,dd{,,a}] [,,dd{,,a}] | \
+[,,dd{,,a}/] [,,dd{,,a}] [,,dd{,,a}] [,,dd{,,a}] [,,bc{,,a}] z | \
+[,aba{5}/] [,aba{5}] [,aba{5}] [aab{5}] [aab{5}] [aab{5}] | \
+[aab{5}/] [aab{5}] [aab{5}] [aa{,,a}] [,bb{,,a}] z | "
+3;c moll;5;Alla breve;A. Falckenhagen;;;;C;"Z13 | {4}1 ,,d/ ,a ,b1 ,,d | \
+,,,,,c1 ,a ([c{a}] a) | \
+([,b,,,d/] ,a) ,,d1 {4} ,b | \
+[,'a{a}2] ,,,c1 ,,e | \
+[,,'d{6}1] ,,d [,,b{5}] ,,,d | "
+;;;Concerto II B.#.;;;;;;
+4;B dur;6;Largo;A. Falckenhagen;;;;3/4;"{d}/4 ,,,a ,,b ,,,a {d} ,,,a ,,b ,,,a {d} ,,,a ,,b ,,,a | \
+,,,,,a/4 ,,,a ,,d ,,,a ,,,,,a ,,,a ,,d ,,,a ,,,,,a ,,,a ,,d ,,,a | \
+{a}/4 ,,,c ,,b ,,,c {a} ,,,c ,,b ,,,c ,,,,,a ,,,a ,,d ,,,a | "
+5;B dur;7;Allegro;A. Falckenhagen;;;;2/4;"[,'a{d}/] ""Solo"",,d/4 ,a [,,'b{5}1] | \
+[,'a{d}/] ,,d/4 ,a [,,'b{5}1] | \
+[a{,,,a}/] ,,b f [c{,,a}] | \
+[,Xb{4}1] [,'a{5}] | \
+([,d{,,,a}/4] ,b ,d ,,b f/ [c{,,a}] | "
+6;B dur;9;Tempo di Polon:;A. Falckenhagen;;;;3/4;"""Solo""[,a{5}/] ,a/4 a [,b{5}/] ,,d [,'a{5}1] | \
+[,a{5}/] ,a/4 a [,b{5}/] ,,d [,'a{5}1] | \
+[c{,,a}3/4] a/4 (,b/ ,a) ([,,d{,,a}] ,,b) | \
+([,,a{,a}/4] ,,b ,,d) ,a ',,,a1 {,a} | "
+7;B dur;10;Tempo di Minuetto;A. Falckenhagen;;;;3/4;"(f/ a) c ,a ,b ,,d | \
+[,'a{d}/] {,a} {a} {,,,a} {,,a} {4} | \
+([,a{5}/] ,b) [,Xb{4}3/2] (,a/4 ,b) | \
+[aab{,,,a}1] (,b/ ,a) ([,,d{,,a}] ,,b) | "
+;;;Concerto III C.#.;;;;;;
+8;C dur;11;Largo;A. Falckenhagen;;;;3/4;"[ccd{4}1] [ccd{4}] [ccd{4}] | \
+[ad{,a}1] (e/4 a3/4) (e/4 a3/4) | \
+[cc{4}1] [,cd{4}] [cc{4}] | \
+[aac{a}1] (,d/8 ,c ,a3/4) (,d/8 ,c ,a3/4) | \
+[,cd{4}1] [cc{4}] [,cd{4}] | "
+9;C dur;13;Un poco allegro;A. Falckenhagen;;;;2/4;"""Solo""{4}/ ,,d/4 ,c c/ {,,,a} | \
+{,,a}/ ,,d/4 ,c c/ [e{,a}] | \
+([e{a}/4] c3/4) (c/4 a3/4) | \
+{4}/4 a (,c ,a) ,,d/ [e{,a}] | \
+([e{a}/8] c3/8) (c/8 a3/8) (,d/8 ,c3/8) (,c/8 ,a3/8) | "
+10;C dur;15;Tempo di Polonese;A. Falckenhagen;;;;3/4;"""Solo""[,'c{4}3/4] ,d/4 [c{4}/] ,,d [,,c{4}] ,,d | \
+[,a{a}/] (,a/4 ,c) [,'a{a}1] {a} | \
+[,d{a}/] ,d/4 e [,d{a}/] ,d/4 e ([,a{a}/4] ,d ,c ,a) | \
+[,'c{a}/] (,a/4 ,c) ,,d1 {4} | "
+11;C dur;16;Tempo di Minuetto;A. Falckenhagen;;;;3/4;"(3[,c{4}/] ,a ,,d) (3a ,c ,a) (3c a ,c) | \
+[,h{,a}1] ,h/ g h1 | \
+{a}/ (h g) (,h ,f) a | \
+[,,h{4}/] a ,,h ,a ,,,h1 | "
+;;;Concerto IV C.#.;;;;;;
+12;C dur;17;Largo;A. Falckenhagen;;;;3/4;"[ccd{4}1] [ccd{4}] [ccd{4}] | \
+[aac{4}1] [aac{4}] [aac{4}] | \
+[aac{4}1] [aac{4}] [aac{4}] | \
+[,cdc{4}1] [,cdc{4}] [,cdc{4}] | \
+[baa{4}1] [baa{4}] [baa{4}] | \
+([,f{5}/4] ,a3/4) ([,f{5}/4] ,a3/4) ([,f{5}/4] ,a3/4) | "
+13;C dur;18;Allegro;A. Falckenhagen;;;;2/4;"([,c{4}/4] ,d) c/ c [,,c{,,,a}] | \
+[,,d{,,a}/] [,a{,a}] [,,'c{a}] {,a} | \
+([,c{4}/4] ,d) c/ c [,,c{,,,a}] | \
+[,,d{,,a}/] [,a{,a}] [,,'c{a}] {,a} | \
+{,,a}/4 ,,,c ,,d ,,,c ,c/ {4} | "
+14;C dur;19;Tempo di Polonese;A. Falckenhagen;;;;3/4;"[,'c{4}/] ""Solo""a/4 ,,d [cc{4}1] [aa{4}] | \
+[,'c{4}/] ,a/4 ,,d [ed{4}1] [cc{4}] | \
+[,'c{4}/] ,a/4 ,,d ([e{,a}] c) (,d ,c) ([,d{,a}] ,c) ,a ,,d | "
+15;C dur;20;Minuetto alternat:;A. Falckenhagen;;;;3/4;"[c{4}/] ,c [,,d{4}1] {4}/ ,a | \
+([,,c{a}/4] ,,d) ,a/ [,,,c{a}1] {a} | \
+([,a{a}/] ,c) [,d{a}1] [,d{a}] | \
+([,c{4}/4] ,a) ,,d/ [,,d{4}1] {4} | \
+[,h{4}/] g V[h{4}1] {4}/ ,f | "
+16;C dur;20;Variazione;A. Falckenhagen;;;;3/4;"{4}/4 c ,c c {4} ,c ,,d ,c {4} ,,d ,,,c ,,d | \
+{a}/4 ,,c ,,,c ,,c {a} ,a ,,c ,a {a} ,,c ,,,c ,,c | "
+;;;Concerto V G.#.;;;;;;
+17;G dur;21;Largo;A. Falckenhagen;;;;C;"[cac{a}/] [cac{a}] [cac{a}] [cac{a}] [,cd{a}] [,ac{a}] \
+""pianiss:""V[,cd] [,ac] | \
+""forte""[,,de,a/] [,,de{a}] [,,de{,a}] [,,de{,,,a}] \
+[,,cc{a}] [,,ab{,,,a}] ""pianiss:""[,,'cc] [,,ab] | \
+z/ ""forte""[,,ec{,,a}/] [,,ec{,,a}] [,,ec{,,a}] [,aa,a{a}] \
+[,aa,a{a}] ""pianiss:""[,aVf] ,,,,a | "
+18;G dur;22;Moderato;A. Falckenhagen;;;;2/4;"""Solo""[,,,c{a}/] ,,a [,,'c{a}/] ,,a/4 ,,,c | \
+[,,a{,a}/] ,,c [,,d{,,,a}1] | \
+[,,'c{a}/] ,,d/4 ,a ([,c{4}] ,a) (,,d ,,c) | \
+[,,a{,,,a}/4] (,,,c ,,,b) ,,,,c ,,,,a/ ,a/4 ,,c | "
+19;G dur;23;Tempo di Polonese;A. Falckenhagen;;;;3/4;"""Solo""[,,,c{a}3/4] ,,a/4 [,,c{a}3/4] \
+,,a/4 [,,'c{a}/] ,,a/4 ,,,c | \
+[,a{,a}/] (,a/4 ,c) [,'a{,a}1] {,a} | \
+[ce{,,a}/] (,e/4 ,c) [,'a{,a}/] ,,d [,,'c{,,,a}] ,,a | \
+[,,'c{a}/] (,,a/4 ,,c) [,,,c{a}1] {a} | "
+20;G dur;24;Tempo di Minuetto;A. Falckenhagen;;;;3/4;"([,,c{a}/] ,,a) (,,d ,,c) ,,a ,,,c | \
+V[,c{4}1] [,'a{5}2] | \
+([,,c{a}/] ,,a) [,,d{,,a}] (,,c ,,a) ,,,c | \
+{,,,a}/ ,,a (,,,c ,,,b) (,,,,c ,,,,a) | "
+;;;Concerto VI A.#.;;;;;;
+21;A dur;25;Larghetto;A. Falckenhagen;;;;3/4;",,,,,a/4 ,c ,,e ,c ""arpeggiato""[,ce,,a1] [,ce,,a] | \
+[,cc{a}1] [,cc{a}] [,cc{a}] | \
+[,aa{,a}1] [,aa{,a}] [,ac{a}] | \
+[,,ee,a1] [,,ee{6}] [,,cd{,,a}] | \
+[,aa{,a}1] [,aa{,a}] [,,ed{,,a}] | \
+[,,cb{,,,a}1] [,,cb{,,,a}] [,,a,c{4}] | "
+22;A dur;25;Allegro;A. Falckenhagen;;;;2/4;"""Solo""(e/4 d) | \
+[e{6}/] ,,a [,,a{5}] (e/4 d) | \
+[e{4}/] ,,a [,,a{5}] (e/4 d) | \
+[e{6}/] ,,a [e{5}] ,,a | \
+[e{4}/] ,,a ,,a ,c | \
+([,e{,,,a}/4] ,c ,a ,,e) [,a{,,,a}] (,,e ,,c ,,a) | "
+23;A dur;27;Tempo di Polonese;A. Falckenhagen;;;;3/4;"[,ce,,a1] [,ce,,a] [,ce,,a] | \
+[,ac{,,a}1] [,ac{,,a}] [,ac{,,a}] | \
+[,,ee,a1] [,ac{,,,a}] [,,cb{,,,a}] | \
+[,,cd{,,a}1] [,,cd{,,a}] [,,cd{,,a}] | \
+[,,ee,a1] [,,ee,a] [,,ee,a] | \
+[,,cd{,,a}1] [,,cd{,,a}] [,,cd{,,a}] | "
+24;A dur;28;Tempo di Minuetto;A. Falckenhagen;;;;3/4;",,,,,a/ ,,e ,c ,,e [e{,,,a}] ,e | \
+['d{,,a}1] {,,,a} [e{4}] | \
+{5}/ ,,,d ,,c ,,,d [,c{a}] ,,c | \
+[,,'e,,a1] {6} [,,c{,,a}] | \
+([,,e,,a/4] ,,c ,,a) [,a{a}1] {,,a} | "

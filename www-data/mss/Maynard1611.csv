@@ -1,0 +1,44 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1;;I;I. The Courtier;John Maynard;;OT;;C;"[,a,c1] [,ab] [,bc] [a,,a,a] | [a,,,,d1] [a,,,d/] ,,d [,a,,c/] [,a,b/] ,,,,c | \
+[aa,c/] ,,,a [a,,,,d] ,,,,c/4 ,,,,a a/ ,d [,b,,d] ,a/4 ,,d |"
+2;;II;II. The Deuine;John Maynard;;OT;;C;"[,abc2] [,a,,c1] [,aab/] ,,d [,abc] ,,,,,a | \
+[a,d,a/] ,,b/4 ,,a [a,bc/] ,,,,,a [a,,c,d] ,,,,,c/4 ,,,,,a [c,,bc3/2] a/ \
+[,da,c3/2] {a}/ [d,b,,d1] ,,,,a/ c/4 a [,ea,c1] {a} |"
+3;;III;III. The Souldiour;John Maynard;;OT;;C;"[,acc2] [,aab1] [,acc/] ,,,a [a,,,e] ,,,,a [a,cc] ,d [a,d] ,,,,a ,,,,e ,,,a | \
+[,,cc/] ,,,,,a ,,,,,e ,,,,a [,aa,c] {a} {d} [,c,,,a/4] ,a |"
+4;;IV;IV. The Lawyer;John Maynard;;OT;;C;"[,a,,c{a}2] [,aaa3/2] ,,,c/ [,afe1] ,,e/ ,,,c [ca,b] ,,d [aabc] ,,d | \
+[,ea,c2] c1 ,,,,b/ a [,dac1] {a}/ ,c/4 ,a [,cee,c1] ,,,e |"
+5;;V;V. The Physition;John Maynard;;OT;;C;"[aabc2] [dabc1] [aa,c/] ,c | [,ef,c3/2] ,,,,a/4 ,,,,,d [,daa,c/] ,,,c ,,a ,,,b | \
+[aab,,a/] ,,,,,c [aab,,d] [cc,,a/4] a [hef{a}3/2] [f,d/4] d |"
+6;;VI;VI. The Marchant;John Maynard;;OT;;C;"[aa,c1] ,,,,,a [,da,c/] [,,bcd/4] ,,d [caa,c/] ,,d | \
+[,abc/] ,,d ,a ,c [caa,c2] | \
+{a}1 [caa,c] [cca,b/] ,,,c [c,,a] [a,,c/4] ,d |"
+7;;VII;VII. The Countrey Gentleman;John Maynard;;OT;;3;"[,acc/] [,aab] ,,,,c [aa,c,a] | [a,,,e/] ,,,,a [aa,c] [,ef,c] ,a [ea,c] | \
+[,ef,c1] {a}/ [cc,e1] ,e/ [ha,,,a1] a/ ,,,,c3/4 ,f/4 ,e/ |"
+8;;VIII;VIII. The Batchelar;John Maynard;;OT;;C;",,,,,a/ a [ef3/4] f/4 [he/] ,a [aa,c] ,,,,,a/4 ,,,,,c | \
+[a,,,,e/] ,,,,,a/4 ,d [,c,,a/] [,a,,,e] | \
+[,c,e,c/] ,e [af,,,a1] [af{a}] ,e/ ,,d [aaccca2] |"
+9;;IX;IX. The Marryed man;John Maynard;;OT;;C;"[ha{a}1] c/ [da,c] | [ca,b/] ,,d [aabc] ,c | [,ea,c/] ,,,,e ,,,b [aa,c] | \
+[,ea,c/] ,,,,a [,ab,,d] [aab,,a] [ca,,c2] {a}1 [aabc] |"
+10;;X;X. The Wife;John Maynard;;OT;;C;"[aabcca3/2] ,,d/ [ca,,c3/2] ,,,,a/ | \
+[da,,,d/] [,,d,,c] [aab,,a] ,c [,ef,c3/4] ,f/4 \
+,e/ ,c [,ef] ,,,,c [dd,,,d1] |"
+11;;XI;XI. The Widdow;John Maynard;;OT;;C;"[aabcca3/2] ,d/4 ,b ,a1 ,,,c/ ,c [,ef{a}] ,f ,,d ,e [aaccca2] | \
+[abbcd3] ,,,,c1 [abd,a/] ,d a c [dab,,d3/2] c/4 a"
+12;;XII;XII. The Maide;John Maynard;;OT;;C;"[aabc1] ,,,,,a2 [,a,c/] ,c | [,e,,c/] ,f ,,d ,c [,abc] ,,,a [,,bcd] [,,d,a] | \
+[aacc1] [i,,h] [h,,,,a/] f d a |"
+13;;XIII;XIII. A Pauin;John Maynard;G2v;OT;;C;"[,aaacc{a}3/4] ,c/4 ,d/ a [caaa{a}3/4] {c}/4 {d}/ [a,,,,a/4] ,d | \
+[ccee,c3/4] d/4 f/ c [hd,f,d3/4] ,,,,a/4 ,,,,c/ [f,,,e/4] d |"
+14;;XIV;XIIII. A Galliard to the Pauin;John Maynard;H1v;OT;;3;"[,aa,c3/4] ,c/4 ,d/ a [ccee] ,,,,,c | \
+[,aaa{a}3/4] {c}/4 {a}/ ,,,,,a [,,ee] ,,,,,c | \
+[cdda3/4] d/4 f/ {d} [da,c] ,,,,,a |"
+15;;XIVa;AN Almond to both;John Maynard;H2r;OT;;C;"[caa{a}3/4] a/4 ,e/ ,a | [,ea{a}3/4] [,c,c/4] [,a,b/] ,,,,c | \
+[,aa3/4] ,,,,a/4 [,a,,,e/] [,c,,,c/4] ,e | \
+[aa,c,a3/4] c/4 e/ c/4 a |"
+16;;XV;XV. A Pauin in cordes avalée;John Maynard;H2v;OT;;C;"[bdda1] ,,,,,a/4 d/8 b a/4 ,d [acdca1] {a}/4 a b d | \
+[fg,d1] ,,,,,d/4 g/8 f d/4 ,g [dfg,d1] {d}/4 d f h |"
+17;;XVI;XVI. THe Galliard to the Pauin before;John Maynard;J1v;OT;;3;"[bdda1] ,,,,,a/ d/4 b a/ ,d | ,,,,a/ [acd] ,,,c ,,,,a {a}1 | \
+[fg,d1] ,,,,,d/ g/4 f d/ ,g | ,,,,d/ [dfg] ,,,f ,,,,d {d}1 |"
+18;;XVII;XVII. Adew / Here endeth the Lessons for the Lute and Base Violl.;John Maynard;J2v;OT;;C;"[,aaac2] [,aaa{d}1] [ac,,,a/] [,df] | [,cee,c2] [,,ee3/2] ,,,c/ | \
+[ca,a1] [,ce,e/] a [,da,c1] [,ca,b/] ,,,c | \
+[,aaaf3/2] ,,,,e/4 ,,,,c [,cee,c3/2] c/ |"

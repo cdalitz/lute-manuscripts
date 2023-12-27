@@ -1,0 +1,151 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1;B dur;1a;Preludium de R. (1);E.Reusner;cum Spinet - Violino - Violdigamb: et 2 Testud:;B d f a d' f';;C;"""allegro""[,aba,a3/2] ,b/ [a,,,a1] [c,,,b] | [e,,a1] \
+[f,,,a/] ,d [c,,,b1] ['a,,a/] ,b | [,ab,,a/] ,b [a,,,a1] \
+[,,b{a}] [,b,,,c] | [,baa1] ,,,,,a/ ,a [,a,c{,,a}1] \
+,,,,b/ ,,d | "
+2;B dur;6a;Gigue de R. (7);E.Reusner;;B d f a d' f';Conc_4277;3;"a1 | [aab,,a3/2] (c/ a) ,b | ,a1 ,,b [,a{,,,a}] | \
+[,,'d{,,a}3/2] ,,,f/ [,,a{,a}1] | [,,ba,a2] [a,,,a1] | \
+[c,,,b3/2] a/ [,b,,,c1] | [a,,,a2] [,a,,,a1] | \
+[,'bb{a}3/2] ,a/ [,,d{c}1] | "
+3;B dur;6a;Balletto de R. (8);E.Reusner;;B d f a d' f';Conc_4267;C;"a/ | [aab,,a1] {a}3/4 f/4 ['e{,a}3/4] f/4 h/ [a{,,,a}] | \
+[c{,,a}/] a ['a{,a}3/4] ,b/4 [,a,,,a/] ,,b [,,baa3/4] a/4 | \
+[aab,,a1] {a}3/4 f/4 ['e{,a}3/4] f/4 h/ c | "
+4;B dur;7a;Aria de R. (10);E.Reusner;;B d f a d' f';;C;",,b/ | [,,baaa1] {c}/ ,,d ,,,,,a ,a [,,'d{,,a}] ,,,f | \
+[,,a{,a}1] [,,,aVd2] {,,a}/ ,,,c | [,,aab1] ,,,,a/ ,,b \
+[,,'b,b{4}3/2] ,,a/ | [,,b,,a1] [,,baa2] ,/ ,,d/ | "
+5;B dur;7a;Cour. de R. (11);E.Reusner;;B d f a d' f';;3;",a/ | [,aba,a3/2] ,a/ [,,d{c}] ,a | [,,b{a}1] [,'b{4}3/2] \
+,a/ | [,,d{,a}1] [a,d{c}3/2] ,b/ | [,ab,,a3/2] a/ c e | \
+V[fa{a}3/2] f/ [a,,,a1] | [c,,,b1] ['a,aa3/2] ,b/ | "
+6;B dur;7a;Sarab. de R. (12);E.Reusner;;B d f a d' f';Conc_4276;3;"[aab,,a1] [,'b3/2] ,a/ | [,,d{c}3/2] ,a/ [,,b{a}1] | \
+{,,a}/ ,,,c ,,d ,a {,a} ,,b | [,,'ba3/2] ,,a/ V,,b1 :||: \
+,,,,,a/ a V[fa{a}3/2] e/ | [c,,,c3/2] c/ [e,,a1] | "
+7;F dur;13a;Sarab. de R.;E.Reusner;;;;3;"a1 | [,,#da,a3/2] ,,d/ | [,a{d}3/2] ,a/ [,aba1] | ,,,,,a/ \
+,,d [,ad,,b3/2] ,,d/ | [,,'b{a}3/2] ,,a/ [,,aaVd{,a}1] | \
+,,,a/ e ['aa,,a3/2] ,c/ | [,acc3/2] ,a/ [c{,,a}1] | "
+8;F dur;13a;Gigue de R.;E.Reusner;;;;3;"a/ | [aVd{,a}2] c1 | ,,,a1 e ,d | {4}1 c ,c | ,,d2 \
+[,,'b1] | ,,,e1 ,,d a | ,,,c1 ,c ,,b | ,c1 a {,a} | "
+9;g moll;17a;Ballett de R.;E.Reusner;;;;C;"[cabc3/2] ,,,,e/ e [fa{a}] [e{4}] c | ['c{,,,a}3/2] ,e/ \
+[c{a}1] ,a | [,b,,,d1] ,,,,,a/ ,,d [a,,,a] ,b [,ab{a}] {,a} | \
+[,,'d{,,a}3/2] ,a/ [,aab{,,,a}2] :| "
+10;g moll;17a;Aria de R.;E.Reusner;;;;3;"[,,,ca{a}2] ,,a1 | V[,,bc3/2] ,,d/ ,a1 | [,,d{4}1] \
+[,,'a3/2] ,,,c/ | [,,,b{,,,a}1] ,,,,a2 | [,abc{a}2] \
+,,,,,d/ ,b | [ab,,,a3/2] ,,d/ [,a,,,b1] | {,,a}/ ,,d \
+[,,'d{,a}3/2] ,,a/ | [,,baa{d}3] :| "
+11;g moll;18a;Allem. de R.;E.Reusner;;;;C;"c/ | [cabc{a}1] ,/4 c/4 ,e c [e,,,e/] ,a {,,,a}/4 (e c e) | \
+[f{a}/] ,a3/4 (f/4 e ,f) [a,,,a/] ,,b ,,,,,d/4 ,b ,,a a | "
+12;g moll;18a;Courant de R.;E.Reusner;;;;3;",a/ [,#c3/4] ,e/4 | c1 {a}/ e Vf1 | {,a}/ e {,,a} ,a c ,,d | \
+[a,,,a1] [,,#b3/2] a/ | ,,,,,d/ ,b ,,,,,a ,,d a ,b | \
+[,a,,,b1] ,,,c [,,d,,a/] ,,,b | "
+13;g moll;18a;Sarab. de R.;E.Reusner;;;;3;"{a}1 [,abc] c | ,,,,,a/ ,,d a ,b [,a,,,b1] | {,,,a}1 [,aba] \
+{,,a}/ ,,d | [,,'de{,a}3/2] ,,,f/4 ,,d ,,,f1 | ,,,,,b/ ,,d \
+,a ,,a ,,,c ,b | ,,,,,a/ ,,,c ,,d ,a ,,,b ,,a | "
+14;g moll;19a;Aria;E.Reusner;;;;C;"[,,bc{a}1] [,,'a3/4] ,,,c/4 [,,ab{,,,a}1] ,,,,a | [,,dc,a1] \
+[,a,b/] ,,a [,,'b{a}] ,,a ,,,c1 | [cc,,,d1] [e{,a}3/4] ,a/4 \
+[,,e{a}/] ,,a ,a a | [,'c,,,a3/2] ,a/ [,aab{,,,a}1] ,,,,a :| "
+15;g moll;19a;Gigue;E.Reusner;;;;3;"[,,bca{a}3/2] ,,d/ ,a1 | [,,,'c{4}3/2] ,,a/ [,,,b{,,,a}1] | \
+[,,,ca{a}2] c1 | [,a,,,b3/2] ,b/ a1 | [,,'d{,a}3/2] \
+,,,f/ ,,a1 | [,,ba{d}2] ,,,,a1 :| "
+16;g moll;19a;Aria de R.;E.Reusner;;;;C;",,b/ | [,,bc{a}1] ,,,,,a/ ,,d ,,,,,b ,a [,,d{4}] ,,b | \
+[,,'a{,,,a}3/2] ,,,c/ [,,,ca{a}3/2] ,a/ | V[,b,,,d3/4] ,a/4 \
+,,,,,a/ ,,d [,a,,,b] ,,a V[,,b{a}] {,a} | [,,'d{,,a}3/2] \
+,a/ [,aab{,,,a}3/2] :| "
+17;g moll;19a;Aria de R.;E.Reusner;;;;C;"V[,,b{a}2] ,,,c1 | [,a,,,b3/2] ,a/ ,,,,,a ,,d | {a}/ \
+,,b [,,'a{4}3/2] ,,,c/ | [,,a{,,,a}1] ,,,,a2 | \
+[,,,c{a}2] ,,a1 | V[,,bc3/2] ,,d/ [,a,,,b1] | \
+{a}/ ,c [,,'e,,a3/2] ,a/ | "
+18;G dur;20a;Courant de R. (4);E.Reusner;;;;3;",,,,e/ ,,,c3/4 ,,a/4 | {a}/ ,,c ,,,c ,,e ,a {,a} | \
+{,,a}/ ,c ,,,,c ,e c e | {,,,a}/ ,e ,,,,a c ,c ,,,,,d | \
+,,,,,c/ ,a ,,,,,a ,,d ,,,b1 | "
+19;G dur;20a;Sarab. de R. (6);E.Reusner;;;;3;"[,acc{a}1] [,'c{4}3/2] ,a/ | [,,#d,,a3/2] ,,c/ [,,dc{,,a}1] | \
+,,a/ ,a {,a} ,,d {a} ,,c | [,,'a,a3/2] ,,,b/ V,,,c1 | \
+,,,,c/ ,,,c ,,d ,,c ,,,,d ,,a | "
+20;G dur;20a;Canarie de R. (8);E.Reusner;;;Conc_3769;3;"[,,'c3/2] ,,a/ ,,,c1 | [,ac{a}3/2] ,a/ [,c,,,d1] | \
+V[,,d,,a3/2] {,,a}/ [,,de{,a}1] | {a}3/2 ,,c/ ,,,c1 | \
+[c,,,c3/2] ,,,,,c/ ,,,,,e1 | [ac,,a3/2] ,,,,c/ [,a,,Vd1] | \
+[,c{a}3/2] ,,f/ [,,'e,,a1] | [,aVf{,,,a}2] ,,,,a1 :| "
+21;G dur;21a;Aria de R. (7);E.Reusner;;;;C;"c/ | [,ac{a}1] ,,,,,d/ ,c ,,,,,a ,,d [,a,b] ,,a | \
+[,,c{a}1] ,,,c2 ,/ ,a/ | ,,,,c/ ,,,c ,,,,,a ,,d \
+[,,'c{a}3/2] ,,a/ | [,,aba{a}2] ,/ ,,,,c/ ,,,,e ,,a | "
+22;G dur;21a;Canarie de R.;E.Reusner;;;Conc_3769;3;"[,,'c3/2] ,,a/ ,,,c1 | [,ac{a}3/2] ,,,,,c/ [,c,,,d1] | \
+V[,,d,,a3/2] {,,a}/ [,,de{,a}1] | {a}3/2 ,,c/ ,,,c1 | \
+[c,,,c3/2] ,,,,,c/ [,c,,,e1] | [ac,,a3/2] ,,,,c/ [,a,,Vd1] | \
+[,'c{a}3/2] ,,f/ [,,e,,a1] | [,aVf{,,,a}2] ,,,,a1 :| "
+23;G dur;21a;Gigue de R. (3);E.Reusner;;;Conc_3770;3;"c3/2 ,e/ c1 | ,,c3/2 ,a/ [,cd1] | [,a,,e3/2] ,,,e/ ,,d1 | \
+,,,c3/2 ,,c/ {a}1 | {,a}3/2 ,,a/ [,,c,a1] | [,,,c{,,a}3/2] \
+(,,,,a/ ,,,,c1) | ,,,,,e3/2 ,,a/ [,,,cc1] | [,,,'ba2]"
+24;G dur;22a;Praeludium de R. (1);E.Reusner;Suitte Cum Spinet Violine, Cont: Violdigb: et 2 Testud:;;;C;"e3/2 ,c/ [aVd1] ,c/ ,a | ,,d/ ,a [,cde1] [,ac] ,,,d/ ,c | \
+[,,de3/2] ,,,,c/ [,,aaVd1] ,,,,a/ ,,c | [,,,dc1] ,,,,,d/ ,,a \
+[,,a,,'c3/2] ,,,d/ | "
+25;G dur;22a;Gigue de R. (G#);E.Reusner;;;Conc_3770;3;"c3/2 ,e/ c1 | ,,c3/2 ,a/ [,cd1] | [,a,,e3/2] ,,,e/ ,,d1 | \
+,,,c1 ,,c {a} | {,a}3/2 ,,a/ [,,c,a1] | [,,,c{,,a}3/2] \
+(,,,,a/ ,,,,c1) | ,,,,,e3/2 ,,a/ [,,,cc1] | [,,,'ba2]"
+26;a moll;23a;Sonatina de R. (2);E.Reusner;;;;3;"[,cde,a3/2] ,c/ [,cde1] | [,ccc3/2] ,c/ [,ccc1] | \
+{,a}/ ,c [,'aaa3/2] ,c/ | [,ccd{,,a}1] ,,,,c2 | \
+[,,de,a3/2] ,,d/ [,,dec1] | [,,dec{4}3/2] ,,d/ [,,dec1] | \
+{,,,a}/ ,,c [,,'c3/2] ,,a/ | [,,aVe,a2]"
+27;a moll;24a;Allem. de R. (3);E.Reusner;;;Conc_3785;C;",,a/ | [,,aVe1] ,,,,,a/4 ,,c ,,de ,a [,cd/] ,,c/4 ,a ,,,d \
+,c | ,,,e/4 ,,c ,,d ,,,,c V,,,,d ,,a [,,'caa3/8] ,,a/8 \
+[,,,dc/] {,,a}1 [,,,,'a/] | ,,,,,e/4 ,c ,,a ,c a c 'a ,c"
+28;a moll;24a;Cour. de R. (4);E.Reusner;;;Conc_3804;3;",,a/ | [,,aVe1] ,,,,,a/ ,,c ,,d ,a | V,c/ ,,,,,c ,,,,,d \
+,c [,'aa,a3/4] ,,d/4 | ,,,,c/ ,,c {,,a} ,,,e [,,,'d] ,,,,a | \
+,,,,,d/ ,,,,c ,,a ,,,,,a ,,,,,c ,,,d | ,,a1 ,,,,,a/ ,,c \
+V,,d ,a | "
+29;a moll;25a;Gavotte de R. (5);E.Reusner;;;Conc_3806;C;"[,,aVe1] ,,,,,a/ ,,c ,,d ,a {a} ,c | [,,a{,a}/] ,,d \
+[,,'c{,,,a}] ,,a [,,,d{,,a}1] ,,,,c | [,cde1] ,,,,,a/ ,c \
+a1 [,ccc] | [,'aaa3/2] ,c/ [,ccd{,,a}2] :| "
+30;a moll;25a;Sarab. de R. (6);E.Reusner;;;Conc_3805;3;",,a1 [,cc{6}3/2] ,,f/ | [,,'d,,a3/2] ,,c/ ,,,e1 | \
+[ec,a1] ,a/ h 'g ,h | [,'g{,,a}3/2] ,e/ ,c1 | [e,,,,e1] \
+'c3/2 ,c/ | [ac,,a3/2] ,a/ [,c,,c1] | "
+31;a moll;25a;Gavotte de R.;E.Reusner;;;;C;",c1 ,,,d [,,aVe] ,,,d/ ,,c | [,,de,a/] {a} {,a} ,a \
+[,cc1] ,,,,c | c1 [,,d,,a/] ,,c [,,a{,a}1] [,ad{,,a}] | \
+[,'a{a}3/2] ,,c/ V,,d1 {4} :| "
+32;a moll;26a;Gigue de R. (7);E.Reusner;;;;3;"e2 ,c1 | [aVd3/2] ,c/ ,a1 | ,,d3/2 ,a/ ,c1 | \
+,,,e2 [,,cd1] | [,,d,,a3/2] ,a/ ,,,,,c1 | [,c,,,d3/2] ,e/ \
+[da,,,c1] | [e,d,,a3/2] g/ ['e{,a}1] | [,g{,,a}2] ,,h1 | "
+33;a moll;26a;Aria de R. (8);E.Reusner;;;;C;"[,cde3/2] ,c/ [,aaaa] ,c ,a ,,d | [,,'c{,,a}3/2] ,,,d/ ,,a1 \
+,,,,,a/ ,,c | [,,de1] ,a/ ,,d {a} ,,c {,,a} ,c | \
+[,'ca{,a}3/2] ,a/ [,ccc{,,a}3/2] ,d/ | "
+34;a moll;26a;Cour. de R. (9);E.Reusner;;;;3;",,a/ | [,,aVe1] ,,,,,a/ ,,c ,,d ,a | [,ccc1] [,'aaa3/2] ,c/ | \
+[,ccd{,,a}1] ,,,,c2 | [ecd,,a1] ,,,,,c/ ,a c a | \
+[,c,,,d3/2] c/ [aa,,a1] | ,,,,c/ ,c ,,,a ,,a ,a ,,d | "
+35;a moll;26a;Sarab. de R. (10);E.Reusner;;;;3;"[,cde1] [,da,a3/2] ,c/ | [,acc3/2] ,a/ [c{,,a}1] | \
+[,,d,,a1] [,ad{,a}3/2] ,c/ | [,'a{a}3/2] ,,c/ V[,,d{4}1] :| \
+,,,,,d/ ,c ,,,,,c [,aa] ,,,d ,c | ,,,e/ ,,d ,,,,,a ,a ,,c {a} | "
+36;D dur;27a;Praelude de R.;E.Reusner;;;;C;"[,aVf3/2] ,,a/ ,,c1 [,,'a/] ,,,c | [,,,ba1] ,,,,,c/ ,,,c \
+[,,a{,a}1] {a}/ ,,c | [,,,b{,,,a}1] {,,a}/ ,,,c [,,a{,a}1] \
+{a}/ ,,c | [,,ee1] {,a}/ ,a [,'a{,,a}3/2] ,,e/ | \
+[,aVf{,,,a}3/2]"
+37;D dur;27a;Sarab. de R.;E.Reusner;;;;3;"[,aab{,,,a}3/2] ,a/ ,,a1 | V[,,cc{a}3/2] ,,c/ [,,cca1] | \
+[,,ac{,,a}/] ,e [,'cef3/2] ,a/ | [,afee{,,,a}3/2] ,a/ \
+[,afee1] | [,acb,c3/2] ,a/ [,acb1] | [,,ddc3/2] ,,d/ ,,,e ,,d | "
+38;D dur;29a;Gavotte de R.;E.Reusner;"""Sarab: 1 bl frueher""";;;C;"[,ea,a1] [,'c3/4] ,a/4 e1 ,,,,,e/ ,c | ,,,,,c/ ,a [,'c{,,a}] \
+,a [,,e,,a1] ,,,e | {,a}/ ,,a ,a1 {4}/ ,c ,e c | ,,,,a/ ,e \
+[,'c{a}] ,a [,cee,a2] :| "
+39;D dur;29a;Gigue de R.;E.Reusner;Cum Violdig.;;;3;",,a1 | [,aVf2] [,ca,,e1] | V[,e,,a2] [ce{a}1] | \
+[,'c,,,a3/2] ,a/ ,,e1 | [,aVf,a2] [,,a,e1] | ([,,c{a}1] \
+,,a) [,,,c{,,a}] | [,,a{,a}2] [,,,b{,,,a}] | [,,,cc3/2] \
+{4}/ ,,a1 | "
+40;D dur;30a;Courant;E.Reusner;Cum Violdigb:;;;3;",,a/ ,,c3/4 ,,e/4 | [,aVf{,,,a}3/2] ,,a/ ,,c ,,,c | \
+[,,,'b1] ,,,,a/ ,,,c {,a} ,,a | [,,,c{a}/] ,,,,e [,,,,'ca3/2] \
+,,,,,e/ | ,,,,a1 {,,,a}/ ,,,,c ,,,b ,,,,a | ,,a/ (,,,,,f \
+,,,,,e3/2) [,,'b/] | "
+41;D dur;30a;Sarab.;E.Reusner;;;;3;"[,aVf,a1] [,,ecc3/2] ,,c/ | [,,'a,e3/2] ,,,c/ [,,,ba1] | \
+{a}/ ,,c [,,a{,a}1] ,,,,a/ ,,c | [,,,'c,e{,,a}3/2] ,,,b/ \
+[,,,ba{,,,a}1] | [ba,,,c1] ['c{,,a}3/2] ,e/ | [,cc{6}3/2] \
+,a/ [,,e,,a1] | "
+42;D dur;30a;Praelud de R.;E.Reusner;Cum Violdigb.;;;C;"[,aVf3/2] ,c/ V,e1 [,'c/] ,a | [,,e,,a1] [,a{,a}/] ,,a \
+[,,cc{a}1] [,,acc{4}3/4] ,,,c/4 | [,,,b{,,,a}/] ,,,,a ,,,c \
+,,,,c [,,a,e1] ,,c/ {a} | ,,,,,a/ ,,e [,aVf] ,c [,'aa3/2]"
+43;D dur;30b;Cour. de R.;E.Reusner;;;;3;",,a/ | [,,aba3/2] ,,a/ ,,c ,,e | [,aVf1] {,a}/ ,,a ,,,,a1 | \
+[,,cc{a}1] ,,,,,a/ ,,c [,,'a] ,,,c | [,,,ba1] {,,,a}/ ,,e \
+,a ,c | ,e1 ['c{,,a}3/2] ,e/ | "
+44;D dur;30c;Sonatina de R.;E.Reusner;Cum Violdigamb.;;;C;"[,,aba3/2] ,,a/ [,,cc{a}1] [,,e,f{,,a}3/4] ,a/4 | \
+[,aVf{,,,a}3/2] [,a{,a}/4] ,,a {a}/ ,,c [,,acc{4}3/4] \
+,,,c/4 | [,,,b{,,,a}/] ,,,,a1 [e{,a}/4] ,,e [,a,,,c/] c \
+[,'c{,,a}3/4] ,a/4 | "
+45;D dur;30c;Gigue de Duffaut;F.Dufault;"""Hier zu Allem: et Gigue von Duffaut, die andern stehen das bl zuvor""";;;3;",,a1 | ,a1 ,,,,a/ ,,c [,,'a] ,,,c | [,,ac{,,,a}1] ,,,b ,,c | \
+{,,a}/ ,,,c {4} ,,,,c ,,a ,,,c | [,,,b{,,,a}1] ,,,,a ,,a | \
+,a1 ,,,,e [,c,c] | [,e,e1] ,,,,a/ c [ee1] | "
+46;D dur;30c;Allem. de Duffaut;F.Dufault;;;;C;",a/ | [,aa{,a}1] [,,'d3/4] ,,c/4 [,,cc{a}1] [,c,,,d3/4] \
+,,a/4 | [,,aca/4] ,a ,,d ,,c [,,'a{,,,a}3/4] ,,,b/4 ,,,c/ \
+{a}1 c/ | [ce{,,a}1] [,'c3/4] ,a/4 [,,ec,a1] [,aa,e3/4] ,c/4 | "

@@ -1,0 +1,485 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;deuNotes;Tuning;Concordances;TimeInz;Tab;TabNotation
+;;;Orgeltabulatur;Organ Tablature ;;;;;;;
+1;;2r;Cum Deo Applicatio;;;;Orgeltabulatur;;;;
+2;;2r;Pergamasca;;;;Orgeltabulatur;;;;
+3;;2v;Gavott;;;;Orgeltabulatur;;;;
+4;;2v;Champagnie;;;;Orgeltabulatur;;;;
+5;;2v;Saraband;;;;Orgeltabulatur;;;;
+6;;3v;Courant franz.;;;;Orgeltabulatur;;;;
+;;;Soli Deo Gloria Hamburg am 24 September Anno 1680;;;;;;;;
+7;;5v;Preludium;;;;Cithrinchen;;none;,,,,a/ ,,,a ,,a ,b a d i a d ,b a ,,a ,b ,,,a ,,a ,,,,a;french5tab
+8;;6r;1.te Ich libe du libest;;;;Cithrinchen;;3;",,a1 | [,,aaa3/2] ,,a/ ,,c1 | [,,cb3/2] ,a/ [,bc1] | \
+X[,da3/2] ,b/ ,a1 | [aba1] ,,,,a :||: a1 | X[a,,,a3/2] b/ a1 | \
+[,da1] ,d a |";french5tab
+9;;6r;2.te Englisch;;;;Cithrinchen;;C;"d/ b | a1 ,b ,,,,a b/ a | ,d1 ,a ,,a d/ b | a1 ,b ,d X,a | \
+[aba2] ,,,,a1 :||:";french5tab
+10;;6v;3.te Lustig zu felde mit Hunden;;;;Cithrinchen;;3;"a1 a ,b | d1 d ,d | Xa3/2 ,d/ ,b1 | X,a3/2 ,,c/ ,,a1 | \
+[,de1] ,d a | [,bc1] ,b [,bc] | Xb3/2 a/ ,d1 |";french5tab
+11;;6v;4.te Gavott;;;;Cithrinchen;;C;",,a1 ,b ,,a ,b | ,d/ a b d [aba1] ,,,,a | \
+a1 ,d/ ,b ,d1 d | X[cd3/2] d/ [daa2] :||:";french5tab
+12;;7r;5.te Gavott;;;;Cithrinchen;;C;"[aaaa1] a/ c ,e1 ,a | [ab1] [cd] [daa2] | \
+,d/ a ,d ,b ,a1 a | ,,c3/2 ,a/ [,,adc2] :||:";french5tab
+13;;7r;6.te Serraband;;;;Cithrinchen;;3;"[df1] d [df] | Xc3/2 a/ ,d1 | a1 ,d/ ,b ,a1 | X,,c3/2 ,,a/ ,,a1 | \
+[,ded3/2] ,d/ [,ded1] | [aba3/2] c/ d1 |";french5tab
+14;;7v;7te Damon lass das Trauren seyn;;;;Cithrinchen;;C;"[aaaa1] a/ c d1 ,d | [abaaa1] X,d/ ,b ,a1 ,,a | \
+[daa1] c/ a ,e1 a/ c | Xa3/2 ,.e/ [aaa2] :||:";french5tab
+15a;;7v;8te Schwartzes Mädgen meine Freude;;;;Cithrinchen;;C;"[aaaa1] ,e [aaaa] c | [da1] c/ a c1 ,a | [aaaa1] ,d X,b ,a | \
+X,,c3/2 ,,a/ [,,adc2] :||:";french5tab
+15b;;8r;9.te Proportion;;;;Cithrinchen;;3;"[aaaa2] ,e1 | [aaaa2] c1 | Xd3/2 c/ a1 | c2 ,a1 | a2 ,d1 | \
+,b2 ,a1 | X,,c3/2 ,,a/ ,,,e1 | [,,adc3] :||:";french5tab
+16;;8r;10te Boure Royal;;;;Cithrinchen;;C;"a/ | a1 ,a a/ ,e a c | d1 c a ,d/ ,b | \
+,a/ ,,c ,,a1 X,,c (,,a/ ,,c) | [,aadc3] :||:";french5tab
+17;;8v;11.te [sans titre];;;;Cithrinchen;;C;"a1 d c a | ,e1 a ,a a | Xa3/2 ,e/ [aaaa2] :||: \
+X,,a3/2 ,,c/ ,a1 ,a/ ,b | ,d1 ,d [,de2] |";french5tab
+18;;8v;12te. Die lieblichen blicke;;;;Cithrinchen;;3;"h1 | Xd3/2 c/ a1 | ,e1 ,a a | Xa3/2 c/ ,e1 | [aaaa2] ,a/ ,b | \
+[,de3/2] a/ ,d ,b | ,a1 ,,a ,d |";french5tab
+19;;9r;13.te Kom Amena meine Schöne;;;;Cithrinchen;;C;"[aba3/2] a/ [,de3/2] d/ | [,bc1] ,d/ ,b [,aa1] ,a | \
+[,bc1] [,aa] [,,cb/] ,a [,bc1] | \
+X[,ba3/2] ,a/ [aba1] ,,,,a :||:";french5tab
+20;;9v;14.te Feldstück;;;;Cithrinchen;;C;"a/ b | [dbaaa1] d d f | X[da3/2] b/ [aba1] a/ b | \
+""pian:""d1 d/ f X[ba3/2] a/ | [abaaa3] :||:";french5tab
+21;;9v;15te La Candery;;;;Cithrinchen;;3;"[aba3/2] ,d/ a1 | Xa3/2 ,d/ ,b1 | [df3/2] f/ d1 | \
+Xb2 a1 | d1 ,d a | b1 ,,c ,a | X,b3/2 ,d/ a1 | [,da3] :||:";french5tab
+22;;10r;16te Gavott;;;;Cithrinchen;;C;"d1 f/ h i1 d | Xd3/2 b/ [aba1] ,,,,a | a1 ,d/ ,b d1 d | \
+X[cd3/2] d/ [daa2] :||:";french5tab
+23;;10v;17.te Minuett od[er] Boßmans Danß;;;Johann Theil, Orontes (1678)?;Cithrinchen;;3;"d1 a/ b d b | [aba2] b1 | [,da2] b1 | a/ ,d a b [aba1] | \
+d1 a/ b d b | [aba2] b1 | [,da2] b1 | [abaaa3] |::|";french5tab
+24;;10v;18.te Boure;;;;Cithrinchen;;C;",,a/ | [,baaa3/2] ,a/ ,b3/2 ,d/ | Xa2 ,d3/2 d/ | [df3/2] f/ d3/2 b/ | Xa2 [,da3/2] :||: \
+d/ | [df3/2] f/ d3/2 b/ |";french5tab
+25;;11r;19.te Saraband;;;;Cithrinchen;;3;"[aba3/2] b/ d1 | Xd3/2 b/ a1 | ,d1 a ,b | X,a3/2 ,,c/ ,,a1 | \
+[aba3/2] b/ d1 | Xd3/2 b/ a/ |";french5tab
+26;;11v;20.te Gigue;;;;Cithrinchen;;3;",b3 | ,,a3 | ,,c3/2 ,,a/ ,,,b1 | X,,,a3/2 ,,,,c/ ,,,,a1 | \
+Xa3/2 ,d/ ,b1 | Xd3/2 b/ a1 | ,d1 a ,b | X,a3/2 ,,c/ ,,a1 :||:";french5tab
+27;;11v;21.te Englisch;;;;Cithrinchen;;C;"a/ b | d1 b/ d f1 d/ b | a1 ,b ,,,,a a | ,d1 ,a ,b ,d | \
+a1 ,b ,,,,a a/ b |";french5tab
+28;;12r;22.te Minuett;;;;Cithrinchen;;3;",b1 d a | [aba2] ,d1 | Xa3/2 ,d/ ,b1 | [daa3] | ,b1 d a | \
+[aba2] ,d1 | a/ b a ,d ,b1 | [daa3] :||:";french5tab
+29;;12v;23.te Gavott;;;;Cithrinchen;;C;",a/ ,b ,d1 ,a ,,a | [,bc1] [,de] [abaaa3/2] b/ | \
+d/ f d b a1 d | Xb3/2 a/ [,da2] |";french5tab
+30;;13r;24.te Englisch Gique;;;;Cithrinchen;;3;",,a1 | ,b2 ,b1 | ,b2 ,d1 | a2 ,d1 | ,b2 ,d1 | a2 ,d1 | \
+Xa3/2 c/ d1 | d3/2 f/ c1 | [daa2] d1 |";french5tab
+31;;13v;25.te La Contes;;;;Cithrinchen;;3;"d1 ,b2 | [,aa2] ,b1 | ,d1 a b | Xa2 ,d1 | d1 ,b ,d | \
+,a1 ,,a ,b | ,d3/2 a/ b1 | [abaaa3] :||:";french5tab
+32;;13v;26.te Gavott;;;;Cithrinchen;;C;",,a1 ,,a [,,aa] ,,c/ ,a | ,b1 ,b/ ,d a ,d ,b1 | \
+d1 f/ h i1 h | Xf3/2 d/ [daa2] :||:";french5tab
+33;;14r;27.te Saraband;;;;Cithrinchen;;3;"[aba3/2] b/ d1 | [,de3/2] a/ b1 | [,,cb3/2] ,a/ ,b1 | \
+X[,ba3/2] ,a/ [aba1] | [da3/2] b/ a1 | f3/2 d/ b a |";french5tab
+34;;14v;28te Saraband;;;;Cithrinchen;;3;"d1 | [df3/2] b/ a1 | Xa3/2 ,d/ ,b1 | [,aa2] ,b1 | \
+[,da2] d1 | [df3/2] b/ a1 | b3/2 d/ a1 | X,d3/2 ,b/ [aba1] :||:";french5tab
+35;;15r;29.te Brandel Nicolai;;;;Cithrinchen;;C;",b1 ,,a ,b ,b/ ,d | a1 ,b ,,,,a a/ b | d1 d ,d/ a b d | \
+a1 ,b ,,,,a2 :||:";french5tab
+36;;15r;30.te Klapper Tantz;;;;Cithrinchen;;C;",,a1 ,,c/ ,a ,b1 ,a/ ,b | ,d1 ,b/ ,d a1 [,b,,a] | \
+a/ b d1 d b/ a | ,d/ a b d [aba1] ,,,,a :||:";french5tab
+37;;15v;31te Es sey dir nun Amor;;;;Cithrinchen;;6/4;"b1 Xa3/2 ,d/ ,b1 | [da1] d [,de] | X[a,,,a3/2] ,d/ [,bc1] | \
+,a1 ,,a ,a | [,,cba3/2] ,a/ b1 | [,aa1] ,a [,bc] |";french5tab
+38;;15v;32te Saraband;;;Johann Theil, Orontes (1678)?;Cithrinchen;;3;"[aba3/2] ,d/ a1 | [a,,,a3/2] ,d/ ,b1 | [df3] | i3 | [aba1] b d | \
+X[d,,,a3/2] b/ a1 | [,da3/2] ,b/ ,a ,b | [,da2] :||:";french5tab
+39;;16r;33.te Myor;;;;Cithrinchen;;C;"[df2] f1 h | i2 d1 f | d1 a b d | ,b/ ,a ,b ,d [aba1] ,,,,a | \
+[df2] f1 h |";french5tab
+40;;16v;34.te Saraband;;;;Cithrinchen;;3;"a1 | [aba3/2] b/ d1 | f1 Xb3/2 a/ | [aba3] | ,d1 a ,b | \
+X,a3/2 ,b/ ,d ,b | ,a1 X,,c3/2 ,,a/ | [,aadc2] :||:";french5tab
+41;;16v;35.te Gavott;;;;Cithrinchen;;C;",b1 ,a/ ,,c ,,a1 ,b | ,d/ ,a b d [aba1] ,,,,a | \
+d1 b/ a ,d1 a | Xb3/2 ,a/ [,aa2] :||:";french5tab
+42;;17r;36te. Sarab:;;;;Cithrinchen;;3;",b1 a d | ,a1 ,d b | ,,c1 ,a ,b | X,b3/2 ,a/ ,b1 | \
+a1 ,a ,d | ,b1 a ,,c |";french5tab
+43;;17v;37te Englisch Nachtigahl;;;;Cithrinchen;;C;"X[aba3/2] ,d/4 a ,b1 d/ b | [aba2] ,,,,a1 ,b/ ,d | \
+[aba1] [,bc] [ab] X[cd] | [daa2] ,,a1 a/ b |";french5tab
+44;;18r;38te [sans titre];;;;Cithrinchen;;C;",,a/ ,,a | [aba3/2] ,b/ ,d a b d | [aba1] ,d/ a [bd1] ,,c | \
+,a1 ,b X,b3/2 ,a/ | [aba2] ,,,,a1 :||:";french5tab
+45;;18v;39te Bähren und Affen Tantz;;;;Cithrinchen;;C;",,c1 ,a [,bc] ,,c | [,bc1] [,da] [abaaa] ,,,,a3/4 d/4 | \
+f1 d b a | ,d1 a/ ,d X,b3/4 ,a/4 ,,c1 :||:";french5tab
+46;;18v;40.te Gavott;;;;Cithrinchen;;C;"f1 f Xd a | b1 a/ ,d [aba3/2] ,d/ | ,b1 ,,c ,d/ a [,bc1] | \
+X,a3/2 ,,c/ ,,c2 :||:";french5tab
+47;;19r;41.te Saraband;;;;Cithrinchen;;3;"f1 a d | X[,bc3/2] ,d/ a1 | ,d1 a ,b | X,a3/2 ,,c/ ,,c1 | \
+[df3/2] f/ d b | [aba3/2] b/ d1 |";french5tab
+48a;;19r;42.te [sans titre];;Verte der Tripel;;Cithrinchen;;C;",,c/ ,a ,b ,d [aba1] a | a1 ,d/ ,b ,a1 ,,c/ ,a | \
+[,bc1] ,b ,d/ a b d | [aba1] a [aba2] :||:";french5tab
+48b;;19v;43te Tripel;;;;Cithrinchen;;3;"a/ ,d ,b ,a ,,c1 | X,,c3/2 ,,b/ ,,c1 | ,b1 ,,c ,b | \
+X,b3/2 ,a/ [aba1] | a1 b d | Xb3/2 d/ a ,d |";french5tab
+49;;19v;44.te Boure;;;;Cithrinchen;;C;",,c1 | [,bc2] X,d | [aba3/2] b/ a3/2 ,,c/ | [,bc2] X,d | \
+[aba3] :||: a1 | a3/2 ,d/ X,b3/2 ,a/ | ,,c3/2 ,,b/ ,,c3/2 ,a/ |";french5tab
+50;;20r;45.te Minuet;;;;Cithrinchen;;3;",b1 ,b ,b | [,da3/2] ,d/ a1 | a1 ,d a | X,b3/2 ,a/ ,,c1 | \
+,b1 ,b ,b | [,da3/2] ,d/ a1 |";french5tab
+51;;20r;46.te Mein Hertz ich muß;;;;Cithrinchen;;C;",,c1 | X,,c1 ,,b ,,c ,a | [abaaa3] (,a/ ,b) | [,da1] a X[,bc3/2] ,a/ | [aaba3] :||: \
+(,a/ ,b) | [,da1] ,d ,d a |";french5tab
+52;;20v;47te Proselis mein Ander ich;;;;Cithrinchen;;C;",,c/ ,a | [,bc1] ,,c [ab] f | [ef3] i/ h | \
+[fg1] [df] Xb3/2 a/ | b1 [,ded2] d/ b | \
+[aba1] [ab] X,d3/2 ,b/ |";french5tab
+53;;20v;48.te Henßelin;;;;Cithrinchen;;3;"X,b3/2 ,a/ ,,c1 | X,b3/2 ,a/ ,,c1 | ,d1 a ,b | X,a3/2 ,,c/ ,,c1 :||: \
+[ab1] b d | Xd3/2 b/ [ab1] |";french5tab
+54;;21r;49.te [sans titre];;;;Cithrinchen;;C;",d1 f [fg3/2] f/ | d/ f d b [acc3/2] b/ | d1 f a b | \
+Xa3/2 ,d/ [,dcc2] :||:";french5tab
+55;;21r;50.te Courant simpel;;;;Cithrinchen;;3;",d1 | ,d3/2 a/ b1 | ,d1 f f | [fgf3] | [ac1] b d | \
+Xb3/2 a/ ,d1 | d1 Xb3/2 a/ | [acc3] :||:";french5tab
+56;;21v;51.te Wie ist die Libe doch so beschreit;Johann Theil;;Johann Theil, Orontes (1678);Cithrinchen;;3;"f/ d b ,d a/4 b d/ | X[ba3/2] a/ [acc1] | b1 [,dd3/2] d/ | \
+[fcc3] | f/ d b ,d a/4 b d/ |";french5tab
+57;;21v;52te Wacker lütige dehrens;;;;Cithrinchen;;3;",d3/2 a/ b | Xa3/2 ,d/ ,c1 | [,dc3/2] a/ b d | [fgf3] | \
+f3/2 d/ b1 | Xa2 ,d1 | ,c1 ,,c ,a |";french5tab
+58a;;22r;53.te Polsch: Tantz;;;;Cithrinchen;;C;"[df,a3/2] d/ [ca1] f | [d,,a1] c/ a ,e1 ,a | \
+a/ c d f Xc1 a | ,e1 ,a [,aadc2] :||:";french5tab
+58b;;22r;54.te Prop.;;;;Cithrinchen;;3;"d1 d [ca2] f | d1 c/ a ,e2 ,a | a1 d Xc2 a | ,e1 ,c [aadc2] :||: \
+,a1 ,a ,,c2 ,b |";french5tab
+59a;;22v;55.te Polsch: Tantz;;;;Cithrinchen;;C;"e3/2 e/ Xc3/2 ,e/ | [af2] ,,,a1 e | Xc3/2 a/ ,e1 ,c | \
+X,a3/2 ,c/ ,e1 a | c1 f Xe3/2 c/ | [ca4] :||:";french5tab
+59b;;22v;56.te Prop.;;;;Cithrinchen;;3;"e1 e Xc2 ,e | a1 ,e [af2] e | c1 a ,e2 ,c | ,a1 ,c ,e2 a | \
+c1 f Xe3 a1 | cf2 [ca4] :||:";french5tab
+60;;23r;57.te Undt wens nicht will, so;;;;Cithrinchen;;3;"a/4 c d/ | [da3/2] f/ d1 | Xc3/2 a/ ,d1 | Xa3/2 ,d/ ,b1 | \
+[,aba2] [,da1] | [abaaa2] [,da1] | X[,bc3/2] ,d/ ,a1 |";french5tab
+61;;23r;58.te Saraband;;;;Cithrinchen;;3;",d1 ,,c ,d | X,b3/2 ,,d/ ,,c1 | f1 ,c ,d | X,d3/2 ,c/ ,d1 | \
+[acc1] a f/ d | X[bd3/2] b/ a1 |";french5tab
+62;;23v;59. Was hilfft mir deine Treu;;;;Cithrinchen;;C;"a/ | f/ d [daa3/4] b/4 a/ [abaaa1] ,d/ | ,,b/ a ,b3/4 ,a/4 ,b/ ,,c1 a/ | \
+b/4 a ,d/ d/4 c d f d/ ,,a1 ,a/ |";french5tab
+63;;23v;60. Hastu jemand lieber alß mich;;;;Cithrinchen;;C;"[aba3/2] ,b/4 ,d Xa1 ,b | d/ f d b [aba1] ,,,,a | \
+d/ f h i d Xd3/2 b/ | [aba2] ,,,,a1 :||:";french5tab
+64;;24r;61. Gavott;;;;Cithrinchen;;C;",,a1 ,b a/ b d1 | ,d/ a b d a ,b ,,,,a1 | \
+a1 ,d/ ,b ,a ,,c ,,a d |";french5tab
+65;;24r;62. Canarie les nations;;Verte Zde: Repetit.;;Cithrinchen;;3;"[df3/2] c/ d1 | [ab3/2] b/ d1 | ,d1 a ,b | X,a3/2 ,,c/ ,,a1 | \
+X,b3/2 ,a/ ,,c1 | [bd3/2] d/ f1 |";french5tab
+66;;24v;63. Opra Dantz Leberger;;;;Cithrinchen;;C;",b1 ,d a/ ,d ,b1 | Xa3/2 b/ d1 d | f1 a b d/ b | \
+Xa3/2 ,d/ [,da2] :||:";french5tab
+67a;;25r;64. Englisch Danß;;;;Cithrinchen;;C;",,c1 | ,,c3/4 ,a/4 ,,c1 ,,b3/4 ,,,c/4 ,,,a1 | \
+[,bc2] ,a1 a | a3/4 b/4 a1 ,d ,b | [dba2] [aba1] b |";french5tab
+67b;;25r;65. Proport:;;;;Cithrinchen;;3;",,c1 | ,,c3/2 ,a/ ,,c1 | ,,b3/2 ,,,c/ ,,,a1 | [,bc3] | \
+[aaba2] a1 | [aba3/2] b/ a1 | X,d3/2 ,b/ ,a1 | [dba3] | \
+[aba2] b1 |";french5tab
+68;;25v;66. Englisch Danß Bufco:;;;;Cithrinchen;;C;",b2 ,,,a | ,,,,c2 X,a3/2 ,,c/4 ,a | ,b3/2 ,,a/ ,,a3/2 ,,,b/ | \
+X,,,a3/2 ,,,,c/ ,,,,a2 :||: ,b3/4 ,a/4 ,b1 ,,c3/4 ,a/4 ,b1 |";french5tab
+69;;25v;67. Galliard [sic!];;;;Cithrinchen;;C;"a1 | [aaaa2] [,ee] | [aaaa3/2] c/ d3/2 f/ | [cda2] a1 | \
+,d3/2 ,a/ [,bc3/2] ,,c/ | ,d/ ,b ,a1 X,,c3/2 ,,a/ | \
+[,aadc3] :||:";french5tab
+70;;26r;68. Ich libe du libest;;;;Cithrinchen;;3;",,a1 | [,,aaa3/2] ,,c/ ,,a1 | [,,cba3/2] [,aa/] [,bc1] | \
+X[da3/2] ,b/ ,a1 | [aba1] ,,,,a || ,,a1 | \
+,,a/ ,,,b ,,,a ,,a ,b ,a |";french5tab
+71;;26v;69. Englisch Tantz;;;;Cithrinchen;;C;",d3/2 ,d/ ,d3/2 ,d/ | [,de2] [,aa] | ,b/ ,d a1 ,d ,b | \
+[dba2] [aba] | ,d3/2 a/ c3/2 c/ | h2 ,a |";french5tab
+72;;26v;70. Opera Menuet;;;;Cithrinchen;;3;"[,baaa3/2] ,a/ ,,c1 | ,a1 ,,a [,bc] | X[,ba3/2] ,d/ ,a1 | \
+[aba2] ,,,,a1 || [,baaa1] ,d/ ,b ,a ,,c | ,a1 ,,a [,bc] |";french5tab
+73a;;27r;71. Opera Schlaven Danß;;;"?From ""Don Pedro oder die abgestraffte Eyffersucht, in einem Singe-Spiel vorgestellt"" (Music: Johann Wolffgang Franck, 1679)";Cithrinchen;;C;"[,baaa3/4] a/4 ,d3/4 ,b/4 [da1] d | [da3/4] ,b/4 ,a3/4 ,b/4 X,,c1 ,,a | \
+[da1] ,d3/4 a/4 [bd1] [ab] | \
+[,de3/4] a/4 [,bc3/4] ,d/4 X[,aa1] ,b |";french5tab
+73b;;27v;72. Variat:;;;;Cithrinchen;;3;"d/ a [,b,,a] a ,d ,b | [,da/] ,b ,a ,,c ,,a ,a | \
+[,,cb/] ,,a ,,c ,a ,b ,d |";french5tab
+74;;28r;73. Gigue;;;;Cithrinchen;;C;",b3/4 ,,a/4 ,,c3/4 ,a/4 ,b3/4 ,d/4 a3/4 b/4 | \
+d3/4 a/4 f3/4 d/4 Xb3/4 a/4 [abaaa1] |";french5tab
+75;;28r;74. Ach Philis mein außer[wählter];;Verte Zde Repetit.;;Cithrinchen;;C;",b/ ,d | a/ b d3/2 f/ d1 | Xb3/2 a/ b1 d | \
+X,d3/2 ,a/ ,b ,d [,ded1] | ,d1 [abaa] c/ d f1 |";french5tab
+76;;28v;75. Pargemas;;;;Cithrinchen;Conc_45;C;[df1] d [fg] f | d/ f d b [aba1] ,,,,a | a/ b d a b a ,d ,b |;french5tab
+77;;29r;76. Nun schläfft Sie schon;;;;Cithrinchen;;C;",b/ | [abaaa3] d1 | [df2] a/ b d1 | [fg1] f Xd3/2 b/ | \
+[aba2] ,,,,a1 a/ b | [df1] d Xb3/2 a/ |";french5tab
+78;;29r;77.te Verzeihe mir Clorinde;;;;Cithrinchen;;C;",b1 | [,baaa1] [,,aa] [,,cb] [,a,a] | [aba1] ,,,,a2 ,,c1 | \
+X,d3/2 ,b/ X,a3/2 ,,c/ | ,,a1 [,,adc2] d1 | [bd1] b [aba] a |";french5tab
+79;;29v;78.te Leberger Danß, Schäfer und Schäferin ex Opra.;;;;Cithrinchen;;C;"[,baaa1] ,d a/ ,d ,b1 | X[a,,,a3/2] b/ d1 d | \
+[fgf1] a [bd] d/ b | X[ab3/2] ,d/ [,da2] | \
+[,baaa1] ,d a/ ,d ,b1 |";french5tab
+80;;30r;79: fragstu noch warumb ich;;;;Cithrinchen;;C;",b1 ,b/ ,d [aba1] ,d/ a | X,d3/2 ,b/ [aba1] ,,,,a | \
+[df1] [df] [fg] [df] | Xb3/2 a/ [aba1] ,,,,a |";french5tab
+81;;30v;80. Englisch Tantz;;;;Cithrinchen;;C;"d1 | a/ ,d ,b1 ,a/ ,,c ,,a1 | ,,c/ ,a ,b1 ,a/ ,b ,d1 | \
+[aba] ,,,,a2 || a1 | a/ ,d ,b1 ,a/ ,,c ,,a1 |";french5tab
+82;;30v;81te Neulich kam ich zu Roselsgen;;;;Cithrinchen;;C;",b1 ,b a d | Xb1 a/ ,d a1 ,b | a1 a/ b ,d1 a | \
+Xb1 a/ ,d Xa1 ,b |";french5tab
+83;;31r;82. Gavott;;;;Cithrinchen;;C;",,a1 ,b X,a3/2 ,b/ | ,d/ a b d X[,da1] [aba] | \
+d1 b/ a ,d1 e/ f | X[cd3/2] d/ [daa2] :||:";french5tab
+84;;31r;83. Saraband;;;;Cithrinchen;;3;"d1 i d | f1 d/ b a1 | b1 ,d d | a1 ,b2 | \
+d1 i d | f1 d/ b a1 |";french5tab
+85;;31v;84. Bin ich den nur allein dazu;;;;Cithrinchen;;C;",,a1 | [,baaa3/2] ,d/ Xa3/2 d/ | [,bc/] ,d X[da3/4] ,b/4 [,baaa3/2] ,b/ | \
+X,a3/2 ,b/ [,da3/2] ,,a/ | \
+,,c/ ,a X,,c3/4 ,,a/4 [,aadc3/2] ,,a/ |";french5tab
+86;;32r;85. Amena Erlaub mir im Garten;;;;Cithrinchen;;3;"d1 | [aba1] ,b d | d1 ,d3/2 a/ | X,b3/2 ,a/ ,b1 | [,da2] ,d/ a | \
+[bd1] Xb3/2 a/ | [ab1] c d |";french5tab
+87;;32r;Preludium;;Verte Cit: Allemand;;Cithrinchen;;C;",,,a/ ,,a/4 ,a a c d f h c d a c ,e a ,a ,b ,,c \
+,a ,,a ,,c ,a ,,,a ||";french5tab
+88;;32v;86. Allemand;;;;Cithrinchen;;C;"a/ | [aaa3/2] ,a/ ,,c ,a X,,a3/4 ,,,c/4 | \
+,,,a3/2 h/ f h Xd3/4 c/4 | [ca3/2] c/ d a ,d ,b |";french5tab
+89;;33r;87. Gavott;;;;Cithrinchen;;C;"[aaaa1] a/ c ,e1 ,a | [aaaa1] a/ c [daa2] | \
+,c/ a ,d ,b ,a1 a | X,,c3/2 ,,a/ ,,a2 :||:";french5tab
+90;;33r;88. Serraband;;;;Cithrinchen;;3;",a1 ,a a | X,d3/2 ,b/ ,a1 | ,b1 ,d ,a | X,,c3/2 ,,a/ ,,a1 | \
+,a1 ,c ,d | a3/2 c/ d1 | f1 Xd3/2 c/ |";french5tab
+91;;33v;89. Allamanda;;;;Cithrinchen;;C;"a/ | [aaaa3/2] h/ [hi3/2] f/ | [df/] f Xc3/4 a/4 ,e1 ,a/ ,,c | \
+,,a/ a ,,,c ,e [aaaa3/2] c/ |";french5tab
+92;;34r;90. Courant;;Verte Allamande;;Cithrinchen;;3;"a1 | [aaaa3/2] c/ d1 | f1 Xc3/2 a/ | [,ee3] | ,a1 ,,c ,a | \
+X,,a3/2 ,,,c/ ,,,a1 | ,f1 X,d3/2 ,b/ | [,aa3] |";french5tab
+93;;34v;91. Allemande;;;;Cithrinchen;;C;"[,baaa3/2] ,b/ [,da] a b d | a/ ,b ,,a ,,,a ,,,,a1 ,b/ ,d | \
+a/ b d ,a ,,c d X[cd3/4] d/4 |";french5tab
+94;;35r;92. Allemand P.P. Hopp;;;;Cithrinchen;;C;",b3/4 ,b/4 | [,baaa1] X[,da/] ,b/4 ,d [abaaa3/2] [bd/] | \
+[df/] [fg] [bd] [ab] X[,da3/4] ,b/4 [,baaa1] | \
+[abaaa3/4] c/4 [da/] [,bc] X[,aa3/4] ,,c/4 ,,a/ d |";french5tab
+95;;35v;93. Courant;;;;Cithrinchen;;3;",b3/4 ,b/4 | [,baaa3/2] ,b/ ,a ,,c | X,,a1 ,,,a [,,cb] | \
+[,,aa1] X[,,,bc3/2] ,,,a/ | [,,,aa2] ,,,a1 | \
+[,,,bc3/2] ,,a/ ,,c ,a | [,bc3/2] ,d/ [ab1] |";french5tab
+96;;36r;94. Saraband;;;;Cithrinchen;;3;"[dbaaa1] [ab] [,bc] | X[,aa3/2] [,,cb/] [,,aa1] | \
+[,,cb1] ,,c/ ,a [,bc1] | [,ba3/2] ,a/ [,baaa1] | \
+[,ded1] ,d X[,aa] | [abaaa1] a/ ,d (,b ,a) |";french5tab
+97;;36r;[sans titre];;;;Cithrinchen;;C;"a/ ,d | X,b1 ,a [,bc] ,d | [,aba2] y1 a1 | ,,c1 ,d [,ab] ,a | \
+,b2 ,,c | a1 [bd3/2] b/ Xb3/2 a/ |";french5tab
+98;;36v;95. Allamanda;;;;Cithrinchen;;C;"d/ | [dba3/2] b/ a ,,,,a ,,,a a | X,d3/2 ,b/ [aba2] | \
+,,,,a/ d f h i ,b ,d a |";french5tab
+99;;37r;96. Allemand;;Verte Courant;;Cithrinchen;;C;"b/ | [bbc3/2] d/ f3/4 b/4 Xa3/4 ,d/4 | ([,bc3/2] ,d/) [,,dd3/2] ,,c/4 (,,d ,,a/) ,b | \
+,,c1 ,,,b/ f Xb (a/4 b) ,d/ d |";french5tab
+100;;37v;97. Courant;;;;Cithrinchen;;3;"b/ | [bbc3/2] (b/ a ,d) | ,b1 ,,c ,d | [,dd1] X[baa3/2] ,,d/ | \
+[,,cb3/2] d/ b a | ,d1 Xd3/2 b/ |";french5tab
+101;;38r;98.te Saraband;;;;Cithrinchen;;3;",b1 [,,cb3/2] ,,d/ | X[,baa3/2] ,,d/ [,,cb1] | \
+b1 [dd] (d/ b) | Xb3/2 a/ [bbc1] | ,d1 X[da3/2] b/ | \
+X[ab3/2] (,d/ ,b ,a) |";french5tab
+102;;38r;Preludium;;;;Cithrinchen;;C;"z/4 ,,,,a/4 ,,,,c ,,,a ,,,b ,,a ,,c ,a ,b ,,,a ,,,b ,,a ,,c ,a ,b ,d | \
+a/4 ,,a ,,c ,a ,b ,d a b";french5tab
+103;;38v;99.te Saraband;;;;Cithrinchen;;3;",b1 | [dbaaa3/2] f/ d1 | [dff2] ,b1 | ""pian""[df3/2] f/ d1 | \
+[dff2] a1 | [bd3/2] d/ f1 | [fgf3/2] d/ b1 | \
+X[a,,,a3/2] b/ d1 |";french5tab
+104;;38v;100. Amande du allein;;;;Cithrinchen;;C;"d1 d [df] f | b1 b [aba2] | a1 b ,d d | X[cd3/2] d/ [daa2] :||: \
+,d1 ,d d d | Xb3/2 a/ [,da2] |";french5tab
+105;;39r;101. Ballet;;;;Cithrinchen;;C;",b1 d Xb a | ,d1 a ,b ,,,,a | a1 ,d ,b ,a | X,,c3/2 ,,a/ [,,adc2] :||: \
+,,a1 ,,c ,a ,b |";french5tab
+106;;39r;102. Sarab:;;;;Cithrinchen;;3;",b1 a b | Xd3/2 b/ a1 | [bd1] d [ab] | X,d3/2 ,a/ [aba1] | \
+a1 ,d a | X,b3/2 ,a/ ,,c ,a |";french5tab
+107;;39v;103. Gigue;;;;Cithrinchen;;3;",,a1 | ,b2 ,d1 | a3/2 b/ d1 | b1 a ,d | ,b2 f1 | d2 b1 | \
+,a2 ,,c1 | ,,a2 ,,c1 | ,a1 ,,a ,,,b |";french5tab
+108;;40r;104. Ein Tantz;;;;Cithrinchen;;C;"[abaaa1] a ,d a | ,b1 ,a X,,c ,,a | ,b1 ,b ,d a | X[,da3/2] ,b/ [,baaa2] :||: \
+d1 f b d |";french5tab
+109;;40r;105. Courant;;;;Cithrinchen;;3;"a1 | [abaaa3/2] b/ d1 | f1 [bd] d | [abaaa3/2] b/ d1 | \
+a1 ,d ,b | X,a3/2 ,b/ ,d1 | ,a1 X,,c3/2 ,,a/ | [,,adc3] :||:";french5tab
+110;;40v;106 [sans titre];;;;Cithrinchen;;C;",,a/4 ,,c ,a | ,b1 ,,a ,,,,a ,b3/4 ,d/4 | a1 ,b ,,,,a i | \
+i1 d f a3/4 b/4 | d3/4 f/4 d3/4 b/4";french5tab
+111;;40v;107 Sarab:;;;;Cithrinchen;;3;"[ab1] ,b ,d/ ,b | X,a3/2 ,,c/ ,,a1 | [bd1] [,aa] ,b | \
+X,b3/2 ,a/ [aba1] | ,d1 ,a d | ,b/ a ,,c ,b a1 |";french5tab
+112;;41r;108 Sarab:;;;;Cithrinchen;;3;",b1 | [,ba3/2] d/ d1 | f1 Xa3/2 b/ | d3/2 ,d/ [,ded1] | \
+a1 X,b3/2 ,a/ | [,aa3] | ,b1 ,,c3/2 b/ | [bd3/2] d/ f1 |";french5tab
+113;;41v;109 Sarab:;;;;Cithrinchen;;3;",b1 a b | Xd3/2 b/ a1 | [bd1] d [ab] | X,d3/2 ,a/ [aba1] | \
+a1 ,d a | X,b3/2 ,a/ ,,c ,a |";french5tab
+114;;41v;110 Gigue;;;;Cithrinchen;;C;",b3/4 a/4 ,,a3/4 ,b/4 ,,,a3/4 ,,a/4 ,,,,a1 | \
+d3/4 a/4 f3/4 d/4 Xb3/4 a/4 [abaaa1] | \
+a3/4 b/4 d3/4 ,b/4 X[,aa3/4] ,b/4 ,d3/4 f/4 |";french5tab
+115;;42r;111. [sans titre];;;;Cithrinchen;;C;"[df2] i1 d | f1 d/ b a1 ,b | [df2] i1 d | f1 d/ b [aba2] :||: \
+[aba1] a a ,b |";french5tab
+116;;42r;112.te Will[st?] woll;;;;Cithrinchen;;C;"[aba1] ,d/ ,b [,aa1] [,bc] | ,d/ a b d [aba1] ,,,,a | \
+[dba1] f/ d [bd1] [ab] | X[,da3/2] ,b/ [aba1] ,,,,a :||:";french5tab
+117;;42v;113.te Allamande;;;;Cithrinchen;;C;",b/ | [,baaa3/2] ,d/ a d b a | ,d/ a X[,da3/4] ,b/4 [,baaa3/2] a/ | \
+[,de3/2] a/ [,bc3/2] ,d/ | X[,aba3/2] ,,c/ [,acca3/2] ,a/ |";french5tab
+118;;42v;114.te Wie war doch Seladon;;;;Cithrinchen;;3;"[,baaa1] ,b ,d/ ,b | X[,aa3/2] ,,c/ ,,a1 | [,,cb1] ,,c/ ,a [,bc1] | \
+X[ba3/2] ,a/ [abaaa1] :||: [,da1] ,d [da/] b | \
+X[a,,,a3/2] ,d/ b1 |";french5tab
+119;;43r;115.te Die Mädgens machens alle Zeit;;;;Cithrinchen;;C;"a/ b | d1 [,de] [ab] ,d/ ,b | X[,aa3/2] ,,c/ ,,a1 [,aa] | \
+[,bc1] [,de] [aba3/2] b/ | [,da1] [,ded2] :||:";french5tab
+120;;43v;116.te Aria;;;;Cithrinchen;;C;",,a1 | ,b1 ,d a b | Xd3/2 b/ a1 d | [bd1] [ab] ,d d/ b | \
+Xa3/2 ,d/ ,b1 ,,a |";french5tab
+121;;43v;117.te Lebt Jemand so wie ich;Valentin Strobel?;;;Cithrinchen;;C;"d1 | [dba1] f X[baa3/2] a/ | [abaaa3] d1 | [,bc1] ,b X[ba3/2] a/ | \
+[,ded3] d1 | f3/2 h/ i1 i | Xh3/2 f/ d1 [dff] |";french5tab
+122;;44r;118 Opra Ariae Wer süße vergnüg[en] Hidraspes;Johann Theil;Verte:;Johann Theil, Orontes (1678);Cithrinchen;;3;",b1 | [dbaaa3/2] f/ d b | [aba1] [,b,,a] [df] | \
+[fg3/2] g/ [fg1] | [df1] a [df] | [,da1] a b | [abaaa2] a1 |";french5tab
+123;;44v;119.t Opera Ariae Alles ist nichtig;;;;Cithrinchen;;3;"(a/ ,d) (,c ,d) (a ,d) | X,c3/2 ,a/ ,,c1 | f3/2 e/ c1 | \
+Xa3/2 ,d/ ,c1 | [ac3/2] c/ e1 |";french5tab
+124;;44v;120.t Saraband.;;;;Cithrinchen;;3;"i3/2 h/ f1 | Xd3/2 b/ a1 | b3/2 d/ f1 | X,d3/2 ,b/ [aba1] :||: \
+[ab3/2] b/ a ,d | X,c3/2 ,a/ ,,c1 |";french5tab
+125;;45r;121.te Boure;;;;Cithrinchen;;C;",d1 | d1 f h f/ d | f1 c c d/ c | a1 ,d/ ,c X,a3/2 ,c/ | \
+,d1 ,d2 ,d1 |";french5tab
+126;;45r;122.te Minuett;;Verte Z.te Repetitio./.;;Cithrinchen;;3;",d1 ,d d | >Xc3/2 a/4 c d1 | ,a1 ,b ,,c | [,aadc2] ,a1 | \
+,d1 ,d d | Xc3/2 c/ d1 |";french5tab
+127;;45v;123.te Gavott;;;;Cithrinchen;;C;",,c1 a ,b/ ,a ,,c1 | f/ h i1 h | d1 f d/ b Sa1 | \
+f1 X,d3/2 ,b/ [abaaa1] |:";french5tab
+128;;46r;124.te Courant;;Verte Gigue;;Cithrinchen;;3;"a1 | [aaaa3/2] c/ d1 | f1 Xc3/2 a/ | [,ee3] | \
+,a1 ,,c ,a | X,,a3/2 ,,,c/ ,,,a1 | ,f1 X,d3/2 ,b/ | [,aa3] |";french5tab
+129;;46v;125.te Gigue;;;;Cithrinchen;;3;",a1 | a3/2 c/ ,e1 | [af2] ,a1 | ,,c3/2 ,,a/ ,,,c1 | \
+,,,a2 ,,a1 | ,,,c3/2 ,,a/ ,,,a1 | [ab2] ,a1 | ,,c3/2 ,a/ ,c1 |";french5tab
+130;;46v;126.te [sans titre];;;;Cithrinchen;;C;",,,a1 ,a ,,a/ ,,c ,a1 | ,,,a2 d1 d | a/ c d f h1 ,a | \
+,a2 d1 ,d | a1 ,a ,b ,,c |";french5tab
+131;;47r;127.te Helffer meiner Armen Seele;;;;Cithrinchen;;C;"[aaaa1] ,a a c | d1 (c/ a) [,ee1] ,e | [aaaa1] c ,a/ ,c ,d a | \
+X[,cd3/2] ,a/ [,ae1] ,a |";french5tab
+132;;47r;128.te Laß fahren du mein freyer Sinn;;;;Cithrinchen;;C;"f1 d/ b a1 ,d | X,c3/2 ,d/ [acca2] | f1 d/ b a1 ,d | \
+X,c3/2 ,d/ [acca2] :||: a1 a/ b d1 d |";french5tab
+133;;47v;129. Ariae  Weicht ihr gedancken, weicht von mir;Adam Krieger;;;Cithrinchen;;C;"[bbc1] Xa/ ,d f/4 g3/4 ,d/ a | b1 X'[acc3/4] ,d/4 [,dcc2] | \
+l3/4 l/4 i/ g f/ f/4 g i1 |";french5tab
+134;;48r;130.te Ariae Ich binn verliebt und weiß nicht etc.;Adam Krieger;;;Cithrinchen;;C;",d3/4 ,b/4 | X,b3/2 ,,d/ [,,dbc2] | z1 b1 Xd3/2 d/ | \
+[bbcb2] z/ f/4 d b1 | [ddd1] Xf3/4 d/4 f/ g3/4 g/4 i/ |";french5tab
+135;;48v;131. Preludium;;;;Cithrinchen;;C;"d/ ,d a ,a ,b ,,a ,,c ,,,a/4 ,,,b | ,,a/ ,,,,c ,,,a ,,a [aba1] ,,,,a | \
+,,,,a/ ,,,a ,,,,c ,,,b ,,,a ,,a ,,,b ,,c |";french5tab
+136;;49r;132.te Ariae Wie soll ich meine Pein und der gedancken etc./.;;;;Cithrinchen;;C;"z1 [df1] [abaaa] f/ d | Xb3/2 a/ [aba3/2] ,d/ | \
+[,bc1] ,b/4 ,d a ,d ,d1 X,b3/4 ,a/4 |";french5tab
+137;;49v;133. Ariae ex Opera Orontes Ihr Mädgens wen ihr seid beflißen;Johann Theil;;Johann Theil, Orontes (1678);Cithrinchen;;3;",b1 | X[aba1] ,d ,b | Xd1 b a | b1 Xa ,d | a1 [,ba] d | \
+f1 c d | d/ f Xd3/2 c/ |";french5tab
+138;;50r;134. Ariae. Amande du allein;;;;Cithrinchen;;C;"[df1] d [df] f | X[b,,,a1] b [aba2] | [aba1] b [,da] d | \
+X[cd3/2] d/ [daa2] :||: [,da1] ,d [da] d | Xb3/2 a/ [,da2] |";french5tab
+139;;50r;135.te Sarabande;;;;Cithrinchen;;3;",b1 | [dbaaa3/2] f/ d1 | [dff2] ,b1 | ""pian""[df3/2] f/ d1 | \
+[dff2] a1 | [bd3/2] d/ f1 | [fgf3/2] d/ b1 | \
+X[a,,,a3/2] b/ d1 |";french5tab
+140;;50v;136.te Galliardt [sic!];;;;Cithrinchen;;C;"[aba3/2] b/ a3/2 ,d/ | [,bc2] X,b3/2 ,a/ | [,,cb2] ,,c | \
+[bd3/2] d/ b3/2 a/ | ,d3/2 a/ ,b3/2 ,d/ | [,aa2] ,a :||:";french5tab
+141;;50v;137.te Opra Sarband Sernet;;;;Cithrinchen;;3;"[aba3/2] b/ a ,d | [,bc2] d1 | [fg2] d1 | X[ba2] [aba1] | \
+[aba3/2] b/ a ,d | [,bc2] ,a1 | [,,cb2] ,b1 | [,aa3] :||:";french5tab
+142;;51r;138.te Ariae a 2 Persohnen. Amyntas und Dianen :/: (Amyntas) Diana Schönste du tödtest mein Leben etc.;;Verte (Diana);Adam Krieger [1634-1666]: Liebesgespräch zwischen Amyntas und Dianen. In: Herrn Adams Krieger neue Arien, Dresden 1676, S. 48 ff.;Cithrinchen;;3;"[,baaa3/2] ,d/ ([,bc/4] a ,d ,b) | X[,aa3/2] [,,cb/] [,,aa1] | \
+[,,cb3/2] ,,c/ X[,aa3/4] ,b/4 | [,baaa2] X,,a1 | \
+[,bc3/2] ,d/ ([,aa/] ,b) |";french5tab
+143;;51v;139: (Diana) Amyntas: Ach Nein Nein Nein Nein Nein Nein;Adam Krieger;;Adam Krieger [1634-1666]: Liebesgespräch zwischen Amyntas und Dianen. In: Herrn Adams Krieger neue Arien, Dresden 1676, S. 48 ff.;Cithrinchen;;3;"a/ ,d | [,baaa1] ,,a [,de] | [abaaa2] [df1] | [fg1] [df] [bd] | \
+[abaaa2] :||: [,da1] | [abaaa2] [,de1] | [abaaa2] [,da1] | \
+[ab1] [,de] [,bc] |";french5tab
+144;;51v;140te Der beschluß (Amyntas) Ach ists müglich;Adam Krieger;;Adam Krieger [1634-1666]: Liebesgespräch zwischen Amyntas und Dianen. In: Herrn Adams Krieger neue Arien, Dresden 1676, S. 48 ff.;Cithrinchen;;C;"[,baaa1] X[,a,,c3/4] ,,c/4 X[,,aa3/2] [,,aa/] | [,,cb1] X[,aa] [,baaa] ,,a | \
+[z/ [,,cc/] [,aa] [,bc] [,dcc3/2] ,b/ | \
+[,aa/] ,,,,a X,,c3/4 ,,a/4 [daadc2] :||:";french5tab
+145;;51v;141ter. (Diana) Die Antwordt / Ach Ja mein Hertz [und auch mein Schmerze];Adam Krieger;;Adam Krieger [1634-1666]: Liebesgespräch zwischen Amyntas und Dianen. In: Herrn Adams Krieger neue Arien, Dresden 1676, S. 48 ff.;Cithrinchen;;C;"[daa1] [,de/] [ab] [bd3/2] [bd/] | [ba1] [,bc/] [,da] [abaaa1] [a,,,a] | \
+[dbaaa1] b/ a [fg1] [bd/] [ab] | \
+X[,da3/2] ,b/ [abaaa1] ,,,,a :||";french5tab
+146;;52r;142.te Aria ex Opera Orontes / Singt Falsaryna, Ey potsfelten was ist daß;Johann Theil;;Johann Theil, Orontes (1678);Cithrinchen;;C;"[,baaa/] [,de] [ab] [,de] X[,bc3/4] ,d/4 [,aa1] | \
+[,bc3/4] [,da/] [abaaa/] [aaa] X[a,,b3/4] ,d/4 [,aaba/] [a,,a] | \
+[ab3/4] c/4 [da/] d Xd3/4 c/4 [daa/] [d,a] |";french5tab
+147;;52v;143.te Ariae ex Opera Orontes / Singt Orontes / Orontes wie ist dir zu muht, was;Johann Theil;;Johann Theil, Orontes (1678);Cithrinchen;;3;"[fgh1] | [,dcbc2] ,d1 | [,dcbc2] [acc1] | ([bd1] d) X([bd3/4] a/4) | \
+[acc2] (f/4 d b a) | [,dd1] a [,cc] | [,dcbc2] [ac1] |";french5tab
+148;;53r;144.te Ariae ex Opera Orontes, Singt Dorisbe Komm! Ach Komm! O süßer Todt :/:;Johann Theil;;Johann Theil, Orontes (1678);Cithrinchen;;C;"[dddd1] d/4 f g i [fh1] [,da/4] ,e ,g/ | \
+X[,e,,a3/2] ,d/ [,ded2] | [,dd1] [,bc] [,dd] (,e/ ,d) | \
+X[,b,b3/2] ,,d/ [,,dbc2] |";french5tab
+149;;53v;145.te Ariae ex Opera Orontes / Singt Orontes/ O Glück wie wilß doch endlich werden;Johann Theil;;Johann Theil, Orontes (1678);Cithrinchen;;3;",d1 | [fc2] [dc1] | X[bd2] [ac1] | [,dcb1] [ac] [bd] | \
+,,a/ b/4 a X[a,c3/2] ,d/ | [,dccc3] | [,dd1] [ab] [bd] | \
+X[d,,,a3/2] b/ [ab1] |";french5tab
+150;;54r;146.te Ariae ex Opera Orontes / Singt Orontes: Ich will in düstre Wälder reysen,;Johann Theil;;Johann Theil, Orontes (1678);Cithrinchen;;3;"[fgh1] [,dcb] [acc] | ([bd1] a) [bd] | [d,a/] b X[a,b3/2] ,d/ | \
+[,cc2] ,c1 | (f/4 d b a) [,dcb1] [ac] | ([b,d1] a) [bd] |";french5tab
+151;;54v;147.te Ariae ex Opera Orontes / Singt Cupido als /: Wer Amor dencket zu besiegen und;Johann Theil;;Johann Theil, Orontes (1678);Cithrinchen;;C;"z/ ,b/ [bd] [ab] [,dd] [ab] [bd] [df] | [fgf3/4] (d/4 [bbc1]) z/ [df/] [bd] [ab] | \
+[bd/] [ab] X[,da3/4] ,b/4 [,baaa3/2] a/ |";french5tab
+152;;55r;148.te Opera Ballet;;;Johann Theil, Orontes (1678)?;Cithrinchen;;C;",d1 | d/ c a1 f/ d c1 | [daa2] ,d1 a | ,d/ ,b ,a1 ,b/ ,a ,,c1 | \
+X,a2 ,,a1 ,d |";french5tab
+153;;55r;149.te Opera Minuett Schäffer Danß;;;;Cithrinchen;;3;"d/ c d f d c | d1 ,d a | X[,aa2] ,b1 | ,d/ ,c ,d a ,d1 | \
+d/ c d f d c |";french5tab
+154;;55v;150.te Ariae ex Opera Andromeda /: Singet Perseus. Als  /: Cupido Numehr ist es Zeit, mein Hertze zu;;;Franck, Andromeda und Perseus (1679);Cithrinchen;;C;"""Cu-"",b/ ""pi-""[da1] ""do""[,da] | ""Nu-""[abaaa3/4] ""mehr""a/4 "" ist""[,de/] ""es""[bc] ""Zeit""X[,aa3/2] ""mein""[,baa/] | \
+""Hert-""[,,cb/] ""ze""[,aa] ""zu""[,bc] ""ver-""[,de] ""gnü-""[abaaa3/4] ""-"",d/8 ""-"",b ""-""[da1] | \
+""-""[abaaa/] ""-"",d/4 ""-"",b ""-""X[,aa1]";french5tab
+155;;56r;151.te Solt ein Jammer auff der Erden;;Verte Preludium;;Cithrinchen;;C;"[abc1] a [,de] [,bc] | X[,aba3/2] ,,c/ ,,c1 ,,c | \
+[,bc1] ,b [,de] a | Xa3/2 ,e/ [aba1] ,,,a | \
+[df1] d [bd] [aba] |";french5tab
+156;;56v;152.te Preludium;;;;Cithrinchen;;C;",b/4 ,,a ,,c ,a ,b ,d a b d f b d a b ,d a | \
+,b/4 ,d a ,d ,b ,a ,,c ,,a";french5tab
+157;;57r;153.te Allemand Mons. Hopp;;Verte Courante ..;;Cithrinchen;;C;",b/ | [,baaa3/2] [,de/] [ab] [bc] X[,aa3/4] [,,cb/4] | \
+[,,aa/] ,b/4 ,a [,,cb/] [,bc] [,da] [ab] [bd] [df] | \
+[abaaa3/2] d/ [fb1] [ha] |";french5tab
+158;;57v;154.te Courant M: Hopp;;;;Cithrinchen;;3;"d1 | [dbaaa3/2] b/ [ab1] | [bd1] X[,da3/2] ,b/4 ,d | \
+[abaaa1] [,,caa] [,aba] | [,bc1] [,de] [ab] | \
+[b,,b/] a X[,da3/2] ,b/ |";french5tab
+159;;58r;155.te Sarband Mons.r Hoppe;;Verte Preludium;;Cithrinchen;;3;"[dffaa1] d [i,,f] | X[h,,a3/2] f/ [fg1] | [df1] [bd] [ab] | \
+X[,da3/2] ,b/ [,baaa1] | [,da1] X,a [,de] | \
+[abaaa3/2] ,d/ X[,b,a3/4] ,a/4 |";french5tab
+160;;58v;156.te Preludium Mons: Hoppe;;;;Cithrinchen;;C;z/ ,,,,a ,,,a ,,a ,b ,,a ,b a | d/ ,b a d i h/4 f d b a ,d |;french5tab
+161;;58v;157. [sans titre];;;;Cithrinchen;;C;",,,a/ ,,,c ,,a ,,c ,a1 a | X,e1 a c ,a | [df1] [cd] [ac] [,de] | \
+X[,cd1] ,a4 [,ae3] :||:";french5tab
+162;;59r;158. [sans titre];;;;Cithrinchen;;C;",b/ ,,,,a ,,,a d d ,,a ,a ,d | ,b/ a ,d ,b X,a1 ,,a | \
+,b/ d ,a d ,b d ,a d |";french5tab
+163;;59r;[sans titre];;;;Cithrinchen;;3;"d1 ,,a d | d1 ,,a d | [ab1] ,,,,a [ab] | ,d1 ,,a ,d | \
+a1 c d | d1 ,,a d |";french5tab
+164;;59v;Liebstes Seelgen sey zu frieden;;;;Cithrinchen;;C;"[,,ca1] a3/4 ,d/4 [,bc1] [,aba] | ,,c3/4 ,b/4 ,a3/4 ,,c/4 [,aXba1] ,,,a | \
+[,,ca1] ,,c/ ,a [,bc1] ,b3/4 ,d/4 | \
+X[,da3/2] ,d/ [aba1] ,,,,a |";french5tab
+165;;60r;[sans titre];;;;Cithrinchen;;C;"[abaaa1] ,,,,a/ a [,de1] d/ ,a | [,bc3/2] ,d/ [,b,c3/2] ,a/ | \
+,a1 ,,,a3/4 ,a/4 [,bc1] [,,aa] | \
+[,,cb/] ,a [,bc] [,ba] ,a ,b [,baaa1] :||:";french5tab
+166;;60v;Gavot franzese;;ff. 61r - 68r empty;;Cithrinchen;;C;"[,baaa1] ,,a | [,baaa1] ,d a3/2 b/ | [,de3/2] ,d/ d b a ,d | \
+,b/ ,a ,b ,d [,da3/2] ,a/ | [ab2] ,,,,a :||:";french5tab
+;;;;"Beginn hinten, umgekehrt; Seitenzahlen original";"Beginning at the end, backwards; page numbers original";;;;;;
+167;;1_86r;Aus meines Hertzen Grunde;;;;Cithrinchen;;3;",b1 | [,baaa2] [,da1] | [aba3/2] ,d/ ,b1 | X,a1 ,,a [,bc] | \
+[,ded2] ,d1 | [aba2] [bd1] | [ab1] X[,da3/2] ,b/ | \
+[abaaa2] :||:";french5tab
+168;;2_85v;Wie schön leuchtet :/;;;;Cithrinchen;;C;"[abaaa2] | [df2] Xa | [,bc2] d | [fgf2] [fgf] | [dff3] d1 | \
+f2 h | i2 h | Xf3 d1 | [daa3] a1 | [fgf2] [df] |";french5tab
+169;;3_85r;Werde munter mein Gemühte;;;;Cithrinchen;;C;"a/ b | [df1] [df] b3/2 a/ | [,da1] [,ded2] Xa3/4 b/4 | \
+[df1] b X,b3/2 ,a/ | [aba1] ,,,,a2 :||:";french5tab
+170;;3_85r;Christ der du bist der etc;;;;Cithrinchen;;C;"a1 | [aaaa3/2] c/ [df2] | [ce2] a1 c | [df2] f | h2 h | \
+ [hi2] h1 i | l2 [hi] | f1 h Xf3/2 d/ |";french5tab
+171;;4_84v;Nun last uns Gott;;;;Cithrinchen;;3;",,a/ ,,c ,a | [aba1] ,,,,a/ ,d ,b ,a | [,,cb3/2] ,a/ ,b1 | \
+,d/ a X[,da3/2] ,b/ | [aba1] ,,,,a ,b |";french5tab
+172;;5_84r;Nun freuet euch lieben :/ [Christen gmein];;;;Cithrinchen;;C;",b1 ,b ,,a | [,bc1] [bd] [aba] X[,da3/4] ,b/4 | \
+[,baaa3] [,bc1] | ,d/ a [bd1] [ab] [,da] | \
+,,c1 X,a [,baaa2] :||:";french5tab
+173;;5_84r;Herr Christ der einige Gottes Sohn;;;;Cithrinchen;;C;"z1 ,b1 [,bc] [ab] | [,de1] [,bc] X,a3/2 ,,c/ | \
+[acc3] [ab1] | [bd1] [,de] a/ b X[,da3/4] ,b/4 | [,baaa3] :||:";french5tab
+174;;6_83v;Jesu meine Freude;;Nun freuet;;Cithrinchen;;C;"[ab3/2] a/ [,dc1] [,bc] | X,a3/2 ,,c/ [,,ca2] | [ab1] a [cd] d | \
+X[fg2] [efe] | f/ h i1 h Xh | [fcc4] :||:";french5tab
+175;;7_83r;Nun lobe meine Seele den Herren;;;;Cithrinchen;;3;",,a/ ,,c ,a | ,b1 ,,,,a [,aa] | ,,c1 ,,,b [,,aa] | \
+,b1 ,,c [,da] | [aba2] a1 | [aba2] ,b1 | [aba2] ,d1 |";french5tab
+176;;8_82v;Ich ruff zu dir Herr etc:;;Verte Zde Repetitio;;Cithrinchen;;C;"a1 | [,bc1] [,ded] [,bc] [,,cb] | [,bc1] [,de] [abaaa2] | \
+a/ b [dff1] [aba] [,bcb] | ,d/ a Xb2 a1 | [abaaa3] :||:";french5tab
+177;;9_82r;Von Gott will ich nicht lassen;;;;Cithrinchen;;C;",,c1 | [,dcb1] a [bd] ,d | Xa3/2 ,d/ ,b1 ,b | ,d1 ,d a a | \
+,,c3 :||: f1 | d1 b Xb3/2 a/ |";french5tab
+178;;10_81v;Auff meinen lieben Gott;;;;Cithrinchen;;C;",,c1 | [,,caa1] [,aba] [,bc/] ,,a [,dcb1] | [aaba3] a1 | \
+[abaaa1] [,da] [,bc] ,d/ ,b | [,aba3] [aaba1] | \
+[,bc1] [,da] [abaaa] a |";french5tab
+179;;11_81r;In dich habe ich gehoffet Herr;;;;Cithrinchen;;C;"[,,caa2] | [,,ca1] X[aba3/4] ,d/8 ,b ,a/ ,b [,dcc1] | \
+[,b,a1] X,a3/4 ,,c/4 [,,cab2] | z1 ,,c1 [aaa3/4] ,e/8 a c/ ,e |";french5tab
+180;;12_80v;Kombt her zu mir spricht Gottes S[ohn];;;;Cithrinchen;;C;",,z1 ,,c1 | [,,caa1] ,,c [aba] ,,c | ,d1 ,,b a/ ,d X,b3/4 ,a/4 | \
+[,aba3] ,,c/ ,a | [,bc1] [,ab] X,b3/4 ,d/4 [abaa1] |";french5tab
+181;;13_80r;Ach Gott wie manches Herzel:[eid];;;;Cithrinchen;;C;"a1 | [abaaa1] ,b X,d3/4 ,b/8 ,d [aba1] | [,bc1] [,ab] [,,cab2] | \
+z1 a1 X[aba3/2] ,d/ | d/ b a ,d [,ba1] X,d3/4 b/8 d |";french5tab
+182;;13_80r;Aus tieffer noht schrey;;;;Cithrinchen;;C;"[,baaa2] [,aa1] [,bc] | [,dcc2] ,d | [,bc1] [,d,c] [aab2] | \
+z1 [bd1] a ,d | X[,bc3/2] ,b/ ,a1 ,b | X,d3/2 ,b/ [,baaa2] :||:";french5tab
+183;;14_79v;Lobet den Herren, lobet den;;;;Cithrinchen;;C;"[,dcc2] | ,,c1 ,d/ a Xb3/2 a/ | [aab3/2] a/ a1 f | \
+Xf3/2 e/ [fcc2] | z1 a [bd] d | Xf3/2 d/4 b [bbc2] |";french5tab
+184;;15_79r;Dieß sind die heiyl: zehn Geboht;;;;Cithrinchen;;C;"[,dcc2] [,da1] [,dcc] | [,da1] [,dc] ,d/ a Xc a/4 c | \
+[daa3] d3/4 c/8 d | f1 [fc] Xd3/4 c/8 a [,dcc1] |";french5tab
+185;;15_79r;Von allen Menschen abgewandt;;;;Cithrinchen;;C;"[bbc2] [,bc1] ,d/ a | b/ d f1 d/ b Xa3/4 ,d/4 | \
+[,dcc3] [,bc1] | b1 Xd3/4 b/8 d f1 g |";french5tab
+186;;16_78v;Was lobes sollen wir dir ;;;;Cithrinchen;;C;"[,dcc3/2] a/ [bd2] | [aba2] [bd1] [df] | [fcc3] f1 | \
+[d,l,a2] [bd] | a2 [acc] | z2 a2 | [fcc2] [df] | d1 b [aba2] |";french5tab
+187;;16_78v;Durch Adams Fall ist gantz;;;;Cithrinchen;;C;"[aaaa2] Xa1 a | [,ded1] a/ ,d ,b1 X,a | [,,cab3] a/ c | \
+Xd3/4 c/8 d f1 [aa1] [ca] | d1 Xc [aab2] :||:";french5tab
+188;;17_78r;Singen wir aus Hertzen Grund;;;;Cithrinchen;;3;"[,dcc3] a1 b2 | Xa4 [,dc2] | [,cc4] ,d2 | [acc6] | \
+Xa3 ,d/ a b2 | [daa4] ,,c2 | b2 Xa3 ,d1 | [,dcc6] |";french5tab
+189;;17_78r;Wo Gott der Herr nicht;;;;Cithrinchen;;C ;"[bbc2] [b,,,a1] ,d/ a | b/ d f1 Xd3/2 b/ | [bbc3] [bd1] | \
+[aba1] [,dc] [bd] [df] | [bd1] X[a,,,a3/4] ,d/4 [,dcc2] :||:";french5tab
+190;;18_77v;Allein zu dir Herr Jesu;;;;Cithrinchen;;C;"[bd3/2] a/4 ,d [,bc1] [,dd/] a | [bbc1] [fg] [ddd] X[d,,,a3/4] b/4 | \
+[bbc3] [fg1] | [db1] [bd] [acc] [,cc] | \
+[,dcb3/2] a/4 c [dcaa1] [bd] |";french5tab
+191;;19_77r;Gott der Vater wohn uns bey und laß;;;;Cithrinchen;;C;"[,da1] ,d [ab] [cd] | [df1] d [cd] [,de] | [df1] [,de] [,aa] [,bc] | \
+[,aa1] (X,,c3/4 ,,a/4) [,aadc2] :||: \
+[,,adc1] [,,cc] [,aa] [,,cc] |";french5tab
+192;;20_76v;An Waßerflüßen Babilon;;;;Cithrinchen;;C;"z1 [dff1] [fgf] [daa] | [abaaa1] [df] [bd] (Xb3/4 a/4) | \
+[abaaa3] [,da1] | [abaaa1] [cb] [da] [bd] | \
+[aba/] ,d X,d3/4 ,b/4 [,baaa2] :||:";french5tab
+193;;21_76r;Nun kombt der heyden Heylandt;;;;Cithrinchen;;C;"[,dcb1] ,d [acc] [bd] | a/ ,d Xa3/4 ,d/4 [,dcc2] | \
+,d/ a b1 d ,b | b/ d Xd3/4 b/4 [bbcd2] |";french5tab
+194;;21_76r;Gelobet seistu Jesu Christ;;;;Cithrinchen;;C;",b1 ,b/ ,b ,d1 ,b/ ,d | a/ b d a [bbc2] | a/ b d1 f d/ b | \
+a/ b X[,da3/4] ,b/4 [abaaa2] |";french5tab
+195;;22_75v;Vom himmel hoch da [komm ich her];;;;Cithrinchen;;C;",b1 | d1 d [fg] [df] | b/ a b ,d [abaaa2] | z1 a/ b d1 f | \
+[df1] a b/ a X[,da3/4] ,b/4 |";french5tab
+196;;22_75v;In dulci Jubilo;;;;Cithrinchen;;3;",b1 | [,baaa2] ,d1 | [aba2] c1 | [daa2] f1 | [daa3] :||: \
+[df2] f1 | [df2] b1 | Xa3/2 ,d/ a1 | [,bc2] ,b1 | [,de2] ,d1 |";french5tab
+197;;23_75r;Ein Kindt gebohren zu [Bethlehem];;;;Cithrinchen;;3;",d1 | [,dccc4] ,d2 | X[a,,,a3] ,d1 a2 | [bd3] a1 ,d2 | [,cc6] | \
+[bd4] d2 | f2 X[d,,,a3] b1 | [bbc6] | [bd4] b2 | [bd4] b2 |";french5tab
+198;;23_75r;Ich dancke dir liber Herr;;;;Cithrinchen;;C;"z1 ,b1 [,baaa] (,b/ ,b) | [,bc1] ([,dcc3/4] ,b/4) ([,aa] ,d ,b ,a) X,,c3/4 ,,a/4 | \
+[daa3] [,da1] | X[abaaa3/2] [,de/] ([,bc1] [,aa/4] ,d ,b ,a) |";french5tab
+199;;24_74v;Mag ich unglück nicht widerstahn :/:;;;;Cithrinchen;;C;"z1 (X[,aaa3/4] ,c/4) [,de1] [,d(e/] [,,c)] | \
+[aaa1] [daaa] ([cb/] a/8 c d/4 X[ca3/4]) a/4 | \
+[aaaa3] [hi1] | [fd1] [df] [cee2] |";french5tab
+200;;25_74r;O Gott wir danken deiner Güht :/:;;;;Cithrinchen;;3;"Xa3/4 ,d/4 | ([,bc3/2] ,a/) (,b ,d) | X[,a,a3/2] ,,c/ [,,caa1] | \
+[aaa3/2] a/ [cecc1] | [daaa] z/4 h f d X[ca1] |";french5tab
+201;;26_73v;Ach Gott vom himmel sieh darein :/:;;;;Cithrinchen;;C;"z1 [acc1] [bd] X[acc] | [,dcb1] [fg] ([fg/] [df]) X([bd3/4] a/4) | \
+[acc3] [ac1] | [bd1] X[acc] [,dcb] [df] | \
+[bd/4] f d b X[acc3/4] ,d/4 [,dccc2] :||:";french5tab
+202;;26_73v;Es ist das heiyl uns kommen her :/: Sey lob und Ehr mit hohen Preyß :/:;;Verte Z.do Repetitio;;Cithrinchen;;C;"z1 [acc1] [aab] [acc] | [ac/] [cd] [df1] [cd/] ,,a X[acc3/4] ,d/4 | \
+[,dccc3] X[aab3/4] ,d/4 | [,cc1] ,,c/ ,a [,cc] ,,b [,ecc1] |";french5tab
+203;;27_73r;Mensch willtu leben Seeliglich;;;;Cithrinchen;;C;"z1 (X[,aa3/4] ,c/4) [,d(e3/4] [,,c)/4] [,da1] | \
+[aaa1] [cecc] [daaa/4] (h f d) X[ca3/4] a/4 | [aaaa3] [cee1] | \
+[daa1] [,de] [ab] X[,aa] |";french5tab
+204;;28_72v;Wer nur den lieben Gott läst walten;;;;Cithrinchen;;C;"b/ | [bbcb3/2] [,bc/] [,dd/] ,d/4 X,a ,b3/4 ,,d/4 | \
+[,,c(b3/4] [,,,d)/4] ,,,b1 z/ [,,cb] [,,dd] [,,db] | \
+[,,aa1] [,bcb] X[,ba3/2] ,a/ | [,baaa3] :||:";french5tab
+205;;28_72v;Warumb betrübstu dich mein Hertz;;;;Cithrinchen;;C;"z1 ,d [,dccc] [cd] | [acc1] [fh] [df] [cd] | [acc3] [cd1] | \
+[,de1] [fc] [da] [fcc] | [,de3/4] a/4 [cb1] [daa2] |";french5tab
+206;;29_72r;Kom Heyl: Geist Herre Gott;;;;Cithrinchen;;C;"z1 [dff] [fgf] [dff] | [abaaa1] [dff] [,ded2] | \
+[ab/] ,a [cb1] [daa2] | [dff1] [fgf] [dff2] | \
+[,da/] a [bde1] [abaaa/] ,d X[,da3/4] ,b/4 |";french5tab
+207;;30_71v;Ein Feste Burg ist unser Gott;;;;Cithrinchen;;C;"z1 [daa1] [daaa] d | [,dcc/] a [cd1] ([daa/] c) Xa3/4 ,d/4 | \
+[,dccc2] z1 [df1] | [ca1] [ab] [,da] [aab] |";french5tab
+208;;31_71r;O Lamb Gottes unschuldig;;;;Cithrinchen;;C;"[,baa3/2] ,d/ [aba1] Xb3/4 a/8 b | [daa1] d f3/2 d/ | [daa3] d1 | \
+X,b3/4 ,a/8 ,b [,da1] [aba] b/ a |";french5tab
+209;;31_71r;O wir armen Sünder;;;;Cithrinchen;;C;"X[,dcc3/2] ,d/ [,dc1] ,d | [aba2] [,da] | [,bc1] [,aa] X,,c3/2 ,,a/ | \
+[,,adc4] | X[,dc3/2] ,d/ [,dc1] [,da] | X[aba3/2] ,d/ [,bca2] |";french5tab
+210;;32_70v;Jesus Christus unser Heyl[and];;;;Cithrinchen;;C;",d1 ,d [,ba] [,dc] | [a,c1] [,db] ,b ,a3/4 [,,caa/4] | \
+[,,caa2] [,bc1] ,d | [aba2] ,d1 [,cc] | [,dcc3] [bd1] | \
+[aba1] [,dc] [aba2] |";french5tab
+211;;33_70r;Christus der uns seelig macht;;;;Cithrinchen;;C;"[haa3/2] h/ [haa1] h | Xf1 d [cee2] | [df1] [fh] [haa] h | \
+Xf1 d [cee2] | [aa1] [ce] X[df3/4] c/4 [aba1] |";french5tab
+212;;33_70r;Da Jesus an den Kreutze stundt;;;;Cithrinchen;;C;"[cee2] [daa1] [cee] | [aaa1] c/ d [fcc1] Xd3/4 c/4 | \
+[cee3] [fcc1] | [daa1] [cee] Xd3/4 c/4 [aba1] | \
+,d1 X,b3/4 ,a/4 [,aba2] |";french5tab
+213;;34_69v;Christ lag in Todes banden;;;;Cithrinchen;;C;"[aaa2] [,ee1] [aa/] c | [daa3/4] c/8 d f1 [da] Xc3/4 a/4 | \
+[aab3] a3/4 ,d/4 | [,bc1] [,da] X[aba3/4] a/4 [,de/] [,bc] |";french5tab
+214;;35_69r;Christ fuhr gen himmel oder Christ ist erstanden;;;;Cithrinchen;ConcM11;C;"[aab2] [,da1] a/ c | d3/4 c/8 d [fff1] [aab2] | z1 [aab] a [,ded] | \
+[ab/] [,de] [,bc1] ,a/ ,,c X,,c3/4 ,,b/4 |";french5tab
+215;;35_69r;Erstanden ist d: heiylige Christ;;;;Cithrinchen;;3;",b2 | [,baaa4] a2 | [dbaaa4] [de2] | [abaaa4] [cd2] | \
+[dff4] d2 | [bd4] [aba2] | [,ded4] d2 | a2 ,b ,d | [abaaa6] |";french5tab
+216;;36_68v;Ach Gott und Herr etc:;;;;Cithrinchen;;C;"[daa2] [cd1] [ac] | [,dccc2] z1 [,dc1] | [aba] [cd] z1 [daa] | \
+[ac1] f2 [dc1] | [cd1] a/ c X[acc3/2] ,d/ | [,dcc2] z1 d |";french5tab
+217;;36_68v;Ich hab mein Sach [Gott heimgestellt];;;;Cithrinchen;;C;"z1 ,d1 [,dba] [,da] | [,bc1] [bd] [ac] [,dcb] | [acc3] ,c1 | \
+[,cc1] X[ca] [dcb] [,aa] | [,cc1] X,d [,dccc2] |";french5tab

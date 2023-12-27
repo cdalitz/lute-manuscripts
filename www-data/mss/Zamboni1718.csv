@@ -1,0 +1,130 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+;;;Sonata I;;;;;;;
+1;G dur;1;Preludio;;;OT;;3/4;",,,,,a/ ,,,,c ,,,c ,,c ,a a | ,a/ ,,c ,,,c ,,,,,a (,c/4 ,a) (,,d ,,c) | \
+,,d/ (,,,,,c/4 ,,,,,a) {a}/ (,c ,a) ,,d |";italian7tab
+2;G dur;2;Alemanda;;;OT;;C;"a/ | [aacc1] ,,,,,a3/4 ,d/4 ([,ca{a}1] ,a3/4) ,,a/4 | \
+[,,a{9}/] ,,c ,,d ,a [,c(d,,a1] [,,c)3/4] e/4 | \
+[ca,,,e1] a3/4 ,e/4 [ae,,a1] ,d3/4 ,a/4 |";italian7tab
+3;G dur;3;Currente;;;OT;;3/4;"a/ | [aacc1] ,,,,,a/ ,a (,c/4 ,a ,c ,e) | \
+a/ ,a ,,c a (c/4 a) (c e) | [c{a}/] ,e ,a c";italian7tab
+4;G dur;4;Sarabanda Largo;;;OT;;3/4;"[ha,,,a1] a3/4 c/4 e3/4 f/4 | ([ea{a}1] c/) c (h e) | \
+[a{8}/] ,e a (e/4 c) (c a) ,e a |";italian7tab
+5;G dur;5;Minuet;;;OT;;3/4;"[a,,,,a/] c [c{a}3/2] a/4 c | [e,,,,a1] a h | \
+[f,h1] [e,f3/2] f/ | ([e,d1] c) [a,c] | \
+[,e,e/] a [a,,,,a3/2] ,e/4 a |";italian7tab
+;;;Sonata 2a;;;;;;;
+6;D dur;5;Alemanda;;;OT;;C;",a | [,aabc2] {9}/ e [c,,,b] a | [,e{9}1] [a{8}] [ca{a}/] e [a,,,,a] ,e | \
+([,e,,,c1] ,c/) ,,,,,a {a} ,,a ,a ,e |";italian7tab
+7;D dur;6;Current;;;OT;;3/4;",a/ | [,aabc1] ,a/ ,c ,e a | c1 ,e ,a | e1 ,,,,,a/ ,,,,,c ,,,,,e ,,,,b | \
+([e,,,c1] c) e |";italian7tab
+8;D dur;7;Sarabanda Largo;;;OT;;3/4;",a/ ,,,,c [,aab] ,,,e ,,,b [,a,,c] | \
+,c/ ,,,,,c [,ca,b] ,,,,e ,,,,b [,c,,,c] | \
+,e/ ,,,,c [,aab] ,,,e ,,,b [,e,,c] |";italian7tab
+9;D dur;7;Giga;;;OT;;3;",a| [,aabc3/2] {9}1 ,a/ | ,e/ ,a ,e c ,e c | \
+h3/2 ,,,,c/ ,e ,a | [,c,,c/] ,e a ,,,,b c a |";italian7tab
+;;;Sonata 3a;;;;;;;
+10;G dur;8;Alem:;;;OT;;C;"a/ | [aacc1] ,,,,c ,,,,,a3/4 a/4 c3/4 e/4 | \
+c1 {a} {9}3/4 c/4 e3/4 f/4 | \
+[ea{13}3/4] e/4 f3/4 h/4 [f{12}3/4] f/4 h3/4 k/4 |";italian7tab
+11;G dur;9;Giga;;;OT;;3;"a/ | [aacc3/2] ,,,,,a1 a/ | (e/ c a) [e{a}] f h) | \
+[a{8}/] ,e a [a,,,,e] ,a a |";italian7tab
+12;G dur;10;Sarabanda Andante;;;OT;;3;"[,ac,,a/] {a} [,ac,,a] ,,,,,c [,a,,,e] [,c,,a] | \
+[,,acc/] ,,,,a [,,abc] ,,,,e [,aab] [,,c,c] | \
+[,,a,e/] ,,,,c [,,,ce] ,,,,c [,c,,b] [,,,c,c] |";italian7tab
+13;G dur;10;Fuga;;;OT;;C;"h3/2 h/ k3/2 e/ | f/ ,h h f [ef] h f [ef] | \
+[fh/] e f [ac] [cd] ,a [ef] ,d |";italian7tab
+;;;Sonata 4a;;;;;;;
+14;A dur;12;Alemanda Ada:;;;OT;Conc_2573;C;",,a/ | [,cae1] ,,e/ ,,a [,ace3/2] ,,e/ | \
+[,acd3/4] ,e/4 ,c3/4 ,a/4 [,,e,,c1] ,a ""Arpe°""[,a,,,e3/4] ,,e/8 ,a | \
+[,c,,b1] ,e/ [,a{9}/4] ,,e";italian7tab
+15;A dur;13;Current;;;OT;Conc_2574;3;"c/ | [ccee1] ,,,,,c/ ,c ,e b | c/ ,,a ,,c b ,,e c | \
+[e,f3/2] e/ [c,e] c | [b,c/] b [c,a] c [e,,d] g |";italian7tab
+16;A dur;14;Sarabanda;;;OT;;3;",e/ [,c,d3/4] ,a/4 | [,,ee/] ,c ,,a ,,e ,,c3/4 ,,a/4 | \
+[,,cd/] ,c ,,,,e ,,c ,,e ,,c | [,,a{a}/] ,e ,,,,d ,,a ,,c ,,a |";italian7tab
+17;A dur;15;Minuet;;;OT;Conc_2575;3;",,a/ ,,c ,,c3/2 ,,a/4 ,,c | [,,e,,c/] ,a [,a,,,e3/2] ,,e/4 ,a | \
+[,c,,b/] ,e [,a{9}3/2] ,,e/ | [,,c{8}/] (,,a ,,c ,,e) ,,c1 |";italian7tab
+;;;Sonata 5a;;;;;;;
+18;G dur;15;Alemanda;;;OT;;C;"h/ | [ha{13}1] {12}/ ,e [a{11}] h [k{10}] ,f | \
+[,e{9}1] [a{8}] {11}/ ,a a ,,c | \
+([,,d{12}/] ,,c) ,,d c ([,,d{9}] ,,c) ,,d c |";italian7tab
+19;G dur;16;Current;;;OT;;3;"a/ | [aacc1] ,,,,,a/ ,a a ,e | a/ ,a ,,c ,,,c ,,,,,e ,,,,c | \
+,,,,,a3/2 a/ c e |[c{a}/] ,e ,a c e f |";italian7tab
+20;G dur;17;Sarabanda Largo;;;OT;;3;",a/ a3/4 ,e/4 | [a(e,,,a1] [,f)] ,a [,cd,,a3/4] ,e/ | \
+[,cd,,a1] [,ac/] ,a a3/4 ,c/4 | \
+[,,de,a/] ,,c [,,d{8}] [,a{a}] [,,c,,a3/4] ,,d/4 |";italian7tab
+21;G dur;18;Minuet;;;OT;;3;"a1 c ,a | [a,,,,a1] ,,,,,c [,ce,,c] | [ef,,,a/] f h1 [f{9}] | \
+([f,,,,a1] e) [c{a}] | ([f{8}] e) [e{9}] | \
+([e{10}1] c) [a{11}] |";italian7tab
+;;;Sonata 6a;;;;;;;
+22;g moll;18;Alemanda;;;OT;;C;"a/ | [aabc3/2] ,,,,,a/4 (,a ,c ,e) a/ ,a a d | \
+([d,,b1] c/4) (,a ,e ,f) ,h/ ,a ,h h |";italian7tab
+23;g moll;19;Giga;;;OT;;3;",a1 | [a,,,,a1] ,a/ ,,b1 ,a/ | a3/2 z/ z ,,,,c/ | \
+(,,,,,d/ ,,,,,c ,,,,,a) ,,,,,c1 [,e,,c/] | \
+[aa,,,d1] ,,,,,a/ (d c a) |";italian7tab
+24;g moll;20;Sarabanda Largo;;;OT;;3;",a1 | a1 (c/ a) [,e,,c1] | [aabc1] (,,,e/ ,,,c) [ce{9}1] | \
+[df,,,a1] a/ ,d [,b,,a1] | ([,b,,,d1] ,a) [a,b] | \
+[,,de1] ,e/ a [c,,b1] |";italian7tab
+25;g moll;20;Gauotta;;;OT;;C;",a1 | [a,,,,a1] d [c,,b] ,a | ([d,,c1] c) a d | ([,b,,a1] ,a) ,b c | \
+[,a,,,d1] ,,d ,a a | ([,,d,,c1] ,,b) ,,d ,e |";italian7tab
+;;;Sonata 7a;;;;;;;
+26;F dur;20;Alem:a;;;OT;;C;",d/ | [,daa1] {a} {12}/ (f d) c | \
+[a{11}/] ,d [,d{12}3/4] ,d/4 [,c,,,a/] (,d/4 ,f) [,d{a}3/4] ,d/ | \
+([,d{10}1] ,f/) {11}";italian7tab
+27;F dur;22;Giga;;;OT;;3;"f1 | c3/2 a/ [,d,a1] | [a,,,e3/2] ,,,,c/ [cc,,a1] | \
+[dd,,c1] c [a,,,e] | [c,,a1] ,d [d,,c] | \
+[f,a1] (d/ c) [a,b] ,d |";italian7tab
+28;F dur;22;Sarabanda Largo;;;OT;;3;"[f{a}1] ,d [h{11}] | [d{8}3/2] f/ [c{a}1] | \
+[d{12}1] (d/ c) [a{11}] ,d | [,c{10}3/2] a/ [,d{9}1] | \
+[a{8}1] ([c{a}] a/) ,d |";italian7tab
+29;F dur;23;Fuga;;;OT;;C;",,d3/2 ,,d/ ,a ,a ,a ,,d/4 ,,b | \
+,,d/ ,a/4 ,c ,d/ a/4 c d/ d d c/4 a |";italian7tab
+;;;Sonata 8a;;;;;;;
+30;F dur;25;Arpeggio;;;OT;;C;"[cdda{a}4] | [caaa{a}4] | [aaba{a}4] | [,fdfe{8}4] | \
+[cfaa{a}4] | [cdaa{a}] | [caaa{a}4] | [aaca{a}4] | \
+[acd,e{8}4] | [,ddac{9}4] |";italian7tab
+31;F dur;26;Alemanda;;;OT;;C;",d/ | [,daa1] {a}/ ,,d ,d3/4 ,c/4 ,a3/4 ,,d/4 | \
+[,ca{a}1] ,a3/4 ,,d/4 [,,ba{9}/] ,,a ,,b ,,,c | \
+[c{8}1] a3/4 ,,b/4 [,,aa{a}/] ,,,c ,,a ,,,a |";italian7tab
+32;F dur;27;Giga;;;OT;;3;",d/ | [,daa3/2] {a}1 ,,d/ | (,d3/2 ,y1) ,,d/ | \
+[,a,a/] (,c ,a) ,d1 ,,a/ | ([,,b{a}/] ,,a) ,,b a1 ,,b/ |";italian7tab
+33;F dur;28;Sarabanda;;;OT;;3;",d/ | [,daa1] f [,cbc] | [,dde1] f [dc,c] | [cd,a/] d ([ca,,,d1] a/) ,d | \
+([,c,,a/] ,a) ,,d1 [,dd,,c/] ,c |";italian7tab
+34;F dur;28;Minuet;;;OT;;3;"[,d,a1] ,,d ,d/ a | ([,d,,a1] ,c) [,d,,c] | [,a,,,d1] ,,d/ ,a [,,b{8}] ,,d | \
+[,,a{a}1] ,,,c/ ,,a ,,,a1 | ,,,a/ ,,,c ,,a ,,c [,,d,e1] |";italian7tab
+;;;Sonata 9a;;;;;;;
+35;c moll;29;Preludio;;;OT;;C;",,d/ | [abd,a1] {10}/ ,,d (3[,,f,a] ,,d ,,f) [a,,,,e] ,a | \
+[,b,,a/] ,,d a f ([fa,,,a1] e) | ,,,,c/ ,f f d";italian7tab
+36;c moll;29;Alemanda;;;OT;;C;"a/ | [abd,a1] ,,,,a3/4 ,,,,c/4 [a,d,d3/4] f/4 h3/4 f/4 | \
+([fa,,,a3/4] e/) ,,,,,a3/4 ,,,,,c/4 [,a,,,e3/4] ,d/4 [a,,,,a3/4] ,d/4 | \
+[a(d,,a3/4] [,b)/4] ,,,,a3/4 ,,,,c/";italian7tab
+37;c moll;30;Giga;;;OT;;3;",,d/ | [abd,a1] ,,,,a/ ,,,,d1 ,,,c/ | ,,d/ ,b a f1 h/ | \
+i1 h/ f1 d/ | [,g,a/] ,,i ,f ,g (,i ,g) |";italian7tab
+38;c moll;31;Sarabanda Largo;;;OT;;3;"a/ | ([f,,,a/] e) f3/2 h/ | ([fa,,,a1] e) [f,,,d] | \
+[b,,a3/2] a/ [b,,,c] d | ([b,,,d1] a) f | \
+([,d,,c/] ,c) ,d1 [e,,,,a] |";italian7tab
+39;c moll;32;Gauotta Alle:o;;;OT;;C;"a1 | [f,,,a1] ,,,,c [f,,,d] ,,,a | [d,,,,a1] ,,,,,b [d,,,,d] ,,,,,a | \
+[b,,,a1] ,,,,,d [b,,,a] ,,,,c | [a,,,d1] ,,,,c [a,,,d] ,,,,a | \
+[,d,,c1] ,,,,a [,d,,,e] ,,,,,a |";italian7tab
+;;;Sonata Xa;;;;;;;
+40;F dur;32;Alem:a;;;OT;;C;",d/ | [,daa1] {a} {8}/ ,,d ,a ,c | [,da{9}1] {10}/ {11} {12} ,d a c | \
+[a{11}/] c ([c{13}] d) {10}3/4 a/4 (f/ d) |";italian7tab
+41;F dur;33;Current;;;OT;;3;",d/ | [,daa1] {a}/ ,,d ,d ,,d | ,,,a/ ,,b ,a ,,b ,,,a ,a | \
+,,,a/ ,a ,,d ,a ,,,a ,,d |";italian7tab
+42;F dur;34;Sarabanda Largo;;;OT;;3;",d1 | [,daa1] a/ ,d [,c,,a1] | ([,c,ac1] ,d) [,dd,,c] | \
+[aa,,,d1] ,c3/4 a/4 [,dd,,c3/4] f/4 | [d,,,,a3/2] a/ [,c{a}1] | \
+f1 (h/ f) [h{9}] ,d |";italian7tab
+43;F dur;35;Burre;;;OT;;C;",,d1 | ,d1 c a [f,,,a] | [c,,a1] ,,,e ,,,c [a,b] | \
+[a,,e1] ,d [d,,c] [c,,a] | [c,,,a2] a1 [,,d,e] |";italian7tab
+;;;Sonata XIa;;;;;;;
+44;B dur;35;Grave;;;OT;;C;",,b/ | [,db{11}1] [,db{10}] [,db{9}/] a/4 ,d [,b,,d3/4] ,a/4 | \
+[,a{a}1] [,,d,,a] [,,,a,c/] ,,d [,a{a}3/4] ,,d/4 | \
+[,,b,,a1] [,,b{a}] [a{8}3/4] ,d/4 [,c{10}3/4] ,,b/4 |";italian7tab
+45;B dur;36;Current;;;OT;;3;",,b/ | [,ab,,d1] {11}/ ,d a c | d/ ,d ,d ,d [a,,,,d] ,d | \
+[,b,,,d3/2] ,a/ ,,d ,a | ([,b{a}/] ,a) [,b,,,a] a [,d,,,c] ,b |";italian7tab
+46;B dur;37;Sarabanda Largo;;;OT;;3;",,b/ | [,aba,d1] {11}/ ,,,a ,,,c ,,,e | [,dff/] ,,,a ,,,,c ,,,a ,,,,a3/4 ,,,a/4 | \
+[,ab,,d1] ,,b/ ,,d ,a ,b |";italian7tab
+47;B dur;38;Minuet;;;OT;;6/8;",,,,,d/ ,,,,c ,,,a ,,b ,a ,d | (d/ c a) (,d ,b ,a) | \
+(,,,,c/ ,,,,a) ,,,,,d [,,d,,(c] [,,,,,a)] {a} |";italian7tab
+48;B dur;38;Ceccona;;;OT;;3;"z1 [cdda1] a | [cdd{a}1] [add{8}] [cdd{10}] | \
+[cda{9}1] [cdd,,c] [cdd{a}] | [adb,,d1] [acc,a] [acd{10}] | \
+[cdd{a}/] :||: {a}/ ,,,,,c ,,,,a ,,,a [c{a}] |";italian7tab

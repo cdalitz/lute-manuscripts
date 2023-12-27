@@ -1,0 +1,368 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+;;;[Concertus 1mus] Ex G dur;;;;;;
+1;G dur;1r;Air le tendre Someil;;;;Conc_2567;3;",a1 | [,,'c1] ,,c/ ,,a [,,,cc1] | [,aab1] ,,,,c ,,,,a | \
+[,c,,,d/] ,,,,,c [b,,,,a1] V[c{a}] | \
+[b,,,a1] ,c/ ,a c1 | [b,,,a1] ,c/ ,a [c,,,,c1] | \
+V[,c,,,d1] ,,d [,,'a,a3/4] ,,,c/8 ,,,a | "
+2;G dur;1v;Aria;;;;Conc_2568;C;"[,,c{a}/] ,,a ,,c ,,d [,ad,,c1] ,,,c | \
+V[,c,,,d1] [b,,,a/] ,c/4 b V[c{a}1] ,,c | \
+,c/ ,,,,,d {a} ,,,,,d [,'a] ,,,,,c {a} ,,,,,c | "
+3;G dur;1v;Menuet;;;;Conc_2569;3;"[,ac{a}1] ,,,c [,,,c,c] | [,,,ccd1] ,,a [,,c,,c] | \
+[,,d,,a1] ,,d [,aab] | [,,'c{a}1] ,,a/ ,,,c ,a1 | \
+V[,c{4}1] ,c/ ,e c1 | ['b{,,,a}1]> ,c c1 | "
+4;G dur;2r;Air gay;;;;Conc_2570;C;",/4 ,a/4 ,c ,e | c1 {a} [,a{,a}] ,,,,a/4 ,,,,c ,,,,e/ | \
+[,,'c{a}/] ,,d ,a1 ,,,c [,a{,a}] | \
+[,,'c{a}/] ,,d ,a1 [,,'c/] ,,a ,,,c1 | "
+5;G dur;2v;Rondeau sine aliis vocibus;;;;Conc_2571;3/8;",a/ | c/ c [,a{a}] | V[,c,,,d/] ,c [,,c{a}] | \
+[,,d,,a/] ,a/4 ,,d ,,c ,,d | [,,aba/] ,,c V[,,d,,d] | \
+[,ad,,c/] [,,'c] [,c,,,d] | [,a,,,c/] ,,d/4 ,,c [,c,,,d/] | "
+6;G dur;2v;Gigue cum caeteris instrumentis;;;;Conc_2572;6/8;"c/4 ,a/ | V[,c,,,d/] ,,d ,c [,'a{a}] ,,d ,,c | \
+[,,a{,a}/] ,,c [,,,c{,,a}] [,,'a{,,,a}1] ,a/ | \
+[,,'c{a}/] ,a ,,c [,,d,,a] ,c ,,d | \
+[,,a,a/] ,a,,a V[,,c{a}1] ,,,c/ | "
+;;;Concertus 2dus [in d];;accord ordinaire Con 2 Violini o hautbois, Basso;;;;
+7;d moll;3r;Allemande;;;;;C;"e/ | [eaa{,,,a}1] ,a [,,ee,a1]> ,,e | \
+[,aa,a1] ,,,,c ,,,,d {,,,a}/ a | \
+[,,d{,,a}1] {,a}/ ,,d [,,'d1] {,,a}/ ,,b | \
+[,,'a{,a}1] ,,,c/ ,,,a a1 'c/ ,d/4 c | "
+8;D dur;3v;Boure;;;8th course tuned to F#;;C;"[,a,,a1] | [,,e,,a1] ,c ,,a [,,e,,a] | \
+[,af,a1] ,e [,'c,,,a] e | [,ea,a1] e ,,a [,,e,,a/] ,a/4 ,,e | \
+[,af1] {,,,a} ,a :||: ,e1 | [,ce,,a1] e ,,e [,ca,,e] | "
+9;D dur;3v;Double;;;8th course tuned to F#;;C;",,,,a/ ,a | [,,e,,a/] ,a ,c ,,e ,,a ,,e ,,c ,,e | \
+[,a,,a/] ,c ,e c [,c,,,a] e c e | ,,,,a/ ,e c e ,,a \
+,,e [,,c,,a] ,,e | "
+10;D dur;3v;Menuet;;;8th course tuned to F#;;3;",e/ c e1 ,,a | [,a,,a/] ,,,,c ,,,,e1 [,e,,a] | \
+['c,,,c1] ,e [,c,,,a] | V[,e,,a1] ,e/ ,c e1 | \
+[g{a}1] ['e{,a}] [,f{,,a}] | [,'e{,,,a}1] ,f/ ,e ,c ,a | "
+11;d moll;4r;Sarabande;;;;;3/4;"[,,aaa{,,,a}1] ,,b {,,a}/ ,,b | [,,'b{,a}1] ,,a/ \
+{a} [,,e,,a1] | [,a,aa1] [,a'b] {a}/ ,c | \
+[,,'e,,a1] ,,,e/ {,a} [,,e{,,a}1] | [,aaa{,,,a}1] \
+[fa{a}] ,,,,,d/ f | "
+12;d moll;4r;Menuet ord.;;;;;3;"[ed,,a1] ['cc] ,,,,,e | ['a,,,a1] ,c/ ,a e1 | \
+V[fa{a}1] [c{4}3/2] ,c/4 c | [e{,a}1] c/ e a1 | \
+[fa{a}1] [c{4}3/2] ,c/4 c | [e{,a}1] c/ e a1 | "
+13;d moll;4v;Gigue ord.;;;;;6/8;"[,a,,a/] | [,,e,,a/] ,a [,c{a}] [,,a{,a}] ,a [,,e,,a] | \
+[,a{,,,a}/] ,,a ,,,a ,,,,a ,,a ,a | \
+[,c,,,d/] a [c,,,,b] [,,d,,a] a [,c,,,d] | \
+[,d{,a}/] ,,d ,,,e ,,,,d1"
+;;;Concertus 3tius [in g];;â Luth Con Chalmeau 2.;;;;
+14;B dur;4v;Air;;;;Conc_2705;3;"[,,baa{d}1] a ,,,,a/ f/4 ,a | [,bdc,d1]> ,,,,a ,,,,,d \
+,,,,,b | [,bd,,a1] [,,'da] {d}/ ,a/4 ,,b | \
+[,,'aa{,a}1]> ,,b ,,d1 | [,ab{d}1] [,,'d{a}] {a}/ ,a/4 ,,b | "
+15;B dur;5r;Gavotte;;;;Conc_2706;C;"[aa{d}1] f | [e{,a}1] ,f/ a [c,b{,,a}1] ,d/ ,b | \
+[,d{,,,a}1] ,b/ ,a [,bd{4}1] a/ c | \
+[,,d{,a}/] ,b [,a{d}] ,,d [,,'de{,a}3/2] ,,,f/4 ,,d | "
+16;B dur;5r;Menuet;;;;Conc_2707;3;"[,,ba{d}1] ,a a | [,'a{d}1] ,,d/ ,,b a1 | \
+[,b{4}/] ,a ,,d ,,b [,,aa] ,,b | \
+V[,,d{,a}1] ,,b/ ,,a ,,,c ,,,a | \
+,,b1 ,,,a a | [,,'d1] ,,,f/ ,,a V[,,b{a}1] | "
+17;B dur;5v;Bouree;;;;Conc_2708;C;",,,a1 | [,,baa1] ,,b ,,b [,,d{,a}] | \
+[,a{d}/] ,b ,a1 [,,d,,a] [a{,a}] | \
+[,a{d}/] ,b [,,d,,a1] [,a{d}/] ,,d [,,'b] ,,a | \
+[,,,'c1] ,,,,,d {4} [,,a{,a}] | "
+18;B dur;5v;Gig;;;;Conc_2709;3/8;"[,'a{d}/] ,,d ,,b | a/ c a | [,f{,,a}/] e f | \
+['e{,a}/] ,f a | [f{d}/] e f | [a,,,a/] ,b [,a{d}] | \
+[,,d{,a}/] ,a ,b | "
+;;;Concertus 4tus [in F];;Mons. Weichenberger: Con Viol: et Bass:;;;;
+19;F dur;6r;Entree;Weichenberger;;;Conc_3390;C;",,d/ | [,,ded1]> [,,de] [,,ff1] [,,aa] | \
+[,,bcc{,a}1]> [,cb] [,da1] {,a} | ,h/ ,h f h {,,a} ,f ,,,g1 | \
+,,,h1> ,h ,,,,a1 ,,d/ a | "
+20;F dur;6v;Bouree;Weichenberger;;;Conc_2252;C;",,d1 | [a{,a}1] ,,a ,,a [,,'b{a}] | \
+V[,,d,,a1] ,,,a ,,,a [,a,,,b] | \
+[,,d,,a1] a/ ,,d V[,,b{a}1] [,,d{,,a}/] ,,b | \
+[,,'a{,a}2] [,,,c{4}1] ,,d | \
+[a{,a}1] ,,d ,,d ['c{,,a}] | "
+21;F dur;6v;Menuet;Weichenberger;;;;3;"[ed{,a}3] | [,c{4}1] ,c/ ,d c1 | \
+[,,d,,a1] ,a [,,b{a}] | [,,a{,a}1] ,,,c/ ,,a ,,,a1 | \
+[ed{,a}3] | [,,c{a}1] ,,c/ ,,d ,a1 | \
+[,c,,,d1] [,d{,a}/] ,c ,a ,c | "
+22;F dur;6v;Menuet;Weichenberger;;;;3;"[,d{,a}1] 'c/ ,d/4 c e/ a | \
+V[c{,,a}1] ,c ,,d | [a,d{,,,a}1] ,c [,a{a}] | \
+[,,dcc{4}1]> ,a ,c ,,d | [,d,,,a1] ,c [,a,,,b] | \
+[ca,,,c1] 'a [,c,,,d] | "
+23;F dur;7r;Gig;Weichenberger;;;;6/8;",,d/4 ,a ,c | [ad{,a}1] ,,,a/ [,,'a] ,,,c ,,,a | \
+[,,dcc{4}3/2] ,,d1 ,,,,,a/ | [,ad,,b1] ,a/ [,a{,a}] ,b ,a | \
+[,'a{d}/] ,,d ,a [,,d,,a1] ,,d/ | "
+;;;Concertus 5tus [in G];;Mons. Lichtenstegers Con Violin Solo et Bass.;;;;
+24;G dur;7v;Allemande;Lichtensteiger?;;;Conc_2257;C;"c/ | [cacc{a}3/2] (,,a/8 ,,c ,,d ,a) ,c/> ,c \
+[,aa{,a}/]> ,,d | [,,c{a}/]> ,,d ,a/ {,a} {,,a}/4 \
+,,,c ,,a ,,c [,,'a{4}/]> ,,,c | [,,,'b{,,,a}/]> ,,,c \
+,,a/ ,,,,,d [,,,,,'c] ,,,c [,,dc,a/] [,,,'b/4] ,a | "
+25;G dur;7v;Courante;Lichtensteiger?;;;Conc_1539;3;",c/ ,a ,,d | [,,'cc1] ,,d [,aaba] | [,,,cc1] ,,,,,d/ ,,d \
+[,,dba1] | [,,'c{a}/] ,,a [,,'a{,,,a}1]> ,,,b | \
+[,,,c{,,a}1] ,,,,c/ ,,a ,,c ,,,,a | \
+,,,,,d/ ,,c ,c ,,c [,,'a1] | "
+26;G dur;8r;Sarabande;Lichtensteiger?;;;;3;"[,acc{a}1] [,acc/] ,a {,a} ,,d | \
+,a/ ,,c ,,,c ,,c ,,,,a ,a | \
+[,c,,,d/] ,a ,,d ,c ,,a ,,,c | \
+[,,,,e{,,,a}1] [,,,'c3/4] (,,,,e/8 ,,,c) ,,,e1 | "
+27;G dur;8r;Bouree;St.Luc/Lichtensteiger?;;;Conc_2085;C;"[g{a}1] | [e{,a}1] [g{a}] [,f{,,a}] [ef{4}] | \
+[,e{,,,a}1] ,,,,a ,,,,,d ,,,,,c | \
+[h,,,,a1] [h{a}] [h{,a}] ['g{a}] | \
+[e{,,,a}/] ,f e g e1 [g{a}] | \
+['e{,a}1] [g{a}] [,f{,,a}] [ef{4}] | "
+28;G dur;8v;Menuet;Lichtensteiger?;;;;3;"[,a{a}1] ,f g | ['e{,,,a}1] ,f/ ,e [,f{,,a}1] | \
+[,a,,,c/] ,,,,,a [,,c{a}1] [,c,,,d] | \
+[,,d,,a1] ,,c/ ,,a [,,c{a}1] | \
+[,,,,c{4}1] ,,a [,,d,,a] | \
+[,,,b{,,,a}3/2] ,,,,c/4 ,,,b V[,,,c{,,a}1] | "
+29;G dur;8v;Gig;Lichtensteiger?;;;Conc_2423;6/8;"[ca{a}/] | [b{,,,a}/] c e ,a ,c ,,d | \
+[,,'c{a}3/2] ,,,c1 ,c/ | [,aa{,a}/] ,c ,a [,,d{,,a}3/2] | \
+[,,c{,,,a}/] ,,d ,,c [,,'a{4}3/2] | \
+[,,,c,c1] [,c,,,d/] [,,aca1] ,,,b/ | "
+;;;Concertus 6tus [in f#];;Violin. 1. Viola: Con Bass: et Luth;;;;
+30;f# moll;9r;Allemande;;;;;C;",d/ | [,eeee{,a}1] [,'g/4] (e/8 ,g) e/4 ,g ,,f ,e ,,f ,,e \
+,,,g ,,f ,g ,e | {4}/4 ,d ,,e ,,c [,,'a/]> ,,,d \
+,,a/ ,e/4 ,c [,'ab/]> ,,e | "
+31;f# moll;9v;Courante;;;;;3;",,,d/ ,,a ,,c | ,,e1> {,a} ,a/4 ,,e ,a/ ,,e | \
+{a}/ ,,c ,,,,d ,a ,,e ,,c | \
+{,a}/ ,,a ,,,,e ,,c ,,e ,,,,c | \
+,,,,a1 ,,e/ ,e [,,'c] d | "
+32;f# moll;9v;Sarabanda;;;;;3;"[,,ee{,a}1] | [,,edd1]> ,a [,,e{4}] ,,c | \
+[,,'a{,a}1]> ,,c [,,ed{,,a}/]> ,,e | \
+[,ee{,,,a}1] ,,c/ d/4 ,e d/ ,e | \
+[,c{4}1]> ,,a ,,c ,,e | \
+[,ae,,c1] ,,,,e/ ,a [,c,d] ,a | "
+33;f# moll;10r;Gig;;;;;6/8;",,,,e1 ,,,d/ ,,,e1 ,,c/ | \
+,,e1 ,e/ [,'d1] ,,e/ | \
+,e1 d/ [e,,,e1] ['d,,,d/] | \
+[,e,e1] [d,c/] ,,e ,d ,,c | \
+[,e,e1] [d,d/] ,,,,e e ,,,,e | "
+34;f# moll;10r;Gavotte;;;;;C;",,e/ ,,c ,,a ,,,d | \
+[,,ade/] ,,,,c [,,,,'a] ,,,,,e [,,c,,c] ,,e ,a [,cc{a}] | \
+,,,,,a/ ,,e ,,,e ,,c [,,cdd] ,,c [,,'a] ,,,d | "
+35;f# moll;10v;Menuet;;;;;3;"[,,,e{,a}1] [,,,'d] ,,,,e | \
+[,,,d{,,a}1] ,,e/ ,,c ,,e1 | \
+V[,e{,,,a}1] ,,c ,e | \
+[,c{4}1] ,,e/ ,,c ,,a1 | \
+[,ae,,c1] ,,,,e ,,,d | \
+V[,,e,,a1] ,,e/ ,,c ,,a1 | "
+;;;Concertus 7mus [in A];;Sign. Glatzel Con Violin;;;;
+36;A dur;10v;Allemande;St.Luc;;;Conc_2200;C;",,a/ | [,acdc3] ,c1 | \
+[,,'e1]> ,,c [,,'a1]> ,,,d | \
+[,,ae1]> ,,,,c ,,,e1 ,,,,c | \
+[,,a,ce1]> ,,,,,c [,,,,,'a1] {a} | \
+[,,ee,a1]> ,c ,a1> ,,e | \
+[,,cde{,,a}1]> ,,,,c ,,,,a1> ,,,,,e | "
+37;A dur;11r;Courante;St.Luc;;;Conc_2201;3;",,,,c/ ,,,,e ,,,d | [,,aVe1] ,,,,,a/ ,,,d ,,a ,,c | \
+[,,ee,a1] [,,ee/] [,,cd] [,,ee] [,ac] | \
+[,ce1] [,'aa,a1]> ,,e | [,,'c,c1]> ,,,,e ,,,,c ,,,,a | "
+38;A dur;11r;Sarabande;St.Luc;;;Conc_2202;3;"[,,ae,a1] [,,'cd{,,a}1]> ,,c | V[,,e,,a1] ,,a2 | \
+[,ca,,e1]> [,,,d,c] [,,a,,e] ,,,,a | \
+[,,'a{,,a}1]> ,,,d [,,ae,a1] | \
+[,,cdc{,,a}1] [,,ee,a] [,ae,,c] | \
+[,ca,,e1] {4}/ ,,,,c ,,,b ,,,d | "
+39;A dur;11v;Gavotte;St.Luc;;;Conc_1335;C;"[,,ee,a1] {,,a}/ ,,c | [,,ee,a1] [,a,,,c] [,ca,,e] \
+[,a,,a/] ,,e | [,,'c{,,a}1] ,,,,c/ ,,,,a [,,a,ce1] \
+[,a,d,c] | [,,e,,a1] [,,c{a}/] ,,e [,,'a{,a}1] ,,,d/ ,,a | "
+40;A dur;11v;Menuet;St.Luc;;;Conc_2204;3;"[,,ae,a1] ,c [,,c{,,a}] | [,,'e,,a1] (,,c/ ,,e) ,,a1 | \
+[,ca{4}1] [,e{,,,a}/] ,c ,a ,,e | \
+[,,'c{,,a}1] ,,,,c/ ,,,,e ,,,,c ,,,,a | \
+[,,a,ce1] [,,,'d,c] [,,a,,a] | "
+41;A dur;11v;Gig;St.Luc;;;Conc_2203;3/8;",c/ | ,,e/> ,,c ,,a/ | ,c1 e/ | \
+'d1 ,c/ | [e,e1] ,,c ,,a | [ee1] ,a/ | \
+,c/ e ['d,,,,c] | V[e,,,,a1] ,e/ | \
+,c/ ,a ,,e | "
+;;;Concertus 8vus [in D];;M. Gla.[tzel] Con violin;;;;
+42;D dur;12r;Ouverture;;;;;C;"[,aab{,,,a}3/2] (e/8 c ,e) | \
+[ce{,,a}1] {,,,a}/ ['c,a{4}3/2] ,e/4 ,c | \
+[,ea{,,,a}1]> c [c{,,a}3/2] ,e/4 c | [e{,a}1] \
+g/ e ['c{a}1] ,e | "
+43;D dur;12v;Allemande;;;;;C;",a/ | [,aab{,,,a}3] ,c/4 ,e [cc] | \
+[,ea1] ,,a ,c/ ,,,c ,,,,e ,,,,c | \
+[,aaba1]> e [ee1] [gf] | \
+[ee1] ,a [c,c,c] ,,,,a | \
+[ec,,,c1]> ,f [,ea,a1]> ,h | "
+44;D dur;13r;Courante;;;;;3;",,a/ | [,,ab{,,,a}1]> {,,a} [,,a{,a}1] | \
+[,,c{a}1] [,,'a,c{4}1]> ,,,c | \
+[,,,b{,,,a}1]> ,,a ,a ,c | \
+[,ea,a1]> c ,e c | [ea{,a}1] [cc{a}1]> ,e | \
+[,ce,,a1]> ,c ,e ,c | "
+45;D dur;13v;Sarabande;;;;;3;"[ka{,,,a}/]> e | [ee{,,,a}1] ,,,,a [ec,,,e/] c | \
+[baa,a1] {,,,a} [ec,,,e/] e | \
+,,,,,c/ ,a e e [ccc{,,a}/]> c | \
+[cce,,a1]> c [,ea{,,,a}/] ,e | "
+46;D dur;13v;Bouree;;;;Conc_3958;C;",a1 | [,aab{,,,a}1] ,,a ,,a [,,cc{a}] | \
+[,,cc{,,,a}1] ,,a ,,a ,a | [,aab{,,,a}1] ,,a ,,a [,,cc{a}] | \
+[,,ab{,,,a}3] ,a1 | [,aee,a1] ,,e ,,e [,a,,,c] | \
+[,ca,,e1] [,ac] [,ce] [,ea,a] | "
+47;D dur;14r;Gig;;;;;4/8;"e/ | [e{,,,a}/] ,e ([,e,,a/4] c) e/ | \
+[e,,,,a/] ,c ,c e | [e,,,a/] ,e/4 c \
+[e{,,,a}/4] c ,e c | [,'ca,,a3/2] :||: ,c/ | \
+[,e,,a/] ,c/4 ,e [,ac{a}/] [ea{,a}] | "
+;;;Concertus 9nus [in A];;M. Licht.[ensteger] Con Violin;;;;
+48;A dur;14v;Allemande;Lichtensteiger?;;;;C;",c/ | [,cVe,,a1]> ,c e1 ['d,,,,c/] ,e | \
+[,'c,,,e1] ,,a ,,a3/2 (,,a/4 ,,c ,,e) | \
+,,,,,c/ ,,e ,a ,,,,d ,,,d ,,c [,'c] ,a | \
+V[,,e,,a1] ,,,e [,'c] [,cc{a}] | "
+49;A dur;14v;Courante;Lichtensteiger?;;;;3;",c/ e d | V[e,,,,a1]> ,c ,e1 | [,ca,,e1] ,,,,,c/ ,,e ,a ,,,d | \
+,,,,,a/ ,,e ,,,e ,a [,,'c{a}1] | \
+[,,ee{,,a}/] ,,,d [,,ad{,a}1] {,,,a}/ ,,c | \
+[,,,'d1] ,,,,c ,,,,a | "
+50;A dur;15r;Menuet;Lichtensteiger?;;;;3;"[e,,,,a1] ,c ,c | [,,e,,a1] ,,e/ ,a [,c,,,e1] | \
+[,e,,a1] ([,c,,,e/] ,a) [,,e,,a] ,a | \
+[,,c{,,a}2] [,,ae,a1] | [e{,a}1] ,e/ d e1 | \
+[dc{,,a}1] d/ e [g{a}1] | "
+51;A dur;15v;Bouree;Lichtensteiger?;;;;C;",,e/ ,a | [,c1] [,,e,,a/] [,a,,,c] [,c,,,e1] [,e,,a] | \
+[,'c,,,e1] ,,a ,,a (,,a/4 ,,c ,,e/) | \
+[,ae,,c/] ,,e ,,c ,,a [,acd1] [,,cd{,,a}] ,c | "
+52;A dur;15v;Canaries;Lichtensteiger?;;;Conc_1333;3/8;",c/ | [,,'e,,a/]> ,a ,c/ | [,,cd{a}3/2] | \
+[,,a{,a}/]> ,,,d ,,a/ | [,,,'d{,,a}1] ,,,,c/ | \
+[,,ade3/2] | [,,cd/]> ,,a ,,c/ | [,,ee,a/]> ,a ,,e/ | \
+[,,cd{,,a}1] ,c/ | [,,e,,a/]> ,a ,c/ | "
+;;;Concertus 10mus [in F];;M. Licht.[ensteger] Con Violin.;;;;
+53;F dur;16r;Allemande;Lichtensteiger?;;;Conc_4126;C;"[,,,ad/]> ,,,a ,,,c/ ,,,e [,,,cd{4}/] ,,,,c/4 ,,,,a \
+,,,,c ,,,c ,,d ,,b | [,,aa{,a}/4] ,,,c/8 ,,a [,,,'a/] \
+,,a/8 ,,c ,,d/4 [,,'c] ,,a/8 ,,c [,,dc{,,a}/]"
+54;F dur;16v;Courante;Lichtensteiger?;;;;3;",,d/ ,,b ,,d | [,,,'e1] ,,,,d ,,,,,d | \
+,,,,,a1 {,a} [a,,,,a/] ,b | [,'a{d}/] ,a/4 ,,d \
+,a/ ,,b ,,d ,a | ,,,,,a/ ,,d ,,,a ,a/4 ,,d ,a/ ,,d | "
+55;F dur;16v;Bouree;Lichtensteiger?;;;Conc_4117;C;",,d1 | [ad{,a}2] [cc{4}3/2] ,d/4 c | \
+[ed{,a}1]> f e1 [hh{,a}] | [hh{a}1] [ff] [ff{,,a}] [ed{,a}] | \
+[cc{4}/] [aa] [cc] [ed] [cc1] ,,d | [aVd{,a}1]> \
+c ['c,d{,,a}3/2] ,d/4 c | "
+56;F dur;17r;Menuet;Lichtensteiger?;;;;3;"[,,de{,a}1] [,,,ed/] [,,,ff] [,,de1] | \
+[,,ded1] ,,,,,d {,a} | [,a{d}1] ,a/ ,b a1 | \
+[,,'d,,a2] ,,,a1 | [,,bc{a}1] [,,bc{,a}] [,,dc{,,a}] | \
+[,,'aa{,a}1] ,,b [,,dc{,,a}] | \
+[,,,a{,,,a}1] ,,b/ ,,a ,,,c ,,,a | "
+57;f moll;17r;Trio;Lichtensteiger?;;;;3;"[,,,dd{,a}1]> ,,b ,,,d1 | [,,,'c{4}1] [,,,d{,a}] [,,,c{a}] | \
+[,,,,d{b}1] [,,,c,b] [,,,,cd] | \
+[,,,,d{,a}/] ,,,,c ,,,,d ,,,c ,,,,d ,,,c | \
+[,,,dd{,a}1]> ,,b ,,,d1 | [,,,'c{4}1] [,,,d{,a}] [,,,c{a}] | "
+58;F dur;17v;Gig;Lichtensteiger?;;;Conc_4127;6/8;"[a{,a}/]> ,c a/ ,,d1 a/ | \
+[,c{4}/]> ,a ,c/ ,,d1 ,,,,,d/ | \
+[,a,,,b/]> ,,d ,a/ [,,'b1] ,a/ | \
+[,,d,,a/]> ,,b ,,d/ ,,,e1 [,,b{a}/] | "
+59;F dur;17v;Aria;Lichtensteiger?;;;Conc_4128;C;"[add{,a}1] ,,d/ a [ad{,a}1] c/ e | \
+['c,d{,,a}1] ,,d/ c [c,d{,,a}1] Ve/ e | \
+[a,d{,,,a}1] ,,b/ ,,a ,,b1 c/ c | \
+[,cb{4}1] [,,'a/] a [,,,c,d] c 'a ,c | "
+60;F dur;18r;Menuet;Lichtensteiger?;;;Conc_4125;3;"[,d{,a}/] ,c ,d1 [c,d{,,a}] | [e,d{,a}1] e/ c a1 | \
+[,,d,,a1] a [,'cb{a}] | [ad{,a}1] ,c/ ,a ,,d ,,b | \
+[,,'aa{,a}1] [,,'b{a}/] (,,a/4 ,,b) [,,d,,a1]"
+;;;Concertus 11mus [in Bb];;M. Lauffensteiner Gracensi Con chalmeau in 2da voce;;;;
+61;B dur;18v;Allemande;Lauffensteiner;;;;C;",,b/ | [,,baa{d}/]> [cb] ['aa/] [,bd] [,aba{d}/]> \
+[,b,c] [,'a,a/] [,b,,b] | [a,b,a/] c/4 a c/4 a ,b ,a \
+[,,de{,a}/] a ,,d/4 ,a [,'a/4] (,,d/8 ,a) | "
+62;B dur;18v;Menuet;Lauffensteiner;;;;3;"[,,aa{d}1] ,,b [,,d,,a] | [,a{d}1] ,,d/ ,a ,,b1 | \
+[a,b{,,,a}1] c/ a [,b{,,a}] ,a | [,,de{,a}2] {,,a}1 | \
+[aab{,,,a}1] c/ a [,b{,,a}] ,a | \
+[,,de{,a}1] ,a/ ,,a [,,b{a}1] | "
+63;B dur;19r;Bouree;Lauffensteiner;;;;C;",,,c/ ,,a | ,,b1 [,,b{a}/] ,,,,,a [,a,,,b1] [,,d,,d/]> ,,b | \
+[,,'a,a1] {,,,a} [,,ab] ,a | [,,'b{a}1] ,,a/ ,,,c \
+V[,,d,,a1] ,a/ ,b | [,'a{d}1] ,,,a [,ab] [a{,,,a}] | "
+64;g moll;19r;Sarabande;Lauffensteiner;;;;3;",a/ ,,d | [,,b{a}1] ,,a/ ,,,c [c,b{a}/]> c | \
+['b,,,a1] ,c/ ,a [c,,,b/]> ,a | [,b,,,d/] ,a ,b c \
+['a,d,,a/]> ,b | [,'a{d}1]> ,b [a,d,,a/]> c | "
+65;g moll;19v;Menuet;Lauffensteiner;;;;3;"[,,bc{a}1] [,,d{4}/] ,,b [,,a{,,a}] ,,b | \
+[,,,c{a}2] ,a1 | [,b,c{4}1] [,,de{,a}2] | \
+[,'a{d}1]> ,,d ,,b1 | [,b,c{4}1] [,,de{,a}2] | \
+[,'a{d}1]> ,,d ,,b1 | [,,dc,a1] [,,,'b] ,a | "
+66;B dur;19v;Gig;Lauffensteiner;;;;6/8;",,b/ | [,,baa{d}1] ,,,a/ ,,,a ,,,c ,,,,b | \
+[,,,,'a/]> ,,,,,d ,,,,a/ {d}1 [aa/] | \
+[cb{,,a}1] [aa/] [,'bd1] [,ab/] | [,,de{,a}/]> \
+,a ,,b/ [,,de1] [a{,,,a}/] | "
+;;;Concertus 12mus [in F];;Ejusdem Auth. Con Basso et chalmeau in 2da voce;;;;
+67;F dur;19v;Entree;Lauffensteiner;;;;2;"a/ | {,a}1> ,,b ,,a ,,b ,,d1 | \
+[,,,ad1]> ,,,,,b ,,,,,a ,,,,,b ,,,,,d1 | \
+{,a}/ ,,a {a} ,,b ,,,,,a ,,d [,,b{d}] ,,a | \
+[,,,cc{4}1]> {,,,a} {,,a}1 ,,,c/ ,,a | "
+68;F dur;20r;Courante;Lauffensteiner;;;;3;",a/ ,,d ,,b | [,,a{,a}/] ,,d ,,a ,,,c ,,a ,,,a | \
+[,,,'cc{,,a}3/2] (,,,c/8 ,,a ,,b) [,,dcc{,,a}1] | \
+[,,baa{,,,a}1] ,,d/ ,,b [,,a,c{4}1] | \
+[,,,cab1] ,,a/ ,,,c [,,,ada1] | "
+69;F dur;20v;Gavotte;Lauffensteiner;;;;C;"[,,,ad{,a}1] ,,a/ ,,b | [,,d{,,a}1] ,,,c [,,d{,,,a}] \
+,,d/ ,,b | [,,b{,,a}1] [,,a{,a}] [,a,,,b/] ,,b ,,d ,a | \
+[,,d,,a/] ,,,a ,,,c ,,a {a} ,,b {,a} ,,a | [,,,ccd1]"
+70;F dur;20v;Menuet;Lauffensteiner;;;;3;"[ad{,a}1] ,,d ,,a | [,,,a{,a}1] ,,a ,,d | \
+[,,dc{,,a}1] ,,,c ,,d | [,,da{,,,a}1] ,,,a ,,b | \
+[,,b{4}1] ,,,,c ,,a | [,,a,,b1] ,,,,a ,,,c | \
+[,,,,cd1] ,,,,,b ,,,a | "
+71;F dur;20v;Bouree;Lauffensteiner;;;Conc_2586;C;",,d1 | [ad{,a}1] [a,a/] c a1 [ad{4}] | \
+[ad{,,,a}3] {,,,a}/ {,,a} {,,,a} [,,da,a1] | \
+[,a,,,b1] ,,b/ ,,a [,,,c,d1] ,,a/ ,,b | \
+[,,'a{,a}1] ,,,c/ ,,a ,,,a1 ,,d | "
+72;F dur;21r;Rondeau/Menuet;Lauffensteiner;;;Conc_2587;3;"[ad{,a}1] ,c/ ,a ,,d ,,b | [,,aa{,a}1] [,,aa] [,,bc{a}] | \
+[,,d,,a1] ,,,a [,a,,,b] | [,,d,,a1] {a} [ad{,a}] | \
+[,a,,,b1] ,b/ ,a ,,d ,,b | [,,d,,a1] ,,b/ ,,a ,,,c ,,,a | "
+73;F dur;21r;Gig;Lauffensteiner;;;Conc_2589;6/8;",,d/8 ,a ,c | [ad{,a}1] a/ [,c{a}1] ,a/ | \
+[,,d,,a/] ,,b ,,d/ ,,,a1 (,a/8 ,c ,d) | \
+[,a,,,b1] ,,,a/ ,,b ,,d ,a | [,,d,,a/] ,,b ,,d \
+[,,a{,a}/] ,,b ,,d | "
+74;F dur;21v;Bouree;Lauffensteiner;;;Conc_2584;C;",,d1 | [ad{,a}1] a/ ,c [ad{a}1] a/ ,c | \
+[a,,,,a1] ,c/ ,a ,,d1 [ad,,,a] | \
+[,a,,,b1] ,b/ ,a [,,d{,,a}1] ,,b | \
+[,,a{,a}1] ,,,c/ ,,a ,,,a1 [,,,c{,,a}] | "
+75;F dur;21v;Menuet;Lauffensteiner;;;Conc_2588;3;"[ad{,a}1] [,cb{a}1]> ,a | [,,d,,a1] {a} [ad{,a}] | \
+[,a,,,b1] [,,d{,,a}1]> ,,b | [,,'a1] {,a} [,,,c{,,a}] |: \
+[,,ba{,,,a}1] [,,a,c{4}2] | [,,,cab2] [,,,a,a1] | \
+[,,,cab1] [,,,,'c{4}1]> ,,,,d | [,,,ad{,a}3] :| "
+76;F dur;21v;Menuet;Lauffensteiner;;;Conc_2585;3;",,d1 | [,,a{,a}1] ,,b/ ,,a [,,,c{4}] ,,a | \
+[,,,ad{,a}1] {a} [a,,,,a] | [,a,,,b1] ,c/ ,a ,,d ,,b | \
+V[,,d,,a1] ,,,a a | [,a,,,b1] ,b/ ,a ,,d ,,b | "
+;;;Concertus 13tius [in e];;M. Ant. Jose. Simb. Violin o Flaut con Basson;;;;
+77;e moll;22r;Allemande adagio;;;;;2;"c/ | ['ccc,c3/2] (e/4 ,c ,e) c1 {,,a} | \
+g1 {4}/ ,c [,'b1] [,bc] | \
+[,cd1] [,cd/] ,,c [,,'a] ,c b ,c | \
+[,bc1] {4} [,bc] [,b(c/] [,,a)] | "
+78;e moll;22r;Courante;;;;;3;"[,,ae/] ,,,c ,,,,e | ,,,c1 {,,a} ,,c | ,,,c1 ,,c/ ,,,c \
+[,,,'b] ,,,,c | ,,,,b/ ,,,b ,,c1 ,,,,,c/ ,,a | \
+,,,,c/ ,,,c {,,a}1 ,c | ,,,,e/ ,,a ,a ,c [,'a,,a] ,,d | "
+79;e moll;22v;Sarabande;;;;;3;"[,cc{,,a}/] ,c [,'a{,a}3/2] ,,d/4 ,a | \
+[,,c{a}/] ,a [,,,c{a}2] | [cacc{a}/] c \
+['b,,,,a3/2] ,c/4 b | ,,,,,c/ ,b {4}2 | \
+,a1 ,,,c/ ,a ,,,,e ,a | "
+80;e moll;22v;Menuet;;;;;3;"[,,,'c{,,a}1] ,,,,c [,,a{,a}] | [,,c{a}2] [,,d,,a1] | \
+[,,a{,a}1] ,c [,b{4}] | [,c{,,a}1] ,,c/ ,,a ,,,c ,,,b | \
+[,,,c{,,a}1] ,,,,c [,,a{,a}] | [,,c{a}1] {,,a}/ ,,c ,,d ,,c | "
+81;e moll;22v;Gig;;;;Conc_3740;6/8;",,c/ | ,,,,c/ ,,c ,,,c ,,,,b/ ,,c ,,,b | \
+,,,,c/ ,,c ,,,c {,,a}1 ,c/ | \
+{,a}/ ,a ,,a ,,,,a ,a ,,d | \
+{a}/ ,,c ,,,c ,,,,a1 ,,c/ | "
+;;;Concertus 14us [in a];;M. Ant. Jos. Simb. Violin o Flaut con Basson;;;;
+82;a moll;23r;Allemande;;;;;2;"[,,ae,a1] [,,ae/] [,,,'d,c] [,,ae,d] ,,,,,a {b} [,,c,c] | \
+[,,d,,a/] [,,c,,c] [,,a,,d] [,,c,a] [,,,dc] ,,,,c [,,a,e] \
+[,,cd] | [,,de/] {,,,a} [,,ce{,,a}] [,,,'d] [,,aVe] \
+,,,,,a [,,de] [,a,,,c] | "
+83;a moll;23v;Courante;;;;;3;",,a/ ,,,d ,,c | [,,ae1] ,,,,,a/ ,,a {b} ,,c | \
+,,,,,a/ ,,,,c ,,d ,,,c [,,,'a] ,,,,c | \
+,,,,a/ ,,a ,a ,,d [,,'c{,,,a}] ,,a | "
+84;a moll;23v;Gavotte;;;;;C;"[,cde/] [aad] [,c,d] ,a [,,de] ,,,c [,,,'a] ,,,,c | \
+[aa,,a/] [,cd] [,ac] [,,de] [,,cdc] ,,,,c ,,,,e ,,,d | \
+[,,de/] ,,,c ,,,a ,,,,c [aa,,a] [,cd] [,ac] [,,de] | "
+85;a moll;24r;Menuet;;;;;3;"[,cd,,a1] ,,a [,,c{b}] | [,,d,,a1] [,,c,,c] [,,a,,d] | \
+[,,c,a1] {,,,a} [,,,'d{,,a}] | [,,ae,a/] ,,,d ,,a \
+,,c ,,d ,a | [,cd{a}1] ,,a [,,c{b}] | \
+[,,d,,a1] [,,c,,c] [,,a,,d] | "
+86;a moll;24v;Gig;;;;;6/8;",c/ | [e,,,,a1] [d,,,,c/] [e,,,,d1] [,c,,,c/] | \
+[,a,,e1] [,c,d/] [,,de1] ,,,c/ | \
+,,,a/ ,a [,,d,c] ,,,,a ,,c [,,a,,d] | \
+{,,a}/ ,,c [,,,'d] [,,aVe,a1] ,,,,,c/ | "
+;;;Concertus 15tus [in A];;M viol: ??;;;;
+87;A dur;25r;Allemande;Losy;;;Conc_866;C;"e/ | [ece,,a/4] ,,,,,a {a} {,a} {,,a}/4 {,a} {,,a} {,,,a} \
+{4}/4 e d ,e ,c/4 ,e ,c ,a | ,,e/4 ,,,,e [,,,,'c] ,,,,a \
+,,,,,e/4 ,,,,a ,,,,,e ,,,,,c"
+88;A dur;25v;Courante;Losy;;;Conc_867;3;"e/ ,,e ,a | [,c,,,a1]> ,a ,,e/ ,c | \
+,,,,,c/ ,a ,,,,,a ,a {a} ,c | \
+,,,,,a/ ,,e ,,,,c ,,e ,,c ,,a | \
+{a}/ ,,c ,,,,c ,,c ,,e ,,c | "
+89;A dur;26r;Bouree;Losy;;;Conc_3399;C;",,e/ ,a | V[,c,,,a1] ,,e ,,,e ,c | \
+[,c{a}1] ,,c ,,,d ,c | [ec{,a}1] ,c/ ,b ,c1 e | \
+[dc{,,a}/] e d ,e ,c ,a ,,e ,a | "
+90;A dur;26r;Sarabande;Losy;;;Conc_868;3;"[ece,,a1] [,'cc{a}1]> ,a | [,,e,,a/] ,,c ,,e ,a \
+[,,'c{,,a}1] | [,,a{,a}1] [,a{,,,a}/] ,,e ,,c ,,a | \
+[,,,'d{,,a}1]> ,,,,e ,,,,c ,,,,a | ,,,,,e/ ,c e c ,e ,c | "
+91;A dur;26v;Echo;Losy;;;Conc_871;3;"[,,e,,a/] ,a | ,c1 ,,a [,,cd{,,a}] | \
+[,,ee,a1] ,,a [,,cd{,,a}] | [,,ee,a1] ,,a [,,c{a}] | \
+[,,e,,a1] [,'a/] ,,e ,,c ,,a | [,,cd{,,a}1] ,,,,c ,,a | \
+[,,cd{,,a}1] ,,,,c [,cc{a}] | "
+92;A dur;27r;Menuet;Losy;;;;3;"[ece,,a1] ,c/ ,a ,,e ,,,e | [,c{a}/] ,a ,c ,e d ,c | \
+[e{,a}/] d ,e d e1 | [d{,,a}/] e d ,e ,c1 | "
+93;A dur;27r;Passepied ad libitum;Losy or S.L.Weiss;;;Conc_2597;3;",c1 | [,,e,,a1] ,,e/ ,,c ,,,e1 | \
+[,,cd{,,a}1] [,,cd] [,,ee] | \
+[,a{,a}1] [,c{a}/] ,a ,,e ,,c | \
+[,,e,,a1] ,,,e [,ca,,e] | \
+[,e,,a1] c/ e ,c ,a | "
+94;A dur;27v;Gig;Losy or S.L.Weiss;;;Conc_2216;3/8;",,,,c/ | ,,,e/ ,,a ,,,d | ,,,e/ ,,a ,,c | ,,,e/ ,,e ,,,d | \
+,,,e/ ,,e [,ac] | ,,e/ ,c [,ac] | ,,e/ ,c ,e | ,,c/ ,a [,aa] | "

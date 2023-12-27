@@ -1,0 +1,122 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;d moll;6r;Ciachone;;;;;3;"{8}1 ,,,c ,,a | \
+{9}1 ,,,c ,,a | \
+{10}1 ,,,,c ,,,a | \
+[,,,c{11}3/2] ,,,a/4 ,,,,c ,,,a1 || \
+{8}1 ,,d ,a | \
+[,,b{a}3/2] ,,a/ ,,,c1 | \
+{10}3/2 ,,,a/4 ,,,,c ,,,a1 ||";italian7tab
+2;d moll;6r;Sarabande;;;;Conc_302;3;"[eda,a1] [eda] [f{a}1] [c{11}/] c [e{8}1] | \
+[,abaab1] [,aba/] ,,,,,a [,a{a}1] | \
+[,,e,,a3/2] ,a/ ,,,,a1 || \
+[,aaa{10}3/2] ,c/ a1 | \
+[,,d{9}1] ,,b ,,a | \
+[,a{8}1] [,,b{a}] ,c | \
+[,,e,,a3/2] ,a/ ,,,,a1 ||";italian7tab
+3;d moll;6r;Praeludium;;;;;none;"{10} ,,,,a ,,,a ,,a ,a ,a ,,a ,,,a ,,,,a ,,,,,a ,,,,a ,,,a ,,a ,a \
+,,,,c ,,,c ,,d ,a ,,,,a ,,,a ,,b ,,,,,d ,,a";italian7tab
+4;d moll;6r;Sarab;;;;;3;"[eda,a1] [ed,,,d3/2] c/ | \
+[c,,,,a1] [c,,,,e3/2] ,c1 | \
+[,da{8}/] {a} ,c3/2 ,a/ | \
+[,aa,a1] [,aa{10}2] ||";italian7tab
+5;d moll;6v;sans titre;;;;Conc_303;3;",a/ ,,e | \
+,a2 {10}1 | \
+{9}1 ,,d ,,,f | \
+{8}1 ,,a ,,,,f | \
+,,,a2 ,,a1 | \
+,,,,,d1 ,,,c ,,,,c | \
+,,,,,e1 ,,a ,,,c | \
+{10}1 ,,,a ,,,,a |";italian7tab
+6;d moll;7r;Sarabande;;;;;3;"[,aaaa1] ,c a | \
+[,c,,,e3/2] a/ [,a,,a1] | \
+[ea,,,e1] [ea,,a] [f{a}] | \
+[c{11}3/2] c/ [e{8}1] | \
+[e,,a1] [edaa3/2] e/ | \
+[c{11}3/2] ,c/ e c | \
+[a,,,a1]";italian7tab
+7;d moll;7r;[Sarabande];;;;;3;"[aaa,a1] c [e,,,,e] | \
+[a,,,a3/2] ,c/4 a ,a1 | \
+[c{a}1] a/ ,c ,,,,a a | \
+[,c,,,a3/2] ,a/4 ,,e ,a1 | \
+[aa,,a1] c [e,,,,d] | \
+[aa,,,b1] c [e,,,,a] |";italian7tab
+8;d moll;7v;Corrente caravande;;;;Conc_4514;3;"e1 | \
+[eda,a3] | \
+[eda3/2] c/ e c | \
+[a,,,a1] ,c/ a ,a1 | \
+[c{a}/] a [,c,,,a3/2] ,a/4 ,,e | \
+,a1 {10}2 | \
+[,c,,,d1] a [c,,,,b] |";italian7tab
+9;d moll;7v;[Gigue];;;;;3;",c1 | \
+[,d,,a2] ,d1 | \
+[,c{a}2] ,a1 | \
+[,,e,,a2] ,,a1 | \
+[,a,,a2] [,c,,,d1] | \
+[a{8}3/2] c/ e1 | \
+[c{a}3/2] e/ [a,,,a1] | \
+[,c,,,a3/2] ,,e/ ,a1 | \
+{10}2 ||";italian7tab
+10;d moll;8r;Sarabande;[Gigue d'Angleterre];;;Conc_1471;3;"[,aaaa3/2] ,c/ ,a1 | \
+[,,e,,a2] ,,a1 | \
+[,d,,a3/2] c/ ,d1 | \
+[,c{11}2] ,,,,,d1 | \
+[e{8}3/2] f/ e1 | \
+[c{a}2] a1 | \
+[,c{11}2] ,,d1 | \
+[adda{8}2] ||";italian7tab
+11;d moll;8v;[Allemande];;;;Conc_4515;C;",a1 | \
+[,aaa{10}3/2] ,c/ ,,e ,,,,,a e c | \
+a/ {10} ,,,,a ,,,a [aaa3/2] a/ | \
+[c,,,,d/] {11} e {8} [,a,,,b] ,,,,,a {a} ,a |";italian7tab
+12;d moll;8v;[Allemande];;;;Conc_312;C;",,a/ | \
+[,,aaa{10}3/2] (3,,a/4 ,,c ,,e) [,a,,a/] ,c [,,e,,a] {a} | \
+[,aa{8}1] e/ e [c{a}] a [,c,,,a] ,a [,aa{10}] | \
+e1 ,a/ ,c [ed] ,,d c ,,b |";italian7tab
+13;D dur;9r;[Prélude];;;A-d-f#-a-d'-f'#;;none;",a ,,a ,,,a {10} ,,,,a ,,,a ,,a ,a ,c a ,a d ,,,,a ,,,,c \
+b a ,a ,,a ,,,a ,,,b ,,,,,a";italian7tab
+14;D dur;10r;[Prélude];;;A-d-f#-a-d'-f'#;;none;"{10}/ ,,,,a ,,,a ,,a ,e ,c a ,,,,,c ,,,,a ,,,a ,,c ,a a \
+,,,,,a {a} ,,,,a ,,,b ,,c ,c a/4 ,c a/ {8}";italian7tab
+15;D dur;10v;[Courante];;unfinished;;Conc_326;3;",,a/ ,,a | \
+[,aaaa{10}1] ,,c/ ,a ,,a ,,,b | \
+[,,,aa1] [,,,baa] ,,,,,a/ ,,a | \
+[,,cba3/2] ,,c/ [,,a{8}1] | \
+[,,c{9}/] ,,,b [,,e,e3/2] ,a/ | \
+[,aaa{10}1] ,,,,a/ ,c a ,e |";italian7tab
+16;d moll;10v;Cigue;;;;Conc_1379;C;"e1 | \
+[ed3/2] ,c/ [ed3/2] [,a/] [cc] ,a [e,e] c | \
+a/ ,a [,cd] [a,,e] [,a,f] ,,,c ,c ,a | \
+[,,ee/] ,a ,c ,,,c";italian7tab
+17;a moll;11r;Corrente;;;;Conc_4511;3;"[ecce,a/] d e1 ,c | \
+[,c,e/] ,,,d/4 ,,,e ,,,,c3/24 ,c/ | \
+[,a,a3/4] ,,d/4 ,,c3/4 ,,a/4 [,,,d{10}3/4] ,,a/4 | \
+[,,ce{9}3/2] [,,,d3/4] ,,a/4 ,,,c ,,a |";italian7tab
+18;a moll;11r;Alemand;;Courante;;Conc_333;3;",c/ | \
+[,cde,a3/2] ,d/ ,c ,a | \
+[,,de1] [,,ccc3/2] ,,a/ | \
+[,,aad1] {8}2 | \
+[,,,c,d{9}1] ,,a [,,ca{10}] | \
+[,,d,c{11}1] ,,,,,d/ ,,d [,ad,,c1] | \
+[,cd,,d1] [ba,,a] c |";italian7tab
+19;g moll;11v;[Sarabande];;;B-d-g-a#-d'-f';;3;",,,,a1 ,,,,f2 | \
+,,,,d1 ,,,,a2 | \
+[,,cab1] ,,,,,d ,,a | \
+[,,,ca{10}3/2] ,,,,e/ ,,,a1 :||: \
+{a}1 [,faaa2] | \
+[,d{10}3/2] ,,f/ ,a1 | \
+[,baa{9}1] ,d [,aa] | \
+[,,c{8}3/2] ,,,d/4 ,,c ,,,d1 :||:";italian7tab
+20;g moll;11v;[Canzonetta francese];;;6;Conc_2625;C;",f1 | \
+[,faa{a}1] [,e,,a] [,faa{a}] ,,,,a/ e | \
+[faa/] f e c [ea,,a1] {10}/ c | \
+[a,,,a/] c [,c,,,a] a [,aa,,b1] {8}/ e |";italian7tab
+21;g moll;11v;[Allemande];;;6;Conc_311;C;",,,a/ | \
+[,,,af{a}3/2] ,,,c/ ,,,,e {10} ,,a3/4 ,,c/4 | \
+[,aaa{a}3/2] ,a/ ,c ,,,,a ,f3/4 e/4 | \
+[faa{a}3/2] ,d/ ,c {11} a3/4 c/4 |";italian7tab
+22;d moll;12r;Prima accordatura;;Courante;;Conc_4513;3;",a1 | \
+[,aaa{10}3/2] ,a/ [,,d{9}] ,,b | \
+[,,a{8}3/2] ,,,c/4 ,,a ,,,a1 | \
+[,ab{a}1] ,c [aa,,a] | \
+[,ca,,a3/2] ,a/ [,aaaa1] | \
+[,c,,,d1] a [c,,,,b] | \
+[b,,,,a3/2] c/ [c{a}1] |";italian7tab

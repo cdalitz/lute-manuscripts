@@ -1,0 +1,35 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1;A dur;1;Prelude;;;;;C;",/4 (e d) (,e ,c) ,a ,,e (,a ,c) ,,a ,e (,c ,a) ,,e (,,c ,,e) \
+,a ,,,d (,c ,a)"
+2;A dur;2;Allemande;;;;;C;",a/ | V[,ce,,a1] ,,a/> ,e ,,c ,a [,,'a/] ,,,d/4 ,c ,,c ,a | \
+,,,e/ ,,e ,,,,,a/ (,a/8 ,,e) ,a/4 ,,,,,c/ ,,,,,e/4 ,,a ,c ,e \
+[,'a,,a/]> ,,e | "
+3;A dur;3;Courante;;;;;3;"(,c/ ,e) d | e1 ,,a/ e ['d,c] ,e | V[,ce1]> ,c ,e ,,e | \
+,,c/ ,a ,a (,,c/4 ,,a) ,,,d/ ,c | "
+4;A dur;4;Gigue;;;;;6/8;"d/ | (e/ d) ,e (,c ,e) ,a | [,,'e3/2] ,,,,,a1 ,a/ | \
+[,c{a}/] ,a [,,e,,a] ([,,c{,,,a}] ,,e) ,,a | "
+5;A dur;5;Rondeau;;;;;C;"[,'c/]> ,a | [,,ee1] [,,cd] [,,ee] [,a,,e] | \
+V[,,cd1] {,,a} ,,,,c ,,e/> ,,,d | [,,ad{a}1] [,,ed{,,a}] \
+{,,,a}/ ,,,,e ,,e ,,c | "
+6;A dur;6;Menuet alternativ;;;;;3;"([,,,e,a/] ,,,d) ,,,e ,,c ,,e [,a,,,c] | \
+V[,c,,,e1] ,,a (e/ c) | ([,e,,a/] ,c) [,'a] (,,e ,,c) ,a | "
+7;A dur;6;Menuet;;;;;3;"[i,,,,a1] ['g{a}] {,,a}/ i | [eg{,a}1] ,,,,a/ g ['d{,,a}1] | \
+([,e,,a/] ,c) [,a,,,c] ,,,,,a ([,c{a}] ,a) | \
+[,,'e,,a1] {,,,a}/ ,a [,,'cd{,,a}1] | "
+8;C dur;7;Prelude;;;;;C;"{4}1 ,/4 ,,,,,d ,,,,c ,,,c ,,d (,,,,c ,,,c) ,,d ,c ,,,c ,,d \
+,c | c/4 ,c ,,d ,c ,,,c ,,d ,,,,c ,,,c {,,,a}"
+9;C dur;8;Allemande;;;;;C;",,d/ | ,,,,,d/4 ,c ,a a ,c c ,d e ['cc/] ,,d ,a/4 a [,,'c/] | \
+[,cd/]> ,c ,,,a ,,a ,a ,,d [,,'cc3/4] (,,,c/8 ,,,a) \
+,,,,c/4 ,,d [,,,,'a] ,,,,,d | "
+10;C dur;9;Courante;;;;;3;"h/ 'g (,h | ,f1) ,,,d2 | ,,,g/ ,,f ,f a ,,,h ,,h | \
+{a}/ (,,h ,,f) (,,,h ,,,g) {,a} | "
+11;C dur;9;Menuet;;;;;3;"[,,d{4}1] c [ca,,,c] | [cc,,,d1] ,,d/ ,a ,c a | \
+[c{,,a}1] ,,d [e{,a}] | ([c{a}/] a) (,c ,a) [,,d,,a1] | "
+12;C dur;10;Gigue;;;;;6/8;"(,,d/ ,,c ,,d) ,a ,,d ,a | ([,c,,,d/] ,a) ,c [a,,,a] \
+,c a | ([c,,,c/] a) ,c ([,a,a] ,c) ,,d | [,,'cc1] \
+,,,a/ [,,d,c] ,,,,a ,,,,,d | "
+13;d moll;11;Prelude;;;;;C;"k1 ,/4 ,h ,,i ,h ,,,k1 ,/4 e ,d e ,a a ,,a ,a ,,,a ,,a \
+,,,,a ,,,a {,,,a} ,,,,c ,,,c"
+14;d moll;12;Courante;;;;;3;",,,,a/ | [,,,,aVf1] {,,,a}/ ,,,a ,,,,c (,,,c | \
+,,,a1) ,,,,a/ ,,a ,,,c (,,b | ,,a1) ,,,,a/ ,a ,,e (,c | \
+,a1) ,,a/ a ,c (c | "

@@ -1,0 +1,64 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;Es dur;3v;[last 3 bars of Courante];;;10c;;;;
+2;Es dur;3v;Sarabande;;;10c;;3;"[,Xbaa{9}1] [,baa] ,b3/4 a/4 | \
+[,a{8}1] ,,c/ ,a ,,a1 | \
+[,,Xc,,a3/2] ,a/ [,b{a}3/4] ,b/4 | \
+[a{8}1] a/ {9} c1 | \
+[aaa{12}3/2] ,b/4 a ,b1 |";italian7tab
+3;c moll;3v;Baye dandaye;;;6g;;3;"X[,,cab{11}1] [,,cab] ,,c | \
+[,,ba{a}2] ,,b1 | \
+[,,c({b}/] [{a})] [,a{8}3/2] ,b/ | \
+X[,baa{9}3] | \
+X[,baa{9}1] [,baa] [a{10}] | \
+[c{9}3/2] ,a/ [,a{12}] (,a/4 ,b) | \
+,d1 [,,ha{11}3/2] ,a/ |";italian7tab
+4;c moll;3v;Prelude;;;6g;;none;"{11}/ ,,,a ,,c ,a ,b ,,c c {10} {9} ,b a c [d{8}] ,a X,b ,,c \
+[,,b{a}] ,,,a ,,,,d ,,,a ,,,,b";italian7tab
+5;c moll;3r;[Ballet];;;6g;;C;"[,,cab{11}1] [,,cab3/4] ,a/4 | \
+[,baa,d1] {11}3/4 a/4 d3/4 [c{9}/4] [a{8}3/4] ,b/4 | \
+[,a{a}1] ,,,a3/4 ,e/4 X,f3/4 e/4 X[f,,a3/4] f/4 | \
+[e,,,e/] ,a [f,,a] e ,f e";italian7tab
+6;c moll;3r;[Ballet] 2;;;6g;;C;",b/4 X[,bca,d3/4] a/4 [,a{a}3/4] ,b/4 | \
+[,,cbb{b}1] z3/4 ,,a/4 [,,a{9}3/4] ,,c/4 X[,,,b{8}3/4] ,,a/4 | \
+[,,,aa{a}3/2] (3,,,,d/4 ,,,,b ,,,,a) ,,,,,d/ (3,,,,a/4 ,,,,b ,,,,d) \
+,,,a/ ,,,c |";italian7tab
+7;C dur;3r;[Ballet] 3;;;6g;;C;"X[,cca,d3/2] ,c/ [,d,,,a] ,c [,a{8}] ,,c | \
+[,,ba{a}3/2] ,,c/ ,a ,,,a c a | \
+[,c,,,d1] [a,,,a] [c,,,c/] ,,c e c | \
+[ca,,a3/2] ,e/ c1 ||";italian7tab
+8;C dur;3r;[Ballet] 4;;;6g;;C;"[,,cacd3/2] ,,,,,b/ ,,,,,a ,,c [,a{a}] ,c | \
+[aXdc{8}3/2] c/ Xe a h f | \
+[e{8}3/4] f/4 [h,,,,a1] X,,,,,b/ [aa] {8} e |";italian7tab
+9;c moll;3r;[Ballet] 5;;Cont'd on f. 1r;6g;;C;"X[,,c,,d1] ,,,a/ ,,,,a X,,,,b ,,c ,,,,,c ,a | \
+,,,,,d/ X,b ,,c ,a [,,ba1] {a}/ ,,b | \
+X[,,c,,d/] ,a X,b a X[c{a}] e [f,,a] f |";italian7tab
+10;c moll;1r;Sarabande;;;10c;;3;"X[,bca,d1] [,bca3/2] a/ | \
+{a}1 [,aaa] [,aaa] | \
+{4}1 [,,cbb3/2] ,,a/ | \
+[,,aaXb{9}3] | \
+[,,c{11}/] ,a ,b a c e | \
+f/ ,,,a d3/2 ,f/4 a |";italian7tab
+11;g moll;1r;Sarabande;;1v empty;10c;;3;"X[faaa{a}1] [faa] [faa] | \
+[ea{10}3/2] ,f/4 e ,f1 | \
+X[cb{9}1] [cb] c | \
+[a{8}3/2] ,b/4 a ,a1 | \
+X[,,h{11}1] ,,h a | \
+[,a{12}3/2] ,,c/4 ,a ,,a1 |";italian7tab
+12;d moll;2r;[Courante sarabande];;;;Conc_4514;3;"e1 | \
+[eaa{10}3] | \
+[e,,,,e1] c e/ c | \
+[a,,,a1] ,c a/ ,a | \
+[c{a}/] a [,c,,,a1] ,a ,,e | \
+,a1 {10}2 | \
+[,c,,,d1] a [c,,,,b] |";italian7tab
+13;d moll;2r;[Allemande];;2v empty;;Conc_4515;C;",a1 | \
+[,aaaa{10}3/2] ,a/ ,,e ,,,,,a e c | \
+[aa/] {10} ,,,,a ,,,a [aaa3/2] a/ | \
+[cc/] {11} e ,,,,,a [,a,,,b] ,,,,,a [,c{a}] ,a |";italian7tab
+14;F dur;4r;Corente de Giacomo Bareza;;[Accordatura Italiana p(er) il Liuto] - arciliuto - 4v empty, ff. 5r-11r staff for kb;G-c-f-a-d-g;;3;",a1 c ,,,a | \
+,,,,c1 ,,,,,c ,,d | \
+,c1 ,,,,,d c | \
+[a,,,a3/2] ,c/4 a ,d1 | \
+,,,a1 {a} c | \
+[,d,,c1] [a,,,e] ,,d | \
+{a}1 [,a,,,a]";italian7tab

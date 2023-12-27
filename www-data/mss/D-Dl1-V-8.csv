@@ -1,0 +1,223 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+;;;;;Einige der Seiten sind Doppelseiten, d.h. die Tabulatursysteme gehen von der linken Verso-Seite zur rechten Recto-Seite, was durch einen verbindenden Unterstrich angezeigt wird (z.B. 5v_6r).;Some of the pages are double pages, on which the tablature systems run from the left verso page to the right recto page, which is shown by an connecting underscore (e.g. 5v_6r).;;;;
+1;d moll;3r;Nascela penamia [Nasce la pena mia];;;;ConcR989;;,a2 ,,,,c1 ,a | [,aa1] ,,,,c/ ,c [,d,,c1] ,,a | [,,aa1] [a,,,c] [caa,c] ,,,c | [caaa1] [ca,ac] [fcde,c] ,,,,,e;frenchtab
+2a;g moll;3v;Festiuai colli;;;;ConcR861;;,a2 ,a1 ,a | [a,,c2] ,,,c1 [a,,c] | [,df1] ,a [,df] [ac] | [cd,,c1] ,a ,d [,d,,c] | [ac,c1] ,a/ ,,d [da1] ,,,c |;frenchtab
+2b;g moll;4r;Cosi le chiome / 2 Pars;;;;ConcR2923;;,,,c4 | [,ab2] > ,,d | [,df2] [ab] | [ca/] ,b ,a ,,d [,ab/] ,,a ,,b ,,d | [caa,c/] d c a ,d/ ,c ,d a | ;frenchtab
+;;;;;5v_6r Doppelseite;;;;;
+3;d moll;5v_6r;Fantasia Horat. Vecch:;;"""Diese Tabulatur gehet durchauß""";;ConcR3366;C;,a/ ,c ,d a c ,d a c | [d,,c/] ,,a ,,b ,,d [ca] [d,b] ,,d [ca] | [ab/] ,,,c ,a [d,,c] [c,a] ,,b [a,d] [c,a] | ;germantab
+;;;;;6v_7r Doppelseite;;;;;
+4;d moll;6v;[Fantasia];;sim. Fantasia Horat. Vecch: (f. 5v_6r);;;C;,a/ ,c ,d a c ,d a c | [d,,c/] ,,a [d,b] ,,d [ca] [d,b] [c,d] ,a | [ab/] c [da] ,c [cd,,c] ,,,,e [cd,a] [,c,c/4] ,,f | ;germantab
+5;G dur;7v;Fantasia Joh: Dulant;Dowland;finis vid. f. 43r;;Conc_4429;C;h2 e1 h | f1 e c2 | a1 e c2 | ,,f/ c ,e1 [a,c] ,,f/ ,e | ;germantab
+6;G dur;8r;Toccada;;;;;;,a1 ,a/ ,a ,c ,,c ,,d ,a | ,,a c c [ca] [e,c] [,ef] [a,d] [c,c/4] ,,a | ;germantab
+7;A dur;8v;Fantasia Diomedis;;;;;;,,a1 ,,c/4 ,,e ,a/ ,,e/4 ,a c/4 ,c/8 ,d ,c/4 ,a | [ef/4] g h/4 ,e/8 ,f [gh/4] ,f [h,k/] ,,l/4 k/8 l k/ ,,,h/8 ,,f ,,h ,,i | ;germantab
+;;;;;9v deest - vacat?;;;;;
+8;f moll;10r;Fantasia sup Ich ruffe zu dir Herr Jesu Chri;;;;ConcR2901;;f2 b1 d [bd2] [,de1] [ab] | [b,e2] [d,b1] ,,d ,,e f ,b d | ,d2 ,b1 [ab/] [,df] [,bd/4] ,d a b [dab] b [abd] d |;germantab
+9;c moll;11r;[Galliarda] ;;;;ConcR83;;[,cdca/] ,a ,b ,,d f ,,,,c | [db,,d3/2] b/ a ,d | [ab,,d/] d [cd] [ab] [,df] [,bd] |  ;germantab
+10;B dur;11v;[Galliarda];;;;ConcR2563;3;[ddf,,d2] [ddf,,d] [ddf,,d] | [hd,f,d3] [f,g1] [ddf,,d2] | [cdda2] [addca1] ,c/ ,a ,c ,d a ,c | ;germantab
+11;F dur;12v;Pavan;;;;;;[cdda2] [acd,a1] [aacc] | [cdda1] [ddf,,d] [cdd{a}/] > a [,da{a}] [,da{a}] | [,cd,a1] > [,acc] [,cd,e] [acd,a]  ;germantab
+12;C dur;13r;Pavan;;;;ConcR2902;;[acd3] ,,c1 [cdd] [fc] [f,fc] e | [fcd,a1] d/ c a1 [aab] [,,de] ,d [,dbc/] ,c/4 ,a ,c1   ;germantab
+13;d moll;14r;Galiarda;Dowland;;;ConcR326;;[,aa,c1] > ,c ,d ,a ,,,,c [a,,,e] | [ca,a{d}1] > {c} {d} [,a{a}] {d} [e,d,,a1] ,,c | [f,,e,c1] > ,,c ,,d ,,,e ,,d [ea,,,d/] c |    ;germantab
+14;f moll;14v;Galiarde Gintzler;;;;ConcR116;3;[fd,d1] [df,f] [acd] | [,dda3/2] a/ [bd] d | f/ ,,,,a [df,,d] f [bd,a] d | [acd1] ,,,,a2 | ;germantab
+15;c moll;14v;Ein ander;;;;ConcR74;3;[ffg,a2] [dbb,d] [bddd] | [a,dca2] > a [da,ac] | [if,h,f2] [ff,d] ,d/ f | [ef,c2] ,,,,,a4] | ;germantab
+16;G dur;15r;Padouana;;;;;;[aac,,a2] > [ca{e}] | [ea,c,a2] {e}1 f | [haa{a}2] f1 ,,,,,c | [ea,c,a1] a [a,,,a/] c e f | ;germantab
+17;G dur;15v;Padouana;;;;;;[aacc2] > [aacc] | [caab2] [caab] [ec,de] g | [hea{a}2] z2 | [acd,a2] f [ea,,c] c | [ea,c,a2] z2 | ;germantab
+18;Fdur;16r;[Coranta];;;;ConcR2903;C;f1 | [fda{a}2] [ha,f1] | [fd,a2] [da,c1] | [cdda1] > a c | [,da,c1] > a [ccd,,c] | [aab,,d1] > c [,da{a}] |  ;germantab
+19;f moll;16r;Praeludiu;;;;;;[,dda{a}] | [,dda{a}3/2]  a/ [bdda1] ,,,,d | [dde,b1] ,,,,a [gd,f,d2] | [fdd,,c2] [,de,,d/] f d1 |   ;germantab
+20;F dur;16v;Fuga;;;;;;,,d2 ,,d1 ,,d ,,a ,,,a ,,a ,,b | [,,da2] [,,aa1] ,,,a [,,b,c] ,,,,,d ,,,,c ,,,,e | [f,aa2] [f,,ca1] f  [c,,,c] ,d [c,,a] d | ;germantab
+21;G dur;17r;[Pavane];;;;;;[aac,,a2] [,bd] [aadc,a] ,,c1 ,,a [aacc,a3] ,d1 | [,bdca1] b a [,d,d] [,b,c] [,a,a] [,bdca] ,,,,,d/ ,,,,,c | ;germantab
+;;;;;18r-19r vacat;;;;;
+22;C dur;19v;Dantz;;;;;;[,cdca1] > ,,,,,e [,da,,c] [aac,,a] | [cdda{d}1] > a [,da] [cdda] | [fdaa/] [ea,c] ,,a ,,c [cdda1] [fcde] | ;germantab
+23;e moll;19v;Ein Ander;;;;;;[efh,e2] [efhge1] [fc,e] | [haa,h/] ,,,a ,,,,e ,,,,c [kf,ha1] [cce,,c] | [efh,e/] ,e ,c ,,f [fcde1] [kh,hk] | ;germantab
+24;C dur;20r;Polenscher Dantz;;;;;;[fc,ca1] > e [c,def] [aacc/] ,e | [,cde1] [c,ee/] [,,cc] [,,def] a [,cd,e1] | [cda,c/] ,,,c [cc,,a1] [hd,f,d] ,,,,h |;germantab
+25;F dur;20r;Dantz;;;;;;[cdda1] > [acd,a] [,df,c] [,cde,c] | [,aa,c/] ,c ,d a [ccd,,c] d [fh,a1] | [hd,f,d1] [fd,a,c] [da,c,a2] | [cdf,c2] |;germantab
+;;;;;21r Text;;;;;
+26;F dur;21v;Pas á mezo;;"""Suo Jochmio Losen""";;;;,d1 a | [cdda1] f c h f ,,d [da] ,c |  [cd1] ,,d/ a [,da1] ,,f/ a [c,d] ,a [d,,c] [c,de/4] a |;germantab
+;;;;;22v_23r, 23v_24r Doppelseiten;;;;;
+27;g moll;22r;Dantz;;;;;;[caa,c1] | [da,c,a2] [da,c,a1] [caa,c] | [aab,,a2] [aab,,a1] [ha,f] [fc,e] [cdda] [da,c] ,c |;germantab
+28;f moll;25r;[Passomezzo?];;;;;;,d1 a | [bdda] {a} ,,,a d [add] [,c,,a] [bdda] {a}/ d | ,b [,,dd] [da,c] ,b [b,,a] ,a/ ,,d [,dff1] ,,,,,d |;germantab
+;;;;;26v_27r, 27v_28r Doppelseiten;;;;;
+29;g moll;26r;Passamezo 1. Modus;;"1.lin. incompl., 31v ""Finis.""";;;;a1 c | [dab,,a2] h1 ,,,h [ha,f] ,,,,h [f,,e] ,,,a | [da,c];germantab
+30;C dur;32v;[Passamezo];;;;;;,,d ,a | [,cdca/] ,d a [cdf,c] [a,d,e] [,daa] [,cdc] [,ac] [,cdca] ,d a [ccd,,c] [aab,,d] ,d [,ddca] ,c [,dda{a}];germantab
+31;d moll;33r;[Passomezo Bocqueti];;;;ConcR3112;;,a/ ,c | [,df1] c [cd] [ac] [,df/] a c1 ,,c/ c b1 | [cd,e1] [,c,c] [,a,a] [,,d,e] [,a,a] ,,d/ ,,,,e ,,,,c ,,d [,ac1] |  ;germantab
+32;f moll;34r;Allemande gemalli;;cf. La Monica (incipit);;;;,,d1 | [,dda1] [a,d,e] [bdda] {a} [aacc/] ,,d [a,c] ,d [,bd,a] a ,d ,b | [,aba,d/] ,b [,dda,c1] [a,b,,a/] ,,,,e [,daa{a}1] ,a/ ,c  ,d1 ,,a;germantab
+33;G dur;34v;Toccada;;;;;;h2 e1 f h2 [ef] | [fc1] ,e [ef] c/ a c2 ,e1 ,,f | [afc1] ,,d [,ef2] [,cd1] ,e a ,,c | ;germantab
+34;D dur;36r;Polenschr Dantz;;;;;;[ca,bc2] [aa,,,d1] [ca,,,c] | [da,c,a2] [ca,bc] | [aacc1] ,,,a [a,c,e] ,,e | [,efec4] | [aac,,a2] [,cee,c] | [,aba,d3/2]  ,c/ ,d a [c,ee,c1] |;germantab
+35;d moll;36r;Dantz;;;;;;[ca,ac1] > [a,d,e] [,dfec] [,cde,c] | [,daac1] [acd,a] [cdda{d}]  > e |  [fdaa1] [haa{a}] [eff,,a] ,,f | [fc,ca1] > e [cdda] [fc,ca] | ;germantab
+;;;;;"""Christoff von Loß""";;;;;
+36;A dur;36v;Dantz;;;;;;[cce,,c3/2] ,f/ [,da,c] ,c ,a1 | [cce,,c3/4] [c,,,,c/] ,,,,,a {d} {c} {a} | [da,c,a1] [ca{e}] [aac,,a] ,e/ ,c |  ;germantab
+37;d moll;37r;Galliarda;;;;ConcR627;;[,af2] ,,c/ ,,a ,,c ,,e ,,f1 ,,e/ ,,c | ,,a2 ,a1 ,c ,d a | [cdf2] ,,d1 ,,c e ,,c | ;germantab
+38;D dur;37r;Gall[iarda];;;;ConcR478;;[,ef1] ,f [cef] [cef] [cef] [cef] | [cef3] f1 d c | [df,c1] > c d [c,f] [a,b] ,,d | [,ef,c2] {,a}4 | ;germantab
+39;F dur;37v;Branle;;var. D-Sl_G.I.4(1) / 30v, D-Sl_G.I.4(1) / 31v;;;;{a}1 ,,d | [,,b,,a1] ,,,c ,,a ,,b | [,,a{a}1] ,,,a ,,,c ,,,e | [,,,ca1] ,,,,e ,,,a ,,,c | [,,,a{a}1] > ,,,c ,,,a {a} |   ;germantab
+40;g moll;38r;Gall[iarda];;"""TELOS / FINIS der von E.H.D.""";;;;h1 f [da,c,a2] [c,a{b}] | [aab,,a2] c [da,c,a] | [caa{b}2] [da,c,a1] c [aa{,a}] c | [,efe{,a}2] > ,f [,efe{,a}] | ;germantab
+;;;;;"38v ""Nobilissimo viro J. Joachim A LOS amico suo iucundissimo"", 39r am Eck beschädigt. Incipit nach Konkordanzen ergänzt. ";;;;;
+41;d moll;39r;[Fantasia];;;;ConcR672;;,a{,a}2 ,a2 | ,a2 ,a | [c,d2] ,,a | [c,e2] [ca] | [ac1] ,a [,cd] ,,c/ ,,a | [b,c1] ,c [c,e] ,a | e1 ,c [f,a] ,d | ;germantab
+42;F dur;40r;Paß e mezo;;;;;;,d1 a | [cdda1] > d f h f d c a | [cdda2] f1 h f c d f | [ha,f1] ,d ,d a ,d ,b ,a ,,d |;germantab
+43;F dur;40r;Paß e mezo;;;;;;,d1 f d | [cdda1] ,,,c/ ,,a ,,b ,,d ,a ,c ,d1 ,,,a ,,,e ,,,c | ,,,a1 ,,a ,,d ,,b [,,aa] [,,bc] ,,,a ,,a |;germantab
+44;D dur;40v;Gagliarda;;;;ConcR478;;[,ef1] > ,f c [cef] [cef] [cef] | [cef3] f1 e c | [cef1] > f e [c,a] [a,b] ,,d |;germantab
+45;d moll;42r;Fuga sup Verleih unß friedt Tobiae kuhn;;;;;C;,a4 ,a2 ,a | ,,d2 ,a ,d ,c | [ca1] ,,d/ ,,c [c,a1] ,,c [c,d] ,a | [ac2] [ca1] e [fc] ,d [ef2] |;germantab
+46;c moll;42v;Galliard;;;;;;[abd1] c [dab2] [f,dd] [ea,c6] [if,h1] ,h [h,,f] ,f [f,,d] ,d [d,,c] ,b [b,,a] ,a [ab,,d]  ;germantab
+;;;;;f. 43 finis Fantasia Dowland (7v);;;;;
+47;d moll;43v;Fantasia Gregorii Houuet;;(Dowland? Huwet?);;ConcR330;C;,a1 ,,,,c ,,,,e ,,,a [,a,c] ,,,a/ ,,,,d ,,,,c ,,,,a ,,,,,d ,,,,,c | [,a,,,a1] ,,,,,d {d} ,,,,,a [,,de,c] [,a,,,d] [,cd,,c] [,ea] |  ;germantab
+;;;;;44v_45r Doppelseite;;;;;
+48;f moll;44v_45r;Allemande;;cf. La Monica (incipit);;;;[,dda2] | [,dda2] a [b,d{a}] d [abd,a1] > ,d ,b [,bdca] | [,dba,d1] [,dda,b] [aab,,a] ,,,,e [,,da{a}2] ,,d1 {a} |  ;germantab
+;;;;;45v-46r vacat;;;;;
+49a;c moll;46v;Gagliarda Gregor:;Gregory Hovet ?;;;;3;,,d1 ,a | [abd2] > ,d ,b | [aab2] [a,dd] ,d | [aacc2] > ,d [,bd] | [,dff1] > ,f ,d ,,,c ,,,e ,,,f | ;germantab
+49b;c moll;46v;vel sic;;Reliqua ut supra il;;;3;,,d1 ,a | [abd2] ,,d1 ,d [abd2] | [,dff2] [,b,d1] ,,d ,b ,d | [aacc2] ,,,c1 ,d [abd2] | [,dff1] > ,f ,d [,,bc] [,,de] [,ab] | ;germantab
+50;G dur;47r;Ein Polnischer tantz;;;;ConcR1232;C;[hf,gh2] [if,h,f1] h/ f [hf,gh2] > [aacc] | [a,d,e2] [bdda1] [a,,d/] ,d [aacc1] > ,,d ,,c [hf,gh] |;germantab
+51;F dur;47v;Gagliarda;;;;;3;[cdda2] [acd,a] [,da,c] | [,cde1] ,,c ,,d/ ,,c ,,d ,,f [,cde1] ,,d | [fc,e1] ,e [efh,e] ,,f [c,da] ,a |  ;germantab
+52;f moll;48r;Gagliarda;;;;ConcR548;3;[,dda1] a [bdd] ,,,a [acd] ,,,,a | [,daa{,a}1] ,c/ ,a ,,d ,,b ,,a ,,,c ,,,a2 | [dd,f1] > f [gd] ,,,f [fdde] ,,,,f | ;germantab
+53;F dur;48v;Gagliarda;;;;;3;[,daa1] ,,,,e [,da,c] ,,c ,,,,a [acd,a] | [cdda2] {a}1 d c2 | [acd,a1] ,d [,caac2] [,aaa] | [,cee,c2] ,,,e1 ,,f [,cee] |   ;germantab
+54;D dur;49r;Frölich in allen Ehren;;;;;;[hh,k,h] | [hh,k,h/] > k l1 [khh,k] [hiif] | [ffhh1] > d [cdda] ,d | [ffhh1] [fdde] [ddff/] ,h [acd1] | ;germantab
+55;F dur;49v;Gagliarda;;;;ConcR2904;3;[,daa{a}2] | [,daa{a}3] ,c/ ,a ,,d2 | [fcd,,c2] [da,,,d1] c [acd,a] d | [cdda1] ,d a c [acd,a] d | ;germantab
+56;C dur;50r;Chipassa;;;;ConcR178;;[acd,a2] | [acd,a2] ,,,c1 ,d ,c ,a | [acdca2] [aadc,a] ,,c] | [acd,a2] ,,,c1 ,d ,c ,a | [,cd,a1] ,d a ,,,,c ,,,,e [a,d] |;germantab
+57;g moll;50v;Gagliarda;;cf. R71;;;3;[aab,,a2] [aab,,a] [aab,,a] | [aab,,a4] [aab,,a2] | [,dba,d2] [,bdca] ,a1 ,,d | [,acc,a2] ,,,c1 ,,d [,acc,a2] |  ;germantab
+58;d moll;51r;Gagliarda Tobiae;Tobias Kühn;;;ConcR2954;3;,a1 ,c [,da] ,,,,c ,c ,,,,b | [,aa,c1] ,,,,e ,,,a ,a ,,,,e ,,e | [,da,c1] ,,f c ,,,,e ,,,a ,,,c |;germantab
+59;G dur;51v;Gagliarda;;;;ConcR253;3;[ha,g,a2] [fc,ca1] ,e [eff,,a2] | [caa,c2] [e,,,a1] ,,,,,e [fc,,,c2] | [h,,,,e1] > f [e,,,,a] [f,,,a/] e [ca,,c] a c1 | ;germantab
+60;D dur;51v;Gagliarda;;;;;3;[,efec1] c {a} ,f ,e [,c,c] | [,efec1] {a}/ ,f c1 [aa,,,e] [ccd,,c] ,e | [eff,,a1] ,,,c/ ,,d ,,f1 ,,d ,,c [c,,b] | ;germantab
+61;d moll;52r;Gagliarda;;;;;3;[,aaac1] [,c,c] [,daac] [a,,,e] [c,aa] ,,,,a | [da,,cd1] ,,,,,c ,,,,,a [c,d] [aab] [,dde,c] | [aa,c,d1] ,,,,,a [,,fec] ,e/ ,c [c,,e{a}1];germantab
+62;g moll;52r;Gagliarda;;;;;3;[,,,c,a1] ,,a ,,b ,,d ,a ,,,,,c ,,,,,d ,,,,a ,,,c ,c [,d{a}] ,a | c1 {c} [,,a{d}] ,,,,,a ,,,,,c ,,c ,,d ,a ,c ,,,,,a ,,,,,c ,,,,,e |;germantab
+63;g moll;52v;Gagliarda;;;;;3;[aabc2] | [,aa,c2] {a} [,a,,,e] | [,c,ca2] ,,d [,aa,c] | [aac,,a2] > c [dabc] | [cdda2] [abb,d] [c,d1] a |;germantab
+64;F dur;52v;Gagliarda;;;;ConcR2905;3;f1 c d | [fda2] [dd,c1] ,c ,d/ ,c ,a ,c | [cdda2] {a}1 ,,d ,,a ,,b | [acd,e2] [,dd,c1] ,,c ,,d/ ,,c ,,a ,,c |;germantab
+65;G dur;53r;Gagliarda;;;;ConcR1414;3;[ca1] ,,d ,,c ,,a [bac2] | [ccfe2] ,,e1 a [,daac] ,,c | [,cdca2] [,a,acd1] ,d [,c,c] ,a | [,,eeec2] ,a1 ,c [,daac] ,,c |;germantab
+66;c moll;53r;Gagliarda;;;;ConcR576;3;f1 h [if,h2] [hil,h] | [fggd2] > h [f,,d] | [dfg,d1] [fg,d] [dfg,d] ,,f [bdda2] | [acd,a3] ,a1 ,,d ,a | ;germantab
+67;c moll;53v;Gagliarda;;;;ConcR2906;3;f2 h | [if,h,f2] > [if,h,f] [hf,fh] | z1 [hi,fh] [fggd2] > [fddd] | [effc3] f1 [e,,c] c | [effc1] f e ,,,a [f,,,d] [h,,,,h] |;germantab
+68;F dur;53v;Gagliarda;;;;ConcR2907;3;[c,da1] d [cd,a2] [acd] | [,df2] ,,,f1 ,d [,cd2] | ,,a1 ,c [,ab] ,d [,c,c] ,a | [,cee2] ,,f1 ,,h [,cee2] | [c,da{a}1] d [c{a}2] [acd,a] |   ;germantab
+69;g moll;54r;Gagliarda;;;;ConcR580;3;[hf,fh1] > f ,i2 [ca,b1] ,,d | [aabc2] [,,de1] ,e [aab,,a] c | d1 [c,d,,c] [aa,c,d] d [cbd,a] [a,b] | [,efec2] ,,,,c1 ,f ,e ,c | ;germantab
+70;C dur;54r;Gagliarda;;;;ConcR2908;3;[,cd2] [,cde1] ,,,c [cdda2] | [acd,a3/2] ,a/ ,c ,a ,c ,d ,c2 | [fc,e,c2] [efh,e1] [ffh,a2] [cef,c1] | [aac,,a1] ,d/ ,c ,a ,,d ,,c ,,a ,,,c2 | ;germantab
+71;a moll;54r;Gagliarda;;;;ConcR2909;3;,,a2 ,,a [,ca] | [,c,c2] ,c1 ,,a [,ab2] | [ccde1] ,,f ,c ,,,c [cdda2] | [acd3/2] ,a/ ,c ,a ,c ,d [a,,,a1] ,,d/ ,a | ;germantab
+72;c moll;54v;Gagliarda;;cf. ConcR83;;;3;[,,dca1] [abd,a] f [da,c,a2] d1 | [abb,d1] [,dba,d] [,bdca] [,acc,a2] [,acc,a1] | [da,c,a2] [acd,a1] [bdda2] [,dba,d1] [abb,d2] > a [,dba,d] | ;germantab
+73;g moll;55v;Passamezo;;;;;;a1 c | [dabc1] a d [c,a] [a,b] ,,,c [aab] [,ede] | [a,b1] ,,,,,a [a,b,c] [,aa,c] [aa,c,d] ,,,,,a [,,da,c] [,abc,a/] ,c | ;germantab
+74;G dur;57v;Passamezo in g sol re b dur;;;;ConcR2910;;,,,c1 ,,a | [aac,,a1] ,,,c/ ,,a ,,c1 [,,d,,c] [,a,c,e] [,c,,a] [,aacc] ,,,b/ ,,d | [,,cc,a1] ,a/ ,,d [,,cc1] [,,ab] [,,cc] [,,d,e] [,a,a/] ,,d [,,cc1] |;germantab
+75;G dur;58r;Gagliarda;;;;ConcR2911;3;a1 c | [eac,,a2] > c e | [a,d,e2] [c,,a1] ,a [ea,c2] | [fc,ca2] ,,d1 [ea] ,c [c,d] | a1 ,,c [a,a] ,,,c [,,de] ,e | ;germantab
+76;F dur;58v;Passamezo in F fa ut B duro;;;;ConcR3099;;,d1 a | [cdda1] ,d f ,,,c ,,a [h,,f] [f,d] [da] | [c,da1] [da] [c,d] [a,b] [c,da] [,df] [a,b] [c,d] | ;germantab
+77;g moll;59v;Contra punto Spirit: Vel le Vol: Supra hymnum Veni redemtor gentium;;;;;;,,,c4 ,,,c2 ,,,c | [,a,b2] [,a,c] [,ab] [,,de] | [,a,c1] ,c [,db,c2] ,,a1 ,c [,ab,c] ,c | [,da,c1] ,,b [,cdca] ,,,c [,ab,c] ,,,,e ,,,a [,,aa] |;germantab
+78;c moll;60r;[Gagliarda?];;;;;3;,,d1 ,a | [abd1] ,,,,a ,a [a,,,,e] [,bd] ,,,,a | [,a,c1] [,,c,,a] [,b,,a] a ,,d c | [dd,f1] ,,,,,d [f,d] [,d,,,c] [,f,,,d] ,,,f |;germantab
+79;d moll;61r;Fantasia aus differnot;;;;;;c4 ,a2 c d c ,d a | c2 ,,a1 a [,d,,c] a [,da] ,c | [,ab1] ,c [,da] a [c,,a] a/ c [a,,c1] ,d | ;germantab
+80;F dur;61v;Galliardt Holborn;;;;ConcR3100;;[fddef2] > d [c,da1] a/ c | [dc1] ,,,c ,d c [acd2] | [cdda2] [addca] > ,c | [,daa{a}2] ,,,a4 :||: ;germantab
+81;D dur;62r;[?];;;;;C;[caa{,,a}1] [c,f] [,ef] [ac] [ce2] [df] [caa,c1] [,,a,c] [,,,bc] [,,,ce] [,,ab2] [,,bc] | [caa,c1] [ca] [,ef] [ac] [ce] ,,f [df,c/] ;germantab
+82;g moll;63r;Pavana Anglica;;;;ConcR337;;[aab,,a2] > [c,d] [da,c,a] [ca,bc] | [aab,,a1] h/ ,,a [,,bcd1] f/ d [ff,h4] | [h,a,,h1] ,e/ ,c ,e2 [df,c1] [f,d] [h,,f] k |   ;germantab
+83;F dur;63v;Intrade à 6;;;;;3;c1 | f2 d1 | c1 a [cd] | [fc1] ,d [df] | [cd1] > [ac] [cdf] | [ffh1] [cd] [df] | ;germantab
+84;B dur;63v;Galliarda M. L. H. à 4;Moritz Landgraf zu Hessen;;;;3;[,dff,d1] [,dda,c] [a,b,ea] | [c,aa{a}3] | [c,def1] [,,dce] [da,ac] | [fc,ca3] | [hd,f,d1] [f,da,c] [dffc,a] |;germantab
+85a;G dur;64r;Intradi di Paris à 6;;;;;;[effc2] [effc1] [effc] [fcd,a2] [effc1] [f,d,e] | [haa,,h2] [haa,,h1] [haa,,h] [acd,a1] > ,d [acd] [ea,c] |   ;germantab
+85b;G dur;64r;[Reprinse];;;;;;[effc2] > [effc] [effc] | [kghg,k2] > [kghg,k] [kghg,k] | [gghe2] > [gghe]  [gghe] | [hhk,,h2] > [hhk,,h] [hhk,,h] | [kf,h,f2] [mh,k,h] [na,,kh] |;germantab
+;;;;;"64v ""Nobillisimo viro de...timo à Loss ....2"", ""oldenburg""";;;;;
+86;g moll;65r;Gagliard;;;;ConcR1256;3;[aab,,a1] [c,a] [da,c,a2] [ca,bc] | [aab,,a1] ,d/ ,c ,a ,,d ,,c ,,a ,,,c2 | [ddf,,d1] f h ,,,,c ,,,,d [fdaa] [dab,,d] c/ a ,d ,b ,a ,,d ,,b1 |  ;germantab
+87;g moll;66r;[Galliarde];;;;ConcR227;3;[hff,,a2] [ffh,a] [da,c,a] | [ca,bc] > ,,,c [ca,bc] | [d,,c2] [c,,a1] ,,a  [a,b,d] ,,d | [,da,c1] [,a,,,d] [,d,,c] [a,,,d] [c,da] [,d,a] |;germantab
+88;A dur;66r;Padouana;;;;;;[cce,,c3]  ,f1 [,da,,c] ,c ,c2 | [,cee,c1] ,,f/ ,,e ,,f2 | [,cee,c1] ,,,e [,cee,c] ,,,c | [cdda{d}4] | [,ghge2] ,c1 ,,,,a | ;germantab
+89;C dur;66v;[Pavan];;;;ConcR2902;;[acd3] ,,c1 [cdd] [fc] [f,fc] e | [fcd,a1] d/ c a1 [aab] [,,de] ,d [,dbc/] ,c/4 ,a ,c1   ;germantab
+90;G dur;68v;Exercitium sive Praeambulum;;;;;;[aac,,a4] [abd,a] | [aac,,a2] [abdca3/4] ,d/4 a b a b a ,d ,b ,a ,,d ,,c ,,a | [aacc,a1] [,,d,d] [a,dcca] ,,c ;germantab
+91;d moll;68v;Aliud;;;;ConcR163;;[caa,c1] ,a/ ,c ,d a c d | [fc,e1] ,,,,,c ,,,,,e ,,,,a ,,,,c ,,,,e ,,,a | [ea,c1] ,,,,,a/ ,,,,,c ,,,,,e ,,,,,a ,,,,,e ,,,,a |;germantab
+92;d moll;68v;[Exercitium] ;;;;ConcR3111;C;,,,,c1 ,,,,e [,,aa] [,,c,c] [,,d,e] [,,aa] [,,cc] [,,d,e] | [,aa,c1] ,,c/ ,c [,da,,c1] [,a,,,e] [,c,,a] [,d,,,c] [a,,,,e] [,c,,a] |;germantab
+93;F dur;69v;Intrada Anglica;;;;;C;[,dda{a}1] > a c1 ,d [fdd{a}] > e c1 [aab,,a] | [,daa,c1] [,daa{a}] [,ddca] ,c [,daa{a}2] [,da1] {a} |;germantab
+94;C dur;69v;Courante;;;;;3;[,,dca2] [,,dc1] | [,,d,a1] > ,a ,c | [,daa{a}2] [,,d1] | [,daa{a}2] [acd,a1] | [cdda1] > d f | [cdda2] [acd,e1] | [,daa{a}2] ,,d1 |;germantab
+95;c moll;69v;Alia;;;;;C;[,,d,a1] | [,bd,a1] [,a,,,e] [,,dca] [,d,,,c] [aac,,a] ,d/ a [,d,a1] ,d | [,bd,a1] [,da,c] [ab,,d] [c,,a] [d,,,,d] c/ a ,d ,d | ;germantab
+96;F dur;69v;Alia;;;;ConcR498;3;,,d1 | [,dda2] ,,d1 | [,dda2] a | [c,,a1] a c | [,dda2] f1 | [fd,a2] [fd,a1] | [dabc2] [da,c1] | [cdda3] | ;germantab
+97;c moll;70r;Canson Englesa;;;;ConcR201;C;z1 ,,d [,b,,a/] ,d a1 [a,,,a/] c d1 [f,,,a/] d c1 | [acd,a1] ,,d [,b,,a/] ,d a1 [a,,,a/] ,d ,b1 [,a,c/] ,,d ,,c1 |;germantab
+98;C dur;70r;Altera Canson Englesa;;;;ConcR2955;C;z2 [acd,a1] f [f,,,a] c [d,,,,a] f | [h,,,,a1] a [a,,,a] f [f,,,a/] d c1 [a,,,a/] ,d ,c ,a |;germantab
+99;C dur;70r;Saltarello Englesa;;;;ConcR20;3;[acd,a4] f2 [fcd,a] a ,c | [,dda2] > a ,c [,acc,a4] [,cd,a2] | [,dda1] ,c ,d a c d [f,,a2] a ,c |;germantab
+100;c moll;70r;Pavane à l' Engesa [=Englesa];;;;ConcR37;C;[abd,a2] ,,,c [abd,a] ,a1 ,,d | [aac,,a1] ,,,c/ ,,a ,,c ,,a ,,c ,,d [aac,,a2] [abd,a] | [bdda2] [a,bcd] [,dff,d] [,dff,d] ;germantab
+101a;G dur;70v;Allemande Bisarde;;;;ConcR2950;C;[aac,,a1] > ,d [,cdca] ,d/ a [cdd{a}1] > a [,dba,d] [,cd,a/] ,d | [aacc1] ,,,,,a/ ,d [,cd,a1] [,aacc,a] [,,dca1] > [,,dc] ,,,,a1 ,,d | ;germantab
+101b;G dur;70v;Reprinse;;;;ConcR2951;3;[aac,,a1] > ,d [,cdca1] [cdd,,,a] > a [,dba,d1] | [aac,,a1] ,,,c/ ,d ,c ,a [,,dca1] [,,dc] ,,,,a | [aac,,a1] ,,,c/ ,d [,cd,a] d ;germantab
+102a;c moll;70v;Allemande;;;;ConcR2952;C;z2 z1 ,,d [abd,a3/2]  ,d/ [,b,,a] ,d a c | [dab,,d/] ,,,a [dab1] b/ a [b,da1] [abb,d] [,dba,d/] ,a ,b ,d |;germantab
+102b;c moll;71r;Reprinse;;;;ConcR497;3;,,d2 | [abd,a3] ,d1 a c [dab,,d2] > b a | [bdda2] [abb,d] [,dba,d] [abb,d] ,,,c ,,d | [abd,a3] ,d1 a c [dab,,d2] > b a |;germantab
+103a;g moll;71r;Alemande;;;;ConcR763;C;[aabc2] [aabc1] [,ea,c] [aac,,a2] > [aac] ,,,,,a1 ,d/ ,b | [,a,a/] ,,d ,,c ,,a [,,cc] ,,d ,a ,,c [acd,a1] > [acd] ,,,,a1 a |;germantab
+103b;g moll;71r;Reprinse;;;;ConcR2953;3;[aabc2] [aab] [,ea,c] [aac,,a2] > ,d [,bd,a] | [,a,a2] ,,d [,,cc] [acd,a2] > [acd] ,,,,a :||: [aabc2] [aabc] [cdda] [da,,d2] > [dab] ,,,,,d |;germantab
+;;;;;71v-72r vacat?;;;;;
+104;d moll;72v;Riposta à son questi;;;;;;[,dfec3] [,cee,c/] [,dfec] [acd,a1] [ccd,,c] [dff,,a] [fhi{a}] | [ffh,a1] [cdf,c] [ffh,a2] [ffh,a1] [,,,ha] [,,hh] > [,,hh] |;germantab
+105;C dur;72v;Cuando l'amora;;;;;C;[acd1] [acd/] [acd] [cdda1] [fdde/] ,,d [dffc1] ,c [fhi,f] ,,,h | [dc,c1] [dffc/] ,d [ccfe1] ,,e [caa,c4] :||:;germantab
+106;c moll;72v;Mentrio;;;;ConcR468;C;a2 [,bd/] ,d ,b1 [aac/] ,,d ,,c ,,a ,,c1 [abd] | [b,dd/] ,a [ab,,d1] [,df,f/] ,,g ,,f1 [ab,,d2] > [dfg,d] |   ;germantab
+107;c moll;72v;Risposta Mentrio Veßi;;;;ConcR2912;C;a3/2 ,d/ [,bd] ,a ,b ,d a1 ,,c/ ,,a [aac] ,,a ,,c | [,bd1] a/ a [,dde1] [,,ff/] ,,,c ,d ,b ,a1 [,bd] ,a/ ,,d |;germantab
+108;c moll;72v;Tra le chiome Hor: Vecch:;;;;;C;z1 ,,d/ ,,d ,,d1 [f,d/] ,,d [f,a1] [f,aa/] [f,,a] [ca,a1] [fdaa/] [,da] | [da,,c1] [c,da/] ,d [aa,c1] [,bd,a];germantab
+109;B dur;73r;cosa non nuda piu [cosa non vada piu];;;;ConcR2782;;z1 [ddff] [dab] [dcbc] [cdda] [dfg,d] [fbdd] [fddd] | [dfg,d1] [ddf,,d] [cdda/] a c1 [ddf,,d2] :||: z1 [ddff] [,fhi] [cda] [,cde] ;germantab
+110;g moll;73r;Il cor che mi rubasti;;;;ConcR1519;;,,,c1 [df] [cd,,c/] d [ab,,d1] [,df,,d/] a [,bd,a1] [a,cc/] ,,d ,,c ,,a | [,acc1] [dfg,d1] [ddff] > [fdde] [ddff] [abd] [aacc/] ,,d ,,c1 | ;germantab
+111;d moll;73r;Ridon di Maggio a 4.;;;;ConcR2328;;,a1 ,a/ ,c [cd1] [ca/] e [f,de] ,,c [c,de] [,ac] [acd] ,d [acd] c | [da,c/] ,,,a ,,,c [c,de/4] a [,dff/] ,c [cd,a] ,a [ac,c1] [,df,c] [,cee] > ,,f |;germantab
+112;C dur;73v;Donne crudel Giovanni Ferreti a 5.;;;;ConcR869;;[ffhh,f4] [fddef2] [effc1] c/ e | [f,dca2] [acd,a1] ,,d [cdda] ,,,a [acd,a] [aadc] | ,,c1 [a,dce] [haa,,h] f [effc,a] ,,f ,,f ,,,c/ ,,d | ;germantab
+113;G dur;73v;Non mi toglia il ben mio;;;;ConcR1196;;,,,c2 a | [,,d,e2] [,c,e] | [aacc2] [,,d,e] | [,da,c2] [,cd,a] | [,acc1] ,,,c [,cd,e] [,,de] | ,c1 [,,cc] ,a [,,ab] |  ;germantab
+114;F dur;74v;Bariera parte Volte;;;;ConcR1092;;[cdda/] [cdd] ,,,a [cdd] [cdda1] f [cdda2] [,dd{,a}] [cdda/] [cdd] ,,,a [cdd] [cdda1] f/ d [cdda1] > a ;germantab
+115;G dur;75r;Gagliarda di Speroni Milanezo;;;;;;,,,c/ ,,a ,,c ,,d ,a2 [ca,b] [ea,c,a] > a c/ a c e | [fc,e,c1] h f e f/ e c a [,ea,c2] {,a}1 ,a ,c/ ,a ,c ,e |;germantab
+116;G dur;75r;Alia ?ejusdem;;;;;;[aacc2] [aacc] [caab] [ea,c3] [a,,,e1] [c,,a] [e,,c] | [fc,e3] e1 c a [,ea,c3] [,a,,,e1] [,c,,a] [,e,,c] | ;germantab
+117;F dur;75r;Alia ?ejusdem;;;;;;[cdda2] [acdca] [,da,c] [ccee,c] > [cce] ,,,e | [,aba,d2] [,,da,c] [,,bc,a] [cdda] > [cdd] ,,,a | [ha,f2] [faae] [dabc] [,,a,c1] a c ,d [da,,,a] c |;germantab
+118;d moll;75v;Praeambulum del Cavaglier del liuto;;;;ConcR163;;[cda,c2] ,a/ ,c ,d a c/4 a c e | [fc,e1] ,,,,,c/ ,,,,,e ,,,,a ,,,,c ,,,,e/4 ,,,,c ,,,,e ,,,a | ;germantab
+119;f moll;76r;[La Monica];;Monica-Variante;;;;[,dda] a [b,,a] a ,d [,bd,a] ,a ,,d ,,b [,ab,,d] [,db,c] [ad,,a] ,c [,dd{,a}] [,dd] :||: f [f,gd] g [f,gd] ;germantab
+120;f moll;76v;[Exercitium];;;;;;,,,a1 ,d/ a b a b d f1 ,,d/ ,,b ,,d ,,b ,,,d ,,,c | ,,,a1 ,d/ a b a b d f1 ;germantab
+121;d moll;77v;Fantasia;;;;;;,a4 c2 e2 | [f,a1] > e c f [ea] c [cc] b | [cd,,c1] > ,c ,a ,d [,c,e] ,e [,ac] a | ;germantab
+_121a;d moll;78r;[Nachlauf];;;;;;[,aa{a}1] h/ ,,,h ,,,g g h ,f ,,,e e f ,a ,,,c c e ,c ,d a c ,f | [aacc1] ,,d [aac,,a/4] [,e/8] a c a ,e ,c ,a ;germantab
+122;G dur;78v;[Galliarda];;;;ConcR622;;[aacc1] > c e ,,,a [g,,,e2] | [haa,,h2] > f [e,,,,a] | [,cdca1] > ,d a ,,,,,c [c,,,a] a | [cefec2] {,a}1 ,f ,e2 | ;germantab
+123;c moll;79r;Branle double;;;;ConcR2913;;[,,d,a1] ,,d/ ,a [,b,,a/] ,d a ,,b | [,aa,c1] ,e/ ,,d [aac,,a1] ,,,c | [aab,,a/] c d1 [c,d] [aab] | [,,a,a1] [,e,,c] [aac,,a] ,,,c :||: ;germantab
+124a;F dur;79r;Allemande;;;;ConcR2914;;[fdaa1] | [fdaa1] [hd,f,d] [f,a/] d [c,,c] a | [c,,a/] d [f,a1] a/ c d ,,,c | [cdda1] [a,c,c/] ,d [,cdca] ,d ,c1 |;germantab
+124b;F dur;79r;Reprinse;;;;ConcR2915;3;[f{a}2] [f,,,a] [h,,a] [f{a}] ,,,,a [d,,a] | [c{a}2] [a,,,a] [c,,a] | [a{a}2] [c,,,a] [d,,a] | [c{a}2] [a,,,a] [,d,a] | [,c{a}/1] ,a [,c,,a] ,d [a,,a] ,c |;germantab
+;;;;;79v_80r -> Doppelseite!;;;;;
+125;g moll;79v_80r;Branle de poitou;;;;ConcR2916;C;,b1 | [,abc1] ,,d ,a ,b [,daa] ,b/ ,a ,,d1 ,a | [,bd,a1] ,a ,b [,d,,c] [abb,d1] ,,,,c ,,,,d [,d,a/] ,b |;germantab
+126;Eb dur;79v_80r;Courante;;;;ConcR2917;3;a2 | [abb,d2] > ,d a | [b,,a2] ,a [abb,d] [,dba,d2] > ,b ,d | [,bb,d2] a1 b d2 [bbd,,b] d [abb,d] | b2 [,db,,d] a ;germantab
+127;c moll;79v_80r;Rondo;;;;ConcR2918;C;[,,d,a/] ,a ,b ,a [,,d,a1] [,,c,,a] | [,,d,a/] ,a ,b ,d [abb,d1] [,bd,a] | [,a,,,d/] ,b ,d ,a [abb,d2] :||: [,,d,a/] ,a ,b ,,d [aab,,a1] a |;germantab
+;;;;;80v_81r -> Doppelseite;;;;;
+128;c moll;80v_81r;Branle;;;;ConcR3101;;[,,d,a1] a [,da,c] [,ac] [,bd,a] ,a/ ,,d [,ac,,a1] ,,,c | [aa,c1] [c,,b] [d,,c] [f,,,a/] d [caa,c1] ,,,b [aac,,a] ,,,c :||:;germantab
+;;;;;81v_82r -> Doppelseite;;;;;
+129;C dur;81v_82r;Allemande;;;;ConcR2919;C;a/ ,d | [,cdca1] > ,a [,,d,a] [aac,,a/] ,d [,cdca1] > ,a [,,d,a] a | [cdda1] [aabc/] ,,a [,dff1]  [,cd] [,acc1] > ,,d [,ac] ,,,,,a :||:;germantab
+130a;F dur;81v_82r;Der Pauren tantz;;;;ConcR2920;;[,dda1] ,d [a,d,e] [,d,a] [,c,c] [,ac] [,cd,a] ,,d | [,dda/] a c1 [a,cc/] ,d ,c ,a [,cd,a1] > ,d [,cd] ,,,,a :||:;germantab
+130b;F dur;81v_82r;Reprise;;;;ConcR2921;;[,d{a}2] ,,,,a [,d,a] [a{a}] ,,,,a [,d,a] | [,c{a}2] ,,,,a [,a,a] [,c{a}] [,a,,a] [,,da] | [,d{a}2] ,,,,a [,d,a] [a{a}] ,,,,a [a,,a] | [,,d{a}2] ,,,,a [,,da];germantab
+130c;F dur;81v_82r;Variatio;;;;ConcR2922;3;[,d{a}1] ,c [,d,,a] ,a [,c,a] ,d [a{a}2] ,,,,a [,d,a] | [,c{a}2] [,d,,a1] ,c [,a,a2] [,c{a}] [,a,,a] [,,da] | [,d{a}1] ,c [,d,,a] ,a [,c,a] ,d ;germantab
+131;f moll;81v_82r;Courante de Victor de Montbuisson;;;;ConcR2924;3;[,dda1] > a [bdda2] [a,d,e] [,dddf1] ,f ,d ,,,,d [,dedb] ,,d | ,,b1 ,,,d [,bbcd] ,,,d ,,,,d [,bbc] [,bdd] ,,,c/ ,,,a ,,,,d ,,,,b ,,,,a ,,,,,d ,,,,,b2 |;germantab
+;;;;;82v_83r -> Doppelseite;;;;;
+132;f moll;82v_83r;Courante eiusdem;;;;ConcR624;3;[bd2] ,,e/ a ,d1 [add] ,c [,dda1] > a b > ,,,c [,d,d] > ,,b | ,,d/ b ,b1 [bde2] [ddef] [cdda] {a}1 d [cdda2] |;germantab
+133;c moll;82v_83r;Pass' emezo è C sol faut + p[er?] b mol;;;;ConcR2925;;,,d1 ,a | [abd,a1] > ,d a1 [b,,a] [a,,,d] ,,d [,d,,c] ,,c | [,bd,a1] a ,d [,b,c] [,a,a] [,,d,d] [,,b,c] [,,a,a] | [,ab,,d1] ,,b ,,a [d,,c];germantab
+;;;;;83v_84r -> Doppelseite;;;;;
+134;c moll;83v_84r;Gagliarda ;;;;ConcR2926;;,,d1 ,a | ,,,,a1 [,bd] ,,,c ,d [,bd,a] ,d | a1 ,,,,c ,,,,d a [,daa] ,b | [,ab,,d1] ,,,a ,,,c ,,a ,,b ,d ;germantab
+;;;;;84v_85r -> Doppelseite;;;;;
+135;g moll;84v_85r;Pass' emezo in G sol re ut b mol / 2do modo / 3tio modo;;;;ConcR2321;C;,,,c1 ,,a | [aab,,a2] ,,,c1 ,,d [aab,,a] ,,,c [,ea,c2] | [aab,,a1] ,,d ,a [,,de] [,ab] [,da] [d,,c] ,c | [cdda1] d f ,,,c ,,a [f,,a] [da,c] ,c |;germantab
+;;;;;85v_86r-> Doppelseite;;;;;
+136;g moll;85v_86r;Gagliarda;;;;ConcR2927;3;,,,c1 ,,a | ,,,,,a1 [aab] ,,,c ,,d [aabc] ,d [,cd,a2] [,da,c1] ,,b [a,,,e] ,,d | [cdda2] ,,,a1 f c d f ,,,c ,,a ,,,a [d,,c] [c,a] |;germantab
+;;;;;86v_87r+87v_88r -> Doppelseiten;;;;;
+137;g moll;86v_87r;Gagliarda di Ferabosco;;;;ConcR2663;3;[aabc2] c | [dabc1] a/ c d1 [f,a] [ddff] ,,d/ ,,f | [dfg,d2] [ddff1] ,,d/ ,,f [db,c2] | [bbdd1] ,,,c ,,,d ,,b [abd2] |;germantab
+138;f moll;86v_87r;Passamezo in F b mol / 2 do modo / 3tio modo;;;;ConcR2928;C;,d1 a | [bdda2] {a}1 d [b,,a] ,d [add,a] ,c | [bdda1] d f ,,,c ,,,d f [da,c] [b,,a] | [abb,d1] ,,d ,,b [f,,d];germantab
+139;f moll;87v_88r;Galiarda;;;;ConcR2929;;,d1 a | ,,,a1 [bd] ,,d d [b,,a] a | d1 b [a,,a] ,d ,b ,a | [abb,d2] ,,,,d1 ,d ,b ,a |;germantab
+;;;;;88v_89r -> Doppelseite;;;;;
+140;d moll;88v_89r;Passamezo in D lasol re b mol / [2do modo] / 3tio modo  ;;;;ConcR2784;;,a1 ,c | [,da,c1] a c [d,,c] [c,a] [a,b] [,da] [,c,c] | [,da,1] a c ,,,,e [,dda] c [aacc] ,d | [,cd,a1] ,,d ,,c [f,de];germantab
+;;;;;89v_90r -> Doppelseite;;;;;
+141;d moll;89v_90r;Gagliarda;;;;ConcR2930;;,a1 ,c | [,dfec2] > ,f ,d | [a,d,e2] [cdda1] ,c [aacc] ,d | [,cd,a2] ,,,c/ ,a ,c ,d | a1 ,,c [f,a] [e,,c] [c,,a] [a,,,e] |;germantab
+;;;;;90v_91r -> Doppelseite;;;;;
+142;C dur;90v_91r;Gagliarda ;;;;ConcR2931;3;,,d2 > ,a [,cd/] ,a ,c ,d | [aac2] [,,de1] ,e/ ,c ,e2 | [aac,,a2] ,,,c1 ,,d ,,c ,,a | [aac,,a1] ,,,a ,,,,e [,d,,c] [,c,,a] [,a,,,e] |;germantab
+143;a moll;90v_91r;Courante;;;;ConcR2932;3;[hhi,,h1] | [fca1] > h f | [ec,d1] [ccde2] | [,ghge2] [,ghge1] | ,,,,e2 [,ca,b1] | [,d,,c/] ,c ,d a [c,,a1] | ,,,,e/ ,h ,g ,h e ,g |;germantab
+144;b moll;90v_91r;Courante de Victor de Montbuisson;;;;ConcR2933;3;,,e/ ,,g | [ddef1] > f d ,,,a [d,,b] ,b | [bdda2] {a}1 [,d,,b1] > d [b,,a] | [acd,a2] [,dd,,b1] [a,,,,d/] ,d [,c,,a] ,d a ,c |;germantab
+145;F dur;90v_91r;Volte;;;;ConcR2934;3;[fd/] d c1 [acd] | [,df1] > a ,d | [,cd1] ,d/ ,c [,acc1] | [,,de1] > ,a ,c | [,aff1] > ,c ,d | [,cd1] ,a/ ,c [,df1] |;germantab
+;;;;;91v_92r -> Doppelseite;;;;;
+146;g moll;91v_92r;Volte;;;;ConcR2935;3;[da,c1] c a | [,da,c1] > a ,d | [acd,a1] > ,d a | [cdda1] [,da,c] [acd,a] | [cdda1] > a [,d,,c] | [a,,,,d/] ,d [,c,,a] ,d a ,c |;germantab
+147;C dur;91v_92r;Vvray Dieu disoit vne fillette;;;;ConcR423;C;,,d2 ,,d1 ,a [ac] ,,d [a,c] [,da/] ,,c | [,cd/] ,a ,c/4 ,a ,c ,d [a,d/] ,d a c [acd] ,d ,c ,a [acd] ,d [,ac1] |;germantab
+;;;;;92v_93r -> Doppelseite;;;;;
+148;f moll;92v_93r;Branle;;;;ConcR2936;3;[,d{a}1] ,,,,a ,,,a | [f{a}1] ,,,,a [f,,a] | [hf,gh2] [if,h,f1] | [hf,gh2] [ffhh1] | [l,aa2] [kf,h,f1] | [hf,gh2] [fbdd1] | [d,,,d/] a b d [bdda1] | [acd,a2] ,d/ {a} :||;germantab
+;;;;;94r -> Einzelseite;;;;;
+149;F dur;94r;Fantasia Gregorii Houuet;;;;ConcR2318;C;,d3 a1 c a/ c d2 | ,,b1 c/ a ,d1 ,,d [da] ,,d/ ,a [ab1] c | [d,b1] f [h,,f2] [f,,e1] ,,d [dab] ,c |;germantab
+;;;;;94v_95r  -> Doppelseite;;;;;
+150;d moll;94v_95r;Fantasia alia eiusdem;;;;ConcR358;C;,a4 ,a2 ,a | ,,d2 ,c ,a ,d | ,c2 ,b [ca3] ,,d/ ,,c | [c,a1] ,,c [c,d] ,a [ac2] [ea] | [cd2] [fc] [ea] d1 ,c |;germantab
+;;;;;95v_96r -> Doppelseite;;;;;
+151;F dur;95v_96r;Allemande;;;;ConcR3102;C;f1 | [f,d1] d [c,da/] d [a,b1] | [,daa1] [,,,ce] [,daac] [acd,a] | [cdda/] ,c [ea,c1] [f,de] [dab/] c | [acd1] ,,,,a/ ,d ,c1 f |;germantab
+;;;;;96v_97r -> Doppelseite;;;;;
+152;F dur;96v_97r;Allemande;;;;ConcR2937;C;[,daa1] > a [,d,,c1] [abd,a/] c | [ddf,,d1] > f d1 [c,d,a/] a | [,d,,c1] d/ ,,,,d [,dda] d c1 | [dab,,d1] ,a ,,d [hd,f] |;germantab
+153;c moll;96v_97r;Allemande;;;;ConcR2938;C;[ffg,a1] > h [f,,,a1] [d,,,c/] c | [abb,d/] ,d ,b ,d [a,,,d] ,a [cdda1] | [dabc1] [abd,a/] ,,b [,,a,c] ,,,c [,ea,c] ,,d |;germantab
+154a;c moll;96v_97r;Allemande;;;;ConcR2939;C;,,d1 | [abd,a1] a [cbd,a/] a [,efec1] | [aac,,a1] > [aac] ,,,c [d,,c] | [caab1] [aacc] [abd,a] [,ea,c] | [aac,,a1] > [aac] ,,,c ,,,,,a | [abd,a1] a [c,d,a/] a [,ea,c1] |;germantab
+;;;;;97v_98r -> Doppelseite;;;;;
+154b;c moll;97v_98r;Ripresa;;;;ConcR2940;3;,,d1 | [abd,a2] a1 [c,,,a] a [,ea,c] | [aac,,a1] ,,,c/ ,,d ,,c ,,a [a,,c] ,d a c [d,,c1] | [ca,b1] ,a/ ,,d [aacc1] [abd,a] ,,b [,ea,c] |;germantab
+155;a moll;97v_98r;Allemande Dalliance;;;;ConcR459;C;c1 | c/ e [f,,e1] [ea/] ,c [cd1] | [ac1] [,df] [,cee/] ,,f ,,e1 | [,df,c/] a c ,,d [,,c,e] ,,a [b,c1] |;germantab
+156;F dur;97v_98r;Allemande Brunette;;;;ConcR2941;C;,,d1 | a1 [c,,a] [d,,c] [f,a] | [acd1] ,,,,a/ ,d a1 ,,d | a1 [c,,a] [d,,c] [f,a] | [acd1] ,,,,a/ ,d a1 ,,d |;germantab
+157;B dur;97v_98r;Allemande Ich dancke Got;;;;ConcR2942;C;d1 | [ddff3/2] [fdde/] [da,c] ,c [cdda] ,a | [abb,d/] ,,,a ,,,c ,,a [,dff1] ,,,,,d | [abb,d1] d/ ,a [,,da] ,,b [c,d1] |;germantab
+;;;;;98v_99r -> Doppelseite;;;;;
+158;F dur;98v_99r;Allemande ;;;;ConcR2943;C;c/ d | [fdaa1] [hd,f,d] [fdaa] [ea,c] | [fdaa1] {a} [fda] [acd/] c | [ddff1] [f,de] [da,c/] ,c [cdda1] | [acd1] ,,,,a [ac] [,dff/] a |;germantab
+159;F dur;98v_99r;Allemande de Fleur;;;;ConcR972;C;[fdaa2] [fdaa1] [hd,f,d] | [ffg,a1] [d,,,c/] c [abb,d1] [c,,a] | [dabc1] a/ c [d,,,,a1] [f,,,,c] | [da,a,d1] [c,,,a/] a [,da,c1] [a,,,e] | [cdda/] d c a;germantab
+160;d moll;98v_99r;Allemande;;;;ConcR2944;C;[,aaac1] ,c [,da,c] [a,,,e] | [cdda1] ,,,c [ccde] [f,,,e] | [ea,c1] [ccde] [,,hge/] ,h ,g1 | [cce,,c1] ,,,e/ ,,f [cce1] ,,,e | [,aa,c/] ,,d ,a ,c;germantab
+;;;;;99v-100r Einzelseiten;;;;;
+161;g moll;99v;[Pavana Lachrimae];;"""2da manet indivisa"", divisiones ad partem 1+3";;Conc_4415;;[aabcca1] ,d/ a b a ,d ,b ,a1 ,,d [,a,,,a] ,,b d ,,,c | [a,,,d/] ,,,c/4 ,,a ,,b ,,d ,a ,c ,d a c a c a ,e ,c [,ea,c{a}4] ;germantab
+162;F dur ;100r;Allemande;;;;ConcR2945;C;[cdda1] > a [,dff] a | [,cd1] ,,,,a/ ,a [,,def1] ,a/ ,c | [,da,c1] ,c/ ,d [a,,,e1] ,,d | [cdda1] ,,,a/ a [,dff1] ,d/ ,,,e |;germantab
+163;F dur;100r;Allemande;;;;ConcR2786;C;[,,def/] ,,,f ,,,e1 [,aba,d/] ,,a [,cdca1] | [,daa{a}/] ,,,,a ,,,,c ,,,,e ,,,a1 ,d/ ,c | [,acc/] ,,d ,,c1 [,cd,a/] ,,b [,ea,c] |;germantab
+;;;;;100v_101r Doppelseite;;;;;
+164a;F dur;100v_101r;Allemande;;;;ConcR320;C;[fdaa1] | [cdda1] [hd,f,d] [df,fd] [hd,f,d] | [f,,a/] d c a [cdda1] [c,,a/] d | [ffg,a1] ,,,,a/ ,,,,c [d,,,d] ,a [cdda1] | [acd,a1] ,,,c [cdda] {a}/ a |;germantab
+164b;F dur;100v_101r;Variatio p[rae]dentis;;;;ConcR320;C;f1 | [cd1] [ha] [df] [ha] | [fc1] ,a/ ,c [cd1] [cd/] e | [f,d1] [fdaa] [dd,,c] [cdda] | [acd/] ,d [,cd1] [cda] [,c,,a/] a |;germantab
+165a;F dur;100v_101r;Allemande;;;;ConcR2946;C;,,d1 | [,dda1] [a,,,e] [c,da] [ea,ac] | [fc,ca1] > [fc,c] ,,,,a [d,,,c/] c | [a,,,d/] ,d [a,,a] c [d,,c] c d ,c | [cdda1] {a}/ d c1 :||;germantab
+165b;F dur;100v_101r;Variatio p[rae]dentis;;;;ConcR2946;C;,,d1 | ,d1 a [cd,a] [df] | [fh,a1] ,,,c ,,a [dab/] c | [acd1] [cdb/] ,,a [d,,c] c d ,c | [cd,a/] d c a ,d1 :||;germantab
+166a;c moll;100v_101r;Allemande d'amour;;;;ConcR764;C;a1 | [abd,a/] ,,,c/ ,d [,bd,a1] [,a,a/] ,,d | ,,,,,a/ [,ac] ,,,c ,,d [,ac,,a1] a | [a,,,d/] c d ,,,c [c,da] ,a [abb,d1] |;germantab
+;;;;;101v_102r Doppelseite;;;;;
+166b;c moll;101v_102r;Variatio p[rae]cedentis;;;;ConcR764;C;[abd,a/] ,d ,b ,a ,b ,,,,d [,a,a] ,,d | [,ac,,a1] ,,,c ,,,c/ ,,a [a,b1] | [a,a/] c [d,,c1] [c,d/] ,a [ab1];germantab
+167;B dur;101v_102r;Allemande Imperial;;;;ConcR650;C;[ddf,,d1] > f [hd,f,d] [fdaa] | [ddf,,d1] > f [hd,f,d] f/ d | [cdda1] [dabc] [,dd,a] c/4 ,b | [ddf,,d1] ,,,f/ ,,g [ddf,,d1] ,,,f :||;germantab
+168;F dur;101v_102r;Allemande;;;;ConcR2947;C;,d1 | [c,da/] d c1 [ea,ac] c/ e | [fc,ca1] >  [fc,c] ,,,,a ,d/ a | [c,da1] ,,,,e/ a [c,,a] ,a [e,,c1] | [fc,ca1] > [fc,c] ,,,,a [d,,,c/] c |;germantab
+;;;;;102v_103r Doppelseite;;;;;
+169;g moll;102v_103r;Gagliarda Ia;;;;ConcR2948;3;[,abc,a2] [aab] [,efec] | [aab,,a3] ,d/ ,c ,a2 | [aabc1] c d ,c [cdda2] | [ddf,,d3] h1 [f,g,d] d | d1 ,,f [,dda] d c ,b |;germantab
+170;d moll;102v_103r;Fantasia 3a;;;;ConcR2949;C;,a4 ,a2 ,a | ,,e2 ,a c1 ,c ,d ,a | [cd1] ,c [ca] ,,d [b,c2] [c,d] | ,,a1 e f c [f,a] e [c,d] [a,c] |;germantab

@@ -1,0 +1,64 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1;d moll;11v;La Duchesse;;;;;3;"e | [eda{,,,a}1]> ,c [,dd,a1] | [,,e,,a1] [,,ffa1]> ,c | \
+[,,'ee1] ,,,,,a2 | [,aaa{,,,a}1] [,,'d{,,a}1]> ,,,f | \
+[,,a{,a}1]> ,d [,'c,,,d1] | [,,d,,a1] [,'a,a1]> ,c | \
+[a,,,a1] [,c,,,d2] | "
+2;F dur;13v;courant;;;;;3;",,a1 | [,,aa{,a}1] ,,b ,,d/ ,,d | [,,dcc{,,a}1] ,a V[,c/] \
+a/4 ,c | a1 {,,,a} ,,,,a/ ,a | [,aaa1] ,a/ ,,,,,d [,,,,,'b] \
+,,,,,a | ,,,,,b/ ,a a ,b [,'a] ,,d | "
+3;F dur;14v;Sarabande;;;;;3;"[,,'a{,a}1] ,,b1 ,,d2 | [,,dcc{,,a}] [,,dcc] | [,daa{,,,a}1] \
+[,acc{a}] ,a | [,c,,,d3/2] {4}1 ,,b/ | [,,'a/] a ,,b ,a a \
+(,,b/4 ,,a) | ,,,c1 {a}/ c [cabca1] | "
+4;F dur?;15r;[fragment];;;;;;"a [add{,a}] [c{a}] '[,c{4}] ,a ,c [ad{,a}] ,,,a [ad] \
+,,a ,,b [,,d,,a] ,a '[,,c{a}] ,a [,,d{4}] ,,,,,d [,,dcc] :| "
+5;d moll;15v;Gigue Mons. Strobel;F.Dufault or Gaultier or Strobel;;;Conc_303;3;",,e | [,af2] {,,,a}1 | {,,a}1 [,,'d] ,,,f | {,a}1 ,,a ,,,,f | \
+,,,a2 ,,a1 | (,,,,,d1 ,,,c ,,,,c) | (,,,,,e1 ,,a ,,,c) | \
+{,,,a}1 ,,,a ,,,,a | "
+6;d moll;16v;Courante Mr. Emon;;;;;3;"e1 | [eda{,,,a}1] ,,,,a [eda] | [,ca,,e1] [,'c3/2] (a/4 ,c) | \
+a1 ,,,,a/ a (,c ,,,,c) | [,a,,d1] [,'c,c1]> ,a | [,,ee1] \
+,,,,,a [,,,'c] | [,a,,d1] [,,e,c1]> [,a,,a] | "
+7;d moll;17v;Canarie du Vieux Gaultier;V.Gaultier;;;Conc_546;3;",a1 | [,'c,,,a1]> ,,e a1 | ,,f1> c ,c1 | e1> [,,'e] ,a1 | \
+,,,e1> ,,e ,,,c1 | [,,,'a1]> ,a [,,e,c1] | [,a,,a1]> ,c a1 | \
+[,'c1]> ,,,,,a e1 | "
+8;d moll;18v;Air du ballet du Roy;;;;Conc_1907;C;"e | ['a{,,,a}1] ,a f/> h | ['e{,a}1]> c [a,a1] [e,,a] | \
+['c,,,,d1]> c [c{d}1] [e,,,,a/] ,c | [a{,,,a}1] ,,,,a [aa] \
+[,,aa] | ,a1 ,,,c/ ,c [,'c{a}1]> ,a | "
+9;C dur;19r;[Gavotte];[19bis-20] only comments;;;Conc_3907;C;"V[,,d,,d1]> ,,d | [c,,,,c1] ,a V[,c,,,d1]> a | [,'a{a}1] \
+[,a,c] ,c ,,,d/ ,,c | [,,de1] ,,,,e/ ,a [,'a,c3/2] ,,d/4 ,a | \
+,,d1 {4} :| "
+10;A dur;24r;Double;Gaultier;;;Conc_17;3;"[,,'e/] (,a | ,c/) ,,a ,e ,c ,e ,,a | (,,,d/ ,e [,'c]) \
+,,,e ,,e ,,c | ,,e/ ,,,e ,a ,,,e ,,,d ,,,,e | "
+11;A dur;24v;Gigue gautier;CLFDGa N°60;;;Conc_30;C;",c | [,ca1]> ,e ,,e ,a [,c,d] ,,c | [,,ee/] ,,,,,a1 ,a/ \
+[,,ee] ,,a [,,cd/]> ,,e | [,,a,e/] ,,,d ,,a ,,,,c ,,,,a ,,c \
+[,,a,,e/] ,,,d/4 ,,a | "
+12;A dur;25v;Canaries gautier;CLFVGa N°52;;;Conc_231;3;",,e/ ,a1 | ,c1> ,,a ,e1 | [,'c,,,a1]> ,e [d{a}1] | [e{,a}1]> \
+,,,,e ,a1 | [,c,,,e1]> ,,a [,e,,a1] | [,a,,,c1]> ,,,d ,c1 | \
+[,,ee,a1]> {a} [,,a{,a}1] | "
+13;A dur;26v;Allemande autrement Blanroche Tombeau gautier;CLFDGa N°57;;;Conc_29;C;"[,cee,a3/2] (,c/4 ,,e) ,c/ ,,,e [,ccd/]> ,a | \
+[,,ee/] ,,,,,a1 ,,,d/ [,aa,e] ,a [,c,,c/]> ,,e | \
+[,ef,a1] {,,,a}/ ,c ,e ,,,,,e [,e,,,c/]> d | "
+14;f# moll;27v;Gigue ou la Chèvre du gautier;CLFVGa N°54;;;Conc_214;6/8;"[,'d{,,,,a}2] ,,a1 ,,,d1> ,e ,,,,e1 | d1> ,,,,d ,,e1 \
+{,,,,a}1> ,,,,e ,,,d1 | ,,a1> ,,,,,e ,,,,,f1 ,,,,d1> ,,c \
+,,,d1 | ,,e1 {,,,,a} ,,,,,e ,,e2 [,,,,,'c1] | "
+15;f# moll;28v;La Boeuf;Emond;;;Conc_1168;3;"e | [eee{,a}1] ,,,,e2 | ,g/4 e ,g e ,,e/ ,,,g1 | [,e,e1]> \
+[,,i,g] [,e,,e1] | {,a}2 i/ ,,,,g | [i,,,,h1]> i \
+['g,,g1] | [e,e1] ,,,,e ,e/ ,,,,g | "
+16;A dur;29v;sans titre;;;;Conc_19;3;"e/ 'd ,e | [,'c,,,a1] ,,a2 | ,,,d/ ,c [,'a1] ,,,e/ ,,e | \
+[,,'c{,,a}1] ,,e ,a/ ,,,d | [,,ee1] ,c [,ccd] | \
+[,e,,e1] d {,a}/ e | "
+17;A dur;30r;sans titre;;;;Conc_19;3;"e/ 'd ,e | [,'c,,,a1] ,,a2 | ,,,d/ ,c [,'a1] (,,,e/ ,,e) | \
+[,,'c{,,a}1]> ,,e ,a ,,,d | (,,,e/ ,,e ,c1) [,,c'd1] | \
+[,e,,e1] {,a}/ d Ve1 | "
+18;A dur;30v;[Courante];;31v: example in staff;;Conc_20;3;",,a | [,,ae1]> ,,,,e [,,,,'c] ,,,,a | [,c,,,e1] {a} \
+[,,e,,a] | [,,c{,,a}1]> ,,,e [,,,'d] ,,,,c | [,,a,e1] \
+[,,'cd1]> V[,,e] | [,,ee1] ,,,,,a2 | (,,,,,e/ ,c e) \
+,,,,a ,,,,c d | "
+;;38v;[fragment];;;;;C;",,,c/ ,,a ,,b ,,,c ,a ,c ,e ,a | a/ c d a h ,a a ,,b | \
+,a/ ,,,c a ,d [,ca1]> ,a | [,aabc4] :||:"
+19;C dur;43r;Sarabande;;;;Conc_4285;3;"{,,,,a}1 [,,dcc] [,,dcc] | {,a}1 [,,aad] [,,aad] | \
+{a}1 [,,cca] [,,cca] | ,,,,,d1 [,,dcc2] :||: {,,,,a}1 \
+[,'cdc] [,cdc] | {a}1 [,'acc] [,acc] | ,,,,,a1 [,,dec] \
+[,,dec] | {,,a} [,,'cdc] [,,cdc] | "
+20;f# moll;43v;Rondeau;;;;Conc_3502;C;"[,,e,,a] ,b b ,d ,,c | [b{,a}] [d{4}] [e,e] | ['d,c] \
+[,e,e] [,eed{4}] ,d | [,ee{,a}3] :||: g | [eeeee] [eeee] \
+[eee] [g,,,g] | ,,,,h ,,,g [e,e] | "

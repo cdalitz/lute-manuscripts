@@ -1,0 +1,187 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1a;;A2r;Pass'e mezo anticho primo;;;OT;;C;"z1 [,dda/] a | [b,da1] [,dda/] ,c [,dda] a [b,da] d | \
+[b,da/] a [,dda] ,c [,dda] ,,b [,bd] [,df] | \
+[abb,d3/4] ,a/4 ,,d/";italian7tab
+1b;;A2r;Seconda parte;;;OT;;C;"[,dda/] a | [b,da/] ,d/4 ,c ,d a b d f d b a ,d ,c ,a ,c | \
+[bdda/4] a ,d ,b ,a";italian7tab
+1c;;A3r;Terza parte;;;OT;;C;"[,dda/] a | [bdda/] d f [,,dd] ,,,,f [,d,d] [d,bc] ,c | \
+[bdda/4] a ,d ,c ,d a b d [f,,a] ,,,c ,,,d ,,b";italian7tab
+1d;;A3v;Quarta parte;;;OT;;C;"f/ b ,d | ,,d/ ,,,d ,,,a f b ,d ,,d ,,,d | \
+,,,a/ f b ,d f/4 d b a ,d a b ,d |";italian7tab
+1e;;A4r;Quinta parte;;;OT;;C;"[,dda/] a | \
+[b,,a/] [d,,c] [f,,d] [d,b] [b,d] [a,b] [,d,d] [,c,c] | \
+[,d,a/] f/4 h i h f ,i f h i h i h";italian7tab
+2a;;A4v;Padouana del ditto prima;;;OT;;3;"[,add/] a | [b,da3/4] a/4 [,dda/] ,c [,dda] a | \
+[b,da/] d [b,da] [,ab] [,bd] [,df] | \
+[abb,d3/4] ,,d/4 [,,dd/] [,,bc] [,,dd] [,a,a] |";italian7tab
+2b;;B1r;Seconda parte;;;OT;;3;"[,dda/] a | [bdda/] f/4 d f d b a b a ,d ,c | \
+[,dda/] ,,d/4 ,,b ,,,d ,,,c ,,,a ,,,c ,,,d ,,b ,,d ,a |";italian7tab
+2c;;B1v;Terza parte;;;OT;;3;"[,dda3/4] a/4 | [b,da/] f b ,d ,,d/4 ,,b ,,,d ,,,c | \
+,,,a/ f/4 d b a ,d ,,b ,,d ,a ,b ,d |";italian7tab
+2d;;B2r;Quarta parte;;;OT;;3;"f/4 h i h | f/4 ,i f ,i ,g ,f ,,i ,,h ,,i ,f ,g ,i | \
+f/ i/4 g f ,i ,g";italian7tab
+3a;;B2v;3. Saltarello ditto primo;;;OT;;3;"[bdda3/2] a/ ,d a [bdda] f d b a ,d | \
+[dfg,d/] ,d ,,g ,,f ,,g ,d [cdf,d1] [cdf] [cdf,d] |";italian7tab
+3b;;B2v;Seconda parte;;;OT;;3;"[bdda/] a ,d ,c ,d a [bdda] ,,,c ,,,d ,,b ,,d ,a | \
+[dfg,d/4] ,d ,,g ,,f ,,g ,d ,f ,g d ,g ,f ,d |";italian7tab
+3c;;B3r;Terza parte;;;OT;;3;"[bdda/4] a ,d ,c ,d a b d f d b a \
+[b,,a] a ,d ,c ,d ,,,c ,,,d ,,b ,,d ,a ,b ,d |";italian7tab
+4a;;B3v;4. Pass'e mezo moderno primo;;;OT;;C;"[cdda/] | [cdda3/4] ,,,c/4 ,,a/ ,,b [cdda1] [dab,,d] | \
+[cdda/] ,a/4 ,c ,d a c d c a ,d ,b ,a ,,d ,,b ,,a |";italian7tab
+4b;;B4r;Seconda parte;;;OT;;C;"[fdaa1] | \
+[fdaa/] h [fdaa] [da,c] [cdda/4] d f c [caac] ,c ,d a | \
+[cdda/] f c ,d ,,,a/4 ,,b ,,a ,,,c [cdda] ,d a c |";italian7tab
+4c;;B4v;Terza parte;;;OT;;C;"[,dda/] a | [bdda3/4] a/4 ,d/ ,c [,dda] a b d | \
+[f,dd/] ,,,,f [da,c] ,b [bdda] d/ b a ,d ,b ,a |";italian7tab
+4d;;C1r;Quarta parte;;;OT;;C;"[fdaa1] | [fdaa3/4] d/4 f/ h [fdaa] ,,,e [dabc] ,c | \
+[cdda/] ,a/4 ,c ,d a c d f d c a ,d ,b ,a ,,d |";italian7tab
+4e;;C1v;Quinta parte;;;OT;;C;"[fdaa1] | [fdaa1] ,,,e/ [fdaa] [,dff] [,dde] [dabc] ,c | \
+[fdaa/] h [cdda] [da] [fdaa] [dcbc] [ddda] c | \
+[ddf,,d/] ,,g [ddf,,f] ,,,f [,,bcd] [,,bac] [,,baa] ,,a |";italian7tab
+4f;;C1v;Sesta parte;;;OT;;C;"f3/4 h/4 i/ h/4 f h/ f/4 ,k f/ ,i/4 ,h ,i/ h/4 ,f | \
+,h/ ,,i/4 ,,h ,,i ,f ,h ,i f";italian7tab
+5a;;C2v;5. Padoana del ditto;;;OT;;3;"[fdaa/] | [fdaa/] ,,,e ,,,,f [ddff] [,dde] [dcbc] | \
+[cdda/] [fdaa] [dabc] [dfg,d] [ddda] c | \
+[dab,,d/] ,,,a [,,bcd] [,,bac] [,,baa] ,,a |";italian7tab
+5b;;C2v;Seconda parte;;;OT;;3;"[fdaa/] | [fdaa/] h [cdda/4] d [fdaa/] [dabc] ,c | \
+[cdda/4] a c d f d c a ,d ,b ,a ,,d |";italian7tab
+5c;;C3r;Terza parte;;;OT;;3;"[cdda/] | [cdda/] ,b/4 ,a ,b ,a ,,d ,,b ,,d ,,b ,,a ,,,c | \
+[fdaa/4] h f d c a ,d ,b ,a ,,d ,,b ,,a |";italian7tab
+6a;;C3v;6. Saltarello ditto;;;OT;;3;"[fdaa3/2] [dcbc/] [cdda1] [a,b,d/] ,,,,a \
+[,db,c] ,,,,,d [,bb,a] ,,a | \
+[,ab,,d/] ,d a c [ddf,,d1] [hd,f,d] \
+[hd,f,d/] ,,,,a ,,,,c ,,,,e |";italian7tab
+6b;;C4r;Seconda parte;;;OT;;3;"[cdda/] ,a/4 ,c ,d a c d f d c a \
+[cdda] a ,d ,b ,d ,b ,a ,,d ,a ,,d ,,b ,,a |";italian7tab
+6c;;C4r;Terza parte;;;OT;;3;"[cdda/] ,a/4 ,c ,d a c d f h i h f \
+,i ,h ,f ,h ,f ,,i ,,g ,,f ,,d ,,b ,,a |";italian7tab
+7;;D1r;7. Galiarda alla Milanesa;;;OT;;3;"[acd,a1] [bdda] [dfg,d/] ,d | \
+[fb,d,b1] [fb,d] [fb,d,b] | \
+[acd,a1] [bdda] [dfg,d/] [,db] | \
+[fb,d,b/] d b f d b | \
+[db,cd/] b a ,d ,b ,a |";italian7tab
+8;;D1v;8. L'herba fresca;;;OT;;C;"[bbd,,b1] [bbd/] ,,,,,b [bbd,,b] ,,,,,d ,,,,a ,,,,c \
+[abb,d] d b a | [b,,a/] [a,,,d] [,d,,b] ,,,,,d \
+[acd,a1] ,,,c/ [acd] [bdda1] [dfg,d] |";italian7tab
+9;;D2r;9. Saltarello dito Il paluelo;;;OT;;3;"[fdaa1] [fdaa3/4] | [cbc/4] [cdda/] d [fd] [,,aa] [ddbc] | \
+,c/4 ,a ,d ,c ,a ,c [cdda/] ,b/4 ,a ,b ,a |";italian7tab
+10a;;D3v;10. Saltarello dito Dimel su presto;;;OT;;3;"[,ddef1] [,fd,e] [,ddac/] ,,c | \
+[,cdca/] ,,b/4 ,,a ,,,c ,,,a ,,,,e ,,,,c [,cdca1] | \
+[ddff1] [fd,e] [dabc/] ,c | \
+[cdda/] ,b/4 ,a ,,d ,,b ,,a ,,,c [cdda1] |";italian7tab
+10b;;D4r;Seconda parte;;;OT;;3;"[,ddef/] ,,,f [ffd,e] ,,,,a [fd,ac] e | \
+[fcc,a/] d/4 c a ,d ,c ,a [,cdca1] | \
+[hd,f/] ,f [fhia] [cdda] [dabc] ,c |";italian7tab
+11;;D4v;11. Saltarello dito Il mal contento;;;OT;;3;"[cdda/] d/4 c d c d c d c a ,d | \
+[acd,a/4] ,,c ,,d ,a ,c ,d a ,d [acd,a1] |";italian7tab
+12;;E1r;12. Saltarello dito Il bergamasco;;;OT;;3;"[,dda1] | [,dda/] ,,,c ,,a ,,b [,dda] ,c | \
+,d/ a [cdda] [ab] [,df] [cbd] | \
+[dab,,d1] ,,,a/ b/4 a ,d ,b ,a ,,d |";italian7tab
+13;;E2v;13. Caccia la uechia fuora del campo;;;OT;;C;"[,dda1] [a,d,e/] [cdda] [ddf,,d1] | \
+[ddf1] [cdda] [a,d,e/] ,,,,a | \
+[,dd,c/] ,,b/4 ,,a ,,b ,,a ,,,c ,,,a [acd,a/] ,d/4 ,c | \
+,d/4 ,c ,a ,c";italian7tab
+14;;E3v;14. Saltarello dito L'imperial;;;OT;;3;"[,dda/] a [cdda] [cdd] [cdda] [cdda] | \
+[cdda1] [cdd/] ,,,a [dcbc] [fdaa] | \
+[hd,f,d1] [fd,ef/] [dcbc] [cdda] [abd,a/] | \
+[,efec/4] ,d ,e ,f d ,f";italian7tab
+15a;;E4r;15. Pass'e mezo della bataglia;;;OT;;C;"[fdaa1] [fdaa3/4] d/4 c/ a | \
+[cdda/] ,a/4 ,c ,d a c d [c,da/] ,d a c | \
+[daba,d1] ,,,a3/4 c/4 [aab,,d/] ,d [,c,a] ,a |";italian7tab
+15b;;F1r;Seconda parte;;;OT;;C;"[fdaa/] ,a/4 ,c ,d a c d [fdaa/] [,fff] [,dde] [dcbc] | \
+[cdda/4] ,,,c ,,a ,,b ,,df ,a ,,d ,,b [cdda/]";italian7tab
+16;;F2v;16. Padoana del ditto;;;OT;;3;"[fd,a/] ,,a [fd] ,,,a [fda] [dcbc] [cdda] \
+,a/4 ,c ,d a [c,,a] a ,d ,b ,a ,,d | \
+[ddf,,d/4] ,,d ,,f ,,g ,d ,,g ,,f ,,d";italian7tab
+17;;F3r;17. Saltarello del dito;;;OT;;3;"[fdaa2] [fdaa1] | [,,aa1] [dcbc] [cdda] | \
+a1 ,d ,c | ,d1 a [cdda] | a1 ,d ,b | ,a1 ,,d [,ab,,d] | \
+,,d1 ,a ,b | [,d,,,d1] ,b ,a |";italian7tab
+18;;F4r;19. Pass'e mezo del Imperator;;;OT;;C;"[fhia1] [fhi/] [fhia] [fhia1] [fhia] | \
+[ffhh1] [ffh/] [ffhh] [ffhh1] [fhia] | \
+[cdda/] a/4 c d c a ,d [acd,a/] ,,,c [acd,a] f |";italian7tab
+19a;;G1r;19. Pass'e mezo moderno;;;OT;;C;"[,aba,d1] | \
+[,aba,d/] [,,d,,c] [,a,,,d] [,b,,a] \
+[,d,,c] [,a,,,d] [,b,,a] [,,aa] | \
+[,ab,,d/] ,,,a [,,b,,a] [,,d,,c] \
+[,ab,,d] [,b,,a] [,d,,c/4] ,a ,b ,d |";italian7tab
+19b;;G1r;Seconda parte;;;OT;;C;"[ddff1] [ddff/] b/4 a b a ,d ,b | \
+,d/4 ,b ,a ,,d ,a ,,d ,,b ,,a [ddff/] \
+,,,d/4 ,,,c ,,,a ,,,,d ,,,,c ,,,,a |";italian7tab
+20a;;G2r;20. Padoana del dito;;;OT;;3;"[dab,,d/] | [dab,,d/] b/4 a b a ,d ,b ,d ,b ,a ,,d | \
+[,ab,,d/4] ,,,,,c ,,,,,d ,,,,a ,,,,c ,,,,a \
+,,,,,d ,,,,a ,,,,c ,,,,,d ,,,,a ,,,,c |";italian7tab
+20b;;G2r;Seconda parte;;;OT;;3;"[ddff/] [ddff] b/4 a b a | \
+,d/4 ,b ,d ,b ,a ,,d [ddff/] ,,,d/4 ,,,c ,,,a ,,,,d | \
+,,,,c/4 ,,,,a [dab,,d] b a ,d";italian7tab
+21;;G2v;21. Pass'e mezo dito il Caualier;;;OT;;C;"[ddff1] [ddff/] [,df] [ddff] [fd,e] | \
+[da,c/] ,b [b,da] [,aa] [aab,d3/4] ,d/4 [aab,d/] [,db,c] | \
+[,b,ca/] [,,aa] [,ab,,d] [,,bc] [,,def] ,d [,ab,,d] [,,ba] |";italian7tab
+22;;G3v;22. Saltarello del ditto;;;OT;;3;"[ddff1] [ddff3/2] | f/ [ddff1] [fd,e] | \
+[d,bc1] [b,da/] ,a [ab,,d3/2] | ,d/ [ab,,d1] [,db,c] | \
+[,b,ca/] ,,a [,ab,,d1] [,,def] | ,d1 [,aba,d] [,bbcd] |";italian7tab
+23;;G4v;23. Pass'e mezo del Todeschin;;;OT;;C;"[bde,b3/4] ,e/4 ,d/ ,b [bde,b/] ,e/4 ,d ,b ,,e ,,d ,,b | \
+[bbd,,b/] ,,,d [,bd,,b] ,,e [bbd,,b3/4] ,b/4 ,d/ ,b |";italian7tab
+24;;H2r;24. Padoana del dito;;;OT;;3;"[bde,b1] [bde,b/] ,b/4 ,,e ,,d ,,b [bbd,,b/] | \
+,,,d/ [bbd] [bbd,,b1] [bde,b/] [bbd,,b] | \
+,,e/ [bbd,,b] [,def,d] f [d,e] [cdda] | \
+,b/4 ,,e ,,d ,,b";italian7tab
+25;;H2v;25. Pass'e mezo Antico;;;OT;;C;"z1 [dde,,d/] f [gd,f,d] d ,,,,f [fd,e] | \
+[ddef/] [deg,d] [fd,ef] ,,,f/4 ,,,e [ddef/] \
+,,,d/4 ,,,b ,,,a ,,,,d ,,,,b ,,,,a |";italian7tab
+26;;H3r;26. Padoana del dito;;;OT;;3;"z1 [dde,,d/] f [gd,f,d] d | \
+[gd,f,d/] [fd,ef] ,,,f [fd,ef] [ddef] ,,,d/4 ,,,b | \
+,,,a/4 ,,,,d ,,,,b ,,,,a ,,,,b ,,,,d ,,,a ,,,c [,bdd,b/] b |";italian7tab
+27;;H3v;27. Saltarello del ditto;;;OT;;3;"[gde,,d/] f d ,h d f | [gde,,d/] ,,g ,d ,f ,g d | \
+[fggd/] ,g ,f ,d ,,g ,,e | \
+[fggd/] ,,,c ,,,a ,,,,d ,,,,b ,,,,a |";italian7tab
+28;;H4r;28. Saltarello ditto amor mio bello;;;OT;;3;"[,dda/] a [cdd1] | ,,,a/ [cdd] [a,d,e1] ,,,,a/ [a,d] | \
+[,d,ac/] ,,,c ,,a ,,c [acd,a] ,,a/4 ,,c | \
+,,d/4 ,a ,c ,d a ,d ,c ,a [acd,a1] |";italian7tab
+29a;;H4v;29. Pass'e mezo antico sul quarto ton;;;OT;;C;"z1 [ca,ac1] [ca,ac/] ,a/4 ,c ,d a c d | \
+f/4 d c a ,d ,c ,a ,c [ca,ac3/4] d/4 c/ a |";italian7tab
+29b;;I1r;Seconda parte;;;OT;;C;"[h,i/] [g,h] [ha] f/4 d c a ,d ,c | \
+[,daac/4] ,c ,a ,,e ,a ,c ,d a [,daac/] ,a/4 ,c ,d a c a |";italian7tab
+30a;;I1v;30. Padoana del ditto;;;OT;;3;"z1 [,aaac/] ,c [,daac3/4] a/4 | \
+c/ d [ca,ac] a [ca,ac3/4] ,,,c/4 | \
+,,a/ ,,c ,,d ,a [acd,a] ,,a/4 ,,c | ,,d/4 ,a ,c ,d";italian7tab
+30b;;I1v;Seconda parte;;;OT;;3;"[h,i/] [g,h] h/4 ,i f d | \
+f/4 d c a c a ,d ,c [,daac3/4] ,c/4 | \
+[,daac/] [,a,,,e] [,c,,a] [,d,,c] [acd,a3/4] [,d,,c/4] |";italian7tab
+31a;;I2v;31. Saltarello ditto;;;OT;;3;"[,daac1] ,a/ ,c ,d a | \
+[ca,ac/] d/4 c d c a ,d a ,d ,c ,a | \
+[acd,a/] ,,a/4 ,,c ,,d ,a ,c ,d a ,d ,c ,a |";italian7tab
+31b;;I2v;Seconda parte;;;OT;;3;"[,dfec/] ,c ,d ,f c ,f | \
+[,dfec/4] f d c d c ,f ,d ,c ,,f ,,d ,,c | \
+[,fhha3/4] ,h/4 ,f/ ,,i ,,h ,,f |";italian7tab
+32;;I3r;32. Pass'e mezo del Gorzanis;;;OT;;C;"z1 [acd,a1] [acd,a/] ,,a/4 ,,c ,,d ,a ,c ,d | \
+[acd,a/4] ,a ,c ,d a ,c ,d a [cdda3/4] d/4 c/ a |";italian7tab
+33;;I4r;33. Saltarello ditto Tantara;;;OT;;3;"z1 [cdda1] [cdda/] a | [,da/] ,b [aab,,d] [,da] [,d,c] ,,,a | \
+[,c,ca/] ,d/4 ,c ,d ,c ,a ,c [,dda/] ,b/4 ,a |";italian7tab
+34;;K1r;34. Pass'e mezo dito il Giordano;;;OT;;C;"z1 [,,d,a/] ,a [acd,a1] ,,,c/ ,d | \
+,c/ ,a [acd,a1] [,dd,c] ,,c/ ,,a | \
+[,dc,c/] ,,d ,d ,,c [acd,a] ,,a/4 ,,c ,,d ,a ,c ,d |";italian7tab
+35;;K1v;35. Bal Boemo dito la Filippina;;;OT;;C;"[bdda/] [acd,a] [bdda] [db,cd] [fb,d,b1] [fb,d,b] | \
+[bdda/] [acd,a] [bdda] [db,cd] [fb,d,b] ,,,d [fb,d,b] g | \
+[db,cd/] ,,,c [dfg,d] f [bdda] d/4 b [ac,,a/] ,d/4 ,c |";italian7tab
+36;;K2r;36. Padoana del dito;;;OT;;3;"[,dda/4] ,c ,d a b d [fb,d,b/] ,,,d [fb,d,b] | \
+[,dddf/] [bdda] [dfg,d] [fggd] [fgg] [fggd] | \
+[dfg,d/4] g f d ,g ,f [bdda/] [,dda] [acd,a] |";italian7tab
+37;;K2r;37. Bal Todescho;;;OT;;C;"[fdaa1] [fdaa] [hd,f,d] [hd,f,d] | \
+[fdaa/] [dcbc] [ddda] c [ddf,,d1] [ddf,,d] | \
+[fdaa/] c/4 d f i h f [hd,f,d/] d/4 f h d f h |";italian7tab
+38;;K2v;38. Padoana del ditto;;;OT;;3;"[fdaa3/2] d/4 [fdaa/] [fd,f,d3/4] f/4 [hd,f,d/] | \
+[fdaa/] [dcbc] [cdda] [ddf,,d] [ddf] [ddf,,d] | \
+[fdaa/4] d f c d f [hd,f,d] f d h f d |";italian7tab
+39;;K2v;39. Bal Todescho;;;OT;;C;"[fdaa1] [fdaa] [cdda] [fdaa] | \
+[dabc/] [cdda] [cabc] a [caa,c] ,a/4 ,c ,d a c d | \
+[fdaa/4] ,,,c ,,a ,,b ,,d ,a ,,d ,,b";italian7tab
+40;;K3r;40. Padoana del dito;;;OT;ConcR178;3;"[fdaa3/4] d/4 [fdaa/] [cdda3/4] d/4 [fdaa/] | \
+[dabc/] [cdda] [abbc] [caa,c/4] a ,d a c d | \
+[fdaa3/4] d/4 [fdaa/] [cdda/4] a c d [fdaa/] |";italian7tab
+41;;K3r;41. Recercar Primo;;;OT;;C;",d1 b3/4 d/4 [f,d1] [ab3/4] ,d/4 | \
+[df1] [bd,a] [bb,d3/4] ,,b/4 [abd,a1] | \
+[abb,d3/4] ,,,a/4 [aabc/] c [dabc] ,c [bdda1] | \
+[abd,a1] [abb,d3/4] ,,,a [aadc/]";italian7tab
+42;;K4r;42. Recercar secondo;;;OT;;C;",f2 ,f1 ,f | ,g2 ,g1 ,f | [,fd2] [,fd1] ,,d | \
+[,de2] [,de1] ,,e | [,bd1] ,,d/ ,a ,b ,d [d,b1] | \
+,,,d/ a ,d ,b";italian7tab

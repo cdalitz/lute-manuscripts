@@ -1,0 +1,167 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;3r;Pauana Prima ditta la Molinara;;;OT;;3,1/2;"z2 [bdda1] | [bdda3/2] a/ ,d1 | f1 [dabc] [bdda] | \
+[dfg,d3/2] ,g/ ,f ,d | ,f1 ,,g [bdda] | \
+[bdda3/2] b/ [abd,d1] | [,,d,a1] [,d,db] ,,b |";italian7tab
+2;;3v;Pauana seconda detta labèlla ragazzona;;;OT;;3;"z2 [acd,a1] | [acd,a2] [acd1] | [acd,a3/2] ,d/ a1 | \
+[cdda2] [cdd1] | [,a,a1] [a,d,e] [,da,c] | \
+[,cd,a3/2] ,a/ ,,d1 | [,ddef1] [,,dca] ,c | \
+[,daa,,d3/2] [,,da/] ,,,a1 |";italian7tab
+3;;3v;Pauana tercia detta la Contarina;;;OT;;3;"z1 [fdaa1] | [fdaa3/2] d/ c1 | [fdaa1] [dabc] [acd,a] | \
+[cdda3/2] a/ ,d1 | [,cd,a1] [,da,c] [,cd,,c] | \
+[,ab,,d3/2] ,,d/ ,,b1 | [,,da,c1] [a,b,,a] ,,,,e |";italian7tab
+4;;4v;Pauana quarta detta la reale;;;OT;;3;"z2 [,aba,d1] | [,aba,d/] ,,d ,,b ,,a ,,,c1 | \
+[,aba,d1] [,aba] [,bd,a] | [,acc,a/] ,,d ,,c ,,a ,,,c1 | \
+,,,,,a1 [,ac] [,aba,d] | [,aba,d/] ,,d ,a ,b ,d a |";italian7tab
+5;;5r;Galgiarda prima detta il toscanelo;;;OT;;3;"z2 [cdda1] | [cdda3/2] a/ ,d1 | [cdda1] [dabc] [acd,a] | \
+[cdda3/2] a/ ,d1 | [fdaa1] [dabc] [cdda] | \
+[acd,a3/2] ,,d/ ,a ,c | [,dbac1] [,,dca] ,c |";italian7tab
+6;;5v;Galgiardo seconda detto il mato;;;OT;;3;"[,db,,d1] [,db,,d] [ab,,d] | [,db,,d1] ,,,a/ ,b ,a1 | \
+[,b,,a1] [,ab,,d] [,,d,,b] | [,ac,,a1] ,,,c/ ,,d ,a1 | \
+[abb,d/] d b a ,d ,b |";italian7tab
+7;;6r;Galgiarda terctia detto Aria de Comedia;;;OT;;3;"[,db,,d1] [,db,,d] [,db,,d] | [ab,,d1] [ab,,d] [cdda] | \
+[dab,,d3/2] [dab/] ,,,a1 | ,,,,,d1 [dab] ,,,a | \
+[abb,d1] [abb/] ,d [abb,d1] | [,db,c1] [,b,,a] ,,a | \
+[,ab,,d3/2] [,ab/] ,,,a1 |";italian7tab
+8;;6v;Galgiardo quarto ditto salta Marino;;;OT;;3;"z2 ,a/ ,b | [,db,,d3/2] ,b/ ,a1 | [,b,,a1] [,a,,,d] [,,d,,b] | \
+[,ac,,a3/2] ,,d/ ,a1 | ,,,,,a1 [,bd,a] [,db,,d] | \
+[abb,d3/2] a/ [,db,,d1] | [,bd,a1] [,ad,,a] ,,c |";italian7tab
+9;;7r;Preambulo Primo;;;OT;;C;"z/ ,a/4 ,,,c ,,a ,,b ,,d ,a ,c | \
+,d/4 a c d f d c a | ,d/4 ,c ,a ,,d ,,b ,,a ,,,c ,,,a |";italian7tab
+10;;7v;Preambulo secondo;;;OT;;C;",,,c/4 ,,a ,,c ,,d ,a ,c ,e a | \
+c/4 a ,e ,c ,a ,,e ,a ,c | ,e/4 ,a ,c ,e ,f/8 ,e";italian7tab
+11;;7v;Preambulo tertio;;;OT;;C;"z1 [aabcca] | [aabcca1] [aabcca] | [caabc1] [dabcca] | \
+[ccd,ec1] [f,,e] | [dabcca1] [c,daa,d] | [aabcca1] [,efec] | \
+[a,dcd1] ,,b/ ,,,,c | [abd,a1] ,a [,,,c,e] | \
+[abd,a/] ,,b [,ea,c] ,,,c/4 ,,a |";italian7tab
+12;;8r;Preambulo quarto;;;OT;;C;"z1 [cdda] | [a,d,e1] [,cdca] | [,d,ac1] ,,c | \
+[,cdca1] a/ ,,,,,d | [,da,,c1] [,aba,d/] ,,,,,c | \
+[,abc,a1] [a,,ce] | [c,da,,d1] [f,a] | [d,b,ca1] [c,de,c] |";italian7tab
+13;;8v;Preambulo quinto;;;OT;;C;"z1 a1 | ,b1 ,,d | ,a1 [a,c] | [,bd1] [f,,,a] | \
+[,abc1] d | [,dda1] c | [ddf,,d1] [cbd,a] | \
+[,ab,c/] a [a,ded] ,,,c | [,,fec1] ,e |";italian7tab
+14;;8v;Preambulo sesto;;;OT;;C;",,a/ ,,c ,,d ,a | ,c/ ,,d [,d,,c] ,,,e | \
+,,,a/ [,c,c] [,,de] ,,,a | [,a,f/] ,c ,d a | [c,,e1] [f,,a] | \
+[e,,c1] [c,a] | ,,c1 b |";italian7tab
+15;;9r;Passo'emezo Primo detto il bachffart;;;OT;;C;"z1 ,a/ ,c | [,da,c1] ,,,a/ ,,,c | [,da,c1] [a,bc] | \
+[c,da1] ,d/ a | [c,da1] [ab,,a/] ,,b | \
+[,dfec/] ,,d [,cbc,a] [,aaa] | \
+[,,eeec/] [,,f,,a] [,,,eec] ,,e |";italian7tab
+;;;[Dedicatus] Nobilissimo ac praeclarissimo Domino Nicasio Magensreuter à Tensing, &c. Illustrissimi Principis Philippi Marchionis Badensis ac Comitis Spanheimensis aulae praefecto, &c. Domino meo colendissimo;;;;;;;
+16;;10r;Passo'emezo secondo musicale detto il milanese;;;OT;;C;",,,d3/2 ,,,f/ | ,,,d1 ,,,c | [,d,a1] ,,d | \
+[,db3/4] ,,,d/4 ,,,c/ ,,,a | [a,,,d1] d/ ,,,a | \
+,,,c/ b a [,d,d] | [a,b/] ,,,c [f,,d] ,,b |";italian7tab
+17;;11v;Passo’emezo  tertio detto il Comune in 4. modi;;;OT;;C;"z1 [cdda1] | [cdda1] [cdd/] a | [,d,a/] a c [d,,c] | \
+[fda/] ,,,a [fda] [d,,c] | [cdda/] a [,d,a] ,b | [,ab,,d1] ,,,a/ ,b | ";
+18;;13r;Galgiarda del Passo emezo ut supra;;;OT;;3;"z2 f1 d | [cdda3/4] a/ ,d1 | f/ d [c,,a] a ,d ,b | \
+[,ab,,d1] ,,,a/ ,,a ,,b ,,d | \
+[,ab,,d1] ,d/ ,,,,a ,,,,c ,,,,e |";italian7tab
+19;;14v;Passe'emezo detto la paganina;;;OT;ConcR1585;C;"z1 [,aabc/] [,aab] | [,aabc1] [,aab/] ,,,,e | \
+[,aabc/] [,,,ca] ,,,,,e [,,,b,c] | \
+[,ac,ca3/4] ,,c/4 ,,c/ ,,a | ,,,c1 [,cdca/] [,cdc] \
+[,cdca/4] ,a ,,d ,,c";italian7tab
+20;;15v;Galgiarda del Passo'emexo ut supra;;;OT;ConcR1586;3;"z2 [,aabc1] | [,aabc3/4] [,aa/] ,,,b1 | \
+[,aabc1] [,aabc/] ,,,,a ,,,,,e ,,,,,c | \
+[,acc,a1] ,a/ ,,d ,,c ,,a | ,,,c1 ,,,,,a [,cdca] | \
+[,cdca1] a/ ,d ,c ,a |";italian7tab
+21;;16v;Passoemezo nouo detto il N;;;OT;;C;"z1 [hf,ha] | [cdda1] [cdd/] d | [cdda1] [hc,f,d] | \
+[a,,ca/] ,d/4 ,d ,c/ ,a | [fc,,a1] [cdda] | \
+[ddf,,d1] [cdda] | [a,d,a/] ,c/4 ,a [fc,,a/] d |";italian7tab
+22;;17v;Passoemezo deto il ponderoso;;;OT;;C;"z1 [aac,,a] | [aac,,a1] ,,,c/ ,,d | [aac,,a1] [aa,c,e] | \
+[acd,a1] [ac,,e] | [,efec/] ,c [,f,,c] ,e | \
+[aac,,a/] ,,,c [,,ab] [,,,ce] | [,aabc/] ,,,c [,aacc] ,,,b |";italian7tab
+23;;18r;Gioueneta real madrigal A.4. Archadelt;;;OT;;C;"[,af2] | [,df1] [,df] | [,cd1] [,ac,c] | [c,aac1] [,,,ac] | \
+[,,,,ef1] [ea,,ce] | [fc,e,c1] ,,,e/ e | [ccd1] [bcc,e] | \
+[c,def1] [,dd/] [a,,,e] | [c,,,c/] e [ffh,a1] |";italian7tab
+;;;Ad modum reverendo ac excellentissimo Domino Francisco Bornio a Madrigal Hispano S.S. Theolgiae Licentiato Illustrissimi Principis Philippi Marchionis Badensis ac Comitis Spanhaimensis &c. Concionatori aulico ac in Spiritualibus à consilijs fautori meo amantissimo;;;;;;;
+24;;18v;Non mi duol'il morir A.4. Madrigal del barbetta padoan;;;OT;;C;"a/4 ,e ,c ,a ,c ,a ,c/8 ,e a c | [a,d/] ,d ,c ,a | \
+[,cd/4] ,a ,,d ,a [,ca/] ,a/4 ,c |";italian7tab
+25;;19v;Amar un solo amante a.4. Madrigal Iachet Berchen;;;OT;;C;",a2 | [c,a2] | [ca1] c | [ea1] [ea] | [fc,,,c1] ,c | \
+[cd,,c1] ,a/ ,c | [,df,c/] a [c,,,c] ,,d | \
+[,,,ge/] ,g/4 e [g,,e1] | [c,aac1] ,,a |";italian7tab
+26;;20v;In dubio de mio stato a.4. Madrigal Orland delaso;;;OT;ConcR2701;C;"[,cee,c2] | [,efec1] [ccd,,c] | [bcc,e1] [cdf,c] | \
+[ccee1] [,efec] | [acd,a/4] ,,c ,,d ,a ,,d ,a ,c ,d | \
+[acd,a1] [,dfec] | [,cde,c/4] ,,,,,a ,,,,,c ,,,,,e";italian7tab
+27;;21r;Liquide perle a.5. Madrigal di Luca merentio;;;OT;ConcR1483;C;"a/ a/4 a c1 | [ef/] ,f/4 ,f [fh1] | \
+[e,,c/] [,f,c/4] ,,,c [fca/] ,d | \
+[,acc1] [a,,c/4] ,,,c [,cde/] ,d | \
+[,ac/] ,,,c [,,d,e] [,,da/4] ,,d |";italian7tab
+28;;21v;Piangi Cor mio a.5. Madrigal de Sabino;;;OT;;C;",a2 | ,a/ ,,d ,,c ,,a | ,,c/4 ,,a ,,,c ,,a ,,c ,,,c ,,a ,,c | \
+[,,ee/] ,,c/8 ,,e ,,f/4 ,,e ,,f/8 ,,e ,,c ,,e |";italian7tab
+29a;;22v;Che gioua posseder Cancon a.4. digiacohes Uvert prima parte;;;OT;;C;",,a2 | ,,d1 ,,,e/ ,,c | [,cde/] ,a [,cd1] | \
+a/ [,ac] [,cd] [ca] | [acd/] c [e,c] c/4 e | \
+[fc,,,c/] ,,,e [ccd1] |";italian7tab
+29b;;23r;Fenda parte Mache non giou' hauer;;;OT;;C;"[,ccde2] | [,cda1] [,aaa] | [,ccce1] [a,cce] | \
+[,efec/] [,efec] [acd,a1] | z1 [ccd,,c/] [eff,,a] c/4 e | \
+c/ ,f [cef,c1] | z3/2 [cef1] [cef/] | [ef1] [ef,c/] [ef,c] |";italian7tab
+29c;;23r;Tertia parte quant effer Vid'car;;;OT;;C;"[,efec2] | [,efec/] ,c ,,f ,,e ,,f ,c ,e ,f | \
+[,efec1] [,efec] | [,cee,c1] [,efec] | \
+[aac,,a/4] ,,d ,,c ,,d [aac,,a] ,,d ,a ,c | \
+[,efec1] [cef,c] |";italian7tab
+29d;;23v;Quarta et ultima parte Pero che uoi uo sete;;;OT;;C;"z2 | [aac,,a/4] ,,a ,,c ,,d ,a ,,d ,,c ,,a | \
+[aac,,a/] ,,d [aac,,a] ,c | [,efec1] [,efec] | \
+[,ccce/] ,,a ,,c ,,e | [,efec1] [acd,a] |";italian7tab
+30;;24r;Basiami vita mia a.4. B. donato;;;OT;;C;"[,aabc2] | z1 [,aabc] | [,aabc1] [ca,bc] | \
+z/ [ca,bc] [ca,bc1] | [da,c,a1] [ca,ac] | \
+[aab,,a/] ,,,,,c ,,,,,d ,,,,a | \
+[,efec3/4] ,c/8 ,e ,f/4 ,e ,f/8 ,e ,c ,e |";italian7tab
+31;;25r;Dolce Fial morrir a.5. P.A. penesstrina;;;OT;;C;"[,acdca/4] ,a ,,d ,,c ,,d ,a ,c ,d | \
+[,cdca/] ,a/4 ,c ,a/ ,,d | \
+[,acc,a3/4] ,,a/8 ,,c ,,d/4 ,,c ,,d/8 ,,c ,,a ,,c |";italian7tab
+32;;25v;Fantasia 1.;;;OT;;C;"c2 | d1 a | [c,f1] ,d | [ab1] ,,d/ c | \
+[da1] ,,b | [c,d/] a/4 c a/ ,a | ,b/ c d1 | \
+,a/ c [c,d1] |";italian7tab
+33;;26v;Fantasia 2.;;;OT;;C;"a2 | h1 a | d/ c d f | h1 ,a | [cd/] ,c ,d ,f | \
+[cd1] ,c/ ,a | [fc1] [df] |";italian7tab
+34;;27v;Fantasia 3. a.4.;;;OT;;C;",b2 | ,d1 b | a1 ,b/ ,d | a1 b/ [d,b] | ,,d1 b/ [ab] | \
+[,df1] [d,b/] ,,d | ,a/ ,b [bd1] | a/ ,b ,b1 |";italian7tab
+35;;28r;Fantasia 4. a.4.;;;OT;;C;"a2 | e1 f | h1 ,a/ f | e1 [ce] | [ac1] [,ac] | [,cd1] [,ef] | \
+,c3/4 ,,e/8 ,,c ,,f/4 ,,e ,,f/8 ,,e ,,c ,,e |";italian7tab
+36;;29r;Fantasia 5. a.4.;;;OT;;C;",a2 | ,c1 ,f | [,da1] ,c | [,ac/] ,c [,df] a | \
+[c,d1] [e,c/] c/4 e | [f,a1] [ea] | ,c1 [c,d] | ,a1 [b,c] |";italian7tab
+;;;[Dedicatus] Magnificio ac excellentissimo Domino Vvolfgango Hungero I.V. peritissimo, Illustrissimi Principis Philippi Marchionis Badensis ac Comitis Spanheimensis consiliario intimo &c Domino meo summo amoris studio prosequendo;;;;;;;
+37;;29v;Fantasia 6: a.4.;;;OT;;C;",,d2 | ,,,d1 ,,b | ,,d1 a | ,b1 [,df] | [ab1] ,,,,a/ [,df] | \
+[,bd,d1] [,,da,b] | [,dff,d1] [,bdca] | \
+[,d,df/] ,,,,h [,g,df,d] ,,,f | [,,d,db/] a [,dff,d1] |";italian7tab
+38;;30v;Fantasia 7,;;;OT;;C;"a2 | d2 | c1 a | h1 ,a | ,d1 f | ,c1 [df] | c1 ,d | \
+a1 ,c | [ha1] l | [k,,h1] [h,i] | ,,h3/4 g/4 h g e g |";italian7tab
+;;;[Dedicatus] A la molto magnifica et virtuosissima amatrice devertuosi la magnica Signora Chiara Pisani Gientildona padona;;;;;;;
+39;;31v;Fantasia lesti 8. a.4.;;;OT;;C;",,,a2 | ,,,,c1 ,,,,e | ,,,a1 ,d/ ,,,c | ,,a1 [,ab] | \
+[,cd1] [,d,a] | ,,b/ a [c,a] d | [f,,a1] ,d/ ,,,c | \
+,,a/ a c ,,b | [a,d1] [,df] |";italian7tab
+40;;32v;Ungay Bergier a.4. C. Ianequim;;;OT;ConcR857;C;"a1 a/ a | [ca/] a [ca] [ea] | [fc/] ,a [fc] ,e | \
+[ef,c1] [,f,c/] ,,,c | [cda,c/] ,,,c [,da,c] [,,c,c] | \
+[,cd,e/] ,,,,c [,cd,e] ,,,b |";italian7tab
+41;;33v;Martin menoit a.4. C. Ianequim;;;OT;ConcR1274;C;",a1 ,c/ ,d | [a,,c1] [,da/] ,,c | \
+[,cde1] [d,d,,c/] ,,f | [ccd,a/] ,,,,c [bcc,e] ,,,,e | \
+[c,def1] [,df,c] | ,,,e/ ,,e/4 ,,c [,cee1] |";italian7tab
+42;;34r;Il nest plaisir C. Ianequin a.4.;;;OT;;C;"[,ddef2] | [,dfec1] [aabc] | [cdda1] ,,,a/ [cdd] | \
+[ddf,,d/] ,,,,a [ddf,c] ,,,,e | \
+[cdda/] [,,bc] [,,de] [dcf/4] ,a | \
+[fcd/] ,,a [hhi,,h1] | ,,,e/ [fc] [fa] ,,d |";italian7tab
+43;;34v;Il me conuiet paserau a.4.;;;OT;;C;"[aacc2] | [acd,a1] [,dfec] | [,ccce1] [a,dca] | \
+[acd,a1] [acd,a] | [cdda1] [edf,c] | [ffh,a1] e/ [cd] | \
+[acd,a/] [,df] ,c [,ac] | [,,de/] ,a [,c,e] ,e |";italian7tab
+44;;35r;Ie cherche autant Amour Boyuin A.4.;;;OT;;C;"[aa,c2] | [dffc1] [cdf,c] | [cdda1] [aabc] | \
+[,dfec1] [hd,f,d] | [hdf,,d1] [fhi,f] | \
+[fh,h/] [,if] [,hhh] ,,,f | [,,ihf/] ,f [,i,h] ,h | \
+[,iff,,i/] ,,a ,,,f ,,,h |";italian7tab
+45;;36r;Du moy de may Rogier a.4.;;;OT;ConcR1484;C;",a1 ,a/ ,a | c/4 a c e c/ e | [f,a1] [f,a/] ,,a | \
+[ea/4] ,,d ,a ,c ,a/ ,c | [cd,,c1] [,d,,c/] ,,,,c |";italian7tab
+46;;36v;Petit giachet Crequillon a.4.;;;OT;ConcR1426;C;",a1 ,a/ ,a | [ca,,c/] ,d [ca,,c] [ea,,c] | \
+[fc,e/] ,,d [fc,e] ,d | [ef,c/] ,,,c [a,c,e] ,,d | \
+[c,aa/4] a c/ [ea,c] ,,c |";italian7tab
+47;;37v;Susanne ungiour Orlando A.5.;;;OT;ConcR198;C;",a2 | ,d1 ,,f | ,,,f/ ,c/8 ,d [a,,c] ,c ,d a | \
+[ca1] ,,,,c | [c,aa/] a [,d,,c] ,c | \
+[,aba,d/] ,,d [,,bcca] ,,a/4 ,,,c |";italian7tab
+48;;38v;Domine Iesu Christe a.4. P. Demonte;;;OT;;C;"[ccee2] | [ccee1] [ccee] | \
+[ccee3/4] ,,c/8 ,,e ,,f/4 ,,e ,,f/8 ,,e ,,c ,,e | \
+[cef,c3/4] ,c/8 ,e ,f/4 ,e ,f/8 ,e ,c ,e |";italian7tab
+49;;39v;Quasi Cedrus Exaltata Sum a.4. Orlando;;;OT;;C;",,a2 | ,,a1 ,,d | ,,f/ ,,c/4 ,,d ,,f ,,c ,,d ,,f | \
+,,h1 ,,,,e | ,f1 ,,,,h/ ,a | [,d,e1] ,c | [,,fg1] ,f | \
+[,,hh1] ,,,h |";italian7tab
+50;;40v;Bewar mich Herr a.4. C. non Papa;;;OT;;C;"[,ddef2] | [,ddef/] ,,,f ,,d ,,,e | [,abc1] [,aba,d] | \
+[,,cc/] ,,,,e/4 ,,,,c ,,,,e1 | [,,def,d1] ,,,,f/ [,,,fh] | \
+[,,de/] ,,,f [,,d,e1] | [,a,,c/] ,,d/4 ,,a [,dc,af1] |";italian7tab
+51;;41v;Tua est Potentia A.5. Joh. mouton;;;OT;ConcR1803;C;",a2 | [,af/] ,c ,e a | [c,f1] ,,d/ ,,c | [c,a1] ,,d | \
+[e,c,,a1] ,,,c | [ea,,,a/] ,,,,,c ,,,,,e ,,,,a | \
+[,a,,c/] ,,e ,a ,c |";italian7tab

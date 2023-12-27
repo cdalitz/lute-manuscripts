@@ -1,0 +1,71 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+;;;Incipits prepared with the help of Sarge Gerbode's transcriptions on his website;;;;;;;
+1;;A1r;1. Tanz;;;OT;;C;"[aabc/] ,,a ,,b ,,d ,a ,b ,d a | [caa,c/] a c d [caa,c1] [dab,,d] | \
+[cdda2] [,abc1] a | [caa,c1] ,d/ a [caa1] ,,,,c :|";germantab
+2;;A1r;Sprung;;;OT;;3;"[aabc/] ,,d ,a ,c ,d a | [caa,c1] a/ c [dab,,d1] | \
+[cdda1] [cdd] [aabc] | [caa,c1] ,d/ a [caa,c1] :|";germantab
+3;;A1r;1. Tanz;;;OT;;C;"[,,d,a1] [,a,,d/] ,b ,d ,b ,a ,,d | [,acc,a1] ,,,c [,acc,a] [abb,d] | \
+[,db,c1] ,,,,,d [,bd,a] ,a/ ,,d | \
+[,acc,a1] ,,,c ,,,,,a [,acc] :|";germantab
+4;;A1r;Sprung;;;OT;;3;"[,,d,a/] ,,c ,,d ,a ,b ,,d | [,acc,a1] ,,,c [abb,d] | \
+[,db,c1] ,,,,,d [,bd,d] | [,acc,a1] ,,,c [,acc,a] :|";germantab
+5;;A1v;2. Tanz;;;OT;;C;"[aac,,a1] [aac] [caa,c] a/ c | [ea,c,a1] c/ a [caa,c1] [ea,c,a] | \
+[ccd,,c1] [aac,,e] ,,,,a [ca,bc] | \
+[aac,,a1] ,,,c/ ,,d ,,c ,,a [aac,,a1] :|";germantab
+6;;A1v;Sprung;;;OT;;3;"[aac,,a1] [aac] [caa,c] | [ea,c,a1] c/ a [ca,,c] e | \
+[ccd,,c1] [aac,,e/] ,,,,a [,ea,c1] | \
+[aac,,a1] ,,,c/ ,,d [aac,,a1] :| [fcd,a1] [fcd] [caa,c] |";germantab
+7;;A1v;2. Tanz;;;OT;;C;"[,,dca1] [,,dc] [,acc,a] [,acc] | [,cdca1] ,a/ ,,d [,acc,a1] [ac,,a] | \
+[,da,c1] ,a/ ,,d [,acc,a] ,,d ,a ,,c | \
+[,cdca2] [,cdc1] ,,,,a :|";germantab
+8;;A2r;Sprung;;;OT;;3;"[,,dca1] [,,dc] [,acc,a] | [,cdca1] ,a/ ,,d [,acc,a] ,c | \
+[,da,c1] ,a/ ,,d [,acc,a1] | [,cdca3/2] [,cdc/] ,,,,a1 :| \
+[,dda1] [,dd] [,acc,a] |";germantab
+9;;A2r;3. Tanz;;;OT;;C;"[,dda/] ,c ,d a [,dda1] f | [caa,c/] a c d [caa,c1] a/ ,d | \
+[acd,a/] ,a ,c ,d a ,d ,c ,a |";germantab
+10;;A2r;Sprung;;;OT;;3;"[,dda1] [,dd] f | [caa,c1] a/ ,d ,c ,a | \
+[acd,a/] H,a ,c/ ,d a ,d | [acd,a1] ,,,c [acd,a] |";germantab
+11;;A2r;3. Tanz;;;OT;;C;"[,aba,d2] [,aba1] ,,,,,d | [,abc,a2] [,abc,a] | \
+[,ddef2] [,dde1] ,,,,e |";germantab
+12;;A2r;Sprung;;;OT;;3;"[,aba,d3/2] [,aba/] ,,,,,d1 | [,abc,a2] [,abc,a1] | \
+[,ddef1] [,dde] ,,,,e |";germantab
+13;;A2v;4. Tanz;;;OT;;C;"[fhi,f/] ,i ,h ,f [,hi,f] ,i f ,h | \
+[hiif/] f h i [h,if1] [fhi,f/] i |[h,if1] [dabc] [,dda] c |";germantab
+14;;A2v;Sprung;;;OT;;3;"[fhi,f/] ,i ,h ,i [f,i,f] ,h | [hiif1] [hii] [fhi,f/] i | \
+[h,if1] [dabc] [c,da] | [dab,,d1] ,,,a [dab,,d] :|";germantab
+15;;A2v;4. Tanz;;;OT;;D;"[,aba,d2] [,aba1] ,,,,,d | [,bbcd2] [,bbcd] | \
+[,,b,d1] [,b,c] ,,,a ,a |";germantab
+16;;A2v;Sprung;;;OT;;3;"[,aba,d3/2] [,aba/] ,,,,,d1 | [,bbcd2] [,bbcd1] | \
+[,,b,d1] [,b,c] ,,,a/ ,a | [,bbcd3/2] [,bbc/] ,,,,d1 :|";germantab
+17;;A2v;5. Tanz;;;OT;;C;"[,dda1] f [fdaa] h | [fdaa2] [cdda1] f | [dabc1] [cdda] [acd,a] f | \
+[cdda3/2] a/ [,dda2] :||: [cdda2] [cdda1] [dabc] |";germantab
+18;;A2v;Sprung;;;OT;;3;"[,dda1] f [fdaa/] h | [fdaa2] [cdda1] | [dabc1] [cdda] [acd,a] | \
+[cdda3/2] a/ [,dda1] :||: [cdda1] [cdd] [dabc] |";germantab
+19;;A2v;5. Tanz;;;OT;;C;"[,db2] ,d1 ,,b | [,db1] ,,,c [,db] [,db] | [,bd1] ,a/ ,b ,d ,b ,a ,,d | \
+[,ab3/2] ,,d/ ,,b2 :||: [,ab2] [,ab1] [,bd] |";germantab
+20;;A2v;Sprung;;;OT;;3;"[,db3/2] ,d/ ,,b1 | [,db1] ,,,c [,db] | [,bd1] ,d/ ,b ,a ,,d | \
+[,ab3/2] ,,d/ ,,b1 :||: [,ab1] [,ab] [,bd] |";germantab
+21;;A3r;6. Tanz;;;OT;;C;"[fdaa/] e f h [fdaa] e c a | [cdda/] a c d [cdda1] [fc,e] | \
+[dabc1] [cdda] [dabc] ,c | [cda,c2] [cda1] ,,,,c :|";germantab
+22;;A3r;Sprung;;;OT;;3;"[fdaa/] h f e [c,,a] a | [cdda/] a c d [fc,e1] | \
+[dabc1] [cdda] [dabc/] ,c | [cda,c3/2] [cda/] ,,,,c1 :|";germantab
+23;;A3r;6. Tanz;;;OT;;C;"[,aba,d2] [,aba1] ,,,,,d | [,aba,d2] [,aba,d1] [,da,c] | \
+[,b,ca1] [,aba,d] [,b,ca] ,a/ ,,d | [,abc,a2] [,abc1] ,,,,,a :|";germantab
+24;;A3r;Sprung;;;OT;;3;"[,aba,d3/2] [,aba/] ,,,,,d1 | [,aba,d1] [,aba] [,da,c] | \
+[,b,ca1] [,aba,d] [,b,ca] | [,abc,a3/2] [,abc/] ,,,,,a1 :|";germantab
+25;;A3v;7. Tanz;;Passomezzo antico;OT;;C;"[da,c,a/] c a/4 ,e a c [da,c,a/] a/4 c ,,,,,a [da,c] c a | \
+[cdda/] ,a/4 ,c ,d a c d";germantab
+26;;A3v;Sprung;;Saltarello;OT;;3;"[da,c,a/] c a ,e a c | [da,c,a1] [ac] [da] | \
+[cdda1] ,a/ ,c ,d a | [cdda1] d/ c a ,d |";germantab
+27;;A3v;7. Tanz;;Passomezzo antico;OT;;C;"[abd,a/] ,,,c [abd] ,,,,c [abd,a] ,,,,c [abd,d] ,,,,a | \
+[,ab,,d/] ,,,a [,ab] ,,,,,c";germantab
+28;;A3v;Sprung;;Saltarello;OT;;3;"[abd,a3/2] [abd/] ,,,,a1 | [abd,a1] ,,,,a/ ,,,,c ,,,,d ,,,,a | \
+[,aba,d3/2] [,aba/] ,,,,,d1 | [,aba1] ,,,,,d [,aba,d] |";germantab
+29;;A4r;8. Tanz;;Passomezzo moderno;OT;;C;"[cdda/] a/4 c d c a c [cdda/] a/4 ,d ,c ,d a c | \
+[dbb,d1] [dbb/] ,,,,c";germantab
+30;;A4r;Sprung;;Saltarello;OT;;3;"[cdda/] a c d c a | [cdda/] a c ,d a c | \
+[dbb,d3/2] [dbb/] ,,,,d1 | [dbb,d/] c d a c d |";germantab
+31;;A4r;8. Tanz;;Passomezzo moderno;OT;;C;"[,aba,d1] [,aba/] ,,,,,d [,aba,d] ,,,,a [,abac] ,,,,,d | \
+[,bdd,b1] [,bdd/] ,,,,,b";germantab
+32;;A4r;Sprung;;Saltarello;OT;;3;"[,aba,d3/2] [,aba/] ,,,,,d1 | [,aba,d1] ,,,,,d/ ,,,,a ,,,,c ,,,,,d | \
+[,bdd,b3/2] [,bdd/] ,,,,,b1 | [,bdd1] ,,,,,b [,bdd,b] |";germantab

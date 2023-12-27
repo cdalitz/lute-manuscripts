@@ -1,0 +1,297 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+;;1r;Playing instructions;;;;;;
+1;E dur;2r;Aria Larghetto;C.H. Graun;Figlio se più non vivi (Artaxerxes, 1743) - cont'd on f. 22v (unfinished);;;3/4;"[,k{,,a}3/4] i/4 [,k{,,a}1] [,#h{5}] | \
+[,'g{,,a}1] {,,a} {,,a} | \
+[,c{a}3/4] d/4 [,e,,,a3/4] e/4 [,g{5}3/4] g/4 | \
+['e{4}1] {,,,a} {,,a} | \
+[i,,,,a1] ,,,,,a [g,,,,a/4] e ,g ,e | "
+;;2v;Tuning indications;;;;;;
+;;4r;Tablature signs;;;;;;
+2;B dur;4v;Cadence;;;;;none;"{,a}/4 ,,,a ,,,c ,,a ,,b ,,d ,a ,b a/ ,f/4 e ([f{,,,a}/] \
+e/4) ,f [,d{,,a}/] f {,,a}/4 (f e) ,f ,d (,b ,a) (,,d ,,b ,,a)"
+3;B dur;4v;Variaz I;;;;;none;"{,a}/4 (,,,a ,,,c) (,,a ,,b) ,,d (,a ,b) (a c) e f1 \
+(h/4 f) (,h ,f) (,,i ,,g) (,,f ,,d) (,,b ,,a) (,,,c ,,,a) \
+(,,,,b ,,,,a)"
+4;B dur;4v;Variaz II;;;;;none;"(3{,a}/4 ,,,a ,,,c) (3,,a ,,b ,,d) (3,a ,b ,d) \
+(3{,a} ,d c) (3e f h) (3h k l) (3l k ,l) (3,l ,i ,h) \
+(3,h ,f ,d) (3,d ,b ,a)"
+5;B dur;4v;Variaz III;;;;;none;"(3{,a} f e) (3,f ,d ,b) (3,b ,a ,,d) (3{,,a} c a) (3,b ,a ,,d) \
+(3,,d ,,b ,,a) (3{4} ,b ,a) (3,,d ,,b ,,,e) (3,,,e ,,,c ,,,,d)"
+6;B dur;5r;"Prelude à la maniere de Carillon
+ de Sig.re Falckenhagen";A.Falckenhagen;;;;C;"""Arp.""{5}/8 ,,f ,a f ,a ,,f [faf{5}1] [faf{5}] [faf{5}] | \
+[hgg{5}1] [hgg{5}] [hgg{5}] [hgg{5}] | \
+[kai{5}1] [kai{5}] [kai{5}] [kai{5}] | \
+[lal{5}1] [lal{5}] [lai{5}] [lai{5}] | "
+7;F dur;5r;Aria 'La sagesse est un grand bien';;;;;C;"[a,d{,a}3/2] e/ [ca{5}1] a | \
+[,c{4}1] c/ ,c [aVd{,a}2] | \
+[,c{4}3/2] [a{,,,a}/] [c{,,a}1] [e{,a}] | \
+[,c{a}3/2] ,a/ [,,dc{a}2] :: \
+[,cd{4}3/2] [aa/] [cc{,,,a}] [ed] | "
+8;A dur;5v;Praeludium;;;;;none;"[ece,,a1] [ece,,a] [ece,,a] [ece,,a] | \
+[dcc{,,a}1] [dcc{,,a}] [dcc{,,a}] [dcc{,,a}] | \
+[ece{4}1] [ece{4}] [ece{4}] [eca{6}] | \
+[,eae{,,,a}1] [,eae{,,,a}] [,eae{,,,a}] [,eae{5}] | \
+[,acd{5}1] [,acd{5}] [,acd{5}] [,acd{,,a}] | "
+9;D dur;5v;Praeludium;;;;;none;"[,aab{,,,a}1] [,aab{,,,a}] [,aab{,,,a}] [,aab{,,,a}] | \
+[,aab{,a}1] [,aab{,,a}] [,aab{,a}] [,aab{,,,a}] | \
+[,cac{a}1] [,cac{,,a}] [,cac{,,a}] [,cac{a}] | \
+[,cac{,,a}1] [,cac{4}] [,cac{,,a}] [,cac{a}] | \
+[,cac{,,a}1] [,cac{4}] [,aab{,,,a}] [,aab{,,,a}] | "
+10;F dur;5v;Praeludium;;;;;none;"""Arp.""{,a}/4 ,,a ,d a [aab{,a}1] [,cbc{,a}] [ada{,a}] |: \
+[ada{6}1] [ada{5}] [ada{4}] [ada{,,,a}] :| \
+[ada{6}1] [ada{5}] [ada{4}] [ada{4}] | \
+[adb{4}1] [,cbc{4}] [ada{a}2] ::"
+11;A dur;5v;Cadence Variation III in A-Dur;;see 6r;;;none;"(3{,,a}/ e d) (3,e ,c ,a) (3,,e ,,c ,,a) | \
+(3{,,,a}/ ,e ,c) (3,,e ,,c ,,a) (3,,,e ,,,d ,,,,c) | \
+(3{4}/ ,,c ,,a) (3,,,d ,,,b ,,,,c) (3,,,,c ,,,,a ,,,,a) | "
+12;D dur;6r;Cadence in D-Dur;;;;;none;"{,,,a}/8 (,,,,e ,,,,c ,,,,e) (,,a ,,c ,,e) (,a ,c ,e) ,f \
+(,h ,k) (i k) [,,#k3/4] [,,k{,,,a}/4] (k i) (,k ,h) [c(f] \
+,e ,c [,a)] (,,e ,,c) (,,,e ,,,c) (,,,,e ,,,,c) | "
+13;A dur;6r;Cadence in A-Dur mit Variation I + II;;;;;3/4;"{6}/ ,,,,c ,,a ,,e ,c e | \
+([e,,,,a/] d/4) ,e [,'c/] (,e/ ,c/4) ,,f [,,'e/] | \
+(,,f/ ,,e/4) ,,c [,,'a/] (,,c/4 ,,a) ,,,e/ [,,,'d] | \
+(,,,e/ ,,,d/4) ,,,,e [,,,,'c/] (,,,,e ,,,,c/4) \
+,,,,,f [,,,,,'e/] | "
+14;D dur;6v;March;;;;;C;",a/ ,a | \
+[,aVf{,,,a}1] ,a/ ,a ,e ,,f e1 | \
+[,af,a1] [,af{,,,a}/] {,,a} [,af{,a}1] e | \
+[,f{a}/] e g ,f [,c{a}] ,e c ,c | \
+[,,e,,a/] (,a ,c) ,,e ,,,e1 ,c | "
+15;D dur;7r;Larghetto;;;;Conc_3809;2/4;"[,aab{,,,a}/] [,ca{4}] [,e{,,,a}/4] c Ve/ | \
+{,a}/4 e ['c{a}] ,e [,'ca,,a/] {6} | \
+[ea{,a}/] ,a/4 e ['c{,,a}/] ,,e/4 c | \
+{,,,a}/4 ,e ([,c{a}] ,a) [,,'e,,a/] ,,,,,a/4 {a} | "
+16;F dur;7v;Unter hunderd-tausend Schönen, die mein Auge nur gesehn [Aria];J.S.Scholze;Sperontes = Pseudonym for Johannes Sigismund Scholze;;Conc_1984;2/4;"[a{,a}/] ,h [h{,a}] a | \
+[,,h{4}/] ,f [h{4}] ,,h | \
+[,a{5}/] (,f/4 ,h) [f{5}/] ,h | \
+[,f{4}/4] a (,,h ,,f) [,,,#h{4}1] | \
+[,a{,,,a}/] f [#f{,,,a}1] | "
+17;F dur;7v;"[Aria, ""Liebste Freiheit, fahre hin""]";J.S.Scholze;"Sperontes = Pseudonym for Johannes Sigismund Scholze; 1741 (N.23: Menuet)";;;3/4;"[#h{,a}1] [#y{6}] [#k,,,#i{5}] | \
+[,,#h{4}1] {5} [,,i{6}] | \
+([,f{a}/] ,h) [,#i{,,a}1] [,h{,a}] | \
+[,'f{4}/] {,,,a} {,,a} {,,,a} {,a} {,,a} | \
+[,i{,,,a}1] [,h{4}] [,,l{5}] | "
+18;F dur;8r;Polonoise;;;;;3/4;"[,,a{,a}/] (,,a/4 ,,b) V[,,d{,a}1] [a{,a}] | \
+[,,a{,a}/] (,,a/4 ,,b) [,,d{,a}1] {,a} | \
+[,a,,,b/] ,a/4 a [,,d,,a/] ,,d/4 ,a [,,b{a}/] V,,d | \
+[,,'a{,a}/] ,,,c/4 ,,,a [,,,c{4}1] {4} ::"
+19;d moll;8r;Polonoise;;;;;3/4;"[,af{,,,a}/] [,a(f/4] [,,e)] V[,,f{,,,a}/] [,df,a] | \
+(3[,,e{,,a}/4] ,a ,c) (3[,,e{,,,a}] ,a ,c) \
+[,'a{,a}1] [,a,a{,a}] | \
+[f{a}/] (f/4 e) ['c{5}/] (c/4 a) [,'c{a}/] (,c/4 ,a) | "
+20;F dur;8v;Aria en Murkii - Ihr Schönen höret an;J.S.Scholze;Sperontes 1741 (N.33: Ich bin nun wie ich bin);;Conc_4859;2/4;"(,,a/4 ,,b) | \
+[,,de{,a}/] [,,de] [,,de] ,a/4 ,c | \
+[#a{,a}3/2] ,,d/ | \
+[,a{d}/] [a{d}] [,,d,,a] [a,,,,a] | \
+[,,#b{a}/] {4}/4 (,,a/8 ,,b) [,,'aa{,a}/] [,,#d] | "
+21;d moll;9r;Aria. Sollen nun die grünen Jahre;J.S.Scholze;;;;C;"[,aa{,,,a}1] e3/4 c/4 [aa{,,,a}1] [,ca,,a] | \
+[,aa{d}/] a ([,cb,,,c{a}] ,a) [,,e,,a3/4] (,,c/4 ,,a1) | \
+[ed{,a}1] (c/ e) ([fa,,,e{a}] e) ,f a | \
+[,#c,,,a3/2] ,a/ [,aaa{,,,a}2] ::"
+22;C dur;9r;Aria. Sorge nur nicht, der Himmel wird sorgen;;;;;3/4;"V[,c{4}1] ,d/ ,c ([,a{a}] ,c) | \
+[,,d{4}1] {,,,a} [c{,,a}] | \
+[e{,a}1] (e/ c) [,d{a}] c | \
+[,#c{4}3/2] [,a{a}/] | \
+V[,c{4}1] (,d/ ,c) ([,a,,,a] ,c) | "
+23;C dur;9v;Tempo di Menuet del Sig.re Falckenhagen;A.Falckenhagen;;;;3/4;"[,,d{4}1] (3,,d/ ,a ,c) (3[,a{a}] ,c ,d) | \
+([,c{4}/] ,d) #c1 {,,a} | \
+[e,d{,a}1] [c,d{,,a}] [a,d{,,,a}] | \
+[,c{4}/] a #c1 {,,a} | \
+[e,d{,a}1] [c,d{,,a}] [a,d{,,,a}] | "
+24;A dur;10r;Menuet;;;;;3/4;"[,,a,,a/] {,,a} [,,a{4}1] [,,a{6}/] ,,e | \
+[,,c{,,a}/] {5} [,,c{a}1] [,,c{,,a}/] ,a | \
+[,,'e{6}1] [,,e{6}/] [,a{5}] [,'c{4}] [,'e{,,,a}] | \
+[,,c{,,a}1] {5}/ ,c [,e{,,a}] d | "
+25;D dur;10r;"Aria en Menuet ""Packet euch, ihr Nymphen""";;;;;3/4;"[,,,,a{,,,a}/] ,,,b ,,a ,a ,e e | \
+([,c,,,a/] ,a) (,,e ,,c) [,,'a1] | \
+[,a{5}/] ,,e ,a ,e ([,c{a}] ,a) | \
+[,,'e,,a1] (,,c/ ,,e) [,,'a,,a1] | "
+26;g moll;10v;"Aria en Menuet ""So du nicht bist von Stein""";;;;Conc_400;3/4;"[,,,c{a}/] (,,a ,,b) ,,d [,aa{,a}] ,,d | \
+[,,'b{a}1] (,,a/ ,,b) [,,,#c1] | \
+[,#f{a}1] ,f (,e/4 ,f) e/ | \
+[,,db,a3] | \
+[,,d,,a1] (,,b/ ,,a) [,aa{,a}1] | \
+[,,'b{a}1] (,,a/ ,,b) [,,,#c1] | "
+27;C dur;10v;Aria;;;;;C;"[,,dc{4}3/4] ,a/4 [,#a{a}/] ,,,d/4 ,a \
+V[,c{4}3/8] (,c/8 ,d3/8) c/8 [#e{,a}1] | \
+[c{,,a}/] (e/4 c) [a{,a}] ,c ,a ,,d [,,'c{a}3/4] ,,a/4 ,,,c1 | "
+28;C dur;11r;Murckii;;"11v fragments; 12r 'Cadence', 'parallel'";;;2/4;"[,cd{4}/4] [aa] | \
+[cc{4}/] [aa/4] [,cd] [cc{4}/] [aa/4] [cc] | \
+[ed{4}/] ([cc/4] [aa]) [#cc1] | \
+[h,h{4}/] [gf/4] [ed] [cc{4}/] [aa/4] [,cd] | "
+29;A dur;11v;fragment;;both fragments belong together (Menuet)?;;;3/4;"[e,,,,a] [d{6}] ,e [,c{a}] ,a [,,d{6}] [,a{5}] [,c{4}] \
+[,e{,,,a}] ,c [,a{,,,a}] ,,e [,,c,b] [,,ae] | \
+[,,,d{,,a}1] [,,,,e{5}/] ,,d [,,,c{,,a}1] | \
+[,,,,c{a}1] [,a{a}/] ,,c [,,,d{a}] ,,,,c | "
+30;A dur;11v;fragment;;both fragments belong together (Menuet)?;;;none;"[,,,e,a1] ,,e [,c,,,a] [,c,,,a] | \
+[,,,d{a}1] [,,c{4}] [,c{a}] [,c{a}] | \
+[e,,,a/] ,g e ,g ,e1 ,,h | \
+[,,g{5}1] [,,e{,a}] ,,g [,,,g{5}] | \
+[,,c,b1] ([e,,,b/] b) [,b,,b1] ,,c | "
+31;;12r;Cadence;;;;;none;"{4}/8 ,,,,d ,,,d ,,f ,d d ,,f ,d ,,,d ,,,,d ,,,d \
+{5} ,,,,c ,,,c ,,d ,c c ,,d ,c ,,,c ,,d ,,,,c ,,,c"
+32;;12r;"""parallel""";;;;;none;"{4} h h ,f ,,h ,,h ,,d ,,,c ,,,c ,,,,c ,,,,,d ,,,,,d | \
+{,a}/4 ,,,a ,,,c ,,a ,,b ,,d ,a ,c a ,f ,h f h k m n \
+{,a} (n m) k ,l ,i ,h ,,l ,,i ,,h ,,,k ,,,h ,,,,i ,,,,h"
+33;D dur;12v;Polonoise del Sig.re Veys;;;;;3/4;"[,,,,a{,a}/] ([,,,,e{,,,a}/4] ,,,,a) [,,c{a}/] \
+[,,c{a}/4] ,,,c [,,,ea/] {,,,a} | \
+[,,,,a{,a}/] ([,,,,e{,,,a}/4] ,,,,a) [,c,,,a/] \
+[,c,,,a/4] ,,e V[,,f,a/] {,,,a} | \
+[,,,,ca/] ([,,,,#e{6}/4] ,,,,c) [,,,,ca/] \
+([,,,,e{6}/4] ,,,,c) [,,,,ca/] [,a,,a] | "
+34;d moll;12v;Heitrer Schauplatz stiller Freuden;;;;;C;"[k,i{,,,a}/] {,,,a} [,,n{,,,a}] {,,,a} [n,n{,,,a}] {,,,a} \
+{,,,a} [m,l{,,,a}] | \
+[k,i{,,,a}/] {,,,a} [,,n{,,,a}] {,,,a} [ff{f}] {f} \
+[ed{,,,a}] {,,,a} | \
+[cc,,,e/] ,,,,,e ,,,,,e [f,,,,e] [e,,,,e] ,,,,,e \
+[cc,,,e] ,,,,,e | "
+35;C dur;13r;Partie di Sig.re Adamo Falckenhagen - Largo;A.Falckenhagen;;;;3/4;"[,cd{4}1] [aa{4}] [cc{4}] | \
+[ed{4}1] [#h#h] z1 | \
+[aa{a}1] [,ac{a}/] [,cd] [aa{a}1] | \
+[,'c{4}1] {4} [,ac{a}] | \
+{a}/ [,ac] [,ac] [,ac] ([,cd3/4] ,d/8 c | "
+36;C dur;13r;Prelude;;;;;3/4;"[,cdc{4}1] {4} {4} | \
+[ccd{4}3] | \
+[ead{,a}3] | \
+[cac{,a}3] | \
+[ccd{,,a}1] [ccd{,,a}] [ccd,,a] | \
+[aad{,,,a}1] a [aac{a}] | \
+[,cdc{4}2] [,cde{,a}1] | \
+[ead{,a}2] [,ade{,a}1] | "
+37;C dur;13v;Schertzo;;;;;2/4;"[,cd{4}1] [cc] | \
+[ed{,a}1] #h | \
+{a}/4 (h g) (,h f) a ,,h ,a | \
+[,,h{4}/4] ,a [,,,#h3/2] | \
+{a}/4 ,,,c ,,c ,a [,cd{a}/] [cc] | \
+{a}/4 ,,,c ,,c ,a [,cd{a}/] ,,d | "
+38;C dur;14r;Menvet;;;;;3/4;"#h1 #,f #h | \
+#,,h1 #,f #,,,h | \
+[,ac{a}1] [,cd{a}] [aa{a}] | \
+[,'c{4}1] (,a/ ,c) ,,d1 | \
+[,ac{a}1] [,cd{a}] [aa{a}] | \
+[,'c{4}1] {4} [,a{a}] | \
+{,a}1 #e ,a | "
+39;C dur;14v;March;Falckenhagen?;see D-ROu52-2 / 34v;;;C;",,,c1 | \
+[,,d{4}/] (,a ,c) ,d #c1 [,,,c{4}] | \
+V[,,d{4}/] {,,,a} {,,a} {,a} {a}1 ([,,d{,,a}/] ,,c) | \
+[,,'a{,,a}1] {,,,a}/ ,a [,,'c{a}3/2] ,,d/ | \
+V[,,d{4}1] ,,,c/ ,,,a #,,,,c1 [,,,c{4}] | "
+40;C dur;15r;Angloise;;;;;C;",,,c/ | \
+[,,dc{4}1] [,,'ca{,,,a}3/4] (,,a/8 ,,c) \
+[,,dc{4}/] (,,c/8 ,,a) ,,,c/ [,,d{4}] | \
+[,ac{a}/] [,cd] [aa] [c,c{a}] [,'c{4}/] \
+(,a/4 ,c) ,,d/ ,,,c | \
+[,ac{a}/] [,cd] [aa] [c,c] [,cd{4}] ::"
+41;F dur;15r;Menuet;;;;Conc_1983;3/4;"{,a}/ a ,,d1 ,,d | \
+{,,a}/ c ,,d1 ,,d | \
+{,a}/ e {,,a} c {,,,a} a | \
+{4}/ a (,c ,a) [,,#d1] | \
+{,a}/ ,,a {a} ,,b ,,,,,a ,,d | "
+42;F dur;15v;Polonoise;J.S.Scholze;Schönste Schäfferin (Sperontes 1741 - 3. Fortsetzung (continuation) N.43);;;3/4;"[a{,a}/] a/4 d [e{,a}/] e/4 ,d [c{4}1] | \
+[a{,a}/4] ,c a/ [a{,a}/4] ,c a/ [aVd{,a}1] | \
+[c{4}/] c/4 a [,c{4}/] ,c/4 ,a [,,d{4}/] c/4 e | "
+43;F dur;15v;Trio;;Zu grausam, Kind, das muss nicht sein (Sperontes, 1745 - 3. Fortsetzung(continuation), N. 44);;;3/4;"[,,aa{,a}1] [,,aa{,a}] [,,,c{4}/4] ,,a ,,b/ | \
+[,,a{,a}/] ,,a/4 ,,,c [,,,a{,a}/] ,,,a/4 ,,,,c [,,,aVd{,a}1] | \
+[,a{5}/] ,a/4 a [,,d{6}1] [,,b{5}] | "
+44;D dur;16r;Polonoise;;;;;3/4;"[e{,,,a}/4] c ,e ,c [,a{,,,a}/] ,,,,a [,a{,,,a}] ,,,,a |: \
+""tris""[,a{,,,a}/] [gf] [gf{,,,a}/] ,,,,a ['e'e{,,,a}] ,,,,a :| \
+[e{,,,a}/4] c ,e ,c [,aVf{,,,a}1] [,a{,,,a}] | "
+45;d moll;16r;O Jüngling, sey so ruchloß nicht!;;;;;2/4;",h/ | \
+[k{,,,a}/] ,a (,a/4 ,c) ([a{,,a}] c) | \
+[e{,a}3/4] [e{,,a}/4] [e{,a}/] [e{,,,a}] | \
+[f{a}3/4] e/4 [c{a}] [a{,a}] ([,c{,,a}] [,a{,,,a}]) | \
+[e,,,,a/] [a{,a}] [,a{,,,a}] ::"
+46;D dur;16r;Polonoise;;Freund Jugendlicher Freuden;;;3/4;"[,a{,,,a}/4] ,c ,e c [e{,a}1] e | \
+[,h{,a}/] ,k/4 i [k,,,a1] [,a{,,,a}] |: \
+""bis""[,a{,a}/] (,a/4 ,e) [,c{4}/] (,c/4 ,a) V[,c{6}1] :| \
+[,e{,,,a}/] ,e/4 e [c{,,a}/] ,e ,c ,a | "
+47;F dur;16v;[Menuett];Steinmetz;;;Conc_3810;3/4;"""bis""(3[,,,a{,a}/] ,,a ,,d) (3[a{,a}] c e) \
+(3[,,d{,a}] ,,b ,,a) | \
+(3[,,,,,d{4}/] ,,,,a ,,,,c) (3[,,,a{4}] ,,,c ,,a) \
+(3[,,b{4}] ,,a ,,,c) :| \
+(3[,,,,d{,a}] ,,,,c) ,,,,d (3,,d ,,c ,,d) (3a ,,h a) | "
+48;A dur;16v;sans titre;;"Phyllis/Phillis ""Im stillen Schoß beblümter Täler""";;;2/4;"[,,a{6}1] {4}/ ,c/4 ,,e | \
+[,,'c{,,,a}1] {5}/ b/4 ,a | \
+[,c{,,a}/4] (,,e ,,c ,,a) [,,,d{,,a}/] (3,a/4 ,,c ,,,d) | \
+[,,a{6}/4] ,,,,c ,,,,c/ ,,,,,a [,,ee] | "
+49;G dur;17r;Allegro moderato;Hagen;;;Conc_4054;C;",,,,a/ | \
+[,,,c{a}/4] ,,c ,a/ {,a}/4 ,,d ,,c ,,a [,,,c{,,a}] ,,,b \
+,,,c/ {5} (,,,c/4 ,,,d) | \
+V[,,,e{4}3/4] ,,c/4 (3[,,d{,,,a}] ,,c ,,a) (3,c ,a ,,d) \
+[,,'d{a}/] ,,c1 {a}3/8 c/8 | "
+50;a moll;17v;sans titre;Kleinknecht;Nun lieber Gott du bleibst ja lange;;Conc_83;2/4;"[,,d,,a/4] | \
+[,,cc{,,a}1] [,,#a{,a}] | \
+[,ca{4}1] {,,,a}3/4 a/4 | \
+[,,de{,,a}1] [,,cd{,,a}3/4] ,a/4 | \
+(3[,,'d,,a/] ,,c ,,a) [,,a{6}3/4] ,,d/4 | \
+([,,d(e{,,a}/] {,,a} [,,cd){,,a}3/4]) [,c,,,b/4] | "
+51;Es dur;17v;Von allen Schönen, die ich [Aria];;;;;6/8;",,b3/4 ,,d/4 | \
+[,,b{,,a}/] ,,,c ,,,d3/4 ,,b/4 [,,,d{5}1] \
+,,,a ,,,c3/4 ,,,d/4 | \
+[,,,c{,,a}1] ,,b [,,d{6}/4] ,b [,,d{,,a}/] ,,b \
+(3[,,b{a}/4] ,,d ,b) | "
+52;f moll?;18r;[Prelude];;;;;none;"{4}3/4 ,,,,d/4 ,,,d ,,d ,d d ,f d ,d d ,,d ,d \
+,,,d ,,d ,,,,d ,,,d {4}3/4 ,,,,c/4 ,,,c ,,d ,c c \
+,d c ,c c ,,c ,c ,,,c ,,c ,,,,c ,,,c"
+53;B dur;18r;Aria;;Macht mir vom Volk, das vornehm geht;;;C;",,,a1 | \
+[,,b{d}1] ,a [,,d{5}] ,,b | \
+[,,'a{,a}1] ,,b ,,d [,,,c{,,a}] | \
+[,,,a{,,,a}3/2] ,,,c/ [,,,a{4}1] ,,,,b | \
+[,,,,b{5}1] ,,,,a z1 ,,,,a1 | \
+[,,,c{d}1] (,,b/ ,,a) [,,,c{5}1] ,,,a | "
+54;Es dur;18v;sans titre;;Nun werd' ich sie bald wieder sehen ...;;;3/4;"[,,bc{,,a}1] [,,,d{,,a}] (3,b/ ,a ,,d) | \
+[,,'b'c1] {,,a} (3c/ a ,b) | \
+[,a{5}/] ,,d [,,b{,,,a}] ,,,d [,,,c{5}] ,,,d | \
+[,,,#d{,,a}1] ,,,c/ {,,a} {6} {,,a} | "
+55;A dur;19r;Larghetto;A.Falckenhagen;;;;3/4;"[,,#h,,a1] [,#h] [#i#h] | \
+[#i#h{,,a}1] [#g#g{,,a}] {,,a} | \
+[gghgg{,,a}1] [kghgg{,,a}] [kghgg{,,a}] | \
+[kgkkka1] [ih2] | \
+[ih{,,,a}1] 'g ,h/ g | \
+[,'g{,,a}1] [,'g{,,,a}] [,h{4}] | "
+56;B dur;19v;Menuet di Sig.re Pachelbel;Pachelbel?;;;Conc_1986;3/4;"[aab{5}1] a/ #,,g ,a ,,g | \
+[aab{5}1] a #f | \
+[aab{5}1] a/ ,,g ,a ,,g | \
+[aab{5}1] a [,#f#g] |: \
+,a/ a #,,,,i ,a #,,,h #,,g | "
+57;G dur;20r;Ballet;;;;;C;"[,,,,a{,,,a}1] | \
+[,,,c{a}1] {a} [,,,c{a}] {a} | \
+[,,,c{a}/] ,,c [,a{6}1] ,,,,,c [,a{a}] | \
+[,c{4}/] ,,d [,a{4}/4] ,,d ,,c ,,d [,c{6}/] \
+,,d [,a{6}/4] ,,d ,,c ,,d | "
+58;D dur?;20v;Carillon;;;;;2/4;"[,,a{4}/] [,,a{6}] [,,,'b{,,,a}] [,,,,'a] | \
+[,,c{a}/] [,,c{,a}] [,,a{,,,a}1] | \
+[,,c{,,,a}/] [,,e{,,a}] [,a{,a}] [,c{a}] | \
+[,,#e,,a1] [,,f{,,,a}] :: \
+[,e,,,a/] ,e [,c{4}] [,a{6}/4] ,,e | \
+[,a{5}/] [,c{a}] [,,e,,a] ,,c/4 ,,a | "
+59;;20v;sans titre;;3x the same piece in different keys / gleiche Stueck in verschiedene Tonarten;;;3/4;"(h/4 f) (,h ,f) #,,i1 #,,i | \
+,,i/ k #k1 #h | \
+(h/4 f) (,h ,f) ,,i1 ,,i | \
+n/ m Vn2 :| "
+60;;20v;sans titre;;3x the same piece in different keys / gleiche Stueck in verschiedene Tonarten;;;C;",,h1 | \
+,h/ i g ,h ,f ,e/4 ,g ,,h/ ,,f | \
+,,,i/ ,,,g ,,,i ,,g V,,h2 :: \
+,e1 | \
+,,h/ ,e ,f ,,h ,e ,,h/4 ,e | "
+61;;20v;sans titre;;3x the same piece in different keys / gleiche Stueck in verschiedene Tonarten;;;C;",,a1 | \
+[,a{,,,a}/] b [,c{a}] ,a [,,e,,a] [,,c{,,a}/4] ,,e \
+[,,a{6}/] ,,,c | \
+[,,,,e{,,,a}/] [,,,,c{4}] [,,,,e{,,,a}] [,,,d{5}] \
+V[,,,f{6}] {,,a} {a} {a} :: \
+,,c/ | \[,,a{,a}1] ,,c [,,d{,,,a}/] ,,a"
+62;B dur;21r;Allemande del Sig.re Falckenhagen;A.Falckenhagen;First measures reminiscent of Conc_632 [The Allemande and Courante (21r - 21v) form a Partita with the other pieces in Ha II.B.2];;;C;",,b/ | \
+[,,baa{d}3/2] ,,,a/ ,,b3/4 ,a/4 (,,d3/4 ,,b/4) | \
+[,,da,a3/2] ,,,a/ ,,d (,b ,a) ,,d | \
+[,aba{d}3/2] ,,,a/ ,a ,,d ,a ,b | "
+63;B dur;21v;[Courante];A.Falckenhagen;;;Conc_1357;3/4;",,,a/ ,,,c ,,a | \
+([,,b{d}/] ,,a) [,,b{d}] ,a [,,d,,a] ,b | \
+[,a{d}/] a ,,b ,a ,,,a ,,b | \
+([,,b{,,,a}/] ,,a) [,,b{5}] ,a [,,d{,a}] ,b | \
+[,a{d}/] a ,,b ,a ,,,a ,,b | "
+64;d moll;22r;Aria andante (modern notation);;;;;2/4;
+65;E dur;22v;sans titre (incomplete);C.H. Graun;Continuation of f.2r (Aria Larghetto, C.H.Graun);;;3;"[,,,,c{a}3/4] ,,,d/4 [,,,,e{6}3/4] ,,a/4 [,,,d{5}3/4] ,,c/4 | \
+[,,,'e{4}1] {,,,a} [,,,d{,,a}] | \
+,,d1 ,,,,,a ,,,,,a | \
+[,,,,'b{5}1] {6} [,c{a}] | \
+[,c{6}1] {5}/ ,b/4 ,,e [,,c{5}3/4] ,,a/4 | "

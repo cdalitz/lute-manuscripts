@@ -1,0 +1,141 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;1r;Sarabande en C sol ut;;;Guitar;;3;"!strumdown![,b,cd1] !strumup![,b,cd] !strumdown![,b,cd] | \
+!strumdown!X,,,,c3/2 !strumup![,bcc/] !strumdown![,bcc1] | \
+!strumdown![,bcc1] !strumup![bbcc] !strumdown![,bcc] | \
+!strumdown!X,b3/2 !strumup![,b,cd/] !strumdown![,b,cd1] |:| \
+!strumdown![db,cd1] !strumup![db,cd] !strumdown![db,cd] | \
+!strumdown!Xb3/2 !strumup![,bcc/] !strumdown![,bcc1] |";french5tab
+2;;1v;Canaries;;;Guitar;;3;",a1 ,,a ,,,,a | ',a2 ,b1 | ,,,a1 a/ ,d ,b ,a | ',,,,a2 ,,a1 |:| \
+,a1 ,,,a a | ',b2 ,,,,a1 | ,a/ (,b ,d) (,d ,b ,a) |";french5tab
+3;;2r;Sarabande;;;Guitar;;3;"!strumdown![,b,cd1] !strumup![,b,cd] !strumup![,b,cd] | \
+!strumdown![,b,cd3/2] a/ b d) | 'b2 a1 | \
+',,,a3/2 ,b/ !strumdown![,b,cd1] |:| a1 b d | ,,,a3/2 a/ Vb1 |";french5tab
+4;;2v;Branle;;;Guitar;;C;",,a1 ,b ,,a ,b | '[,aa3/2] ,b/ !strumdown![,d,,c1] ,,a | \
+,d1 ,d !strumdown![,d,,c] ,a/ (,b | \
+,d1) a ',,,a !strumdown![,b,cd] |:|";french5tab
+5;;3r;Menuet;;;Guitar;;3;"!strumdown![,b,cd1] a/ ,b !strumdown![,b,cd1] | \
+(a/ b d) '[a,,,a3/2] | ,,,a/ a !strumdown!X[,d,,c3/2] a/ | \
+,,,a1 !strumdown![,b,cd] a/ ,b | \
+!strumdown![,b,cd1] (a/ b d1) |";french5tab
+6;;3v;La Bourée Da Chille;;En D la re;Guitar;;C;"[c,,a1] | '[a,,,a1] ,d V[,d,a] a | V[c,,,a1] c ,,,a c | \
+'[a,,,a1] ,d a ',c | !strumdown!V[,dc2] !strumup![,dc1] |:| \
+c1 | '[c,,a3/2] a/ c1 Vd |";french5tab
+7;;4r;Menuet En suit;;;Guitar;;3;"f1 | '[d,,a3/2] f/ a1 | '[a,,,a1] ,d f | '[d,,a3/2] f/ a1 | \
+'[a,,,a2] |:| b1 | '[a,a3/2] b/ ,d1 | \
+!strumdown!X[,ccc3/2] ,a/ ,c1 |";french5tab
+8;;4v;Gavotte L'autre Jour;;;Guitar;;C;",,c1 ,d | '[,aa3/2] ,b/ ,,,,a ,a ,b ,,,,a |[,bc1] ,,c [,aa] ,b/ V,d | \
+'[,aa1] a/ ,d !strumdown!X[,ccc3/2] ,c/ | V[,d,a2] |:|";french5tab
+9a;;5r;Premier partie des folie Espagnole;;;Guitar;;3;"!strumdown![bdc1] !strumup![bdc] !strumdown![,ccc] | \
+!strumup![,ccc1] !strumup![,ccc] !strumdown![,ccc] | \
+!strumdown![bdc1] !strumup![bdc] !strumdown![,b,cd1] | \
+!strumup![,b,cd1] !strumup![,b,cd] !strumdown![,b,cd] | \
+!strumdown![bbcd1] !strumup![bbcd] !strumdown![,b,cd] | \
+!strumup![,b,cd1] !strumup![,b,cd] !strumdown![,b,cd] |";french5tab
+9b;;5v;2. Partie des folie Espagnole;;;Guitar;;3;"!strumdown![bdc1] !strumup![bdc] !strumdown![bdc] | \
+!strumdown![,ccc1] !strumup![,ccc] !strumdown![,ccc] | \
+!strumdown![bdc1] !strumup![bdc] !strumdown![bdc] | \
+!strumdown![,b,cd1] !strumup![,b,cd] !strumdown![,b,cd] | \
+!strumdown![bbcd1] !strumup![bbcd] !strumdown![bbcd] | \
+!strumdown![,b,cd1] !strumup![,b,cd] !strumdown![,b,cd] |";french5tab
+9c;;6r;3. Partie des folie;;;Guitar;;3;"!strumdown![bdc/] !strumdown![bdc] !strumup![bdc] !strumup![bdc] !strumdown![bdc1] | \
+!strumdown![,ccc/] !strumdown![,ccc] !strumup![,ccc] !strumup![,ccc] !strumdown![,ccc] | \
+!strumdown![bdc/] !strumdown![bdc] !strumup![bdc] !strumup![bdc] !strumdown![bdc1] | \
+!strumdown![,b,cd/] !strumdown![,b,cd] !strumup![,b,cd] \
+!strumup![,b,cd] !strumdown![,b,cd1] |";french5tab
+9d;;6v;4. Partie des folie;;;Guitar;;3;"!strumdown![bdc/] !strumdown![bdc] !strumup![bdc] !strumup![bdc] !strumdown![bdc1] | \
+!strumdown![,ccc1] !strumup![,ccc] !strumdown![,ccc] | \
+!strumdown![bdc/] !strumdown![bdc] !strumup![bdc] !strumup![bdc] !strumdown![bdc1] | \
+!strumdown![,b,cd1] !strumup![,b,cd] !strumdown![,b,cd] | \
+!strumdown![bbcd/] !strumdown![bbcd] !strumup![bbcd] \
+!strumup![bbcd] !strumdown![bbcd1] |";french5tab
+13;;7r;Le Double En Double Batrie;;;Guitar;;3;"!strumdown![bdc/] !strumdown![bdc] !strumup![bdc] !strumup![bdc] !strumdown![bdc] !strumup![bdc] | \
+!strumdown![,ccc/] !strumdown![,ccc] !strumup![,ccc] !strumup![,ccc] !strumdown![,ccc] !strumup![,ccc] | \
+!strumdown![bdc/] !strumdown![bdc] !strumup![bdc] \
+!strumup![bdc] !strumdown![bdc] !strumup![bdc] |";french5tab
+14;;7v;Dourvito 2 Les folie;;;Guitar;;3;"!strumdown!V[,dc1] !strumup![,dc3/2] ,d/ | \
+!strumdown!X[,ccc3/2] ,a/ ,c1 | !strumdown!V[,dc1] [,a,'a3/2] ,d/ | \
+!strumdown![,b,cd1] !strumup![,b,cd2] | a1 !strumdown![bcd3/2] d/ | \
+!strumdown![,b,cd3/2] b/ Vb1 | ,d1 !strumdown!V[,dc3/2] a/ |";french5tab
+15;;8r;2.me Partie Salomon;;;Guitar;;3;"!strumdown!V[,dc1] !strumup![,dc3/2] a/ | \
+!strumdown!X[,ccc1] !strumup![,ccc] !strumup![,ccc] | \
+!strumdown!V[,cd1] ',d3/2 ,,,a/ | !strumdown![,b,cd1] !strumup![,b,cd] !strumup![,b,cd] | \
+!strumdown![bbcd1] 'b3/2 d/ | \
+!strumdown![,b,cd1] !strumup![,b,cd] b |";french5tab
+9e;;8v;3. Partie des folie;;;Guitar;;3;"V[,d,a1] ',,,a3/2 a/ | '[,c,,a1] !strumup![,ccc] !strumdown![,ccc] | \
+V[,d,a1] ',,,a3/2 ,d/ | '[a,,,d1] !strumup![,b,cd] !strumdown![,b,cd] | \
+[b,,d1] 'b3/2 d/ | '[a,,,d3/2] a/ b1 |";french5tab
+9f;;9r;4. Partie des folie;;;Guitar;;3;"!strumdown!V[,dc1] a Vb | !strumdown!X[,ccc1] ,,c ,c | \
+!strumdown![,dcd1] a Vb | !strumdown![,b,cd1] ,b a | \
+!strumdown![bbcd1] b d | !strumdown![,b,cd1] ,b b |";french5tab
+9g;;9v;5. Partie des folie;;;Guitar;;3;"!strumdown!V[,dc1] ',d3/2 a/ | !strumdown![,ccc1] !strumup![,ccc] !strumdown![,ccc] | \
+!strumdown![,dc1] ',d3/2 a/ | !strumdown![,b,cd1] !strumup![,b,cd] !strumdown![,b,cd] | \
+!strumdown![bbcd1] 'b3/2 d/ | \
+!strumdown![,b,cd1] !strumup![,b,cd] !strumdown![,b,cd] |";french5tab
+9h;;10v;Le Double des folie 6. Partie;;ff. 11v vacat;Guitar;;3;"V[,d,a/] ,c ,d a ,d a | [,c,,a/] ,a ,c ,d ,c a | \
+[,d,a/] ,c ,d a ,d b |";french5tab
+10;;12r;Les Vandange de surraine;;;Guitar;;3;",b1 !strumdown!V[,b,cd2] | ,d1 [a,,,d] ,b | \
+'[,b,c3/2] ,a/ V[,b,,a1] | ,,a1 ,b !strumdown![,b,cd] | \
+,d1 [a,,,d] ,d/ ,b | '[,b,c3/2] ,a/ !strumdown![,b,cd1] |:|";french5tab
+9i;;12v;7. Partie des folie;;;Guitar;;3;",d1 !strumdown!V[,dc] a/ b | !strumdown!X[,ccc3/2] ,d/ a ,c | \
+!strumdown!V[,dc1] a/ ,,,a a b | '[a,,,d1] !strumup![,b,cd2] | \
+b1 !strumdown![bbcd] f |";french5tab
+9k;;13v;Double 8. Partie;;;Guitar;;3;",d/ !strumdown![,dc] b1 ,d | !strumdown!X[,ccc1] (,c/ ,d) a ,c | \
+!strumdown![,dc1] V,d ,b/ ,d | \
+!strumdown![,b,cd/] ,d (b d) a1 ,c |";french5tab
+11;;14v;Gigue En G la re misse par D.;;;Guitar;;3;"!strumdown!V[,dc3/2] a/ ,d1 | '[,c,,a3/2] ,,c/ V[b,,a1] | \
+d/ b '[a,,,d3/2] ,b/ | [f,,,a3/2] g/ f1 | \
+'[d,,a3/2] b/ '[a,,,d] ,d | \
+,b1 !strumdown![bbcd] !strumup![bbcd] |";french5tab
+12;;15v;Sarabande aimable misse par D.;;f. 16r vacat;Guitar;;3;"(a/4 b d) !strumdown![facdd1] f/4 V[g,a1] | \
+'[d,,,d3/2] d/ V[f,,,a1] | !strumdown![bdc1] ,,,d (,,,c/ ,,,d) | \
+',,,c2 !strumdown!V[,dc1] |:|";french5tab
+13;;16v;Rigodon;;;Guitar;;C;",,a1 | V[,,da2] '[,b,c] | ,d/ ,b ,d ,e !strumdown![,dc] d | \
+[f,,,a1] g '[f,,a] d/ c | \
+!strumdown![dd,,c1] !strumup![dd,,c] ,d ,,a |";Doppio in file
+15;;17v;Menuet;;;Guitar;;3;"[d,,c1] ,d V[,e,,d] | '[,b,c3/2] ,,d/ ,,c1 | \
+[,d,,b1] ,b/ (,,d ,,c ,,a) | ',,,e3/2 ,,,c/ ,,,a1 | \
+,,a1 [,,aa/] ,,c V,,d1 |";
+16;;19v;Bourée;;;Guitar;;C;",d/ a !strumdown![bbcd1] a/ b !strumdown!V[,dc1] | \
+a/ b '[a,,,d1] ,d/ ,a !strumdown!V[,dc1] | \
+a/ V[b,,a1] a/ ,d ,b '[,aa1] |";
+17;;19r;Prelude En De La Re;;;Guitar;;C;",,,,a/ ,d b ,,,a ,d b ,,c ,d/4 b | \
+,,,,b/ ,d d ,,,a ,d d ,,a ,d/4 d |";
+18;;19v;Prelude En C sol ut;;;Guitar;;none;",,,,a3/2 ,,,,c/ V,,,,d1 ,d/ a ,d ',b3/2 ,a/ V[,b,,a1] \
+[d,,c] ,b/ d 'b2 !strumdown![,b,cd1] \
+[,d,,c/] ,,a a ,,,,a ,b ,,c";
+19;;20v;Gavotte misse par D.;;;Guitar;;C;"!strumdown![,dc1] ,,c | V[,d,a1] [a,,,e] !strumdown![cdc] [d,a/] c | \
+!strumdown![,ccc/] ,,e ,,c ,,a [c,,e] a ,d ,c | \
+[,aa/] ,,c ',,a ,,,e";
+20;;21v;Menuet;;f. 23r vacat;Guitar;;3;"!strumdown![bbcd1] d f | '[,,c,a2] ,d1 | [a,,,d1] !strumdown!X[,ccc2] | \
+,d/ ,c ,d a !strumdown!V[,dc1] | !strumdown![bbcd1] (d f) | \
+'[,,c,a2] ,d1 | [a,,,d1] !strumdown!X[,ccc2] | \
+!strumdown!V[,dc3] |:|";
+21;;22v;La Marche du siege de Conpiene;;The Siege of Compiègne took place in 1430;Guitar;;C;"[,b,,d1] ,b/ ,b !strumdown![,b,cd1] ,,a | \
+,,,c1 ,,a ,,,,d ,,,,d/ ,,,a | ,,,c1 ,,,c/ ,,,c ,,,c1 ,,,,d | \
+[d,,c1] d/ d !strumdown![dd,,c1] ,,c/ ,a |";
+22;;23v;La Descente de Marie air de Trompette;;En C soll ut;Guitar;;3;"!strumdown![,b,cd/] !strumdown![,b,cd] !strumup![,b,cd] !strumup![,b,cd] !strumdown![,b,cd] !strumup![,b,cd] | \
+!strumdown![,b,cd/] ,,a [,b,,d] ,,a [,b,,d] ,,a | \
+[,b,,d/] ,b a ,b !strumdown![,b,cd] d |";
+23;;24v;La Belle Gavotte;;;Guitar;;C;"!strumdown!V[,dc1] a/ b d1 | [f,,d1] [g,a/] f '[d,d3/2] f/ | \
+[f,,,a/] d 'b a [,d,a] a b d | [f,,d/] d [g,a] f '[d,d3/2] f/ |";
+24;;25v;Pavenne Espagnole;;f. 27r vacat;Guitar;;3;"a/ ,d '[,c,,a3/2] ,a/ | ,c1 V[,d,a2] | a/ b [a,,,d3/2] ,b/ | \
+,,,,d1 a/ b [a,,,d1] | b/ a '[b,,a3/2] a/ | ,d1 '[,c,,a2] |";
+25;;26v;Air des masques de Europ Galant;;;Guitar;;3;"!strumdown![fdc1] [d,,c/] | '[b,,a1] a/ | V[b,,a/] [a,,,d] [,dd] | \
+!strumdown![,ccc1] [,,c,a/] | [,d,d1] [,b,c/] | V[,,da1] [,,c,d/] | \
+[,d,,b1] [a,a/] | '[,c,,a/] ,a ,,c |";
+26;;28r;Chaconne;;ff. 29v-30r vacat;Guitar;;3;"!strumup![dd,,c1] !strumup![dd,,c] !strumdown![dd,,c] | \
+!strumdown![cdc1] !strumup![ddc] !strumdown![,b,cd] | \
+!strumup![,b,cd] !strumup![,b,cd] !strumdown![,b,cd] | \
+!strumdown![cdc1] !strumup![cdc] !strumdown![dd,,c] |:| \
+!strumup![h,,f1] !strumup![h,,f] !strumdown![h,,f] | \
+!strumdown![h,,f] h !strumdown![,b,cd] |";
+27;;29v;double;;unfinished;Guitar;;none;,d/ [,c,a] ,d a b d f d f g i f ,f ,a ,f ,d ,d ,c ,d a;
+28;;29v;[Fragment];;;Guitar;;3;",b1 [,c,a] ,d | a1 b/ d f g | 'i3/2 f/ ,f ,g | \
+,f/ ,d1 ,d/ ,c ,d | a1 b/ d f d |";
+29;;30v;Noelle;;;Guitar;;3;"!strumdown!V[,dc1] ',c3/2 ,d/ | !strumdown![,ccc1] !strumup![,ccc] !strumdown![bdc] | \
+d1 '[ac,,a2] | !strumdown!V[,dc1] ',c3/2 ,d/ | \
+!strumdown![,ccc3/2] ,d/ ,b1 | '[,a,c2] ,,,,a1 |:| \
+!strumdown!V[,dc] ',c ,d |";
+30;;31r;2. Noelle;;;Guitar;;3;",,c1 !strumdown!V[,dc3/2] a/ | V[b,,a1] d '[a,,,a] | \
+a1 ,c !strumdown!V[,dc] | '[a,,,d2] [,,c,a1] |:| \
+f1 [f,,d] d | '[b,,,a3/2] a/ V[b,,a1] | d1 [f,,,a] g |";

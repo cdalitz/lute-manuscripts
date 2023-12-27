@@ -1,0 +1,556 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+;;Theatrvm mvsicvm, selectissimis optimorvm artificvm carminibvs instrvctvm atqve exornatvm;;;;;;;
+1;;1r;Fantasia Prima;;;OT;ConcR2709;C;",d1 ,d/ ,d b ,d b d | f/ ,,d f ,,d [f,g] ,,,h [f,g] ,,i | \
+,f/ d d ,f"
+2;;1v;Fantasia Pauli Baroni;Pietro Paolo Borroni;;OT;ConcR1403;C;",a2 ,a1 ,a | ,,d1 ,,a ,,b ,,,c | [,,ff2] [,,ff1] [,,ff] | \
+[,,de1] [,,aa] [,,bc] ,,,,e | [ha,fh2] [ha,f1] [ha] |"
+3;;2r;Fantasia;;;OT;;C;f2 f1 d | c/4 a d c a ,d a/8 ,d ,c ,a ,,d/4 ,a ,c ,d a c
+4;;2v;Fantasia;;;OT;ConcR1764;C;"a3/2 c/ d f h i | [ha3/2] ,c/ ,d a c d | \
+[ca,,c3/2] ,,,,e/ [c,,a] ,,,c ,,a ,,b |"
+5;;3r;Fantasia;;;OT;ConcR1100;C;"[da,c,a2] [da,c,a1] [da,c,a] | [ca,,c1] [,da,c] [abb,d/] c d a | \
+[cdda/] a [aabc1] [abd,a] [,ea,c] | \
+[aab,,a1] [ha,f] [f,a] [c,,a] |"
+6;;3v;Fantasia;;;OT;ConcR1284;C;"[aa,,,a3/2] c/ e f h1 | ,,,,a/ f e c a ,d ,c ,a | \
+[,c,,a1] ,,d/ ,a ,c ,d [aac1] |"
+7;;4r;Fantasia;;;OT;;C;"z1 c | c1 ,d a [ca] | [da1] ,,b [c,d] ,a | \
+,b1 f [da] [c,a/] a | [,da/] a [cd,a1] [da,c] [c,de/] a |"
+8;;4v;Fantasia;;;OT;ConcR1299;C;"[a,d,a2] [c,d1] a | ,,,,a/ ,d ,c ,a ,,d ,,c ,,a ,,,c | \
+[,,aa1] ,d ,,,,c/ ,c ,a ,,d | [,,cc1] ,,d [,,dc] ,,c |"
+9;;5r;Fantasia;;;OT;ConcR2710;C;"[aa,c,a2] [aa,c,a] | [aa,c,e2] [aa,c,e1] [,c,ca] | \
+[ca,bc1] ,,,c [ca,,c] ,,,b/ ,,,,a | \
+[ea,c,e1] ,,,,,a [aa,c,e] [,c,ca] | [ef,c/] ,c ,e ,f"
+10;;5v;Fantasia;;;OT;ConcR1768;C;",a3/2 ,c/ ,d ,a ,d a | [c,a3/2] ,,c/ [c,d] ,,a ,,d ,a | \
+[ac,,a3/2] ,,,,c/ [ac,,e] ,,,,a ,,,,e ,,,a |"
+11;;6r;Fantasia;;;OT;ConcR1300;C;"[a,d2] c1 a | ,,d/ ,c ,d a c1 a | ,,c1 ,d ,c ,a | \
+a1 ,,d/ ,d ,c ,a ,c1 |"
+12;;6v;Fantasia Francisci Milan;Francesco da Milano;;OT;ConcR1388;C;"[aa,c,a2] [aa,c,a] | [,daac2] [,aaac1] ,,c | \
+[,cdca1] a ,,,,a/ ,d/4 ,c ,a ,,d ,,c ,,a | \
+[hf,g,a2] [h,fgh] | [fc,ca3/2] ,,,,c/ ,,,,e1 ,,,,a |"
+13;;7r;Fantasia;;;OT;ConcR1334;C;"h2 c1 f | a1 d [ca2] | ,,a1 ,,d a/ ,,,c ,,b1 | \
+[,,a,c1] ,,,a ,,d/ ,,,,a ,,,,d1 | [a,,c1] ,,b [,d,,c/4] ,,,,a"
+14;;7v;Fantasia Francisco de Milan;Francesco da Milano;;OT;ConcR170;C;"h2 i1 h | ,a1 h [,ig] f | [ca1] d ,,,,c [ca] | \
+[,,b,d1] [a,d] [,,a,c] ,e/ ,c | \
+,e1 [,a,,c] [,,d,d/] ,,b ,,a ,,,c |"
+15;;8r;Fantasia;;;OT;ConcR1286;C;"[,d,a3/2] a/ c d f1 | ,,d1 d/ c [a,d1] c | \
+[da1] c a/4 ,d a c d a c d |"
+16;;8v;Fantasia Prima Sixti Kargl.;Sixtus Kargel;;OT;;C;",d2 [f,d1] ,d | f1 [f,g] [ha] ,,,f/ [f,d] | \
+[da/] ,,b [ca] [ab] [c,d] d f ,b | \
+,,d/ [da] [ab] [cd]"
+17;;9v;Fantasia 2.;Sixtus Kargel;;OT;ConcR2711;C;"a2 c1 ,e | a/ c e f h f [ea] c | \
+[ac1] [f,d] [ca/] ,,d [e,c] ,,a |"
+18;;10r;Fantasia;;;OT;ConcR2712;C;"[,dda2] [,dda1] ,,,c | [,d,e1] [,d,f] ,,,c ,,a/ ,,,c | \
+[,d,a/] ,,,c ,,a ,,c ,,d1 ,a | [ac1] ,d [ac] [ac] |"
+19;;10v;Fantasia 3.;Sixtus Kargel;;OT;ConcR1355;C;",d2 ,d1 ,,e | ,b1 ,d ,,b3/4 ,,d/4 ,,e ,,d ,,e/8 ,,d ,,e ,b | \
+,d1 f ,d [bd] |"
+20;;11r;Fantasia;;;OT;ConcR2713;C;"h2 f1 c | d1 c/ a c1 ,a | [ca1] ,,d/ ,,b [c,d1] ,a | \
+[aa,c1] d [c,da] [c,a,c] |"
+21;;11v;Fantasia 4.;Sixtus Kargel;;OT;;C;"h2 k1 f | h1 ,f/ f ,k ,h [ef1] | [fh1] [fe] ,f/ e e1 | \
+[c,f/] ,e/4 ,c ,e ,c"
+22;;12r;Fantasia;;;OT;ConcR1767;C;"z1 a ,e ,a | ,c1 ,,d [,ac] [,c,c] | \
+,,,b/ ,a [,a,,c1] [,,,ce] [a,e] | \
+[,ef,c1] [,ac] [,cd,a] ,,a |"
+23;;12v;Fantasia;;;OT;ConcR2714;C;",h2 ,h1 ,h | ,a1 ,d [,ca2] | [,ca1] [,da] ,,,,c/ a [c,,a] e | \
+[fc,,e1] e/ c [ec,,e1] ,c |"
+24;;13v;Fantasia 1. Melchior;Melchior Neusidler;;OT;ConcR2489;C;",d2 ,,e1 ,,,f | ,,g1 ,d ,,,f/ ,,e ,e1 | \
+,,,,g/ ,d/4 ,e [,d,,d/] ,,g [,d,d] ,,g ,g ,,,,g |"
+25;;14r;Fantasia;;;OT;ConcR2463;C;",,,a2 ,,,a1 ,,,c | ,,,e1 ,,,a [,db3/2] ,,d/ | \
+[,df1] [a,d] c [,df1] | d1 ,c [cd/] ,c [da] ,,d |"
+26;;14v;Fantasia 2.;Melchior Neusidler;;OT;ConcR265;C;"h2 [hf1] h | [ef1] ,f [e,h/] f/4 h k1 | \
+,h/ h f ,f [ce] ,c [h,f1] | ,f/ f e [ce]"
+27;;15v;Fantasia;;;OT;ConcR2491;C;",c1 a1 ,e | [c,a1] f ,,d/ e/4 c [a,c1] | \
+[,df/] ,f [cd] e [f,,e] ,c/4 ,a [,cd/] ,d |"
+28;;16v;Fantasia 4.;Melchior Neusidler;;OT;ConcR2483;C;"h2 a1 h | [df/] f h f/4 h [i,,h1] [hf] | \
+[f,g/] ,,i [df] ,d/4 ,f [fg/] d [fd] h |"
+29;;17v;Fantasia 5.;Melchior Neusidler;;OT;ConcR2484;C;"[f,ddf2] [f,ddf1] ,,,,d | [gd,d,g1] ,,,,,f [gd,f,d/] f d1 | \
+[fg,df/] ,f ,d1 [f,i,hf] ,,h/ ,,f | \
+[f,hh,f1] ,f [bdea] ,,d/ ,,b |"
+30;;18v;Fantasia 6.;Melchior Neusidler;;OT;ConcR2485;C;"[ffgh2] [ffgh1] ,,,f | [ff,d1] ,d/ ,,g [,ddd] ,f f ,d | \
+[fffc1] d/ c [dffc1] [,fg,d] | [bd,a1] ,,d/ ,b [aa,c]"
+31;;19r;Fantasia;;;OT;ConcR1759;C;"[aac,,a2] [aac,,a] | [,daac2] [,daac/] ,c [,ac] ,d | \
+[,cdca1] a [acd,a] c | [ea,c,a1] a/ c [ef,c,a] f h1 |"
+32;;19v;Fantasia 7.;Melchior Neusidler;;OT;ConcR2486;C;f2 h1 c | d1 h [fd/] d c a/4 c | [df/] f [h,f1] [cd/] d f ,c |
+33;;20r;Fantasia;;;OT;ConcR1266;C;"f2 d1 c | ,d1 a [c,d/] a ,d ,c | [,ab1] [,ca] [,d,a] [,c,c/] ,a | \
+[,,de/] ,,,c ,,,a ,,,,e [,a,,c1] [,,d,e] |"
+34;;20v;Fantasia 8.;Melchior Neusidler;;OT;ConcR615;C;",c2 ,c1 ,c | ,b/4 ,,c ,,e ,b ,c ,b ,c/8 ,b ,,e ,b \
+[ec/4] ,,f ,c ,e ,c/ ,,f/4 ,,e |"
+35;;21v;O combien est;;;OT;ConcR1725;C;"[aabc2] [aabc/4] ,,a ,,b ,,d ,a ,c ,d a | \
+[cdda/4] a c d f d c a [cdda1] [aabc] |"
+36;;22r;Le mal qui sent - Response;;;OT;ConcR874;C;"[aabc2] [aabc/] ,d ,c ,a | [acd,a1] [aca,a] [,ea,c] ,,,a | \
+,,,c1 [,ea,c] [acbc] [cdda] | [ddf,,d3/2] c/ [acd,a1] [,ea,c] |"
+37;;22v;Vous perdés temps;;;OT;ConcR1692;C;"[aabc2] [,efec1] [,efec] | [aabc/] c d a [cdda] ,c ,d a | \
+[cdda1] [cdd] [ddf,,d/] ,,d [,,g,,d] ,,f |"
+38;;23r;Telz en mesdict - Response;;;OT;ConcR1693;C;"[,efec2] [aabc1] [acbc] | [cdda/] d f c [ddff] ,,g ,,f ,,d | \
+[ddff1] [,dff] [dfg,d] [cdfa] | \
+[aa,c/] ,,d [aab] ,c [cdda1] [dfg,d] |"
+39;;23v;Doulce memoire;;;OT;ConcR856;C;"[,dfec2] [,dfec/] ,,,,a ,,,,c ,,,,e | \
+[,ddef1] [,cdca] [,aaac/] ,c ,d ,a | \
+[,,eeec/] ,,c ,,f ,,e [,aa,c1] ,a/ ,c |"
+40;;24r;Finy le bien - Response;;;OT;ConcR1729;C;"[,aa,c2] [,dfec/] ,c ,d a | [c,de,c/] e f ,a [,cd,,c] e c1 | \
+[,,hge/] ,g/4 ,e ,h/ ,g [c,de,c] a/4 ,d"
+41;;24v;C'est à grand tort;;;OT;ConcR1757;C;",,d1 ,,,,a/ ,a [,c,c] [,d,,c] [a,,,e] [,,aa] | \
+[,,cc/] ,,d [,df,c1] [a,,ce] [,cd,a] | \
+[,adc,a1] ,,a/ ,c [,da,c] a [ca,ac1] |"
+42;;25r;Languir me fais;;;OT;ConcR200;C;"[,daa3/4] a/4 c/ a [,daa3/4] ,c/4 ,d ,c ,a ,,d | \
+[,aba,d/] ,,d ,,b ,,d [,aba,d] ,c [,daac] ,a |"
+43;;25v;Si mon traueil;;;OT;ConcR1726;C;"[c,da1] ,d [,ddef] a/ c | \
+[ddf,,d/] ,,d ,,g ,,f [cdda] [a,b] [,da] [,c,c] | \
+[,da1] [ddf,,d] [ddf,,d/] ,,,,a [ddf,c] ,,,,e |"
+44;;26r;Le dueil yssu - Response;;;OT;ConcR1727;C;"[cdda2] [cdda1] ,d | [acd,a/] ,d a ,c [,da,c] ,c [,da,c] a | \
+[c,,a1] [c,aa] [da,,,d/] ,,,,a [da,,c] ,,,,e |"
+45;;26v;Toutes les nuyct;;;OT;ConcR1755;C;",d/ a c/4 a c d f/ c d f | \
+[hd,f,d3/2] [f,d/] [ddf,,d] [c,d] [daba,d1] | \
+[,dda/] c [cdda1] [,a,c/]"
+46;;27r;Pour vn plaisir;;;OT;ConcR858;C;",,,,a1 [,,,ca/] ,,,,c [,,,ce] [,,a,a] [,,c,c] [,,,ce] | \
+[,,aa/] ,,c [a,d,a] ,a [ac] [c,d] [ea] [ac] | \
+[cd/] e [f,de] ,a"
+47;;27v;Ie prens en gre;;;OT;ConcR1358;C;"[,dda2] [,dfec1] [acbc] | \
+[cdda/4] a ,d ,c ,d a c d [cdda1] [ffg,a] | \
+[dfg,d/4] ,h ,f ,d"
+48;;28r;Mon cueur chante ioyeusement, a 4;;;OT;;C;"[aabc2] [aabc1] [aabc] | \
+[acd,a/] [dabc] [cdda] [aabc] [,dfec] [aab,,a] [,dfec] [,bbcd] | \
+[,ddef/] [ddf,c] [cdda] [aabc] [,efec1] [ddf,,d] |"
+49;;28v;D amour me plains;;;OT;ConcR1688;C;",d2 [a,d/] c d a | [c,def/] a [,d,a] ,c [,db,c] ,,d [,a,,,d] ,c | \
+[,da,c/] ,,,,a [,d,,c] [a,,,e] [c,da] [a,b] [c,aa] d |"
+50;;29r;Or il ne m'est possible;;;OT;ConcR1805;C;",d2 c1 [f,d] | [,df1] [cd,a] [c,de] [acd] | \
+[ca,a/] d [f,da] d [cd,e1] [acd,a] | \
+[,aa,c/] ,d [,daa1] [,dde/] ,c/4 ,a [,cdce1] |"
+51;;29v;Cessez mes yeux;;;OT;ConcR1769;C;"[aa,c1] ,,,,,a [aab,,a/] ,,,,,c ,,,,,d ,,,,a | \
+[,dfec1] [,dff,d] [,cdca/] ,a/4 ,c ,d ,c ,a ,,d | \
+[,abc,a1] ,,,c [,abc/] ,,,,,a/4 ,,a"
+52;;30r;Vng gay bergier;;;OT;ConcR857;C;",d1 ,d/ ,d [a,d] ,d [a,d] [c,d] | \
+[da/] ,,d [da] ,b [c,da1] [,d,a/] ,,,a | \
+[ab,ca/] ,,,a [,,,ca] [,,a,a]"
+53;;30v;Vng gay bergier. Alio modo;;;OT;ConcR857;C;"a1 a/ a [ca] a [ca] [ea] | [fc/] ,a ,c ,e [ef,c1] [ef,c/] ,,,c | \
+[cd,ec/] ,,,c ,,,e ,,c"
+54;;31r;Ie suis desheritée;;;OT;ConcR1718;C;",,,,c2 ,,,,c1 ,,,,c | \
+[,,aac/] ,,,c ,,,a ,,,,d [,,aac] ,,,,a [,,aa,d] ,,,,,c | \
+[,abc,a1] ,,,c ,,,,,a/ [,abc] ,,a ,,,c |"
+55;;31v;Svsanne vng iour, a 4;;;OT;ConcR198;C;"z1 [aabc1] [aabc] [aab/] ,,,a | \
+[a,bcd/] ,,a/4 ,,b ,,d ,,b ,,a ,,,c [,efec/] ,,f/4 ,,c \
+,d/8 ,f c e c"
+56;;32r;Godt es mijn licht;;;OT;ConcR850;C;"[,af2] [,df1] [a,,c] | [ca,,c/] a [ca,,c] d [ca,ac1] [da,c,a] | \
+[cd,ec/] [ac] [,da,c] [,cd] [,da,c1] [acbc] | \
+[c,aa/] ,a [da,cc] ,,,a"
+57;;32v;Frisque & gaillard;;;OT;ConcR1758;C;",,,,c1 ,,,,c/ ,,,,c ,,,c/4 ,,,b ,,,c ,,a ,,,c/ ,,,,c | \
+,,,c/ ,,a ,,c/4 ,,a ,,c/8 ,,a ,,c ,,d [,,c/4] ,,d"
+58;;33r;Pour vne helas, a 4;;;OT;ConcR3627;C;",a2 [ca1] [ca] | [c,d/] ,,b [c,d] ,a [ab] ,d a c | \
+[d,,,c1] c [c,,ac/] a/4 c [d,,,c] c a ,d |"
+59;;33v;A demy mort, a 4;;;OT;;C;"c2 ,d1 ,a | c2 ,,f1 ,d | \
+[a,b1] [d,,c] [ca/4] a d c a ,d ,c ,a | [,c,e/4] ,,f ,,e ,,c"
+60;;34r;Martin menoit;Clemens non papa;;OT;;C;",a1 a/ c e e [h,,,h] [h,,,,h] | \
+[f,d/] ,a [ec] ,c [ef] c/4 a [ce,,c1] | \
+[,c,c/] ,,a [,efg] ,,,g"
+61;;34v;Vn doulx neny, a 4;Cricquillon;;OT;ConcR873;C;"[,acc,a2] [,acc,a] | [,cdca/] ,,d/4 ,a ,c ,a ,c ,d [,cdca1] [aab,,a] | \
+[,efec1] ,,,b ,,,c [,efec] | [acbc1] [cdda] [ddff] [cdda] |"
+62;;35r;Tant vous allez doux guillemette;;;OT;ConcR2352;C;"a/ a a a [ca/4] a [,ef] ,c [,ef/] ,,f | \
+[ac/4] ,a [a,d] ,,c [,cd/] [,ea] \
+[aacc] [,a,c] [,a,c] ,,c/4 ,,d |"
+63;;35v;Si me tenez;;;OT;;C;",,b1 ,,b/ ,,a ,,,c1 ,,,a | ,,,,d1 ,,,c [,d,a] ,,b/ ,b | \
+[,ab1] [,,de] [,,bc/] ,,d [,a,a] ,,,c | \
+[,,de/] [,ab] [,bde] [,df]"
+64;;36r;Content ou non;;;OT;ConcR1978;C;"[ffgh2] [cdda/] d [f,dd1] | \
+[fffc/] e/4 c f e f/8 e c e [f,gh1] [,gg] | [fggd/4] d f h"
+65;;36v;En regardant la beaulté.;Verius.;;OT;;C;",c2 a1 ,d | [,ca3/2] ,c/ [,cd1] [,ac] | \
+[cca1] ,,d/ [,aa] [fca] ,d [ef,c1] | \
+[cd,e/] [,ca] [,d,e] [ca] [ccd1] [b,c] |"
+66;;37r;Qve pleust à dieu;Verius.;;OT;ConcR3626;C;"a2 [a,bc1] ,a | [,abc1] a [aaa,c] ,e/ ,c | \
+[,efec/] ,f1 ,e/ [a,cc1] ,a | \
+[,cdca1] [,,dc] [,adc,a] [,,cc/] ,,a |"
+67;;37v;Ce mois de may;;;OT;ConcR944;C;a1 a/ a h1 h/ h | [la1] [la/] ,a [k,l/4] h ,l h [k,l] ,l h k |
+68;;38r;Ce mois de may, alio modo;;;OT;ConcR944;C;",d1 ,d/ ,d f1 f | [i,,h1] [i,,g/] ,,,h [h,i1] ,,i | \
+[fg,a1] [,g,a/] ,,,a [,f,h1] [i,,h] | \
+[ifg,,f1] [ifg,,f/] [h,,,,f]"
+69;;38v;Alix auoit;;;OT;;C;",d1 c/ d f1 f | [l,,,l/] l [l,,k] [k,h] [h,i] f/4 h [f,i/] f | \
+[hi/4] f h i [hi/] [fh]"
+70;;39r;Amour au cueur;;;OT;;C;"[,ac,,a2] [,ac,,a/] ,,,c/4 ,,a ,,c ,,a ,,c ,,d | \
+,,,,c/ [,aac] ,,,b ,,,,e [,,abc1] [,a,bc] | \
+[,acc/] ,,d ,,c [,,ab] [a,cce] ,,e [,efe1] |"
+71;;39v;Amour partez;;;OT;ConcR2850;C;"[aacc2] [aacc/4] ,,a ,,c ,,e ,a ,,e ,a/8 ,c ,e a | \
+[,,fec/4] ,f ,e ,c ,f ,e ,f/8 ,e ,c ,e"
+72;;40r;Le content est riche;;;OT;ConcR235;C;",d2 [fd1] ,d | [f,d1] [f,d/] d/4 b [ab1] [ab/] c | \
+[da1] a/4 b d a [b,da/] a ,d ,b |"
+73;;40v;Rossignollet qui chantez a 4.;Clemens;;OT;ConcR1615;C;"a1 f/ e f h [k,,h] k | [h,i/] ,,h [f,i] ,f [fg] e [ef,c] c/4 a | \
+[cfd/] ,,c [cdd] ,a"
+74;;41r;Au fait damour a 4;;;OT;;C;",a2 [,a,c1] ,a | [a,,c1] ,,,c [,a,,c] c | \
+[ha,,ha1] [ha/] f [ea,c,a1] [e,,,,a] | \
+[c,,cc1] [c,ab/] a [ca,b] a [,ef,c] [,cd] |"
+75;;41v;D'amour me plains;Vallentin Bacfarc;;OT;ConcR1688;C;",d/ ,f/4 ,d ,f ,d ,f/8 ,d ,c ,d a/ ,,d/4 ,,b ,,d/ a | \
+[c,aa/4] a c d [c,,a/] a"
+76;;42v;Souspiers ardans;;;OT;ConcR1466;C;",d1 ,,,a [,d,d] [,db] | \
+[f,gh1] ,,,h/ [,,ff] [fbdd] ,d/4 ,b [fddd1] | \
+[dffc1] [if,f,i] [hiif/] [ffgh] [fgi,f] [dffc] |"
+77;;43v;Vray dieu disoit;Orlando;;OT;ConcR423;C;",b1 ,b/ ,d [df] ,,g [d,f] [,gd] | \
+[,fg/4] ,d ,f ,g [d,g] ,g d f [dfg1] [dfg/] [,df] |"
+78;;44r;Vray dieu disoit, alio modo;Orlando;;OT;;C;",,d1 ,,d/ ,a [ac] ,,d [a,c] [,da] | \
+[,cd/] ,c [a,d] c [acd/4] c [acd/4] ,a ,c ,d [acd/] [,ac] |"
+79;;44v;Ie l'ayme bien;Orlando;;OT;;C;"c2 d1 ,a/ c | [ab1] ,,d/ ,a [abd/4] ,a ,b ,d [dfg/] ,,f | \
+[fh,h/] ,f [a,d] d [cff] a [cdf,c] [d,f] |"
+80;;45r;Las voulez vous;Orlando;;OT;ConcR1863;C;",,,c2 ,,,c/ ,,,b ,,,c ,,a | [,abc/] ,,a ,,b ,,d [,ab,c1] ,,a | \
+[,,def1] [,aa] [a,bcd] [,bb] | [bd,a1] [,abc] [da] ,,,c |"
+81;;45v;Las voulez vous. Alio modo;;;OT;ConcR1863;C;",,a2 ,,a/ ,,c ,,d ,a | \
+[,cde/4] ,a ,,d ,,c ,,a ,,c ,,d/8 ,a ,c ,d [,c,,e1] ,,c |"
+82;;46r;Avecque vous;Orlando;;OT;ConcR646;C;"h1 ,a/ f [ef/4] c e/ [fc/4] e f/ | \
+[cef1] ,,,,c/ ,,d [,,cc/4] ,,a ,,c/ [,,d,e/4] ,,,,c ,,,,e/ |"
+83;;46v;Vng doulx nenny;Orlando;;OT;ConcR873;C;"[acd3/4] ,a/4 ,c ,a ,c/8 ,a ,c ,d \
+[acd/4] ,a ,c ,d a ,d a/8 ,c ,d a |"
+84;;47r;En vn lieu;;;OT;;C;"[,ddef1] [,dfec] [acd,a] | [cdda1] [,dff,d] [,ddef] | \
+[,cdca1] [,adc,a/] ,,c/4 ,,a ,,c1 | \
+M:C
+[,cdca1] [ac/] [ac] [cd1] [,,,ce/] [,,,ce] |"
+85;;47v;Petite folle;Orlando;;OT;ConcR871;C;",d1 d/ d [c,,a1] [,d,f/] ,,,f | \
+[fh,e1] [lh,a/] l [kf,h1] [fhia/] ,,i | \
+[,fhh/] f [fdde] [cd] [dffc] f [hhi,,h1] |"
+86;;48r;Monsieur Robbin;Orlando;;OT;;C;",d1 [b,,a/] d [f,dd] ,,,f [,fgh] ,,i | \
+[ffg,,f1] [dfg,d/] ,,,,f [,ffc] d [bdda] a/4 b | \
+[abd/] ,a [fb,d] [,df/4] ,,d"
+87;;48v;Ie ne veux riens, a 4;Orlando;;OT;ConcR1864;C;"c1 [,ef] [a,c] [,cde] | [,,abc] [ea,c,e] [a,d,ef] [c,d,ec] | \
+[,ea,c/] [,ea,c] [,efec] [,efec] [acd,a] a [ccd,,c1] | \
+[ccc,e1] b/ a/4 b"
+88;;49r;Ardant amour;Orlando;;OT;;C;",d2 [bdda] | [,bdd1] [a,d] [ddff] [,,f,,d] | \
+[,fg,d1] [ffg,a] [fgg/] ,,f [bbd,,b] ,,b | \
+[,,i,ig1] [g,i,i] [,d,f,d/] ,,g [gd,f] ,f |"
+89;;49v;Cefaux amour, a 4;Orlando;;OT;ConcR1995;C;"[aacc2] [acd,a1] [a,dce] | \
+[,efec1] [acd,a] [cdda] [cdda/] [,d,,c] | \
+[aacc/] [a,dce] [,efec] ,c/4 ,e [aacc,a1] [,acc,a] | \
+[,cd,a/] ,a [,cdca] ,d"
+90;;50r;Helas quel iour;Orlando;;OT;ConcR1977;C;",a1 ,,,c [,abc/4] ,,a ,,,c ,,d,a ,,b ,,d/8 ,a ,b ,d | \
+[aabc/] ,,d [aab] ,,,a [,fgfd/4] ,d ,g ,f"
+91;;50v;Bon iour mon coeur;Orlando;;OT;ConcR870;C;"[,efec2] [acd,a] | [aac,,a2] [,efec] | \
+z1 [aacc1] [cef,c] [ef,c] | \
+[ffh,a/] ,,,,c ,,,,e ,,,b [effc1] [ccde] | \
+[,,hge/] g/4 e h f e g"
+92;;51r;Qvand mon mary;Orlando;;OT;ConcR875;C;"a1 [df/] [df] [fd1] [ha] | [hd1] [fc] [ha,,h] [,,,fh/] [,,,fh] | \
+[,,da1] [,a,,c] [,a,a] [,,d,e] | \
+[,a,,c1] [lh,k,h/] l [kh] ,f [hi] ,i |"
+93;;51r;En espoir vis;Orlando;;OT;;C;"a1 ,,,c [a,d] [c,d] | \
+[d,bc/4] ,,a ,,b ,,d [,a,,,a] ,,b ,,d ,a [,b,ca1] ,,a | \
+[,,b,,d1] [,df] [da,c] [,df,,d] |"
+94;;51v;Tout ce qu'on peut;Cyprian Rore;;OT;;C;"[,aa,c3/4] ,,e/4 [,a,,c/] ,c ,,,,c [,df] ,,,e [,d,,c] | \
+[,cee/] ,,,,,c [aac,,a1] [acd,a/] ,,,c/4 c [a,,,a/] [,dfec] | \
+[,cee/] ,,,,,c ,,,,c [,dfe]"
+95;;52r;Madonna mia pieta;Orlando;;OT;ConcR2844;C;"[,cdca1] [,cdca/] [,cdca] [aab,,a] [aabc] [,efec1] | \
+z/ [,efec/] [acd,a] [cdda] [aabc] [aab,,a] [,efec3/4] ,f/4 | \
+[cdf,c/] d [abb,d] [abd,a]"
+96;;52r;Tv sai madona;;;OT;;C;"[,cdca2] [,acc,a/] ,,d/4 ,a [,cdca/] ,a/4 ,c | \
+[,ddef/] ,c [,dfec] ,,d [,dff,d/4] ,,g ,,f ,,d \
+,,,f ,,d ,,f/8 ,,g ,d ,f |"
+97;;52v;La cortesia;Orlando;;OT;ConcR942;C;",a1 [cd,,c] [abb,d] [abd,a] | \
+[,,fec/4] ,f ,e ,c ,f ,e ,f/8 ,e ,c ,e [aa,c,a1] z/ [,fgfd] |"
+98;;52v;Sto core mio;Orlando;;OT;;C;"z/ [,efec/] [,efec] [aacc] [cdda1] [cdda/] [cef,c] | \
+[aacc/] [acd,a] [,efec1] [aab,,a] [,dfec3/4] ,,,,e/4 | \
+[,,da/] [,c,ca] [,aaac] [,abc,a] [,,,eec] ,,e [,aabc1] |"
+99;;53r;Tv traditore;Orlando;;OT;;C;"z/ [,efec] [,efec3/4] [acbc/4] [cdda/] [ddff] [ddff1] | \
+[ddf,,d/] [cdda1] [fdaa/] [dabc3/4] ,c/4 [cdda1] | \
+z/ [,efec] [,efec3/4] [acdbc/4] [cdda/] [ddff] [ddff1] |"
+100;;53r;Bem para che dame. Vilanesche;;;OT;;C;"z1 [cdda1] [,dff,d] [,ddef] | [,cdca1] ,,,,a/ [,dde] [aab,,a1] [,dfec] | \
+[,daac/] [,daac] [,cdca1] [,daa] [cdd/] ,,,a | \
+[,dff,d1] [,ddef] [,cdca] ,,,,a/ [,dde] |"
+101;;53v;Sife Cristallo;;;OT;ConcR2857;C;"c1 [,a,bc] [e,f,ge] [e,,c,a] | \
+[ca,bc1] [,efec] [acd,a/] ,,,,c [,cc,e] [,,ab] | \
+[aacc1] [,cc,e] [cef,cc] [ef,,,e] | [,,d,a/] c c ,,,,c"
+102;;53v;Tvtta saressi;;;OT;;C;"[acd,a2] [aac,,a1] [,acc/] ,,,c | \
+[,cdca/] [a,cce] [ca,bc] [ea,c,a] [f,,cef1] [ea,,ca/] [ca,bc] | \
+[ca,bc/] [a,cce] [aaa,c] ,e [aac,,a1] z1 |"
+103;;54r;Chil cre il sole;;;OT;;C;",a1 ,a [,ce/] ,,f/4 ,c [,ef/] ,c/4 ,e | \
+[c/4] ,e ,c ,a [,cd] ,a ,,d ,,c [,cd1] a/ ,,d |"
+104;;54v;Deh ferma amor;Orlando;;OT;ConcR1974;C;"[hd,f,d2] [dfg,d/4] ,d ,,g ,,f ,,g ,d ,f/8 ,g d f | \
+[dfg,d1] [hd,f,d] [fhi,f/] ,,i [ffi,,f] ,,h |"
+105;;55r;Io mi son giouenetta;Orlando;;OT;Conc_3995;C;"[fghi,f2] [ffhh1] [fhi,f] | [hi,f1] [,i,f/] [f,,e] [effc1] [ffg,,f] | \
+[e,fc/] ,f [ff,,d] d [,gihf] ,,,f ,,,h/4 ,,,f ,,,h ,,f |"
+106;;55v;O sio potessi donna;;;OT;ConcR868;C;"[hd,f,d2] [hd,f,d1] [hd,f,d] | [fdaa1] [fdaa] [da,c] [ca,bc] | \
+[aa,cd/] ,,d/4 ,,b ,a ,,d ,a/8 ,,d ,,b ,,d [,efec1] c |"
+107;;56v;Se ben lempia mia sorte;;;OT;ConcR2856;C;",,,c2 ,,a1 [,,b,c] | ,,,,e/ ,,b [,,aa1] ,,d/ ,,,a ,,,,e1 | \
+[,acc/4] ,,a ,,c ,,d ,a ,,d ,a/8 ,,c ,,d ,a"
+108;;57r;Per pianto;Orlando;;OT;ConcR1811;C;",,,c2 ,,,c/ ,,a ,,b ,,d | [aab/] ,,,c/4 ,,a ,,b ,,d \
+,a/8 ,,d ,a ,c [,dff/4] ,c ,a ,,d ,a ,c"
+109;;57v;Vita della mia vita;;;OT;ConcR1806;C;"[,bd,a3/4] ,a/4 ,b ,a ,b/8 ,a ,b ,d [abd,a/4] ,,,,c ,,,,d ,,,,c ,,,,a ,,,,c ,,,,d ,,,a | \
+[aabc/] ,,d/4 ,a"
+110;;58r;Si pur ti guardo;;;OT;ConcR195;C;"[,ddef2] | [,dff,d1] [,ddef] [,cdca/] ,a/4 ,c [,daa1] | \
+z/ [cdda] [cdda] [cdda] [acd,a1] [cdda] | \
+[,dff,d3/2] [,dff,d/] [,dff,d/4] ,,,e ,,,f ,,d [,dff,d1] |"
+111;;58v;Del freddo rhenno, Madrigali;;;OT;;C;",,,,c1 ,,a [,cc/4] ,,a ,,c/ [,,de/4] ,,c ,,d/ | \
+[,ac1] [,acc] [,cde/4] ,a ,c/ [,efec/4] ,c ,e/ | \
+[,fcce/] [,,dc] [,aab1]"
+112;;59r;Con lei fuss'io;Orlando;;OT;ConcR1185;C;"[,dddf2] [,dddf/] ,,,f ,,,d ,,,,d | \
+[,dedb/] ,b [,de] ,f [bbd,,b] ,,,d/4 ,,b ,,d ,,f ,b ,d | \
+[,ggfd/] ,f/4 ,g ,f/ ,d"
+113;;59v;Et io qual fui;;;OT;ConcR2843;C;",,,c2 [aac,,a/] ,,a/4 ,,c ,,d ,,c ,,d/8 ,,c ,,a ,,c | \
+[acd,a/4] ,a ,c ,e a ,e a/8 ,c ,e a"
+114;;60r;Vatena lieta homani;;;OT;;C;"[acd1] ,,,,a/ [acd] [ccd] ,,,,a [cd,a1] | \
+[,a,,c1] [aacc] [acd,a] [ffh] | \
+[,ffc1] [ef/] ,,d [aacc1] [caab] | \
+[,acc/] a [aac,,a/4] ,,,,,c ,,,,,e ,,,,a"
+115;;60v;Signor mio caro;;;OT;ConcR1807;C;",,,c2 [,a,c/4] ,,,b ,,,c ,,a ,,c ,,a ,,c/8 ,,a ,,c ,,d | \
+[,af1] ,,c [acd/4] ,e ,c ,e a c e f |"
+116;;61r;La pastorella mia;;;OT;ConcR1808;C;"z1 [,,dca] [,abc/] ,,d/4 ,a [,bd,a/] ,a/4 ,b | \
+[,a,a/4] ,,d ,,c ,,a [aadc] ,,c \
+,,d/8 ,,c ,,a ,,c ,,,,a/ [acd] ,,,c ,d |"
+117;;61v;Carita di signore;;;OT;ConcR1809;C;",,,c1 a/ ,,,c ,,d/ a a ,d/4 a | \
+[,df1] [,cd] [cd/4] a c d c/ a/4 ,d |"
+118;;62r;Perche la vita breue;;;OT;ConcR1975;C;"[abd,a/4] ,,,,c ,,,,d ,,,,c ,,,,a ,,,,c ,,,,d ,,,a [aabc1] [aabc/] [abd] | \
+,d/4 a [cdde/] [ddbc/4] ,c ,d/8 ,c ,a ,c [c,da1] [ddf,,d] |"
+119;;62v;Anchor quel partir;;;OT;ConcR492;C;",,a1 c ,,d a/ ,,c | ,,d/ ,c [,df1] [acd] [ccd,,c] | \
+[,cc,e/4] ,a ,c ,e a/ [,,d,e] [,,ab1] [,,cc] |"
+120;;63r;Che piu foco;Bacfarc;;OT;;C;"[df2] [fd1] [ha] | \
+[h,,e3/4] f/4 h f h/8 f ,i f [ha,fh1] [d,,c/] [d,,c] | \
+[c,def1] [,dffc] [a,,cd/] ,,d [a,b] ,,d |"
+121;;63v;Oncques amour;Cricquillon;;OT;ConcR2084;C;",a2 a/4 ,e a c a ,e a/8 ,e ,c ,a | \
+[,c,c/] ,a/4 ,c ,a ,,c ,,d ,a [acd] ,a"
+122;;64r;Fortune allors;;;OT;ConcR1810;C;"[ddf,,d2] [ddf,,d1] [cdda] | \
+[aab,,a/] ,,,,,c [a,,,,d] [,dfec1] [cdf] | \
+[cef1] [cef,c] [dabc/] c [aabc] ,d | \
+[acd,a/] ,,b [f,a] [d,,c]"
+123;;64v;Le rossignol à 5;Orlando;;OT;;C;",,d1 ,,c/ ,,a [a,,c1] [,ea/] ,c | \
+[,acc/] ,,c [,,ab] [,c,ce] [,efec] ,e [acd,e] [a,c] | \
+[c,def/] [,a,,c] [,cde] ,,,e"
+124;;65r;Vous qui aymez les dames;Orlando;;OT;;C;",,,c1 ,,,a/ ,,,c ,,,e ,,,a [,,ff1] | \
+[,dde/] ,a ,c [,,de] [,d,a] [,a,,c] [,cde] ,,f | \
+,c/ [,,de] [,df,c] ,,,e [acd] ,,d"
+125;;65v;Secourez moy, a 5;Orlando;;OT;;C;",d1 ,d b [,d,a/] d | [fb,d1] [fb/] ,,,f [ig,h1] [l,,h,l] | \
+[ig,hk1] ,g/ [h,ff] [ffgh1] [dde] | [ff,h/4] ,,i ,,h ,,f"
+126;;66r;I'attens le temps;Orlando;;OT;ConcR2840;C;"c1 ,,a [,df] [,ab] | [c,,ec1] [,df] [,abc] [a,bcd] | \
+[,dffc1] [h,,e] [h,,f/] ,d [fdaa1] | \
+[dabc1] [acb] [cdaac] ,a/ ,,,a |"
+127;;66v;Ardant amour a 5;Orlando;;OT;;C;"[,,c,e2] [,c,,e1] ,,,,e | [,cde1] [,cde] [acd] [acd/] a | \
+[aac1] [acd] [cdf] [fca] | \
+[ea/] c [ca] ,,d [ccc,e1] ,,a/ [bcc] |"
+128;;67r;Vn triste cueur a 5;Orlando;;OT;ConcR3565;C;",,c2 [,,c,e] | [,,cce2] [,,cc,e] | \
+[,,,cef/] ,,,b ,,,c ,,a [,,cc,a] ,,,c/4 ,,a ,,c ,,a ,,c ,,d | \
+[,ccce1] ,,d [aa,c/4] ,,d ,,c ,,a [,ac1] |"
+129;;67v;Mon cueur raui d'amour;Orlando;;OT;;C;",a2 [c,a1] z/ c | [,df/] c a ,c [a,d] ,c [,df1] | \
+[,cfe1] [,cd] [,dfec/] ,,,e [,df] h | \
+[fc,e,c/] [,cd] [ccd] [,cd]"
+130;;68r;De tout mon cueur;Orlando;;OT;;C;"[aabc/4] ,,a ,,b ,,d ,a ,,d ,,b ,,a [aabc1] [cdda] | \
+[aadc/] ,,c/4 ,,a [a,b1] [aaa,c] [,da] | [,ddef1] [,cdca]"
+131;;68v;Veulx tu ton mal;Orlando;;OT;ConcR872;C;"[ccde2] [acc,e1] [aacc] | [,efec1] [cefe] [ccde] [ccde] | \
+[effc1] [,a,c] [acdca] [,,c,e] | \
+[aac,,e1] [,efec] [acc,e] [a,dca/] c |"
+132;;68v;E voulez vous - Response;Orlando;;OT;;C;"[,cee2] ,,,e | [aacc1] [acd,e] [,efec] [,e,ec/] ,,,,c | \
+[a,d,ef1] [c,d,ec] [,acc,a] [aac] | \
+[acd1] [,efec] [a,cce/] ,,,b [,ccce] ,,,,e |"
+133;;69r;Mon cueur se recommand, à corde aualée;Orlando;;OT;ConcR2854;C;",a2 [ca1] ,,a | [cd1] [cdf] [cdf/] ,f [cdf] e | \
+[fhi1] [fhhe/] [fhf] [fhhe1] [cdfec] | \
+[ccfe/] ,,d/4 ,,c [ccde,e1]"
+134;;69v;Mon cueur se recommand, Alio modo;Orlando;;OT;ConcR2854;C;",c2 [ec1] ,,c | [ef1] [efh] [efh] ,h | \
+[efh1] g [hkl] [hkkg/] [hkh] | \
+[hkkg1] [efhge] [eehg] [,,fg,e/] ,,,g |"
+135;;70r;Svr tous regrez, a 5;Orlando;;OT;ConcR1691;C;",,,c2 [,a,fh1] ,,,f/ ,,,e | \
+[,abc/] ,,,a [,,bc] ,,,e [,a,fh] ,,,a ,,,c ,,,e | \
+[,fgfd1] ,,,f [ddf,,d] [ddff/] c |"
+136;;70v;Svsanne vn iour, a 5;Orlando;;OT;ConcR860;C;",d2 b1 ,d | [b,e/4] ,d a b [d,b] a b d [fd1] ,,,a | \
+[f,dd/4] d b a"
+137;;71r;Est il possible, a 5;;;OT;ConcR1862;C;",a1 ,,c/ ,a ,,d1 [,,cc] | \
+[,,c,e/] ,,,c [,,aa1] [a,c,e] [,cd,a/] [a,,,a] | \
+[,dfec1] [,acc/] [,ac] [acd,a] ,c [,c,e] ,,d |"
+138;;71v;Svsanne vn iour. Alio modo;;;OT;ConcR860;C;"a2 d1 ,f | [db1] [f,d] [hf] ,,,,h/ ,,,h | \
+[ha,f1] ,,,,h [abb,d] [,bdca] | \
+[aaffh1] [h,,,h/] ,,,h [hf,f] f/4 h [kh,hk] h k/ |"
+139;;72v;Le departir, a 5;Orlando;;OT;ConcR2086;C;"a2 [ef1] h | [ac1] ,,d/ c [ef,c] c [e,f] f | \
+[ha,gh1] [,ffg] [,,cce] [,cdca] | \
+[,,ce/4] ,,d ,a ,c [aa] ,,d"
+140;;73r;Elle s'en va;Orlando;;OT;;C;",a1 ,e/ c [a,,c1] [,ec/] ,,f | \
+[acd1] [e,fg/] h [fc,e/4] ,a ,c ,e [ef,c1] | \
+[c,f/] ,e/4 ,c [cf/] ,e"
+141;;73v;Et d'ou venez vous, a 5;Orlando;;OT;;C;",,,,e1 [,,,ce/4] ,,,a ,,,c/ [,,aa/4] ,,b ,,d/ [,acc/] ,,,c | \
+[,cdca/4] ,d [a,dcd/] [,dfec/4] ,,,f [,cdca/] [,abcca1] \
+[,,deec/4] ,,,,,d [,,dcef/] |"
+142;;74r;Las me fault il, a 5;Orlando;;OT;;C;",c2 [fc,e] | [f,de1] ,d [ed,c/] ,c ,c1 | \
+[cc,a1] ,a [acc,e/4] ,a ,c ,d a ,d ,c ,a | \
+[accc1] ,a [cdda] [,dde] |"
+143;;74v;La vita fuge;Orlando;;OT;;C;"e2 a1 ,c | [ec/] c a c [ea] g [h,,g] g | \
+[e,,c/] [c,,e] [a,c] ,,e [,efg] ,,h [he,g] ,,f |"
+144;;75r;Mon amy, Alio modo;;;OT;;C;",,,f3/4 ,,,e/ [d,,c1] ,,,a/ c | \
+[a,,c1] [,d,e] [a,b] [c,d] | [da1] [cd] f/ ,a ,c1 | \
+[da1] c/ ,,d ,,b a [a,d1] |"
+145;;75v;Pis ne me peult venir, a 5;;;OT;ConcR1786;C;"a2 [ha1] h | ,f/4 f h/8 f h i [hf/] f [,il,h] ,h [,il1] | \
+[,hik1] ,a/ [,,ik] [,hik1] [,,ik/] ,h |"
+146;;76r;Aymer est ma vie, a 5;Clemens non papa;;OT;;C;",,a2 ,a1 ,a | [,aa1] [,,de] [,df] ,,f | \
+[,cfe1] ,,d [,df,c] [c,f] | [ccfe1] [f,de] [fda/] e [c,aa1] | \
+[cdff1] [acf/] ,,a [ccfe,c]"
+147;;76v;Musiciens regardez deuant vous, a 5;Clemens non papa;;OT;;C;"h2 d1 a | [,a,c1] a [a,b] [,df] | [ab1] [ab] [aab] [hd] | \
+[hdff1] [h,ffh/] f [dd,cc1] c/ a/4 c |"
+148;;77r;A Dieu mon esperance, a 6;Clemens non papa;;OT;;C;"a2 [da1] ,d | [ab1] [a,b] [c,d] ,,d/ ,a | \
+[,a,c/] ,,d [d,b] ,,a [d,ff1] [c,aa] | \
+[abbc/] ,,,c [dffc1] [ccde] [,dde] |"
+149;;77v;Dvng petit mot, a 5;;;OT;ConcR2085;C;"[a,ccca3/4] ,,a/4 ,,c ,,a ,,c/8 ,,a ,,c ,,d [,acc,a/] ,,a [a,d,ca] ,,c | \
+[a,d,ef/] ,,,b [,,,ce] ,,,,,e [c,d,ac] ,,,b/4 ,,,,e [,,,ba1] |"
+150;;78v;Qvando pens'io el martir;;;OT;ConcR1327;C;"[aa,c2] [acd/4] ,,c ,,d ,a ,c ,a ,c/8 ,a ,c ,d | \
+[ac/] ,,d [,ac1] [,a,c] [aacc] | \
+[ccde1] [,dd] [aadc] [a,cc/] ,,d |"
+151a;;79v;Iesu nomen sanctissimum, a 4;Clemens non papa;;OT;ConcR1812;C;"[cdf,c2] | [cdda2] [aacc] | [,dfec2] ,c | [,df,c2] [cdf,c] | \
+[cdda2] [aacc] | [,dfec/] ,c ,d [ac] [cd] d [fc,ce1] |"
+151b;;80r;Secunda pars - Sit nomen domini benedictum, a 4;Clemens non papa;;OT;ConcR1813;C;"[,af2] [,df1] [,ce] | [,ef1] [b,c] [c,a,c2] | \
+[,,,ac1] [,,,,eg] [,a,bc] [,a,d,e] | \
+[,dfe,c1] [,ce] [,ef] [b,c] | [c,a1] [fca] [ccde] [e,cd] |"
+152a;;80v;Erraui sicut ouis a 4;Clemens non papa;;OT;ConcR1147;C;,a2 c | c1 ,d a c | [d,,c/4] c a c d a c d [ca] a c d c/ a |
+152b;;81r;Delicta iuuentutis meae. Secunda pars;;;OT;ConcR1814;C;"c2 a1 ,a | d2 [da1] c | [f,d1] [d,,c] ,b/ c a ,d | \
+[ab1] [ca] ,d/ a [,df1] |"
+153a;;81v;Circundederunt me viri mendaces, a 4;Clemens non papa;;OT;ConcR1800;C;",,,c2 [a,,c1] ,,,c | [a,bc1] a/ ,,d [da,c1] [,b,c] | \
+[dab1] c [aab] [,dde] | \
+[,bbc1] [,a,a] [,,bcd/] ,,a/4 ,,b [,,de/] ,,,c |"
+153b;;82r;Qvoniam tribulatio proxima est. Secunda pars;;;OT;ConcR1830;C;",,,,c2 ,,,c | [,a,c1] ,,,a [,a,,a] [,,da] | \
+[,aa1] [,,b,d/] ,,,,c [a,,cd] ,,a/4 ,,b ,,a/ ,,,c | \
+[aaa,c/] ,e/4 ,c a ,e"
+154;;82v;Heu mihi domine, a 5;Orlando;;OT;;C;",,,c2 ,,,c | [,,bc/4] ,,a ,,b ,,d ,a ,,d ,,b ,,a [,abc1] ,,,c | \
+[df,c1] ,f/ ,f [cef2] | [fbd1] [f,,h/] f [hff,,h2] |"
+155a;;83v;Deus canticum nouum, a 5;Orlando;;OT;ConcR1976;C;"h2 [h,f1] h | [cdf1] ,,f [cdf,c/4] ,c ,d ,c ,,f ,c ,d ,f | \
+[cd,ec/4] ,,f ,c ,d ,f ,d ,c ,,f"
+155b;;84r;Secunda pars - Qvia delectasti;;;OT;ConcR1979;C;"c2 [c,a] | c1 ,a ,,d/ ,,a [h,,f1] | \
+[f,,e/] [c,,a] [df,c1] [cdf/] [,,df] [abd1] | \
+[,df,c/] ,,,e [,dff] ,c [,dfec] ,f [c,fe] ,d |"
+156;;84v;Omnia quae fecisti, a 5;Orlando;;OT;ConcR1980;C;",d2 [fd1] ,d | [f,d1] f ,d ,g | f1 ,d [fg] [df/] ,d/4 ,f | \
+[fd/] d/4 f [hd/] ,,g/4 ,,f"
+157;;85v;In me transierunt, a 5;Orlando;;OT;ConcR1981;C;",c2 [,c,e] | [,c,e/4] ,a ,c ,e a ,c ,e/8 a c e [f,,e/] ,,,c ,,,e ,,c | \
+[f,d/] e/4 f e/"
+158;;86v;Svrrexit pastor bonus. A 5;Orlando;;OT;ConcR1982;C;",a2 [a,,c1] ,a | [acd/4] ,a ,c ,e a ,e a/8 ,c ,e a [ccd1] [eef] | \
+[ffh1] [ce/] ,c/4 ,e"
+159a;;87v;Gvstate & videte, a 5;Orlando;;OT;ConcR1983;C;",,d2 ,,d/4 ,,c ,,a ,,c ,,d ,,a ,,c ,,d | \
+,a/4 ,,d ,a ,c ,a ,d ,c ,a [ac] ,a ,,d ,,c"
+159b;;88v;Diuites eguerunt. Secunda pars;;;OT;ConcR1984;C;",a2 [,a,c/4] ,c ,d ,c ,a ,,d ,a/8 ,,d ,,c ,,a | \
+[,,cc/4] ,,a ,,,c ,,,b ,,,c ,,a ,,c ,,d"
+160;;89r;Veni in hortum meum;Orlando;;OT;ConcR1857;C;",,,c2 [,a,c] | [,a,c/4] ,c ,d ,c ,a ,,d ,,b ,,a \
+[,abc] ,,a ,,b ,,d ,a ,,d ,,b ,,a |"
+161a;;89v;Benedicam Dominum, a 5;;;OT;ConcR1985;C;"a2 [a,,c/] ,e a c | [e,fc/] c [e,,c] f [ha,gh] ,,,h [h,f1] | \
+[aacc/] c [e,,c] ,,,a [efh,e] ,,,,,h [k,h,,k1] |"
+161b;;90v;Secunda pars - In Domino;;;OT;ConcR1986;C;c2 e/4 c ,f ,e ,c ,e ,f/8 c e f | e/4 ,f c e f c e f
+162;;91v;Aspice Domine, a 5;;;OT;ConcR1802;C;",a2 ,a | [,f,c2] [,f,c/4] c d c f d c a | \
+[,df/] a/4 c d c a c [da2] |"
+163a;;92v;In te Domine speraui;;;OT;ConcR557;C;",,d2 ,,d1 ,,d | ,,c1 ,,a [a,d/4] ,a ,c ,,d ,a ,,d ,,c ,,a | \
+[a,,c1] a2 [a,,c1] | [,ea1] [,cd/4] ,a ,c ,e"
+163b;;93v;Secunda pars;;;OT;ConcR1597;C;",a2 ,a1 ,a | ,c1 ,a a c | [e,,c2] ,,,c/ e [c,,c] a | \
+[,ea1] [a,,c] ,,d/ ,c [,ef1] | [ac2] [ec1] ,a/ ,,d |"
+164;;94v;Stabat mater dolorosa, a 5;;;OT;ConcR3572;C;",,d2 [f,d] | [f,de2] [c,da] | [,dff3/2] ,,,e/ [dabc1] d | \
+[cdda1] ,,a/ ,d [,dd,f1] ,,,c/ ,,,a | \
+[,dda1] ,,a/ ,,,a [,dfa1] ,,d |"
+165a;;95v;Benedicta, a Six;;;OT;ConcR1599;C;"[aa,c2] [aa,c/] ,,,b ,,,c ,,a | \
+[a,c/] ,,d/8 ,,c ,,a ,,c ,,d/ ,a/8 ,,d ,,c ,,a [a,,c1] ,f/ a |"
+165b;;96v;Secunda pars - Per illud aue;;;OT;ConcR1600;C;",a2 [cd1] ,d | [fd1] f [fc/] ,a ,,d ,a | \
+[fc/] ,e [af1] c/ a ,e ,c | [af/] c [e,,c] [f,,e]"
+165c;;96v;Tertia pars - Nunc mater;;;OT;ConcR1601;3;",a1 ,a ,c/4 ,,d ,a ,c | [,d,,c1] ,,,,c [,c,,e/4] ,,,,a ,,,,c ,,,,e | \
+[c,da1] [ca] [e,,c/4] a c e |"
+;;Seqvvntvr deinceps carmina dvabvs testvdinibvs accommoda;;;;;;;
+166;;97r;Canti di voi le lodi;;Ad secundam;OT;ConcR1815;C;"[fd2] [h,,f1] [f,d] | [db1] [cd] [a,d] [c,d] | \
+,d/ [fd,a] [fd,a] [fd,a] [fc,,a1] [c,da/] [a,d,a] | \
+[a,d,a/] [c,da] [db,,d1]"
+167;;97r;Canti di voi le lodi;;upside down;OT;ConcR1816;C;"[e,,c2] [f,d1] [a] | [ce1] a [,ef] a | \
+a/ [ef,c] [ef,c] [ef,c] [ce,,c1] [aa,c/] [,e,fc] | \
+[,ef,c/] [aa,c] [cd,a1]"
+168;;97v;Amour e gratioso;;Ad secundam;OT;ConcR1795;C;"[,daa2] [,daa] | [,da,c1] [,da,c] [a,bc/4] ,,a ,,b ,,d ,a ,c ,d a | \
+[c,da1] ,,a [,d,f,d] ,,f | [c,,a/] ,,d [c,da1]"
+169;;97v;Burato;;Ad secundam;OT;ConcR1454;3;"[cdda1] [cdd] [cdda] | [cdda1] [cd/] a/4 c [dabc1] | \
+[c,da1] [a,,,,d] [,dba,d] | [acd,a/] ,d ,c ,a ,,d1 | \
+[f,da1] f/ d c a |"
+170;;98r;Amour e gratioso;;upside down;OT;ConcR1796;C;"[,acc2] [,acc] | [,cc,e1] [,cc,e] [,cde] [,ede] | \
+[aa,c1] ,,c [,cd,a] ,c | [a,,c/] ,a [aa,c1]"
+171;;98r;Burato. Bassus;;upside down;OT;ConcR1454;3;"[aac,,a1] [aac,,a] [aac] | [aac,,a1] [aac] [acd,a] | \
+[aac,,a1] [,,d,a/] ,,c ,,a ,,,c | [,aa,c/] ,,,,a ,,,,c ,,,,e [,aa,c1] | \
+[aac,,a1] [aac,,a] [aac] |"
+172;;98v;La Bataille;;Ad secundam;OT;ConcR193;C;"[fdaa2] [fdaa1] [fdaa] | [cdda1] [d/] a [cdda1] [dab,,d] | \
+[dab,,d1] d/ c [a,,,,d] ,d ,c ,a | \
+[acd,a1] ,,,c/ ,d [ac1] [acd,a] |"
+173;;99r;La Bataille - Bassus;;upside down;OT;ConcR1794;C;"[aac,,a2] [aac,,a1] [aac,,a] | [aac,,a1] ,,,c/ ,,d [aac,,a1] [acd,a] | \
+[acd,a1] [ac/] ,a [,,d,a] ,,c ,,a ,,,c | \
+[,aabc1] ,,,b [,aa] [,aabc] |"
+174;;99v;Passomezo;;Ad secundam;OT;ConcR1797;C;"[cdda1] [cdd/] a [,dda] a [cdda] d | \
+[cdda/4] a ,d ,c ,d a c d [cdda] a ,d a"
+175;;100r;[Passomezo] Bassus;;upside down;OT;ConcR209;C;[aac,,a1] ,,,c [aac] ,,d | [aac,,a1] [,aab] ,,,,e
+176;;100v;Il suo saltarello;;Ad secundam;OT;ConcR1819;3;"[cdda3/2] [cdd/] ,,,a1 | [cdda1] [cdda/] a [,d,a] ,b | \
+[,ab,,d1] ,,,a/ ,,a ,,b ,,d | [,aba,d/] ,,d ,a ,c ,d a |"
+177;;100v;Chi passa;;Ad secundam;OT;ConcR178;3;"[acd,a1] | [acd,a3/2] [acd/] ,,,c1 | ,,,,a/ [acd] ,,,c ,d ,c ,a | \
+,,,,a/ [acd] ,,,c ,d ,c1 | [acd,a/] ,d a ,c ,d a |"
+178;;101r;Il suo saltarello;;upside down;OT;ConcR1820;3;"[aac,,a3/2] [aac/] ,,,,,a1 | [aac,,a/] ,,a ,,c ,,d ,a ,,c | \
+[acd,a3/2] [acd/] ,,,,a1 | [acd,a1] ,,,,,e ,,,,,c |"
+179;;101r;Chi passa;;upside down;OT;ConcR178;3;"[caa,c1] | [caa,c3/2] [caa/] ,,,b1 | [caa,c1] ,,,b [caa] | \
+[caa,c3/2] [caa/] ,,,b1 | [caa,c1] ,,,b [caa] |"
+180;;101v;O combien est;;Ad Quartam;OT;ConcR1725;C;"[a,bc2] [a,bc/4] ,,a ,,b ,,d ,a ,c ,d a | \
+[c,da/4] a c d f d c a [c,da/] d [a,bc1] |"
+181;;102r;O combien est;;upside down;OT;ConcR1798;C;[abd2] [abd/] ,d a c | [dd,f/] [ff] d c [dd,f1] [abd] |
+182;;102v;Passomezo il Moderno;;;OT;ConcR2858;C;"[aacc/] ,,,b | [aacc1] ,,,,,a/ ,c [,a,c] ,,d [,,cc] ,,a | \
+[,,cc1] [,,d,e/] ,,c [,,ab1] [aacc3/4] ,d/4 | [acd,a1] [acd/] c"
+183;;103v;Gaillarde del Moderno;;;OT;ConcR2859;3;"[aacc/] ,,,b | [aacc1] ,,,,,a/ ,,d ,,c ,,a | \
+[aacc/] ,,a/4 ,,c [,,da/] ,,,,e [,d,ac] ,,c | \
+[,cd,a1] ,,,c/ ,a ,c/4 ,a ,c ,d |"
+184;;104r;Passomezo detta il nobile;;;OT;ConcR2887;C;"[fdaa1] | [fdaa1] [fda/] d [fdaa1] [hd,f,d] | \
+[fdaa1] [dabc] [cdda] [acd,a] | [,efec1] ,,,e/ ,f [,efec1] [,cee,c] | \
+[,efec1] c/ ,f [,efec1] [cdaa/] d |"
+185;;104v;Passomezo ficta;;;OT;ConcR2860;C;",d3/2 ,e/ ,d1 ,b | ,,e1 ,,b/ ,,d ,,e ,b ,d ,e | \
+,g1 ,,,d/ ,f ,g d f g |"
+186;;105v;Passomezo de la Bataille;;;OT;ConcR2886;C;"[fdaa2] [fdaa1] [fdaa] | [cdda/] a c d [cdda1] [ddf,,d] | \
+[ddf,,d/] ,,d ,,f ,,g [ddf,,d1] [ddf,,d] | [acd,a/] ,d ,c ,a"
+187;;106r;Passomezo antico;;;OT;ConcR2888;C;",,,c/ ,,a | [,ab,,a1] ,,,c/ ,,,b ,,,c ,,a ,,b ,,d | \
+[,,b,,a1] [,a,c/] ,,,,,c [,,b,,d] [,c,,a] [,da,c] [,,,ce] | \
+[,,def1] ,c/ ,a"
+188;;107v;Gaillarde antico;;;OT;ConcR2889;3;",,,c/ ,,a | [,ab,,a1] ,,,c/ ,,,b ,,,c ,,a | \
+[,ab,,a/] ,,,,,c ,,,,,d [,c,,a] [,da,c] [,,,ce] | \
+[,,def1] ,c/ ,a [,,da] ,,b |"
+189;;108v;Passomezo;;;OT;ConcR2350;C;"[hd,f,d2] [hd,f,d1] [hd,f,d] | [fc,ca/] c [e,,,a] f [eff,,a] ,,,c e f | \
+[eff,,a1] [ccd,a/] a [,ea,c] a [c,,,,e] a |"
+190;;109v;Il suo saltarello;;;OT;ConcR2487;3;"[hd,f,d2] [hd,f,d1] | [fc,ca/] e c f [e,,,a] c | \
+[eff,,a1] ,,,c/ f e c | [eff,,a1] [ccd,a/] a ,e ,c |"
+191;;110v;Passomezo la Milanese;;;OT;ConcR2481;C;"[abd,a1] ,,,c/ b [a,d1] ,d | [,b,c/] ,a ,,d a [,d,c] ,b [,a,,a] ,,d | \
+[,aba,d/] ,,d/4 ,a ,,b/ a"
+192;;111v;IL suo saltarello con la represa;;;OT;;3;"[abd,a1] ,,,c/ ,d ,b ,a | ,,d/ a [,d,c] ,b [,a,,a] ,,d | \
+[,aba,d/] ,,d/4 ,a ,,b/ ,d ,,,a ,b |"
+193;;112v;Passamezo Marck Antoine;;;OT;ConcR457;C;"[abd,a1] ,,,c [abd,a] [,a,c] | [,bdca1] ,,,c/ ,d [abd,a] ,d/4 a b a ,d ,b | \
+[,dba,d1] ,,,a/ ,,a"
+194;;115v;Passemezo La paranzino;;;OT;ConcR2089;C;"[acd,a1] :||: [acd,a1] ,,,c/ ,d [a,d] ,c [,d,,a] a | \
+[c,da/] ,d/4 a c ,d a c [a,d,e/] ,c/4 ,d a ,c ,d a |"
+195;;116v;Il suo saltarello;;;OT;;3;"[acd,a/] ,d [a,d] ,c [,d,,a] a | [c,da/] ,d a c [a,,,e] ,c | \
+[,d,,c/] ,c [,a,c] ,d [,c,,,a] ,a |"
+196;;117v;Gailliarde Milanese;;;OT;;3;",b/ ,d | [abb,d3/2] [ab/] ,,b1 | [abb,d1] [abb] ,d/ ,b | \
+[,aba,d3/2] [,ab/] ,,,a1 | [,aba,d/] ,,d ,a ,b ,d ,a |"
+197;;117v;Galliarde de la battaille;;;OT;;3;"[fdaa1] [fdaa] [fdaa] | [cdda3/2] [cd/] ,,d1 | \
+[dab,,d1] [dab] [dab,,d] | [acd,a3/2] [acd/] ,,,c1 | \
+[fdaa1] [fda] [fdaa] | [cdda1] ,,,e/ [fdd] [dabc1] |"
+198;;118r;Gailliarde Mazocho;;;OT;ConcR2881;3;",a/ ,c [,da,c1] [aabc] | [,da,c3/2] ,b/ [,ab,,d1] | \
+[,,d,a3/2] ,,a/ ,,b ,,d | [,ab,,d1] ,,,a [,ab] | \
+,a/ ,c [,da,c1] [aabc] |"
+199;;118v;Gailliarde il zacarij;;;OT;ConcR2879;3;",d/ a [cdda1] [dab,,d] | [cd,a1] ,,d/ d f1 | \
+[h,,f1] [f,a] [d,,c] | [cd,a1] ,,d/ d c1 | \
+[acd,a1] [acd/] ,d [acd1] |"
+200;;118v;Gailliarde il barbetino;;;OT;ConcR2880;3;",b/ ,d | [a,,,d3/2] d/ [b,,a1] | [a,,c1] [,bd] [,d,a] | \
+[a,b,d/] ,,d/4 ,a ,b ,d a b d b a ,d |"
+201;;119r;Gailliarde la Imperiale;;;OT;ConcR2883;3;"[cdda/] c c c c d | [c,da3/2] ,d/ a c | \
+[da,,,d1] [c,d,a/] [a,b] [,ea,c] [,c,c] | \
+[,ea,c3/2] ,a/ ,,a1 |"
+202;;119v;Gaillarde la Francia;;;OT;ConcR2882;3;"a/ c [dabc1] [fdaa] | [hd,f,d2] [fdaa1] | \
+[dab,,d1] [cdda] [aabc] | [,efe3/2] a/ [c,,a] | \
+[dabc3/2] f/ [hd,f,d1] | [fdaa3/2] c/ [ddf] c |"
+203;;120r;Gaillirade 2. frantia;;;OT;ConcR2884;3;"a/ c | [dabc1] ,,,,,a/ c [dabc1] | [dab,,a1] [fdaa] [fda] | \
+[hd,f1] ,,,,,d/ f d f | [hd,f,d1] h [fdaa] | \
+[dab,,a1] ,,,,c/ c a1 |"
+204;;120v;Chi passa;;;OT;ConcR178;3;"z2 [,efec1] | [,efec1] ,,f/ ,c ,e ,f | [c,,,c/] e c ,f ,e ,c | \
+[cef,c1] ,,,e/ ,f ,e ,c |"
+205;;120v;Gaillarde Baisons nous;;;OT;Conc_45;3;"[aacc1] [aac] [aacc] | [acc,e1] [acc/] ,,,,e [acd,a1] | \
+[aac,,e1] [ccd,,c] f | [ea,c,a3/2] [ea,c/] ,,,,,a1 | \
+[aacc1] [caa,c] c/ e | [fcd,a3/2] e/ [ccd,,c1] |"
+206;;121r;Gailliarde 3.frantia;;;OT;ConcR2885;3;"[hd,f,d1] [hdaa] [dabc] | [cdda1] [cdd/] d [f,a1] | \
+[dabc1] [cdda] [acbc] | [,ef,c1] ,,,e/ ,f c1 | \
+[fc,,a1] [da,,c] [c,d,e/] [a,b] |"
+207;;121v;Branles des Bourgoignes;;;OT;ConcR1821;C;"[,daa/] [,da] [,cd,a] [,daa] [abb,d1] [abb,d/] [cdda] | \
+[aab,,d/] [,db,c] [,ddca] [,cdca] [,daa3/4] ,d/4 ,,a/ ,,,a | \
+[,daa/] [,da] [,cd,a/4] ,a ,c ,d"
+208;;121v;[2];;;OT;ConcR1822;C;"[fcd,a/] [fcd,a] [ea,c,a] c/4 e [f,aa/] e/4 c | \
+[acd,a/] ,,,c [,daa] ,c/4 ,a [,,d,a/] ,a/4 ,c [,daa/] [ac,,e] |"
+209;;121v;[3];;;OT;ConcR1823;C;"[,,d,a/4] ,a ,b ,d [abb,d/] [abb] [f,aa] [f,a] [da,c] c/4 a | \
+[,daa/4] a b a ,d ,b ,a ,,d"
+210;;122r;[4];;;OT;ConcR1824;C;"[,cd,a3/4] ,a/4 [,,dc/] [ac,,a] [,daa] [,cd,a] | \
+[aac,,a/] [,,d,a] ,,,c/4 ,a [,cd,a/] [,acc,a] [,,d,a] ,,,c/4 ,a [,cd,a/] | \
+,,,c/4 ,a [,cd,a/] ,,,c/ ,a"
+211;;122r;[5];;;OT;ConcR1825;C;"[,,d,a/4] ,a ,b ,d | \
+[abb,d/] [abb] [,db,c] [,db] [,bd,a] [,bd] [,ad,,d/4] ,b ,d ,a | \
+[abb,d/] ,,,c [,,d,a/4] ,a ,b ,d"
+212;;122r;[6];;;OT;ConcR1826;C;"[,,dca/] a | [,c,,a/] ,,d ,,,a [cdd] ,,,,,d [aab] [,da,c] [,cd,a] | \
+[,ab,,d/] [,,da,c] [aad,,a] [aac] [,cd,a] ,,,c [,,d,a] a |"
+213;;122r;[7];;;OT;ConcR1827;C;"[,,dca/] a | [,c,,a/] [,,dc] ,d/4 a c/ [acd,a] ,,,c [,dda/4] a c a | \
+,d/4 ,c ,a ,,d [aac,,a] ,,a ,,d ,,c"
+214;;122v;[8];;;OT;ConcR1828;C;"[,ab,,d/4] ,,a ,,b ,,d | \
+[,ab,,d/] [,ab] [,b,cd] [,,da] [,ab,,d] ,,,a [,ab,,d/4] ,,a ,,b ,,d | \
+[,ab,,d/] [abb,d] [,dda/4] ,b ,a ,,d"
+215;;122v;[9];;;OT;ConcR1829;C;"[,bdca3/4] ,a/4 ,,d ,a ,b ,,d | \
+[,ab,,d1] [,ab/] ,,,a [,ab,,d/4] ,,a ,,b ,,d ,,b ,,d ,a ,,b |"
+217a;;123r;La Battaille;;;OT;ConcR1311;C;"f2 f1 f | [fd2] [fd1] ,d | [cd,a2] [cdda1] [c,,a] | \
+[c,da/] ,,,,e [,,da] ,,,c [cdda] d [cdda1] | \
+,,,,a/ [add] ,c ,a"
+217b;;124r;Secunda pars;;;OT;ConcR1312;C;"[cdda2] [cdda] | [cdda/4] c c c c/ c [c,da/4] c c c c/ f | \
+[cdda/4] ,d ,d ,d ,d ,d"

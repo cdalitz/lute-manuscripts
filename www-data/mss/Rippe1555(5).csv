@@ -1,0 +1,34 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;2r;Fantasia;;;OT;;C|;",,,c2 | [,a,c2] | [,a,,c2] | [,,a,c1] ,,,,d | [,,aa1] ,,b | \
+[,,da1] ,,,,d/ ,,,,c | [,,d,a1] ,,b/ ,,a | [,,,ca1] ,,,,c | \
+[,,,ca1] [,,aa] | [,,bc1] [,,d,d] |";french5tab
+2;;5r;Fantasia;;;OT;;C|;",c2 | ,c2 | [,ca2] | [,ca1] ,,,d/ ,,,b | [,c,de1] ,,,e | \
+,c1 ,,,d | [,c,e,c1] ,f/ ,,,a | [,,cce1] [,a,c] | \
+[,d,ac1] [c,aa] | [,,d,e/] ,,c [b,c1] |";french5tab
+3a;;8r;Praeter rerum seriem / Iosquin;;;OT;ConcR2716;C|;"[,,,c,a2] | ,,,,,a1 ,,,,,c | [,,,c,d2] | ,,,,a2 | [,,,c,d2] | \
+,,,,,a2 | [,,,c,d2] | ,,,,,d1 [,,,,ac] | [,,,ccd1] ,,,,,a | \
+[,,,,df2] | [,,,ccd2] | [,,,,ca2] |";french5tab
+3b;;10v;Secunda pars;;;OT;ConcR2648;C|;"[d,b3/2] ,,d/ | [,ab/] ,,d [,a,c1] | [d,bc/] ,,a ,,b ,,d | \
+[,ab/] ,b [,a,c1] | [dabc/] ,c/4 ,e [,f,c1] | \
+[ff,e/] ,e ,f/4 ,e ,c ,e |";french5tab
+4;;13r;O Passi sparsi;;;OT;ConcR1374;C|;"[,abc,a2] | [,abc,a/] ,,,,,c [,aba,d] ,,,,a | \
+[,daac/] ,,,,e [,daa] ,,,,c | [abb,d1] [dab,,d] | \
+[cdda1] [aabc] | ,,,,c/ [,ab] ,,a ,,,c | [aaa,c1] ,e |";french5tab
+5;;16v;Qui souhaitez;;;OT;ConcR2698;C|;"[,aa,c/] ,,e ,a ,c | ,d/ ,,,,c [a,c,e1] | [caa,c/] ,,,,e [,,,ac] ,,,,a | \
+[baa,,b1] [,,cc,e] | [f,de,c/] e [ca,,c] a | \
+[caa/] ,,,a [ea,c1] |";french5tab
+6;;19r;Ma belle porée;;;OT;;C|;"[,dddf1] [abb,d] | [bbd,,b/] ,,,,,a ,,,,,b ,,,,,d | \
+[bbd,a/] ,,,,,d [bbd,a] ,,,,c | [abb,d/] ,,,,a [,d,ab] ,,,,d | \
+[,d,,a/] ,,,,b [,c,ca1] | ,,,a/ ,d ,,d ,,,a |";french5tab
+7;;20v;Pavane;;;OT;;C;"[ha,,gh2] ,,,,h1 ,,,,e | [ha,,gh1] ,,,,h [ha,,hh] [f,,,g] | \
+,,,,,a1 e [ea,c] ,,,,,a | ,,,,a1 [fc] ,,,,a [ec,,a] | \
+[ce,,c/] ,,f ,c ,e";french5tab
+8;;21v;Galliarde;;;OT;;3;"[ha,,gh1] [ha,,gh] [ha,,gh] | [ha,,gh1] ,,,,h [f,,,g] | \
+,,,,,a1 [ea,c] ,,,,,a | ,,,,a1 [fc] [eacc,a] | \
+[ce,,c1] ,,f/ ,c ,e ,f | [ce,,c1] [,f,c] [,e,,c] |";french5tab
+9;;22v;Pavane [Si je m'en voy];;;OT;;C;"[,bdca1] [,bdc/] ,,,,a | [,bdca1] [,dba,d] | \
+[ab,,d/4] ,a ,b ,d a b d b | [abd,d/] d b a | \
+[bbdd/] ,,,,,b [bbdd] a |";french5tab
+10;;23v;Galliarde [Si je m'en voy];;;OT;;3;",,d/ ,a | [,bdca3/2] [,bdc/] ,,,,a1 | [,bdca1] [,dba,d] [,dba,d] | \
+[abb,d3/2] [abb/] ,,,c1 | [abb,d1] [abb] [bbd,,b] | \
+[abb,d3/2] [abb/] [,dbac1] | [,bb,d1] [,bb,,d] ,a |";french5tab

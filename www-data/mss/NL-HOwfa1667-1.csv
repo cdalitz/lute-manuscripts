@@ -1,0 +1,73 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1;;1r;Preludium, om te hooren oftte die luijte gestelt is;;f. 1v empty;OT;;C;",,d1 ,a/4 ,b ,,d1 [abd/] ,,,,a {,,,a} [abd3/2] ,,,,a/4 \
+,,,,c ,,,,d1 b/ d1 ,,,,a/ ,,,,c1 b/ a1 ,,,,a/ ,,,,,d1"
+2;;2r;More / palatino;;;OT;Conc_4434;C;"[,dda{a}1] ,,d/ [,da,c1] [acd,a] [cdda/] {a} [,dd1] \
+c/4 d f ,,,a [d,,c1] ,,c/ [cdda{a}1] ,,,a [cdd2] ||"
+3;;2v;Sarabande;;;OT;Conc_363;3;",,b/ ,,d ,a [,aba,d3/2] ,,d/4 ,a ,b/ ,d ,a [,,da{a}3/2] \
+,b/4 ,a ,,d [,,ba,d1] ,d/ {a} ,d a1 c/ d d c a [,ea,c2] ||"
+4;;3r;Rosemunt;;;OT;ConcR1027;C;"[,cdca1] ,,d [af,,,a] [,dda] {a}/ a [cdda1] [,cdca] ,,d a \
+f [ea,,,a/] f h e [f,,,a1] | \
+[,cdca/] ,,d ,,,,e ,,,a [aac,,a2]"
+5;;3v;La Vingione;;;OT;Conc_273;C;"a/ [abd,a1] ,d/ [,b,,a] [,d{a}1] ,b/4 ,a ,,d ,a ,,d ,,,,a1 \
+[a,,,e1] [bdda3/2] a/4 b d b a ,,,,,a1 [f,,,a/] [e,,,,a1]"
+6;;4r;Mamere;;;OT;;C;",,d/ [,,dca3/2] ,a/ ,b ,,d1 ,d/4 ,b ,a [,,dca3/2] a/ \
+[,dba,d3/2] ,b/ [,dba,d1] ,d [,dba,d1] a [,bb,d3/2] ,a/ \
+[,aac,a2] ,b/ [,bb,d1]"
+7;;4v;Daphne;;;OT;ConcR1105;3;",,,c1 | \
+[,,bc,a2] [,,d{a}1] | \
+[,a,,,d1] ,,,,,c [a,,,,a] | \
+[,ea,c1] a [c{,,a}] [aac,,a2] ,a/ ,c [,d{a}1] [,a,,,a] ,,b | \
+[,,dc{,,,a}1] [,,a{,,a}] ,,,b [,,,c,a/] ,,a ,,b1 [,,a,c] \
+[aacc,a2] ||"
+8;;5r;Onder de linde grune;;;OT;ConcR993;C;"[acd,a1] [,cd,a] [,d,,c] [acd,a] {,,,a}/ c a1 [a,,,e] [c,,a] \
+[acd,a] [,da,c] [,cd,a] [,ac,,a/] [,d{a}] ,c ,d a c d f"
+9;;5v;2 lauingione;;ff 6r-10v empty;OT;Conc_273;C;",,,c1 [,,d,a2] [,a,,,e] [,b,,a] ,d/ [ab,,d3/2] f1 ,,,,a/ f1 \
+[e,,,,a1] c/ a1 [i{,a}] [h,,,,a] [f,,,a] [da,,,a3/2] b/ a ,d \
+[a,,,d3/2] [,d,,,d2]"
+_x1;;11r;fragment (1);;;OT;;none;,a3/2 ,c/ ,d ,,,,,a ,,d ,d [,dd,,a]
+_x2;;11r;fragment (2);;ff. 11v-34r empty, 34v-51r staff notation;OT;;none;,a3/2 ,c/ ,d1 ,,,,,a ,,d ,d [,dd,,,a2] f d c a c a ,d ,d
+10;;34v;sans titre;;descant to f. 35r;staff;ConcR3136;;
+11;;35r;sans titre;;bass to f. 34v;staff;;;
+12;;35v;sans titre / Dessus;;descant to f. 36r;staff;;;
+13;;35v;sans titre;;[La coquille];staff;;;
+14;;36r;sans titre;;bass to f. 35v (1);staff;;;
+15;;36v;sans titre;;bass to f. 37r (2);staff;;;
+_x3;;37r;sans titre;;erased;staff;;;
+16;;37r;sans titre;;descant to f. 36v;staff;Conc_2199;;
+17;;37v;sans titre;;[La duchesse2];staff;;;
+18;;37v;sans titre;;;staff;;;
+19;;38r;La Fronte;;;staff;ConcR3137;;
+20;;38v;sans titre / Finis;;;staff;;;
+21;;38v;2 brande;;;staff;;;
+22;;39r;3 brande;;;staff;;;
+23;;39r;sans titre;;Gavotte Bredero;staff;ConcR3138;;
+24;;39v;sans tire;;;staff;;;
+25;;39v;La duchesse;;[La duchesse1];staff;;;
+26;;40r;sans titre;;[Suédoise royale];staff;ConcR3139;;
+27;;40v;Brandes;;[Brande d mineur];staff;;;
+28;;40v;2.;;[Branle gai];staff;;;
+29;;41r;3.;;[Brande à mener];staff;;;
+30;;41r;Gavotte;;;staff;;;
+31;;41v;sans titre;;[The Spanish gipsy];staff;;;
+32;;41v;sans titre;;[Courante simple];staff;ConcR3140;;
+33;;42r;La bourè de baptist;;;staff;Conc_48;;
+34;;42r;La ingene;;;staff;;;
+35;;42v;La Royale;;ff. 43r-46v empty;staff;;;
+36a;;47r;Albande fuge;;[Que tu m'étais cruelle];staff;ConcR3141;;
+_36b;;47r; 2 / volcht de derde manier;;;staff;;;
+_36c;;47v;derde manier / finis;;;staff;;;
+37a;;48r;Courante;;[Nu zal ik gaan];staff;ConcR3146;;
+_37b;;48r;2;;;staff;;;
+_37c;;48v;3 Manier;;;staff;;;
+38;;48v;liermans;;;staff;ConcR3142;;
+39a;;49r;Repicava;;[Repicaban];staff;;;
+_39b;;49r;2 Manier;;;staff;;;
+40;;49v;Labore / Finis;;;staff;ConcR3143;;
+41;;50r;brideline;;[La grédeline];staff;;;
+42;;50r;La Cardinale;;;staff;ConcR3144;;
+43;;50r;Moustarde novelle / Nota;;[La moutarde réformée];staff;;;
+44;;50r;le petit saut de Bordeaux / finis;;;staff;ConcR3147;;
+45;;50v;Brande champagne;;;staff;ConcR3145;;
+46;;50v;La Cassandre / Finis coronat Opus / Ende;;;staff;;;
+47;;51r;Nu wil ick Reisen gaan;;[Je ne puis éviter];staff;;;
+48;;51r;Petite Royal;;ff. 52r-53r empty;staff;;;

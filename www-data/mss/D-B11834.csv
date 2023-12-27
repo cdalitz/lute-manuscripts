@@ -1,0 +1,57 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+;;;[Fasz. 1] D dur / Concerto / per il / Liuto Concertato / Due Violini / et / Violoncello / del / Sig. Carlo Kohaut;;;;;;
+1;D dur;f1.2;Allegro;K. Kohaut;pp. 2-4;;;2/4;"{,,,a}/ ,,a ,a ,,,,a | \
+[,ca,,e/] ,,,,,a [,ea{,,,a}] {,,a} | \
+{,a}/ [ea] {a} [cc] | \
+[,,e,,a/] [,a,,a] ,,a ,,,b | \
+""po""{,,,a}/ ,,a ,a ,,,,a | \
+[,ca,,e/] ,,,,,a [,ea,a] ,a |"
+2;D dur;f1.5;Andante molto;K. Kohaut;Cont'd on p. 14;;;C;",,f/ | \
+(3,,f/4 ,,d ,,c) [,,c{a}/] {a} [c,c{a}] (3c/4 b ,c) [,cd{a}/] {a} [,cd{a}] | \
+(3,c/4 ,,e ,a) (3{,a} ,,a ,,c) (3[,,d{,a}/4] ,,c ,,a) (3[,c{,a}] ,a ,,d)"
+3;D dur;f1.20;Tempo di Minuetto;K. Kohaut;pp. 20-23;;;3/8;"[,aab{,,,a}1] z/ | \
+{4}/ [,ca] [,e{,,,a}] | \
+[,aa{,,,a}1] z/ | \
+{4}/ [,ca] [,e{,,,a}] | \
+{,a}/ ,a h | \
+{a}/ ,a g | \
+{4}/ ,,a c | \
+{,,,a}/ ,,a ,e |"
+;;;;;"pp. 12-14 Violino 1°; pp. 10,15,17 Violino 2°; pp. 8, 17,18 Basso";;;;
+;;;[Fasz. 3] E dur / Concerto / per il / Liuto Concertato / Due Violini / Viola / & / Violoncello / del / Sig. Carlo Kohaut;;;;;;
+4;E dur;f3.1r;Allegro ma non molto;K. Kohaut;;;;C;"[,ccd{,,a}/] {,,a}// {,a} [,cc,,,a/] [,ba{,a}] [,ccd{,,a}1] z1 | \
+[,ce,,a/] [,ce,,a]  [,cc,,,a]  [,cc,,,a/]   [,ca{,a}] {,a}  [,ba{5}] {5} | \
+[,ccd{,,a}/] {,,a} [,cc{,,a}] [,ba{,a}] [,ccd{,,a}1] z1 |"
+5;c# moll;f3.4r;Larghetto;K. Kohaut;;;;2/4;"d/ | [d{4}//] > ,c  [,b{4}//] > ,,e  [e{,a}//] > ,e [,,f{,a}//] > ,,e | \
+[,,de{,a}/] [,,ed{,,a}] z/ [d{,,a}/] |  [(e{,a}//] [b)] ,b b [,,d,,,a] e (d b) | \
+(3[,(c{4}][,b)],,e// #,,e/ z/ [d{,,a}] |"
+6;E dur;f3.5r;Allegro;K. Kohaut;;;;3/8;"[,ccd{,,a}/] {a} [,ba{,a}] | [,c,d{,,a}/] {,a} {a} | \
+[,bc,,c/] [,cc{,,a}] {a} | [,ca{,a}] [,ba{5}] [,c,d{,,a}] | \
+[,ca{,a}] [,ba{5}] [,c,d{,,a}] |"
+;;;;;2: Violino 1, 3: Violino 2, 4: Viola, 5: Violoncello;;;;
+;;;[Fasz. 5] F dur / Concerto / per il / Liuto Concertato / Due Violini / & / Violoncello / del / Sig. Carlo Kohaut (illeg.);;;;;;
+7;F dur;f5.1v;Allegro;K. Kohaut;;;Conc_4540;C;"[,,,ad{,a}/] [,,,ad{,a}] {,a} [aa{,a}] [,ab{,a}]  [,ab{,a}] {,a} [aa{,a}] | \
+[,,de{,a}/] [,,de{,a}] {,a} [,,aa] [,,bc] [,,bc,d] {4} [,cb] |"
+8;d moll;f5.5v;Adagio;K. Kohaut;;;Conc_4541;2/4;",a/ | e [e{,,,a}] {,a} [f{,,,a}//] > (,e | ,f/) #[,f{,,,a}] ,,,,,e e// > (,c | \ 
+[,d,,a/]) (3{,a}// e ,a (3{a}// ,b c (3 ,,,,,a// a ,,e |"
+9;F dur;f5.6v;Tempo di Minuetto;K. Kohaut;;;Conc_4542;3/8;"[,,,a{,a}/] ,,a ,,d | [a,d,,a/] {,a} [e,d] | [e,d{4}/] {,,,a} [c,b{,,a}] | \
+[a,d{,a}/] ,,d e | [e{4}/] {,,,a} [c,b{,,a}] |"
+;;;;;2: Violino 1, 3: Violino 2, 4: Violoncello;;;;
+;;;[Fasz. 7] B dur / Concerto / per il / Liuto Concertato / due Violini / & / Violoncello / del / Sig. Carlo Kohaut;;;;;;
+10;B dur;f7.1v;Allegretto;K. Kohaut;;;;2/4;"z/ | [,ab{5}1] [a,b{,,,a}] | [c,b{,,a}1] z/ [cb] | \
+{,a}/ [aa] {,a} [,bd] | {a}/ [,ab] {,,a} [cb] | {,a}/ [aa] {5} [,,a,b] |"
+11;Eb dur;f7.3v;Largo & dolce;K. Kohaut;;;;3/4;" [,,bc1] [,,bc{,,a}] [,,bc{,,a}] | ,b1  [,,bc{,,a}] {,,a} | \
+[,,bc1] {5} [,,,dd{5}] |  [,,,dd]  [,,,cb{,,a}] {,,a} | [ff1] {5} [dd{5}] |"
+12;B dur;f7.4v;Tempo di Minuetto;K. Kohaut;;;;3/8;"[,,ba{d}/] [,,da,a] {,a} | [,ab{d}/] [,ba,,d] {4} | {,,,a}/ a [,a{d}] | \ 
+[,,d,,a/] {,a} [,a{d}] | ,,,a/ [,,b,a] {d} | ,,,a/ [,,d,,a] {,a} | "
+;;;;;2: Violino 1, 3: Violino 2, 4: Violoncello;;;;
+;;;[Fasz. 9] B dur / Concerto / per il / Liuto Concertato / Due Violini / Viola / & / Basso [/ del / Sig. Carlo Kohaut];;;;;;
+13;B dur;f9.1v;Allegro ma non troppo;K. Kohaut (o. Pfeiffer?);;;Conc_4549;C;"z/ | [,aba{5}1]  [,baa{,a}]  [,aba{5}] z/ [,,ba{,,,a}] | \ 
+[,,dc{,,a}/] {4} [,,aa{,a}] [,bda{,a}]  [,aba{5}1]  z/  [,,ba{,,,a}] |  \
+[,,dc{,,a}/] {4} [,,aa{,a}] [,bda{,a}]  [,aba{5}1]  z/  [aa,,,b] |   "
+14;g moll;f9.3v;Andante a la Polonoise;K. Kohaut (o. Pfeiffer?);;;Conc_4550;3/4;"{a}/ {,,,a} {,,,a}  {,,,a} ,,,,,b ,,,,,a// {a} | \ 
+{a}/ {,,,a} {,,,a}  {,,,a} ,,,,,d ,,,,,b// ,,,,,a | \
+,,,,,b/ ,,,,,a// {a} [,a,c,b1] [,b,c,d] | [,,bca1] [,,ab{,,,a}] z1 |"
+15;B dur;f9.4v;Allegretto;K. Kohaut (o. Pfeiffer?);;;Conc_4551;3/8;"[aa,,,b/] z/ [,bd{,a}] | [,ab{5}1] [aa,,,b/]  | [,bb{a}/] [a,d,,a] [,bd] | \
+[,ab{5}/] [,,da{,a}] [,,baa{5}] | [,,,aa{5}/] [,,,cb{5}] [,,,cb{5}] |"
+;;;;;2: Violino 1, 3: Violino 2, 4: Violoncello;;;;

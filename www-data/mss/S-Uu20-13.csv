@@ -1,0 +1,44 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1;Dis moll;1r;Prelude;;;;;C;"[bbbbb{,,a}1] [fegfe{,,a}] [fegfe{,,a}] [fegfe{,,a}] \
+[likli{,,a}] [ggikg{,,a}] [feefe{,,a}] [feefe{,,a}] \
+[feefe{,,a}] [ddedd{,,a}] [ddfdd{,,a}] [bbbbb{,,a}] {,,a}/4 \
+(,,,,b ,,,,a ,,,,b) ,,,a ,,,,b ,,,a (,,,,b ,,,,a ,,,,b) {,,a}"
+2;Dis moll;1r;Allemande;;;;;C;"f/ | [feg{,,a}1]> f V[g,,,a1]> g | (g/ a) (a/ b/4 d) \
+[,a,d{,a}/] ,a (,a/ ,b/4 ,d) | [,b{a}/] ,,b ([,,'b/4] ,,a \
+,,b3/4) ([a,,,a/4] b d/>) d | "
+3;Dis moll;1v;Courante;;;;;3/4;",,b/ ,,d ,a | [,b{,,a}/] ,,b (3[,,'b] ,,a ,,b) [,b{,,a}/] \
+,,b | [a,,,a/] ,,b (3[,,'b] ,,a ,,b) [a,,,a/] ,,b | (3[b{,,a}/] \
+d b) (3[a{,,,a}/] b a) (3[,b{4}/] ,d ,b) | "
+4;Dis moll;1v;Siciliana;;;;;6/8;"[cbbc{,,a}/]> a [,bb{,,a}/] [aab,a/]> c [dab,a/] | [cb{a}/]> \
+a [,b{6}/] [,aba{5}1] [hg/] | [ff1] [dab,a/] [cbb{,,a}1] \
+[hg/] | [ff1] [dab,a/] [cbb{,,a}1] (d/8 c a ,b a c d f g) | "
+5;Dis moll;2r;Menuette;;;;;3;"[,,b{a}1] [,,b,a] [,,b{5}] | [,,b{,,a}1] [,,b{a}] [,,b{,,a}] | \
+[,bb{a}1] [,ab{,a}] [da,,a] | [b{,,a}1] [a{,a}] [,b{a}] | \
+[,,c{6}1] [,,b{a}] [,b{,,a}] | [,,c{6}1] [,,b{a}] [,b{,,a}] | \
+[d,,,a1] [d{5}] [b{,,a}] | "
+6;Dis moll;2r;Gavotte;;;;;2/4;"{,,a}/ f ,,g g | {,a}/ ,g g {,,a} | ,,,,a/ f ,d d | {,,a}/ \
+,f f {,,,a} | {4}/ d ,b b | {,,,a}/ ,d d {4} | "
+7;Dis moll;2v;Gigue;;;;;C;"(3[,,,b{,,a}/] ,,,,b ,,,b) (3,,b ,,,b ,,b) (3,b ,,b ,b) b1 | \
+[a,,,a/] ,,b ,,a ,,b ,,b2 | (3[,a{5}/] ,,b ,a) (3a ,a a) (3d \
+,d d) g1 | "
+8;Gis dur;3r;Prelude;;;;;C;"{6}/ ,,d ,,,d ,,d {6} ,,e ,,,c ,,e {6} ,,d ,,,d ,,d \
+{,,a} ,,b ,,,c ,,b ,,,,,a h ,g h ,,,,,a i ,f i ,,,,,a h ,g h"
+9;Gis dur;3r;Allemande;;;;;C;",b/ ,d c | [d,,,,a/] ,b ,,e ,b [,,d,,a] ,b [,,b{a}] ,b | \
+[,,,d{,a}/] ,,d ,,b ,,d [,,,d{,a}] ,,d [,,,c{,,a}] ,,d | \
+[,,,a{,,,a}/] d c d"
+10;Gis dur;3r;Courante;;;;;3;"[d,,,,a/] c d ,b ([d{a}] ,b) | ([d{,a}/] c) d ,b ([d{4}] \
+,b) | {,,,a}/ f [f{,,a}] f h i | ['h,,,,a/] f ,g ,,g a ,e | "
+11;Gis dur;3v;Sarabande;;;;;3;"[,bdd,a1] [,bbc{a}/] a ,,b (3,,b/4 ,,d ,,e) | [,,'d{,a}1]> \
+{,,a} [,,e{,,,a}1] | {4}/ ,,g ,g h [f{,,,a}] ,g | [,'f{,,a}1] \
+{,a}/ ,d [,,g{a}1] | "
+12;Gis dur;3v;Menuet;;;;;3;"([,,d,,a/] ,,e) ,,g1 [,,bc{,,a}] | [,,,d{,a}/] ,,b ,,d1 \
+[,,,cb{4}] | {,,,a}/ a ,,b d c a | ([,'b{4}/] ,a) V[,b2] | \
+[a{,,,a}/] [,,(d] [,,'b),a1]> ,,,d | "
+13;Gis dur;3v;Gigue;;;;;6/4;",b/ | [dbd,,a1] d/ [dbd{a}1] d/ | [dbd{,a}/] {,,a} {,,,a} \
+[dbd{4}3/2] | [fde{,,,a}1] f/ [ff{,,a}/] h i | ['h,,,,a3/2] \
+[f{a}1] ,,e/ | [,,'d,,a1]> ,,,f {a} i | ['h,,,,a3/2] \
+[,i{a}1] l/ | "
+14;F dur;4r;Affettuoso del Sigre Chelleri;Chelleri (Keller);;;Conc_3366;C;",,d/4 ,a ,c | [aVda{,a}/] [ada{,a}] ['a{,a}] ([,'c{a}/8] ,a) \
+,,d/4 [,aba{,a}/] [,,da{,a}] {,a} [a{,a}] | [,c{4}/4] a \
+([c{4}] a) ([,c{4}] ,a) ([,,d{4}] ,,b) [,,'a{,a}/4] ,,,c \
+[,,,'a{,a}/] {,a} [,,,a{,a}] | "

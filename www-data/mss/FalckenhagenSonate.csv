@@ -1,0 +1,108 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+;;;Sonata I;;;;;;
+1;c moll;1;Largo;A.Falckenhagen;;;;3/4;"c/4 ,b3/4 (,d/4 ,a3/4) ,b/4 ,,d3/4 | \
+[,,ca{,,,a}1] [,,dc{,,a}2] | \
+(c/8 a) ,b3/4 (,d/8 ,b ,a3/4) (,b/8 ,a) ,,d3/4 | \
+[,,ca{,,,a}1] [,,dc{,,a}2] | \
+(a/4 c d1) [dLy,,a] [dLy,,,b] | "
+2;c moll;3;Allegro un poco;A.Falckenhagen;;;;2/4;"(c/4 a) (,b ,a) ([,b{4}/8] ,a) ,,d3/4 | \
+[,a{,a}/] ,,d [,,'c{a}1] | \
+""piano""(c/4 a) (,b ,a) ([,b{4}/8] ,a) ,,d3/4 | \
+[,a{,a}/] ,,d [,,'c{a}1] | "
+3;c moll;5;A tempo giusto;A.Falckenhagen;;;;3/4;"V[c{4}1] ,,d [,,'c{,,,a}] | \
+[,,d{,,a}/] ,a (,b ,a) ,,d1 | \
+""piano""{4}/ c ,,d1 [,,'c{,,,a}] | \
+[,,d{,,a}/] ,a (,b ,a) ,,d1 | \
+""forte""{,a}1 (a/8 c d1) ['c{,,a}] | \
+{,,,a}1 (,a/8 ,b ,d1) [,'b{4}] | "
+;;;Sonata II;;;;;;
+4;Eb dur;7;Largo;A.Falckenhagen;;;;3/4;"[cbb{,,a}3/4] ,b/4 [,Xa,d{,a}3/2] [,a,d{,a}/] | \
+[cbb{,,a}3/4] ,b/4 [,Xa,d{,a}3/2] [,a,d{,a}/] | \
+V[,bb{a}3/4] ,,b/4 [,,,,b2] | \
+V[,,,d{,a}1] ([,,,d{,,a}/8] ,,,c ,,,a3/4) ([,,,d{,,,a}/8] \
+,,,c ,,,a3/4) | \
+[,,,'cb{,,a}1] [,,,'a'a{5}2] | "
+5;Eb dur;8;Allegro un poco;A.Falckenhagen;;;;2/4;"{,,a}/4 ,,,,b ,,,c ,,,,b ,,b ,,,c ,b ,,b | \
+(c/4 a) ,b ,a [,Vb/] [,,b{a}] | \
+([,,d{6}/8] ,,b3/8) ,,b/8 ,,,d3/8 ([,,,d{5}/8] ,,,c3/8) \
+(,,,c/8 ,,,a3/8) | \
+([,,,c{,,a}/4] ,,,a) [,,,,b{,,a}/] {,,a}/4 (c a) ,b | "
+6;Eb dur;10;Vivace;A.Falckenhagen;;;;3/4;"{,,a}/ ,,,c ,,b ,b {,a} ,,,d | \
+{a}/ ,,,c ,,b ,b {,a} ,,,d | \
+{,,a}/ ,,b ,b (c a) ,b | \
+{5}/ a (,b ,a) (,,d ,,b) | \
+{4}/ ,,d ,b d {5} c | "
+;;;Sonata III;;;;;;
+7;B dur;11;Largo;A.Falckenhagen;;;;3/4;"([,ab{5}3/4] ,b/4) ([,ab{5}3/4] ,b/4) ([,ab{5}3/4] ,b/4) | \
+([,ab{5}/] ,b) [aa{5}1] {5} | \
+([cb{5}3/4] d/4) ([cb{5}3/4] d/4) ([cb{5}3/4] d/4) | \
+[cb{5}1] ['a'a{5}] {5} | "
+8;B dur;12;Moderato;A.Falckenhagen;;;;2/4;"(3a/ c a) (3,b ,d ,a) | \
+V[,b{,a}1] [,,d{,a}] | \
+(3,b/ ,d ,b) (3,a ,b ,,d) | \
+[,a{5}1] [,,b{5}] | \
+(3a/ c a) (3,b ,d ,a) | \
+(3[,b{,a}/] ,d ,b) (3,a ,b ,,d) | "
+9;B dur;14;Vivace;A.Falckenhagen;;;Conc_4559;3/4;"(f/ a) ,a a ,,b ,a | \
+,,,,,a/ ,,d [a{,a}] ,,d {d} ,a | \
+(f/ a) ,a a ,,b ,a | \
+{,a}/ ,,d (,,b ,,a) (,,,c ,,,a) | \
+{a}/ ,,b ,b ,,b {,a} ,a | "
+;;;Sonata IV;;;;;;
+10;g moll;15;Largo;A.Falckenhagen;;;;3/4;"[cab{a}1] [cab{a}] (c3/4 e/8 f) | \
+[e,d{a}1] [e,d{a}] (e3/4 f/8 h) | \
+[he{a}1] [he{a}] [he{a}] | \
+['f{a}3/4] ,g/4 ,f1 l | \
+([l{,a}1] k) {,a} | \
+([k{,,a}1] h) {,,a} | "
+11;g moll;17;Allegro un poco;A.Falckenhagen;;;;2/4;"c/ | \
+,,,c/ ,,a ,,b ,,d | \
+[,a,,a/] ,,a [,a{,,,a}] ,,d | \
+([,,b{a}/] ,,a) ,,,c ,,,,a | \
+{a}/ ,,,,,a [,,,c,b] ,,,,,d | \
+[,,,'ba/] ,,,,,a [,,,ba] ,,,,,d | \
+[,,,c,b/] ,,,,,a {a} c | "
+12;g moll;19;A tempo giusto;A.Falckenhagen;;;Conc_1073;3/4;"Vc1 ,,,c [,,aba] | \
+V[,,bc1] {a} [,,dc,a] | \
+[,a,c,b1] V[,b,c,d] ,,,d | \
+[,,,'ba1] ,,,,,d [,,,c,b] | \
+[,,db,a1] [,,Xb{a}3/2] (,,a/4 ,,b) | \
+[,,'a,a2] {,,,a}1 | \
+""piano""Vc1 ,,,c [,,aba] | \
+V[,,bc1] {a} [,,dc,a] | "
+;;;Sonata V;;;;;;
+13;F dur;21;Largo;A.Falckenhagen;;;;3/4;"[e,d{,a}1] [e,d{,a}] [e,d{,a}] | \
+['e,d{,a}3] | \
+[c,b{,a}1] [c,b{,a}] [c,b{,a}] | \
+['c,'b{,a}3] | \
+[Xa,Xa{,a}2] ([,c,c/] ,d) | \
+[,Xc,c{4}3] | \
+{,a}/ [hh] [hh] [hh] [hh] [hh] | \
+[XhXh{,a}3] | "
+14;F dur;23;Allegro;A.Falckenhagen;;;Conc_1074;2/4;"(,,d/4 ,,a) | \
+a/ [,,a,,a] [,,b,,b] [,,d,,d] | \
+[,,'a{,a}/] ,,,c/4 ,,a [,,,'a/] (,,d/4 ,,a) | \
+a/ [,,a,,a] [,,b,,b] [,,d,,d] | \
+[,,'a{,a}/] ,,,c/4 ,,a [,,,'a/] (,,d/4 ,,a) | \
+[,a{d}/] a a ,a/4 ,,,a | "
+15;F dur;25;Vivace;A.Falckenhagen;;;;3/8;"h/4 (,i ,h) h (,i ,h) | \
+[k{5}/] ['h{6}1] | \
+h/4 (,i ,h) h (,i ,h) | \
+[,i{a}/] [,'h{,a}1] | \
+{5}/4 (,f/8 ,h) f/4 (,h ,f) a | \
+[,,h{4}/4] a ,f ,,h ,,,h/ | "
+;;;Sonata VI;;;;;;
+16;d moll;27;Largo;A.Falckenhagen;;;;3/4;"{,,,a}1 e/4 ,a3/4 e/4 ,a3/4 | \
+{a}1 f/4 ,a3/4 f/4 ,a3/4 | \
+,,,,,a/4 e3/4 (e/4 c3/4) (c/4 a3/4) | \
+(,d/4 ,c3/4) (,c/4 ,d3/4) ,d/4 c3/4 | "
+17;d moll;28;Allegro un poco;A.Falckenhagen;;;Conc_4000;2/4;"([,aaa{,,,a}/4] ,c ,d ,c ,a1) | \
+[,,e{,,a}/] ,c [,,,c{,,a}1] | \
+([,aa{,a}/4] ,c ,d ,c ,a1) | \
+[,,e{,,a}/] ,c [,,,c{,,a}1] | \
+([,aa{,a}/4] ,c ,d ,c ,a1) | \
+{,a}/ e ,f [f{a}] | "
+18;d moll;29;A tempo giusto;A.Falckenhagen;;;;3/4;"([e{,,,a}/4] a3/4) ([,d{,,,a}/4] ,a3/4) ([,,f{,,,a}/4] ,,a3/4) | \
+(e/4 a3/4) (,d/4 ,a3/4) (,,f/4 ,,a3/4) | \
+{a}/4 f3/4 ([f{,a}/4] e3/4) ([e{,,a}/4] c3/4) | \
+([c{,,,a}/4] a3/4) (,d/4 ,c3/4) (,c/4 ,a3/4) | "

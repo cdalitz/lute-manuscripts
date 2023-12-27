@@ -1,0 +1,91 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;1r;La Bourree;;;OT;Conc_4359;C;",b/ ,a | \
+,,d1 ,,,,a {,,a} ,a/ ,b | \
+[,d,,,d1] ,,,a [,,d,d] [,,c,c] | \
+[,,d,a/] ,,c ,,d ,a ,,d ,a ,b ,d |";
+2;;2r;Ballet du Roy;;;OT;ConcR696;C;",,d/ ,a | \
+[,cdca1] [,dda,,a] [,cdca] [,acc,a] | \
+[,,d,a1] ,,,c {,,a} ,d/ a | \
+[cdda1] {a}/ d Xc1 a | \
+[,dda1] {a} ,,,a ,d/ a";
+3;;2v;Praeludium;;;OT;;C;"[,,dca1] {,,a}/ ,a ,c1 ,,d | \
+[,da,c1] ,,c [a,,,e] ,,d | \
+[cdda1] ,c [aacc2] | \
+[,cde2] ,e | \
+[aac,,a3/2] c/ Xa X,,,a [a,d,e1] | \
+[,dda,,a1] Xa/ ,d [,cdca1] Xa/ ,d |";
+4;;2v;Volte;;;OT;;3/4;",d/ a [b,,a1] [d,,c] | \
+X[f,,d3/2] g/ Xf1 | \
+[d,,,d1] f [b,,a] X[a,,,a1] ,b b/ d | \
+[f,,d1] X[d,,,d2] | \
+[bbd,,b2] ,,,d [bbd] |";
+5;;3r;Passometzo;;;OT;;C;",,d1 ,d Xa | \
+[cdda1] {a} ,,,a c/ d | \
+f1 ,,,a [da,c] ,c | \
+[cdda1] {a}/ d Xc1 [a,,,d] | \
+[,d,,c1] ,,b [,b,,a] [,da/] ,b |";
+6;;4r;Courant;;;OT;Conc_3470;3/4;"[,cdca2] | \
+X[,cdc{,,a}3/2] ,d/ ,c1 | \
+X[,a,,,a1] ,,d [,,cc] | \
+[ccd,,c1] ,,,e [cdd] | \
+,,,,,a1 {a} c | \
+{,a}1 ,,,,e [a,d] | \
+[,d,,c1] X[,cdca] ,a/ ,,d |";
+7;;4v;Ballet;;;OT;;C;",d/ a | \
+[bdda1] d/ b Xa ,d [acd,a1] | \
+X[,dda,,a1] ,,,,a ,,,a f | \
+X[f,,d1] g/ f d g [dfg,d1] | \
+[bbd,,b1] ,,,d [bbd] ,d/ a |";
+8;;4v;Courante;;;OT;;3/4;"Xa1 | \
+[acd,a3/2] c/ Xa1 | \
+[cdda3/2] d/ Xc1 | \
+[acd,a2] {,,a}1 | \
+[acd2] [,ac1] | \
+[,ce1] ,d [a,,,e] | \
+[,dda1] a [,c,,a] | \
+X[,a,,,a1] ,,c ,,,c |";
+9;;5v;Guillemette;;;OT;ConcM6;C;"[,dda2] [,cdca1] [,dda] | \
+[acd,a2] [a,d1] [cdda] | \
+[acd,a1] [,d,,,c] ,,,,,d [,c,,a] | \
+[,dda{a}1] ,a/ ,c ,d1 ,,d | \
+[,dda1] a/ ,d ,c ,a ,c ,d |";
+10;;6r;Courant;;;OT;ConcR309;3/4;",,d2 | \
+X,d1 X,,,a [a,,,e] | \
+[bdda1] a/ b ,d1 | \
+f1 {a} ,,,,a | \
+,,,a3/2 d/ b1 | \
+[d,,,d1] ,,,,b [f,,,a] | \
+[g,,f1] [f,,d2] | \
+[dfgd2] {,a}1 |";
+11;;6v;sans titre;;;OT;;C;",,d/ ,a | \
+[abd,a1] ,,d/ ,a [abd,a] ,d ,b ,a | \
+[abd,a/] ,,d ,a [bbd,a] a ,d ,b | \
+[,ab,,d1] ,,b/ ,,a";italian7tab
+12;;7r;sans titre;;unfinished;OT;;none;",,d ,a [abd,a] ,d ,b [abb,d] [,da,c] [,bd,a] | \
+[,ab,,d] ,,d ,,b ,,a ,,b ,,d ,a ,,b ,,d ,a [abd,a] ,d ,b";italian7tab
+13;;7v;Ballet;;First part only;OT;;C;"c1 | \
+[cdda2] [acda1] c/ a | \
+[,dda{a}2] ,,,a1 ,d/ a | \
+[ccd{a}1] ,,,,,a ,,,,,c ,,,,,d | \
+[acd,a2] {,,a}1 :||:";
+14;;8r;sans titre;;;OT;;C;"[abd,a2] [aac,,e3/2] ,d/ | \
+[,b,,a1] ,a/ ,,d [f{a}] '[e,,,,a] | \
+[f,,,a1] {,,a} [acd,a] [c,,a/] ,,,,d | \
+[,d,,c/] [c,,,a] [d,,,,d] b '[a,,,d1] [,dba,d] |";
+15;;8v;Courant;;ff 9r-12r empty;OT;Conc_3469;3/4;",,d1 | \
+[,,da,c3/2] ,a/ ,,d1 | \
+[,a,,,d1] [,c,,a2] | \
+[,d,a2] {a}1 | \
+[,dd1] 'a ,d | \
+[,cdca2] [,aa,c1] | \
+[,,da,c3/2] ,a/ [,,b,,a1] | \
+'[,,a{a}3/2] ,,,c/ ,,a1 |";
+16;;12v;[Example 1);;notenames added;OT;;none;",,b1 ,,,c ,a ,a2 ,b1 ,a ,,b ,,d2 ,,b | \
+,,d1 ,a/ ,c ,d1 ,b2 ,a1 ,a ,,d2 ,a |";
+17;;13r;[Example 2);;notenames added, f. 13v example in staff;OT;;none;",a1 ,a ,,d ,,b2 ,,a1 ,,b ,,d ,a2 | \
+,,d3/2 ,a/ ,c1 ,d2 ,c1 ,a2 | \
+,,d1 ,a3/2 ,,d/ ,,b/ ,,a2 |";
+18;;13v;[Example 3);;notenames added, f. 14r empty;OT;;none;",,,,d3/2 ,,,a/ ,,,b ,,,,d ,,b2 ,,b ,,,d ,,b/ ,,c \
+,,e1 ,,,,b ,,,a ,,,b ,,b/ ,,c ,,e1 ,b ,,e3/2 ,,c ,,b1";
+19;;14v;[Example 4);;notenames added;OT;;none;",a1 ,a2 ,,,c3/2 ,,a/ ,,b ,,d ,a1 ,a ,,d ,a ,c ,d \
+,c/ ,a ,,e1 ,a1 ,a2 ,,b3/2 ,,d/ ,a ,,b";

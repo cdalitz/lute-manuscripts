@@ -1,0 +1,53 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+;;;Stücke für Laute in deutscher Tabulatur;Pieces for lute in German tablature;;;;;;
+1;;1r;?;;;OT;;;[a,bc2] [a,bc] | [,da,c2] [a,bc1] [c,da] | [da,,,d2] [da,,,d1] [c,da2] [a,bc1] | [,da,c2] [,da,c] | ;germantab
+2;;1r;Praeludium?;;;OT;ConcR3531;;a1 c d a | c a ,d ,b | ,a ,,d ,,b ,,a | ,,,c ,,a ,,b ,,d | [,aba,d2] [acd,a] | [aaa,c2] ,e | H[aa,c,a] ||;germantab
+3a;c moll;1v;Passazmezo;;;OT;ConcR3639;;[ab,,a2] ,,d1 ,a ,b ,d a ,d | [ab,,a2] ,,d1 ,a ,b ,a ,b ,,d | [,ab,,d2] ,,,a1 ,,a ,,b ,,d ,a ,,d |;germantab
+3b;c moll;2r;Saltarello;;;OT;;;[abd,a2] > ,a ,,d | [abb,d2] [,d,,c] [,b,,a] | [,ab,,d2] ,,,a1 ,,a ,,b ,,d | [,ab,,d2] ,,,a [,ab] | ;germantab
+4a;G dur;2v;Passazmezo;;;OT;;;[aac,,a2] ,,,c1 ,,a [aac,,a2] [,,d,,c] | [aac,,a2] ,,,c1 ,,d ,a ,,c ,,d ,a | [ac,,a2] ,,d1 ,a ,c ,d a ,d | ;germantab
+4b;G dur;3r;Saltarello;;;OT;;;[aac,,a2] ,,,c1 ,,d ,,c ,,a | [aac,,a2] [,,d,,c] [aac,,a] | [acd,a2] ,,,c1 ,a ,c ,d | [acd,a2] [,a,,,e] [,,d,,c] | ;germantab
+5;D dur;3v;Chepassa;;;OT;;;[,aabc2] | [,aabc4] [,aab2] | [,aabc2] [,aab] [,aabc] | [,aabc4] [,aab2] | [caa,c2] [caa] [caa,c] | ;germantab
+6;D dur;4r;Lacaracossa;;;OT;;;[,ea,c2] [,ea] [,ea,c] | [,ea,c1] ,,,,a ,,,,c ,,,,e [,ea,c2] | [aabc1] ,d a c d a |;germantab
+7;c moll;4v;Galliarda;;;OT;;;[,,d,a2] [,,aa] [,,c,c] | [,,d,a2] ,a [,b,c] | [,d,d2] ,,,a1 ,,d ,a ,,d | [,acc2] ,,,,,a [,ac] | ;germantab
+8a;g moll;5r;Passazmezo Milanese;;cf. Pacoloni1564 / III.0v;OT;;;[aab,,a2] [aab1] ,,,,,c [aab,,d] ,,,,a ,,,,,d ,,,,,c | [aab,,a2] [aab1] ,,,,,c [aab,,d] ,,,,a ,,,,c ,,,,e | [cdda2] [cdd1] a [,dda] ;germantab
+8b;g moll;5v;Saltarello;;T2 part. illeg., cf.  Pacoloni1564 / III.1r;OT;;;[aab,,a2] > [aab] a | a1 ,,,,,c ,,,,,d ,,,,a ,,,,c ,,,,e | [cdda2] [cdd] ,,,a;germantab
+9a;C dur;6r;Passazmezo;;T2 part. illeg.;OT;;;[acd,a2] | [acd,a2] ,,,c1 c [a,,,a] ,d ,c ,a | [acd,a2] x1 x a x ,d a | [cdda2] [cdd1] ,c ,d;germantab
+9b;C dur;6v;Saltarello;;;OT;;;[acd,a2] ,,,c ,a ,c ,d | [acd,a1] c a ,c ,d a | [cdda2] [cdd1] ,c ,d a | [cdda2] a1 ,d ,c ,a |;germantab
+10a;d moll;7r;Passazmezo;;;OT;;;[,daac2] ,a1 ,c [,daac] a c a | [,daac2] ,a1 ,c [,daac] ,a ,c ,d | [ac,,a2] ,,d1 ,a ,c ,d a ,d |;germantab
+10b;d moll;7v;Saltarello;;;OT;;;[,daac2] > ,c ,a | [,daac1] c a ,d ,c ,a | [acd,a2] ,,,c1 ,a ,c ,d | [acd,a2] ,,,c [acd] | ;germantab
+11a;f moll;8r;Passazmezo;;;OT;;;[bdda2] [bdda1] a | [b,da1] a/ b d b a ,d | [abb,d/] ,a ,b ,d a ,d ,b ,a | ;germantab
+11b;f moll;8v;Saltarello;;;OT;;;[bdda2] > a ,d | [f,,d2] [d,,c] [b,,a] | [abb,d2] ,,c1 ,a ,b ,d | [abb,d2] ,,,c [abb] | ;germantab
+12;c moll;9r;Passazmezo;;;OT;;;,,d1 ,a | [ab,,a2] ,,d1 ,a [,b,,a] ,d [a,,,a] ,d | [,d,,a2] ,,d1 a [,d,,a] ,b [,a,,a] ,,d |  ;germantab
+13a;F dur;9v;Passazmezo;;;OT;;;[cdda2] ,d1 a c d c a | [cdda2] [,daac] [abb,d] [cdda] | [da,a,d2] [da,a1] ,,,,,c [da,a,d] ,,,,a ,,,,c ,,,,a |;germantab
+13b;F dur;10r;Saltarello;;;OT;;;[cdda2] > [cdd] ,,,a | [,daac2] [abb,d] [cdda] | [dab,,d2] > [dab] ,,,a | [dab,,d1] ,,,,,c ,,,,,d ,,,,a ,,,,c ,,,,e | ;germantab
+14a;c moll;10v;Passazmezo;;;OT;;;[abd,a2] ,,,c [abd] ,,,,c | [abd,a2] ,,,,c [abb,d] ,,,a | [,ab,,d] ,,,a [,ab] ,,,,,c | [,aba,d2] ,,,,a [,abac] ,,,,,d |;germantab
+14b;c moll;11r;Saltarello;;;OT;;;[abd,a2] > ,a ,,d | [abb,d2] [,d,,c] [,b,,a] | [,aba,d2] > [,ab] ,,,a | [,ab,,d2] ,,,a [,ab] |;germantab
+15a;g moll;11v;Passazmezo;;;OT;;;[da,c,a2] [da,c,a1] c [aa,c,a] c [da,c,a] a | [cdda1] ,a/ ,c ,d a c d  [cdda1] d [d,da] c | ;germantab
+15b;g moll;12v;Saltarello;;;OT;;;[da,c,a2] > c a | [da,c,a2] f1 d c a | [cdda1] a ,d a c d | [cdda1] a ,d a c d | ;germantab
+16;g moll;13r;Praeludium;;;OT;;;[aabc4] [abb,d2] [abd,a] | [,aa,c1] a [aaa,c] ,e [aa,c,a] a ,b ,a | [abd,a2] [aac,,e] [abd,a] ,,c1 ,,a | ;germantab
+17a;c moll;13v;Passazmezo;;;OT;;;[abd,a1] ,,,c [abd] [b,,a] [a,,,d] [,d,,c] [,b,,a] [,a,,,d] | [abd,a1] ,,,c [abd] [d,,c] [c,,a] [a,,,d] [,d,,c] [,b,,a] | ;germantab
+17b;c moll;14v;[Passazmezo] Alio modo;;;OT;;;[abd,a/] ,a ,,d ,,b ,,d ,a ,b ,d a c d c a ,d ,b ,a | [abd,a/] ,a ,b ,d a c d a ;germantab
+17c;c moll;15v;Saltarello;;;OT;;;[abd,a2] > [abd] ,,,c | [,daac2] [abb,d] [cdda] | [dab,,d2] > [dab] ,,,a | [dab,,d1] ,,,,,c [dab,,d] ,,,,a [dab,c] ,,,,,d | ;germantab
+18;G dur;16r;Passazmezo;;;OT;;;[aac,,a2] ,,,c ,,d [aac,,a2] [,,db,c] | [aac,,a2] ,,,c1 ,,a [aac,,a1] ,,d [aad,,a] ,,c | [acd,a2] ,,,c1 ,d [acd,a2] [,dcac] |   ;germantab
+19a;;17v;Passazmezo;;;fefe;;;[,aaaa1] ,,d [,daaa2] [,daaa] [,daaa] | [,aaaa2] [,daaa] [,daaa] ,,d1 ,a | [,bcd,a2] ,,c1 ,a ,b ,d a ,d | ;germantab
+19b;;18r;Saltarello;;;fefe;;;,a1 ,b | [,da,a2] ,,,a1 ,b ,a2 | [,aaaa2] ,b [,daaa] | [,b,d,a2] ,,c ,a ,b ,d | [,b,d,x2] ,,1 ,a ,,d2 |;germantab
+20a;;18v;Tanz;;;OT?;;;[,aaaa2] :||: [,,ca2] [,,ca] [,aaaa] [,aaa] | [,bcd1] ,a ,b ,d [,bcd2] ,a | [,,ca2] [,,ac] [,,ca] ,,,,,b |;germantab
+20b;;19r;Nachtanz;;;OT?;;;[,faaa2] :||: [,,ca2] [,,ca2] [,aaaa] | [,bcd1] ,a ,b ,d [,bcd] ,a | [,,ca2] [,,ac] [,,ca] | [,faaa2] :||: [,,ca2] [,,ca2] [,aaaa] | [,bcd1] ,a ,b ,d [,bcd] ,a | [,,ca2] [,,ac] [,,ca] | [,aa,a2] ,,,a  [,aaaa] | ;germantab
+21;l;19v;Lacaracossa;;;OT?;;;[cdca2] [cdc] [cdca] | [cdca1] a c d [cdca2] | [daa,a1] ,,c [,a,a] ,c [,d,,a] a | [bdd,,a2] [bdc] [bdc,,a] |;germantab
+22a;g moll;20r;Passazmezo;;;OT;;;a1 c | [da,c,a2] d c [aa,c,a1] ,d a c | [da,c,a2] a1 c [da,c,a] a c d | [cdda2] [cdd1] a [,dda] a c d |;germantab
+22b;g moll;20v;Saltarello;;;OT;;;[aabc1] c :||: [dabc2] ,,,,,a [c,a ,b] | [aabc] c [dabc] | [cdda2] ,d1 a c d | [cdda1] a c ,d a c |;germantab
+;;;Stücke in französischer Tabulatur evtl für Cyther;Pieces in French tablature for cittern;;;;;;
+23;;*1r;Genntill Madona;;;cittern;;3;[caca2] [caca] [caca] | [caca4] [caca2] | [daaaaa4] [caca2] | [daaaaa4] [fdfd] | [gddddd4] [gddddd2] | [gddddd4] [fdfd2] |  ;
+24;;*1v;Lagamba;;;cittern;;3;[caca2] [caca] [caca] | [caca3] a1 c d [caca2] | [daaaaa2] c1 d a c d | [fdfd3] d1 f g [fdfd2] | ;
+25a;;*2r;Studenten Tantz;;;cittern;;C;[daaaaa2] a1 c d a c d | [fdfd2] ,1 d f g [fdfd2] | [fdfd2] [gddddd] [fdfd] | [daaaaa2] ,1 a c d [caca] a |;
+25b;;*2r;Nachtantz;;;cittern;;3;[daaaaa3] a1 c d [fdfd3] d1 f g [fdfd2] | [gddddd2] [fdfd] [daaaaa] | [caca3] a1 c d [caca2] :||: ;
+26a;;*2v;Paduwan;;;cittern;;C;,a1 ,c [,aaaaa2] ,a1 c | [,aaaaa2] ,,,,,a1 ,,,,,b ,,,,,d | [,,ffff2] ,,f1 ,,h [,,ffff2] ,,,,,h1 | [daaaaa2] [caca] [dcac] |;
+26b;;*2v;[Galliarde];;;cittern;;3;,a1 ,c | [,,aaaa1] ,,,,,b ,,,,,d ,,,,,a ,,,,,b ,,,,,d | [,,ffff2] [,,,fff1] ,,,,,i ,,,,,h ,,,,,f | [caca1] d c ,f c c | ;
+27;;*3r;Paduwan;;;cittern;;C;[laaaaa2] l1 n | [laaaaa1] h [iaaaaa] l | [nfffff4] | [nfffff2] [laa] | [ihkh3] [lllll] | [haa2] f1 d |;
+28;;*3v;Paduwan;;;cittern;;C;[feca2] [feca] [feca] | [feca4] | [feca2] [dadaaa4] | [feca2] [gfaaa] f1 d [feca2] :||:;
+29;;*4r;Chipassa;;;cittern;;;c1 a2 [caca1] d c a [caca2] | [dadaa2] ,,,,c1 [caca2] ,,e ,,c ,,a | [caca2] [dcec] [fdfd] |;
+30;;*4v;Las mich Her dein;;;cittern;;C;[haaaaa2] [haaaaa] [haaaaa] | [haaaaa4] [haaaaa2] | [ifffff3] h1 [feha2] | [dcec2] [fdfd] [hfhf] | ;
+31;;*4v;Wie sol sein frölich;;;cittern;;C;[,hhhhh4] [,hhhhh2 | [,hhhhh2] [ifhf4] | [dbdb2] [dbdb] [,ddddd] | [,ddddd2] [,bab3] ,a1 ,,f [,aca2] :||:;
+32;;*5r;Intrada;;;cittern;;3;[ifffff3] [ifffff1] [daaaaa] f [haaaa] | [ifffff1] h f [daa] f [gaa] | [fdfd2] [dcfc] [baca3] a1 ,a |;
+33;;*5v;Es gingen drey heilige Frauen;;;cittern;;3;[daaaaa2] [daaaaa1] c d f | [kaaaaa2] > i [lhhhhh] > l [fdfd] | [hfhf3] f1 h i [lhhhhh3] i1 h ,h | ;
+34;;*5v;Heut triumphirett Gottes Sohn;;;cittern;;3;[daaaaa2] [daaaaa4] | [daaaaa2] [cdca4] | [daaaaa2] [fdfd4] | [gddddd2] [ifffff4] | [gddddd2] [gddddd] [lhhhhh] |;

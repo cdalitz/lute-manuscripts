@@ -1,0 +1,633 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+;;;SVPERIVS;;;;;;
+1;;I.0v;Passemezo Milanese;;;OT;;C;"[abd,a1] [abd/] ,a [,,d,a] ,,c [,,d,a] ,a | \
+[abd,a/] ,a ,b ,d [abd,a] d [c,,,a] a | \
+[,dba,d1] [,dba] [,dba,d] [,bd,a] |"
+2;;I.1v;Padoana Milanese;;;OT;;3;"[abd,a/] | [abd,a1] [abd/] | ,,,,a/4 ,,c ,,d ,a ,b ,d | \
+[abd,a/] d [c,,a] | [a,,,d/] [,d,,c] [,b,,a] | \
+[,aba,d1] [,aba/] |"
+3;;I.2v;Salterello Milanese;;;OT;;3;"[abd,a3/2] [abd/] ,,,c1 | [abd,a/] d c a ,d ,b | \
+[,ab,,d3/2] [,ab/] ,,,a1 | ,,,,,d/ ,,a ,,b ,,d ,a/4 ,b ,d ,a |"
+4;;I.3r;Passemezo de Zorzi;;;OT;ConcR842;C;"[acd,a1] [ad,a] [acd/] ,d | \
+[acd,a/] ,a/4 ,c ,d ,c ,a ,,d  [aac,,a1] [aac] | \
+,,,,,a1 c/ a ,,,,c [,ea] [a,c,e] ,,,,a |"
+5;;I.4r;Padoana de Zorsi;;;OT;ConcR1832;3;"[cd,a/] | [acd,a1] [acd/] | [acd,a/] ,d/4 ,c ,a ,,d | \
+[aac,,a1] [aacc/] | ,,,,,a/ c a | ,,,,c/ [,ea] [a,c,e] | \
+,,,,a/ [a,a,c] ,e |"
+6;;I.5r;Saltarello de Zorsi;;;OT;ConcR1833;3;"[cd,a1] | [acd,a3/2] [acd/] ,,,c1 | \
+[acd,a/] c/4 a c a ,d ,c ,d ,c ,a ,,d | \
+[aac,,a1] ,,,c/ ,,a ,,c/4 ,,a ,,c ,,d |"
+7;;I.5v;Passemezo della Rocca el Fuso;;;OT;ConcR210;C;"[acd,a2] [acd,a1] [,d,,c] | \
+[acd,a3/2] ,a/ [,,d,a1] ,d/4 ,c ,a ,c | \
+[,da,c/] ,c ,d a ,,,,e [,da] ,c ,a |"
+8;;I.6v;Padoana della Rocca el Fuso;;;OT;ConcR3071;3;"[acd,a/] | [acd,a1] [,d,,c/] | [acd,a1] [acd/] | \
+,,,,a/ ,d/4 ,c ,a ,c | \
+[,da,c/] c/4 a ,d ,c | ,a/4 ,,d ,a ,c ,d ,a |"
+9;;I.7v;Salterello della Rocca el Fuso;;;OT;ConcR1384;3;"[acd,a2] ,d/ a | [acd,a3/2] [acd/] ,,,c1 | \
+[acd,a1] [c,,a/] a/4 c d c a ,d | [acd,a3/2] [acd/] ,,,c1 |"
+10;;I.8v;Passemezo Commun;;;OT;;C;"[acd,a/] ,d [acd,a1] [acd/] ,a | \
+[,,b,a3/4] ,,c/4 [,,d,a/] ,a [acd,a] ,a ,c ,d | \
+[acd,a/] ,d [a,,,a] ,c [cd,a] ,c ,d a |"
+11;;I.10r;Padoana Commun;;;OT;;3;"[acd,a/] | [acd,a1] [acd/] | ,,,,a/4 ,,c ,,d ,a ,c ,d | \
+[acd,a/4] ,a ,,d ,,c ,,d ,a | ,c/4 ,d a c d a |"
+12;;I.11v;Salterello Commun;;;OT;;3;"[acd,a1] | [acd,a3/2] [acd/] ,,,c1 | \
+,,,,a/4 ,a ,c ,d a/ ,c ,d a | [cd,a3/2] [cd/] ,,d1 | \
+[cd,a/] d/4 c d c a ,d a ,d ,c ,a |"
+13;;I.12r;Passemezo Pauese;;;OT;;C;"[abb,d1] [abb,d] [abb/] ,d | \
+[abb,d/] ,a/4 ,b ,d ,b ,a ,,d [,aba,d1] [,aba] | \
+,,,,,d1 [abb,d] [,da,c] [,bd,a] |"
+14;;I.13r;Padoana Pauese;;;OT;;3;"[abb,d/] | [abb,d1] [abb/] | [abb,d/] ,d/4 ,b ,a ,,d | \
+[,aba,d1] [,aba/] | ,,,,,d1 [abb,d/] | [,da,c1] [,bd,a/] | \
+[,aba,d1] [,,da,c/] | [aac,,a1] ,,,c/ |"
+15;;I.14r;Salterello Pauese;;;OT;;3;"[ab,,d1] | [ab,,d3/2] [ab/] ,,,c1 | [ab,,d1] [,db,c] [,bd,a] | \
+[,ab,,d3/2] [,ab/] ,,,a1 | [,ab,,d1] ,,,a [ab,,d] | \
+[,da,c3/2] [,da/] [,bd,a1] | [,ab,,d1] [,,d,,c] ,,,a |"
+16;;I.15v;Passemezo de tu te parti Cor mio Caro;;;OT;ConcR1592;C;"[acd,a1] [acd,a] [acd] | \
+,,,,a1 [acd,a/] ,d [acd,a1] ,,,c/ [acd] | \
+[,da,c/] ,a/4 ,c ,d ,a ,c ,d [acd,a] ,a ,,d ,,c"
+17;;I.16v;Padoana de tu te parti Cor mio Caro;;;OT;;3;"[acd,a/] | [acd,a1] [acd/] | ,,,,a1 [acd,a/] | \
+[acd,a/] ,d [acd,a] | [,da,c/] ,c [,da,c] | \
+[acd,a/4] ,a ,,d ,,c ,,d ,a |"
+18;;I.17v;Salterello de tu te parti Cor mio Caro;;;OT;ConcR1463;3;"[cd,a1] | [acd,a3/2] [acd/] ,,,c1 | \
+[acd,a1] [,da,c/] ,a/4 ,c ,d ,a ,c ,d | \
+[acd,a1] ,,,c/ ,a ,c ,d |"
+19;;I.18r;Passemezo Io son Fontina;;;OT;;C;"[aac,,a1] [,,d,a] [aac,,a] | \
+[,,d,a1] [,aba,d] [abb,d/] ,a ,b ,d | \
+[abb,d/] c/4 a c a ,d ,b [,aba,d/] ,b [,d,,,d] ,a |"
+20;;I.18v;Padoana Io son Fantina;;;OT;;3;"[aac,,a/] | [,,d,a1] [aac,,a/] | [,,d,a1] [,aba,d/] | \
+[abb,d1] [abb/] | [abb,d/] ,d/4 ,b ,a ,,d | \
+[,aba,d/] ,,d [,aba,d] | [,bd,a/] ,d/4 ,b ,a ,,d |"
+21;;I.19r;Saltarello Io son Fontina;;;OT;;3;"[aac,,a1] [,,d,a] [,aba,d] | [abb,d/] ,a ,b ,d [abb,d1] | \
+[,aba,d1] [,ab] [,,da,c] | [aac,,a1] ,,,c [abb,d] | \
+[,da,c3/2] [,bd,a/] [aac,,a1] | [,,d,a3/2] ,,d/ ,,,c1 |"
+22;;I.19v;Passemezo della Bataglia;;;OT;;C;"[acd,a2] [acd,a1] [acd,a] | \
+[acd,a/] ,,c ,,d ,a [acd,a] ,d a ,c | [cdda/4] a c d f d a"
+23;;I.20v;Passemezo Francese;;;OT;;C;"[,aba,d2] [,aba,d1] [abb,d] | \
+[,aba,d/] ,,a ,,b ,,d [,aba,d] ,c [,d,,,d] ,a | \
+,,,a/ [cdd] [dabc] [abb,d] [a,d,a] ,c/4 ,a ,d ,c ,a ,c |"
+24;;I.21v;Padoana Francese;;;OT;;3;"[,aba,d/] | [,aba,d1] [abb,d/] | [,aba,d1] [,aba/] | \
+[,aba,d/] ,,d [,a,a,d] | [cdda1] [,da,c/] | \
+[,dba,d1] [acd,a/] | [cdda1] [cdd/] | \
+,,,a1 [dab,,d/] | [dab,,d/] c/4 d f d |"
+25;;I.22r;Saltarello Francese;;;OT;;3;"[,aba,d1] | [,aba,d3/2] [,ab/] ,,,a1 | \
+[abb,d1] [,aba,d] [,,da,c] | [,ab,,d1] ,,,a/ ,,a ,,b ,,d | \
+[,ab,,d/] ,,d [,a,,a] ,c ,d ,a |"
+26;;I.22v;Passemezo della Desperata;;;OT;ConcR1400;C;"[hd,f,d2] [hd,f,d1] [hd,f,d] | \
+[f,aa3/2] [d,,c/] [ca,,c1] [da,c] | \
+[f,aa1] [ha,f] [da,c/] a/4 c d a c d | \
+[ca,,c/] ,,a [ca] ,,,,c [ca,,c2] |"
+27;;I.24r;Padoana Desperata;;;OT;;3;"[hd,f,d/] | [hd,f,d1] [hd,f/] | ,,,,,d/ [hd,f] [f,aa] | \
+[da,c/] ,,,c [da,c] | [f,aa1] [ha,f/] | [f,aa/] e [f,aa] | \
+[da,c/] a/4 c d a |"
+28;;I.24v;Saltarello della Desperata;;;OT;ConcR1604;3;"[hd,f,d3/2] [hd/] ,,,f1 | [hd,,,d1] ,,,f [hd,,,d] | \
+[f,aa2] [da,c1] | [ca,,c2] [da,c1] | [f,aa2] [ha,f1] | \
+[da,c/] c a c d a |"
+29;;I.25v;Passemezo Il e Iur;;;OT;;C;"[abd,a2] [abd,a1] [,aba,d] | [abb,d2] [abb,d1] [,dba,d] | \
+[abd,a1] [aac,,a] [abd,a/] ,a/4 ,b ,d ,b ,a ,,d | \
+[aac,,a/] ,,a ,,c ,,d"
+30;;I.26v;Passemezo della Duchessa;;;OT;;C;"[cdda/] d [fdaa2] | [fdaa/] c [d,,a] f [dab,,d1] [cdda] | \
+[abb,d1] [,dba,d] ,,,,a/ [abd] [,da,c] [,aba,d] | \
+[acd,a/] ,d/4 ,c"
+31;;I.27v;Padoana della Duchessa;;;OT;;3;"[cdda/] | [cdda1] [cdd/] | [cdda/] d/4 c a c | \
+[dab,,d/] [cdda1] | [abb,d1] [,da,c/] | ,,,,a/ [acd] [,da,c] | \
+[acd,a/] ,d/4 ,c ,a ,c |"
+32;;I.28r;Saltarello della Duchessa;;;OT;ConcR1593;3;"[cdda1] | [cdda3/2] [cd/] ,,d1 | [cd,a/] a c ,d a c | \
+[dab,,d1] [dab] [cdda] | [abb,d1] a [,da,c] | \
+,,,,a1 [acd] [,da,c] |"
+33;;I.29r;Passemezo Vngaro;;;OT;ConcR1607;C;"[dab,,d1] [cd,a] ,,d | [cd,a1] [dab,,d] [ab,,d] ,,b | \
+[ab,,d1] [dabc] [cdda] [dabc] | [abb,d1] [cdda] [dab,,d] ,,,a | \
+,,,,,d1 [dab,,d] [cd,a/] ,c ,d a |"
+34;;I.30v;Saltarello Vngaro;;;OT;;3;"[dab,,d1] | [cd,a1] ,,d/ a c d | [cdda1] a/ c [dabc1] | \
+[ab,,d1] ,,b/ ,a ,b ,d | [ab,,d/] ,d a c [dabc1] |"
+35;;I.31r;Passemezo della Passionata;;;OT;;C;"[,aba,d1] [,aba,d] ,,d | [,aba,d1] [,,da,c] [aac,,a] ,,,c | \
+,,,,,a1 [,aba,d] [,aba,d] [,aba/] ,,d | \
+[,aba,d/] ,,,,,a [,,d,,c] ,,,b [aac,,a] ,,,c [aac] ,,d |"
+36;;I.31v;Padoana della Passionata;;;OT;;3;"[,aba,d/] | [,aba,d/] ,,d [,aba,d] | \
+[,b,,a/] ,a [,,d,a] | [aac,,a1] [aac/] | \
+,,,,,a1 [,aba,d/] | [,aba,d/] ,b [,aba,d] | \
+[,b,,a/] ,d/4 ,b ,a ,,d |"
+37;;I.32r;Saltarello della Passionata;;;OT;;3;"[,aba,d1] | [,ab,,d3/2] [,ab/] ,,,a1 | \
+[,ab,,d1] [,,d,,c] ,,,b | [aac,,a3/2] [aac/] ,,,c1 | \
+[aac,,a1] ,,,c [,ab,,d] | [,ab,,d/] ,,a ,,b ,,d ,a ,,b |"
+38;;I.32v;Paduana Sant Erculano;;;OT;ConcR1595;3;"[acd,a/] | [acd,a/] [acd] [acd] | [acd,a1] [acd,a/] | \
+,,,a/4 ,c ,d a c ,d | a/4 c e a c e |"
+39;;I.33v;Padoana gentil Madonna;;;OT;;3;"[aac,,a/] | [aac,,a/] ,,d [aac] | [aac,,a1] [aac,,a/] | \
+[,,d,a1] [aac,,a/] | [,,d,a1] [,aba,d/] | \
+[abb,d1] [abb/] | ,,,,d/ [abb] [,d,,c] | \
+[abb,d/] c/4 a ,d ,b |"
+40;;I.34v;La Caracossa;;;OT;ConcR202;3;"[aac,,a1] [aac] [aac,,a] | [aac,,a1] [aac/] ,,d ,,,,,a [aac] | \
+[,,d,a/] ,,c [,,d,a] ,a [,b,,a] ,,d | \
+[,aba,d1] [,aba/] ,,d ,,,,,d [,aba] |"
+41;;I.35v;Tocca Tocca la Canella;;;OT;ConcR1462;C;"[abb,d1] [abb] [abb,d2] | [abb1] [abb,d2] [abb,d1] | \
+[,aba,d2] [,aba1] ,,,,,d | [,dba,d1] [,aba] [,b,,a/] ,d ,b ,a | \
+,,d/ ,,c ,,d1"
+42;;I.36r;Saltarello Dasala vn tratto;;;OT;;3;"[acd,a1] [acd] [acd,a] | [acd,a3/2] [acd/] ,,,c1 | \
+,,,,a/4 ,a ,c ,d a/ ,d ,c ,a | [acd,a3/2] [acd/] ,,,c1 |"
+43;;I.36v;Saltarello La inspirita;;;OT;;3;"[,aba,d1] | [,ab,,d3/2] [,ab/] ,,,a1 | \
+,,,,,d/4 ,,a ,,b ,,d ,a/ ,,d ,,b ,,a | \
+[,ab,,d3/2] [,ab/] ,,,a1 | [,aba,d1] [,aba] [abb,d] |"
+44;;I.37v;Saltarello Marchese de Saluso;;;OT;ConcR1460;C;"[abd,a1] [aac,,a] [,,d,a3/2] ,a/ | [,bd,a1] [,dba,d2] [bd,a1] | \
+[aac,,a2] [aac1] ,,,,,a | [,bd,a/] ,a ,b/4 ,a ,b ,d | \
+[aabc3/2] c/ [aabc1] [,ea,c3/2] |"
+45;;I.38v;Saltarello La barcha del mio amore;;;OT;ConcR1450;3;"[acd,a1] | [acd,a3/2] [acd/] ,,,c1 | \
+[acd,a1] [,da,c] ,,c | [acd,a3/2] [acde/] ,,,c1 | \
+[acd,a1] ,,,c [,da,c] | [,c,,a/] ,d ,c ,a ,,d ,,c |"
+46;;I.39r;Saltarello Quadrellino;;;OT;;3;"[acd,a1] [acd] [cdda] | [acd,a2] [cd,a1] | \
+[,aba,d2] [,dba,d1] | [,c,,a/] ,d ,c ,a ,,d ,,c | \
+[,,d,,c1] [aac,,a/] ,,a ,,d ,,c |"
+47;;I.40r;Saltarello della Lauandara;;;OT;ConcR1452;3;"[acd,a3/2] [acd/] ,,,c1 | ,,,,a/4 ,a ,c ,d a/ ,c ,d a | \
+[cdda2] [acd,a1] | [,da,c2] [acd,a1] | \
+[aac,,a1] ,,,c/ ,,a ,,c ,,d |"
+48;;I.40v;Saltarello La Caualletta;;;OT;;3;"[,,d,a1] [aac,,a] [,,d,a] | [aac,,a1] [,,d,a] [,aba,d] | \
+[,,d,a2] [aac,,a1] | [,,d,a2] [fc,a1] | \
+[ea,,,a1] [fc,,a] [ea,,,a] | [fc,,a2] [hd,f,d1] | \
+[fc,,a1] [ea,,,a/] f/4 e"
+49;;I.41r;Saltarello della Traditora;;;OT;ConcR1563;3;"[,,d,a/] ,,c ,,d ,a ,b/4 ,a ,b ,d | \
+[a,,,d1] [ab/] [ab] [,d,,c1] | [,bd,a1] [,aba,d] [,,da,c] | \
+[aac,,a1] ,,,c ,,,,,a |"
+50;;I.42r;Saltarello Mezanotte;;;OT;ConcR1594;3;",,d/ ,a [,b,,a1] [,aba,d] | \
+[,,da,c3/2] ,b/ [,aba,d1] | \
+[,,da,c1] [aacf,,a/] ,,d/4 ,,c ,,d ,,c ,,a ,,c | \
+[,,d,a3/2] ,,d/ ,,,c1 |"
+51;;I.42v;Saltarello il traditora;;;OT;;3;"[cdda1] | [cdda1] [cdd/] [cdd] [cdd1] | \
+[,d,a/] ,c ,d a c/4 a c d | [cd,a3/2] [cd/] ,,d1 | \
+[cd,a1] [da,c] [cd,a] |"
+52;;I.43v;Saltarello Dolce bocha basarella;;;OT;;3;"[aac,,a1] ,,,c [aac] | [aac,,a/] ,,a ,,c ,,d [aac,,a1] | \
+[,,d,,c1] [aac,,a/] ,,d/4 ,,c ,,d ,,c ,,a ,,c | \
+[,,d,a3/2] ,,d/ ,,,c1 |"
+53;;I.44r;Saltarello Il Molinare;;;OT;;3;"[acd,a1] | [acd,a3/2] [acd/] ,,,c1 | [acd,a1] [,d,,c] [acd,a] | \
+[cd,a1] [cd/] a c/4 a c d | [cd,a1] [cd] [,aba,d] | \
+[,aba,d1] [,aba/] ,c [,dba,d1] |"
+54;;I.44v;Saltarello del Re;;;OT;ConcR1465;3;"[aac,,a1] | [,,d,a3/2] ,a/ [,bd,a1] | \
+[,aba,d1] [,,d,,c/] ,,a/4 ,,c ,,d ,,a ,,c ,,d | \
+[aac,,a1] ,,,c/ ,,d ,,c ,,a | [aac,,a1] ,,,c ,,,,,a/ [aac] |"
+55;;I.45r;Passemezo de Mistro Rigo;;;OT;;C;"[acd,a1] [acd,a] [cdda] [cdda] | \
+[aac,,a1] [aac,,a] [,,d,a] ,,,c | \
+[acd,a/] ,d [a,,,a] ,c [c,,a] a [,d,a] ,c | \
+[aac,,a/] ,,d [,a,,,a] ,,c"
+56;;I.45v;Padoana - Force de Hercules;;;OT;ConcR1249;C;"[,,d,a3/4] ,a/4 [,b,,a/] ,,d [,aba,d1] [,aba/] ,,d | \
+[,,d,a/] ,a [,b,,a] ,,d [aac,,a1] [aac/] ,,,,,a | \
+[,,d,a/4] ,,c ,,d ,a"
+57;;I.46r;Padoana della Zoppa;;;OT;;3;"[,aba,d/] | [,aba,d1] [,aba/] | ,,,,,d1 [,aba,d/] | \
+[,aba,d/] ,,d [,aba,d] | [,bd,a/] ,d/4 ,b ,a ,,d | \
+[,aba,d1] [,aba/] | ,,,,,d/4 ,,a ,,b ,,d ,a ,b |"
+58;;I.47r;Saltarello della Zoppa;;;OT;;3;"[,aba,d1] | [,ab,,d3/2] [,ab/] ,,,a1 | \
+[,ab,,d1] [abb,d] [abb] | [,ab,,d1] ,,,a/ ,,a ,,b ,,d | \
+[,ab,,d1] ,,,a [,ab,,d] | ,,,,,d/4 ,,a ,,b ,,d"
+59;;I.47v;Saltarello Piscatore;;;OT;;3;"[aac,,a2] [aac,,a1] | [acd,a2] [acd1] | ,a/ ,c ,d1 [aac,,a] | \
+[acd,a3/2] [acd/] ,,,c1 | ,,,,,a/4 ,,a ,,c ,,d ,a/ ,c ,d ,a |"
+60;;I.48r;La pistrinara;;Pistrinara = Mugniaia = Miller's wife;OT;;3;"a/ c | [dab,,d3/2] [dab/] ,,,a1 | [dab,,d1] [cdda] [abb,d] | \
+[,dda3/2] a/ ,d ,b | [,ab,,d1] ,,,a ,b/ ,d | \
+[abb,d1] [abb] [,da,c] |"
+61;;I.48v;Saltarello della Inamorato;;;OT;;3;",b/ ,d | [ab,,d1] ,,b/ ,d ,b ,a | [,db,,d1] ,,,a/ ,b [,aba,d1] | \
+[,,da,c1] [aac,,a/] ,,d/4 ,,c ,,d ,,c ,,a ,,c |"
+62;;I.49r;Padoana della Bella Franchischina;;;OT;Conc_4432;3;"[acd,a/] | [acd,a3/2] | [acd3/2] | [acd,a3/2] | [cdda3/2] | \
+[,acda3/2] | [acd1] [acd,a/] | [acd,a1] [acd/] | \
+[acd,a1] [cddc/] | [acd,a1] [acd,a/] | [,da,c1] [acd,a/] |"
+63;;I.49v;Saltarello Il Berdardum;;;OT;;3;"[cd,a2] [cd,a1] | [cdda2] [cdda2] [aac,,a1] [aac] | \
+[acd,a3/2] [acd/] ,,,c1 | [acd,a/] ,d a ,c ,d a | \
+[c,,a/] a ,d ,c ,a ,,d |"
+64;;I.50r;La Commandrina;;;OT;;3;"[abb,d1] | [abb,d1] [abb/] [abb] [abb1] | \
+[abb,d1] [abb,d] [,da,c] | [,bd,a/] ,d ,b ,a ,,d ,a | \
+[,bd,a1] [ab,,d] [,,d,,c] | [aac,,a1] ,,,c/ ,,a [,bd,a1] |"
+65;;I.50v;Padoana Bernardo non puo stare;;;OT;;3;"[fc,,a/] | [fc,,a1] [fc/] | [fc,,a/] e [fc,,a] | \
+[e,,,,a1] [ea/] | [ea,,,a/] c [ea,,,a] | \
+,,,,c/ [,ea] [ea,,,a] | ,,,,a/ [a,a,c] ,e | \
+[aac,,,a1] [aacc/] |"
+66;;I.51r;Saltarello Bernardo non puo stare;;;OT;;3;"[fc,,a1] | [fc,,a3/2] [fc/] ,,d1 | [fc,,a/] e c e f c | \
+[ea,,,a/] c e c a ,e | [aa,,,a/] ,e a c e a |"
+;;;Sequuntur Carmina alterius Authoris;;;;;;
+67;;I.51v;Cremonesa Gaiarda;;;OT;;3;"[acd,a3/2] [acd/] ,,,c1 | [acd,a/] ,,c ,,d ,a ,c ,d | \
+[acd,a1] ,,,c [acd,a] | [acd,a/] c d c a ,d |"
+68;;I.52v;Saltarello Madonna Zohanna;;;OT;;3;"[,cdca2] [aacc1] | [acd,a/4] ,a ,,d ,,c ,,d ,a ,c ,d [acd,a1] | \
+,d/ a [cdda] a/4 c d c a ,d |"
+69;;I.53r;Gaiarda Viaerae;;;OT;;3;"[,,dca1] [,,dca/] ,,a/4 ,,c ,,d ,a ,b ,d | \
+[abb,d/4] ,a ,,d ,,c ,,d ,a ,b ,d [abb,d1] |"
+70;;I.53v;El Burato;;;OT;ConcR1454;3;"[acd,a1] [acd] [acd,a] | [acd,a1] ,,,c [acd,a] | \
+[cdda/] [a,,,e] [,d,,c] [,c,,a] [,a,,,e] [,,d,,c] | \
+[,acc,a1] [,acc] [,acc,a] | \
+[acd,a/] ,,,,,e ,,,,a ,,,,c ,,,e ,,,a |"
+71;;I.54r;Saltarello Tintorella;;;OT;;3;"[,acc,a1] [,bdca/] ,a ,b ,d | [abb,d/] b a ,d [abb,d1] | \
+[,dba,d/4] a b d b a ,d ,b ,a ,,d ,,c ,,a |"
+72;;I.54v;La Mesongere;;;OT;;3;"[,bdca/] ,a/4 ,b ,d ,b ,a ,,d ,,c ,,a ,,,c ,,a | \
+,,c/4 ,,d ,a ,c [,dba,d1] ,a/4 ,b ,d ,a |"
+;;;TENOR;;;;;;
+73;;II.0v;Passemezo Milanese;;;OT;;C;"[bdda1] [bdd/] a [,dda1] [acd,a] | \
+[bdda1] [f,dd/] [dbbc] [bdda] a/4 b d b a ,d | \
+[abb,d/] ,a ,b ,d"
+74;;II.1v;Padoana Milanese;;;OT;;3;"[bdda/] | [bdda1] [,dd/] | ,,,a/4 ,c ,d a b ,d | \
+[,dda/] f [dabc] | [bdda/] [abb,d] [,da,c] | \
+[abb,d1] [abb/] | ,,,,d/ [abb] [,da,c] |"
+75;;II.2v;Salterello Milanese;;;OT;;3;"[bdda3/2] [bd/] ,,d1 | [bdda/] a d b a ,d | \
+[abb,d1] ,,d/ ,a ,b ,d | [abb,d/] ,d a b d a |"
+76;;II.3r;Passemezo Commun;;;OT;;C;"[cdda/] d [cdda1] [cdd/] a | \
+[,dda/] ,c [,d,a] a [cdda/4] a ,d ,c ,d a c d |"
+77;;II.4r;Padoana Commune;;;OT;;3;"[cdda/] | [cdda1] [cdd/] | ,,,a/4 ,c ,d a c d | \
+[fdaa1] [dabc/] | [cdda/] d/4 c a c | [dab,,d/] c/4 a c a |"
+78;;II.5r;Salterello Commun;;;OT;;3;"[cdda1] | [cdda3/2] [cdd/] ,,,a1 | \
+,,,a/4 a c d f d c a ,d ,b ,a ,,d | \
+[,ab,,d3/2] [,ab/] ,,,a1 |"
+79;;II.5v;Passemezo de Zorzi;;;OT;ConcR842;C;"[cdda1] [cdda] [cdd/] d | \
+[cdda/] a/4 c d c a ,d [acd,a/] ,a/4 ,c ,d a c d |"
+80;;II.6r;Padoana de Zorzi;;;OT;ConcR1832;3;"[cdda/] | [cdda/] d/4 c d c | a/4 ,d a ,d ,c ,a | \
+[acd,a/4] ,a ,,d ,,c ,,d ,a |"
+81;;II.6v;Saltarello de Zorzi;;;OT;ConcR1833;3;"[cdda1] | [cdda3/2] [cdd/] ,,,a1 | \
+[cdda/] d/4 c d c a ,d a ,d ,c ,a | [acd,a1] ,,,c/ ,a"
+82;;II.7r;Passemezo della Rocca el Fuso;;;OT;ConcR210;C;"[fdda2] [fdda1] [dabc] | \
+[cdda/4] a ,d ,c ,d a c d [cdda/] f d c | \
+[dabc/] ,,,a ,,,,d ,,,,c"
+83;;II.8r;Padoana della Rocca el Fuso;;;OT;;3;"[fdda/] | [fdaa1] [dabc/] | [cdda1] [cdd/] | \
+,,,a/ d/4 c a c | [da,c/] c/4 d f d | c/4 a ,d ,c ,d a |"
+84;;II.9v;Salterello della Rocca el Fuso;;;OT;ConcR1384;3;"[fdaa2] [dabc1] | [cdda3/2] [cd/] ,,d1 | \
+a/ c [dabc] c/4 d f d c a | [cd,a1] ,,d/ a c d |"
+85;;II.10v;Passemezo Pauese;;;OT;ConcR3071;C;"[bbd2] [bbd1] [bbd/] ,,,,,d | \
+[bbd,,b/] a/4 b d b a ,d [abb,d] ,a ,,d ,,b ,,d ,a ,b ,d |"
+86;;II.11v;Padoana Pauese;;;OT;;3;"[bb,d/] | [bb,d] d/4 b d b | a/4 ,d a ,d ,b ,a | \
+[aab,d1] [abb/] | ,,,,d1 [f,dd/] | ,,,c/ [d,b] [b,dd] |"
+87;;II.12v;Salterello Pauese;;;OT;;3;"[bbd,,b1] | [bbd,,b3/2] [bbd/] ,,,d1 | \
+[bbd,,b/] a/4 b d b a b d b a ,d | \
+[abb,d3/2] [abb/] ,,,c1 |"
+88;;II.13v;Passemezo de tu te parti Core mio Caro;;;OT;;C;[cdda1] | [cdda/4] a ,d ,c ,d a c d f d c a ,d ,c ,d a |
+89;;II.14r;Padoana;;;OT;;3;"[cd,a/] | [cd,a1] [cd/] | ,,,a/4 ,c ,d a c d | \
+[f,,a/] d [f,,a] | [da,c/] a/4 c d a |"
+90;;II.14v;Salterello de tu te parti Core mio Caro;;;OT;ConcR1463;3;"[cdda1] | [cdda3/2] [cd/] ,,d1 | \
+[cd,a1] [da,c/] a/4 c d a c d | \
+[cd,a1] ,,d/ a c/4 a c d |"
+91;;II.15r;Passemezo Io son Fantina;;;OT;;C;"[acd,a1] [,d,a/] ,c/4 ,a [acd,a/] [acd,a] | \
+[,d,a1] [abb,d] [bb,d/4] a ,d ,b ,d a b d | [bb,d/] d/4 b"
+92;;II.15v;Padoana Io son Fantina;;;OT;;3;"[acd,a/] | ,,,a/4 ,c ,d a b ,d | \
+a/4 b d a b/8 a b d | [f,dd1] [f,d/] | [f,dd/] f [bd,a] |"
+93;;II.16r;Saltarello Io son Fontina;;;OT;;3;"[acd,a1] [,d,,c] [abb,d] | [bb,d/] a b d [bb,d1] | \
+[abb,d1] [abb] [,aba,d] | [acd,a1] ,,,c [bb,d] | \
+[abb,d1] [,da,c] [acd,a] |"
+94;;II.16v;Passemezo della Bataglia;;;OT;;C;"[fdaa2] [fdaa1] [fdaa] | \
+[cdda/4] a c d f d c a [c,da/] ,d a c | \
+[dab,,d2] [dab,,d1] [cdda] |"
+95;;II.17r;Passemezo Franchese;;;OT;;C;"[dbb,d2] [dbb,d1] [bb,d] | \
+[abb,d/4] ,a ,,d ,,b ,,d ,a ,b ,d [abb,d/] d [b,,,d] a | \
+[,dba,d1] [dabc] [cdda/] d/4 c"
+96;;II.17v;Padoana Francese;;;OT;;3;"[dbb,d/] | [dbb,d1] [bb,d/] | [abb,d3/2] | \
+[abb1] [abb,d/] | [,dba,d1] [dabc/] | \
+[cdda/] d/4 c a c | [dab,,d1] [dab/] | ,,,,,d1 [dbb,d/] |"
+97;;II.18r;Saltarello;;;OT;;3;"[dbb,d1] | [dbb,d3/2] [dbb/] ,,,c1 | \
+[bb,d1] [abb,d] [,da,c] | [abb,d1] ,,,c/ ,a ,b ,d | \
+[abb,d/] ,d a c d a |"
+98;;II.18v;Passemezo della Desperata;;;OT;ConcR1400;C;"[abb,d2] [abb,d1] [abb,d] | \
+[,dba,d3/2] [,bdca/] [aac,,a1] [,bd,a] | \
+[,aba,d1] [abb,d] [,bdca/] ,a/4 ,b ,d ,b ,a ,,d | \
+[aac,,a/] ,,,c [aac] ,,d [aac,,a2] |"
+99;;II.19v;Padoana Desperata;;;OT;;3;"[abb,d/] | [abb,d1] [abb/] | ,,,,d/ [abb] [,dba,d] | \
+[,bd,a/] ,d [,bd,a] | [,dba,d1] [abb,d/] | \
+[,dba,d/] ,b [,aba,d] | [,bd,a/] ,d/4 ,b ,a ,,d |"
+100;;II.20r;Saltarello della Desperata;;;OT;ConcR1604;3;"[abb,d3/2] [ab/] ,,b1 | [abb,d1] [abb] [abb,d] | \
+[,dba,d2] [,bdca1] | [aac,,a2] [,bdca1] | \
+[,dba,d2] [abb,d1] | [,bdca1] ,d/ ,b ,a ,,d | \
+[aac,,a3/2] [aac/] ,,,c1 |"
+101;;II.21r;Passemezo Il est Iour;;;OT;;C;"[,dda2] [,ddas1] [abb,d] | [bbd,,b2] [bbd,,b1] [abb,d] | \
+[,dda/] ,c/4 ,a [acd,a/] ,d/4 ,c [,dda/] a/4 b d b a ,d |"
+102;;II.21v;Passemezo della Duchessa;;;OT;ConcR1547;C;"[,aba,d/] ,b [,dba,d2] | \
+[,dba,d/] ,a [,bd,,b] ,d [a,b,,d3/2] ,d/ | \
+[,bdd,b1] [,ab,,d] ,,,a/ [,dd] [,,bc] ,,,,d | \
+,,,a/ [,,bc] ,,,a [,dd]"
+103;;II.22r;Padoana della Duchessa;;;OT;;3;"[dab,,d/] | [dab,,d1] [dab/] | [dab,,d1] [cdda/] | \
+[abb,d1] [,dba,d/] | [,bd,a/4] ,d ,b ,a ,,d ,,b | \
+,,,a/ ,,d [,,bc] | [,,da/] [,,bc] [,,da] |"
+104;;II.22v;Saltarello della Duchessa;;;OT;ConcR1593;3;"[dab,,d1] | [ab,,d3/2] [dab/] ,,,a1 | \
+[dab,,d1] [dab] [cdda] | [ab,,d1] ,,b [,d,,c] | \
+[,bd,,b1] ,,,d [,aba,d] | ,,,a1 [,dd] [,,bc] | \
+,,,,d1 ,,,a [,dd] |"
+105;;II.23r;Passemezo Vngaro;;;OT;ConcR1607;C;"[abb,d1] [,db,,d] ,,,a | [,db,,d1] [abb,d] [bbd,,b] ,,,d | \
+[bbd,,b1] [abb,d] [,dba,d] [abb,d] | \
+[bbd,,b1] [,aba,d] [abb,d] ,,,c | ,,,,d1 :||:"
+106;;II.23v;Saltarello Vngaro;;;OT;;3;"[aba,d1] | [,aba,d/] ,,a ,,b ,,d ,a ,b | \
+[,aba,d1] ,b/ ,d [abb,d1] | [bbd,,b3/2] [bbd/] ,,,d1 | \
+[bbd,,b1] ,,,d [abb,d] |"
+107;;II.24r;Passemezo della Passionata;;;OT;;C;"[abb,d1] [abb,d3/2] ,d/ | \
+[abb,d1] [,aba,d] [acd,a/4] ,a ,,d ,,c ,,d ,a ,c ,d | \
+[acd,a/4] ,a ,,d ,,c ,,d ,a"
+108;;II.24v;Padoana;;;OT;;3;"[abb,d/] | [abb,d/] ,d [abb,d] | [,da,c/] ,,,,a [,da,c] | \
+[acd,a1] ,,,c/ | ,,,,a1 [abb,d/] | ,,,,d/4 ,a ,b ,d a b |"
+109;;II.25r;Saltarello;;;OT;;3;"[abb,d1] | [abb,d3/2] [abb/] ,,,c1 | [abb,d1] [,da,c] [,,cc] | \
+[acd,a3/2] [acd/] ,,,c1 | [acd,a1] ,,,c [abb,d] | \
+,,,,d/4 ,a ,b ,d ,b/ ,d ,b ,a |"
+110;;II.25v;Paduana Santo Erculano;;;OT;ConcR1595;3;"[cdda/] | [cdda/4] a ,d ,c ,d a | c/4 d f d c a | \
+[cdda/] d [cdda] | [da,c/] c [da,c] |"
+111;;II.26v;Padoana gentil Madonna;;;OT;;3;"[acd,a/] | [acd,a1] ,,,c [acd,a] | [acd,a1] [acd,a/] | \
+,,,a/4 ,c ,d a b ,d | a/4 b d a b/8 a b d |"
+112;;II.27v;La Caracossa;;;OT;ConcR202;3;"[acd,a1] [acd] [acd,a] | [acd,a1] [acd/] ,d ,,,,a [acd] | \
+,,,a/4 ,cf ,d a b a ,d ,b ,d a b ,d |"
+113;;II.28v;Tocca Tocca la Canella;;;OT;ConcR1462;C;"[fbdd1] [fbd] [fbdd2] | [fbd1] [fbdd1] d/ b a ,d | \
+[ab,,d1] ,,b/ ,a ,b ,d [abb,d] ,d | a/ b d a"
+114;;II.29r;Saltarello Basala vng tratto;;;OT;;3;"[cdda1] [cdd] [dab,,d] | [c,da3/2] [cd/] ,,,d1 | \
+,,,a/4 a c d f d c a ,d ,c ,d a |"
+115;;II.29v;Saltarello La inspirita;;;OT;;3;"[ab,,d1] | [ab,,d3/2] [ab/] ,,b1 | \
+,,,,d/4 ,a ,b ,d a c d c d c a ,d | \
+[ab,,d3/2] [ab/] ,,b1 |"
+116;;II.30r;Saltarello Marchese de Saluso;;;OT;ConcR1460;C;"[bdda1] [acd,a] [,dda3/2] a/ | [bdda1] [bb,d2] [bdda1] | \
+[acd,a2] [acd1] ,,,,a | [bdda/] a b/4 a b d | [fc,,a/] e c e"
+117;;II.30v;Saltarello La barcha del mio amore;;;OT;ConcR1450;3;"[cd,a1] | [cd,a3/2] [cd/] ,,d1 | \
+[f,,a/] e/4 f h f d c a c d a | \
+[cd,a1] ,,d/ a c/4 a c d |"
+118;;II.31r;Saltarello Quadrellino;;;OT;;3;"[cdda2] [cdda] [dab,,d] | [cdda2] [cdda1] | \
+[abb,d2] [dbb,d1] | [,dda/] d c a ,d ,c | \
+[,d,,c1] [acd,a/] ,d/4 ,c ,d ,c ,a ,c |"
+119;;II.32r;Saltarello della Lauandara;;;OT;ConcR1452;3;"[cd,a3/2] [cd/] ,,d1 | [cd,a/4] a ,d ,c ,d a c d f c d f | \
+[dab,,d/] a/4 c"
+120;;II.32v;Saltarello La Caualletta;;;OT;;3;"[,dda1] [acd,a] [,dda] | [acd,a1] [,dda] [abb,d] | \
+[,dda2] [acd,a1] | [,dda2] [,dda1] | [acd,a1] [,dda] [acd,a] | \
+[,dda2] [abb,d1] | [,dda1] [acd,a/] ,a ,d ,c |"
+121;;II.33r;Saltarello della Traditora;;;OT;ConcR1563;3;[,d,a/4] ,c ,d a ,b ,d a b d a b d | [f,,a/] e/4 f h f d b
+122;;II.34r;Mezanotte;;;OT;ConcR1594;3;",d/ a [bb,d1] [abb,d] | [,dda/] a/4 b d b a ,d [abb,d1] | \
+[,dba,d1] [acd,a/] ,d/4 ,c ,d ,c ,a ,c |"
+123;;II.34v;Il traditora;;;OT;;3;"[,aba,d1] | [,aba,d1] [,aba/] [,aba] [,aba,d1] | \
+,,,,,d/4 ,,a ,,b ,,d ,a ,b ,d ,b ,d ,b ,a ,,d |"
+124;;II.35v;Saltarello Dolce bocha basarella;;;OT;;3;"[acd,a1] ,,,c [acd,a] | ,,,,a/4 ,a ,c ,d a c d c a ,d ,c ,a | \
+,,,,a/4 ,a ,c ,d"
+125;;II.36r;Saltarello Il Molinare;;;OT;;3;"[cd,a1] | [cd,a3/2] [cd/] ,,d1 | \
+,,,a/4 a c d f d c a ,d ,c ,a ,,d | ,,,,,d/4 ,,a ,,b ,,d"
+126;;II.36v;Saltarello del Re;;;OT;ConcR1465;3;"[acd,a1] | [,d,a/] ,c ,d a b/4 a b d | \
+[b,,a/] d/4 b d b a ,d a ,d ,c ,a |"
+127;;II.37v;Passemezo de Mistro Rigo;;;OT;;C;"[cdda1] [cdda] [dab,,d] [dab/] ,,,,,d | \
+[acd,a/] ,d [a,,,a] ,c [,d,a1] ,,d | \
+,,,a/4 a c d c a ,d ,b"
+128;;II.38r;Padoana - Force de Hercules;;;OT;ConcR1249;C;"[,d,a/] a [b,,a] ,d [ab,,d] ,a ,b ,d | \
+[a,,,d/] b d a [,d,a] ,c ,d a | ,,,a/ b a ,d"
+129;;II.38v;Padoana della Zoppa;;;OT;;3;"[abb,d/] | ,,,,d/4 ,a ,b ,d a b | \
+d/4 b d b a ,d | [abb,d/] ,,d/4 ,,b ,,d ,a |"
+130;;II.39v;Saltarello della Zoppa;;;OT;;3;"[ab,,d1] | [ab,,d3/2] [ab/] ,,b1 | \
+[ab,,d1] [b,,a/] a/4 b d b a ,d | \
+[ab,,d1] ,,b/ ,a ,b/4 ,a ,b ,d |"
+131;;II.40r;Saltarelle Piscatore;;;OT;;3;"[acd,a2] [acd,a1] | [cdda2] [cdd1] | \
+a/ c [da,c1] [acd,a] | [cd,a3/2] [cd/] ,,d1 | \
+[acd,a/] ,a ,c ,d [acd,a1] | [cdda/] a c d [cdda1] |"
+132;;II.40v;La pistrinara;;;OT;;3;"[ab,,d1] | [ab,,d3/2] [ab/] ,,b1 | \
+[ab,,d/] b/4 a b a ,d ,b ,d ,b ,a ,,d | ,,,,,d/4 ,,a ,,b ,,d"
+133;;II.41r;Saltarello La Inamorato;;;OT;;3;"b/4 a b d | [fb,d1] ,,d/ d b a | [db,,d1] [db/] b ,,,,d [ab] | \
+[,da,c/] [,aba,d] [acd,a] ,d/4 ,c"
+134;;II.41v;Padoana della Bella Franchischina;;;OT;Conc_4432;3;"[cdda/] | [cdda3/2] | [cdd3/2] | [cdda3/2] | \
+[dab,,d3/2] | [cdda3/2] | [cdd1] [cdda/] | [cdda1] [cdd/] | \
+[cdda1] [dab,,d/] | [cdda1] [cdda/] | [dabc1] [cdda/] |"
+135;;II.42r;Saltarello Il Berdardum;;;OT;;3;"[cdda2] [cdda1] | [dab,,d2] [dab,,d] [acd,a1] [acd] | \
+[cd,a3/2] [cd/] ,,d1 | [cd,a1] ,,d [cd,a] | \
+[dab,,d1] ,,,a [dab,,d] | [acd,a1] ,,,c [acd,a] |"
+136;;II.42v;Saltarello La Commandrina;;;OT;;3;"[fbdd1] | [fbdd1] [fbd/] [fbd] [fbd1] | \
+[fbdd1] [fbdd] [dabc] | [bd,a/] a/4 ,d ,b ,d a b f d b a |"
+137;;II.43r;Padoana Bernardo non puo stare;;;OT;;3;"[cdda/] | [cdda/] d/4 c d c | a/4 ,d a ,d ,c ,a | \
+[acd,a/] ,d/4 ,c ,d ,c |"
+138;;II.43v;Saltarello Bernardo non puo stare;;;OT;;3;"[cdda1] | [cd,a1] ,,d/ a c/4 a c d | \
+[cdda/] d/4 c d c a ,d a ,d ,c ,a |"
+139;;II.44r;La Cremonesa Gaiarda;;;OT;;3;"[cdda3/2] [cd/] ,,d1 | [cdda1] [dabc] [acd,a] | \
+[cdda3/2] [cd/] ,,d1 | [fdda1] [dabc] [acd,a] | \
+[cdda/] d c a ,d ,c |"
+140;;II.45r;Saltarello Madonna Zohanna;;;OT;;3;"[,dda1] [,dd] [acd,a]| [cdda2] [cdd1] | \
+[cdda1] [dab,,d] c/ a | [cdda2] [cdd1] | \
+[,dda/] ,c ,a ,c ,d a |"
+141;;II.45v;Gaiarda Viaerae;;;OT;;3;"[,dda1] ,d/ ,c ,d a | [bbdd/] a b d [bbdd1] | \
+[bbdd1] d/ b a ,d | a1 ,d/ ,c ,a ,d |"
+142;;II.46r;El Burato;;;OT;ConcR1454;3;"[cdda1] [cdd] [cdda] | [cdda/] ,c ,d a [cdd] ,,,a | \
+[dab,,d/] c a ,d ,b ,a | [fcd,a/] d/4 c"
+143;;II.46v;Saltarello Tintorella;;;OT;;3;"[,cdca1] [,dda] [abb,d] | [bbdd1] [bbd] [bbdd] | \
+[abb,d1] [abb] [,dda] | [,cdca1] [,cdc] [,cdca] | \
+[,cdca1] [,dda/] ,c ,d a |"
+144;;II.46v;Saltarello La Mesongere;;;OT;;3;"[fdda1] d/ b [abd,a] ,d | a/ b [dbb,d1] ,,,c | \
+[f,dd,b1] d/ b [abd,a] ,d | [,cdca1] [,dda2] ::"
+;;;BASSVS;;;;;;
+145;;III.0v;Passemezo Milanese;;;OT;;C;"[aab,,a1] [aab/] ,,,,,c [aab,,d] ,,,,a ,,,,,d ,,,,,c | \
+[aab,,a/] ,,,c [aab] ,,,,,c ,,,,,d ,,,,a ,,,,c ,,,,e | \
+[cdda1] ,,,,,c [cdda] [aabc] |"
+146;;III.0v;Padoana Milanese;;;OT;;3;"[aab,,a/] | [aab,,a1] [aab/] | ,,,,,a/ [aab] [,,d,,c] | \
+[aab,,a/] ,,,,,c ,,,,,d | ,,,,a/ ,,,,c ,,,,e | \
+[cdda1] [cdd/] | ,,,a [cdd] [da,c] | [cdda/] d [cdda] |"
+147;;III.1r;Saltarello Milanese;;;OT;;3;"[aab,,a3/2] [aab/] ,,,c1 | \
+[aab,,a/] ,,,,,c ,,,,,d ,,,,a ,,,,c ,,,,e | \
+[cdda3/2] [cd/] ,,d1 | [cd,a1] ,,,,,c [cdda] | \
+[aab,,a1] ,,,c/ ,,a ,,b ,,d |"
+148;;III.1r;Passomezo de Zorzi;;;OT;ConcR842;C;"[aac,,a1] [aac,,a] [aac/] ,,,,,c | \
+,,,,,e/ ,,,,a ,,,,c ,,,,e [,aabc1] [,aa] | \
+,,,,c1 ,c/ ,a [,cee,c1] [,aabc] | \
+[,aa,e1] ,,e [,aabc] [,aab] |"
+149;;III.1v;Padoana de Zorzi;;;OT;ConcR1832;3;"[aac,,a/] | [aac,,a/] ,,,,,c ,,,,,e | \
+,,,,a/ ,,,,c ,,,,e | [,aa,c1] [,aa/] | \
+,,,,c/ ,c ,a | ,,,,,c/ [,ce] [,aa,c] | \
+[,aa,e1] ,,e/ | [,aa,c1] [,aa/] | ,,,,c1 ::"
+150;;III.1v;Saltarello de Zorzi;;;OT;ConcR1833;3;"[aac,,a1] | [aac,,a3/2] [aac/] ,,,c1 | \
+[aac,,a/] ,,,,,c ,,,,,e ,,,,a ,,,,c ,,,,e | \
+[,aa,c3/2] [,aa/] ,,,b1 | [,aa,c1] ,,,b [,aa,c] | \
+[,ce,,c3/2] ,a/ [,ce,,c1] |"
+151;;III.1v;Passemezo de rocca el fuso;;;OT;ConcR210;C;"[aac,,a2] [aac,,a1] [,,d,,c] | \
+[aac,,a/] ,,d ,,c ,,a ,,,c1 ,,a/ ,,c | \
+[,,d,,c1] [aac,,a] [,,d,,c] ,,c/ ,,a | \
+[aac,,a/] ,,d ,,c ,,a ,,,c1 [aac,,a] |"
+152;;III.2v;Padoana de rocca el fuso;;;OT;ConcR3071;3;"[aac,,a/] | [aac,,a1] [,,d,,c/] | [aac,,a1] [aac/] | \
+,,,,,a/ ,,a ,,c | [,,d,,c1] [aac,,a/] | [,,d,,c/] ,,c ,,a | \
+[aac,,a1] [aac/] | ,,,,,a1 [aac,,a/] |"
+153;;III.3r;Saltarello della Rocca el Fuso;;;OT;ConcR1384;3;"[aac,,a2] [,dda,c1] | [aac,,a3/2] [aac/] ,,,c1 | \
+[aac,,a1] [,,d,,c] ,,c/ ,,a | [aac,,a3/2] [aac/] ,,,c1 | \
+[aac,,a/] ,,,,,c ,,,,,e ,,,,a ,,,,c ,,,,e |"
+154;;III.3v;Passomezo Commun;;;OT;;C;"[aac,,a/] ,,d [aac,,a1] [aac/] ,,,,,c | \
+[,ac,,e/] ,,,,a ,,,,,e ,,,,,c [aac,,a] ,,,c [aac] ,,,,,c | \
+[,ac,,e/] ,,,,a [,aa,c] ,,,,,e [acd,a1] [acd/] ,,,,c |"
+155;;III.4r;Padoana Commun;;;OT;;3;"[aac,,a/] | [aac,,a1] [aac/] | ,,,,,a/ [aac] [,,d,,c] | \
+[aac,,a/] ,,,,,c ,,,,,e | ,,,,a/ ,,,,c ,,,,e | \
+[acd,a1] [acd/] | ,,,,a/ [acd] [,d,,c] | \
+[acd,a/] ,,,,c ,,,,a |"
+156;;III.4v;Saltarello Commun;;;OT;;3;"[aac,,a1] | [aac,,a3/2] [aac/] ,,,c1 | \
+[aac,,a/] ,,,,,c ,,,,,e ,,,,a ,,,,c ,,,,e | \
+[acd,a3/2] [acd/] ,,,c1 | \
+[acd,a/] ,,,,c ,,,,a ,,,,,e ,,,,a ,,,,,c |"
+157;;III.5r;Passemezo Pauese;;;OT;;C;"[,aba,d1] [,aba,d] [,aba/] ,,,,,c | \
+,,,,,d/ ,,,,a ,,,,c ,,,,e [,dda1] ,,,,,c | \
+[,dda1] [,aba,d] [,dda] [,abc] | \
+[,aaa1] [,aa,e/] ,,e [,aa,c1] [,aa] |"
+158;;III.5v;Padoana Pauese;;;OT;;3;"[,aba,d/] | [,aba,d/] ,,,,,c ,,,,,d | \
+,,,,a/ ,,,,c ,,,,e | [,dda1] ,,,,,c/ | [,dda1] [,aba,d/] | \
+[,dda1] [,abc/] | [,aaa1] [,,e,e/] | [,aa,c1] [,aa/] |"
+159;;III.6r;Saltarello della Pauese;;;OT;;3;"[,aba,d1] | [,aba,d3/2] [,ab/] ,,,a1 | \
+[,ab,,d/] ,,,,,c ,,,,,d ,,,,a ,,,,c ,,,,e | \
+[,d,a3/2] ,d/ ,,d1 | [,d,a1] ,,d [,ab,,d] | \
+[,dda1] [,dd] [,abc] |"
+160;;III.6v;Passomezo de tu te parti Cor mio Caro;;;OT;;C;"[aac,,a1] [aac,,a] [aac] | \
+,,,,,a1 [aac/] ,,d [aac,,a1] ,,,c/ [aac] | \
+[,,d,,c1] ,,c/ ,,a [aac,,a1] [aac/] ,,,,,c | \
+,,,,,e/ ,,,,a ,,,,,e ,,,,,c"
+161;;III.7r;Padoana de tu te parti;;;OT;;3;"[aac,,a/] | [aac,,a1] [aac/] | ,,,,,a1 [aac/] | \
+[aac,,a/] ,,d [aac,,a] | [,,d,,c/] ,,c [,,d,,c] | \
+[aac,,a1] [aac/] | ,,,,,a/ [aac] [,,d,,c] | \
+[aac,,a/] ,,,,,c ,,,,,e |"
+162;;III.7r;Saltarello de tu te parti;;;OT;ConcR1463;3;"[aac,,a1] | [aac,,a3/2] [aac/] ,,,c1 | \
+[aac,,a1] [,,d,,c] ,,,b | [aac,,a1] ,,,c/ ,,d ,,c ,,a | \
+[aac,,a/] ,,,,,c ,,,,,e ,,,,a ,,,,c ,,,,,e |"
+163;;III.7v;Passomezo Io son Fantina;;;OT;;C;"[,aa,c1] [,abc] [,aa,c] | [,abc1] [,dda] [,aba,d] [,aba] | \
+[,aba,d/] ,,,,a ,,,,c ,,,,e [cdda1] ,,,,c | \
+[a,d,d1] ,,,,a [,ea,c2] |"
+164;;III.7v;Padoana Io son Fantina;;;OT;;3;"[,aa,c/] | [,abc1] [,aa,c/] | [,abc1] [,dda/] | \
+[,aba,d1] [,aba/] | [,aba,d/] ,,d [,aba,d] | \
+[cdaa/] d [cdda] | [a,d,d/] ,,,,a [a,d,d] | [,ea,c3/2] |"
+165;;III.8r;Saltarello Io son Fantina;;;OT;;3;"[,aa,c1] [,abc] [,dda] | [,ab,,d1] ,,,a [,ab,,d] | \
+[,dda1] ,,,,,c [,abc] | [,aa,c2] [,a,a,d1] | \
+[,dda1] [,abcf] [,aa,] | [aac,,a3/2] [aac/] ,,,c1 ::"
+166;;III.8r;Passemezo Francese;;;OT;;C;"[,ddef2] [,ddef1] [,dff,d] | [,dd,f1] ,,,e [,dd] [,ddef] | \
+[acd,a1] [acd,a] [aac,,a] [aac,,a] | \
+[acd,a/] ,,c [,,d,a] ,a [acd,a] ,a [,,d,a] ,,c |"
+167;;III.8v;Padoana Francese;;;OT;;3;"[,ddef/] | [,ddef1] [,aba,d/] | [,ddef1] [,dd/] | \
+,,,,f1 [,ddef/] | [,cd,a1] [,dde/] | \
+[,ddef1] [aabc/] | [acd,a1] [acd/] | \
+,,,,a1 [,ddef/] | [,ddef1] [,aba,d/] |"
+168;;III.9r;Saltarello Francese;;;OT;;3;"[,ddef1] | [,ddef3/2] [,dd/] ,,,e1 | [,aba,d1] [cdda] [a,c,e] | \
+[cdda3/2] [cd/] ,,d1 | [cd,a1] ,,,,,c [cd,a] | \
+[aabc] ,,,,,a [aabc] | [,,de1] [,ddef] [aabc] |"
+169;;III.9v;Passemezo della Bataglia;;;OT;;C;"[aac,,a2] [aac,,a1] [aac,,a] | \
+[aac,,a/] ,,a [,,c,,a] ,,d [aac,,a] ,d [,c,,,a] ,a | \
+[acd,a2] [acd,a1] [aac,,a] | [,aa,c/] ,,,,a ,,,,c ,,,,e"
+170;;III.10r;Passemezo della Desperata;;;OT;ConcR1400;C;"[cdda2] [cdda1] [cdda] | \
+[acd,a3/2] [,da,c/] [,cee,c1] [,da,c] | \
+[acd,a1] [cdda] [,da,c] ,c/ ,a | \
+[,ce,,c/] ,,,e [,ce] ,,,,,c [,cee,c2] |"
+171;;III.10v;Padoana della Desperata;;;OT;;3;"[cdda/] | [cdda1] [cdd/] | ,,,a1 [acd,a/] | \
+[,da,c/] ,c [,da,c] | [acd,a1] [cdda/] | \
+[acd,a/] ,d [acd,a] | [,da,c/] ,c [,aa,c] | \
+[,ce,,c1] [,ce/] |"
+172;;III.11r;Saltarello della Desperata;;;OT;ConcR1604;3;"[cd,a3/2] [cd/] ,,d1 | [cd,a1] [cd] [cd,a] | \
+[acd,a2] [,da,c1] | [,cd,,c2] [,da,c1] | \
+[acd,a2] [cdda1] | [,da,c1] ,,,,a ,,,,,e | \
+[,ce,,c3/2] [,ce/] ,,,e1 |"
+173;;III.11v;Passemezo Il e Iur;;;OT;;C;"[aabc2] [aabc1] [cdda] | [dab,,d2] [dab,,d1] [cdda] | \
+[aabc1] [,ea,c] [aabc] ,,,,,a | \
+[,aa,c/] ,,,,a ,,,,c ,,,,e [,aa,c] ,,,,a ,,,,,e ,,,,,c |"
+174;;III.11v;Passemezo Vngaro;;;OT;ConcR1607;C;"[cdda1] [acd,a] ,,,c | [acd,a1] [cdda] [dab,,d] ,,,a | \
+[dab,,d1] [cdda] [acd,a] [,dda] | \
+[,aba,d1] [acd,a] [,d,a] ,,d | ,,,a1 ::"
+175;;III.12r;Saltarello Vngaro;;;OT;;3;"[cdda1] | [acd,a3/2] [acd/] ,,,c1 | [acd,a1] ,d/ a [cdda1] | \
+[,ab,,d3/2] [ab/] ,,,a1 | [,ab,,d1] ,,,a [cdda] | \
+[acd,a1] ,,,c [cdda] | [,ab,,d1] ,,,a [,ab,,d] |"
+176;;III.12r;Passemezo della Duchessa;;;OT;;C;"[acd,a/] ,d [acd,a2] | \
+[acd,a/] ,d [a,,,a] ,c [cdda3/2] [acd,a/] | \
+[,da,c1] [acd,a] ,,,,,a/ [aac] [,,d,,c] ,,,a | \
+[aac,,a/] ,,d [,a,,,a] ,,c"
+177;;III.12v;Padoana della Duchessa;;;OT;;3;"[acd,a/] | [acd,a1] [acd/] | [acd,a/] ,d [acd,a] | \
+[cdda1] [acd,a/] | [,da,c1] [acd,a/] | ,,,,,a/ [aac] [,,d,,c] | \
+[aac,,a/] ,,d [aac,,a] | [,,d,a1] ,,,c/ | ,,,,a1 ::"
+178;;III.12v;Saltarello della Duchessa;;;OT;ConcR1593;3;"[acd,a1] | [acd,a3/2] [acd/] ,,,c1 | \
+[acd,a1] [,d,,c] [acd,a] | [cdda1] ,,,,,c [acd,a] | \
+[,da,e1] ,,,,,d [acd,a] | ,,,,,a1 [aac] [,,d,,c] | \
+,,,a1 [aac,,a] ,,,c |"
+179;;III.13r;Passemezo della Passionata;;;OT;;C;"[cdda1] [cdda3/2] d/ | [cdda1] [aabc] [,ea,c] ,a/ ,,a | \
+,,,,c1 [cdda] [cdda] [cdd/] d | \
+[cdda1] [aabc] [,ea] ,a/ ,,a | ,,,,c1 ::"
+180;;III.13r;Padoana della Passionata;;;OT;;3;"[cdda/] | [cdda/] d [cdda] | [aabc/] c [aabc] | \
+[,ea,c1] [,ea/] | ,,,,c1 [cdda/] | [cdda/] d [cdda] | \
+[aabc/] c [aabc] | [,ea,c1] [,ea/] | ,,,,c1 ::"
+181;;III.13v;Saltarello della Passionata;;;OT;;3;"[cdda1] | [cdda3/2] [cd/] ,,d1 | [cdda1] [aabc] ,,,,a | \
+[,ea,c3/2] ,a/ ,,a1 | [,ea,c1] [,aa] [cdda] | \
+[cdda1] [cdd/] d [cdda1] | ,,,,c1 [a,d,d] ,,,,a |"
+182;;III.13v;Padoana Santo Erculano;;;OT;ConcR1595;3;"[aac,,a/] | [aac,,a/] [aac] [aac] | \
+[aac,,a1] [aac,,a/] | [acd,a1] [aac/] | \
+[acd,a1] [acd,a/] | [aac,,a1] [aac/] | \
+,,,,,a/ [aac] [,,d,,c] | [aac,,a/] ,,,,,c ,,,,,e |"
+183;;III.14r;Padoana gentil Madonna;;;OT;;3;"[,aa,c/] | [,aa,c/] ,,,b [,aa] | [,aa,c1] [,aa,c/] | \
+[,abc1] [,aa,c/] | [,abc1] [,dda/] | [,a,a,d1] [,a,a/] | \
+[,a,a,d1] [,dda/] | [,a,a,d1] [,a,a/] | [,a,a,d1] [,dda/] |"
+184;;III.14r;La Caracossa;;;OT;ConcR202;3;"[,aa,c1] [,aa] [,aa,c] | [,aa,c/] ,,,,a ,,,,c ,,,,e [,aa,c] | \
+[,abc/] ,,,,,a [,abc] ,,,,,c ,,,,,d ,,,,a | \
+[,dda3/2] ,d/ ,,d1 | [,aba,d1] [,aba] [,aba,d] |"
+185;;III.14v;Tocca Tocca la Canella;;;OT;ConcR1462;C;"[,aba,d1] [,aba] [,aba,d2] | [,aba1] [,aba,d2] [,aba,d1] | \
+[,,dda2] [,dd1] ,,,a | [,dda1] ,,,,,c [,abc] ,,,,,a | \
+[acd,a1] ,,,c [,aa,c] ,,,b | [aac,,a2] [aac1] ,,,,,a ::"
+186;;III.14v;Basala vn tratto;;;OT;;3;"[aac,,a1] [aac] [acd,a] | [aac,,a3/2] [aac/] ,,,c1 | \
+[aac,,a/] ,,,,,c ,,,,,d ,,,,a ,,,,,e ,,,,,c | \
+[aac,,a3/2] [aac/] ,,,c1 | \
+[aac,,a/] ,,,,,c ,,,,,e ,,,a ,,,c ,,,,e |"
+187;;III.14v;Saltarello La inspirita;;;OT;;3;"[cdda1] | [cdda3/2] [cd/] ,,d1 | [,dda/] ,c ,d a c d | \
+[cdda3/2] [cd/] ,,d1 | [cdda1] [cdd] [aabc] | \
+[cdda1] ,,,,,c [dabc] |"
+188;;III.15r;Il Marchese de Saluso;;;OT;ConcR1460;C;"[,abc1] [,aa,c] [,abc3/2] ,,a/ | \
+[,abc1] [,dda2] [abc1] | [,aa,c2] [,aa1] ,,,,c | \
+[,abc/] ,,,,,c ,,,,,d ,,,,a [,aa,c] ,,,,a ,,,,c ,,,,e |"
+189;;III.15r;La barcha del mio amore;;;OT;ConcR1450;3;"[aac,,a1] | [aac,,a3/2] [aac/] ,,,c1 | [aac,,a1] [,,d,,c] ,,,b | \
+[aac,,a3/2] [aac/] ,,,c1 | \
+[aac,,a/] ,,,,,c ,,,,,e ,,,,a ,,,,c ,,,,,e | \
+[acd,a3/2] [acd/] ,,,c1 |"
+190;;III.15v;Il Quadrellino;;;OT;;3;"[aac,,a2] [aac,,a] [acd,a] | [aac,,a2] [aac,,a1] | \
+[cdda2] [cdda1] | [aac,,a3/2] [aac/] ,,,c1 | \
+[acd,a1] [,aa,c] ,,,b1 | [aac,,a3/2] [aac/] ,,,c | \
+[aac,,a1] ,,,c [aac,,a1] ::"
+191;;III.16r;Saltarello Lauandara;;;OT;ConcR1452;3;"[aac,,a3/2] [aac/] ,,,c1 | [aac,,a1] [,,da,c] [aac,,a] | \
+[acd,a2] [aac,,a1] | [,,da,c2] [aac,,a1] | \
+[,aa,c3/2] [,aa/] ,,,b1 | ,,,,e1 [,aa,c] ,,,b | \
+[aac,,a3/2] [aac/] ,,,c1 |"
+192;;III.16v;La Caualetta;;;OT;;3;"[,abc1] [,aa,c] [,abc] [,aa,c] | [,abc1] [,dda2] [,abc1] | \
+[,aa,c2] [aac1] ,,,,,a :||: [cdda1] [cdd] [cdda] [cdd] | \
+,,d1 ,,,,,e ,,,a ,,c |"
+193;;III.16v;La traditora;;;OT;ConcR1563;3;"[,abc,a/] ,,a ,,b ,,d ,a ,,d | [,aba,d1] [,aba] [,dda] | \
+[,abc1] [,aaa] [,aa,e/] ,,e | [,aa,c3/2] [,aa/] ,,,b1 | \
+[,aba,d1] [,aba] [,aba,d] |"
+194;;III.16v;Mezanotte;;;OT;ConcR1594;3;"[,abc/] ,,d [,abc1] [,dda] | [,abc1] ,,,,,a [,dda] | \
+[,abc1] [,aa,c/] ,,,,a ,,,,,c ,,,,,e | \
+[aac,,a3/2] [aac/] ,,,c1 ::"
+195;;III.17r;Il traditora;;;OT;;3;"[,,d,a1] | [acd,a1] [acd/] [acd] [acd1] | \
+[acd,a/] ,,,,c ,,,,a ,,,,,e ,,,,a ,,,,c | \
+[acd,a3/2] [acd/] ,,,d1 | [acd,a1] [,d,,c] [acd,a] |"
+196;;III.17r;Dolce bocha basarella;;;OT;;3;"[,aa,c1] [,aa] [,aa,c] | [,aa,c/] ,,,,a ,,,,c ,,,,e [,aa,c1] | \
+[,abc1] [,aa,c] ,,,b | [aac,,a3/2] [aac/] ,,,c1 ::"
+197;;III.17v;Il Molinare;;;OT;;3;"[aac,,a1] | [aac,,a3/2] [aac/] ,,,c1 | \
+[aac,,a/] ,,,,,c ,,,,,e ,,,,a ,,,,c ,,,,,e | \
+[acd,a3/2] [acd/] ,,,c1 | [acd,a1] ,,,c [cdda] | \
+[cdda3/2] [cd/] ,,d1 |"
+198;;III.17v;Saltarello del Re;;;OT;ConcR1465;3;"[,aa,c1] | [,abc3/2] ,,a/ [,abc1] | [,dda1] [,abc] ,,,,,a | \
+[,aa,c1] [,aa/] ,,,,a [,aa,c] ,,,,e | [,aa,c1] [,aa] ::"
+199;;III.17v;Passemezo de Mistro Rigo;;;OT;;C;"[aac,,a1] [aac,,a] [acd,a] [acd,a] | \
+[,aa,c1] ,,,b [aac,,a] ,,,c | \
+[aabc/] ,,,a ,,,,e ,,,,c [acd,a] ,,,a ,,,c ,,,,e |"
+200;;III.18r;Padoana de Force de Hercules;;;OT;ConcR1249;C;"[aabc3/4] ,,,a/4 [aabc/] [aabc] | [,ddef1] [,dde/] ,,,,f | \
+[aabc3/4] ,,a/4 [aabc/] ,,,,a | [,aabc1] [aab/] ,,,,c |"
+201;;III.18r;Padoana della Zoppa;;;OT;;3;"[cdda/] | [cdda1] [cdd/] | ,,,a1 [cdda/] | [cdda/] d [cdda] | \
+[da,c/] c [da,c] | [cdda1] [cdd/] | ,,,a/ [cdd] [d,,c] | \
+[cdda1] [cdd/] | ,,,a1 ::"
+202;;III.18v;Saltarello della Zoppa;;;OT;;3;"[cdda1] | [cdda3/2] [cd/] ,,d1 | [cdda1] [da,c] ,c | \
+[cdda3/2] [cd/] ,,d1 | [cd,a1] ,,d :||: [cdda1] | \
+[cdda3/2] [cd/] ,,d1 |"
+203;;III.18v;Il Piscatore;;;OT;;3;"[,aa,c2] [,aa,c1] | [aac,,a2] [aac1] | \
+[aac,,a1] [,,d,,c] [,aa,c] | [aac,,a3/2] [aac/] ,,,c1 :||: \
+[aac,,a1] ,,,,,c [,ac,,e] |"
+204;;III.19r;La pistrinara;;;OT;;3;"[,dda1] | [,dda3/2] ,d/ ,,d1 | [,dda1] [,cd,a] [,ab] | \
+[,,d,a1] ,,,c/ ,a ,,d ,,b | [,,a,a1] ,,,a [,,d,,c] | \
+[,aba,d1] [,aba,d] [,,d,,c] |"
+205;;III.19r;Salta. Inamorata;;;OT;;3;"[,aba,d/] ,,d | [,aba,d/] ,,,,,c ,,,,,d ,,,,a ,,,,c ,,,,e | \
+[,dda1] ,,,,,c [,dda] | [,abc1] [,aa,c/] ,,,,a ,,,,,e ,,,,,c | \
+[aac,,a1] ,,,c ::"
+206;;III.19v;Padoana della Bella Franchischina;;;OT;Conc_4432;3;"[aac,,a/] | [aac,,a3/2] | [aac3/2] | [aac,,a3/2] | \
+[acd,a3/2] | [aac,,a3/2] | [aac1] [aac,,a/] | \
+[aac,,a1] [,,d,,c/] | [aac,,a/] ,,,,,c ,,,,,e |"
+207;;III.19v;Il Berdadum;;;OT;;3;"[aac2] [aac,,a1] | [acd,aa2] [acd,a1] | \
+[acd,a1] [,aa,c] ,,,b | [aac,,a3/2] [aac/] ,,,c1 :||: \
+[,ac,,a/] ,,,,,c ,,,,,e ,,,,a ,,,,c ,,,,e |"
+208;;III.20r;La Commandrina;;;OT;;3;"[,aa,c1] | [,a,a,d1] [,a,a/] [,a,a] [,a,a1] | \
+[,a,a,d1] [,a,a,d] [,,d,,c] | \
+[abc,a/] ,,,,,c ,,,,,d ,,,,a ,,,,,d ,,,,,c | \
+[,abc1] [,dda] [,cdca] |"
+209;;III.20v;Padoana Bernardo non puo stare;;;OT;;3;"[aac,,a/] | [aac,,a/] ,,,,,c ,,,,,e | ,,,,a/ ,,,,c ,,,,e | \
+[,aa,c1] [,aa/] | [,ae,c/] ,,,,e [,aa,c] | \
+,,,,e/ ,a ,,e | ,,,,e/ ,a ,,e |"
+210;;III.20v;Il suo Saltarello;;;OT;;3;"[aac,,a1] | [aac,,a3/2] [aac/] ,,,c1 | \
+[aac,,a/] ,,,,,c ,,,,,e ,,,,a ,,,,c ,,,,e | \
+[,aa,c3/2] [,aa/] ,,,b1 | [,aa,c1] ,,,b [,aa,c] | \
+[,ce,,c3/2] ,a/ [,ce,,c1] |"
+211;;III.21r;La Cremonesa;;;OT;;3;"[,acc,a3/2] [,ac/] ,,,c1 | ,,,,,a1 [,,d,,c] ,,,a | \
+[,acc,a3/2] [,ac/] ,,,c1 | [,acc,a1] [,,d,,c] ,,,a | \
+[,,cc,a/] ,a ,,d ,,c ,,d ,,c |"
+212;;III.21v;Saltarello Madonna Zohanna;;;OT;;3;"[aacc2] [,aabc1] | [,ac,,a1] ,,,c/ ,,d [,acc,a1] | \
+[aacc1] [,cdca/] ,,,,,e ,,,,a ,,,,c | \
+[,acc,a1] [,acc] ,c/ ,d | [aacc1] [aacc] [,aabc] |"
+213;;III.22r;Gaiarda Viaerae;;;OT;;3;"[,ac,,a1] z1 [,,dd,c] | [,ab,,d1] ,,,,c/ ,,d [,,ba,d1] | \
+[,ab,,d1] [,,da,c] [,a,c,a] | [,aa,c1] ,,,b [,aa] | \
+[,,cc,a1] [,ab,,d] [,,da,c] |"
+214;;III.22v;El Burato;;;OT;ConcR1454;3;"[aac,,a1] [aac] [aac,,a] | \
+[aac,,a/] ,e/4 ,c ,e a ,c ,e [aac,,a1] | \
+[,cdca/4] ,a ,c ,d a ,d ,c ,a"
+215;;III.22v;La Tintorella;;;OT;;3;"[,aa,c1] [,abc] [,dda] | [,aba,d2] [,aba,d1] | \
+[,ddef2] [aabc1] | [,aabc2] [,aabc1] | \
+[,aabc1] [aabc] [,ddef] | \
+[,aba,d/] ,,,,,c ,,,,,d ,,,,a ,,,,c ,,,,d |"
+216;;III.23r;La Mesongere;;;OT;;3;"[,abc1] ,,a/ ,,,c [,aa,c1] | ,,,c/ [,ab] [,dda2] | \
+[,ab,,d/] ,,,,a ,,,,c ,,,,,d ,,,,a ,,,,d | \
+,,,,c/ [,aa] [,ac,,a2] ::"

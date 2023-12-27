@@ -1,0 +1,117 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+;;1r;Accords;;;;;;
+1;D dur;1v;Preludium;;;;;C;",,,,a/4 ,,a ,a ,,a ,,,,a ,,a ,a ,,a {,,,a}/4 ,a a ,a {,,,a} \
+,a a ,a | {,,,a}/4 ,c c ,c {,,,a} ,c c ,c"
+2;d moll;2v;Menuet;;;;;3;"[,a,,a/] ,,a ,a ,,a [,a,,a] ,,a | [,c,,,e/] ,,a ,c ,,a [,c,,,a] \
+,,a | [,d{,,,a}/] ,,a ,d ,,a [,d{,,,a}] ,,a | ,,,,,a/ (,c ,a) \
+(,,e ,,c ,,a) | "
+3;d moll;3r;Les Folies d'Espagne;;Segue Variatio;;Conc_525;3;"[,a{,,,a}1] ,a ([,a{,,,a}/] ,c) | [,,e,,a1] ,,e [,,'e,,a] | \
+[,a,,a1] ,a [,a{,,,a}/] a | [,'c{4}1] ,c [,c{4}/2] c | \
+[,d{,a}1] ,d ,d/ c | [,'c{4}1] ,c [,c{4}/] a | "
+4;d moll;3v;Liuto Primo Variat. 1a;;;;;3;"[,d,,a/] a ,d a [,d,,a] a | [,c,,,a/] ,c ,c ,c [,c,,,a] ,c | \
+[a,,,a/] a a a [a,,,a] a | [c{4}/] c c c [c{4}] c |"
+5;d moll;4r;Liuto 2do Var. 1a;;on ff. 4r, 5r;;;3;"[,a,,a/] ,a ,a ,a [,a,,a] ,a | [,,e,,a/] ,,e ,,e ,,e [,,e,,a] \
+,,e | [,a,,a/] ,a ,a ,a [,a,,a] ,a | [,'c{4}/] ,c ,c ,c \
+[,c{4}] ,c |"
+6;d moll;4v;Liuto primo Var: 2da;;;;;3;"[a,,,a/] ,a a ,a [a,,,a] ,a | [,c,,,a/] ,,e ,c ,,e [,c,,,a] \
+,,e | [a{,,,a}/] ,a a ,a [a{,,,a}] ,a | [c{4}/] ,c c ,c \
+[c{4}] ,c |"
+7;d moll;;Liuto 2do Var. 2da;;;;;3;"[,a,,a/] ,,a ,a ,,a [,a,,a] ,,a | [,,e,,a/] ,,,e ,,e ,,,e \
+[,,e,,a] ,,,e | [,a{,,,a}/] ,,a ,a ,,a [,a{,,,a}] ,,a | \
+[,c{4}/] ,,d ,c ,,d [,c{4}] ,,d |"
+8;d moll;5v;Menuet de Lauffensteiner;Lauffensteiner;;;Conc_1421;3;"k1 ,h ,,i | ,,,k1 ,,,,h ,,,,,i | {,,,a}/ ,,a ,a a ,,,,,e c | \
+['a,,,a1] ,c/ a [,a{,,,a}1] | [f{a}/] e ,f e V[f{a}1] | "
+9;d moll;6r;Gigue;;;;;6/8;",,a/ | [,a,,a/] ,,a ,a [,a,,a] ,,a ,a | [,c,,,e/] ,,a ,c \
+[,c,,,a] ,,a ,c | [a{,,,a}/] c a [,c{a}] a ,a | [,,e,,a/] \
+,a ,c ,,a1 ,,d/ | "
+10;d moll;6v;Courente da Weiss;S.L.Weiss;;;Conc_789;3;"e/ (e c) | ['a,,,a/] ,c ,a a [,c{a}] ,a | [,,e,,a/] ,c \
+,,,,,a {a} {,a} ,a | {a}/ ,c ,,,,,a ,,a ,a ,,e | "
+11;d moll;7v;Aria du même;S.L.Weiss;;;Conc_794;2;"([e{,,,a}/4] c a) (,c ,a/) [,,e{,,a}] | [,aVf{,a}1] ,,a | \
+[e{,,,a}/4] c a ,c ,a/ [,,e{,,a}] | [,a{,a}/] ,,a (,,,c/4 \
+,,,a) (,,,,c ,,,,a) | "
+12;F dur;8v;Preludio;;;;;C;"{a}/4 ,,,a ,,a ,,,a {,a} ,,,a ,,a ,,,a {,a} ,,,c ,,b ,,,c \
+{,a} ,,,c ,,b ,,,c | {,,a}/4 ,,,c ,,b ,,,c {,,a} ,,,c ,,b ,,,c"
+13;F dur;10v;Preludio Grosso da Tauseana;Tauseana;;;;C;"{,a}/4 ,,,a ,,a ,d {,a} ,,,a ,,a ,d [,dde{,a}1] [,dde{,a}] | \
+[ccb{,a}1] [ccb{,a}] [c,aa{,a}1] [c,aa{,a}] | [a,aa{,a}2] \
+[a,aab1] [bbd,ba] | [bad,a2] [cab{a}2] | "
+14;F dur;11v;Menuet;;;;;3;"{,a}1 a ,,d | {,,a}1 c ,,d | ([e{,a}1] c) ,d | {4}1 [,'c] \
+,,d | [a,,,,a1] {a} {,a} | [c{,,a}1] ,,d V[e{,a}] | \
+[ca,,,b1] {4} [,'c] | "
+15;F dur;12r;Double;;;;;3;"{,a}/ a ,c a ,,d a | {,,a}/ (c a) c ,,d c | {,a}/ e {,,a} c \
+{,,,a} a | {4}/ (,c ,a) ,c ,,d {d} | "
+16;F dur;12v;Menuet;;;;;3;"[ac{,a}1] ,,,a/ ,,a ,,d a | [,'c{4}1] (,a/ ,c) ,,d1 | \
+[,aba,b1] ,,,a/ ,,b ,a a | ,,,,,a/ ,,d (,,b ,,d) \
+[,,'a{,a}1] | ([,,'b{a}/] ,,a) ,,,c ,,a [,,b{4}] ,,d | "
+17;F dur;13r;Menuetto arioso;;;;Conc_4507;3;"{,a}/ (,,d ,,b ,,a) ,,,c ,,,a | ,,,,,b1 [,a,a] [,,d,,a] | \
+[,a,,,b1] c [,'c{4}] | [ac1] {,a} [,,da,a] | ,,,,,b/ ,a \
+(,,d ,,b ,,a) ,,,c | "
+18;F dur;13v;Aria;;;;;C;"{,a}/ ,,a {a} ,,b ,,,,,a ,,d ,,,,a ,,,a | ,,,,,b/ ,,,c \
+[,,a{4}] ,,b [,,'a{,a}1] [,,,'a] | ,,,,,b/ ,a [,a,,,b] \
+[,,da,a] [,,b{a}] ,,a [,,,c{,,a}] [,,,a{,,,a}] | "
+19;F dur;14v;Menuet;;;;;3;"([h{,a}/] f) (,h ,f) a1 | ([k,,,i/] a) ,,h a [h,,,,a1] | \
+[f{a}/] (,h ,f) a ,,h1 | ([h,,,,a/] a) ,,h a [f{a}1] | "
+20;F dur;15v;Gigue;S.L.Weiss?;;;Conc_1422;6/8;",,d/ | [,d{,a}/] e ,d ,,d ,d e | ['c{,,a}/] a c ,,d ,a ,c | \
+[a{,,,a}/] ,c a [,,c{a}] ,a c | [,'c{4}/] ,a ,c ,,d ,a ,c | "
+21;g moll;16v;Harter Himmel;;;;;C;"{a}/4 ,a ,,,,,a ,a ,,,,,b ,a ,,,,,d ,b | [,a,,,b/] (,,,c \
+,,,b [,,,c{a}]) ,,,,,a ,,d {a} ,,d ,,,,e ,,d ,,,,a \
+(,,b/4 ,,a) | "
+22;C dur;18v;"""Bin ich in einem(?) Traum"" Andante";;;;;2/4;"[,c{4}/] | [ac,,,a3/4] [,c{a}/4] [,a{,a}/] [,c,,e/4] ,,d | \
+[,,'c{a}/] ,,,,a {a} [,,,c{,,a}] | [,,a{,a}3/4] [,a{,a}/4] \
+[,,'c{a}3/4] [,,c{,a}/4] | [,,dc{,,a}/] {4}/4 {,,,a} \
+{,,a}/ [,c{4}] | "
+23;d moll;19r;"""Angenehme Einsamkeit""";;;;;3/4;"[,a,,a/] [,c,,,e] | [ac,,a3/2] [,,e,,a/] [,a{,a}] \
+[,,a{,,,a}] | [,,b,,e3/2] [,,,c{,,a}/] ,,,a {,,,a} | \
+[,,,,'ca3/2] ,,d/ [,,'a] [,,,c,e] | [,,,a{,,,a}1] ,,,,a \
+,a/ [,c,,,e] | "
+24;C dur;19v;Preludium da Tauseana;Tauseana;;;;C;"{4}/4 ,,,,c ,,,c ,,d {4} ,,,,c ,,,c ,,d {4} ,,,,a ,,,a ,,d \
+{4} ,,,,a ,,,a ,,d | {4}/4 ,,,,a ,,,a ,,c {4} ,,,,a ,,,a \
+,,c {4} ,,,a ,,c ,a {4} ,,,a ,,c ,a | "
+25;C dur;20v;Menuet Liuto primo;;;;Conc_4233;3;"[,f{4}1] ,,h/ ,,,h [h{,,a}1] | ([h{a}1] [g{,a}]) [#h{,,a}] | \
+,f1 a [,c{4}1] | [,'a{a}1] {,a} [,c{,,a}] | ['a{,,,a}1] \
+,a/ ,c [a,,,,d1] | [a,,,,c1] (,c/ ,a) ,c a | "
+26;C dur;21r;Menuet Liuto 2do;;;;Conc_4234;3;"[,c{4}1] ,,d ,c/ a | ([,c{a}1] ,a) [,c{,,a}] | ,c/ ,,d ,a \
+,,c [,,d{4}1] | ([,,d{a}1] ,,c) [,,d{,,a}] | [,,a{,,,a}1] \
+,,c/ ,,d ,a1 | [,a,,,c1] ,,d/ ,,c ,,d ,a | "
+27;c moll;21v;Trio Liuto 1°;;;;Conc_4235;3;"{4}1 ,f h | {a}/ (h g) ,h g1 | {a}1 ,,c [aa] | {4}/ a ,b ,a \
+V[,b{4}1] | {d}/ ,b ,a ,,d ,a1 | "
+28;c moll;22r;Trio Liuto 2do;;;;Conc_4236;3;"[c{4}/] a (,b ,a) ,,d ,b | [,a{a}1] (,,,c/ ,,,b) ,,,c1 | \
+[,,c{a}/] ,,d ,a1 [,,c{a}] | [,,,c{4}1] (,,d/ ,,c) ,,d1 | \
+,,,a/ ,,,,b ,,,a1 ,,b/ ,,,a | "
+29;C dur;22v;Gigue da Tauseana;Tauseana;;;;6/8;",,,c/ | [,,d{4}/] ,,,c ,,d [,,d{,,a}] ,,,c ,,d | [,a{a}/] \
+,,,c ,a [,a,,,c] ,,,c ,a | [,c{4}/] a ,c [,a{,a}] ,c ,,d | \
+[,,c{a}/] ,,d ,a ,,,c1 c/ | "
+30;D dur;23v;Preludio da Tauseana;Tauseana;;;;C;"{,,,a}/4 ,,,b ,,a ,a {,,,a} ,,,b ,,a ,a {,,,a} ,,,c ,,c ,a \
+{,,,a} ,,,c ,,c ,a | {,,,a}/4 ,,,c ,,e ,c {,,,a} ,,,c ,,e ,c"
+31;C dur;24v;Bourlesca du même;Tauseana;;;;2;"{4}/ c ,c c | {a}/ a ,a a | {4}/4 (,c ,a) ,,d ,a/ [,,c{a}] | \
+V[,,d{4}/] {,,a} {,a} {a} | {4}/ c ,c c | "
+32;C dur;25v;Menuet;;;;;3;"[,,d{4}1] ,,,c [,c{4}] | ([,c{a}/] ,a) (,,d ,,c) [,,d{,,a}1] | \
+[,a{,,,a}/] ,c a1 [,cd{4}] | [,'a{a}2] {,a}1 | {,,a}/ c ,,d \
+c {,a} e | "
+33;D dur;26v;Favorita da Sig. Weiss;S.L.Weiss;;;Conc_1423;2;",a/ | [,,,'b{,,,a}/] {,,a}/4 ,,,c {,a} ,,a {a} ,,c | \
+[,,a{,,,a}/4] (,,,c ,,,b) ,,,,c ,,,,a/ [,,c{a}] | \
+[,,'a{,,,a}/] {,,a}/4 ,,a {,a} ,,a {a} ,,c | "
+34;D dur;27v;Menuet;;;;;3;"[,a{,,,a}/] ,,e ,a ,,e [,a{,,a}] ,,e | [,a{,a}/] ,,e ,a ,,e \
+,a ,,a | {4}/ ,,a ,,e ,c (e c) | {,,,a}/ b ,c b ,a1 | "
+35;D dur;28v;Pastorella da Tauseana Liuto 1°;Tauseana;;;;2;"[,e{,,,a}/] e/4 ,e ,c/ ,c/4 ,,e | [,a{,,a}/] ,,a [,'c] ,,a | \
+[,e{,,,a}/] e/4 ,e ,c/ ,c/4 ,,e | [,a{,,a}/] ,,a [,'c] ,,a | \
+[,e{,,,a}/] ,,a [d{,,a}] ,,a | "
+36;D dur;29v;Menuet;S.L.Weiss?;;;Conc_1424;3/4;"{,,,a}/ ,a ,,f ,a [,,f{,,a}] ,a | {,a}/ ,,f ,e ,,f e ,e | \
+{a}/ g {,a} e {,,a} ,f | {,,,a}/ ,e ,,h ,e ,,f1 | "
+37;A dur;30v;Preludio;;;;;C;",,,,,a/4 ,c ,,e ,c ,,,,,a ,c ,,e ,c ,,,,,a/4 b ,a b ,,,,,a \
+b ,a b | ,,,,,a/4 d ,a d ,,,,,a d ,a d"
+38;A dur;31v;Arietta;;;;;2/4;",,,,,a/ ,,e ,,,,,c ,a | ,,,,,e/ ,c ,,,,,a ,,e | ,,,,a/ ,e \
+,,,,,c d | [e,,,,a/] ,c ,,e ,,,a | {,a}/ ,a [,'a{,,a}] ,,e | "
+39;A dur;32r;Scherzo;S.L.Weiss;;;Conc_725;2/4;",,a/ | [,c,,,a/4] ,e ,c/ [,c{a}/4] ,e ,c/ | [e{,a}/] ,,a \
+{4}/ e/4 d | {,,,a}/4 ,e {,,a} ,c {,a} ,a {a} ,c | ,,,,,a/4 \
+,a (,,e ,,c) [,,a{6}/] ,,e | "
+40;A dur;32v;Menuet;S.L.Weiss;;;Conc_726;3;"[,,'a,,a2] [,,c{a}1] | V[,,e,,a1] ,,a/ ,,c ,,e ,a | \
+V[,c{4}2] V[,e{,,,a}1] | [,,a{,,a}1] ,,,d [,,a,,a] | \
+{4}/ ,c ,e ,c [,a{,,,a}] ,,e | "
+41;A dur;32v;Preludio;;;;;2;"{6}/4 e d ,e ,c ,a ,,e ,,c | [,,a,,a/4] ,,,d ,,a c [#c{4}1] | \
+[,e{,,,a}/4] ,c ,a ,,e ,,c/ ,,a | [,,,d{,,a}/4] ,,a \
+[,,'a{,a}/] ,,,d [,,a{,,a}/4] {,,,a} | "
+42;A dur;33r;Gigue;;;;Conc_1425;6/8;",,,,,a/ e ,c ,,e ,c ,,e | V[,,c{a}/] ,c ,,c ,,,d ,,c ,,,d | \
+{,a}/ ,e d (e d) ,e | {,,a}/ d ,c ,,c ,c ,,c | "
+43;B dur;33v;sans titre;;;;;C;"a/ | V[,,b{5}/] ,,,,,a/4 ,,d {5} ,a {4} ,b {,,,a}/4 a \
+([,b{,,a}] ,a) [,,d{,a}/] a/4 ,,a | {a}/4 ,,b {a} {,a} \
+,,,,c/4 ,,,c ,,d ,,b [,,'a{,a}/] ,,,c/4 ,,a [,,,a{,a}/] 'a | "

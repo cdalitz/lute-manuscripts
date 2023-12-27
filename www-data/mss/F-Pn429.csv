@@ -1,0 +1,240 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;2r;Hans von Mentz Gassenhauer;;;OT;ConcR1596;3;"[b,da1] | [b,da/] ,d ,b ,,e ,,d ,,b | [b,da1] ,d3/2 [bd,a/] | \
+[a,b,d/] ,,d ,,b ,,,d ,,,c ,,,a | [a,b,d1] ,b3/2 [a,b,d/] |";italian7tab
+2;;2v;Passa e mezo antico;;;OT;ConcR2123;C;"[abd,a1] ,,,c [abd,a] [,dbac] | \
+[abd,a/] ,,a/4 ,,b ,,d ,a ,b ,d a ,d ,b ,a ,b ,d a c |";italian7tab
+3;;3v;Saltrello;;;OT;ConcR2124;3;"[abd,a3/2] [abd/] ,,,c1 | [abd,a/] ,,,,c ,,,,d ,,,a ,,,c ,,a | \
+[dab,,d1] ,,,a/ ,,d ,,b ,,a | \
+[dab,,d/] c [a,b] ,d [,b,,,d] ,a |";italian7tab
+4;;4v;Passa e mezo Antico;;;OT;ConcR2125;C;"[bdda1] ,,,a/ ,c ,d a b d | \
+[bdda/] a [,dd] a [b,,a] ,d [a,d] b | \
+[abb,d/] ,,,a ,,,c ,,,e";italian7tab
+5;;5v;Saltrello;;;OT;ConcR2126;3;"[bdda3/2] [bd/] ,,d1 | [bdda/] a [,dd] b [a,,a] ,d | \
+[abb,d/] ,,,a [dabc] ,b [b,da] ,a | \
+[abb,d/] ,,d ,b d [b,,,d] a |";italian7tab
+6;;6v;Passa e mezo antico;;;OT;;C;"[cda,c1] ,,,a/ a ,d ,c ,d a | [,daac/] c d c a ,d [,c,,c] ,a | \
+[acd,a1] ,,,c/ c a ,d ,c ,a |";italian7tab
+7;;7v;Saltrelle;;;OT;;3;"[caa,c1] ,,,a/ a ,d ,c | [,daac/] c a ,d ,c ,a | \
+[acd,a/] ,,,,c [a,d,e] ,,,,a [,daac] ,,c |";italian7tab
+8;;8v;Passa e mezo antico;;;OT;;C;"[aab,,a1] ,,,c/ ,,d ,a ,,d ,,b ,,a | \
+[aab,,a/] ,d a c a d c a | [cdda1] ,,,a/ ,c ,d a c d |";italian7tab
+9;;9v;Saltrelle;;;OT;;3;"[aab,,a3/2] [aab/] ,,,c1 | [aab,,a/] ,d a d c a | \
+[cdda/] d f d c a | [cdda/] a c ,d a d |";italian7tab
+10;;10v;Passa e mezo antico;;;OT;;C;"[ecc,e1] ,,,c/ c a ,e a c | [a,c,e/] ,e ,c e c a ,e ,c | \
+[,ea,c/] ,c ,a ,c";italian7tab
+11;;11v;Saltrelle;;;OT;;3;"[ecc,e3/2] c/ a1 | e1 [ccc,e] a | [,ea,c/] ,c ,a ,c ,e a | \
+[,ea,c/] ,c ,e ,a ,c ,e |";italian7tab
+12;;12v;Chi passa per questa strata;(M.Neusidler);;OT;ConcR178;3;"[acd,a1] :||: [acd,a3/2] [acd/] ,,,c1 | \
+[acd,a/] ,a ,c ,d a ,d | [acd,a3/2] [acd/] ,,,c1 | \
+[acd,a/] ,a ,c ,d [acd,a1] |";italian7tab
+13;;13v;Cariarda;;see next - f. 14r empty;OT;;none;"[dab,,d2] [cdda1] a/ c [dab,,d1] ,,b2 [abd,a1] [,daac] \
+[,bb,d3/2] [,aa/] ,,d1 [dab,,d2] [dab1] [dab,,d] :||: \
+[dab,,d1] c/ a [cdda1]";italian7tab
+14;;13v;Galliarda;;see previous;OT;;3;"[dab,,d2] | [cdda1] a/ c [dab,,d1] | ,,b1 [abd,a] [,daac] | \
+[,bb,d3/2] [,aa/] ,,d1 | [dab,,d2] [dab1] [dab,,d] :||: \
+[dab,,d1] c/ a [cdda1] |";
+15a;;14v;In te Domine sperauij p. pars;;;OT;ConcR557;C;",,d2 ,,d1 ,,d/ ,,a/4 ,,c | \
+,,d/4 ,,a ,,c ,,d ,a ,,d ,,c ,,a ,,c1 ,,a | [a,d/4] ,,c ,,d ,a";italian7tab
+15b;;18v;Et propter Nomen tuum seconta pars;;;OT;ConcR1597;C;,a2 ,a1 ,a | ,c/ ,a/4 ,c ,e ,a ,c ,e a ,c ,e a c ,e a c |;italian7tab
+16a;;22v;Vita in ligno moritur - pars prima;;;OT;ConcR1801;C;a2 ,d/4 ,b ,a ,b ,d ,a ,b ,d | [a,,Xc/4] ,d ,b ,d a ,b ,d a |;italian7tab
+16b;;25r;Qui prophetice secunta pars;;;OT;ConcR1991;C;"a2 [,df/4] ,b ,a ,b ,d ,a ,b ,d | \
+[a,d/4] ,b ,d a b1 ,a [ab] |";italian7tab
+16c;;27v;Qui expansis tertia pars;;;OT;ConcR1992;C;",,,c2 ,,,c/4 ,,,a ,,,c ,,,d ,,,c/ ,,,a/4 ,,,,d | \
+[,a,a1] ,,,a [,a,Xc/4] ,,d ,,b ,,d ,a ,,b ,,d ,a |";italian7tab
+17a;;30r;Stabat mater dolorosa prima pars;;;OT;ConcR3572;C;,,d2 [f,d] | [fcdXe/] c/4 d f d c ,f [cdXda] a c d c a ,d ,c |;italian7tab
+17b;;34r;Eija mater secunta pars;;;OT;ConcR1598;C;"[c,da2] [ca,a1] [,d,,c] | \
+X[cd,,Xc/4] ,f d c ,f ,d ,c ,,f [ghhXe] e g h g ,h e g |";italian7tab
+18a;;38v;Benedicta es Celorum - prima pars;;;OT;ConcR1599;C;"[a,,c2] [a,,c/] ,,,b ,,,c ,,a | \
+[a,c/] ,,a/4 ,,c ,,d1 [a,,Xc/4] ,,a ,,c ,,e ,a ,c ,e a |";italian7tab
+18b;;44r;Per illud ave - Secunta pars;;;OT;ConcR1600;C;",a2 [cd/4] ,c ,a ,c ,d a c e | \
+[fd/] ,c/4 ,d ,c ,a [fc] ,a ,,d ,,c ,,a ,,c ,,d ,a |";italian7tab
+18c;;46r;Nunc Mater - tertia pars;;;OT;ConcR1601;3;",a1 ,a ,c | [,d,,c] ,,,,c [,c,,Xe/] ,a | \
+[c,da1] [ca/] a/4 c [ea,c1] | [f,de1] [,,aa/] ,,c [e,cc1] | \
+[a,d,e1] [cd,a/] ,c [,acXc] a |";italian7tab
+19;;47v;Chi passa per questa strata;;ff. 49r - 50r empty (setting by M. Neusidler);OT;ConcR178;3;"[cef,c1] :||: X[cef,Xc3/2] [cef/] ,,,e1 | \
+X[cef,Xc1] ,,,e/ ,f ,e ,c | [Xcef,Xc/] ,c ,,f ,c ,e ,f |";italian7tab
+20;;50v;Recercata gueth di francesco milanese;;"comment: ""good""";OT;ConcR463;C;"[aa,c3/2] ,,a/ [a,c1] ,,d | a1 ,,c/ ,,d [a,c1] ,,d | \
+[c,f1] ,d c ,c/ ,a | [c,d1] ,a c ,,d/ ,,c |";italian7tab
+21;;52r;Recercata gueth di francesco milanese;;"comment: ""good""";OT;ConcR1295;C;"[,aabc2] [,aabc1] [,aabc] | [,acc1] ,,,,,a [,acc] [,aabc] | \
+[,,,ce/] ,a ,,e ,,c [,,ece1] a | \
+[,a,ec/] a ,e ,c [,e,ec1] [aacc] |";italian7tab
+22;;53r;Recercata gueth di francesco milanese;;"comment: ""good""";OT;ConcR1291;C;"[aa,c2] [aa,c] | [ac,,a1] ,,d/ ,a ,c ,e a c | \
+[ea1] a ,d/4 ,c ,a ,,d | [,ac,,a1] ,,,c/ ,,a ,,c ,,d ,a ,c |";italian7tab
+23;;53v;Recercata gueth di francesco milanese;;"comment: ""good""";OT;ConcR1284;C;"[dd,,,d3/2] c/ d f h1 | ,,,,,a/ f e c a ,d ,c ,a | \
+[,c,,a1] ,,d/ ,a ,c ,d [aac1] |";italian7tab
+24;;55v;Recercata assez bizarriens(?) di francesco milanese;;"comment: ""rather bizarre""";OT;ConcR1301;C;"[,,d,a3/2] ,,,,c/ ,,,,d1 ,,,a | [,,,ca1] ,,,e ,,,c ,,d | \
+[,a,,,a1] ,,c/ ,,a ,,c ,,d ,a1 | \
+,,,a1 ,,d/ ,,d [,acc] ,,a ,,d ,,c |";italian7tab
+25;;56r;[End of] Recercata di francesco milanese;;missing pages according to other page numbering;OT;;C;"[fd,a1] d [cd] [ac] | [,df1] d/ ,,,e [hd,f1] [fd,e] | \
+[da,c1] [c,,a] a ,,d/ ,,b | [f,a1] ,,,c/ d c ,,,a [a,,,d1] |";italian7tab
+26;;56v;Re: zimlich di francesco milanese;;"comment: ""rather""";OT;ConcR1300;C;"[a,d2] c1 a | ,,d/ ,c ,d a c1 a | ,,c1 ,d ,c ,a | \
+a1 ,,d/ ,d ,c ,a ,c1 |";italian7tab
+27;;57v;Recercata ser gueth di francesco milanese;;"comment: ""very good""";OT;ConcR447;C;"[a,,c3/2] ,,a/ [a,c1] ,,d | a1 ,,c [c,a3/2] ,,c/ | \
+,,d1 ,a c/ ,,d ,,c ,,a | [e,,c1] [c,ab] ,,c [a,d] |";italian7tab
+28;;59v;Re: zimlich di francesco milanese;;"comment: ""rather""";OT;ConcR3575;C;"[aa,,,a1] ,,,c ,a ,,a | [aac1] ,,d [aac] ,,d | \
+a/ ,,a ,,c ,,d [a,c1] ,,d | [acd1] ,,,,a [acd] [,ac] |";italian7tab
+29;;62v;Recercata zimlich di francesco milanese;;"comment: ""rather""";OT;ConcR1292;C;"[,dda2] [,dda] | [,daac2] [,dbc,d] | [,ddef2] [,ddef1] ,,f | \
+[acd,a1] ,d [add,a] ,c | [cdda2] [acd,a1] c | \
+[dabc1] a [,abc] [dc] |";italian7tab
+30;;64r;Recer: zimlich Mediocre di francesco milanese;;"comment: ""rather mediocre""";OT;ConcR450;C;"[f,,a3/2] d/ c a ,d ,b | \
+[,a,,,d/] ,,d ,,b ,,a [,a,c] ,,,a ,,,,d ,,,,c | \
+[,a,,b/] ,d ,f ,d ,b ,a";italian7tab
+31;;68v;Recercata ser gueth di francesco milanese;;"comment: ""very good""";OT;ConcR1283;C;",,b2 ,,b1 ,,d/ ,a | ,b1 ,,,,d [,b,,d] ,,,a/ ,,,c | \
+,,,d1 ,b ,d ,,,d | ,,b/ ,b ,d/4 ,b ,a ,,d [,ab1] [,,dd] |";italian7tab
+32;;72v;Recer: Bizarriens(?) di francesco milanese;;"comment: ""bizarre""";OT;ConcR3576;C;"[aa,c,a2] [aa,c,a] | [ab,ca2] [aa,c,d] | \
+[a,,cdf1] ,,d/ ,a ,b ,d a c | \
+[db,c,a1] ,a/ ,,,,,c [d,,,,d1] [c,d,a/] [a,b] |";italian7tab
+33;;74v;Recercata Zimlich gueth di francesco milanese;;"comment: ""rather good""";OT;ConcR1285;C;"[fdaa2] [fdaa] | [dabc1] ,c [cdda2] | \
+[acd,a1] c ,,d/ a ,d ,c | [,ab1] a ,,a ,d | \
+[f,,ca1] ,c/ ,a [fd,ca1] ,c |";italian7tab
+34;;77r;Recer: gmain ding di francesco milanese;;"comment: ""ordinary thing""";OT;ConcR3577;C;"[,dda2] [,dda] | [,db,c1] ,,,,,d [,db/] ,,,,a ,,,,c ,,,,d | \
+[,daa1] c [,,aa/] a ,d ,b | [,abc1] [,b,,d] ,,,c/ ,a ,,d ,,b |";italian7tab
+35;;78v;Recercata zimlich di francesco milanese;;"comment: ""rather""";OT;ConcR1286;C;"[,d,,a3/2] a/ c d f1 | ,,d1 d/ c [a,d1] c | \
+[da1] c ,a a/ ,d | [c,d1] [ab] ,,b/ ,d ,c ,a |";italian7tab
+36;;79v;Recercata zimlich di francesco milanese;;"comment: ""rather""";OT;ConcR1292;C;"[,daa2] [,dda] | [,daac2] [,dba,d] | \
+[,ddef1] [,ddef] ,,f [ccd,a] | ,d1 [acd,a] [cdda2] | \
+[acd,a1] c [dabc] a | [,abc1] [dc] [cdda] a |";italian7tab
+37;;81v;Recercata Zimlich gueth di francesco milanese;;"comment: ""rather good""";OT;ConcR1263;C;"[a,,c2] [a,,c3/2] ,d/ | ,c1 ,a [,,de] ,,c | \
+,,a/ ,,d ,,c ,,a [,,cc3/2] ,,,a/ | \
+,,,,e1 ,,,,c [,,d,a] ,,,,,e |";italian7tab
+38;;83v;Recercata zimlich di francesco milanese;;"comment: ""rather""";OT;ConcR1293;C;",a2 ,,e1 ,a | ,,,,c/ ,c ,d1 ,c ,d | [ca2] [b,c1] [c,d] | \
+,,a/ e f1 [e,,d] [f,a/] ,,,c |";italian7tab
+39;;85r;Recercata zimlich di francesco milanese;;"comment: ""rather""";OT;ConcR1294;C;"[,aa,c2] [,aa,c] | [,ac,,a1] ,,,c [,ac,,a] ,c | \
+[,d,,c1] ,a/ ,c ,d a [ca1] | ,,d1 [a,b] [,da] ,c | \
+,,,c1 [,a,a] [a,,,e] ,,e |";italian7tab
+40;;86r;Recer: ser gueth di francesco milanese;;"comment: ""very good""";OT;ConcR1326;C;"[,cc,e2] [,cc,e] | [,cde,c2] [,daac] | \
+[,acc,a1] a ,,,,a/ ,d ,c ,a | [,,d,,c1] ,c ,,,,a ,a/ ,,d | \
+[e,cc1] ,,a [ea,,,e] ,,,d |";italian7tab
+41;;87r;Recercata - diss recercar ser gueth di francesco milanese;;"comment: ""this recercar very good""";OT;ConcR1296;C;"[,aa,c2] [,aa,c] | [,aabc1] ,,,,c [,aab] [,aabc] | \
+[,abc,a2] [,abc,a1] ,,,,,c | \
+[,abc,d1] ,,,,,a [,abc,d] ,,,,,a | [,aabc2] [,ab,c1] ,,a |";italian7tab
+42;;88v;Recercata di francesco milanese;;;OT;ConcR1298;C;"a2 ,d1 ,a | [,cd2] [,ac1] ,,,c/ ,c | [,da1] ,c ,,,c ,a | \
+,,,a/ ,,d [,,c,c] ,,a [a,,ce1] [,,d,a] |";italian7tab
+43;;89v;Recercata di francesco milanese;;;OT;ConcR1297;C;"[,cc,e2] [,cc,e] | [,cd,,c2] [,,d,,c1] ,,c/ ,,,e | \
+[,c,de1] ,a [,c,,e] ,,,d | [,,def1] ,a/ ,,,,e [,c,,a1] [,d,,c] | \
+,,a1 [,c,,e] [,,aac] ,a |";italian7tab
+44;;90v;Recer: ser nichts bestende (?) di francesco milanese;;;OT;ConcR3578;C;"[,a,,c/] ,,,,a ,,,,c ,,,,d [,a,a] ,,,,c ,,,c1 | \
+,a/ ,,,b ,,,c ,,a [,ab1] [,da] | \
+[,c,c1] [,a,a] ,,,,d/ ,,d ,,f/4 ,,d ,,c ,,d |";italian7tab
+45;;92r;Recercata di francesco milanese;;;OT;ConcR1299;C;"[a,c,,a2] [a,d1] c | ,,,,a/ ,d ,c ,a ,,d ,,c ,,a ,,,c | \
+[,,aa1] ,d ,,,,c/ ,c ,a ,,d | [,,cc1] ,,d  [,,dc] ,,c |";italian7tab
+46;;94r;Recercata di francesco milanese;;;OT;ConcR3580;C;"[,d,a2] ,,,a1 ,,,c | [,da1] ,,b [,cd] ,,a | \
+[,ab3/2] ,c/ ,d1 [a,b] | [,,de1] [,d,a] ,,,c ,c | [,d,a1] f/ d";italian7tab
+47;;96r;Recercata nicht bestende (?) di francesco milanese;;;OT;ConcR3579;C;"[f,,a3/2] d/ [c,,a1] a | [,db1] a ,,,c/ ,d ,c ,a | \
+[,,de1] c ,,,a/ a ,d1 | ,,,c1 ,c/ ,a [,c,c1] d |";italian7tab
+48a;;97r;benedictus dominus deus Israel - Hans Gerle 1545 zü nürnberg - p. parte;;;OT;;C;",,a2 ,,a1 ,,,c/ ,,a | \
+[,,b,c1] ,,,,,d/ ,,,,a [,,a,c] ,,,,a ,,,,c1 | \
+[,,cd/] ,,,a ,,,c ,,a [,,b,c] ,,a ,,b1 |";italian7tab
+48b;;99r;Honor [virtus] Hans Gerle zü nürnberg 2a pars;;f. 101r empty;OT;;C;a/ ,d a c d a d1 | f/ d c a c ,d a c | [da1] c ,a/ a ,d ,c |;italian7tab
+49;;101v;Cest a grand tort;;;OT;ConcR1757;C;"[aa,c/] ,e [,aa/4] ,e a c [ea,c/] f [h,,,h1] | \
+[ac,,e1] [f,,,a] [,a,c] e | [fc1] ,,,,a/ ,e [a,d,e] [cd,a1] |";italian7tab
+50;;102v;Le content;;;OT;ConcR235;C;",d2 | [fd1] ,d | [f,d1] [f,d] | [ab1] [ab] | [da1] d | \
+[b,da/] a [,d,d] ,b | [,dda/] ,,b [,,da] ,a | \
+[abd,a1] [,,d,a/] ,d |";italian7tab
+51;;103v;ser nicht … Tant que viuray;;;OT;ConcR854;C;"[fd,af2] | [fdaa1] [dabc] | [cdda/] a c/4 a c d | \
+[cdda1] [ca,af] | [acd,a1] [a,dca] | \
+[aacd1] [aabc] | [acd,a/] ,,d/4 ,,c ,,d/ ,a ,c ,d |";italian7tab
+52;;105r;Fantasia sehr schliecht und zimlich gueth;;f. 107r empty - comment: very plain and rather good;OT;ConcR1354;2;"[,,ba,d2] | [,,ba,d1] ,,,,a | [,,bac1] ,,,,,d | \
+[,,bcd1] ,,d | [,a,a,d1] ,,b | [,a,a,d] ,,,c | \
+[,,def1] ,,,f | [,,d,f1] ,,,e | [,,ff1] ,d | a1 [c,de] |";italian7tab
+53;;107v;Recercare bella;;;OT;ConcR1350;2;",,,c/ ,,a ,,b ,,d | ,a/ ,c ,d a | c/ d f d | c/ a ,d ,b | \
+,a/ ,,d ,,b ,,a |";italian7tab
+54;;109r;Recercare ser zimlich ... 1[5?]76 composes;;;OT;ConcR1602;2;"[aa,c2] | [aa,c1] ,,a | [a,c1] ,,d | c1 ,,c/ ,,a | \
+[e,,c/] ,,a ,,c ,,d | [ea1] ,c | c1 ,e | [af1] ,c |";italian7tab
+55;;113r;Pour un plaisir;;ff. 113v - 114r empty;OT;ConcR858;2;",,,,,d1 [,,,a,d/] ,,,,a | [,,,ac/] [,,,c,d] [,,a,a] [,,,ac] | \
+[,,bcd/] ,,,e [,d,f,d] ,,d | [,df/] [a,,d] [c,def] [,df] | \
+[abb,d/] c [dabc/4] ,,a ,,b ,,d |";italian7tab
+56;;114v;Douen sela;;D'ou vient cela;OT;ConcR852;2;"[,ddaf1] [,dddf] | [,dff,d1] [,cdca] | [,cdca1] [,dddf] | \
+[,,ff/4] [a,,,d] ,,,,c/ | [bbd,a1] [fdd,,d] | \
+,,,a/ ,,d [b,dd] ,a |";italian7tab
+57;;115r;Elslein (liebes Elslein);;;OT;ConcR2002;3;"[a,,c1] | [a,bc/] ,d a c [d,bc1] | [c,da3/2] ,a/ [ac,,e1] | \
+[cd,,c/] a c d [fc,e1] | [h,ff1] ,f [h,,,h] | \
+[fc,e3/2] [d,,c/] [cd,a1] |";italian7tab
+58;;115v;Pour un plaisir;;;OT;ConcR858;2;",,,,,d1 [,,,a,d/] ,,,,a | [,,,ac/] [,,,c,d] [,,a,a] [,,,ac] | \
+[,,bcd/] ,,,e [,d,f,d] ,,d | [,df/] [a,,f] [c,def] [,df] | \
+[abb,d/] c [dabc/4] ,,a ,,b ,,d |";italian7tab
+59;;116v;Title?;;;OT;;2;",d/ ,c/4 ,a ,c ,a ,c ,d | a1 ,,d | [c,a1] [,,da] | \
+[,dffc/] ,,d [,,ff,d] ,c | [,da,c/] ,,,,a [,d,,c] ,,,,e |";italian7tab
+60;;118r;Cest facieulx sott (a);;;OT;;2;"[,d,a1] | [cd,a/] a c [d,,c] | [fd,e1] [cd,f] | \
+[,cd/] f [fa,e] ,,d | [,,fc/] e/4 c f/ e | [f,d,a3/2] d/ |";italian7tab
+61;;118v;(Title?);;;OT;;3;"[a,,c1] | [ca3/2] [ca/] [ca1] | [da2] [da1] | \
+[ca3/2] [c,d/] [a,b1] | [f,a1] c ,a | [d,b1] a ,,d | \
+[c,a1] ,e ,,a | [a,,a2] [aa,a1] |";italian7tab
+62;;120r;Recercar;;;OT;;none;"[da,c/] c [aabc] ,,,,a [aa,,c1] ,e [,fff,a] e1 \
+,,,,,a/ [fe] [df] [cd] [df] [ac] [dc] [df] [cdda/] a";italian7tab
+63;;120v;Benedictus;;;OT;;2;",,,,c/ ,,,,a ,,,,c1 | ,,,,,d1 ,,,,,c ,,,b | \
+[,a,c,a/] ,,,,,c ,,,,d ,,,,a [,a,,c1] [,,d,e] | \
+[,a,b1] [,,bc] ,,a ,,,b | [,a,c/] ,,a ,,b ,,d [,a,a1] [,cd,e] |";italian7tab
+64;;122v;Quanto io penso al martire;;;OT;ConcR1327;C;"[aa,c2] [,cd] | a1 [,ac] ,,,c [aac] | \
+[cc,e1] [,ed] [aa,c] [,ac] | \
+,,,c1 [aac/] [aca/4] ,a ,c ,a ,c ,e |";italian7tab
+65;;123v;Title?;;;OT;;3;"[abb,d1] | [abb,d1] ,a/ ,,d ,,b1 | [abb,d/] ,a ,,d ,a ,b ,d | \
+[abb,d1] ,,,c/ ,d [ab1] | [abb,d/] ,d a ,b ,d a |";italian7tab
+66;;123v;Title?;;;OT;;3;"[acd,a/] ,a ,,d ,a ,c ,d | [acd,a1] ,,d [dcd,a] | \
+[bbd,,b1] ,,,d/ a [bb1] | [bbd,,b1] [bb] [bbd,,b] | \
+[abb,d1] ,,,c/ ,d [ab1] |";italian7tab
+67;;124v;La grimoda(?);;;OT;;3;"[c,,a/] a ,d ,c [,a,a] ,,d | [,aba,d/] ,,d ,a ,c [,d,ac] ,c | \
+[a,,,,d/] ,d [acd,a] ,d ,a ,c |";italian7tab
+68;;125v;Title?;;;OT;;2;"[aa,c1] | [aac1] ,,,c/ ,d [acd,a] ,a [a,d] | \
+[,aa,c1] a ,e/ ,c [,ea] [,ea,c] | \
+[aabc1] [cdda] [da,ac] [fb,,a/] ,a |";italian7tab
+69;;127v;Canella;;;OT;;3;"[abb,d1] [ab] | [abb,d2] [abb,d1] | [abb,d3/2] d/ c a | \
+[,aba,d1] [,a,a] ,,b | [,aba,d/] ,b ,d ,a ,b ,d |";italian7tab
+70;;128v;Title?;;;OT;;3;"[abb,d1] | [abb,d1] [ab] [bbd,,b] | [bb1] [,b,a,d] ,b/ ,a | \
+[abb,d1] ,,,c/ ,a ,b ,d | [abb,d1] [ab] [abb,d/] ,d |";italian7tab
+71;;129v;[Pass'e mezzo antico];;;OT;;2;"[,dda3/2] a/ | [b,,a1] d | [f,,a1] ,d/ a | [b,,a/] ,d a b | \
+[abb,d1] ,,,c/ ,d | [ab1] [abb,d] | [abb,d1] ,,,c/ ,d |";italian7tab
+72;;130r;gaiarda;;;OT;;3;"[b,,a1] b/ a [,d,a] a | [b,,a/] a b d b/ [b,,a] a ,d | \
+[abb,d1] ,,,c/ ,d [ab1] | [abb,d1] [ab] [abb,d] |";italian7tab
+73;;131v;[sans titre];;crossed out;OT;;3;"[,d,ac1] ,c [a,,,,d/] ,d | [acd,a/] ,a ,,d ,a ,c ,d | \
+[acd,a1] ,,d [acd,a] | [bbd,,b1] ,,,d/ a [bb1] | \
+[bbd,,b/] ,,,,,a [bbd,,b]";italian7tab
+74;;132r;[Chi passa per questa strada];;very faint;OT;;none;"[,ea,c] ,,a [,ea,c] [,ea,c] ,c [,ea,c] [a,bc] ,,d ,a ,c ,d a \
+[cdda] [c,a] [d,b,,d] [d,b,,d] c d a";italian7tab
+75;;132v;Title?;;;OT;ConcR1400;2;"[hd,f,d2] | [hd,f,d1] [hd,f,d] | [f,aa3/2] [d,,c/] | \
+[ca,,a1] [da,c] | [f,aa1] [ha,f] | [da,c/] a/4 c d a c d | \
+[ca,,c/] ,,a [ca] ,,,,c |";italian7tab
+76;;135r;Recercar di F M;;;OT;ConcR1603;C;"[a,,c3/2] ,,a/ | [a,b1] ,,,c | [,da1] ,,b | \
+[,bd/] ,a/4 ,b ,d ,b ,a ,,d | [,ab1] ,,,c | \
+,,a1 ,,,b | ,,,c1 [da] |";italian7tab
+77;;136r;[Pass'e mezzo antico];;;OT;;2;"[abd,a/] ,a ,b ,d | [abd,a1] [abd,a] | \
+[,aba,d/] ,,a ,,b ,,d | [,aba,d1] [,aba,d] | \
+[abd,a/] ,a ,b ,d | [abd,a1] [abd,a] | [aac,,a1] ,,,c |";italian7tab
+78;;136v;[Pass'e mezzo antico];;;OT;;C;"[cce,,c1] ,,,e/ a | [ca1] [cce,,c] | [cce,,c1] ,,,e | \
+[cc1] [cce,,c] | [aac,,a1] ,,,c/ ,,d | [aac1] [aac,,a] | \
+[aac,,a1] ,,,c | [cce,,c1] ,,,e/ a |";italian7tab
+79;;137r;galiarda;;;OT;;3;"[cce,,c1] ,,,e/ a [cc1] | [cce,,c1] [cc] [cce,,c] | \
+[aac,,a1] ,,,c/ ,,d [aac1] | [aac,,a1] [aac] [aac,,a] | \
+[cce,,c1] ,,e/ a [cc1] |";italian7tab
+80;;137v;[Pass'e mezzo antico];;faint copy;OT;;C|;"[acd,a1] ,,,c | [acd1] [,cd,a] | [acd,a1] ,,,c | \
+,d1 [acd,a] | [,ab,,d1] ,,,a | [,ab1] [,ab,,d] | \
+[,ab,,d1] ,c | [,db,,d1] [aab,,d/] ,d |";italian7tab
+81;;138r;gaiarda;;;OT;;3;"[abd,a1] ,,,c/ ,a [ab] | [abd,a1] [ab] [abd,a] | \
+[,aba,d1] ,,,a/ ,,d [,ab1] | [,abc,d1] [,ab] [,aba,d] | \
+[abd,a/] ,d ,b ,a [abd,a1] |";italian7tab
+82;;139v;[Pass'e mezzo antico];;faint copy;OT;;C;"[a,bc3/2] ,d/ a c [d,bc] ,,,,d ,,,a ,,,c [c,da3/2] \
+,d/ ,c ,d e c d1 [cd,a] ,,d c ,,d |";italian7tab
+83;;140v;[Pass'e mezzo antico];;;OT;;C;"[,abc2] ,,,,,a | [,abc1] ,,,,,a/ ,,d ,,b ,,d ,a ,,d | \
+[,abc1] ,,,,,a/ ,,d ,,b ,,d ,a ,c | \
+[,dda1] ,,,,,c/ ,c ,a ,c ,d a |";italian7tab
+84;;141v;sans titre;;;OT;;C;",,,a1 | [,,da/] ,,c ,,d ,a ,c ,d a c | \
+[a,,c,a2] [aac1] [f,,a] | [ea,c1] [c,da] [a,bc] [,ea,c] | \
+[a,,c,a2] [a,,c1] ,,,,,a :||:";italian7tab
+85a;;142v;[Pass'e mezzo moderno];;;OT;;C;"[acd,a/] ,a ,c ,d a/ ,d ,c ,a | [acd,a/] ,a ,c/4 ,a ,c ,d | \
+a/ ,c ,d a |";italian7tab
+85b;;143v;2. pars;;;OT;;3;"[acd,a/] | [acd,a1] [acd/] ,,,,a/4 ,a ,c ,d a ,d | \
+[acd,a/4] ,d a c d a | [cdda1] [cdd/] ,,,a/4 ,c ,d a c d |";italian7tab
+85c;;144v;3. pars;;;OT;;3;"[acd,a3/2] [acd/] ,,,c1 | [acd,a/] ,d a c d a | \
+[c,da/] d f h f d | [cd,a/] d/4 c d c";italian7tab
+86;;145v;fragment;;faint copy;OT;ConcR1336;C;"[,dddf2] [,dddf] | [,def,d2] [,dddf1] [,,dca/] ,d ,c ,a | \
+[,ddca1] ,c [,dddf1] f/ ,,,a| \
+[d,,c1] [b,,d/] a [,def1] ,,,,,d/ a |";italian7tab
+87;;146r;[Gagliarda su Pass'e mezzo];;;OT;;3;"[bdda3/2] ,d/ ,,d1 | [f,dd1] [d,bc] [b,da] | \
+[abb,d/] ,a ,b ,d a ,d | [abb,d1] [abb] [abb,d] | \
+[,dda/] ,c ,d a b d |";italian7tab
+88;;146v;[Romanesca];;first trial crossed out [bar missing];OT;;3;"[,dda/] a b d f d | [bbdd1] ,d/ a [bbdd1] | \
+z1 [abb,d1] [,dda] ,c/ ,a | [,cd,a3/2] [,cd/] ,,,c1 | \
+[bbdd1] [bbd] [bbdd] |";italian7tab
+89;;147v;[Un petit coup];;;OT;ConcR1690;none;",,,a2 ,,d1 ,,,,a/ ,,b [,,aa1] ,a/ ,,,c \
+[,,d,e] [,,aa] ,,,,d ,,,a [,,,c,d] [,,a,a] \
+[,,b,c] ,,,,e [,,aaf1] [,,dc] ,,,,e/ ,";italian7tab

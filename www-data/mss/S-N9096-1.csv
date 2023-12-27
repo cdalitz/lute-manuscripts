@@ -1,0 +1,45 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1;d moll;1;Sarabande;;;;;3/4;"[,,,a{,,,a}1] X,,,c ,,a | \
+X[,,a,,e3/2] ,,,c/ ,,a1 | \
+[,,aad1] X,,c [,,d,c] | \
+[,,a,d1] ,a X[,,e,c] | \
+[,a,,a1] X,a3/2 ,,e/4 ,a | \
+,c1 ,,,,,a3/2 ,c/ | \
+[,d,,a1] X[,a{a}3/2] ,,c/ |"
+2;d moll;2;Sarabande;;;;;3/4;"X[,,aaa{,,,a}1] [,,aaa] [,,aaa] | \
+X[,,a,,e3/2] ,,,c/4 ,,a ,,,a1 | \
+[,,,ccd1] [,,,ccd] [,,a,,a] | \
+[,,,a,b/] (,,,,,d ,,,,,b ,,,,,a) {a} (3,,,e/ ,,,c ,,,a) | \
+X,,,,c1 ,,,,,a3/2 ,a/ |"
+3;d moll;4;Courante;;;;;3/4;",a1 | \
+X[,aaaa3] | \
+'[,,e,,a1] {a} '[,a{,a}] | \
+X[,c{,,a}3/2] (a/ c e) | \
+X[a{,,,a}1] ,a/ (a c e) | \
+f1 {a}3/2 e/ | \
+Xc1 ,,a Ve |"
+4;d moll;5;[Allemande];;;;;C;",,a/ | \
+X[,,aaa3/2] ,,b/ [,,d,,a] ,,,a [,,b{a}] ,,,,c | \
+X[,,a{,a}/] ,,,a [,,,c,c] ,,,c ,,,,,d [,,,cc] ,,,,,a [,,aa] | \
+[,a,,,(b/4] ,,,,,d ,,,,,b [,,,,,a)] [,a{a}/]"
+5;d moll;6;[Sarabande];;;;;3/4;"[,aaaa1] [,aaa] [,aaa] | \
+X[,,a{,,,a}3/2] ,,b/ ,,d1 | \
+{a}1 X,,b3/2 ,,d/ | \
+X,,a1 {,a}2 | \
+[aaa,a1] [aaa] [aaa] | \
+X[,,,,,e3/2] a/ ,a1 | \
+Xa3/2 c/ e1 | \
+{a}1 Xc3/2 a/ |"
+6;d moll;7;[Courante];;;;;3/4;"e1 | \
+[eaaaa3/2] (e/ c a) | \
+',c1 ,,,,,a3/2 ,,,e/ | \
+V,,,f1 {a}3/2 ,,,e/ | \
+X,,,c3/2 ,,,,,d/ a c | \
+e1 ,,,,,a/ (,,a ,,c ,,e) |"
+7;d moll;8;[Sarabande];;;;;3/4;"X[,daaa1] [,daa] [,daa] | \
+X[,cd,,a3/2] a/ [,a,,,b1] | \
+{,a}1 X,,d [,,aa] | \
+X[,,a,,a3/2] ,,,,,c/ ,,,,,d1 | \
+,,,c1 ,,,,,b ,,,c | \
+X[,,a,,a3/2] ,,d/ [,,b{a}1] | \
+X[,,a{,a}3/2] ,,,c/4 ,,a ,,,c1 |"

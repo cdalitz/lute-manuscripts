@@ -1,0 +1,46 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;1r;sans titre;;;OT;;C;"[cdda3/2] ,,d/ ,,,a1 c {a} | [cdda1] d ,,,a {a} | \
+[fdaa1] ,,,f/ ,,,e ,,,c1 c | d1 ,d [,da,c] d/ c |";italian7tab
+2;;1r;sans titre;;;OT;;C;"[cdda1] {a} [,aba,d] {11} | [,aba,d1] ,,,,a [,da,c] [a,,,e] | \
+[c,,a1] ,d [d,,c] ,c | [c,,a1] [,d,,c] [acd,e2] | \
+[,dd,c1] ,,c/ ,,a ,,c1 ,d |";italian7tab
+3;;1v;Tochata;;;OT;;C;"[cdda1] c/ ,d ,,,a1 {a} | [cdda1] d/ c a1 ,d | ,,,,a1 {10} [acdca2] | \
+,c1 ,,d ,,,,a {10} | ,,,,,a [aabc] ,,b ,,,c |";italian7tab
+4;;2v;Balletto del Ducha;;;OT;ConcR1224;C;"[cdda1] {a}/ d [cdda1] [acdca] | [,da,c1] {9}/ ,c [,da,c1] [,,da,c] | \
+[,aba,d1] {11}/ ,d [add,a1] ,c | [,dda1] {a} [,dd2] |";italian7tab
+5;;3r;Moroseta;;;OT;;C;"[cdda1] d [f,,e] [c,,a] | [da,c1] ,c [cdda] {a} | \
+[c,,a1] d [f,,e] ,d | [add,a1] ,c [,daa{a}2] | \
+,c1 ,d a ,,d |";italian7tab
+6;;3r;Ruggier;;;OT;Conc_3638;C;",d/ a | [cdd{a}1] [cdd] [cdda{a}] [da,c] | [cdda1] {a} [cdd] a/ c | \
+[d,,c1] [c,,a] [a,,,e] [,d,,c] | [acdca] {10} [acd] :||:";italian7tab
+7;;3v;Galiarda;;;OT;;3;",c1 ,d a | [cdda{a}2] [cdd1] d [cdda{a}2] | [a{8}2] [,d{9}] [,b{10}] | \
+[,aba,d2] [,aba1] ,,,,,c [,aba,d2] | \
+[,da,,c2] [acd,a] {10}1 ,c |";italian7tab
+8;;4r;Passo e mezo;;;OT;;C;"[cdda1] [acdca] | [,dda{a}1] {14} [,dda] a/ ,d | [,c{10}1] [,d{11}] [add{10}] ,c/ d | \
+[cdda1] {a}/ ,c ,d a c d |";italian7tab
+9;;4v;Sonata;;;OT;;3;"[,aba,d2] [,d,,c] [a,,,e] | [cdda{a}2] [cdda1] [cdda] [a,,,e] [,d,,c] | \
+[acdca2] [acd] [,d,,c] | \
+[abb,d2] [abb,d1] [abb,d] [,d,,c] [acdca] | \
+[,aba,d3] [,aba,d1] [acdca2] |";italian7tab
+10;;5r;Balletto;;f. 5v vacuo;OT;;C;",,a/ ,,b | [,dda{a}1] [cd,,c] [da,c] [,,d,a] | [cdd{a}1] f/ d [ca,,c] a ,d ,,,,a | \
+[,db,,d/] ,,,,,c ,,,,,a ,d [,cdc{10}1] ,,a/ ,,b |";italian7tab
+11;;6r;Balletto;;;OT;;C;"[cdd{a}/] a c d [cdd{a}1] [da,c] | [cdda{a}/] a c d [cdda1] [da,c] | \
+[cdd{a}1] a/ c [d,,c] [c,,a] [a,,,e] [,d,,c] |";italian7tab
+12;;6v;[Toccata];;;OT;;C;"[dd{a}2] ,,,a1 ,,,,a | [,dd,,c2] [,a,,,d] | [da,,,a3/2] c/ a c d a | \
+[c,,a1] [d,,,c] [a,,,d] [c,,a] | [dab,bd1] c/ a ,d1 ,,,,c |";italian7tab
+13;;7r;[Toccata];;;OT;;C;"[aabc,a3/4] ,d/4 a3/4 c/4 [d,,c] c a c d c d a | \
+[cdda/] f/4 d c a ,d ,c [,ab,,d3/4] ,,,,a/4 \
+,,,,,d3/4 ,,,,,c/4 |";italian7tab
+14;;7v;[Toccata];;;OT;;C;"[aaccca/] a ,a ,,c ,,,c ,,,,c [a,,,,a] ,a | \
+[aaccca3] ,,,,,c1 | [aa,,,e1] ,,,,,a [aa,,,e] ,,,,a | \
+[,ea,c1] [a,,,a] [aaa,c] [,e{9}] |";italian7tab
+15;;8r;[Toccata];;;OT;;C;"[,ccde3] ,,,,c1 | [,c,,b2] [,da,c] | [,cee,c2] [,,ee] | \
+[caab2] [,,cc] | [,,d,e2] [,,aa] | [,da,c2] [,ccce] | \
+[,cee,c2] z3/2 ,,,e/ ,,,c3/2 ,,,a/ |";italian7tab
+16;;8v;Gagliarda del groppo;;;OT;;3;"[acdca2] [acd1] ,,,,a [acd2] | [acdca2] [,da,c] [a,,,e] | \
+[cdda2] ,,,,a {a} | [a{a}2] [a{8}] [,d{9}] | \
+[,cdc{10}] [,,cdc1] {10} [,cdc2] |";italian7tab
+17;;9r;Volta di franza;;ff. 9v-19r empty;OT;;3;"c1 d2 | [f,,a3] d1 c2 | [d,,c3] c1 a2 | [c,,a3] a1 c2 | \
+,d3 f1 d2 | [c,,a3] ,,,,d1 ,,,,c2 | [acdca3] ,,,,,d1 ,,,,a2 |";italian7tab
+18;;19v;[fragment?];;;OT;;C;"z1 a1 [a,,,a] ,d | [acd,a1] {10} [acd] ,,d | [,,dc1] ,,c [acd,a] {10} | \
+[acd1] d [b,,a] ,,,,d | [bd,,b2] d/ b ,d1 |";italian7tab

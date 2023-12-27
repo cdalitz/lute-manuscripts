@@ -1,0 +1,85 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+;;;N°1;;;;;;
+1;D dur;1-1r;Aria Andante;;;Mandora;;3/8;"[,d,a/] [,d,,e] [,d,,c] | [,d,,a/] [,d,,,a] [,d{a}] | \
+,,,,,a/4 ,a/8 a ,,,,d/4 ,d/8 c a/4 ,d/8 ,c | ,d/ ,,,a ,d |"
+2;D dur;1-1v;Menuet;;;Mandora;;3/4;"[f,,a1] ,,h [h,,,,a] | [f,,a1] ,,h [h,,,,a] | '[f,,a1] ([d{,a}/] c) a ,d | \
+[,c,,a/] ,d a ,c ,,c1 | [a,,,a1] ,,c V[c,,a] |"
+3;D dur;1-1v;Trio;;;Mandora;;3/4;"[,d,a/] a b1 b | [,,d,,a1] [,,d,,a] [,,d,,a] | [,d,,b/] a b1 b | \
+[,,cd1] [,,cd] [,,cd] | [,d,a/] a b1 b |"
+4;D dur;1-2r;Gig;;"ff. 2v-3r (Traverso); ff.3v-4r (Violino); ff.4v-5r (Basso)";Mandora;;6/8;",d/ ,,,a// ,d ,,c ,,,,a a ,c | ,,,a/ c ,d {,a} d ,c | \
+{a}/ f c [a,,,,a] c ,d |"
+;;;N°14;;;;;;
+5;C dur;14-1v;Introduz / 'n troppo presto;;;Mandora;Conc_5084;C;",d/ (c/4 a) ,d/ ,c ,a (,d/4 ,c) ,a/ ,,c | \
+,,a/ ,,,e/4 ,,,c ,,c/ ,,,,a ,,,a ,,,a/4 ,,,c \
+,,,e/ [,,c{,,,a}] |"
+6;C dur;14-2v;Menue;;;Mandora;Conc_5085;3/4;",,c1 {,a} {,a} | ,a1 ,,,,,a ,,,,,a | (3[a{,,a}/] c d) c/ ,d a ,c | \
+,d1 ,,c ,,,a | [cd1] ,,,a {,,,a} |"
+7;C dur;14-2v;Trio;;;Mandora;Conc_5086;3/4;",d/ ,,c ,,,d ,,c ,,,a b | 'a1 ,,,,a ,,,,a | \
+a/ ,c ,,c ,c ,,,,a d | 'b1 ,,,a ,,,a |"
+8;C dur;14-3r;Finale;;"ff.4r-4v (Violino o Traverso); ff.5r-5v (Violoncello)";Mandora;Conc_5087;2;"[,d,a1] [cd] | [ac1] [f,,,a] | ,,,,c1 ,d | [,c,,a1] c | \
+,,,,,a1 ,a | [,,c{,a}/] (,a/4 ,c) ,d a c d |"
+;;;N°19;;;;;;
+9;D dur;19-1v;Intrada;;;Mandora;Conc_5142;3/4;",d/ ,c [cd] [ac] | ,d/ ,c [cd] [ac] | ,d/ ,,,a (,,c/4 ,,a) ,,,e ,,,c | \
+,,,e/ ,,,a z/ [cd] |"
+10;D dur;19-2r;Capricio;;;Mandora;Conc_5140;2/4;"f/ | c/ ,d z/ ,,c/ | ,,,e/ ,,,a z/ c/ | ,,,a/ ,d [a,,,,a] '[,c,,a] | \
+V[,d,a1] z/ c/ | ,,,a/ c ,,,,c ,d |"
+11;D dur;19-2r;Aria / Andante;;;Mandora;Conc_5143;2;"[,d,a/] c/4 a ,d/ ,c | [,d,a/] {,a}/4 {,a} {,,a}/ ,,,,e | \
+[c,,a/] a/4 ,d [d{,a}/] c/4 d | 'a/ ,,,,a [ac1] |"
+12;D dur;19-2v;Menuet;;;Mandora;Conc_5144;3/4;"[,dca1] (,d/ ,c) (,d ,c) | [,d,a1] ,,c [,c,,a] | \
+[,d,a1] ,d/ c [a,,,a] d | ([c,,a/] a) ,d1 z1 |"
+13;D dur;19-3r;Gig;;"ff.4r-4v (Traversiere); ff.5r-5v (Violino); ff.6r-6v (Violoncello)";Mandora;Conc_5145;6/8;"[,d,a/] (c/4 a) ,d/ [,d,a] (c/4 a) ,d/ | \
+[ac,a/] (d/4 c) a/ [ac,,a] (d/4 c) a/ | [c,,a/] a ,d"
+;;;N°22;;;;;;
+14;D dur;22-1v;Aria / Andante;;;Mandora;;3/4;"[fhh,a1] ,d/ a [c{,,,a}] [d{,,a}] | [f{,a}1] ,d/ a [c,,a] [d,,c] | \
+[f,,e1] h f | '[d{,,a}1] [,c,,a] V[c,,a] | \
+[c{,,,a}1] ,d/ a c f |"
+15;D dur;22-2r;Ballo;;;Mandora;;2/4;"[f,,a1] ,d | [,c,,a/4] ,d a ,c ,d/ [,d,a] | \
+[a,,,e/] V[c,,a] [d,,c] (3d/4 c a) | V[c,,a1] z/ c/ |"
+16;D dur;22-2v;Menuet;;;Mandora;;3;"[,d,a/] a c1 'a | [c,,a/] [d,,c] f1 '[d{,,a}] | [c,,a/] ,d [a,,,,a1] '[,c,,a] | \
+V[,d{,,,a}3] | [,aa,,a1] [,aa,,a] (3,c/ ,d a) |"
+17;D dur;22-2v;Trio;;;Mandora;;3/4;"[,d,a1] f f | Vg1 ,,a ,,,d | ,,,c1 d d | f1 ,,,d ,,,c | \
+,,,a1 [bd] [bd] | Vd1 ,,,c ,,,,e |"
+18;D dur;22-3r;Fantasia;;"ff.4r-5r (Violino); ff.6r-6v (Violoncello)";Mandora;;2;"[fh,a/] [,hh] [,hh] [fh] | [fh,a/] [,hh] [,hh] h | \
+'[f,,a/] d/4 c V[d,,,a/] (c/4 a) | V[c,,a/] ,d ,d1 |"
+;;;N°27;;;;;;
+19;A dur;27-1v;Sinfonia;;;Mandora;Conc_4909;3/4;
+20;A dur;27-2v;Andante;;;Mandora;Conc_4874;2/4;"a/ | [a,,,a/4] ,d ,b ,a [,,c,a/] ,,c | \
+(3[,,c,a/4] ,a ,b) (3,a/4 ,b ,d) [,b,,a/] ,b | \
+(3[,b,,a/4] ,d a) (3,d/4 a b) [ab/] a |"
+21;A dur;27-3r;Menuet;;;Mandora;Conc_4944;3/4;",,,,a1 ,c/ ,,,,a ,,,,,a ,a | ,,,,a/ ,c ,,,,c ,d ,,,,e a | \
+V[c{,,,a}1] [a{,,a}/] ,d ,c ,a | ,,c1 ,,,c ,,,,a |"
+22;A dur;27-3r;Trio;;;Mandora;Conc_5065;3;",,c/ ,a | V[,b,,a1] ,a ,,c | [aab{,,a}2] [,d,,c1] | \
+[,b,,a1] (,b/ ,a) ,,c ,a | '[,,b{,,a}2] :||: a1 | \
+V[b,,a1] ,d [,d,,c] |"
+23;A dur;27-3v;Capricio;;"ff.5r-6r (Violino); ff.7r-7v (Violoncello)";Mandora;Conc_5080;2/4;",,,,a/ ,c a ,d | [,c,,a/] ,,c ,,,,a a | ([c,,a/4] a) ,d ,c ,a/ ,,c | \
+,,,,,a/ a ,,,c ,,,a |"
+;;;N°31;;;;;;
+24;A dur;31-1v;Intrada;;;Mandora;;C;"[f,,,a/4] f f f a a ,c ,c [,,c,a] ,,c ,,c ,,c ,,,c ,,,c ,,,,e ,,,,e | \
+,,,,a/4 ,,c ,c a [f,,,a/]"
+25;A dur;31-2r;Menuet;;;Mandora;;3;"[a,,,a1] f '[a{,a}] | [f,,,a1] ,,c/ [,aa] ,c ,d | [a,,,a1] f '[e{,a}] | \
+[f,,,a2] [a,,,e1] | [c,,a1] ,d/ c f1 |"
+26;A dur;31-2v;Trio;;;Mandora;;3/4;"c1 f e | c1 ,c2 | [,d,,c1] [,c,,a] [,a,,,a] | \
+[,,c{a}1] ,,b/ ,,c ,,,e1 | [f,,,a1] f e | c1 c a |"
+27;A dur;31-2v;Gig;;"ff.4r-4v (Violino); ff.5r-5v (Violoncello)";Mandora;;3/8;"[,,c,a/] ,,c/4 ,,b ,,c/ | [,,c,a/] ,,c/4 ,,b ,,c/ | \
+[,,b{,a}/] ,,b/4 ,,c ,a/ | {,a}1 ,a/ | [,c,,a/] ,d a |"
+;;;N°37;;;;;;
+28;D dur;37-1v;Concerto;;;Mandora;;2/4;",d/ ,,,a ,d ,,,a | ,d/ ,,,a (,d/4 ,c) ,a ,,c | \
+,a/ ,,,,c ,a ,,,,c | ,a/ ,,,,c ,a/4 (,,c ,,a) ,,,e |"
+29;D dur;37-2v;Menuet;;;Mandora;;3/4;"[,d,a1] c '[a,,,a] | [,d,a1] ,,c (3,a/ ,c ,d) | '[a,,,a1] [d,,c] [c,,a] | \
+'[a,,,a1] ,,c (3,a/ ,c ,d) | [c{,,,a}1] [f{,a}] [d{,,a}] |"
+30;D dur;37-2v;Trio;;;Mandora;;3;"{,,,a}1 [,d,a] [,d,a] | [,d{,,,a}1] b/ a [,d,a1] | \
+,,,,a1 [ac,,a] [ac,,a] | [ac,,a1] d/ b [ac,,a1] | \
+,,,a1 [bd] [bd] |"
+31;D dur;37-3r;Gig;;"ff.4r-4v (Violino 1mo); ff.5r-5v (Violino 2do); ff.6r-6v (Violoncello)";Mandora;;9/8;",,,a/ ,d ,,,a ,,,a ,d ,,,a ,,,a ,d ,,,a | \
+,,,,a/ a ,,,,a ,,,,a a ,,,,a ,,,,a a ,,,,a |"
+;;;N°107;;;;;;
+32;C dur;107-1v;Entreé;;;Mandora;;C;"[,b,,d/] (3a/4 b d) ,b/ [,b,a] [,b{,,a}] (3a/4 b d) ,b/ [,,a{,,a}] | \
+[,,c{,a}/] [,,c{,a}] [,,c{,a}] [,,c{,a}] \
+[,,a{,,a}] z/ z/4 (a/4 b d)"
+33;C dur;107-2r;Menuet;;;Mandora;;3;"{,,a}1 ,,a ,,a | {,a}1 ,,c ,,c | [,a,,,a1] b b | [a,,,d/] ,a V,b2 | \
+a3/2 c/ d1 | ,,,a1 [,bc] [,aa] |"
+34;C dur;107-2r;Trio;;;Mandora;;3;"[,,c,a1] ,b {,,a} | ,,,,a1 a {,,a} | [,,c,a1] ,b {,,a} | \
+,,,,a1 f a | V[b,,a1] [a,,,d] [,d,,c] | '[,b,,a1] ,a/ ,b ,,c1 |"
+35;C dur;107-2v;Finale / Vilanesca;;"ff.3r-3v (Violoncello); ff.4r-4v (Traversier o Violino)";Mandora;;2/4;"[,ba,d1] ,,a | [,ba,d1] ,,a | [,b,,d/] a ,,a ,a | \
+[,b,,d/] a ,,a ,a | [,b,,d/] ,d [a,,,a] c | \
+[d,,,,a1] (d/4 c) (d c) |"

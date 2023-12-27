@@ -1,0 +1,51 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;1;Capricio detto il bel Virtuoso Reggiano;;;OT;ConcR1080;3;",,a4 | ,,,a2 ,,,,a | [,,,bc2] [,,aa] | [,,cb1] ,,a ,,c ,a | \
+,b2 [,aa] | [,bc2] [,de] | [ab1] ,d a b | [da1] ,,c ,a ,b |";italian7tab
+2;;3;Corrente detta la Lipina;;;OT;ConcR1079;3;"d1 | [a,,,a1] ,d/ a ,b1 | [bd1] ,a d | [ab/] ,a ,,c ,b ,a ,d | \
+,b2 d1 | [a{10}2] [b{,,a}1] |";italian7tab
+3;;4;Corrente detta la Gentile;;;OT;;3;",b1 | [ab{10}1] [bd{,,a}] [df{,a}] | \
+[fg{a}3/2] [df/] [bd1] | ,,,,a/ d a b ,d a | \
+,b/ ,d ,b ,a ,,c ,,a |";italian7tab
+4;;5;Corrente detta la Bizara;;;OT;;3;"d1 | a3/2 b/ d1 | ,b1 d b | [a,,,a3/2] ,d/4 a ,b1 | \
+,,a1 ,,c ,a | [ab3/2] c/ d1 | ,a1 [d,c] c |";italian7tab
+5;;6;Volta detta la Fauorita;;;OT;;3;"d1 a ,b | d1 {,a} ,b | {a}1 [,aa,,a3/4] ,,c/ ,a | \
+,b1 ,,,,a {10} | d1 [bd] [ab] | [,de1] d ,a |";italian7tab
+6;;7;Capricio detto il Malenconico;;;OT;ConcR1088;C;"[abaaa{10}4] | [abaaa2] [,,aa] | [,,cb2] [,,,bc] | \
+[,,aa2] [db{,a}] | [bd{a}1] ,,c ,a ,b | [,da,,e2] ,,,a | \
+[,,cb1] f d b | [ab1] b d a |";italian7tab
+7;;9;Gagliarda detta la Allegra;;;OT;;3;",b/ ,a [,,db2] [,aa3/2] ,,c/4 ,a | ,b1 ,,,,a ,,,,c ,,,,a [,bcb{a}2] | \
+[,baa{,a}2] {,,a}1 ,a d b | {10}1 ,b a ,d ,b ,,c |";italian7tab
+8;;11;Gagliarda detta la Mesta;;;OT;;3;",b1 ,d a ,b a b | [dbaaa2] b1 a ,b2 | ,d1 a b a ,d ,b | \
+[daa1] ,,c/ ,a ,b ,d";italian7tab
+9;;13;Alemana detta la Solitaria;;;OT;;C;"d/ b | a1 [,bc] [bd] [,de] | [ab,,a1] {10}/ {,,a} {,a} d [b{a}] a | \
+[,d,,,a1] ,,,b/ ,,a ,,c ,a ,b ,,c |";italian7tab
+10;;15;Alemana detta la Cappona;;;OT;;C;"a1 | [,bc1] b [de] d/ b | a1 ,b ,,,,a ,,,a | \
+[,,db1] ,,a [,bc] ,d/ ,b | ,a1 ,,a {,a} ,b |";italian7tab
+11;;16;Alemana detta la Scapigliata;;;OT;;C;"d1 | [bd1] [ab] [,bc] [,de] | [ab{10}3/2] ,d/ ,b1 [bd] | \
+[ab1] [da] [d,c] c | [d,a1] b/ a ,d1 [ab] |";italian7tab
+12;;17;Alemana detta la Felice;;;OT;;C;"a/ b | d1 [,b{,a}] [,,c{a}] [,a,,,a] | [,b,,a1] ,,,d/ ,,,b ,,,a1 [,,,bc] | \
+[,,,,cd/] ,,,a ,,,b ,,,,d [,,,a,a] ,,,b ,,,d ,,,a |";italian7tab
+13;;18;Alemana detta il bel Capricio;;;OT;ConcR582;C;"d/ b | a1 ,b [bd] [df] | [fg1] i/ h f1 l | \
+[hi1] d/ ,a ,,c ,,a [c,c1] |";italian7tab
+14;;19;Canzone detta la Barbarina;;;OT;;C;"d2 [db1] [db] | [da1] [d,a] [b,c] ,a | [ab1] c [da] b/ a | \
+[b,c1] a a ,,a | ,,,b1 ,d ,,,a ,b |";italian7tab
+15;;21;Capricio detto l'Estraos;;;OT;;C;",,,b2 ,,b1 ,,d | [,ef1] [,b,,d] ,d [,,dd] | [,bb1] ,e b [d,d] | \
+[e,,b1] [bd] [de,a] ,b | ,e1 ,,,,d ,,,,b [,cd] |";italian7tab
+16;;23;Corrente detta Fortunata;;;OT;;3;"b1 | [bd3/2] d/ b1 | [ab1] ,,c b | [,dd1] f d | b1 ,,,b ,,c | \
+,d1 {,a} ,b | {a}1 [,aa,,a3/2] ,,c/4 ,a |";italian7tab
+17;;24;Corrente detta la Compita Dama;;;OT;;3;",,,b1 | ,,b3/2 ,,d/ ,b1 | {a}1 {,a} {,,a} | [a{10}3/2] ,d/4 a ,b1 | \
+,,,,a1 ,,,b ,,,d | ,,,e1 ,,,,b ,,,b | \
+,,d1 [,,a,d3/2] ,,,b/4 ,,a |";italian7tab
+18;;25;Vestiua i Colli passeggiato dall'Autore;;;OT;ConcR861;C;",b2 ,b1 ,b | b1 ,,,b [b,,b] [b,,b] | [,ef1] ,b [ef] [bd] | \
+[de,,a/] ,d ,b ,d [,e,,a] b [d,,,a] ,e |";italian7tab
+19;;28;Dimi Amor passeggiato dall'Auttore;;;OT;;C;"[db,,a1] {10}/ b [ab,,a1] [,de] | [abc1] {12}/ ,d ,b1 [,,a{,a}] | \
+[,,c{a}/] ,a ,b ,,c [,a,,,a] ,b ,d ,a |";italian7tab
+20a;;29;Passo e mezo. Prima parte;;;OT;;C;"d1 b | [a,a,a1] ,b/ ,a [,,cb1] ,d | [,,aa1] ,b [b,,,c] [,da,,e] | \
+[ab,,a1] d/ b [ab1] [bd] | [df1] [b,c] [,dd] [a,a] |";italian7tab
+20b;;30;Pass'e mezzo Seconda parte;;;OT;;C;",b1 ,d | [ab,,a1] d [b,c] [a,a] | [,dcb1] [,baa] [bb,,c] [,da,,e] | \
+,,,,a/ d a b d1 [bd] | [ab1] [b,c/] a [,dd1] [ab] |";italian7tab
+21a;;31;Saltarel Prima parte;;;OT;;3;"d1 b | [aba,a2] {10}1 ,d ,b2 | [bbc2] [,dd] [ab] | \
+[bbc2] ,,,b1 d f2 | [d,,a2] [bb,,c] [,da,,e] | \
+[aba,a2] {10}1 ,d a c |";italian7tab
+21b;;32;Saltarel Seconda parte;;;OT;;3;",b1 ,d | [abaaa2] {10}1 ,a ,b ,d | a1 b d ,,,b ,,,d ,,,a | \
+[,,cb2] {a}1 a b d |";italian7tab

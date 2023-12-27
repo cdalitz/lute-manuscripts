@@ -1,0 +1,60 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+;;Faszikel a;Fascicle a;;;;;;
+1;G dur;a-1r;Marche;;;Mandora;Conc_5088;C;"[f,,,a1] (,,c/ ,,b) [,,c,a1] ,,c | ([,c{,,,a}/] ,a) ([,,c{,,a}] ,,b) V,c1 ,,,,a | \
+[ac,,a1] [ac,,a] [c,,a/] (,d ,a) ,,c | \
+'[,,b{,,a}1] ,a/ ,,b ,,,c2 |"
+2;G dur;a-1v;Menuet;;;Mandora;Conc_5089;3;"(3[,c,,a/] ,d a) ,c1 [,,c,a] | \
+([,c{,,,a}/] ,a) ([,,c{,,a}] ,,b) V[,,c,a1] | \
+[c,,a1] ,,,,e/ ,,c ,,,,a ,,c | \
+([,c{,,,a}/] ,a) ([,,c{,,a}] ,,b) V[,,c,a1] |"
+3;G dur;a-1v;Trio;;;Mandora;Conc_5090;3;"[f,,,a1] (3,b/ ,a ,,c) [,,c,a1] | a1 (3,,,,,a/ {,a} {,,a}) {,,a}1 | \
+,,,,c/ ,d ,,b ,d {,,a} ,d | ([,d,,a/] ,b) (,a ,b) ,,c1 |"
+4;G dur;a-2v;Aria;;;Mandora;Conc_5091;C;",,a/ | [,ba,d/] [,ba,d] [dd,,c] [dd,,c] '[,b,,a] ,,,,,a/4 {,a} {,,a}/ [,ba{,,a}] | \
+[,aa,,a/] [,aa,,a] [,da,c] [,da,c] \
+[aba,d] [aba,d] [aba,d] [aba,d] |"
+5;G dur;a-3r;Harlaq:;;;Mandora;Conc_5092;2;"[cd,a/] [cd/4] [ac] [cd,a/] ,d | [dc,,a1] [cd,a] | \
+,,,,,a/ [aa] [d{,,a}] ,d | ([,d,,a/4] ,c) (,a ,c) ,,c1 | \
+[cd,a/] c/4 ,d [a,,,a/] a/4 ,c |"
+6;G dur;a-3v;Polonoiso;;"ff.5r-6v (Violino); ff.7r-8v (Basso)";Mandora;Conc_5093;3/4;"V[,,d,a/] (,,c/4 ,,b) V[,,c,a1] [,cc] | ([,c{,,a}/4] ,a) (,,c ,,b) [,,c,a/] ,,,c ,,,,e ,,,,a | \
+[,c,,a/] (,c/4 ,a) V[,c,,a1] [ac,,a] |"
+;;Faszikel b;Fascicle b;;;;;;
+7;E dur;b-1v;Intrada;;;Mandora;Conc_4943;C;"[aab{,a}1] [aab{,a}] [aab{,a}] z1 | \
+[efe{,a}1] [efe{,a}] [efe{,a}] z1 | \
+[hkk{,a}1] [hkk{,a}] [hkk{,a}] z1 | \
+[efe{,a}1] [efe{,a}] [efe{,a}] z1 |"
+8;E dur;b-2r;Aria / adagio;;;Mandora;Conc_5081;3;"[aab{,a}1] ,,,c (3a/ c e) | '[ca1] ,e ,a | \
+[,c,,a1] [,a,,,a] (,c/4 ,e) a ,c | ',,c1 {,,a} '[,,b{,a}] |"
+9;E dur;b-2v;Menuet;;;Mandora;Conc_5082;3;"{,a}/ ,,,c ,,b ,,,c ,a ,,b | ([a{,a}/] c) (e/4 c) a ,e a1 | \
+{,a}/ ,,,c ,,b ,,,c ,a ,,b |"
+10;E dur;b-2v;Trio;;;Mandora;;3;"{,a}1 ,,a ,,,e | ,,a1 {,a} {a} | ,,a1 ,,,,d ,,,,d | \
+,,,,d1 ,,,,c z1 | ,,,c/ ,,,,d ,,,a ,,,,c ,,,,d1 |"
+11;E dur;b-3r;Fantasia;;"ff.3v-5r (Violino Solo); ff.5v-6v (Violoncello)";Mandora;Conc_5083;2/4;"[aab{,a}1] e | [ca{,,a}1] ,a | ,,c/ {a} ,,,b ,,c | ',,b3/2 ,,,e/4 ,,,c1 | \
+[,,b{,a}/] ,,,c/4 ,,,e ,,b/ ,a | [,,c{a}/] ,,,e ,,,e1 |"
+;;Faszikel c;Fascicle c;;;;;;
+12;C dur;c-1v;La Consolazione / Andante;;"f.2r (Violino Primo); f.3r (Basso)";Mandora;;2/4;"[,,c,a/] | [,d,a/4] c [f,,e/] (f/4 d) (c a) | \
+([,d,a/4] ,c) ,d/ z/ [ac,,a] | \
+[c{,,,a}/] ,d [dc{,,a}/] [dc{,,a}] [cd{,,,a}] |"
+;;Faszikel d;Fascicle d;;;;;;
+13;D dur;d-1v;Entreé;;;Mandora;;2;",,c/4 ,a ,c | [,dca/] ,,c a ,,c | [c,,a/] ,c [,d,a1] | \
+[f{,a}/] d/4 c [a,,,,a/] ,d | '[,c,,a/] ,a ,,c1 |"
+14;D dur;d-1v;Menuet;;;Mandora;;3;"[,dca1] c/ ,d [a,,,a] ,c | [,d,a1] f h | [f{,a}1] [d{,,a}] [c{,,,a}] | \
+'[a,,,a2] c1 | ([d{,,a}/] c) a c d1 |"
+15;D dur;d-2r;Boureé;;;Mandora;;C;",,c1 | [,dca1] ,d [,d,a/] c f c | [,dc{,a}1] ,d [,d{,,,a}/] c f ,d | \
+[a,,,a/] ,d ,c ,a ,,c1 d |"
+16;D dur;d-2r;Aria / adagio;;;Mandora;;3;"[f{,a}1] ,d [a,,,,a] | '[,c,,a2] ,d1 | ,,,,a/ ,c a1 d | \
+'[c,,a1] a/ c ,d1 | [c,,a1] e f | '[e{,,a}1] e/ f h1 |"
+17;D dur;d-2v;Menuet;;;Mandora;;3;"[,dca2] c/ ,d | [ac,,a1] [d,,c] [c,,a] | [,dca2] c/ ,d | \
+[a,,,a/] ,d ,c ,a ,,c1 | [,dca2] c/ ,d | \
+[ac,,a1] [d,,c] [c,,a] |"
+18;D dur;d-2v;Finale;;"ff.3r-3v (Violino 1mo); ff.4r-4v (Violino 2do); ff.5r-5v (Basso)";Mandora;;2;"[,dca1] [ac,,a] | ([c,,a/4] a) (,d ,c) ,d/ [h,,,,a] | \
+[f{,a}/] [d{,,a}] [c{,,,a}] [a,,,a] | \
+([c,,a/4] a) (,d ,c) ,d/ [h,,,,a] |"
+;;Faszikel e;Fascicle e;;;;;;
+19;D dur;e-1v;Aria / andante;;;Mandora;Conc_5146;3/4;"[,d,a/] ,,c ,d a ([c,,,a/4] a) (,d ,c) | \
+[,d,a/] ,,c ,,,e ,,c {,,,a}1 | [c,,a/] ,d c d [f,,e] [d,,c] |"
+20;D dur;e-2v;Menuet;;;Mandora;Conc_5147;3/4;"[,d{,,,a}/] ,c ,d c a d | ([c,,,a/] a) (,d ,c) V[,d,a1] | \
+[a,,,e/] c [d,,c1] [ac,,a] | '[c,,a1] (a/ c) ,d1 |"
+21;D dur;e-3v;Fantasia;;;Mandora;Conc_5148;2/4;"[,d,a/] (,d/4 ,c) V,d/ c | '[a,,,a1] ,,c/ (,c/4 ,d) | \
+[a,,,a/] (a/4 c) a/ [d,,c] | '[c,,a/] (c/4 a) ,d1 |"
+22;D dur;e-4v;Finale;;"ff.5r-5v (Violino Conc:); ff.6r-6v (Violoncello)";Mandora;Conc_5149;2/4;",,,a/4 ,,c ,d a ,,,,a ,c a d | ([c,,,a/4] a) (,d ,c) ,d/ ,,c | \
+[,,c{,,,a}/] ,d [ad,,e] ,,,,a |"

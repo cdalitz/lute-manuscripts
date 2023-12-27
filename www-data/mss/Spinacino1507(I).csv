@@ -1,0 +1,109 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;3r;Ave Maria de Josquin;;;OT;;C;",,,a/4 ,,,c ,,,d ,,,c ,,,d ,,,c ,,,a ,,,c | \
+,,,d1 ,,,c/ ,,,a ,,,,d ,,,,b ,,,,a ,,,,,d | \
+,,,,,b/ ,,,,,d ,,,,a ,,,,b";italian7tab
+2;;4r;Benedictus de Isach;;Caron - not Isaac;OT;;C;",,,,c1 ,,,,d/4 ,,,,c ,,,,a ,,,,c ,,,,,d/ ,,,,a ,,,,c ,,,,,d | \
+,,,,d/ ,,,,c ,,,,a ,,,,,d ,,,,,c ,,,,,a ,,,,,c1 |";italian7tab
+3;;5r;Le deproueu infortune;;Caron;OT;;C;",a/4 ,c ,d ,c,d ,c,a ,c | [,dda/] ,c ,a ,c ,d a b d | \
+[bdda/] f d b";italian7tab
+4;;6v;Come feme;;A. Agricola (Comme femme);OT;;C;"a/4 c d c d c a c | \
+[d,b/] c/4 a ,d ,b ,a ,,d ,,,,,d ,,,,,c \
+,,,,,d ,,,,a ,,,,c ,,,,d ,,,a ,,,c |";italian7tab
+5;;8r;Fortuna dun gran tempo;;Josquin;OT;;C;"c/4 e f e f e c e | [f,d,a1] ,a/ ,c ,d a c d | \
+[f,,e/] d f h [f,,e1] [d,,c] |";italian7tab
+6;;9r;Una maistres;;Brumel;OT;;C;",a/4 ,c ,d ,c ,d ,c ,a ,c | [,d,a/] ,b ,a ,b [,d,a] a b d | \
+[fb,d/] ,,,a ,,,c ,,,d";italian7tab
+7;;10r;Vostre Jamays;;Ghiselin;OT;;C;"c/4 e f e f e c e | [f,d/] ,,b ,,d ,a ,b ,d a b | \
+[da,c/] b a ,d";italian7tab
+8a;;11r;Juli amours;;DUET (Ghiselin);OT;;3;",a/4 ,b ,d a b d f h | \
+i/ h f ,i ,h ,f ,,i ,,g ,,f ,,,h ,,,f ,,,d |
+[V:L2]
+y2 | ,b2 ,b ,b |";italian7tab
+8b;;13r;Secunda pars;;(Ghiselin);OT;;3;"a1 c/ d f h i h f d c a | d/ ,b ,a ,,d ,,b ,,d a ,b ,d a c d |
+[V:L2]
+[,,,cd1] ,b [,a,c] a3/2 ,d/ ,b1 | [,a,c1] a3/2 ,d/ ,b1 [,a,c2] |";italian7tab
+9;;16r;De tous biens;;DUET (Hayne);OT;;C;"f/ e f h i f h i  | f/ h i f h f ,i ,h | ,f/ ,h ,i f
+[V:L2]
+[,,d,a2] [,,d,a] | [,,d,a3/2] ,,c/ ,,d1 ,a | [,bd2]";italian7tab
+10;;19r;La Bernardina de Josquin;;DUET;OT;ConcR2070;C;",a/ ,b ,d a c1 d | a/ d f/4 d c a ,d/ ,b ,d/4 ,b ,a ,,d |
+[V:L2]
+,,,,,d/ ,,,,a ,,,,c ,,,,d ,,,a1 ,,,c | ,,,c/ ,,,a ,,b2 ,,a1 |";italian7tab
+11a;;21r;Iene say;;DUET (Busnois);OT;;C;"c/4 e f e f e c e | f1 h/ i h f d b | b/ ,d ,b ,a
+[V:L2]
+z2 | [,d,a2] [,d,a] | [,d,a2]";italian7tab
+11b;;22v;Secunda pars;;(Busnois);OT;;C;"b/ a ,d a b d f h | i/ h f1 h/ i h f | d/ b a ,d
+[V:L2]
+,d2 ,b1 ,d | a1 b2 a/ ,d | a/ ,d ,b ,a";italian7tab
+12a;;23v;Jay pris amours;;DUET;OT;ConcR2071;C;",c/4 ,e ,f ,e ,f ,e ,c ,e | ,f1 a/ c d f h i | h/ f i h
+[V:L2]
+z2 | [,,,c,a,2] [,,,c,a] | [,,,c,a2]";italian7tab
+12b;;24v;Secunda pars;;;OT;;C;",d/ a c d c a ,d ,b | ,,,c/ ,,d ,,b ,,a ,,,c ,,a ,,b ,,d | \
+,a/ ,c ,d a
+[V:L2]
+,,,,c2 ,,,,c | [,b,,a2] [,,,,ca] | [,,,c,a2]";italian7tab
+13;;26r;La Mora;;Isaac;OT;;C;"e/4 g h g h g e g | \
+[ha,,,h1] ,,,,e/ ,,,,g ,,,,h ,,,e ,,,g ,,,i | \
+,,,k1 [ha,,,h/] ,,,,e/ ,,,,g ,,,,h ,,,e ,,,g |";italian7tab
+14;;27r;O venus banth;;Weerbecke;OT;;C;"[f,d,a3/2] [d,,,c/] [a,,,e1] [c,,a] | \
+,a1 [e,,c] [ea,c/] [c,,a] [e,,c1] | \
+[f,de3/2] ,,b/ [a,d] ,,b [c,d1] | \
+[a,c/] ,a [fb3/2] h/ k1 |";italian7tab
+15;;27v;La Bernardina de Josquin;;;OT;ConcR2070;C;",,,,,d/ ,,,,a ,,,,c ,,,,d ,,,a1 ,,,c | \
+,,,c/ ,,,a ,,b1 ,,a/ ,,b ,,d ,,a | \
+[,,b,,d/] ,,,,a ,,,,c ,,,,d ,,,a1 [,,,cd] |";italian7tab
+16;;28v;Bassadans;;;OT;ConcR3116;3;",,,,,a1 ,,,c ,,,,d ,,,c [a,,c,a/] ,,a ,,b ,,d | \
+[,a,c1] [a,,,d] [,b,,a] [,d,,,b] [a,,,,a/] \
+,,,,,c ,,,,,d ,,,,a |";italian7tab
+17;;31r;Mabucherit;;Ockeghem;OT;;C;",d/4 ,c ,a ,c | [,d,a/] ,,,,d ,,,,b ,,,,a ,,,a ,,,c ,,,d ,,,c | \
+[,,da/] ,,,,d ,,,a ,,,c [,,dd] ,,,c ,,,a ,,,,d |";italian7tab
+18;;32v;Adiu mes amours;;Josquin;OT;ConcR1996;C;",a/4 ,c ,d ,c ,a ,c | ,d2 [bd] | [ac2] ,d/ a b d | \
+[fd,a1] ,b [f,dd] d/ b |";italian7tab
+19;;33v;Nunquam fuit pena maior;;Urrede;OT;;C;",,d/4 ,,c ,,a ,,c | [,,dca/] ,,,a ,,,c ,,,d ,,,c ,,,a ,,,,d ,,,,b | \
+[,bdca/] ,a ,b ,d ,b ,,e ,,d ,,b |";italian7tab
+20;;35v;Non souenir;;Hayne;OT;;C;",d/4 ,c ,a ,c ,d ,c ,a ,c | [,d,a/] a b a [,d,a] ,b ,,e ,,d | \
+[,dea,d/] ,,d ,,,f ,,d";italian7tab
+21;;36v;Fortuna per te crudele;;Vincenet;OT;;C;"d/4 c a c | [d,b,,d3/2] ,,,,,c/ ,,,,,d ,,,,a ,,,,b1 | \
+[d,,,d1] [b,,a] ,,,b/ d [b,,a] [a,,,d] | \
+[,de,b1] [b,,a] [d,,,,d] ,,,b |";italian7tab
+22;;37v;Recercare de tous biens;;Francesco Spinacino;OT;;C;"f/ h i f | i/ h i h | f/ d c a | ,d/ ,b ,a ,,d | \
+,,b/ ,,a ,,,c ,,,a |";italian7tab
+23;;38r;Recercare a Juli amours;;Francesco Spinacino;OT;;C;"z1 d1 | d/ ,b1 ,a/ | ,b/ ,d a c | d/ f h i | \
+,f/ ,h ,i f | h/ i l k |";italian7tab
+24;;39r;Recercare;;Francesco Spinacino;OT;;C;",,b1 [da] ,,a/ ,,,c ,,,a ,,,,d | \
+,,,,c/ ,,,,a ,,,,,d1 ,,,c [da] | \
+,d1 [cd,a] ,,b/ ,,d ,a ,b |";italian7tab
+25;;39v;Recercare;;;OT;;C;"[f,,,,f2] f/ d b a | ,d/ a b a ,d ,b ,a ,,d | \
+,,b/ ,,,d ,,,c ,,,a ,,,c ,,,a ,,,,d ,,,,c |";italian7tab
+26;;40v;Recercare de tutti li Toni;;;OT;;C;"[,,d,a3/2] ,a/ [,b,c1] [,d,,c] | \
+[a,,d1] [,d,,c] [,b,,a/] ,b/4 ,d ,b ,a ,,d | \
+[,,b,c3/2] ,,,,a/ ,,,,c ,,,,d ,,,a ,,,c |";italian7tab
+27;;42v ;Recercare;;;OT;;C;"[,,dca/] ,a ,b ,d [a,,,d1] [,d,,c] | \
+[,,d,,b/] ,a ,b ,,d [,,ccca1] ,,d/ ,a | \
+,b/ ,a ,,d ,,c [,,d,,b1] [,a,,,d] |";italian7tab
+28;;43r;Recercare;;;OT;;C;"[,,c,,e1] ,a ,,,,,d/ ,c ,e1 | [,c,,a1] a ,,,,,a/ c e1 | \
+[c,,e/] a ,e ,c [,ac1] [,cd/] ,a |";italian7tab
+29;;44r;Recercare;;;OT;;C;"[,,b,,d3/2] ,,d/ | ,a/ ,b [,d,,c1] | [a,,,d1] ,,b | \
+[,d,,c1] [,b,,a] | [,a,,,d1] ,,,,a/ ,,,,c | \
+,,,,d1 ,,,a | ,,,c1 ,,b | [,,da1] ,,,,d |";italian7tab
+30;;44v;Recercare;;;OT;;C;"[a,d1] c | ,a1 d | [c,d1] [,da] | ,,,c1 ,c | \
+[,d,a1] c | ,,,,e1 a | [c,,,c1] ,,,a | ,,,c1 ,,,,e | \
+[,,de1] [,d,a] |";italian7tab
+31;;46v;Recercare;;;OT;;C;"a1 a/4 ,d a c | d/ c/4 a ,d ,b ,a ,,d | \
+,,b/4 ,,d ,a ,,d ,,b ,,,d ,,,c ,,,a |";italian7tab
+32;;47r;Recercare;;;OT;;C;"[ab,,d1] [da,c] [bd,a] [ab,,a] | \
+[,d,a,b/] ,b ,a ,,d [,,bcd1] [,,dd,b] | \
+,,d/ ,a [,b,c1] ,,,a ,a | [,bb,d1] [,db,c] [,b,,a] ,,a |";italian7tab
+33;;47v;Recercare;;;OT;;C;",,,,,d2 ,,,,a | ,,,,c/ ,,,,d ,,,a ,,,c ,,a1 ,,b | \
+,,d2 ,a/ ,b ,d a | ,b2 ,,d1 ,a | ,b1 ,a/ ,,d";italian7tab
+34;;49r;Recercare;;;OT;;C;"a2 | a/ ,d/4 a b a ,d ,b | [,ac1] [,bd] | ,d/ ,b ,a ,,d | \
+[,ac1] [,bd] | ,d1 ,,f |";italian7tab
+35;;50r;Recercare;;;OT;;C;",,,,,a2 | ,,,,,a1 ,,,,,a | ,,,,,d3/2 ,,,,a/ | \
+,,,,c1 [,,,cd] | ,,,a/ ,,,,d ,,,,c ,,,,a | \
+[,,,ac1] ,,b | [,,a,a1] [,,b,c] | ,,d/ ,,b ,,a ,,,c |";italian7tab
+36;;51r;Recercare;;;OT;;C;",a3/2 ,,d/ | ,,b/ ,,a ,,,c1 | ,,,,c1 ,,a | \
+,,,,d/ ,,,a ,,,c ,,,,d | ,,,,c/ ,,,,a ,,,,,d1 | \
+z/ ,,,,a/ ,,,,c ,,,,d |";italian7tab
+37;;52r;Recercare;;;OT;;C;"[a,d/] ,,c ,,d ,a | ,b/ ,d a c | [da1] ,,d/ ,,b | \
+,,a/ ,,b ,,d ,a | [ab1] ,a/ ,,d |";italian7tab
+38;;53v;Recercare;;;OT;;C;",,b3/2 ,,d/ | ,a/ ,b ,d a | c/ ,d a c | d/ a c d | \
+f/ d c a |";italian7tab

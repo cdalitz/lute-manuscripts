@@ -1,0 +1,65 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;2r;Chirie;;;OT;;C;",,,,c4 | X,,,c4 | ,,,c1 ,,,b ,,,c ,,,e | \
+,,,c1 ,,,e/ ,,,c ,,,e ,,,c ,,,b ,,,c | \
+,,,e1 ,,,b ,,,c/ ,,,b ,,,c ,,,e |";italian7tab
+2;;2v;Christe;;;OT;;C;",,,c3 ,,a1 | ,,c2 ,,d | [a,d2] ,,c1 ,,a | [,ac1],,d [,ef2] | \
+[,cf1] ,,f/ ,,e ,,f ,,e ,,c ,,e | [,af3] [,cd/] [,ac] |";italian7tab
+3;;3v;Chirie;;;OT;;C;"X,,,c4 | ,,,c1 ,,,b ,,,c ,,,e | ,,,c1 ,,,e/ ,,,c ,,,e ,,,c ,,,b ,,,c | \
+,,,e1 ,,,,b ,,,d/ ,,,b ,,,c ,,,e | X[,,c,,a4] |";italian7tab
+4;;4r;Domine deus in duo;;;OT;;C;",,a4 | ,,a2 ,,a | ,,c1 ,,d/ ,,c ,,d ,,c ,,e ,,c | \
+,,d1 ,,a/ ,,c ,,d ,,a ,,c ,,d |";italian7tab
+5;;4v;Et in terra pax;;;OT;;C;",,,,c4 | X,,,c4 | ,,,c1 ,,,b ,,,c ,,,e | \
+,,,c1 ,,,e/ ,,,c ,,,e ,,,c ,,,b ,,,c | \
+,,,e1 ,,,b ,,,d/ ,,,b ,,,c ,,,e |";italian7tab
+6;;5v;Qui toli peccata mundi;;;OT;;C;"[a,,Xc4] | [aa,Xc2] [aa,c] | [ca4] | \
+[,ef1] ,c/ ,d [aXc2] | [ac1] [,ef] [,ce] [,fa] | \
+[,cf1] ,,e ,,f/ ,,e ,,c ,,e |";italian7tab
+7;;7r;patrem omnipotentem;;;OT;;C;",,,,c4 | X,,,c4 | ,,,c2 ,,,c | ,,,c1 ,,,e/ ,,,c ,,,e ,,,c ,,,b ,,,c | \
+,,,e1 ,,,b ,,,c/ ,,,b ,,,c ,,,e |";italian7tab
+8;;8v;Et incarnatus est;;;OT;;C;",a4 | [a,,c4] | [a,d2] ,e | [a,d1] ,,c ,,d/ ,,c ,,a ,,c | \
+[c,d1] ,,a/ ,,c ,,d ,,a ,,c ,,d | [,ef,c4] | [,,cXc,a4] |";italian7tab
+9;;9r;Crucifixus;;;OT;;C;"X,,,,c4 | ,,,c4| ,,,c1 ,,,e/ ,,,c ,,,e ,,,c ,,,b ,,,c | \
+,,,e1 ,,,b ,,,c/ ,,,b ,,,c ,,,e | [,,c,,a4] | X[,,,c,a2] ,a |";italian7tab
+10;;9v;Et rexurexit;;;OT;;C;"c4 | c1 a c e | c1 e/ c e c a ,e | a1 e c a | [,ef3] a1 | \
+[ca2] a1 ,e |";italian7tab
+11;;10v;Et iterum uenturus est;;;OT;;C;",a4 | ,a4 | X,c4 | ,d4 | [,a,,Xc2] ,,d | [,,a,Xc2] ,,c | \
+[,,c,Xe2] ,,a1 ,,d | [,,d,a1] ,,c ,,a ,,,c | \
+[,,abc1] ,,,,e/ ,,,,c ,,,,e ,,,,c ,,,,a ,,,,c |";italian7tab
+12;;11r;Et in spiritum sanctum;;;OT;;C;",a4 | [,a,Xc2] a | [a,,Xc2] [a,d] | c1 ,,d a c | \
+[ea3] c1 | [ac1] ,e f ,a | [fa1] e X[e,c2] | [e,Xd2] c |";italian7tab
+13;;12v;Sanctus;;;OT;;C;",,,,c4 | ,,,c4 | ,,,c1 ,,,b ,,,c ,,,e | \
+,,,c1 ,,,e ,,,c/ ,,,e ,,,b ,,,c | \
+,,,e1 ,,,b/ ,,,c ,,,e ,,,b ,,,c ,,,e |";italian7tab
+14;;13r;pleni sunt celi in duo;;;OT;;C;"X,,,c4 | X,,,c4 | ,,,c1 ,,a ,,c/ ,,a ,,c ,,d | [,a,,,a4] | \
+[,a,,,a2] ,,d | [,,c,,a1] ,,,,,c ,,,,,e/ ,,,,,c ,,,,,e ,,,,a | \
+[,,a,Xc3] ,,,c1 |";italian7tab
+15;;13v;Osana;;;OT;;C;"[aacXc1] ,,a ,,c/ ,,a ,,c ,,d | [aacc2] ,,,b | \
+[a,dce4] | [,exfXeXc3] a1 | [c,a,Xc1] a X[c,,,a] ,,,,,e | \
+[,,a,eXf1] a ,e ,c | [,acb,d4] |";italian7tab
+16;;14r;Benedictus qui uenit;;;OT;;C;"X[ca4] | [ca1] a/ c e c a c | [ea1] c/ a c2 | [ef2] c | \
+[ca2] a1 ,e | [,cd3] ,e1 |";italian7tab
+17;;15r;Agnus dei;;;OT;;C;",a4 | a4 | a1 ,e a c | a1 e c a | [c,,,Xc1] e/ c e c a c | \
+[ea,c4] |";italian7tab
+18;;16r;Agnus dei;;;OT;;C;",,,c3 ,,a1 | ,,c2 ,,d | ,,d2 ,,c1 ,,a | ,,c/ ,,a ,,c ,,d ,a2 | \
+,c/ ,a ,,e ,,c ,,e ,,a ,,c ,,e |";italian7tab
+19;;17r;Qui tollis peccata Richafort;;;OT;ConcR2468;C;"a4 | a2 a | [,bXd2] ,,d1 ,a | [,bXd2] ,d1 [a,d] | \
+,,,e1 ,d X[,d,a] ,,,c | [,da1] ,,b [,bd2] |";italian7tab
+20;;17v;Benedictus qui uenit;;;OT;;C;"a4 | [,a,Xc2] ,a | [,c,Xc2] ,,,c | ,,,e2 ,,d | \
+,a2 [,d,,c] | [,da1] ,c/ ,a ,c2 | [,d,,c2] ,,,e1 ,c | \
+[,,de2] [,a,,c] | [,a,Xe2] ,,d |";italian7tab
+21;;18v;Agnus dei lupus;;;OT;;C;"X,,,c4 | [a,,c1] ,,a/ ,,c ,,d ,,a ,,c ,,d | [a,,c4] | \
+[a,Xd4] | X[,cd2] ,,c1 ,,a | [,ac1] ,,a ,,c ,,d | [,aXf2] ,c |";italian7tab
+22;;19r;Agnus dei lehortur;;Finis Missa;OT;;C;",d3 ,c1 | ,d2 a | a2 ,d | [fd2] ,c1 [da] | \
+[fc2] X[ha] | [hd2] Xf | [cf2] d1 c | [da2] c | Xf2 ,,d |";italian7tab
+23;;19v;Duo;;;OT;;C;",,,,a1 ,,,,c ,,,,d ,,,a | [,,,,df1] [,,,ac] [,,,cd] [,,aa] | \
+[,,,cd1] [,,aa] [,,bc] [,,de] | [,,bc1] ,b/ ,d [,b,,a2] | \
+X,,,,d1 ,a [,,da2] |";italian7tab
+24;;20v;Fantasia;;;OT;;C;"[aXcd,a1] ,,c ,,d ,a | [acXd,a1] ,a/ ,c ,d a c d | \
+[cdXda1] a ,d ,c | [,dXda1] ,c ,d/ ,c ,a ,,d |";italian7tab
+25;;21r;Fantasia;;;OT;;C;",a1 ,c ,d a | c1 ,d a ,d | a1 c d a | [cd1] ,d a c | \
+[df1] c d f |";italian7tab
+26;;22r;Crucifixus Carpentia in duo;;;OT;;C;",a4 | ,a2 ,a | ,,d2 ,a | [,b,Xc2] ,a | [,a,Xc2] [,,dc1] ,,b | \
+[,,aa2] [,,bc] | [,,de2] [,a,Xc1] ,c/ ,d | \
+[,c,Xc1] ,d/ ,c X[,d,a1] ,,,,e |";italian7tab
+27;;22v;Fantasia;;;OT;;C;"[,dXda1] ,c ,d a | [cXdXda1] a ,d/ ,b ,a ,,d | [,aXba,Xd2] d | \
+[aXbXb,Xd2] d | [cdXda1] d/ c d c a c |";italian7tab

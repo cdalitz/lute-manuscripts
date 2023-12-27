@@ -1,0 +1,506 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1;;1;Prelude A 9;N. Vallet;;OT;ConcR1106;C;"[abd1] ,,,,a {,,a} ,d | \
+[,bdca1] ,a ,b ,,d/ ,,,,,d | \
+[,dd,,b1] ,,,,,a [,d,,,b] {a}/ ,b | \
+[,ab,,d1] ,,d [da] ,,b/ c |"
+2;;1;Prelude A 9;N. Vallet;;OT;ConcR1107;C;"[ff,h3/2] h/ i1 [h,f] | \
+[,fg/] f f ,,i ,,f f [ed1] | \
+[fcd3/2] ,,,f/ ,,,d1 [d,,c] | \
+[bdda1] ,a [a,,,d/] ,d [,b,,a] ,d |"
+3;;2;Prelude A 9;N. Vallet;;OT;;6/4;",,d2 a [f,,,a] | \
+[da,c2] [a,d1] b ,,b a/ ,d | \
+[a,,c1] [,b,d] ,d ,,,c/ ,,,a [,b,c1] ,a | \
+[,,dca{,,a}1] ,b [,a,,,a] a/ ,d [,b,,a1] ,d/ ,b |"
+4;;2;Prelude A 9;N. Vallet;;OT;Conc_4504;C;"[,,dca2] {,,a}1 ,a | \
+[,bdca1] ,d a ,,,,,d | \
+[,,dd,b1] ,d/ ,b ,d1 ,,d | \
+[,,bc,a1] ,b [,,,d{a}/] ,a/4 ,,d ,a1 |"
+5;;2;Grost(?);N. Vallet;;OT;;C;"[abd,a/] ,,c ,,d ,a [,bd,a1] ,,,,,a | \
+[a,b,d/] ,,,,c ,,,,d ,,,a [a,b,d1] ,,,,,d | \
+[a,b,d/] b d ,b [b,,a] d [a,,c] ,d |"
+6;;3;Prelude A 9;N. Vallet;;OT;;C;"[,,dca2] {,,a}1 ,a | \
+[,bcda1] ,d/ a b1 ,,,,c | \
+[ab,,d1] ,,,a/ ,,,c [f,,d1] ,d | \
+[d,,c1] [ab] [b,da] [,df] | \
+[ab,,d1] d f h |"
+7;;4;Prelude A 9;N. Vallet;;OT;;C;"[,dda{a}1] a [b,,a] [d,,c] | \
+[f,,d1] [d,b/] b [a,d] b [dc] a | \
+[bdd{a}1] [aab,,a] [,dd,,b] [a,,,,d/] ,d | \
+[,c,,a/] ,,d ,d ,a a ,c [b,d] [a,b] |"
+8;;4;Prelude A 9;N. Vallet;;OT;;C;"[fdda{a}3/2] d/ [bdda] a ,d a | \
+[bdd/] ,,,,d ,,,,b ,,,,a [ddc,,e] ,,,,a ,,,,b ,,,,d | \
+[fdda1] [dde,,d] [add,a/] ,c/4 ,a ,c/ ,,b |"
+9;;5;Prelude A 8;N. Vallet;;OT;ConcR1108;C;"[ifg{,a}1] h/ f d ,,,a ,,,c ,,,,d | \
+[b,,d/] a [,dff1] [ab,,d] [,d,,c/] [,b,,a] | \
+[,ab,,d1] [,b,,,b/] ,,,,,a [,d{a}] a [ba] d |"
+10;;6;Prelude AS 8;N. Vallet;;OT;;C;"[ddff,d2] [cdda1] [aabc] | \
+[,da,c1] [,bb,d] [,ab,,d/] ,,d ,a ,b | \
+[,dba1] ,,,,,c/ ,,,,,a {a}1 ,b/ ,a | \
+[,,d{a}/] ,,b ,,a ,,,a [c,d1] [da] |"
+11;;6;Prelude A 8;N. Vallet;;OT;;C;"[haa{,a}1] f/ e c a ,e ,c | \
+[,a,c,e1] a/ ,,,,a [,,a,c] ,e/4 ,c ,e1 | \
+[aac,,a1] e [ef] [ce] | \
+[ac1] [ca/] e [fc,e1] ,e |"
+12;;7;Prelude a 10;N. Vallet;;OT;;C;"[,cdca3/2] ,d/ a ,c c ,,a | \
+[a,c/] ,d [,cd] ,d [,a,c1] ,,,,,a | \
+[,,d,,c/] ,a ,c [,,c,,a] [,,a{a}] ,a/4 ,,d ,a1 |"
+13;;7;Prelude A 9;N. Vallet;;OT;;C;"[acdca3/2] c/ a ,d ,c ,,d | \
+f1 ,,a [ea/] ,c [cd] ,a | \
+[ac/] ,a ,,d ,,c [c,a] e f c |"
+14;;8;Prelude A 9;N. Vallet;;OT;;C;"[,daa1] {a}/ ,,d [,da1] [a,b] | \
+[cdda1] {a}/ a [c,d1] [dab] | \
+[fdaa1] [da/] c [ac] c [,df1] | \
+[,cdca1] ,a/ ,c [,dba,d1] ,,,,,c |"
+15;;8;Prelude A 7;N. Vallet;;OT;;C;"[,dda1] {a}/ a [cdd] ,,,,e ,,,,c ,c | \
+,a/ ,,,,a ,,,,,d ,,d ,,b ,,,,,c ,,,,,a ,,a | \
+[,,,ca/] ,d ,c ,,,,,d ,,,,,c ,a ,,d ,,,,,a |"
+16;;9;Fantasye A 9;N. Vallet;;OT;;C;",d2 ,b1 ,a | \
+,,d1 ,b [,ab] ,,a | \
+,,,c1 [,ab] [fc,e] ,e | \
+[da,c1] c [a,d] [da] | \
+[c,,a1] ,,d [a,,,d] [,ac,c] |"
+17;;11;Fantasye A 10;N. Vallet;;OT;;C;"b2 c1 e | \
+[,ce1] c ,a [bc] | \
+[c,a1] [a,d/] ,d ,c ,d [,ac1] | \
+[,c,d/] ,,c ,c1 ,,,e [,bc] |"
+18;;13;Fantasye A 10;N. Vallet;;OT;;C;"c2 c1 c | \
+a1 ,c [,df] a | \
+[c,f1] [e,f] [f,d] ,,,e | \
+[e,c1] ,,d [ca] [fc] | \
+[,d,,c1] e [c,a,c] [a,,,c/] ,d |"
+19;;15;Fantasye Sur la Passameza Ditalie A 9;N. Vallet;;OT;ConcR803;C;"[a,bc,a1] ,d/ ,b [,a,c1] ,,,a/ ,,,,d | \
+[,,b,c1] [,,a,a/] [,,,c,d] ,,,,,c ,,d ,,,b c | \
+[da,c,a1] {a} {,a}/ {,,a} [cd1] [ab] |"
+20;;17;La Mendiante Fantasye A 10;N. Vallet;;OT;;C;"a4 | \
+[,bd2] ,c | \
+[,d,d2] [,e,e] | \
+[a,b2] ,,c1 ,d | \
+[,bd,a1] ,a ,,d ,a | \
+[,bd,,b1] ,a/ ,b [,d,a,c1] ,b | \
+[,a,c,d1] ,,d [,a,,,e2] |"
+21;;19;Pauanne A 9;N. Vallet;;OT;ConcR1109;C;"[ha,,,a2] e1 [acd] | \
+[f,a1] [caa,c] [e,,,,a/] ,f e f | \
+h1 [,ab/] ,c ,d ,,a [a,bc1] | \
+[c,,a/] ,d [db] ,a ,,d c/4 a [cd/] ,b |"
+22;;20;Pauanne en forme de complainte A 9;N. Vallet;;OT;ConcR991;C;",,,e2 ,,d1 ,a | \
+[,c,e1] ,d [a,,c] ,c | \
+[c,da1] ,a [a,,,e] ,,c/ ,,d | \
+[,da,c1] ,,c [,cde] ,,,,e/ ,,c | \
+[,caa1] ,a [,c,ee] ,,,d |"
+23;;21;Quand on arrestera la course coutumiere A 9 - De claude le Jeune A.4;Claude le Jeune;;OT;Conc_4516;C;"a1 ,,,c ,c [,,de] ,d/ ,,c/4 ,,d ,,c/ ,c/4 ,d ,,d/ ,c ,,a/4 ,,c ,,d ,a | \
+,c/4 a c e f/ ,c ,d e c [ac] [ca] ,,d ,d a/4 c a/ ,c/4 ,a ,c1 |"
+24;;22;5. verset du Pse. Iio C.L.I. - A ton bras droit A 8;Claude le Jeune;;OT;Conc_4517;C;",,a3/4 ,,c/4 ,,d ,a ,,d ,,c ,,a ,,c ,,d ,a ,,d ,a ,c ,d | \
+[,c,,e1] ,a3/4 ,c/4 ,,d/ ,c ,a ,,d |"
+25;;23;Passameza par bequare A 9;N. Vallet;;OT;ConcR1110;C;",d1 a | \
+[cdda1] a/ c ,d1 c/ d | \
+[f,,e1] ,d [da,c] ,c | \
+[c,,a1] ,a [a,,,d] ,,d | \
+[,d,,c1] ,,b [,b,,a] ,,a |"
+26;;25;Passameza en b mol A 10;N. Vallet;;OT;ConcR583;C;"K:frenchtab
+[,,d,d1] [,a,a] | \
+[,bdca3/2] ,d/ a1 [b,d] | \
+a1 ,,c/ ,,a [,,c,,a] ,d ,a a | \
+[,b,,a1] ,,d a/ ,,,,c ,,,,d ,d |"
+27;;27;Passameza A 8 par b mol;N. Vallet;;OT;ConcR704;C;",,,c1 ,,a | \
+[aab,,a3/2] ,,d/ ,a1 ,,,,,c | \
+[aa,,,d1] ,,,,a [,ea,c] {,a} | \
+[aab,,a3/2] c/ d1 [c,d] | \
+[a,b1] [,da] [,c,c/] ,d a ,c |"
+28;;29;Passameza A 10;N. Vallet;;OT;;C;"c1 a | \
+[,da{,,a}1] ,a/ ,c [,da1] [,c,c] | \
+[,a,a1] ,,,,c/ ,,,,e [,aaa1] [,,ece] | \
+[,aaac1] c [da] [ac] | \
+[cd1] [,da,c/] a [c,,a1] [aacc/] ,d |"
+29;;31;Gaillarde A 10;N. Vallet;;OT;ConcR691;6/4;"[,cdc{,,,a}3/2] ,d/ a1 ,c c {,,a} | \
+[bcc{,a}3/2] [f,,e1] [ea,c] ,c | \
+[c,da1] ,a [a,,,e] ,,d [,daa] ,c | \
+[,acc2] ,,,,,a1 ,c [,da{,,a}2] |"
+30;;32;Gaillarde A 9;N. Vallet;;OT;ConcR692;6/4;"[aacc2] [,,de3/2] ,c/ [,ac3/2] ,d/ | \
+[,cdca2] {,,a}1 ,d [a,d] ,,c | \
+[cc,e3/2] e/ f2 [cef] | \
+[ef,c2] ,,,,,a1 [f,,e] [hf,g2] | \
+[acd2] [cdda] [aacc3/2] ,d/ |"
+31;;33;Gaillarde A 9;N. Vallet;;OT;ConcR693;6/4;"[abd2] [aac1] [abd2] [,ddd1] | \
+[aa,c3] c1 [da,,,a2] | \
+[,da,c2] [aa,c,e3/2] ,d/ [,bdca2] | \
+[,accca6] | \
+[cdda2] [da,c1] [a,b,d] ,,d [c,,,a] | \
+[,ea,c3/2] a/ c1 [a,,,,a] ,,,,,d ,d |"
+32a;;35;Gaillarde Angloise A 9;;Sweet Margaret;OT;ConcR773;6/4;"[cdda2] [,da,c] [acd,a] | \
+[cdda2] {a}1 d/ c [aab,,a2] | \
+[,dd,,c2] [,db,,d] [,cdca3/2] ,a/4 ,c | \
+[,dda2] {a} [,dda] | \
+[c,,a/] d c a"
+32b;;35;Reprinse;N. Vallet;;OT;;3/4;",,d1 | \
+[,dda2] [,c,,a1] | \
+[,da,c2] [a,d,e1] | \
+[cdda3/2] d/ c1 | \
+[,d,,c1] a [c,,,a] | \
+[ddf,,d3/2] f/ d1 | \
+[cdd{a}3/2] d/ c1 | \
+a1 ,,,,a {,,a} |"
+33a;;36;Gaillarde du comte essex;J.Dowland;Earl of Essex's Galliard / Can She Excuse;OT;ConcR83;6/4;"[,,dca2] a [f{,,,a}] | \
+[da,,,a1] ,b [,d{,,a}] c [ab{,a}] ,a | \
+[a,b,d1] ,,d [,dff,d2] [,bdca] | \
+[,accca6] | \
+[da,c,a3/2] c/ [acd,a1] [bdd{a}3/2] a/ [,dff,d1]|"
+33b;;37;Seconde partie A 10;N. Vallet;;OT;;6/4;"[,,d,a1] ,,,c/ ,,,a ,,,,d a c d f ,,,,a h f | \
+,,,,,a/ ,i f h i ,a ,b ,d a b d b |"
+33c;;39;Fin de gaillarde A 9;N. Vallet;;OT;ConcR623;6/4;"d1 [c,,a2] | \
+[a,d,e2] [,da,c] [,cc1] ,a | \
+[,cdca2] {,,a}1 ,d a ,,,,,d | \
+[,dd,,c1] ,c [,ab,,d] ,d [,cdca] ,a/ ,c |"
+34;;41;Les pantalons A 9 (+ 14 variations);Giovanni Battista Domenico;;OT;Conc_45;C;"[cdd{a}2] [cdd] | \
+[dab,,d2] [dab] | \
+[acd,a2] [acd] | \
+[cdda2] ,d | \
+[cdda2] [cdd] | \
+[dab,,d2] [dab] | \
+[acd,a2] [acd] | \
+[,daa{a}4] ||"
+35;;43;Une jeune fillette A 9;J.Dowland / D.Bacheler;;OT;Conc_4438;C;",,d1 | \
+[,d,a1] [,c,c] [,d,d] [a,b] | \
+[bdd{a}] ,,,,,a [b,d,,b] ,,,,,d | \
+[abd,a1] ,,,a ,,,,d [,d,,c] | \
+[,b,,a1] [,a,,,d] [,,dd,b] ,,,c | \
+[,a,a1] [,b,cd] [,d,db] ,,b |"
+36;;45;Boerinneken A 9 (2 repeats);N. Vallet;;OT;;C;",d1 | \
+[,ddd{a}1] ,d [,bdca3/2] ,a/ | \
+,,d1 [b,,a] [a,d,e] [,dda] | \
+[,,,ca/] ,c/4 ,a [,c{,,a}1] [,dda{a}] ,d/ a | \
+[bd,a1] [d,,,c] [f,,,e] [fdda] |"
+37;;47;Soet Robbert A 9 (2 repeats);Dowland;;OT;Conc_4430;C;"[abd{,,a}2] [f,,,a] | \
+[da,c3/2] [c,,a/] [a,,,d1] [cd,,c/] d | \
+[ffg,a1] ,,,h [,bd,,b] ,d | \
+[aac,,a1] ,,,c [aac/] ,,,,,a ,,,,,c ,,,,,e | \
+,,,,a/ a c e"
+38;;49;Allemande fortune helas pourquoi A9 (3 repeats);N. Vallet;;OT;ConcR466;C;",a/ ,c | \
+[,da,c1] [,da] [acd,a] [acd] | \
+[cdd1] ,,,a {a} [a,,,,a/] ,d | \
+[,ca,,c1] [,ab,,d] [,ab,,a] [,,ee,c] | \
+[,aaac1] {,,a} [,aa,c] ,a/ ,c |"
+39;;51;Ballet A 9;N. Vallet;;OT;;C;"[a,,,d1] [b,,a] | \
+[da,c1] ,,b [b,da] ,a | \
+[ab,,d1] d/ ,a [f,d1] [h,,f] | \
+[ifg] {,a} d3/2 b/ | \
+[abd3/2] ,,b/ [b,dd1] ,,,,,b/ a |"
+40;;52;Ballet A 9;N. Vallet;;OT;ConcR804;C;",d/ a | \
+[c,,a/] d [f,a1] [,da,c] [acd,a] | \
+[,dda{a}1] ,,d/ ,,b ,,a ,,,a f d | \
+[c,,a/] ,d a c [dab,,d1] [cdd{a}] |"
+41;;53;Ballet A 9;N. Vallet;;OT;ConcR805;C;",d/ a | \
+[b,,a1] [a,,,e] [b,,a/] d [f,,,a1] | \
+[ea,,,a3/2] c/4 e [f,,,a1] f/ h | \
+i1 [d,,,d/] f [gd,,,d] ,f [fg{d}1] |"
+42;;54;Ballet A 9;;;OT;Conc_1755;C;"[,,dca1] {,,a}/ ,a ,b ,,d [aa,,,e1] | \
+[abd,a1] {,,a} [,dd,,b] ,b/ ,d | \
+[aa,,,b/] b d1 [,b,d/] ,d '[,a,a1] | \
+[,bb,d1] a/ b [d,,c1] [f,,d] |"
+43;;54;Ballet A 9;N. Vallet;;OT;ConcR699;C;"a1 | \
+[abd,a3/2] ,d/ ',b1 '[,a,c] | \
+[,bdca3/2] ,a/4 ,b [,d{a}1] '[,b,,a] | \
+'[,a,c1] ',,,a [a,b,d] ,,d | \
+[,ea,c/] ,,,,a [a,,,,d] [c,,,,c] [da,,,a] ,c [cef,c1] |"
+44;;55;Bouree d'auignon A 9 (1 repeat);N. Vallet;;OT;Conc_4359;C;"b/ a | \
+,d1 ,,,a {a} a/ b | \
+[d,,,d1] ,b [,b,d] ,,,c | \
+[,d,a1] [,cd] [,d,d/] a [b,,a] d | \
+[a,,,a1] ,,d {,,a} b/ a |"
+45;;56;Bouree A 9 - Autre;N. Vallet;;OT;Conc_4453;C;"c/ d | \
+f1 ,,,a {a} f/ d | \
+c1 ,d ,,,a ,i/ f | \
+[h,,f1] ,i ,,,,,f ,h/ ,i | \
+f1 ,,,,f {a} [,d,,c] |"
+46;;57;Bouree de village A 9;N. Vallet;;OT;;C;"[,dda1] a [,c,,a] ,,d | \
+[,d{a}1] a/ ,d [,c,,a1] ,,d | \
+[,db,,d1] ,,,,,c [a,,,,a/] ,d ,c ,a | \
+,,d1 ,,,,a {,,a}2 | \
+[,d,a1]"
+47;;58;Pauanne de spagne A 9 (+3 repeats);N. Vallet;;OT;Conc_4405;C;",,d1 | \
+[,dda{a}3/2] b/ [a,b1] [,d,d] | \
+[,cdca3/2] ,a/4 ,c ,,d1 [d,,a/] b | \
+[a,d1] [,d,d] [a,b/] ,d [,cd1] | \
+[,dda3/2] a/ b1 [a,,c] |"
+48;;59;Guillemette A 10 (1 repeat);N. Vallet;;OT;ConcM6;C;"[d,b1] ,,d [ca] [d,b] | \
+[fd1] c/ d f1 [h,f/] ,,g | \
+[fd1] [df] [db] [cd] | \
+[da1] ,,b ,,,c [c,,e/] a |"
+49;;60;Allemande A 7;N. Vallet;;OT;;C;",d/ a | \
+[bdda1] [bdd] [dbb,d] [dab,,d] | \
+[fdda1] ,,,,d/ ,,,,c ,,,,a ,,,,,d [f{d}1] | \
+[dde,,d1] [bb,,a] [bde,b] [abb,d] | \
+[bbd1] ,,,d ,,,,,b [,d,d/] [a,,c] |"
+50;;61;La Chacona A 7;N. Vallet;;OT;ConcR688;3/4;"[abb1] ,,,,d [abb] | \
+[,ab,,d2] ,,,,a1 | \
+a1 [c,da2] | \
+[dab1] ,,,,,d [dab] | \
+[abb1] ,,,,d [abb] | \
+[,ab,,d2] ,,,,a1 | \
+,,,,c1 ,,,,d ,,,a | \
+[,aba1] ,,,,,d [,aba] |"
+51;;63;Courante A 10 - La vallette;N. Vallet;;OT;;3/4;"h1 | \
+[h,,f3/2] ,h/ ,f ,,i | \
+[,fg1] ,,f [,h,h] | \
+[hi,f2] {,,,a}1 | \
+[f,,e1] ,d [d,,c] | \
+[c,,a1] ,d [d,,,c] | \
+,,,,d1 [cdda3/2] a/4 c |"
+52;;63;Courante de Mars A 10;;;OT;ConcR19;3/4;"[,dff2] [,dd1] | \
+'[,dff3/2] a/ [c,,e1] | \
+[d,,c1] [,a,a] [,b,,d] | \
+[,d,,c/] ,b ,a ,,d ',,b1 | \
+d1 ,,,,d [,d,,c] | \
+[f,'g,a1] ,,f/ ,,g ,,e ,,g |"
+53;;63;Suitte;;;OT;;3/4;"{,,,a}3/2 ,,,a/ ,,,,c ,,,,d | \
+,,,a/ ,,,,d ,,,,c ,,,,a ,,,,,d ,,,,,c | \
+,,,,,a/ ,,a [,,b{a}] ,,d [,a{,a}] ,b | \
+[,d{,,a}/] ,,b ,,a ,,,c ,,,a ,,,,d |"
+54;;64;Courante A 10;R.Ballard;;OT;ConcR715;3/4;",a1 | \
+[,a,,,d3/2] ,,d/4 ,a ,,b1 | \
+[,d,,c3/2] a/ [,b,,a] | \
+,a1 ,,,,,d {,,,a} | \
+[,aba3/2] ,,d/ ,a ,b | \
+,d1 ,,,,c ,,b |"
+55;;65;Courante A 9;N. Vallet;;OT;ConcR716;3/4;",,d1 | \
+[,,dca2] '[,a,a1] | \
+[,c,,e1] [,a,a] ,,,c | \
+,,d1 {,,a}/ ,,,c ,,a ,,c | \
+[,,d,,c1] ',,,,,a ,a [,c{a}] ,d | \
+[a{,a}3/2] ,d/4 a ,c1 |"
+56;;66;Courante A 9;N. Vallet;;OT;ConcR717;3/4;",d1 | \
+[,dda{a}3/2] ,,,,,a/ ,,,,,c1 | \
+[,daa1] ,,,,,d ,,,,,c | \
+[aa,,,a3/2] ,,,,,c/ ,,,,,d1 | \
+[aa1] ,,,,a ,,,,,d | \
+[c,d,,c3/2] d/ f1 | \
+[da,,,d1] [c,d{a}3/2] a/4 c |"
+57;;67;Courante  A 9;N. Vallet;;OT;ConcR718;3/4;",f1 | \
+[ffg,a2] [ea,,,a1] | \
+[ffgh3/2] h/ [i,,,a1] | \
+[hf,g1] ,,,,h ',,,,f | \
+[ab,,d3/2] c/ [d,,c1] | \
+'[caa,c1] ,,,,,d 'a | \
+,,,,a1 [,ea,c] ,,d |"
+58;;68;Courante A 9;N. Vallet;;OT;ConcR720;3/4;"a1 | \
+[abd2] [f,,d1] | \
+[d,,c1] [b,,a3/2] a/4 ,d | \
+a1 ,,,,d {,a} | \
+[a,,,d3/2] ,d/ '[,b,,a1] | \
+'[,a,,,d1] ,,,c [,,d,,b] | \
+'[,,b,,a1] [,,,da{a}] ,,,,c |"
+59;;69;Courante A 8;N. Vallet;;OT;ConcR719;3/4;",,e1 | \
+[,,ef,d3/2] ,,g/ ,,e1 | \
+'[,,d{a}1] [,de] [,bd] | \
+[,,ef,d3/2] ,,d/4 ,,e ,,,f1 | \
+[,d,,b1] ,,,,,d 'a | \
+[bdda3/2] d/ b1 | \
+[a,d1] [f,,,e] 'd |"
+60;;69;Courante A 9;N. Vallet;;OT;;3/4;"a1 | \
+[a,,,d3/2] ,d/ '[,b,,a1] | \
+',a1 [,,,c,e] a | \
+[,bdc1] ,,,,a {,,a} | \
+[,bdca1] ,a/ ,b ,d ,b | \
+'[,a,,,d1] ,,,c [,b,,,a] | \
+[,,d,,b] ,,,c [,a,'a] |"
+61;;70;Courante de Mars A 7;N. Vallet;;OT;ConcR19;3/4;"[,,def{a}3/2] ,,f/ ,,d1 | \
+[,,def3/2] ,a/ [,c,,e1] | \
+[,d,,c1] '[,,a,a] [,,b,,d] | \
+,,d1 ,,,,,c ,,,a | \
+[,db1] ,,,,,d ,,,,,c | \
+'[a,,,,a1] ,a ,c | \
+[cdd1] ,,,a {a} |"
+62;;71;Courante de la complainte A 9;N. Vallet;;OT;ConcR730;3/4;"a/ ,d1 | \
+[,c,,e3/2] ,d/ ,c1 | \
+,,,a1 [,a,c3/2] ,,d/4 ,,c | \
+,,d1 ,,,,,c [,,c,,b] | \
+[,,a,,c3/2] ,,c/ ,,d1 | \
+,,,,,a1 [,a{a}3/2] ,,d/4 ,a |"
+63;;72;Courante A 9;N. Vallet;;OT;;3/4;",,d1 | \
+[,,da{a}3/2] ,a/ [,cd1] | \
+[,d,ff3/2] a/ [c,,a1] | \
+[a,d1] ,d/ a [c,,,a] a | \
+[,da,c1] [f,,,e] d | \
+[cdda3/2] d/ [f,a1] | \
+[d,b1] [c,da3/2] a/4 c |"
+64;;72;Courante A 9;N. Vallet;;OT;;3/4;"a1 | \
+[aacc3/2] ,,,a/ [,,d,d1] | \
+'[,,c,c1] ,,,a [,,dca] | \
+[,acc1] ,,,,,a/ ,,d ,a ,,c | \
+[,,dca1] {,,a}/ ,a ,b ,,d | \
+,d1 ,,b ,,,d |"
+65;;73;Courante A 9;N. Vallet;;OT;ConcR731;3/4;",,d1 | \
+[,,da{a}3/2] ,,f/ ,,d1 | \
+,,,e1 ,,,,f ,,d | \
+'[,,a{a}1] ,,,a ,d | \
+[,dda3/2] a/ c1 | \
+[dab,,d1] [c,da3/2] a/4 c | \
+'[a,,,a1] ,d/ a c d |"
+66;;74;Courante A 10;N. Vallet;;OT;ConcR535;3/4;"d1 | \
+[da1] {,,,a} ,a/ ,b | \
+[,db1] ,,,,,d h | \
+[ddf1] ,,,,,d c/ d | \
+[fdda1] {a}/ d c a | \
+[,d,,c1] ,,b/ a [,ba,a1] |"
+67;;75;Courante a 9;N. Vallet;;OT;ConcR739;3/4;",,d1 | \
+[,dda2] [a,d,e1] | \
+[bdda2] '[d,,c1] | \
+[f,,d/] d f g f d | \
+[,gd,f3/2] d/ [f,,d1] | \
+[df,,d3/2] f/ [,g,,,f1] | \
+,,,,,g1 [,f,,d3/2] ,d/4 ,f |"
+68;;76;Courante A 9;N. Vallet;;OT;ConcR732;3/4;",,,c1 | \
+[,,dca2] '[,,cc1] | \
+[,,d,e3/2] ,a/ [,c,,a1] | \
+[,a,,,a1] ,,d/ ,a ,c ,a | \
+,,d1 ,,,,,c [a,,,,a] | \
+[cd{a}1] ,,,a '[a,,,c] | \
+[,da,c3/2] a/ [,c,,a] ,d |"
+69;;77;Courante A 9;N. Vallet;;OT;ConcR733;3/4;"f1 | \
+[ffg,a3/2] h/ f1 | \
+[hff,,a3/2] f/ h1 | \
+k1 ,,,,a {,,a} | \
+[k,,,a3/2] h/ f1 | \
+[ea,,,a3/2] f/ h1 | \
+[a,d,e1] [ca,,c] ',,,,a | \
+[a,,c,e3/2] ,d/ '[,c,,a1] |"
+70;;78;Courante Sur la gaillarde de bocquet a 9;N. Vallet;;OT;ConcR2586;3/4;"d/ b1 | \
+[ab3/2] b/ a1 | \
+[,dff3/2] ,f/ ,d1 | \
+'[,bd1] ,,,,a {,,a} | \
+[ab1] ,,d ',,b | \
+[bbdd3/2] d/ f1 | \
+[d,,c1] '[b,,a] ,a |"
+71;;79;La Signolle A 9;N. Vallet;;OT;Conc_1750;3/4;",,d/4 ,a ,b ,d | \
+[a,,,a3/2] b/ a1 | \
+[ab,,d1] [,dff,d2] | \
+[,bbcd2] {,a}1 | \
+[,bbc1] ,b/ ,d a c | \
+[da,,,a3/2] f/ d1 |"
+72;;80;L'auignonne A 9;;;OT;Conc_273;3/4;"a1 | \
+[abb,d2] [,d,a1] | \
+'[,b,,a1] [,a,,,a3/2] ,,d/4 ,,c | \
+,,d1 ,,,,a [a,,,,d] | \
+[bbd,,b1] ,,,,,a {a} | \
+[a{,a}3/2] c/4 e [f{,,a}1] | \
+[ea,,,a2] [f,,,a1] |"
+73;;80;L'espagnolle A 9;;Spagnoletta;OT;ConcR598;3/4;",d1 | \
+[,dda2] '[a,,,a1] | \
+[b,,a1] [db,c] ',a | \
+[f,dd3/2] d/ '[b,,a1] | \
+[a,,,d3/2] b/ [,d,,b1] | \
+[,c,,a3/2] ,a/4 ,c ,,d1 | \
+[,d{a}/] ,c ,d a b d |"
+74;;81;La Princesse A 10;N. Vallet;;OT;ConcR421;3/4;",,d1 | \
+[,,dca2] '[,,c,,a1] | \
+[,,d,d1] ,,,,a/ ,a ,b ,d | \
+,a1 ,,,,,a ,,,,c | \
+[,acc2] ,b1 | \
+'[,b,,a1] ,,,c [,d,a] | \
+'[,a,,,d1] ,d/ a b a |"
+75;;82;La durette a 9;R.Ballard;;OT;ConcR431;3/4;",,d1 | \
+[,,dca1] ,a ,,,,,e | \
+[,b,,a3/2] ,a/4 ,b ,,d1 | \
+a1 ,,b ,,,c | \
+,,,d1 ,d ,,d | \
+[aa,c3/2] b/ d1 | \
+[,b,d1] [,a,a3/2] ,,d/4 ,a |"
+76;;83;La Courante Sarabande A 9;R.Ballard;;OT;Conc_1756;3;",,d/4 ,a ,c ,d | \
+[acd,a3/2] c/ '[a,,,,a1] | \
+[,c,,a1] ,,d a | \
+[acd1] ,,,,a {,,a} | \
+[c{a}1] [aa,,,a3/2] ,d/ | \
+,c1 ,,,,a {,,a} |"
+77;;84;Lamoresque A 9;R.Ballard;;OT;ConcR591;3;",,,,a1 | \
+[,cdc2] {a}1 | \
+[,dda2] {,,a}1 | \
+[acd2] {a}1 | \
+[cdd3/2] a/ [,d,,,c1] | \
+,,,,,d1 [,c,,a3/2] ,a/4 ,c | \1
+,d1 {a} ,c | \
+[,c,,a/] ,a ,c ,d a ,c |"
+78;;84;La daulphine A 9;N. Vallet;;OT;Conc_4492;3/4;"[,bdca3/2] ,d/ ,b1 | \
+[,a,c3/2] ,b/ [,,d,d1] | \
+,,,a1 [,,cc3/2] ,,a/4 ,,c | \
+,,d1 ,,,,a ',a | \
+'[,b{,,a}1] ,a/ ,b ,d ,b | \
+[,a,,,a1] a {,a} |"
+79;;85;L'Amaturnie A 10;N. Vallet;;OT;ConcR734;3/4;"[,dca2] '[,a,,,a1] | \
+'[,c,,a3/2] ,d/ [a,,,,e1] | \
+,,,,a1 [,e,,c3/2] ,c/4 ,e | \
+,f1 ,,,c ,,,,,a | \
+[aacc3/2] c/ '[a,,,e1] | \
+[cdda3/2] e/ [f,,,a1] | \
+'[ea,,,a1] [ca{,,a}3/2] a/4 c |"
+80;;86;La Mariniere A 10;N. Vallet;;OT;ConcR728;3/4;"a1 | \
+[a{,,,a}3/2] ,d/ '[,c{,a}1] | \
+[,a{a}3/2] ,,d/ '[,,c,,a1] | \
+,,d1 ,,,,a {,,,a} | \
+[,,dca1] [,a,,,e] ,,,c | \
+[,c,,a3/2] ,e/ a1 | \
+[e,,,,a1] [c{,,a}3/2] a/4 c |"
+81;;86;La Sarabande espagnolle A 10;N. Vallet;;OT;ConcR689;3;"[,,dca3/2] ,a/ ,c1 | \
+[,dda3/2] a/ ,d1 | \
+'[,cdca3/2] ,d/ ,a1 | \
+,,,c1 ,,,,,a [,acc] | \
+[acd,a3/2] c/ 'a1 | \
+[,dda3/2] a/ ,d1 | \
+'[,cdca3/2] ,d/ ',a1 |"
+82;;87;Volte de la complainte A 10;N. Vallet;;OT;ConcR735;3/4;"a/ ,d '[,cd1] [,ac] | \
+[,,d,,c3/2] ,,c/4 ,,d [,,a,a1] | \
+[,a,,c1] [,,c,e3/2] ,,a/4 ,,c | \
+',,a1 ,,,,,c/ ,,c ,,d ,a | \
+[,c,,,a/] ,a [,c{a}] ,a ,,d ,a |"
+83;;88;Volte A 9;N. Vallet;;OT;ConcR736;6/4;"a/ ,d '[,bd1] [,d,d] | \
+'[a,,c1] ,,,,d [,,dd/] ,a ,b ,d [,ab3/2] ,,d/4 ,a | \
+[,b,c1] ,,,,d/ ,d a b [d,,,c1] [a,,,d] [f,,,a] |"
+84;;89;Gaillarde A 9;N. Vallet;;OT;ConcR1129;6/4;"[abd,a2] f [i{,,a}] | \
+[ha,,,a3] f1 [da] [c,,a] | \
+[a,,,d1] ,,,,c [a,,,a] ,,,,,d [,ed,,c2] | \
+[aab,,a2] ,,,c1 c [da] ,b | \
+[bd1] ,,,a ,,,d ,,,c [da,a] b |"
+85;;90;Volte du Roi A 9;N. Vallet;;OT;ConcR1130;3/4;"[a,,,d1] ,,d [,a,,c] | \
+[,bd,a3/2] ,d/ ',b1 | \
+[,a,,,a3/2] ,,d/ [,,cc1] | \
+[,,d,a/] ,,c ,,d ,a ,b ,d | \
+a1 [,,de] [,ac] | \
+'[,b,,a1] ,a/ ,b ,d ,b |"
+86;;90;Volte;N. Vallet;;OT;ConcR1131;3/4;"[a,,,a1] f [h,,,,a] | \
+[k,,,a3/2] h/ [f{,a}1] | \
+{a}1 [ea,,,a3/2] h/ | \
+f1 ,,,,a {,,a} | \
+,,,c1 ,,a/ ,,c ,,d ,a | \
+[,c,,a1] ,d/ ,c [,a{,a}] ,,d |"
+87;;90;Volte;N. Vallet;;OT;ConcR1132;3/4;"[,,aa{a}1] | \
+'[,,aa{a}3/2] ,,,c/4 ,,a ,,,a1 | \
+,,d1 ,,a ,,,a | \
+[,d{a}1] ,,d ',,a | \
+c1 ,d ,,d | \
+'[,,a{a}1] ,,,a ,d | \
+,,d1 ,d/ a c ,d |"
+88;;91;Branle d'Irlande A 9;N. Vallet;;OT;ConcR289;C;"[,,da{a}2] [,dda] | \
+[,,aa{a}3/2] ,,b/ ,,d1 ,a/ ,c | \
+,d1 ,,d [,a,,,d] [,,d,a/] ,,b | \
+[,,a{a}1] [a,,,a] [cdda2] | \
+[,,dca1] {,,a}/ ,a ,c ,d a1 |"
+89;;92;Mal Simmes - Bal Anglois;N. Vallet;;OT;Conc_4432;C;"[,abd,a1] [da,c] c/ a | \
+[caa,c/] a ,e ,c ',a1 [h,,f] | \
+[f,,e1] [d,,c] [c,,b] [a,,c] | \
+[,ea,c1] ,a [,aab{,a}2] | \
+[da,,,a1] [c,,,a/] a [c{a}1] [,a,,,a] |"
+90;;93;Chançon angloise A 8;N. Vallet;;OT;Conc_4428;3;"[,ab,,a2] a1 | \
+[,ea,c3/2] ,,,,a/ [a,,,,d1] | \
+[c,d,a3/2] a/ [,ea,c1] | \
+[aac1] ,,,c ,,,,,a | \
+[ddff3/2] f/ 'd1 | \
+[cdda3/2] d/ 'c1 | \
+[aabc3/2] [c,d/] [a,b1] |"
+91;;94;Susannesco - Chançon a l Polonnoise A 8;N. Vallet;;OT;ConcR1230;C;"[,ea,c1] '[aa,,,d] [c,d,,c] ',e | \
+[aac,,a/] ,d/4 ,c ,a ,,d ,,c ,,a ,,,c1 ,,,,,a | \
+[da,c1] [c,a/] a [,dff1] [cd,a] | \
+[add1] ',c [,dda{a}2] |"
+92;;94;Taniec Spolski - Autre;N. Vallet;;OT;ConcR590;C;",,d1 | \
+[,dda1] '[,c,,a] [,d,,c] '[a,,,e] | \
+[c,da3/2] c/ '[a,,,a1] [,d,,c] | \
+'[a,,,e1] [c,da] [dab,,d] [c,,,a/] a | \
+[cdd1] ,,,a {a} ,,d | \
+[,d,a/] a [,c,,a] a"

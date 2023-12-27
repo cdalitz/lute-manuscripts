@@ -1,0 +1,74 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;A2r;Recercario primo de Francesco da Milan;Francesco da Milano;;OT;ConcR1329;C;",,c1 ,,a ,,c ,,d | [ha3] f1 | [e,f2] [c,d] | [a,c2] [,ea] | \
+[a,,ce1] ,,,,,c ,,,,,e ,,,,a | [,a,,c3] ,,d1 | \
+[,,c,c2] [,,a,a] | [,,,c,e2] [,,,b,c] |";italian7tab
+2;;A2v;Recercar secondo de francesco da milan;Francesco da Milano;;OT;ConcR1330;C;",,d4 | ,,d2 ,,d | [a,,c3] ,,a1 | [a,b2] ,,d | \
+a2 ,,b1 ,,a | [d,,c1] ,,a ,,b ,,d | ,a1 ,,b ,,d ,a | \
+[,b,ca2] ,a1 ,,d |";italian7tab
+3;;A3r;Recercar terzo de francesco da milan;Francesco da Milano;;OT;ConcR1331;C;"[ac,,a4] | [ac,,a1] ,a ,,d2 | [,cd,a2] ,,a | \
+[,ac,,a2] [,cd] | [,a,,,a1] ,,d ,,c ,,a | \
+[,ac,,a1] ,,a ,,d ,,c | [,,d,a2] c | a2 ,,,c |";italian7tab
+4;;A3v;Recercar quarto de Francesco da milan;Francesco da Milano;;OT;ConcR1332;C;"[,aa,c4] | [,aa,c1] ,,,,a ,,,,,d ,,,,,c | \
+[ab,,a2] ,,,c1 ,,a | [,abc1] ,,d ,a ,c | \
+[,da,c2] ,a1 ,c | ,d1 a [ca2] | ,,d2 [a,b] |";italian7tab
+5;;A4r;Recercar quinto de Francesco da milan;Francesco da Milano;;OT;ConcR1333;C;"[,,d,a3] ,,,,c1 | [,,d,e2] ,,,,f | ,,d2 ,,,,e1 ,,,,c | \
+[,,d,e2] ,,,,f | [,a,,c3] ,,,,e1 | \
+[,a,a2] ,,,c | ,a2 ,,,a1 ,,,,e | \
+[,a,a2] ,,,c | [,cd,a1] ,,c ,,d ,a |";italian7tab
+6;;A4v;Recercar sesto de Francesco da milan;Francesco da Milano;;OT;ConcR1344;C;"[,,,c,a4] | [,,,c,a2] ,,,,,c | [,,,c,d2] ,,,,a | [,aabc4] | \
+[a,,c4] [a,,c2] ,,a | [a,b2] ,,d | [,ef,c4] | \
+[,,bc1] ,,a ,,b ,,d | ,a2 ,,d1 ,,b |";italian7tab
+7;;B1r;Recercar settimo da francesco da milan;Francesco da Milano;;OT;ConcR1404;C;"[aa,c,a4] | [aa,c,a2] ,,,,,c | [aa,c,d2] ,,,,a | [ca,bc4] | \
+[da,c,a4] | [da,c,a2] ,,,,,c | [da,a,d2] [c,,,1] a | \
+[,daac1] ,c ,d a | [ca,ac2] [da,c,a] | ,,,,,d1 c [abd,a] ,,b |";italian7tab
+8;;B1v;Recercar ottauo de Francesco da milan;Francesco da Milano;;OT;ConcR1405;C;",,,a4 | ,,,a2 ,,,c | ,,,d2 ,,b | ,,d ,,,,a | \
+,,d3 ,a/ ,c | ,d4 | ,,,a2 a | [b,,a2] [d,,c] | \
+[f,,d2] d1 b | [a,,,a2] ,,,,c |";italian7tab
+9;;B2v;Recercar nono de Francesco da milan;Francesco da Milano;;OT;ConcR1406;C;"a4 | h2 ,a | [fh2] [cd] | [df2] [fc] | [hd2] [df] | \
+[ac2] [f,d] | ,d1 d c [ac] | [,df2] [a,b] | [c,d2] [d,,c] | \
+,,b1 c [a,d2] |";italian7tab
+10;;B3v;Recercario decimo de Francesco da Milan;Francesco da Milano;;OT;ConcR1407;C;"[abd,a4] | [abd,a2] ,,b | [,,,da2] [,,,c,d] | \
+,,,,,b1 ,,,c ,,,a ,,,,d | [,,,a,b2] ,,,c | \
+[d,,c,a3] b1 | a1 ,d [a,bc2] | [b,da2] [a,bc] | [,,dd2] f |";italian7tab
+11;;B4v;Recercario undecimo de Francesco da milan;Francesco da Milano;;OT;ConcR1342;C;"[a,,c,a4] | ,,,c2 ,,a | [a,b,,a2] ,,,c | \
+,,b1 ,,a ,,b/ ,,a ,,b ,,d | [,a,c,a4] | [,a,c,a2] ,,,,,c | \
+[,a,c,d2] ,,,,,a | ,,,,,d2 ,,,,a | [,aabc4] | [,aabc2] c |";italian7tab
+12;;C1r;Recercario due decimo de Francesco da milan;Francesco da Milano;;OT;ConcR1338;C;"[aa,c,a4] | [aa,c,a2] [aa,c,a] | [abd,a4] | \
+[aa,c,a1] ,,,,,c ,,,,,d ,,,,a | [ca,bc2] ,,,c | \
+[ca,cc2] ,,,b | [da,c,a2] c1 a | [cd,,c1] ,c ,a ,,d |";italian7tab
+13;;C1v;Recercar terzo decimo de francesco de milan;Francesco da Milano;;OT;ConcR1408;C;",,,a4 | ,,,a2 ,,,c | ,,,e/ ,,,a ,,,c ,,,a ,,,c1 ,,,e | \
+[,d,f2] ,,,e1 ,,,c | ,,,e2 [a,,c] | [c,,a1] ,d a c | \
+[d,,c2] c1 a |";italian7tab
+14;;C4r;Recercar primo Iulio da modena;Giulio da Modena;;OT;ConcR1351;C;"c4 | [ca4] | [ca2] ,,d | [ca2] [ac] | [cd2] [ec1] ,a | \
+[f,de3] ,a1 | [fc,e1] ,e [ef,c2] | ,,,d1 c [a,c] ,d |";italian7tab
+15;;C4v;Recercar secondo;Giulio da Modena;;OT;ConcR1334;C;"h4 | c2 f | a2 d | [a4] | ,,a2 ,,d | a1 ,,,c ,,b2 | \
+[,,a,c2] ,,,a | ,,,d1 ,,,,a ,,,,d2 | [a,,c2] ,,b | \
+[,d,,c/] ,,,,a ,,,,c ,,,,d ,,,a2 |";italian7tab
+16;;D1r;Recercar terzo;Giulio da Modena;;OT;ConcR1335;C;"[aa,c,a4] | [aa,,,a4] | [abd,a4] | [aa,c,d4] | \
+,,,,a1 [abd] ,,,,,d ,,,,,c | [da,c,a2] a1 ,,,,,c | \
+,,,,,d1 [da] [c,d,a] a | ,,,,c1 [,da] ,a ,c |";italian7tab
+17;;D2r;Recercar quarto;Giulio da Modena;;OT;;C;"d4 | d2 d | [db3] c1 | [ab1] c d ,a | ,b1 a [f,d] ,,b | \
+[d,d/] c a ,d ,b ,a ,,d |";italian7tab
+18;;D3v;Recercar quinto;Giulio da Modena;;OT;;C;",,f4 | ,,f2 ,,d | [h,,f2] ,,,e1 ,,,,h | [h,,f2] [f,,e] | \
+[d,,c2] c1 a | [d,,c2] [c,,a] | [a,,c1] ,,a ,,b ,,d | \
+[,df1] ,c ,d2 | c2 ,c1 ,a |";italian7tab
+19;;D4v;Recercar sesto;Giulio da Modena;;OT;;C;"a4 | a2 a | c4 | ,e4 | [a,,c4] | [a,,c2] [a,,c] | \
+,,,e4 | [,e,ec4] | [ha,f,a4] | [ha,f,a2] [ha,f,a] | \
+[fc,e,c4] | [ca,ac1] ,d a c | [da,c,a1] ,,a ,,b ,,d |";italian7tab
+20;;E1r;Recercar setimo;Giulio da Modena;;OT;;C;",d4 | f4 | [b,,a2] ,d | [a,d2] b | ,,,d2 [f,,a] | \
+[d,,c2] a | ,,,d2 [,d,a] | ,,d2 [a,b,,d] | [,,,da2] [,d,ab] | \
+[,,,c,d2] [,c,,a] | [,d,ab2] d |";italian7tab
+21;;E2v;Recercar ottavo;Giulio da Modena;;OT;ConcR2317;C;",d3 a1 | c1 d f2 | ,,,a1 d c ,,,c | ,,a1 ,,b [a,d2] | \
+c1 ,,b ,,a a | ,d2 [,c,c1] ,a | [,,de1] ,,,c ,,,a ,,,,e |";italian7tab
+22;;E3v;Recercar nono;Giulio da Modena;;OT;;C;"[,a,,c3] ,,,,e1 | [,a,a2] ,,,c | ,a2 ,,,a1 ,,,,e | \
+[,a,a2] ,,,c | [,c,,a1] ,,,,c ,,,,e ,,,a | [,c,c2] ,,,e | \
+c2 ,,,c1 ,,,a | [,c,c2] ,,,e |";italian7tab
+23;;F1r;Recercar decimo;Giulio da Modena;;OT;;C;",d4 | [,db2] ,d | [a,b2] [a,b] | [c,da2] ,,b1 a | \
+[,dfa2] ,,d1 ,c | [,a,c2] ,,c | [,,de2] ,,,a1 ,,,c | \
+[,,def1] ,,,f [,,d,e] ,,a |";italian7tab
+24;;F2r;Recercar undecimo;Giulio da Modena;;OT;;C;"f4 | c2 d | [fd4] | [ha2] ,,h | [f,i2] ,h | \
+[df2] [cd] | [a,d2] f | [,,de2] [d,ff1] ,h | \
+[,fhh2] [fh] | ,,,h1 ,f [,ii2] |";italian7tab
+25;;F3r;Recercar duodecimo;Giulio da Modena;;OT;;C;",,d4 | [a,d2] ,b | a2 [da1] ,,d | ,,b2 [cb1] a | \
+[,df2] [d,,f] | [c,d2] [,df] | [ab2] [c,d] | [da,c2] [c,d] | \
+,,,c1 [a,b] [a,d,d2] |";italian7tab

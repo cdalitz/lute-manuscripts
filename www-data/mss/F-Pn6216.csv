@@ -1,0 +1,109 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1;C dur;1r;Prelude sur la \ \ d'Assi;Emond;;;;none;"{4}1 ,,,,,d [,,dcc] ,a ,c a [,'a{a}] ,,,,,a ,,d/ ,a ,c a c1 \
+[ca,,,c] 'a [,cd,,d] ,a ,,d ,,c [,,aad] ,,,,a ,,c"
+2;C dur;1r;[Gavotte];;;;Conc_1282;C;"[,,dccd1] [,a,,,c] | \
+[,c,,,d1] {4} ['a{,a}3/2] ,c/4 a | \
+[c{4}1] (,d/ ,c) [e{,a}1] (c/ a) | \
+[c,,,,d1] (,d/ ,c) [a{,a}1] (,c/ ,a) | \
+[,c,,,d1] (,d/ ,c) (,a ,c) [,,d,e] ,a | "
+3;C dur;1v;Allemande Emond;Emond;;;Conc_765;C;",,d/ | \
+[,,dcc{4}3/2] ,,,c/ ,,,e3/4 ,,,,c/4 ,,,,d3/4 ,,,c/4 | \
+[,,,,'c/] [,c,,,d] ,,,,c ,,,,,c/4 ,,,,a ,,,c/ ,,,c \
+[,,cad] [,,db,a] | \
+[,,'c{a}/] ,,,c [,,dc{,,a}3/4] ,,d/4 [,,d{,a}/] ,,,e \
+{,,a} [a,c{,,,a}] | "
+4;B dur;2r;sans titre;;;;;3;",,a1 (,,b/ ,,a) ,,,c ,,,a | \
+,,,c1 ,,,c2 | \
+,,,a1 (,,,c/ ,,,a) (,,,,c ,,,,a) | \
+,,a3/2 ,,b/ ,,a1 | \
+,,,c3/2 ,,,c/ ,,a1 | \
+,,,a1 ,,,a2 | "
+5;C dur;2v;Gigue du mesme;Emond;;;Conc_3712;3;"c3/2 e/ c [,'c3/4] a/4 ,a/ | \
+[,cd3/4] ,c/4 a/ [c,'c] ,,,e ,,d [,'a,c3/4] ,c/4 | \
+[a,,a3/4] ,,,,c/4 [,,,,'a/] [c,,,c] ,,d [,a,a] \
+[,,cc] ,,d/4 ,c | "
+6;C dur;3r;Courante du mesme;Emond;;;Conc_766;3;"[,'c/] ,d | \
+c1 ,,d/ e 'c1 | \
+,a/ a ,,a1 [c,c] | \
+,,d/ ,c [,,,,'c1] V,,,,d/ ,,a | \
+,a3/2 [,c,c/] ,,d1 | \
+[,,cc{a}1] [,,cc/] ,,c/ [,,aad1] | "
+7;C dur;3v;Autre Courante du mesme;Emond;;;Conc_767;3;",,,c1 | \
+[,,,ccd{4}3] | \
+[,,aad{,a}3/2] ,,a/ [,a{,,,a}1] | \
+[,,'cc{a}3/2] ,,,,a/ [,,d,c1] | \
+[,a,,d1] [,,c] ,,d/ ,c | \
+[,'a{a}3/2] ,,d/4 ,a [,,d{4}1] | \
+c3/2 e/ ['a{,,,a}1] | "
+8;C dur;4r;Sarabande du mesme;Emond;;;Conc_180;3;"[c,,,,d/] c [ccd1] [,,,,,'c] | \
+[c,d,,a1] 'a/ ,c a ,,a | \
+[a{a}/] a [a,cc1] ,,d/ ,c | \
+[,acc1] [,ac/] ,a [,,,'a1] | \
+[,,d{a}1] ,,,,c/ ,,,c ,,d ,,,,d | \
+[,,,,'a1] [,,c{a}] [,,'a{,a}/] ,,c | "
+9;C dur;4v;Sarabanda dufaux;F.Dufault;;;Conc_182;3;"{a}2 ,,,d1 ,,d3/2 ,a/ [,c,,,d1] | \
+[a,,,a3/2] c/ ,,,,c1 [e,,,d3/2] h/ ['g,,,f1] | \
+[h{4}3/2] ,,,h/ [,,,'g1] ,,,,h3/2 h/ ['g,,,f1] | \
+,,a3/2 e/ [c,,c1] ['a,a3/2] ,c/ [,ac1] | "
+10;C dur;5r;Gavotte;F.Dufault;;;Conc_2072;C;"[,,,ccd/] ,,,c [,,a,,c] ,,c | \
+V[,,d,,a3/2] ,,,c/ [,,d{,,a}] ,,c V[,,d{,,,a}] ,a | \
+[,cd{4}3/2] ,c/ [aVd{,,,a}] ,c [,'a] ,,d | \
+[,,'c{a}/] ,,,c V[,,d,,a] ,a [,'a{a}3/2] ,,d/4 ,a | "
+11;;5v;fragment;;;;;C;"z1 z z z | \
+e1 e [ed/] f [ea] c | \
+[cc] ,d ,c [aa] [,cde] ,c [a,,a] ,a | \
+[a,de{,a}3/4] ,,,f/4 [,,,e{,,,a}/] [c,,c/4] ,,,a \
+[e,,,,ca/] ,,,,,b/4 ,,,,,a [g{a}/4] {,a} | "
+12;;6r;fragment;;;;;C;"[,,a,a1] [,a,a] [,a,,a] [,c{a}] | \
+[,,e,,a1] ,,e ,a ,,a/ ,,b | \
+[,,,'c3/2] ,,,e/ [,,,'a3/2] ,,,,c/ | \
+[,,,,'c3/2] ,,,,a/4 ,,,,,e ,,,,a1 ,,,a/ ,,,c | \
+,,a1 (,,,c/ ,,,a) ,,d1 ,a | "
+13;C dur;7r;Air d'un opera;;;;;C;"[,,dcc{a}1] ,c/4 ,a [,,d,,c/] c1 [c,,,,c] | \
+[c{a}3/2] a/ [,c,,,d] ,c ,c a | \
+[,a{a}/] ,a ,a [,c,,,d] [,,d,c] ,,d ,,d ,,,c | \
+[,,d,,d/] ,,d [,a,,,c] ,c [,c,,,d1] [,a{a}/] c | "
+14;G dur;7v;Les trembleurs de L'opera d'Isis;;;;;C;"[,acc{a}/] ,a | \
+[,acc/] ,a [c,,,c] c [b,,,a] b b [c,,,,c] | \
+[,c,,,d/] ,c [,cdc] ,c [,acc{a}] [,ac] [,ac{a}] ,c | \
+[,,d,,a/] ,,d [,,d,c] [,a,,e] ,,c ,,c [,,cc{a}] ,,d | "
+15;C dur;8r;sans titre;;;;;3;"a1 | \
+[,'c3/2] ,a/ ,,d1 | \
+,a1 ,,b ,,,c | \
+,,d3/2 ,a/ [,,'b1] | \
+,,a1 ,,,a a | \
+,a1 [,'c3/2] a/ | \
+c1 ,e a | \
+,a1 ,c3/2 a/ | "
+16;B dur;8v;"""du vieux gauthier""";V.Gaultier;Courante;;Conc_66;3;",a1 | \
+[,aba{d}1] [,'b/] a/4 ,b a1 | \
+[,,b{d}1] [,,d,,a] [,a{d}] | \
+[,,da1] [,a{,a}] ,,d/ {,,a} | \
+[,,,a{,,,a}1] V,,,c/ {,,a} [,,a{,a}1] | \
+V[,,baa{d}3/2] (,,f/4 ,,d ,,,f) ,a/ ,,,,,a | "
+17;B dur;9r;La Superbe, courante du Vieux gauthier;V.Gaultier;#22;;Conc_49;3;"a/4 c/ e/4 | \
+f1 ,,,f [,'d/] ,b | \
+[,'a{d}1] ,,b [cb{,,a}/] c | \
+[c,d,b3/2] ,,b/ ,,d ,b | \
+[,'a{d}1] [,,ba] a/ a | \
+[a,,,,a1] ,,,a/ ,,d [,a{d}] ,a | "
+18;B dur;9v;Sarabande en Suitte;V.Gaultier;#24;;Conc_2073;3;"[aa{d}1] [,'b,c3/2] ,,a/ | \
+[,ab1] ,,,,a ,,,,b | \
+[,a,a1] [,,'da{,a}3/2] ,,a/ | \
+[,,baab2] [,,baa1] | \
+[,,b{d}1] [,,da{,a}3/2] ,a/ | \
+[,,bca{a}1] ,,,,a [,,d,c] | \
+[,,ccd{,a}1] [,,,'c{4}3/2] ,,,a/4 ,,,,c | "
+19;C dur;10r;…..?…Simphonie;;until p. 11r;;;C;"[,cd,,d1] {4} [c,d,c] {,,a} | \
+[,,dad1] [a,,,a] [,cd,,d] ,a/ ,,d | \
+[,,cc{a}1] ,,d [,acc] ,,d | \
+[,,d,,a1] [,,c,a/] ,a [,,'cc{a}3/2] ,,d/ | \
+[,,dccd2] {4} | "
+20;C dur;10v;fragment (Le berger …. mengage ….);;;;;3;",,,c1 ,,d/ ,,d ,a1 | \
+,c2 a1 | \
+,a1 ,a a/ ,c | \
+a1 ,a [,'a] | \
+,,d3 :: \
+c1 a c | \
+e3 | \
+a1 ,a ,c | "

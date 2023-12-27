@@ -1,0 +1,138 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1;;2v;Aire;;;OT;;none;"[bdda] ,,,e [bbdd] [db,c] [bdda] ,,,,d ,,,,b ,,,,a [,dda] [ab,,d] [bdd,,b] | \
+,,,d ,,,c [bbda] ,,,,c [,bbda] [,bcda] [acd,a] \
+[,bcda] [bbd,,b] |"
+2;;4r;Aire;;;OT;;none;"[cdda] a c [d,,c] f d [cdda] a c [acd,a] | \
+a [cdda] d f [dab,,d] d [cdda] [acd,a] |"
+3;;4v;Aire;;;OT;;none;"[cdda] f [fdd,,,a] [cdda] [,da,c] [acd,a] [cdda] ,,,,,,a | \
+[cdda] f [fdd,,,a] [edda] [,da,c] [acd,a] [cdd] ,,,,,,a | \
+,,,a a [acd,a] d"
+4;;5r;Chanson;;;OT;;none;"[edda] [edda] [edda] [edda] | \
+[edda] [cdda] [edda] [ab,,d] [,da,c] [,da] [acd,a] | \
+[cdda] [cdda] [ab,,d] [,da,c] [,cd,,a]"
+5;;5v;Aire;;;OT;;none;"[,dda] [,bbcd] ,,,,c ,,,,a [,bbcd] [,aabc] [,cdca] | \
+[,cdca] ,,,,c [,bbcd] ,,,,a ,,,,,b [,bbcd] [bbd,,b] | \
+[bdda] ,,,c ,,,d ,,,,d [bbd,,b] [,bbcd] [bbd,,b] [ddff] |"
+6;;6r;Chanson;;;OT;;none;"[bdda] [,bbcd] ,,,,b [bdda] ,,,,,d [bbd,,b] [bbd] | \
+[bdd] [,bbcd] [bdda] ,,,,d ,,,,b ,,,,a ,,,,,d [bbd,,b] [bbd] | \
+[bdda] [bdda] [bddda] [,bbcd] ,d [,bbddb] |"
+7;;6v;Chanson;;;OT;Conc_4434;none;"[,dda,,a] [,cdca] [,d,,c] [acd,a] [cdda] ,,,,,,a [cdd] | \
+[fdda] [fdd] [ddf,d] [cdd,,,a] | \
+[cdda] ,,,,c [a,d,e] [cdda] [,da,c] [,cdca] ||"
+8;;7r;Aire;;;OT;;none;"[,dda] {a} [,cdca] ,c [,acc] {a} [,cdca] | \
+[,dda] [,,,,a{a}] [,cdca] ,c [acc] {a} [,cdca] | \
+[cdda] d [fdda] {a} [dab,,d] [cdda] |"
+9;;7v;Aire;;;OT;;none;"f [da,c] [cdda] [acd,a] c [,dda] {a} | \
+a c [da,c] [cdda] [acd,a] c [,dda] {a} ,,,a | \
+,,d [,dda] [a,,,c] [cdda] [da,c] [fdda] {a} |"
+10;;8r;Aire;;;OT;;none;"f [da,c] [cdda] [acd,a] c [,dda] {a} | \
+a c [da,c] [cdda] [acd,a] c [,dda] {a} ,,,a | \
+,,d [,dda] [a,,,c] [cdda] [da,c] [fdda] {a} |"
+11;;8v;Aire;;;OT;;none;"[,dda] ,,,,,a [acd,a] [acd,a] [bdda] [bdda] [acd,a] | \
+[,bdd] [,bdd] [,bdd] [bbd,,b] [,bbcd] [bdda] [,cdca] [,dda] ||"
+12;;9r;Aire;;Contuation of f.8v?;OT;;none;"[,,d,c] [,d,,b] [cdca] | [,dda] ,,,,a [,dda] ,,,,e [bdda] [acd,a] | \
+[bdda] {a} [bdda] {a} [,cdca] [,d,,b] [,cdca] [bdda]"
+13;;9r;Aultre Aire;;;OT;;none;"[aacc] [aacc] [bbdd] [aacc] [bbdd] [aacc] [,dda] [,acc] | \
+[da,c] [c,,a] [ab,,d] [,da,c] [,aba,d] [,da,c] [,bd,a] [,acc] |"
+14;;10r;Chanson;;;OT;;none;"[aabc] [abd] [cdda] [,ea,c] [aabc] [,ea,c] [aabc] [,bd,a] [,dab,d] [,dab,d] [,bd,a] [aabc] | \
+[aabc] [,bd,a] [,dab,d] [aacc] [cdda] [,ea,c]"
+15;;12v;Fuggon le stelle;;;OT;;none;"[cdda] [cdda] [h,,f] [fcda] ,,,,,a ,,,,,c ,,,,a [aaba,d] [cdda] [acd,a] [,dda{a}] || \
+[cdda] [fdd{a}] [daba,d] [cdda] [cdd{a}] [acd,a] |"
+16;;39r;Dieu vous gard Bergerette Chanson;;;OT;;none;"[,dda] [acd,a] [cdda] [dab,,d] [dab,,d] [fcd,a] [,dda] | \
+[dab,,d] [,dda] [,dda] a [bdda] [acd,a] | \
+[,dda] [acd,a] [cdda] [dab,,d] [dab,,d] [fdc,a] [,dda] |"
+17;;39v;Aultre;;;OT;;none;"{a} [cdda] [acd,a] [cdda] [,dda] [acd,a] [acd,a] [cdda] | \
+[cdda] [acd,a] [cdda] [,dda] [,acc] [,da,c] [,cd,a] [,acc] ||"
+18;;39v;Miserere;;;OT;;none;"[acd,a] [acd,a] [acd,a] [,ea,c] [aacc] [,da,c] [aacc] | \
+[cdda] [cdda] ,,,,a [cdda] [acd,a] [ea,,c] [acd,a] \
+[aacc] [cad,c] [aacc] ||"
+19;;39v;Benedictus;;;OT;;none;"[cdda] [cdda] [cdda] [dab,,d] [cdda] [,da,c] [acd,a] | \
+[acd,a] [acd,a] [acd,a] [edda] [dab,,d] [acd] ,d \
+[acd,a] [cdda] ||"
+20;;40r;Aultre;;;OT;;none;"[cdda] a c [da,c] f d [cdda] a [cdd,a] [acd,a] | \
+a [cdda] d f [dab,,d] d [cdda] [acdca] |"
+21;;40r;De Profundis;;;OT;;none;"[cdda] [cdda] [cdda] [ab,,d] [,da,c] [,dab,d] [acd,a] | \
+[acd,a] [acd,a] [acd,a] [,da,c] [,dab,d] \
+[acd,a] ,d [acd,a] [cdda] ||"
+22;;40v;Aultre;;;OT;;none;"[bdda] ,,,c [bbdd] [ddbcc] [bdda] ,,,,d ,,,,b ,,,a [,dda] [ab,,d] [bbd,,b] | \
+,,,d ,,,c [bbda] ,,,,a [,cdda] [,bcda] \
+[acd,a] [,bcda] [bbd,,b] |"
+23;;40v;Te Deum;;f. 39v (2), f. 39v (3), f. 40r (2), f. 40v (2) the same piece?;OT;;none;"[h,,f] [f,,d] [d,,c] [cdda] [dab,,d] [acd,a] [cdda] | \
+[ab,,d] [ab,,d] [ab,,d] [ab,,d] [,dacc] \
+[,dab,d] [acd,a] [cdda] |"
+24;;41r;Aultre;;;OT;;none;"[cdda] f [fdda] [cdda] [,da,c] [acd,a] [cdda] [,dda{a}] | \
+[cdda] f [fdda] [cdda] [,da,c] [acd,a] [,dda{a}] |"
+25;;41r;[Unreadable];;;OT;;none;"[cdda] [cdda] [ab,,d] [,da,c] [,dba,d] [acd,a] | \
+[acd,a] [cdda] [acd,a] [,dda] | \
+[acd,a] [,da,c] [,dab,d] [,da,c] [acd,a] [cdda] |"
+26;;41v;Aultre;;8. Helas sy je suis né;OT;;none;"[cdda] [cdda] [cdda] [cdda] [cdda] [cdda] [cdda] [cdda] [da,c] [ab,,d] [cdda] [dab,,d] | \
+[ab,,d] [ab,,d] [ab,,d] [ab,,d] [ab,,d] [ab,,d]"
+27;;42r;Aultre;;9. Mon Dieu que pouvroie ie fayre;OT;;none;"[,dda] [,bbcd] ,,,,a [,bbcd] [,aabc] [,cdca] | \
+[,cdca] ,,,,e [,bbcd] ,,,,a ,,,,,b [,bbcd] [bbd,,b] | \
+[bdda] ,,,c ,,,d ,,,,d [bbd,,b] [,bbcd] [bbd,,b] [ddff] |"
+28;;42v;Aultre;;10. La fille d'un bon homme;OT;;none;"[bdda] [,bbcd] ,,,,b [bdda] ,,,,,d [bdda] [bdda] | \
+[bdda] [,bbcd] [bdda] ,,,,d ,,,,b ,,,,a ,,,,,d [bbd,,b] [bdd] |"
+29;;43r;Aultre;;11. En me revenant de Saint Nicolas;OT;Conc_4434;none;"[,dda{a}] [,cdca] [,da,c] [acd,a] [cdda] {a} [cdd] | \
+[fdda] [fdda] [ddf,,d] [cdd] | \
+[cdda] ,,,,c [a,d,e] [cdda] [,da,c] [,cdca] |"
+30;;43v;Aultre;;12. Dieu vous gard Belle Bergere;OT;;none;"[cdda] [cdda] [acd,a] [,da,c] [acd,a] [,da,c] [acd,a] [,dda] [acd,a] c [da,c] [cdda] [acd,a] [,dda{a}] || \
+,a ,c [cdda] ,c ,d [acd,a]"
+31;;44v;Aultre;;13. Celuy qui perdt;OT;;none;"[,dda] {a} [,cdca] [,da,c] [acc] [,cdca] [,cdca] | \
+[,dda] {a} [,cdca] [,da,c] [acc] [,cdca] [,cdca] | \
+[cdda] d [fdda] {a} [dab,,d] [cdda] |"
+32;;45r;Aultre;;14. Vous mes amourettes;OT;;none;"[da,c] [cdda] [acd,a] c [,dda] {a} | \
+a c [da,c] [cdda] [acd,a] c [,dda] {a} ,,,a | \
+,,d [,dda] [aa,,e] [,dda] [da,c] [fdda] [fdda] |"
+33;;45v;Aultre;;15. Me vouldrais vous ma gueriére;OT;;none;"[bdda] [d,ff,d] [bdda] [aa,,c] [,ab,,d] [,acc] ,,,,,a [,cdca] | \
+[bdda] [a,,,e] [bdc,b] [bbdd] [bdda] [,d,,b] [acd,a] | \
+[bdda] [abb,d] [bdda] [,,d,,b]"
+34;;46r;Aultre;;16. Ma Mignone Je me plais de vostre rigueur si forte;OT;;none;",dda ,,,,,a [acd,a] [acd,a] [bdda] [bdda] [acd,a] | \
+[,bdd] [,bdd] [,bdd] [bbd,,b] [,bbcd] [bdda] [,cdca] [,dda] ||"
+35;;46v;Aultre;;17. Mon Esprit na point decesse;OT;;none;"[aacc] [aacc] [bbdd] [aacc] [bbdd] [aacc] [,dda] [,acc] | \
+[da,c] [c,,a] [ab,,d] [,da,c] [,aba,d] [,da,c] [,bd,a] [,acc] |"
+36;;47r;Aultre;;18. Amye Il ne fault pas;OT;;none;"[aabc] [abd] [cdda] [,ea,c] [aabc] [,eac] [aabc] [,bd,a] [,dab,d] [,dab,d] [,bd,a] [aabc] | \
+[aabc] [,bd,a] [,dab,d] [aacc] [cdda] [,ea,c] [aacc] [cdda]"
+37;;47v;Aultre;;19. Je me Gay àme aultruy;OT;;none;"[aabc] [abd] [,dda] [,ea,c] [aabc] [,ea,c] [aabc] [,bd,a] [,dab,d] [,dab,d] [,bd,a] [aabc] | \
+[aacc] [,bd,a] [,dcb,d] [aacc] [cdda] [,ea,c]"
+38;;48r;Aultre;;20. Belle main dont l'amour;OT;;none;"[cdda] [cdda] [cdda] [cdda] [dab,,d] [cdda] | \
+[ab,,d] [,da,c] [,cd,a] [,dab,d] [,cd,a] [cdda] [,cd,a] | \
+[ab,,d] [ab,,d] [ab,,d] [ab,,d] [,da,c] [dab,,d] |"
+39;;48v;Aultre;;21. Mon Pere mat marie a;OT;ConcR2547;none;"[cdda] [ab,,d] [,da,c] [,dab,d] [,,d,a] [cdda] [cdda] || \
+[cdda] [cdda] [cdda] [dab,,d] [acd,a] [cdda] [dab,,d] \
+[dab,,d] [cdda] [,aa,c] [,dab,d] [acd,a] [cdda{a}] |"
+40;;49r;Aultre;;22. Bayser tu mas cruellement;OT;;none;"[,dda] [,dda] [acd,a] [cdda] [cdda] [,aba,d] [,da,c] [acd,a] | \
+[acd,a] [acd,a] [acd,a] [acd,a] [acd,a] \
+[,da,c] [acd,a] [cdda] |"
+41;;49v;Aultre;;23. Fuggon le stelle;OT;;none;"[cdda] [cdda] [h,,f] [fdda] ,,,,a ,,,,c ,,,a [dcb,,d] [cdda] [acd,a] [,dda,a] | \
+[cdda] [fdd] [dab,,d] [cdda] [cdda] [acd,a] \
+[dab,,d] [cdda] [ab,,d] [cdda] [acd,a] |"
+42;;50r;Aultre;;24. Oios mios Oios mios;OT;;none;"[cdda] [cdda] [cdda] [cdda] [ab,,d] [ab,,d] [cdda] [acd,a] [acd,a] [,da,c] [,dab,d] [acd,a] [cdda] || \
+[cdda] [cdda] [cdda] [cdda] [,abc] [,abc] [cdda] |"
+;;;Libvre de tabelatvre contenant tous les hymnes et pseaumes des hevres de nostre d'ame <br> Composes et mis en tabelature par moy Charles Syre et Duc de Croy et d'Arschot;;;;;;
+43;;340v;Domine labia mea aperiés;;;OT;;none;"[aacc] [aacc] [cab,c] [aacc] [cab,c] | \
+[cab,c] [cab,c] [aacc] [fcd,a] [ea,c] [cab,c] [aacc] | \
+[ea,c] [ea,c] [fcd,a] [ea,c] [cab,c] [aacc] [cab,c] |"
+44;;341r;Venite Exultemus Domino;;;OT;;none;"[aacc] [aacc] [aacc] [fcd,a] [aacc] [cba,c] [aacc] [cba,c] | \
+[cba,c] [cba,c] [cba,c] [aacc] [fcd,a] [ea,c] [cab,c] [aacc] | \
+[cdda] [cdda] [cdda] [ab,,d]"
+45;;341v;Quem Terra Pontus Ethera;;;OT;;none;"[cdda] [cdda] [acd,a] [cdda] [,da,c] [acd,a] | \
+[acd,a] [acd,a] [acd,a] [acd,a] [,,da,c] [,aba,d] [acd,a] [cdda] | \
+[cdda] [cdda] [acd,a] [cdda] [,da,c] [acd,a] |"
+46;;342r;Domine Dominus noster;;;OT;;none;"[cab,c] [cab,c] [,aca,e] [,aca,e] [acd,a] [aacc] [cab,c] [aacc] | \
+[cdda] [cdda] [dab,,d] [cdda] [aacc] [cab,c] | \
+[cab,c] [cab,c] [,aca,e]"
+47;;342v;Celi e narrant gloriam Dei;;;OT;;none;"[cdda] [cdda] [acd,a] [cdd] [,da,c] [acd,a] [cdda] [dab,,d] | \
+[dab,,d] [dab,,d] [dab,,d] [acd,a] [cdda] [aacc] [acd,a] ||"
+48;;343r;Domine est sevre et plenitudo eius;;;OT;;none;"[cab,c] [cab,c] [,ea,c] [acd,a] [cab,c] [,aca,e] [cab,c] [aacc] | \
+[cdda] [cdda] [cdda] [cab,c] [,aca,e] [acd,a] \
+[aacc] [cab,c] [aacc] ||"
+49;;343v;Pater noster qui es in celis;;;OT;;none;"[cdda] [cdda] [acd,,a] [cdda] [cdda] [,da,c] [acd,a] | \
+[acd,a] [acd,a] [cdda] [,da,c] [,dab,d] [acd,a] [cdda] | \
+[cdda] [cdda] [dab,,d] [cdda] [ab,,d] [,da,c] [acd,a] |"
+50;;347r;Psalm 1;;with Superius, Contratenor, Tenor, Bassus;OT;;none;"[cdda] [cdda] [cdda] [dab,,d] [cdda] [,da,c] [acd,a] | \
+[acd,a] [acd,a] [acd,a] [,da,c] [,dab,d] [,da,c] \
+[acd,a] [cdda{a}] ||"
+51;;348r;Psalmus secundus;;with Superius, Contratenor, Tenor, Bassus;OT;;none;"[cabc] [cabc] [aab,,a] [acd,a] [cabc] [aacc] | \
+[cdda] [cdda] [cdda] [ea,c] [fc,e] [ea,c] [cabc] [aacc] ||"
+52;;350r;Psalmus tertius;;with Superius, Contratenor, Tenor, Bassus;OT;;none;"[aacc] [aacc] [cab,c] [,ea,c] [aacc] [cab,c] [aacc] [cab,c] [aacc] | \
+[cdda] [cdda] [cdda] [aacc] [fcd,a] [ea,c] [cab,c] [aacc] ||"

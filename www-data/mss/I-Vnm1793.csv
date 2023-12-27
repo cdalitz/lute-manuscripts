@@ -1,0 +1,75 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;1r;Ciaccona;;;OT;;3;"{10}2 ,c1 ,d a2 | {9}2 ,a1 ,c ,d2 | {8}2 ,,d1 ,a ,c2 :||: \
+[,,d,a2] a1 ,d ,c ,a |";italian7tab
+2;;2r;Passagagli;;;OT;;3;"[,aa,c2] {9}1 ,c ,d a | [cd,,c2] [,c,,,Xc1] ,a ,c ,e | \
+[,a,,,d2] ,,,,,a1 ,,e ,a ,c | [,d,,,a2] [,c,,,c3] ,d/ ,c |";italian7tab
+3;;2v;Venetiana;;;OT;;C;",c2 ,d | [a,,,a2] ,d1 ,c [,a,,,a2] ,a | \
+[,c,,a2] ,d1 ,c [,a,,,a2] ,c1 ,a | \
+[,,d,,c2] ,a1 ,,d [,,c{8}] ,,a ,,c ,,d |";italian7tab
+4;;3r;Ciaccona;;;OT;;3;"X[,daa2] {a}1 ,c ,d a | [cdda2] [acd,a3] ,d/ ,c | \
+[,da,c2] [,a,,,d1] ,c ,d a | [c,,a2] [acd,a3] ,a/ ,c |";italian7tab
+5;;3v;Ballo di Mantoua;;f. 4r empty;OT;;C;"[,,d,a/] ,,c ,,d ,a ,b ,d a b | \
+[a,,,Xd/] ,d ,b ,d a b d a | [b,,d/] a ,d ,b";italian7tab
+6;;4v;Passagagli in Ciaccona;;;OT;;3;"[aacXc2] ,,,,,a1 ,,a ,,c ,,d | [aacc2] X,,,,c1 ,d ,c ,a | \
+[acdca2] {10}1 ,a ,c ,e |";italian7tab
+7;;5r;Peruggina;;f. 6r empty;OT;;3;"[,aaac2] {9} | [,da,c] |: [,c,,,c2] [,aaac] {9} |: X[,cd,,c] |: \
+[,,cXee] ,,,d |: [,,a,,c] [cdda] |: [acdca] {10} |";italian7tab
+8;;6v;Aria di fiorenza;;;OT;ConcR1224;C;"[aaXcc,a2] ,,,c1 ,,a | [aaXcc2] X[,aa,c] | [a,,,e2] {8}1 ,e | \
+[a,,,e2] [,a,,,d] | [acd,a1] ,,c ,,a ,,,c | \
+[aabc1] ,,d ,,c ,,a |";italian7tab
+9;;7v;Rotta;;"to ""Aria di fiorenza""";OT;;3;",,c1 | [,acXc3/2] ,,a/ ,,c1 | [aacc,a2] [,aa,c1] | \
+[a,,,Xe3/2] c/ e1 | [a,,,e2] [,a,,,e1] | [,c,,a3/2] c/ a1 | \
+[,e,,Xc1] a c |";italian7tab
+10;;8v;Gagliarda;;;OT;;3;"[aaXcc2] ,,c1 ,,a [aacc,a2] | [acdca2] {10}1 ,a [aXcdca2] | \
+[,ea,c2] {9}1 ,c [,ea,c2] | [aacc,a2] [acdca] | \
+[,e,,c2] ,c/ ,e :||:";italian7tab
+11;;9r;Saltarello;;;OT;;3;"[aacc,a2] [aac1] | [aacc,a3/2] ,,d/ ,a1 | [acdca3/2] c/ a1 | \
+[,e,,c3/2] a/ c1 :||:";italian7tab
+12a;;9v;Ballo di Mantoua;;;OT;;C;"[,aa,c1] ,c ,d a | [cda2] {a}1 ,,d | [,aba,d2] [acdca1] d | \
+[cdda2] {a}1 c | [acdca2] {10}1 a  | [,da,c2] [a,,,,a1] ,d |";italian7tab
+12b;;9v;ritornello;;;OT;;C;",d1 | [acdca2] {10}1 a | [,da,c2] ,,,,,a1 ,d | \
+[,d,,,c1] ,,,,,a {a} {8} | [,a{9}2] ,,,,c |";italian7tab
+13;;10v;Fauorita;;f. 11r empty;OT;;3;"[,aXba,d2] {9} [acdca] | [cdda2] {a}1 a [cdda2] | \
+[aabc2] ,,,,,a1 ,,a ,,b ,,d | [,aabc2] {9} ,,a | \
+[,aXba,d2] {9}1 ,d [acdca] d |";italian7tab
+14;;11v;Ballo da Cavalli;;;OT;;3;"a1 | [acd,a3/2] ,a/ ,c1 | [aXcdca2] [aacc,a1] | \
+[acdca3/2] ,a/ ,c1 | [aXcdca2] [aacc1] | \
+[aXcdca2] [aacc,a1] | [a,,,c2] [,e,,c1] |";italian7tab
+15;;12v;Passagagli;;f. 13r empty;OT;;C;"[aabc2] ,,,,,a1 ,,a ,,b ,,d | [aabc2] [,aaa] ,,,,d1 ,,,,c | \
+[a,d,d2] {10}1 ,e a c | [d,,,a2] [ca{9}3] a/ ,e :||:";italian7tab
+16;;13v;Piua;;;OT;;3;"[ce{9}2] [ce1] | [ce{9}2] [ce1] | [ef{9}2] [ce1] | \
+[ef2] [ac1] :||: [,e{9}3/2] a/ c1 | X[a{9}2] ,e1 | \
+[,c{9}3/2] ,a/ ,c1 | X[,a{9}2] ,,a1 :||:";italian7tab
+17;;13v;Canzona;;ff. 14r - 22v empty;OT;;3;",c1 | [cce,,c2] ,a1 | [cce,,c2] ,e1 | \
+[cce,,c3] | [,ea,c3] | [a,,,,a2] X,e1 | X[,c,,,c3] | \
+X[,aa,c3] | z2 :||:";italian7tab
+18;;23r;Pauaniglia;;;OT;Conc_4499;3;"X[,aa,c3/2] ,d/ ,c ,a | [ccee1] ,,e [,a,,,e] | \
+[ccee2] [ccee,c1] | [,d,,c1] {9} ,c | \
+,d3/2 c/ Xa d | [acdca1] {10} ,a |";italian7tab
+19;;23v;Spagnoletta C.B. (C3?);;;OT;Conc_4501;3;",a1 ,c | [,d,,c1] ,c ,d | [a,,,e1] ,d a | [c,,a2] {a}1 | \
+[cdca1] ,,b ,,d | [,a,,,d1] ,c ,d | [acdca2] ,c1 | \
+X[,daa2] {a}1 | [cdd1] :||:";italian7tab
+20;;24r;Passagagli p. C.B. (L.C.B.?);;;OT;;3;"[abdda2] {10}1 ,a ,b ,d | [aad2] X[aab] ,,,d1 ,,,c | \
+[,bdd2] [,bd,d] X,,,a | [,bdd2] X[,ad,,a3] ,,d/ ,,c :||:";italian7tab
+21;;24v;Ballo di Mantoua;;;OT;;C;"X[,a,,c/] ,c ,d [a,,,a] c c c | [d,,,,d/] d d [c{a}] c c | \
+[a,,,a/] a c [,d,,c] [a,,,,a] ,d ,c ,a ,c ,d [,a,,c] :||:";italian7tab
+22;;24v;Ceccone;;;OT;;3;"X[,daa1] {a}/ ,d a1 | [c,,a1] X[a,,,a] ,c | \
+[,d,,c1] ,,,,,d/ ,d a1 | [c,,a1] X[a,,,a] ,c :||: \
+[,d,a1] {a}/ ,d a1 |";italian7tab
+23;;25v;Passagagli;;;OT;;3;"[,da,c/] ,c ,d a X[cd,,c1] | [,cd,,c/] ,a ,c ,d X[a,,,,d1] | \
+[,,b,,a1] ,,,c/ a c d | X[,c,,,c1] ,a/ ,,e [,aa,c1] :||:";italian7tab
+24;;25v;Gagliarda;;Accordature de bassi;OT;;3;"X[,daa2] {a}1 a [cdda2] | X[,ab,cd2] ,d [,abacd] | \
+X[addaa2] {10}1 ,a X[acdca2] | [,da,c2] [,d,,,d] [a,,,a1] ,c | \
+X[,daa2] ||";italian7tab
+25;;26r;Ruggiero;;;OT;Conc_3638;none;",d/ a [cdda1] [cdd] | [adbacd] [acdca] [,daa] | \
+{a} [cdd] | f d | [cdda] {a} [cdd] | a ,d [acdca] |";italian7tab
+26;;26v;g. sol. re ut;;;OT;;C;"[aacc,a4] | a/4 c e f Xh1 ,,,,,a/4 ,,,,,c ,,,,,e ,,,,a \
+,,,,c/ ,,,,e/4 ,,,b | ,,,c/4 ,,a ,,c ,,d X,a1";italian7tab
+27;;26v;d la sol re;;;OT;;none;",c2 [cd,,c] | ,a/ ,c ,d a c1 ,,,,c/4 ,,,,e ,,,a ,,,c ,,a1 ,d/4 a \
+c d c a ,d ,c";italian7tab
+28;;27r;sans titre;;;OT;;C;"[caabc4] | ,a/4 ,c ,e/ a c Xa ,e/4 ,c ,a ,,e X,a/ ,,a ,,c \
+,,a/4 ,,,c ,,,b/ ,,,,e ,,,,c ,,,,b ,,,,c";italian7tab
+29;;27v;a la mi re;;;OT;;C;"[ccd,,c2] | ,c/4 ,a ,,d ,,c X[,,a,,c1] c/4 Xa ,d ,c ,a \
+[,,d,,c] ,,c ,,d ,a ,c ,d ,c ,a [,,d,,c/]";italian7tab
+30;;28r;Tripola maggiore;;"diminutions; f. 28v-29 Bass scales - STAFF";OT;;;;
+31;;29v;Ballo (di Fiorenza?);;Guitar alfabeto;OT;;;;

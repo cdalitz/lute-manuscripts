@@ -1,0 +1,35 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabxNotation
+;;;;;Recercata di Francesco Milanese;;;;;
+1;;3r;R [Recercar];;;;ConcR1300;;[a,d4] c2 a | ,,d1 ,c ,d a c2 a | ,,c2 ,d ,c ,a | a2 ,,d1 ,d ,c ,a ,c2 | ,,,,a2 [,df] ,,,f [,cd] |;neapoltab
+2;;3v;R [Recercar];;;;ConcR1301;;[,,d,a2] > ,,,,c ,,,,d ,,,a | [,,,ca2] ,,,e ,,,c ,,d | [,a,,,a2] ,,c1 ,,a ,,c ,,d ,a2 | [,,,a1] ,,d ,,d2 [,acc1] ,,a ,,d ,,c |;neapoltab
+3;;5r;R [Recercar];;;;ConcR3575;;[aa,,,a2] ,,,c a ,,a | [aac2] ,,d [aac] ,,d | a1 ,,a ,,c ,,d [a,c2] ,,d | [acd2] ,,,,a [acd] [,ac] | [,cd2] [,ea] [a,c] [a,d] |;neapoltab
+4;;6v;R [Recercar];;;;ConcR463;;[aa,c2] > ,,a [a,c] ,,d | a2 ,,c1 ,,a [a,c2] ,,d | [ca2] ,d c ,c1 ,a | [c,d2] ,a c ,,d1 ,,c | [c,a3] ,,c1 [c,d] a c e |;neapoltab
+5;;7v;N [Recercar];;;;ConcR1284;;[aa,,,a3] c1 e f h2 | ,,,,,a1 f e c a ,d ,c ,a | [,c,,a2] ,,d1 ,a ,c ,d [aac2] |  ;neapoltab
+6;;9r;R [Recercar];;;;;;,,b4 ,,b2 ,,b | ,b4 [,b,,d1] ,,,a/ ,,,c ,,,d ,,,c ,,,a ,,,c | ,,,d1 ,,d/ ,a ,b ,a ,,d ,a ,b2 ,,,d1 ,a/ ,b |;neapoltab
+7;;11v;R [Recercar];;;;ConcR447;;[a,,c2] > ,,a ,,c ,,d | a2 ,,c [c,a] ,,c | ,,d2 ,a c1 ,,d ,,c ,,a | [e,,c2] [c,a] ,,c [a,d] |;neapoltab
+8;;12v;R [Recercar];;;;ConcR1291;;[aa,c4] [aa,c] | [ac,,a2] ,,d1 ,a ,c ,e a c | [ea,,,a2] a ,d1 ,c ,a ,,d | [,ac,,a2] ,,,c1 ,,a ,,c ,,d ,a ,c |   ;neapoltab
+9;;12v;A [Recercar];;;;ConcR450;;[f,,a3] d1 [c,,a] a ,d ,b | [,a,,,d1] ,,d ,,b ,,a [,a,c] ,,,a ,,,,d ,,,,c | [,b,,a1] ,d a ,d ,b ,a ,,d ,,b |;neapoltab
+10;;15r;R [Recercar];;;;ConcR1292;;[,dda4] [,dda] | [,daac4] [,dba,d] | [,ddef4] [,ddef2] ,,f | [acd,a2] ,d [add,a] ,c | [cdda4] [acd,a2] c | [dabc2] a [,abc] [dc] |;neapoltab
+11;;16r;R [Recercar];;;;ConcR3576;;[aa,c,a4] [aa,c,a] | [ab,ca4] [aa,c,d] | [a,,cdf2] ,,d1 ,a [,b,ca] ,d a c | [db,c,a2] ,a1 ,,,,,c [d,,,,d2] [c,d,a1] [a,b] | ;neapoltab
+12;;17v;R [Recercar];;;;ConcR1285;;[fdaa4] [fdaa] | [dabc2] ,c [cdda4] | [acd,a2] c ,,d1 a ,d ,c | [,ab2] a ,,a ,d | [f,,ca2] ,c1 ,a [fd,ca2] ,c |  ;neapoltab
+13;;18v;R [Recercar];;;;ConcR3577;;[,dda4] [,dda] | [,db,c2] ,,,,,d [,db1] ,,,,a ,,,,c ,,,,d | [,daa2] c [,,aa1] a ,d ,b | [,abc2] [,b,,d] ,,,c1 ,a ,,d ,,b |;neapoltab
+14;;19v;R [Recercar];;;;ConcR1286;;[,d,a3] a1 c d f2 | ,,d2 d1 c [a,d2] c | [da2] c ,a/ ,d a c d a c d |;neapoltab
+15;;20r;A [Recercar];;Seite 17 [sic!, eigentlich 20];;ConcR1292;;[,daa4] [,dda] | [,daac4] [,dba,d] | [,ddef2] [,ddef] ,,f [acd,a] | ,d2 [acd,a] [cdda4] | [acd,a2] c [dabc] a | [,abc2] [dc] [cdda] a |;neapoltab
+16;;21r;B [Recercar];;;;;;[aa,c,a4] [aa,c,a2] ,,,b | [aa,c,a2] ,,a [aac,,a] ,,,c | [abd,a4] [aac,,a] | [abd,a2] [,df] [abd,a4] | [aad2] ,,c1 ,,a [aac,,a2] ,,,c | ;neapoltab
+17;;22v;R [Recercar];;;;ConcR1263;;[a,,c4] [a,,c2] > ,d | ,c2 ,a [,,de] ,,c | ,,a1 ,,d ,,c ,,a [,,cc2] > ,,,a | ,,,,e2 ,,,,c [,,d,a] ,,,,,e | ;neapoltab
+18;;24r;R [Recercar];;;;ConcR1293;;,a4 ,,e2 ,a | ,,,,e1 ,c ,d2 ,c ,d | [ca4] [b,c2] [c,d] | ,,a1 e f2 [e,,d]  [f,a1] ,,,c | ,,a1 ,,c [,,de2] [,,cd] [,,ae] |;neapoltab
+19;;24v;R [Recercar];;;;ConcR1294;;[,aa,c4] [,aa,c] | [,ab,,a2] ,,,c [,ab,,a] ,c | [,d,,c2] ,a1 ,c ,d a [ca2] | ,,d2 [a,b] [,da] ,c | ,,,c2 [,a,a] [a,,,e] ,,e |;neapoltab
+20;;25r;R [Recercar];;;;ConcR447;;[a,,c2] > ,,a ,,c ,,d | a2 ,,c [c,a] > ,,c | ,,d2 ,a c1 ,,d ,,c ,,a | [e,,c2] [c,,a] ,,c [a,d] | ,,a2 ,e [a,,c,a] > ,,,,,c |;neapoltab
+21;;26r;B [Recercar];;;;ConcR1326;;[,cc,e4] [,cc,e] | [,cde,c4] [,daac] | [,acc,a2] a ,,,,,e1 ,d ,c ,a | [,,d,,c2] ,c ,,,,a1 ,a ,,d | [e,cc2] ,,a [ea,,,e] ,,,c | ;neapoltab
+22;;27r;R [Recercar];;;;ConcR1295;;[,aabc4] [,aabc2] [,aabc] | [,abc2] ,,,,,a [,acc] [,aabc] | [,,,ce1] ,a ,,e ,,c [,,ece2] a | [,a,ec1] a ,e ,c [,e,ec2] [aacc] | ;neapoltab
+23;;27v;R [Recercar];;;;ConcR1296;;[,aa,c4] [,aa,c] | [,aabc2] ,,,,c [,aab] [,aabc] | [,abc,a4] [,abc,a2] ,,,,,c | [,abc,d2] ,,,,,a [,abc,d] ,,,,a | [,aabc4] [,ab,c2] ,,a |;neapoltab
+24;;28v;D [Recercar];;;;ConcR1297;;[,cc,e4] [,cc,e] | [,cd,,c4] [,,d,,c2] ,,c1 ,,,e | [,c,de2] ,a [,c,,e] ,,,d | [,,def2] ,a1 ,,,,e [,c,,a2] [,d,,c] | ,,a2 [,c,,e] [,,aa,a] ,a | ;neapoltab
+25;;29r;R [Recercar];;;;ConcR3578;;[,a,,c1] ,,,,a ,,,,e ,,,,d [,a,a] ,,,,c ,,,c2 | ,a1 ,,,b ,,,c ,,a [,ab2] [,da] | [,b,c2] [,a,a] ,,,,d1 ,,d ,,f/ ,,d ,,c ,,d ;neapoltab
+26;;30r;R [Recercar];;;;ConcR1297;;[,cc,e4] [,cc,e] | [,cd,,c4] [,,d,,c2] ,,c1 ,,,e | [,c,de2] ,a [,c,,e] ,,,d | [,,def2] ,a1 ,,,,e [,c,,a2] [,d,,c] | ,,a2 [,c,,e] [,,aa] ,a | ;neapoltab
+27;;30v;R [Recercar];;;;ConcR1298;;a4 [,dd2] ,a | [,cd4] [,ac2] ,,,c1 ,c | [,da2] ,c ,,,c ,a | ,,,a1 ,,d [,,c,c] ,,a [a,,ce2] [,,d,a] | [,d,,c2] [,ac] [,cd,a1] ,,,,c ,,,,e ,,,a | ;neapoltab
+28;;31r;B [Recercar];;;;ConcR3579;;[f,,a2] > d [c,,a] a | [,db2] a ,,,c1 ,d ,c ,a | [,,de2] c ,,,a1 e ,d2 | ,,,c2 ,c1 ,a [,c,c2] d | [c,,a2] ,d f ,,,a1 d | ;neapoltab
+29;;31v;R [Recercar];;;;ConcR1286;;[,d,a3] a1 c d f2 | ,,d2 d1 c [a,d2] c | [da2] c ,a a1 ,d | [c,d2] a ,,b1 ,d ,c ,a | [,,de2] c ,,,a1 a ,d2 |  ;neapoltab
+30;;32v;A [Recercar];;;;ConcR1299;;[a,d,a4] [c,d2] a | ,,,,a1 ,d ,c ,a ,,d ,,c ,,a ,,,c | [,,aa2] ,d ,,,,c1 ,c ,a ,,d | [,,cc2] ,,d [,,dc] ,,c |;neapoltab
+31;;33v;B [Recercar];;;;ConcR3580;;[,d,a4] ,,,a2 ,,,c | [,da2] ,,b [,cd] ,,a | [,ab2] > ,c ,d [a,c] | [,,de2] [,d,a] ,,,c ,c | [,d,a2] f1 d c a ,d ,b |;neapoltab
+32;;34v;B [Recercar];;;;ConcR450;;[f,,a3] d1 [c,,a] a ,d ,b | [,a,,,d1] ,,d ,,b ,,a [,a,c] ,,,a ,,,,d ,,,,c | [,b,,a1] ,d a ,d ,b ,a ,,d/ ,,b ,,a ,,,c | ;neapoltab
+33;;37r;R [Recercar];;;;ConcR1283;;,,b4 ,,b2 ,,d1 ,a | ,b2 ,,,,d [,b,,d] ,,,a1 ,,,c | ,,,d2 ,b ,d ,,,d | ,,b1 ,b ,d/ ,b ,a ,,d [,ab2] [,,dd] |;neapoltab

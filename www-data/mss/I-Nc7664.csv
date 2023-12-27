@@ -1,0 +1,205 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+;;;Taken from Coelho (1995);;;;;;;
+1;;1r;Romanescha;;;OT;;3;"[aabc3/2] [aa/] ,,b1 | [aabc1] [aabc] ,,b | \
+[cdda3/2] [cd/] ,,d1 | [cdda1] [cdda] ,,d |";italian7tab
+2;;1v;Ballo della torcia;;;OT;ConcR1451;3;"[ab,,d1] ,,,c [ab] | [,ab,,d1] ,,,a [,ab] | \
+[,b,,a1] ,d/ ,b ,a ,,d | [aac,,a1] ,,,c [aac] |";italian7tab
+3;;2r;Saltarello di Gagliarda;;;OT;;3;"[acd,a1] ,,,c/ ,d [acd,a1] | [,ab,,d1] [,,d,,c] ,,,a | \
+[aac,,a3/2] [aac/] ,,,c1 | [aac,,a1] [aac,,a] ,,,c |";italian7tab
+4;;2v;Pass'e mezzo;;;OT;ConcR3639;C;"[abd,a1] ,,d/ ,a ,b ,d a ,d [abd,a1] ,,d/ d c a ,d ,b \
+[,aba,d1] ,,,a/ ,,a ,,b ,,d ,a ,,d";italian7tab
+5;;3r;Ros' e Viole;;;OT;ConcR2743;C|;[,dda/] ,c ,d a | [cdda1] ,,d | [da,c1] c/ a | [cdda1] ,,d |;italian7tab
+6;;3v;Contrapasso: baletto;;;OT;ConcR2739;3;"[acd,a/] ,d | [acd,a1] [acd] [aac,,a] | \
+[acd,a1] ,,,c/ ,d ,c ,a | [acd,a1] ,a/ ,,d [,acc,a1] |";italian7tab
+7;;4r;Gagliarda;;;OT;;3;"[cdda1] | [cdda3/2] [cdd/] ,,,a1 | [cdda1] [dab,,d] [acd,a] | \
+[cdda1] [cdd/] ,c ,d a |";italian7tab
+8;;4v;Pass'e mezzo;;;OT;;C|;",d/ a | [cdd{a}1] [cdd/] {a} | [cdd/] {a} f d | \
+[c,,a1] [a,,,e] | [,d,,c1] [,d,,a/] ,b |";italian7tab
+9;;5v;Pavaniglia;;;OT;Conc_4499;C|;"[,dda{a}/] b a ,d | [acd,a1] ,,,c/ ,d | \
+[acd,a1] [acd,a] | [,dda/] ,c ,d a |";italian7tab
+10;;6r;Corrente;;;OT;;3;,,d1 | [,dda{a}1] ,,d/ | [,dda{a}1] a/ | [cdda{a}1] ,,,,a/ |;italian7tab
+11;;6v;Gagliarda;;;OT;;3;"[caabc1] [caa/] ,,,,c [caa] ,,,,c | [caabc1] [caa/] ,,,,c [caa1] | \
+[aab,,d1] [acd,a] [caabc] |";italian7tab
+12;;7r;La Contadina;;;OT;;3;"[abb,d3/2] ,d/ [abb,d1] | [,dab,d2] [,dba,d1] | \
+[,b,,a3/2] ,a/ [,b,,a1] | [,aa,c2] [,aa,c1] |";italian7tab
+13;;7v;Pass'e mezzo diminuito;;;OT;;C|;"[acd,a/] ,,a/4 ,,c ,,d ,a ,c ,d | a c d c a ,d ,c ,a | \
+[acd,a/] ,,a/4 ,,c ,,d ,a ,c ,d |";italian7tab
+14;;8v;Spagnoletta;;;OT;;3;",,d/ ,a | [,b,,a3/4] ,a/4 [,b,,a/] | [,da,c3/4] a/4 b/ | \
+[abb,d1] ,,,c/ |";italian7tab
+15;;9r;Corrente;;;OT;;3;[c,,a/] e | [f,,a1] [f,,a/] | [h,,f1] [h,,f/] | [fdaa1] f/ |;italian7tab
+16;;9v;Romanescha;;;OT;;3;"[bdda1] {a}/ a [b,,a1] | [d,,c1] [f,,d] [b,,a] | \
+[abb,d1] ,,,c/ ,d ,b ,a | [abb,d1] ,,,c/ b [d,,c1] |";italian7tab
+17;;10r;Amore Contento;;;OT;;C|;"[,d,a1] | [b{a}/] a ,d a | [b,,a/] a [b{a}] d | \
+[f,,a1] {a}/ d | [b,,a/] ,d d b |";italian7tab
+18;;11v;Galiarda b. quadro;;;OT;;3;",c1 ,d a | [cdda{a}2] d [c,,a] | [a,,,d2] [,d,,c] [,b,,a] | \
+[,ab,,d2] ,,,,,d1 ,,d ,,b ,,a | [,,b,,a1] ,,d ,a ,c ,d a |";italian7tab
+19;;12r;Spagnoletta;;;OT;;3;",d/ a1 | [,b,,a3/2] ,a/ ,b1 | [,d,,c3/2] ,c/ ,d1 | \
+[abb,d2] [abb1] |";italian7tab
+20;;12v;sans titre;;;OT;;C|;"[aac,,a/] ,,,c [aac] ,,,,,a | [aac/] ,,d ,,c ,,a | \
+,,,,,a/ ,,c ,,,,,c ,,d | [aac,,a1] [,,d,a] [aad,,a] ,,c |";italian7tab
+21;;13v;sans titre;;related to 12v;OT;;C|;"[aacc/] ,,,,,a [aac] ,,,b | [aacc/] ,,,,a [aaa,c] ,,,b | \
+[aacc/] ,,,,,a [aac] ,,,b | [aacc/] ,,,,e ,,,a ,,,,c |";italian7tab
+22;;14v;Oime begl occhi;;;OT;;C|;[aaccca2] | [aaccca2] | [aaccca2] | [addca/] ,c/4 ,a [acdca1] |;italian7tab
+23;;15v;sans titre;;;OT;;3;cdda1] {a}/ d c a | [cdda1] [addca] ,c | [cdda1] {a}/ d c a |;italian7tab
+24;;16r;Corrente;;;OT;;3;"f/ d | [cdda3/4] d/4 [a,,,d/] | [,da,c3/4] a/4 [,b,,a/] | \
+[,aba,d/] ,d/4 ,b ,a ,,d |";italian7tab
+25;;16v;Gagliarda;;;OT;ConcR2804;3;"[acdca1] | [acdca3/2] c/ a ,d | ,c/ ,a [,cdca1] f | \
+[fdaa3/2] d/ [c,,a1] |";italian7tab
+26;;17r;Volta;;;OT;;3;d/4 c a ,d | c/ {a} ,,,a | y/ d/4 c a ,d | f/ {a} ,,,a |;italian7tab
+27;;17v;Ballo di Palazzo;;First page obliterated in the source used for study. The original is needed here;OT;ConcR1224;;;italian7tab
+28;;18v;Corrente detta la timida di Paolo Boschi;;;OT;;3;",,d/ | [,d{a}3/4] a/4 b/ | [a,,,d/] [b,,,a] d | \
+[a,,,a1] ,c/ | ,,d1 g/ |";italian7tab
+29;;19r;Corente;;;OT;;3;",,d1 ,a ,c ,d a | [cdda1] a c ,d a c | [da,c1] c a c d a | \
+[cdda1] a ,d a c d |";italian7tab
+30;;19v;R(icercar?);;;OT;;C;"[cdd{a}3] [cdda1] | [cdd{a}1] ,a/ ,c ,d a c d | \
+f1 ,,,,c/ ,,,,e ,,,a ,,,c ,,a ,,b | ,,d1 d/ c a ,d ,c ,a |";italian7tab
+31;;20v;Gia de bei rai quel bel ciglio;;;OT;;3;"[,dda{a}1] [,d,a] [a,,,d] | [b,,,a1] ,d [b,,,a] | \
+[dde,,d2] [df,,d1] |";italian7tab
+32;;21r;Pas e mezzo;;;OT;;C;,d1 a | [cdda2] {a}1 d | [cdda2] [acdca] | [cdda2] [abb,d] |;italian7tab
+33;;21v;Corente detta la honesta;;;OT;Conc_276;3;"a2 | [abb,d3/2] b/ d1 | [b,,a3/2] a/ [,d,,c1] | \
+[abb,d2] ,,,c1 | [abb3/2] [b,,,a/] a1 |";italian7tab
+34;;22r;Dove andasti tu ier sera;;;OT;;3;"a1 ,d | [,daa{a}2] [a,,,a1] | [c,,a2] [a,,,a1] | \
+[,dda{a}1] ,,d ,d | [,db,,d2] [a,,,,d1] |";italian7tab
+35;;22v;Monacha;;Une jeune fillette;OT;Conc_4438;C;",,,a/ ,,a ,,,c ,,a ,,b ,,d ,a ,c | [,d{a}/] ,c ,a ,c ,d ,c ,d a | \
+[b,,a/] a ,d a b a b d |";italian7tab
+36;;23v;Volta Francese;;;OT;ConcR2745;3;"[f{a}1] ,,,,a [f,,a] | [f{a}1] ,,,,a [f,,a] | \
+[h{a}1] [f,,,a] [d,,a] | [c{a}1] ,,,,a ,,,a |";italian7tab
+37;;24r;Calata;;;OT;;3;"[cdd{a}3/2] a/ [c,,a1] | [,d{a}/] ,c ,d a [c,,a1] | \
+[dab,,d3/2] c/ d1 |";italian7tab
+38;;24v;Faciamo un ballo tondo;;;OT;;3;",d1 | [,dda2] [,c,,a1] | [,dda2] [a,,,a1] | \
+[cdd{a}2] ,,,,a1 | ,,,a2 [c,,a1] |";italian7tab
+39;;25r;Corente;;Text: Belissima Regina;OT;;3;"[,d,a1] | [,d{a}2] [a,,,a1] | [c{a}2] [d,,a1] | \
+[f{a}2] ,,,a1 |";italian7tab
+40;;25v;Affettuosa;;;OT;;3;"a1 | [f,,,a2] a1 | [da,,,a2] [caa,c1] | [abb,d3/2] b/ a1 | \
+[,db,,d3/2] a/ ,d1 |";italian7tab
+41;;26v;sans titre;;;OT;;C;"[,,d,a/] ,,,c ,,a ,,c [,,d,a] ,,c ,,d ,a | \
+[,,d,a/] ,,b ,,d ,,a [,,b,,a] ,,,c ,,a ,,b | \
+[,b,,a/] ,a ,b ,d [,b,,a] ,,d ,a ,b |";italian7tab
+42;;28r;Corente della Bataglia;;;OT;;3;",d1 | [,d{a}1] ,,d [,d,a] | [,d{a}1] ,,d [,d,a] | \
+[,d{a}2] ,,,,a1 |";italian7tab
+43;;29r;sans titre;;;OT;;3;",a1 | [,aba,d2] ,b1 | [,dba,d2] [,db1] | [,db,,d2] [,db1] | \
+[,d,,,d1] ,,b ,d |";italian7tab
+44;;29v;Favorita del Cardinal Montalto;;;OT;ConcR652;3;"a1 | [a,d3/2] ,d/ ,b1 | [,a,a3/2] ,,d/ [,,cc1] | \
+[,,dd2] ,,,,,b1 |";italian7tab
+45;;30v;Canario;;;OT;ConcR2805;3;",d/ ,b | [,a,,,d/] ,,d ,,b | ,,,a/ ,d ,b | [,a,,,d/] ,,d ,,b | \
+,,,,,d/ ,,d ,,b |";italian7tab
+46;;31r;Barrera in tenore;;;OT;ConcR1092;none;"[cdda1] [cdd] [cdd] [cdd] [cdda] [da,c] | \
+a ,d {a} [,c,,a] c c c c [c,,a] ,d {a} f d c ,,,a";italian7tab
+47;;32v;Passo mezzo;;;OT;;none;"[fd,a1] [fd,a] [fd,a] d c [a,,,d] [,d,,c] [,b,,a] [,ab,,d] \
+[,ab,,d] ,,d ,a ,c [,d,a] [addca] ,c [cdda]";italian7tab
+48;;33r;Ricercada;;;OT;;C;f2 d/ c a c | d2 c/ a ,d a | c2 a/ ,d ,c ,d |;italian7tab
+49;;33v;Pavana in soprano;;;OT;;3;"[,dda1] [acdca] [acdca] | [cdda2] [cdd/] ,,,a {a}2 | \
+[f,,a2] [f,,a] [da,c] | [cdda2] {a}1 ,c ,d/ a c d |";italian7tab
+50;;38v;Gerentana;;"""Zoppa"" (39v)";OT;;3;"f/ f d [b{a}] a ,d [acdca] | [,dd{a}1] ,,,a2 || \
+,b/ ,d a [b{a}] a ,d |";italian7tab
+51;;40v;Spagnoletta;;;OT;;C;[,dda1] [,dda] a b | [ab,,d2] ,d1 a | [bbdd2] [bb1] ,,,d2 |;italian7tab
+52;;41r;Tosa(?);;;OT;;12/4;f1 c3 f1 c3 f1 d c a ,d2 | f1 c2 f1 c2 f1 d c a ,d2 |;italian7tab
+53;;41v;Pecchiottino;;;OT;;none;",d1 a [cdda] [acdca] | [,dd{a}1] ,,,a2 ,d1 a | \
+[cdda1] [acdca] [,dd{a}2] |";italian7tab
+54;;42r;Pavaniglia;;;OT;Conc_4499;C;",d1 a | [bdda1] ,,,a [bdd] d | [bdda1] d b a | \
+[bdda1] {a}/ d b a ,d a |";italian7tab
+55;;43r;Mezza Gamba;;;OT;;none;"[acdca2] [acd1] ,d ,c ,a | [acdca2] [acd1] d c a | \
+[,da,c1] [acdca2] f1 d |";italian7tab
+56;;44r;Il Parmisano;;;OT;;C;,d1 a | [cdd1] ,,,a [cdd] ,,,a | [cdda1] {a}2 d1 c a |;italian7tab
+57;;44v;Non ti partir da me;;;OT;;3;"[cdda1] [cdda] {a}2 d1 c a | [cdda2] [da,c] [acdca] | \
+[cdda2] {a} d1 |";italian7tab
+58;;45v;Galiarda;;;OT;;none;[fd,a1] d [cdda2] [ha,f] [fd,a] {a}1 d c2 |;italian7tab
+59;;46v;(Passamezzo moderno);;;OT;;none;",d a [cdda] {a} f f d c a [cdda] {a} \
+[a,,,d] ,,d [,d,,c] ,a [,b,,a] ,,a";italian7tab
+60;;47r;Ballo della torza;;;OT;ConcR1451;C;[bdda1] {a}/ a [bdda1] [bdda] | [ab,,d1] [ab] [ab,,d] [ab] |;italian7tab
+61;;47v;Galiarda;;;OT;ConcR2798;none;",c ,d a [cdda] {a} d [c,,a] [a,,,e] [,d,,c] [,b,,a] \
+[,ab,,d] ,,,a ,d [,ab,,d]";italian7tab
+62;;48r;Volta;;;OT;;none;a c e f ,,,a [aacc] ,d [acd,a] ,,d ,d [acd,a] [cdda] [dab,,d];italian7tab
+63;;48v;Volta;;;OT;;none;",a ,c ,e a [,aa,c] c [aacc] ,,,,,a ,,d [aacc] [a,,,e] \
+[cdda] [aacc] [acdca]";italian7tab
+64;;49r;sans titre;;;OT;;C|;[cdda2] | [acdca1] ,,d | [cdda2] | [dab,,d1] d | [acdca2] |;italian7tab
+65;;50r;represa;;;OT;;;;italian7tab
+66;;50r;volta;;;OT;;;;italian7tab
+67;;50v;sans titre;;;OT;;none;"f d [c,,a] a c a ,d [acdca] ,,d [acd,a] [cdda] [cdda] \
+[dab,,d] [dab,,d] [acdca] ,,d";italian7tab
+68;;51r;Pass e mezzo;;;OT;;none;",,,c ,,a [aabc] ,,,,,a a a ,d ,b ,a [aabc] ,,,,,a | \
+a a ,c ,d a |";italian7tab
+69;;51v;Galiarda;;;OT;;none;"[aabc] ,,,,,a | ,,d [aabc] [aaab] [aabc] ,,,a ,,,,d \
+[caabc] c [caabc] c";italian7tab
+70;;52r;represa;;;OT;;;;italian7tab
+71;;52r;volta;;;OT;;;;italian7tab
+72;;52v;Pavana;;;OT;;none;,,d ,a [acdca] ,,d a c [ac,,e] [cdda] [,da,c] ,,c;italian7tab
+73;;53v;Saltarello della Pavana;;;OT;;none;,,c ,,d ,a [acdca] ,,d | c a ,d ,c ,a [acdca] d c a [cdda] {a};italian7tab
+74;;53v;(illegible title);;;OT;;none;"[cdda] c [cdda] c [cdd{a}] a c [d,,c] [c,,a] [a,,,e] \
+[,d,,c] [acdca]";italian7tab
+75;;54r;Tu ti parti;;;OT;;none;",c ,d a [cdda] d c f [da,c] ,c [cdda] {a} d c a \
+[cdda] h [da,,,a]";italian7tab
+76;;54v;Matena(?) baletto;;;OT;;none;"f d a b ,d [ab,,d] ,d ,b a [,da,c] ,a [,b,,a] ,,d \
+[,ab,,d] a c d";italian7tab
+77;;55v;Grottino;;;OT;ConcR2806;3;"[,dda1] [,dd] a | [bbdd2] [bb1] ,,,d [bb2] | \
+[bbdd1] [bbdd] d2 b | [ab,,d2] [ab1] ,,,,d [ab2] |";italian7tab
+78;;56v;La manfredina in contralto;;;OT;ConcR2807;C;"f2 e1 c a [,ea,c] | [aacc,a2] ,d1 [,b,,a] [,ab,,d] [,,d,,c] \
+,b ,a ,,d |";italian7tab
+79;;57v;Contre Preze;;;OT;;none;"[,,d,a1] [,,d,a2] ,,c1 ,,d ,a ,c ,e a c | [a,,,,a1] ,d ,c ,a | \
+[acdca2] ,a1 ,,d ,,c ,,d ,a ,c ,e a ,,,,,a ,d ,c ,a |";italian7tab
+80;;58v;volta;;;OT;;;;italian7tab
+81;;59r;Grottino;;;OT;;;;italian7tab
+82;;60r;Passo e mezzo (in tripola?);;f. 61v empty;OT;;none;,c1 ,d a | [bdda1] {a} [bdda] | f1 d [b,,a] | a1 ,d [acdca] |;italian7tab
+83;;62r;Ballo delle Ninfe;;;OT;;C;"[cdd{a}2] [cdda1] ,,,,e | [,da,c1] ,,,,a/ ,,,,,d [,,da,c2] | \
+[,aba,d1] ,,,,a [,da,c] ,,c |";italian7tab
+84;;62v;Pass'e mezzo;;;OT;;none;",c/ ,d a | [cdda1] {a} [cdd] | ,,,c1 ,,,e ,,,c ,,,,e | \
+[cdda1] {a} [cdd] | ,,,c1 ,,,a ,,,,d ,,,,c ,,,,a |";italian7tab
+85;;63r;seconda parte;;;OT;;;;italian7tab
+86;;64r;Gicona;;ff. 64v-68r empty;OT;;none;a [cdda] [acdca] a [,da,c] ,,,,,c c ,,,,,d [ad,,a] ,d a ,d {a};italian7tab
+87;;68v;Galiarda;;f. 69r empty;OT;;none;"[aabc1] [aab/] [abd,a1] ,,,,d/ | [,ea,c3/2] ,a/ ,c ,e | \
+[acd,a1] [cdda] f/ |";italian7tab
+88;;69v;sans titre;;;OT;;none;[cdda] {a} ,c ,d a [cdda] [a,,,d] [,d,,c] [ac,d] ,,,c ,a;italian7tab
+89;;70r;sans titre;;;OT;;3;[ef/] | [ef1] [ef/] | [ef1] [fc/] | [ef1] [ef/] |;italian7tab
+90;;70v;Monacha;;Une jeune fillette;OT;Conc_4438;C;,,d1 | [,dd1] {a}/ a [bdda1] [bdd] | [abdca2] [abd1] [,,daac] |;italian7tab
+91;;71r;Volta;;;OT;ConcR2745;3;"[f{a}1] ,,,,a ,,,a | [f{a}1] ,,,,a ,,,a | \
+[h{a}1] [f,,,a] [d,,a] |";italian7tab
+92;;71v;Ballo della Zoppa;;;OT;;C;"[,dda{a}2] ,,,a1 a | c2 [d,,,,d] | [cdd{a}2] ,,,a1 d | \
+[c{a}2] [a,,,a] |";italian7tab
+93;;72r;Corente Francese;;;OT;ConcR2808;3;,d/ a1 | [cdda3/2] a/ c1 | [dd,c3/2] c/ d1 | [cdda2] {a}1 |;italian7tab
+94;;72v;Anime liete voi che godete d'Amor;;;OT;ConcR2809;3;"[cdda1] [,d,,c] [acdca] | [cdda2] {a} [cdd] | \
+[fdaa2] [da,c] [acdca] |";italian7tab
+95;;72v;Ruggero;;;OT;Conc_3638;C;,d/ a | [cdda1] [cdd] [cdda] [da,c] | [cdda3/2] a/ ,d1 f/ d |;italian7tab
+96;;73r;La giroletta;;;OT;;3;"[,,a{a}2] [,,b,,a1] [,,d,a2] [,a,a1] | \
+,,d1 [,,b,,a] ,,a [,,,ca2] ,,,a1 | \
+[,,d,a1] ,,b [,,a{a}] [,,,ca2] ,,,,a1 |";italian7tab
+97;;73v;La volta francese;;;OT;ConcR100;3;"[c{a}1] [a,,,a] [,d,a] | [c{a}1] ,,,,a/ a [,d,a1] | \
+[d{a}3/4] c/4 [a,,,a1] [,d,a] |";italian7tab
+98;;74r;Aria di Palazzo;;;OT;;C|;"[cdd{a}1] [c,,a/] d | [c{a}1] [a,,,e] | \
+[caa,c1] ,,a | ,a1 [a,,,a] |";italian7tab
+99;;75r;Calata;;;OT;ConcR2744;3;"[cdda3/2] [cdd/] ,,,a1 | [cdda3/2] ,d/ ,b1 | \
+[,aba,d3/2] [,aba/] ,,,,,d1 |";italian7tab
+100;;76v;Calata di Palazzo;;;OT;;3;"[cdda3/2] [cdd/] [adda1] | ,,,,c/ ,,,,a [dab,,d1] [dab] | \
+[dab,,d3/2] ,,,,a/ ,,,,c1 |";italian7tab
+101;;76r;Galiarda;;;OT;;none;"[cdda2] {a}1 ,c ,d | a1 [cdda2] [a,,,d] | [,d,,c2] [acdca] ,,,c1 | \
+,d1 ,c ,a |";italian7tab
+102;;76v;Calata;;;OT;ConcR2744;3;[cdda1] [cdd] ,,,a | [cdda1] ,d ,b | [,aba,d1] [,aba] ,,,a |;italian7tab
+103;;77r;.D.;;;OT;;C;",d1 a | [cdd{a}2] [c,,a] | [cdd{a}2] [d,,,,d] | \
+[cdda{a}2] ,,,,a |";italian7tab
+104;;77v;Gagliarda da Ponei;;ff. 78v-79r empty;OT;;3;"[,daa3/2] a/ c1 [cdda] [cdda] [d,,c] | \
+[fd,a1] {a} [fd] ,,,a [fd2] | \
+[a,bd,a1] ,,a ,,b ,,,,,c [,ab,,d] ,,,,a |";italian7tab
+105;;79v;Anime liete cetra;;for lute;OT;ConcR2809;none;"[cdda1] [,da,c] [a,d,e] [cdda{a}] [cdd] | \
+,,,a1 [cd,c] ,c [cdda] {a} [cdd] |";italian7tab
+;;;Cetra;;;;;;;
+106;;80r;Gagliarda del Santino cetra;;;OT;ConcR1409;none;[dad] [cac] [dac] [ece] d e d e f;italian4tab
+107;;80v;Vill(anell)a cetra;;Fra questi sassi;OT;;none;[hga] [gag] [,fff] [fda] [hga] y y y y y y;italian4tab
+;;;5-course guitar;;;;;;;
+108;;81r;sans titre;;;OT;;none;"[accca1] a [accca] | [accca] [cdcaa2] | \
+[dbacd2] [dbacd] ,,,,c1 d |";italian5tab
+109;;81v;Spagnoletta cetra F.Q.;;;OT;;none;,a1 ,c | [,dcd] ,e/ [,dcd1] | ,c/ ,a ,c ,d ,e3/2 |;italian5tab
+110;;82r;Hora che ogn' animal repos' e;;;OT;ConcR3599;none;[fddd1] [fddd] f [fddd] [ede] y y y y y;italian5tab
+;;;for lute;;;;;;;
+111;;82v;Cetra Filide' mia s'di belta sei vata;;;OT;ConcR2734;C;"[cd,a/] {a} [cdda] ,,,a [dd,c] ,c [cdda] {a} | \
+[cdda/] ,,,,d [,da,c] ,,,,a [aab,,d] ,,,,a ,,,,c [aab,,d] |";italian7tab
+;;;Cetra;;;;;;;
+112;;83r;Udite udite a amanti;;;OT;ConcR2724;none;[,hhh1] [,hhh] [,ddd] [,hhh3] [,gfg] y y y y;italian4tab
+;;;For lute;;;;;;;
+113;;83v;La strepitosa;;;OT;;3;"[,daa{a}1] [b,,,a] [d,,a] | [f{a}1] ,,,,a ,,,a | \
+[,daa{a}1] [b,,,a] [,d,a] |";italian7tab
+114;;84v;Filide' mia s' di belta;;;OT;ConcR2734;C|;",,,a/ [fd,a] [fd,a] [fd,a] | [da,c1] [cd,a/] {a} | \
+[cd/] [aa,,e] [,da,c] [acd,a] |";italian7tab
+115;;84v;Mattacina;;;OT;ConcR952;none;,,,a1 | [cdda1] [cdda] [cdda] a ,d [acd,a] ,,,a | [acd,a1];italian7tab
+116;;85r;Pavana cetra;;Cetra?;OT;;C|;[hga2] ,e1 [g,a] | f1 e f/ e g1 | y y y;italian4tab
+117;;86r;sans titre;;;OT;;3;"[,dda2] {a}1 a [cdda2] | [,abacd2] [,bba1] ,,,,a [,d,,c2] | \
+[acdca3] [,d,,c1] [acdca2] |";italian7tab
+118;;86r;Canario;;f. 86v empty;OT;;3;c1 | [cdda3/2] a/ ,d1 | [acdca2] ,d1 | [acdca2] ,d1 |;italian7tab

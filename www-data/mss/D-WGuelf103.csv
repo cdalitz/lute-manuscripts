@@ -1,0 +1,94 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+;;1. Sinfonia da camera / Liuto / Traversa / Violino 1 / Violino 2 / e / Basso;;;;;;;
+1;C dur;2r;Sinfoniae - Vivace;Guzinger;;;;C;"([c{4}/4] a) (,c ,a) [,,d{,a}/] e [e{,,a}3/2] ,,,c/4 ,,a ,,c \
+ | [,,d,,a/4] ,,c ,,d ,a ,,d/ ,c [,a{,a}/4] ,,d ,a ,c [,a{a}/] \
+c | "
+2;C dur;2v;Passepie 1;Guzinger;;;;3/8;"[,,dc{4}/] | [,,cc{a}/] ,,d ,a | [,cd{4}/] [,a{a}/4] ,c a ,a | \
+[,cd{4}/] [,a{,a}/4] ,c a ,c | [,'a{a}1] ,c/4 a | [c{,,a}1] \
+[,,d,,a1] [,a{a}/4] ,,d | "
+3;a moll;2v;Trio 2;Guzinger;;;;3/8;",c/ | e/ e [,c,,,a/4] c | [aa{,,,a}/] [,c{,,a}] [,a{,a}] | \
+[,,d,,a/] [,,c{a}] [,,a{,a}] | [,ccd{,a}1] ,,,,c/ | \
+,,,,,a/ {a} {,a} | {,,a}/ {,,,a} {4} | "
+4;C dur;3r;Air;Guzinger;;;;C;"{4}/ c e ,,d [,,'cc{a}1] [,,d,,a] | [,a{5}/4] ,c a/ [,c{4}/4] \
+,d c/ [e{,a}/] c a c | {4}/ ,c ,a c [,d{a}/4] ,a ,c/ [,a,,e/] \
+,,d | "
+5;C dur;3v;Gigue;Guzinger;pp. 4r-4v Violino1 <br> pp.5r-5v Violino 2 <br> pp.6r-6v Traverso <br> pp.7r-7v Basso;;;4/8;"[cc{4}1]> e | [c{,,a}/]> a ,c/ e | [c{,,a}/]> a ,c/ e | \
+[c{,,a}/] ,,,c [,,dc{4}1] | [,,d{,a}/]> ,a [,,cc{a}1] | \
+[,,d{,,a}/]> ,a [,,cc{a}1] | "
+;;2. Sinfonia da camera / Liuto / Violino 1 / Violino 2 / Traversa / e / Basso;;;;;;;
+6;G dur;10r;Sinfonia;Guzinger;;;;2;"[,,,c{a}/] ,,a ,,c ,,d [,aa{,a}1] ,c/ ,e | [ce{,,a}1] \
+(,e/ ,c) [,'a{,a}1] ,,d1 | [,,cc{a}1] [,,d,,a] [,a,,,c] \
+[,c,,,d] | [,,'a,a1] {,,,a}1 ,,,,a/ ,,,,,d ,,,,,c ,,,,,a | "
+7;G dur;10v;Boureè;Guzinger;;;;2;"[,ac{a}1] | [,cd{4}2] [,,d,,d2] | [,ac,,c3] [,,d,,a1] | \
+[,,cc{a}1] [,,,b,a] [,,,c,c] [,,a{,a}] | [,,cc{a}1] ,,,c1 \
+[,,a,a1] ,,c/ ,,d | [,aa{,,,a}1] {,,a}/ {,a} [,ac{a}1] ,c/ ,e | "
+8;G dur;10v;Menuet;Guzinger;;;;3/4;"[ca{a}1] ,,c/ ,,d ,a1 | [,a{,,a}/] ,c ,,d ,,c [,,d,,a1] | \
+[e{,a}1] ,,a/ ,,c ,,d1 | [,,d{,,,a}/] ,a (,,c ,,a) ,,c1 | \
+[ca{a}1] ,a/ ,,d ,,c1 | "
+9;G dur;11r;Trio;Guzinger;;;;3/4;"[,,cc{a}1] ,,c ,,c | [,,cc{a}1] ,,c/ ,,d ,a ,,c | [,c,,,d1] \
+[,a,,,c] [,,d,,a] | [,,c{a}1] ,,a1 ,,c/ ,,d | [,a,,,c1] \
+[,,d,,a] [,,c{a}] | [,,a{,a}1] ,,,c1 ,,a/ ,,c | "
+10;G dur;11r;Gigue;Guzinger;p.11v empty - pp.12r-12v Traversa <br> pp.13r-13v Violino 1 <br> pp.14r-14v Violino 2 <br> pp.15r-15v Basso;;;6/8;"[ca{a}/] | [b,,,,a/]> ,c ,a/ [,,d{4}/]> ,,c ,,a/ | \
+[,,,c{,,a}/]> ,,,b ,,,,c/ ,,,,a1 [,,d,,a/] | [,,c{a}/]> ,,a \
+,,,c/ [,,d{4}/]> ,,c ,,a/ | [,a,,,c/]> ,,d ,,c/ [,,aba1] \
+[ca{a}/] | "
+;;3. Sinfonia da camera / Liuto / Traversa / Violino 1 / Violino 2 / e / Basso;;;;;;;
+11;D dur;18r;Sinfonia;Guzinger;;;;2;"[,,ab1] | [,aab{,,,a}1] ,,a/ ,a [,ca{4}1] ,,a/ ,c | \
+[,e{,,,a}1] ,c/ ,,e ,a1 ,,a1 | [,aab{,,,a}1] ,,a/ ,a \
+[,c,,,a1] ,,a/ ,c | [,e,,a1] ,a ,,,,a1 [,ce,,a1] | "
+12;D dur;18v;Air Andante;Guzinger;;;;C;"[,aVf1] [,,'e1] [,aVf/] ,,,,a/4 ,,,,c ,,,,e/4 ,,,,c ,,,,e \
+,,,,a | [,ce,,a1] [,'a/] ,,e/4 ,a ,c/ ,,,,,a/4 ,,,,,c \
+,,,,,e/4 ,,,,,c ,,,,,e ,,,,,a | "
+13;D dur;19r;Menuet;Guzinger;;;;3/4;"[ee{,,,a}2] ,e/ ,f | [e{,a}1] [g{a}] [e{, a}] | [c{a}1] \
+(e/ c) (,e ,c) | [,e,,a1] ,a/ ,c ,e c | [ee{,,,a}2] ,e/ ,f | "
+14;D dur;19r;Trio;Guzinger;;;;3/4;"[,aVf,a1] [,,'a2] | [,e,,a1] [,'c,,,a2] | [,e,,a/] c [e{,a}1] \
+[c{a}/] ,e | [,c,,,a1] [,,'a2] | [,aVf,a1] [,,'a2] | [,e,,a1] \
+[,'c,,,a2] | "
+15;D dur;19v;Gavotte;Guzinger;pp.20r-20v Violino 1 <br> pp.21r-21v Traversa <br> pp.22r-22vBasso <br> pp.23r-23v Violino 2;;;C;"[,aVf1] ,a/ ,c | [,e,,a1] ,e/ c [e{,a}1] e/ c | [,e,,a1] ,e/ c \
+[e{,a}1] e/ c | [,e,,a1] g [,c,,,e] e | "
+;;4. Sinfonia da camera / Liuto / Traversa / Violino 1 / Violino 2 / e / Basso;;;;;;;
+16;B dur;26r;Sinfonia;Guzinger;;;;3/4;"[,,baa{d}2] [,,d,,a/] ,b | [,ab{d}1] [,,d{,a}2] | ,,,,a/ \
+,,,,b ,,,,d ,,,,b ,,,,a ,,,,,d | ,,,,a/ ,,,,b ,,,,d ,,,,b \
+,,,,a ,,,,,d | ,,,,,b1 ,,,,b ,,,,d | "
+17;B dur;26v;Fantasia;Guzinger;;;;2;"[aab{d}1]> c a1 f1 | [a{d}/] ,b ,a ,,d [,,baa{d}2] | \
+,,,,a/ ,,,,b ,,,,a ,,,,,d ,,,,,b2 | [a,b{,,,a}1]> c a1 \
+([,b{,,a}/] ,a) | "
+18;B dur;27r;Menuet;Guzinger;;;;3/4;"([,,b{d}/] ,,a) ,,b ,,d ,a ,b | [a,b,a1] ,a/ ,,d ,a ,b | \
+[a,b,a1] ,,,,,b [c,b{,,a}] | [a{d}/] ,b ,a ,,d ,,b1 | \
+[c,b{,,a}1] (,b/ ,a) ,b1 | "
+19;g moll;27r;Trio;Guzinger;;;;3/4;"[,ab{a}/] ,,d ,a1 c1 | [,bd{4}1] ,,c ,,d | [,,d{,a}/] ,,c \
+,,d1 [a,d,,a1] | [,ab{d}1] ,,a ,,b | [,,a{,,,a}/] ,,,c ,,a1 \
+[,a,,e1] | [,,bc{a}1] ,,,b ,,,c | "
+20;B dur;27v;Gigue;Guzinger;pp.28r-28v Traversa <br> pp.29r-29v Violino 1 <br> pp.30r-30v Violino 2 <br> pp.31r-31v Basso;;;6/8;"a/ | [,'a{5}/]> ,,d ,,b/ [,,d,,a/]> ,,b ,,a/ | [,,bc{a}1] \
+,,b/ [,,baa1] a/ | [c,b{,,a}1] c/ [a,b{,,,a}/]> ,b ,a/ | \
+[,,da{,a}1] ,,d [,,d,,a1] [aVd{,a}/] | "
+;;5. Sinfonia da camera / Liuto / Traversa / Violino / Viola / e / Basso;;;;;;;
+21;D dur;34r;Sinfonia (Allegro);Guzinger;;;;2/4;"[ee,,a/] ,e/4 c e/ [,a,,a] | [,,'e,,a1]> ,e | [,ca,,e/] ,e \
+c [,e,,a] | [,c,,,a/] ,,,,,a/4 {a} {,a}/ ,,,,,a | [ee,,a/] \
+,e/4 c e [,a,,a] | "
+22;D dur;34v;Air Andante;Guzinger;;;;2;"[,aVf{,,,a}2] [,,'e{,,a}2] | [,aVf{,a}1] ,,,c [,,,c{4}] ,c | \
+{,,,a}1 ,e1 [e{,a}1] [c{a}/] ,e | [,'c,,,a1] ,,a1 [,e,,a1] \
+,e/ c | [e{,a}1] [,,e,,a1] [,a{,a}1] [,e,,a/] c | "
+23;D dur;34v;Menuet;Guzinger;;;;3/4;"[ee{,,,a}1] ,e/ ,c [,a{,a}1] | [g{a}1] [e,,,a1] ,1 | \
+[c{,,a}1] ([e{4}/] c) [,e{,,,a}] c | ([,c,,,a/] ,a) (,,e ,,c) \
+,,a1 | [,c,,,a/] (,,e ,,a) ,c (,,e ,,a) | "
+24;D dur;35r;Gigue;Guzinger;pp.36r-36v Traversa <br> pp.37r-37v Violino 1 <br> pp.38r-38v Viola <br> pp.39r-39v Basso;;;6/8;",,a/ | [,aVf1] ,,a/ [,,,'b{,,,a}/] ,,,,a ,,a | [,aVf{,a}1] \
+,,a/ [,,c{a}/] ,,,c ,,c | [,c{a}1] ,,c/ ([,,e,,a/] ,,a) ,,e | \
+[,e,,,a1] ,,e/ [,a,,,c/] ,,c ,a | "
+;;6. Sinfonia da camera / Liuto / Traversa / Violino 1 / Violino 2 / e / Basso;;;;;;;
+25;G dur;42r;Sinfonia;Guzinger;;;;2;"[ca{a}1] ,,,c {,,a} [,a,,,c] | [,c,,,d/] ,e c1 [,a,,,c/] ,c \
+,e1 | [ca{a}1] ,,,c {,,a} [,a,,,c] | [,c,,,d/] ,e c1 \
+[e,,,,a1] [,e,,a1] | [ca{a}1] ,,,,c [e,,,,d] [,e,,a] | "
+26;G dur;42v;Boureè;Guzinger;;;;2;",a1 | [ca{a}1] [,a,,a1] [,,c{a}1] [,,c,a/] ,,d | \
+[,a,,,c1] ,,,,,c/ ,,,,,d ,,,,a1 [,,d,c/] ,,,,e | \
+[,,c{a}1] ,,a/ ,,,c [,,a{4}1] [,,,'b{,,,a}1] | \
+[,,,ca1] {a} [,,,ca] [,,a,a] | "
+27;G dur;42v;Air Andante;Guzinger;;;;C;"[,,c{a}/] ,a [,'a{,a}/] ,,d/4 ,a [,,'c{a}3/2] ,,a/4 ,,c | \
+[,,,c{,,a}/] ,,,c [,,,'c{5}1] ,,,b/4 ,,,c ([,,,,c{a}/4] ,,,,e) \
+,,,c/ ,,d/ ,c | [,c,,,e/] ,,a ,,a ,,,c"
+28;G dur;43r;Menuet;Guzinger;;;;3/4;"[ca{a}1] [,a,,,c] [,a,,a] | [,a{a}/] ,,d ,,c ,,d [,a,,,c] ,c | \
+[,,d,,a1] [e{,a}] [,,d,,a] | [,,d,,a/] ,,c [,,a{,a}] ,,c \
+[,,d{,,,a}] ,a | [,,cc{a}1] c ,a | "
+29;G dur;43v;Gigue;Guzinger;pp.44r-44v Traversa <br> pp.45r-45v Violino 1 <br> pp.46r-46v Basso <br> pp.47r-47v Violino 2;;;6/8;"c/ | [,ac{a}1] ,c/ {a}/ ,,c ,,d | [,ac{a}1] ,c/ [,'a{a}1] \
+,,,c/ | [,c{4}/]> a ,c/ [,c{4}/]> ,a ,,d/ | [,ac{a}1] ,a/ \
+[,'a{a}1] [c{,,a}/] | "

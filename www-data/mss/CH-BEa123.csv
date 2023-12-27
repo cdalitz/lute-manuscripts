@@ -1,0 +1,91 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1;G dur;136;sans titre;;Prélude - PAN 1.015;1a;;3;"[,aaa{a}2] [,aaa1] {a} [,aaa2] ,,,,,d1 [,cba2] ,,,,,c1 \
+[,aaa2] a ,,,,,d1 {,,,a} ,,,,a ,e3/2 a/4 c e1 ,,,a \
+{a}/ ,,,c ,,a ,,,d ,,d1"
+2;G dur;136;sans titre;;Courante - PAN 4.041;1a;Conc_3476;3;",,a1 | [,,aa{a}1]> ,,b ,a ,,b | \
+[,,'a3/2] ,,,c/4 ,,a ,,,a/> ,a | \
+,a1 ,,,,a ,,,a | [,aa1]> ,a ,c ,e | \
+[aaa{a}1]> c e1 | "
+3;G dur;135;Le Pont Breton;;PAN 13.034;1a;Conc_2612;C;"[,,aaa{a}1] [,,aa] [,,aa{a}1]> ,,b | \
+[,,daa2] [aa,,,d1] [aa] | \
+[aa,,a1]> c [e,,a1] a |:| ['c{,,,a}1] ,e \
+[a{,,a}] ,c | [,e{,a}1] ,a [,c{a}] ,a | \
+[,,c,,a1]> ,a [,ad,a1] | "
+4;G dur;134;sans titre;;Courante - PAN 4.006;1a;Conc_3477;3;"e/ f | h1 {a}/ ,f ,e ,f | ,h1 {,,,a}/ h f h | \
+e1 {a}/ e [c{,a}] e | [a{,,a}1]> ,,,,c ,,,,a ,,,,c | \
+[,c,,,d1] a [,a,,,c] | "
+5;G dur;133;Baize moy ma Janeton;;PAN 13.035;1a;Conc_2629;C;"[,,a{a}1] [,,,c{,a}] | [,,,a{,,a}1] ,,d [,,d{,a}1]> ,,b | \
+[,,aa{a}1]> ,,b ,,d1 [,,,a,c] | [,,,c,d1] ,,a \
+[,,,c{,,,a}3/2] ,,,a/4 ,,,,e | ,,,a1> f [e{a}1] [c{,a}] | \
+[a{,,a}1] h [h{,,,a}/] ,h h f | "
+6;g moll;133;Sarabande;;PAN 5.029;5;;3;"{a}1 | [aaa1]> a [c,,,d] ,,c | [daaa1]> c ,,,,b1 | \
+[aba2] ,,,,,b1 | [,dad2] [,d,,d1] | [,'baa1]> ,d ,,,c1 | \
+[,a,d1] ,,,a [a,,,b] | ,,,,,d1 ['c,,a1]> a | "
+7;g moll;132;sans titre;René Mésangeau;Courante - PAN 4.042;5;Conc_2621;3;",,a1 | [,,aa{a}1]> ,,a ,,c ,a | [,b,a,d1] [,a,,a3/2] \
+,,c/4 ,a | ,,a1 [,,,ab] ,,,,d | [,aaa1] [,'f1]> c | \
+[,'e,,a1] {,,,a}2 | [daaa1] ['a,d3/2] ,d/4 a | \
+c1 {,a}/ a ,d ,c | "
+8;g moll;131;sans titre;;Courante - PAN 4.043;5;Conc_3478;3;",,a1 | [,,aa{a}1]> ,,c ,,a1 | [,,,c{,,,a}1] [,,,df2] | \
+{,a}1 [,,cdd] [,,,'c] | ,a1 ,,,,,b ,,,,d | \
+[,aad2] [,,cc1] | [,a,d1] ,,,c [,c,a] | \
+[,d,,a1] [a,c,c] ,,a | [cdccd2] [a,,,,d1] | "
+9;g moll;131;Les Canaries;;PAN 6.001;5;Conc_3479;3;",a1 | [,,a{a}1]> ,,c ,,e1 | [,,c{,a}1] ,a [,,a{a}] | \
+[,,,c{,,,a}3/2] ,,,a/4 ,,,c ,,,a1 | {a}2 | | ,a1 | \
+[,aa1] ,,,c ,,,a | [,a,,e1] ,,c [,,aa] | \
+,,,,a1 ,,,,,d ,,,c | "
+10;g moll;130;Sarabanda;;PAN 5.030;5;Conc_3473;3;"{a}1 [,,aa] [,,aa] | [,,aa,b2] ,,,,,d1 | \
+[,,ca2] ,a1 | [,,,c{,,,a}1]> ,,,,e ,,,a1 | | \
+{a}1 [,aa] [,aa] | [,aa{a}1]> ,b ,d1 | \
+{,,a}1 ,b ,a | [,,c{,a}3/2] ,,a/4 ,,,c ,,a1 | "
+11;g moll;130;sans titre;;Robin et Margot - PAN 13.036;5;Conc_3480;C;"[,,aaf1] ,a | [,,aa{a}1]> ,,,,d [,,c,b1] ,,,,,d | \
+,,e1 ,,,a ,,a [,a,,e] | [,,aaf1] [,,ca,d] ,,,,,b/> ,,,,,a | \
+[,,e{a}1] ,,,,a ,,,a [,a,,e] | [,,aaf2] [,,cc1] ,,,,d | "
+12;D dur;128;sans titre;;Courante - PAN 4.044;2a;;3;",a1 | [,adca3] | [,c,c,e1] ,,,,,a/ a b d | \
+a1 {,,,a} ,,,,a | [aadc1]> a b d | \
+f1 ,,,a [,,ff] | d1 [,,de] c | d1 ,,,c ,,a | "
+13;D dur;128;sans titre;;Courante - PAN 4.045;2a;;3;",a1 | [,adca{,,,a}1]> ,,,c ,,d ,a | \
+a1 ,,,,a1> d | [d,,,,e1] ,,,,,a/ f d ,f | \
+[a,,,a1] ,a1> b | [baa{a}1] d/ f [d{,a}1] | \
+[b{,,a}1]> a ,c1 | "
+14;D dur;127;sans titre;;Prélude - PAN 1.016;2a;;;"[aadca2] [aadc] [aadca] ,c/ a ,d d1 ,,c/ ,,d ,,a d1 \
+c/ ,a d ,,,c1 ,,,a ,,,c ,,,,e ,a/ ,,c ,a [,,aaf2]"
+15;g moll;125;sans titre;;Sarabande - PAN 5.031;5;Conc_3481;3;"[,,aaa{a}1] [,,aaa] [,,aaa] | \
+[,,'c{,,,a}1]> ,,,c ,,a1 | ,a/ ,,f ,d1 ,,,,a | \
+[,b,,,d1]> ,a [,,c,b1] | [da,a1] [daa] c/ a | \
+,d1> ,,,,a ,,,,b ,,,,d | "
+16;g moll;125;Sarabande;Nicolas de Merville;PAN 5.032;5;Conc_3472;3;"[,aaa2] {a}1 | [,aaa3] | [,,cce2] [,,aa1] | \
+[,,,c{,,,a}1] ,,,,a ,,,a | [faa2] {a}1 | [,aaa2] ,,,,,d1 | \
+[,bac2] ,,,,,b1 | [,aadd2] {,a}1 | [,,ccd1]> ,a ,,,,a1 | "
+17;B dur;124;Sarabande;;PAN 5.033;5;;3;"[,aaddb1] [,aadd] [,aadd] | [,,ccda1]> [,,ccd] {a}1 | \
+[,baa1]> {,,a} ,a1 | [,,c{,a}1]> ,,a ,,,,,b1 | \
+[,aad1] [,aad] [,aad] | [,dcc1]> ,a ,,,,,b1 | \
+[,aadd1] [,aadd] [a,,,,d] | "
+18;;124;sans titre;;Courante;efdeh;;3;"d1 | [daaaa1]> f d1 | [#a{,,a}3/2] ,c/4 a ,a1 | \
+[,c,,,c1]> ,e ,c ,,e | ,a1 {,,a} ,,,,a | \
+[,aaa1] a [bc] | [da1] ,,,,a ,,,a | \
+[fffff1]> g h1 | "
+19;;123;sans titre;;Courante;efdeh;Conc_278;3;",,c1 | [,,c,,e1] ,,,a/ ,,e ,,c1 | [,,,e{a}1] ,,,a ,,c | \
+[,,c,,e1]> ,,e ,a1 | [,a,,a1] ,,a ,a | \
+[,#aa{,,a}1]> ,c ,e1 | [,c{,a}1] d [aa{,,a}1] | \
+[,#c{,,,a}1]> ,a ,,e ,,c | "
+20;;123;sans titre;;Prélude or Fantasie;efdeh;;C;",,,,a1 ,,a ,,,a [,,cb] | ,c1 ,,,a [d,,a] [b,,c] | \
+,a1 a [,,,,ae] [,,,a,c/] ,,,b | [,,,d{a}1] ,,,,a ,,c \
+[,,,,ca] | ,,,,,c1 [,a,a] [,,cb,a] ,c/ ,a | "
+21;;122;sans titre;;Courante;efdeh;;3;"[aea1] ,,,,a/ ,e [,#c1] [,a,,,e] ,,,a ,,,c [,c,d] \
+,,,,,c1> d [#b{,a}1] ,c f [f,,,,a] ,a [,'c] e1 ,,,,,c/ e \
+[,'c1] [,a,,,e] ,c ,e"
+22;;122;sans titre;;Courante;efdeh;;3;"[,aa,a2] | [,,cb,a1]> ,,d ,,c1 | [,,a{a}1] [,,,b{,a}/] \
+,,,,c ,,,d ,,,b | [,,,a{,,a}1] ,,,,a ,a/ ,c | \
+[,e,a1] ,,,,a ,,c/ ,,e | ,a1 ,,,,,e ,,,,,c | "
+23;;121;sans titre;;Courante;efdeh;;3;",,a/ ,,c ,,e | [,aa{a}1] ,,,,a ,e | \
+,,,,,a1 {a}/ ,e [,#c{,,,a}] ,,a | \
+[,aa1] {,,a} [,eaaa2] | [,ce,,c1] [,a,a,e3/2] ,,e/4 ,a | \
+,,e1 {a} ,,c/ ,,e | "
+24;;121;sans titre;;Courante;efdeh;;3;",,,a1 | [,,c,ae1]> ,,e [,a,,a1] | \
+[,ccb1] a ,c | [a,ba1] ,,,,a ,,,,,e | \
+,,,,,d1 ,e ,c | [,e,,,c1] f [e{a}] | \
+[fff,,a1] {a} [h{,a}] | [i{,,a}1] d f | "
+25;G dur;120;Sarab;;Sarabande - PAN 5.003;1a;Conc_283;3;"{a}1 | [eaa2] {,,,a}1 | [ea1] [c{,,a}1]> e | \
+'a1 {,,a} ,,,,,c | [,aaa2] ,,,,,d1 | \
+[,cba1] [,cba] {a} | [,,,aa1] ,a ,,a/ ,,b | \
+[,,da1] {,,,a}2 | "

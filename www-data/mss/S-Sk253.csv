@@ -1,0 +1,59 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;100v;Robinette;;;OT;;none;"[d,,a1] | ,f/ ,d [,c,,c1] | ,d/ ,c [,aa1] | \
+,c/ ,a [,,e,,a1] ,,a | \
+[,aaa1] ,,e/ ,a ,c ,a1 ,,e/ ,,c ,,a1 ,,,,a ,,a2 ||";french5tab
+2;;100v;Vive Louis;;ff. 101r-102v empty;OT;;none;"[aaaa2] a1 | '[,eaa2] ,e1 | ,a1 [,ca,a2] | \
+'[,eaa2] ,f1 | '[aaaa2] a1 | '[,eaa3/2] ,f/ ,e1 | \
+,a1 '[,caa2] | '[,eaa2] :||: '[,,cf2] [,,e,a1] | \
+'[,ac3/2] ,c/ ,a1 |";french5tab
+3;;103r;Couran Lespine;Charles L'Espine;ff. 105r-106r text;OT;;3;",c1 | [,cd{,,,a}3] | [,da,c3/2] ,c/ ,a ,d | \
+,c1 ,,,,e {,a} | [,cc2] c1 | [ccdeec3/2] e/ [f,,e1] | \
+'[e,,,e1] ,h [eg] | [ccdeec2] [ac1] |";
+4;;106v;Prelude Lespine;Charles L'Espine;;OT;;C;"[bdca1] {,,,a}/ ,a ,b ,,d ,a ,,d | \
+[aaccca1] ,,,a [abbcd] {,a}/ ,,,,c | \
+[,,dca1] {,,,a}/ ,,,,,d ,,,,,b [bbdd] ,,,,c1 | \
+[,dda1] {a}/ ,,,,d [,d,,c] ,,b ,d1 |";
+5;;107r;Prelude Lespine;Charles L'Espine;;OT;;C;"[cceffc3/2] ,,,,,a/ ,,,,,c ,,,,,e ,,,,a ,,,,c | \
+[,cc,e1] {,a}/ ,d a c e a | [f,,e1] ,e [e,,c] ,c | \
+,,,a/ c ,a ,,,,e c a |";
+6;;108r;Bergamasces de Lespin;Charles L'Espine;;OT;;C;"[,cd,a2] [,cd{,,,a}] | [,dda{a}2] [,dda] | \
+[,acc,a2] [,acc] | [,cd,a2] ,,d | [,cd{,,,a}2] [,cd,a] | \
+[,dd{a}2] [,dda] | [,acc,a2] [aaccf] | \
+[,,dca1] {,,,a} a/ ,d | [,cd,a1] ,,,,c ,,,,e ,,,,a |";
+7;;109r;Balet Lespin;Charles L'Espine;;OT;;C;"f1 | f3/2 d/ [cdda] d [acd,a] c | \
+[,dda1] {a} [,dd] a/ c | [d,,c3/2] c/ [a,,,e] c [,d,,c] a | \
+[c,d,a2] {,,,a}1 ,d/ a |";
+8;;109v;Balet Lespine;Charles L'Espine;;OT;;C;"[,,dca2] [,a,c,e] | [,bd{,,,a}1] ,a/ ,b ,,d2 | \
+[,db,c1] [ab,,d] [,,dd/] ,a [,b,a] ,d | \
+[,acc1] ,,,,,a [,acc2] | [aacc2] [ca,b] | \
+[da,c3/2] f/ [h{,,,a}1] f/ d |";
+9;;110r;Balet Lespine;Charles L'Espine;;OT;;C;"[,cd,a1] [,cd{,,,a}/] ,d [a,,,e1] [,d,,c] | \
+[,cd,a/] ,,d ,a ,c ,d a [,cd,a1] | \
+[,acc,a1] [,c,,,c/] [a,,,e] ,,,,a ,,,,a [,e,,c1] | \
+[aacc,a1] ,,,c [aac2] |";
+10;;110v;Balet Lespine;Charles L'Espine;;OT;Conc_1761;C;"[,,dca3/2] ,,d/ [,acc,a] ,c ,d a | \
+[,cd,a1] {,,,a} [,cd] ,,d/ ,a | \
+[,c,,,c/] ,e a ,,,,,e [a,,,a] [,e,,c] | \
+[aacc,a1] ,,,c [aac] ,,d/ a |";
+11;;111v;Volte nouuelle Lespin;Charles L'Espine;;OT;ConcR1487;3;",,a/ ,,c ,,d1 [,,c,,b] | [,,aa,c1] ,,,,,e ,,,,a | \
+[,,aac3] | [,,cde2] {,a}1 | ,,d/ ,d ,c ,d a c | \
+[,,a,e1] ,,d [,d,,c/] a |";
+12;;112v;Courante Lespine;Charles L'Espine;;OT;ConcR1488;3;",,d1 | [,,cc,a1] ,,,c [,,d,,c] | [,a,,,e3/2] ,c/ [,d,,c1] | \
+[,cd,a1] ,,d/ ,a ,c ,e | [a,,,e1] [,e,,c2] | \
+[aac,,a1] ,,,c [aac] :||: ,,d/ ,a ,c ,d |";
+13;;112v;Courante Lespine;Charles L'Espine;f. 113v text;OT;ConcR488;3;"c1 | [cdda3/2] d/ c1 | [,dda1] f c | [,dd{a}1] ,,,a/ a c a | \
+[,dda1] {a} a | [acd,a1] {,,,a}/ c a ,d |";
+14;;114r;Courante Lespine;Charles L'Espine;;OT;;3;",,d1 | [,,dca3/2] ,a/ ,c1 | [,,dca{,,,a}1] ,,,c [,,dca] | \
+[,,dca{,,,a}3] | [,a,,,e3] | [,cd{,,,a}3/2] ,d/ [a,,,e1] | \
+[,d,,c1] [,cd,a] ,a/ ,,d | ,a1 ,,,,,a ,,,,c | \
+[,ac2] [,cd,a1] |";
+15;;114v;Lespagnol Lespin;Charles L'Espine;;OT;ConcR598;3;",,d1 | [,,dca2] [,a,,,e1] | [,b,,a1] [,d,,c2] | \
+[a,,,d3/2] ,d/ [,b,,a1] | [,a,,,e1] [,,d,,b2] | \
+[,,cc,a2] ,,,c1 | [,,d,a/] ,,c ,,d ,a ,b ,d | \
+[,acc,a1] ,,,c [,acc] :||:";
+16;;114v;Courant nouuelle Lespin;Charles L'Espine;;OT;;3;",e1 | [,efe{,,a}3/2] ,f/ [ce1] | [f,c,e1] ,,e [,ef,c] | \
+[,ce,,c1] ,f [,ce] | [,ef{,,a}1] ,f h | \
+[he,,,e1] ,g [ah,,,a] |";
+17;;115v;Volte Lepine;Charles L'Espine;;OT;ConcR534;3;"a1 [,bd] [,df] | [,f{,a}2] [,d{a}/] a | \
+[,b,,a/] ,d [,a,,,a1] ,,d/ ,a | [,,dca1] {,,,a}/ ,a ,b ,d | \
+a1 [,d,d] ,,g/ ,d |";

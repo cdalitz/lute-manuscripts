@@ -1,0 +1,106 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+;;;Intabolatura di Chitarone al uso d'Ittalia et altre Provincie;;;;;;;
+1;;1r;(toccata);;;OT;;C;"%%tabfirstflag 0
+[aabc,a2] z2 |  [aabc,a2] {a}1 {,a} | {,,a} [caa,c] | \
+[caamc{,,a}] [caa,c{,,a}] {,,,a} | {,,,,a} ,,,,,d | \
+[,aba] [,aba,d] ,,,,a ,,,,c ,,,,e |";italian7tab
+2;;2r;toccata;;;OT;;C;"[,dda{a}3/2] a/ | b1 ,d ,,d ,,,a | {a}2 [bdda] | \
+[bdd{a}1] ,,,,,a ,,,,,b {a} | [abdca{,,,a}2] a1 ,b | \
+,,d1 ,,,c ,,,,a {,,,a} |";italian7tab
+3;;2v;toccata;;;OT;;C;"%%tabfirstflag 0
+[,daa{a}] | [,daa{a}1] (,,b/ ,,d) (,,,c ,,,e) (,,,,e ,,,,f) | \
+[,daa{a}2] (,,d/ ,,b ,,a) ,,,c | ,,,a1 (,,,,e/ ,,,,c ,,,,a \
+,,,,,d ,,,,,c ,,,,,a) |";italian7tab
+4;;4r;toccata;;;OT;;C;"[vdca1] ,,b/ b ,,,c ,d | [a,b,d1] (,,d/ ,,b ,,a) ,,,,a | \
+[,d,,b1] (,,,,d/ ,,,,b ,,,,a) ,,,,,d | \
+,,,,a/ (,,,,,d ,,,,,b ,,,,,a {a} ,,,,,a ,,,,,b ,,,,,d |";italian7tab
+5;;4v;toccata;;;OT;;C;"%%tabfirstflag 0
+[fdaaa{a}] ,,f/4 f d ,,,e1 d/ ,f1 | \
+{a}/4 ,,,,a ,,,a ,,a ,a ,c ,d a c a c d ,,d1 |";italian7tab
+6a;;6r;Monaca;;Une jeune fillette;OT;Conc_4438;C;"%%tabfirstflag 0
+,,,,a2 | ,,,a {a} a | b ,,,,,a ,,,,,b ,,,,,d | \
+[,a,,a2] {,,,a}1 ,d | ,b ,a ,b ,,,,a | [,a,,,d] ,c ,d ,,,,b |";italian7tab
+6b;;7r;(Seconda Parte);;;OT;Conc_4438;C;"%%tabfirstflag 0
+,,,,a1 ,,,,c ,,,,e | ,,,a ,c ,d a | b ,,,,,a ,,,,,b ,,,,,d | \
+,,,,a ,a ,b ,d | a ,,,,,d ,,,,a ,,,,,c |";italian7tab
+7;;8r;HK;;G.G. Kapsberger, Gagliarda;OT;;3;",,i2 ,,d ,,f | [f,g,a3] ,,f1 [,,dd2] | ,,e1 f ,,b b [,,bcd2] | \
+[bbd,,b3] ,,b1 ,,,d2 | [d,,c2] [a,,,d] [b,,a] | \
+[d,,c3] [b,,a1] [a,,,d2] |";italian7tab
+8;;9r;Cor(rente);;La Durette;OT;ConcR431;3;",,,,a1 | [a,,,a2] {,,,a}1 | (,d/ ,b ,a ,b) ,,,,a [,a,,,e] | \
+[,bdca2] {,,,a}1 | [,da,c2] {,,a}1 | [ab,,d3/2] b/ d1 | \
+[,b,,a1] ,,,,,b [,a,,,d] |";italian7tab
+9;;9v;Cor(rente);;;OT;ConcR2788;3;"(,,d/ ,,b ,,a) ,,,c | [,,aa{a}3/2] ,,c/ ,,d1 | \
+[d,,c3/2] c/ [a,,,a1] | [,da1] ,l ,,,,a | \
+[,d,a1] (,,d/ ,,b ,,a) ,,,c |";italian7tab
+10;;10v;Cor(rente);;;OT;Conc_5362;3;"%%tabfirstflag 0
+,,,,a1 | ,d3/2 a/ b1 | (d1 b/4 a) ,d [ac,,a1] | \
+[,d,a{a}2] ,,,,a1 ,,,b [,d,,c] [a,,,d3/2] c/ [d,,,c1] | \
+[cdda{a}3/2] c/ ,b1 |";italian7tab
+11;;11r;Cor(rente);;;OT;ConcR378;3;"(,,d3/2 ,,b/ ,,a) ,,,c | b3/2 ,,,a/ [a,,,e1] | \
+[b,,a1] (d/ b a) ,d | [acd,a2] {,,,a}1 | \
+[,cd1] (,,,,d/ ,,,,b ,,,,a ,,,,,d) |";italian7tab
+12;;12r;Cor(rente);;;OT;;3;",,a1 ,,b2 | [,,da{a}3/2] ,,b/ ,,a1 | [,,,ca3/2] ,,,a/ ,,,c1 | \
+[,,,d{a}3/2] ,,,,,a/ ,,,,,b1 | {a}3/2 ,,,,a/ ,,,,c1 | \
+,,,,d3/2 ,,e/ ,,d1 | ,,,,d3/2 ,,d/ [,,bcd1] |";italian7tab
+13;;13r;Cor(rente);;;OT;;3;",d1 | [c,a{a}3/2] d/ [,,dac1] | [,,fa,d1] (,,d/4 ,,b ,,a ,,b ,,d ,,b ,,a) ,,,c | \
+[,,aac2] {,,a}1 | [,,aac3/2] ,,f/ ,,h1 |";italian7tab
+14;;14v;Parti(ta);;;OT;ConcR2161;C;",d1 | [c,a{a}3/2] d/ [,,dac1] | [,,fa,d1] (,,d/4 ,,b ,,a ,,b ,,d ,,b ,,a) ,,,c | \
+[,,aac2] {,,a}1 | [,,aac3/2] ,,f/ ,,h1 |";italian7tab
+15;;16v;sans titre;;;OT;ConcR2162;3;",,d1 | [,dda{a}3/2] a/ ,d1 | [acdca1] ,d a | [cdd{a}2] ,,,a1 | \
+[ddc3/2] c/ d1 | [fda3/2] d/ c1 | [a,,,a3/2] c/ a1 |";italian7tab
+16;;17r;sans titre;;;OT;ConcR2163;3;"a1 ,d | [acd{,,,a}2] ,d1 a [ac,,a] [bdc{a}] | \
+[,,bcd2] [,,bc/] [,,bc] [,,bcd3/2] ,,d/ ,,b1 | \
+[bdd{a}3] {,a}1 [,aca{,,a}2] |";italian7tab
+17;;17v;sans titre;;;OT;ConcR2164;3;"a1 ,d | [ac,,a3/2] ,d/ a1 [,d,a3/2] a/ b1 | \
+[,,bcd2] {,a} ,b/ ,d a b | [d,,,d/] a f [b,,,a] ,d d";italian7tab
+18;;18r;sans titre;;;OT;ConcR2165;3;"[,b,,a/] ,,,a ,,,c ,,,d | a/ b d f ,,,,,d ,,,,a ,,,,c ,,,,d \
+,d a b1 | [,,bcd{a}2] ,,,,d/ ,,,,c ,,,,a ,,,,,d";italian7tab
+19;;18v;sans titre;;;OT;ConcR2166;3;"f/ b d f | ,,,d/ ,,,a ,,,c ,,,d d a b d ,,,,d ,,,,a ,,,,c1 | \
+[,,bcd2] {,a} a/4 b a b d/ f |";italian7tab
+20;;19r;Bal del Duca;;;OT;ConcR1224;C;"[cdd{a}2] [acdd{a}1] [acd,a] | [,da,c1] {,,a}/ ,c [,da,c1] [,dd,,c] | \
+[,aba,d1] ,c/4 ,d ,,,,c/ [aab,,a1] [acd{,,,a}] | \
+[,da{a}2] ,,,,a1 [,d,a] :||:";italian7tab
+21;;20r;Gagliarda;;;OT;;3;"[cdd{a}2] | [cdd{a}3] d1 c2 | [a{,a}2] [,d{,,a}] [,b{,,,a}] | \
+[,aba{,,,,a}3] ,d1 [,aba,d2] | [,,da,c2] [aab,,a] ,c | \
+[add{a}2] {14} d1 c |";italian7tab
+22;;20v;Bal del Duca;;;OT;ConcR1224;C;"[cdXda1] {a}/ d [cdda1] [acdca] | [,da,Xc1] {,,a} ,c/ ,a {,,,a}1 | \
+{11}1 ,c/4 ,d [add{,,,a}1] ,d/ [d,,a] | [cdda{a}3/2] {a}/ [cd2]";italian7tab
+23;;21v;HK galiarda;;;OT;ConcR2167;3;"[,d,a{a}3/2] a/ b1 d [acd{,,,a}2] | [,d,a{a}2] ,,,,a [,d,a] | \
+[a,,,d3/2] c/ d1 ,,d [b,,a2] | [acd{,,,a}2] ,,,,a [acd] | \
+[a,,,d3/2] c/ d1 ,,d [b,,a2] |";italian7tab
+24;;22v;galiarda;;;OT;;3;"[,daa{a}2] | [,daa{a}1] ,,,,a3/2 ,,,,c/ ,,,,e1 ,,,a [,c,,,d] | \
+[,d,,,c1] [a,,,a] [c{a}] [,d{,a}] [c{,,,a}] | \
+[d{11}] [,,a,c] [,,b,c] [,,d,a] [,,f,,d] [,c,,a] |";italian7tab
+25;;23r;Pass'e mezzo;;;OT;;C;"[,dda2] a | [bdda{a}2] [bdXd1] d/ b a ,d | [a,,,a1] ,,,,,b [a,,,,d] [,c,,a] | \
+[,dda{a}3/2] ,,,,,a/ ,,,,,b1 ,,,,,a | \
+[bdd{a}2] f1 [(d/4] b a [y)d]) |";italian7tab
+26;;24r;Galiarda;;;OT;ConcR2168;3;"[,dda3/2] a/ b1 ,,,,d ,,,,b ,,b | [acdca2] {,,,a}1 ,d ,c2 | \
+[,,,cd{,a}1] ,,a ,,b ,,d ,,e [,,bcd] | [bbdd,b2] ,,,d [bbd] |";italian7tab
+27;;25r;HK galiarda;;;OT;ConcR2169;3;"[b,,a2] [a,,,d] [,d,,b] | [ac,,a3] ,d1 a2 | [bbdd2] [,,bc] [b,,a] | \
+[,,bcd3] ,,a1 ,,b2 | [f,g,a2] [,,fa,d] [,,da,c] | \
+[aac,,a3] ,,d1 ,,f2 |";italian7tab
+28;;25v;Cor(rente);;;OT;ConcR2789;3;",,d1 [,d,a] [a,d,e] | [bdda3/2] [a,b/] [b,d1] | [,a,,,d3/2] ,d/ [,c,,a1] | \
+,,i1 f ,,f | [f,g3/2] [d,e/] [b,d1] | \
+,,e/4 (f d) ,,,d2 [,,bcd/4] |";italian7tab
+29;;26v;HK Cor(rente);;;OT;ConcR2170;3;"a1 | [acd3/2] c/ a1 | ,,b1 a [c,a] | [d,,c1] ,a ,c | \
+[d,,e1] f [c,,a] | [a,,,a3/2] c/ [,d,,c1] | \
+[,c,,,c1] ,d [,a,,,d] |";italian7tab
+30;;27r;Cor(rente);;;OT;;3;"([,b,,a/4] ,a ,b ,d) | [a,,,a3/2] b/ a1 | [b,,a2] ,,b/4 b ,,,c ,d | \
+[abb,d2] {a}1 | [aabc3/2] (,,a/ ,,b/4 ,,a ,,b ,,d) |";italian7tab
+31;;28r;Corent;;;OT;;3;",,f1 | [,,g,a3/2] ,,i/ ,,g1 | [,,f,,a1] ,,,h ,,,g | \
+,,,h2 ,,,,a1 | [,,g{,,,a}1] ,,f/ ,,g ,,,h1 | \
+,,,g1 ,,,,,a ,,,c | [aac1] ,,a ,,c |";italian7tab
+32a;;29r;(Passemezzo per b duro);;;OT;;C;",d a | [cdd{a}2] [cdd1] {a} | [cdd1] ,c [,dd{a}] a | \
+[cdd{a}2] [abb{,a}] | [,da{,,a}2] [,bdca{,,,a}] | \
+[,aba{11}2] [,aba1] {11} | [,aba1] ,,d ,a ,c |";italian7tab
+32b;;29v;(Seconda Parte);;;OT;;C;",d a | [cdd{a}] ,,,,,a [,da,,c] ,,,,,d | [,daa1] ,,,,,d [,da,,d] ,,,,,a | \
+[,da{a}1] ,,,,,a [,da,,c] ,,,,,a | \
+[,da{a}1] {,a} [,da{,,a}] {,,,a} |";italian7tab
+33a;;30v;p(rim)a;;Passemezzo per b molle: prima parte;OT;;C;",,,,a1 ,a | [abd{,,,a}2] [abd1] ,,,,a | [abd1] ,,,a ,,,,d ,,,,c | \
+[abd,a2] [abd1] {,,,a} | [abd1] d c [a{a}] | \
+[,aba,d2] [,aba/] ,,,,,d [,aba] ,,,,a |";italian7tab
+33b;;31r;2a;;;OT;;C;",,,,a1 ,a | [abd,a1] {,,,a} [abd] {,,a} | [abd{,a}1] {a} [aac,,a] ,d | \
+[abd,a1] {,,,a} [abd] {,,a} | [abd{,a}1] {a} [abd,,a] ,,,,,c ||";italian7tab
+33c;;32r;3a;;;OT;;C;",,,,a1 ,a ,b ,d | [a,,,a1] ,,,,c ,,,,d [b,,a] | \
+[a,,c1] [,d,d] [,c,c] [,a,a] | \
+[ab,,a/] ,,d ,,b ,,,d ,,,c ,,,a ,,,,d ,,,,c |";italian7tab

@@ -1,0 +1,153 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;3;Preludio;;;Guitar;;C;"[fhh1] ,h/ ,,h ,h ,,,,a ,,h ,,,,a | ,,,e/ ,,,e ,,,a c f ,d ,,c ,,,,e | \
+,,a/ ,,c ,d ,,c ,,a ,,,e ,,,c [,d,e] |";italian5tab
+2;;4;Alemanda;;;Guitar;;C;"f/ | !strumup![fhh1] f/ !strumup![heeeg] !strumdown![heeeg] [f,g] d ,i ,h ,f | \
+,,h/ ,,e ,,c !strumup![cdeec] !strumdown![cdeec] \
+!strumup![ccc] d !strumup![cdc] |";italian5tab
+3;;5;Corrente;;;Guitar;;3;"!strumdown![fhh1] | !strumup!""T""[fhh2] h/ f | \
+[c,,a1] ""T""[a,,,a3/2] ,d/4 a | [c,,a1] a a | \
+c/ a ,d [,c,,a3/2] | z/ a/ c e f h |";italian5tab
+4;;6;Sarabanda;;;Guitar;;3;"!strumup![cdc1] !strumdown![cdc] !strumup![cdc] | \
+""T""[,c,,a3/2] ,d/ ,,c1 | [,aa1] ,c [cd] | ""T""[ad,,a] [,d,a2] | \
+!strumup![fhh1] !strumdown![fhh] !strumup![fhh] | \
+!strumup!""T""[,fgh3/2] !strumdown![cdeec/] !strumup![cdeec1] |";italian5tab
+5;;7;Tocata;;;Guitar;;C;"!strumup![dd,,b2] !strumup![dd,,b1] !strumup![dd,b] | \
+!strumup![dd,b3/2] l/ g3/2 i/ | l3/2 f/ g3/2 ,h/ | \
+i3/2 h/ a3/2 c/ | d3/2 f/4 g";italian5tab
+6;;8;Alemanda;;;Guitar;;C;"!strumdown![dd,,b/] | !strumup![dd,,b1] (f/4 d c a) c/ ,,,a d ,,,,d | \
+,,,,b/ d [c,,a] ,b [d,a] (,g/4 ,e ,d/) ,,f/4 ,d |";italian5tab
+7;;9;[Corrente];;;Guitar;;3;"!strumup![dd,,b1] | !strumup![dd,,b1] !strumup![dd,,b2] | \ 
+,d/ a !strumup![,,bcc1] !strumdown![,,bcc] | \
+(d/ f) !strumup![ebbbd1] !strumdown![ebbbd] | \
+(,b/4 ,d) a/ !strumup![bdc1] !strumdown![bdc] | \
+!strumup![dedbb1] !strumdown![dedbb] ,,,,f |";italian5tab
+8;;10;[Corrente];;;Guitar;;3;"!strumup![bbbdd3/2] f/ [gdddf] | !strumup![cdc1] !strumdown![cdc/] d ""T""[d,,b1] | \
+(d/ b ,e ,d ,b) ,,d | [bbdd3/2] ,,c/ !strumup![bdddb1] | \
+!strumup![bdddb1] !strumdown!e [bbd] |";italian5tab
+9;;11;Tocata;;;Guitar;;C;"[,bcca4] | [,aca2] [,aba/] ,,,,a/4 ,,b ,,,,a ,,b ,,,,a ,,b | \
+!strumup![,bcc2] z/4 ,a/4 ,b ,d a b d a |";italian5tab
+10;;13;Alemanda;;;Guitar;;C;"f/4 | [fffh3/2] h/ i ,,,,a [hfhfd] ,,h | \
+!strumup![bbbdd/] ,,,,h ,,,h ,,f ,f1 ""T""f3/4 ,i/4 | \
+[,g,,a/] ,,f [,de] ,f [,b,c] ,,,,d";italian5tab
+11;;14;Corente;;;Guitar;;3;"a/ | !strumup![,bcc1] a/ c e | f/ h !strumup!""T""[efecc1] ,f | \
+f/ h [i,,,a1] ""T""[h,,,h] | f/ ""T""[f,,,a3/2] a/ c |";italian5tab
+12;;15;Sarabanda;;;Guitar;;3;"!strumup![gggii1] h !strumup![gdddf] | !strumup![dfffd3/2] !strumdown![dfffd/] !strumup![fgfdd1] | \
+!strumup![,f,d] [,d,d] [,b,c] | ""T""[,da3/2] ,,f/ ,,f1 | \
+!strumup![dffd1] ,g !strumup![dffd] | \
+!strumup![dde1] !strumdown![eee] !strumup![fff] |";italian5tab
+13;;16;Caprici di Ciacone;;;Guitar;;3;"!strumdown![,b,cd/] !strumdown![,b,cd] !strumup![,b,cd] !strumdown![,b,cd] \
+!strumup![,b,,c] !strumup![,b,,a] !strumdown![,b,,a] !strumdown![,b,,a] \
+!strumup![,bcc] !strumup![,bcc] !strumdown![,bcc] !strumdown![,bcc] \
+!strumup![bbcd] !strumup![bbcd] !strumdown![bbcd] !strumdown![bbcd] \
+!strumup![daa] !strumup![daa] !strumdown![daa] !strumdown![daa] \
+!strumup![,b,cd] ||";italian5tab
+14;;17;Alemanda;;;Guitar;;C;"a/4 ,d | a/ c !strumup![dd,,c] !strumdown![dd,,c] !strumup![bdc] d/4 b a/ ,,,,h | \
+(b/4 a) (,d ,b) [,aa/] [,b,c] [,d,d] !strumup![ddef] \
+!strumup![dfffd1] |";italian5tab
+15;;18;Correnta;;;Guitar;;3;",,,,d/ ,d a b d f | ""T""[a,,,d3/2] ,d/4 a ,b1 | \
+[d,,c1] ""T""[b,,a3/2] a/4 b | ""T""[a,,,d2] f/ h |";italian5tab
+16;;19;Alemanda Francese in Brando;;;Guitar;;C;"z1 d1 [db,cd3/2] d/ | [b,,c1] [,b,c2] (d/ f) | \
+d/ ,g ,f1 ,b/ ,h a1 | ,,,c2 ""T""d3/2 b/ | \
+a1 ,b ,,,c [,d,,c] |";italian5tab
+17;;20;[Corrente];;;Guitar;;3;",a/ | ,b/ ,d a c d ,d | a/ c d f b d | ""T""[a,,c3] | \
+!strumup![fgfdd1] !strumdown![fgfdd] !strumup![fgfdd] |";italian5tab
+18;;21;Sarabanda;;;Guitar;;3;"!strumup![db,cd1] !strumdown![db,cd] !strumup![db,cd] | \
+[a,,,d3/2] ,d/4 a ,b1 | ,d1 a !strumup![,bcc] | \
+[,a,c3/2] ,,c/4 ,a ,,c1 | a1 c !strumup![dd,,c] | \
+[b,,a2] !strumup![,,,cc1] |";italian5tab
+19;;21;Ciaccona;;;Guitar;;3;"(,f/ ,g) ,a d ""T""[,g,,f1] | (,d/ ,f ,g) h ""T""[,f,,d1] | \
+(,a/ ,b ,d) a ""T""[,b,d1] | ""T""[,aa2] [ab,,d1] ||";italian5tab
+20;;22;Preludio;;;Guitar;;C;",,h/ ,g f ,g ,,g ,f f ,f | ,,h/ ,g f ,g ,,f ,f f ,f | \
+,,d/ ,d f ,d ,,d ,d d ,d |";italian5tab
+21;;23;Alemanda;;;Guitar;;C;"[fgh/] !strumdown![fgh] | !strumup![fgh3/2] !strumdown![,fgh/] !strumup![fgh] ,,,h/4 ""T"",,,f3/4 !strumdown![bdc/4] !strumup![bdc] | \
+!strumdown![bdc/] !strumup![bdc] a/4 c !strumup![dd,,c/] \
+(a/4 b h b) ,d/ a |";italian5tab
+22;;24;Corente;;;Guitar;;3;"f1 | [fgh3/2] (i/ g f) | ,i/ ,g [,f,,a3/2] ,,h/4 ,f | \
+""T"",,h3/2 i/ g f | ""T""[dff1] ""T""[dff] ,g/ h | \
+[f,,,a1] ""T"",,g2 |";italian5tab
+23;;25;Corrente;;;Guitar;;3;"!strumup![dd,,b1] !strumup![dd,,b2] | !strumup![cdc1] !strumup![dd,,b2] | \
+!strumup![,bcc1] !strumup![bdddb2] | !strumup![dd,,b1] !strumup![,ddd2] | \
+!strumup![bdc1] !strumup![dd,,b] | !strumup![,ccc1] !strumup![bdc] !strumdown![bdc] | \
+!strumup![,bcc] !strumup![,bcc] !strumdown![,bcc] |";italian5tab
+24;;26;Sarabanda;;;Guitar;;3;"!strumup![bdc1] Vd f | ""T""[b,,a3/2] a/ ,d1 | [d,a1] !strumup![dd,,b] !strumdown![dd,,b] | \
+""T""[a,,,d3/2] ,d/ ,b1 | !strumup![fgfdd1] !strumdown![fgfdd] !strumup![fgfdd] | \
+[g,a3/2] f/ g i |";italian5tab
+25;;27;Sarabanda con Passacagli e seguita;;;Guitar;;3;"!strumup![bdc1] !strumdown![bdc] !strumup![bdc] | \
+""T""[bc,d3/2] a/ ,h1 | [b,,a1] [d,,c] [f,,d] | \
+""T""[df,,d3/2] ,f/4 d ,g1 | g/ (f d ,g) !strumup![dfffd1] |";italian5tab
+26;;27;[Passacagli];;;Guitar;;3;"a/ | !strumup![bdc1] !strumup![,bdd3/2] !strumdown![,dd/] | \
+[bdd,b1] ""T""[,dd,b3/2] ,c/ | [bdcc1] !strumup![dc,a3/2] f/ | \
+!strumup![bdc2] ,,,a1 | f/ (d f d) (b a) |";italian5tab
+27;;31;Passacalli seguita;;;Guitar;;3;"!strumup![,ccc3/2] !strumdown![,ccc/] !strumup![,ccc1] | \
+!strumup![,bcc3/2] !strumdown![cdc] !strumup![dd,,b1] | \
+(!strumup![daa3/2] !strumdown!,d/) !strumup!,d | \
+(!strumup![,ccc3/2] ',c/) !strumup![,ccc1] || \
+!strumup![bdc1] !strumdown![bdc] !strumup![bdc] | \
+!strumup![,bcc1] !strumdown![,bcc] !strumup![bdddb] |";italian5tab
+28;;32;Capricci di Chiaccona;;;Guitar;;3;"!strumup![,b,cd1] !strumdown![,b,cd] !strumup![,b,cd] | \
+!strumup![dd,,c1] !strumdown![,ccc] !strumup![,bcc] | \
+!strumup![dd,,b3/2] !strumdown![dd,,b/] !strumup![dd,,b1] | \
+!strumup![dd,,c1] !strumdown![dd,,c] !strumup![,b,cd] || \
+!strumup![,b,cd3/2] !strumdown![bbcdd/] !strumup![,b,cd1] | \
+!strumup![,,,cc1] !strumdown![,,,cc] !strumup![,bcc] |";italian5tab
+29;;35;Passacali per A;;;Guitar;;3;"!strumup![dd,,c1] ,b/ a | !strumup![cdc1] ,,,,c/ ,d d b | \
+!strumup![,b,cd1] ,,,c/ ,,,e ,,a ,,c | \
+,,f/ ,,e [f,,,f3/2] ,c/ | [,aa1] ,a ||";italian5tab
+30;;36;Passacali per +;;;Guitar;;3;"!strumup![,ccc/] c/ a ,e | !strumup![,ccc1] ,,,,c/ ,,,,b ,,,a ,,b | \
+!strumup![,bcc1] c/ d f ,b | !strumup![efedd1] !strumup![ceeec] ,,f/ ,,e | \
+!strumup![efedd1] ||";italian5tab
+31;;37;[sans titre];;;Guitar;;3;"!strumup![cdc/] ,c ,d a | !strumup![cdc1] !strumup![,,bc] (c/ a) | \
+[cdeec1] ,a/ ,c ,d a | !strumup![cdc1] !strumup![,,bc] ,a/ ,c | \
+!strumup![cdc1] ||";italian5tab
+32;;38;[sans titre];;;Guitar;;3;"!strumup![,b,cd1] !strumup!f !strumdown!f | \
+,,g1 !strumup![gfg] !strumdown!""T""[gfg] | \
+,,e1 !strumup![,cfde] !strumdown![,cfde] | \
+!strumup![cde1] [ccee] ""T"",,d | ""T""[,ae1] || \
+(,,,e/ ,,,f) (,,,e ""T"",,,c) |";italian5tab
+33;;40;Passacagli;;;Guitar;;3;"!strumup![,cdd/] ,,c ,,d ,a | !strumup![,cdd1] !strumup![,,cdc] !strumdown![,,cdc] | \
+!strumup![cddb1] (c/ a) ,c (,c | ,a/) ,,d ""T""[,add3/2] ,,c/ | \
+!strumup![,cdd1] ,,,,a/ (c a) ,d |";italian5tab
+34;;41;Corrente;;;Guitar;;3;"f1 | [f,,,f3/2] d/ c a | [c,,d1] ""T""[a,,,d3/2] ,d/ | \
+[,c,,a2] a1 | ""T""[a,,,d3/2] ,f/ ,d ,a | \
+[,b,a1] ""T""[,a,d3/2] ,,d/4 ,a |";italian5tab
+35;;41;Sarabanda;;;Guitar;;3;"[acdd2] ,,,,a1 | [acdd2] ,,,,a1 | ,d1 a ,c | ""T""[,a,d2] [,,d,a1] | \
+[,,cdc2] ,,,,c1 | [,,cdc2] ,,,,c1 | ,e1 a c |""T""a2 ,,,d1 |";italian5tab
+36;;42;Toccata in Accordatura Francese;;;Guitar;;C;"[faa2] [h,fe] | [i,af2] n/4 n n/ i/4 i i/ | \
+f/4 f f/ a/4 a a/ ,a/4 ,a ,a/ ,,a/4 ,,a ""T"",,a/ |";italian5tab
+37;;43;Alemanda Francese;;;Guitar;;C;"a/ | ""T""[aaaab1] (b/4 a b a) [,cc/] ,,,e a/4 ,c ,a) ,,c | \
+[,aa/] ,,a ,,c ,a [,cc] (a ,c/4 ,a) (,,c ,,a) |";italian5tab
+38;;44;Corrente Francese;;;Guitar;;3;"f1 | [fdd1] ,,d/ f h i | [,d,c1] ,,d c/ e | \
+f/ ,,d ""T""e3/2 (c/4 e | f1) ,,a2 | f1 ""T""[d,,e3/2] ,,,b/4 d |";italian5tab
+39;;45;Sarabanda;;;Guitar;;3;"[faa1] h [i,a] | ""T""[h,,a3/2] f/ ""T""[faa1] | \
+(f/ d) ,f a ,,f ,a | ""T""[,c,d3/2] ,a/4 ,,c ,a1 | \
+!strumup![aaddb1] !strumdown![aaddb] !strumup![aaddb] |";italian5tab
+40;;46;Passacagli;;;Guitar;;3;"[bdddb/] (,,c ,,d) ,b | !strumup![bddb1] [bbcd] !strumdown!,d | \
+!strumup![deffd1] !strumdown![deffd/] ,f d f | \
+[gdddf1] [bbdd] X,,c | !strumup![bdddb1] || \
+!strumup![dfffd/] (,d ,f) ,,,,d |";italian5tab
+41;;47;Brando;;;Guitar;;C;"d/ ,f d f | !strumup![ebbbd1] !strumdown![ebbbd] !strumup![bdddb] !strumdown![bdddb] | \
+!strumup![dedbb1] !strumdown![dedbb] b/ ,e b ,d | \
+,b1 ,,d !strumup![bbddb] !strumdown![bbddb] |";italian5tab
+42;;48;Corrente;;;Guitar;;3;"!strumup![bdddb/] (,b ,d ,e) | (b/ d) [bbcdd3/2] (d/ | \
+b/) ,e !strumup![bdddb1] !strumdown![bdddb] | \
+!strumup![bdddb1] !strumup![dedbb2] | \
+!strumup![bdddb3/2] b/ d f |";italian5tab
+43;;49;Tocata;;;Guitar;;C;"[cde4] | [ace2] [ccd] | ""T""a2 [cde] | z/ h/ ""T""h1 z/ k/ ""T""k1 | \
+z/ l/ ""T""l1 z/ n/ ""T""n1 |";italian5tab
+44;;50;Passacagli;;;Guitar;;3;"d/4 ""T""c3/4 ,f/ | !strumup![cde1] !strumup![ccc] ,c/ ,e | \
+!strumup![,,,cc1] !strumup![,,,cc/] ,,,,a ,,,,c ,,,,e | \
+,,,a/ d !strumup![fccce] ,d [dd,c] ,c |";italian5tab
+45;;51;Corente;;;Guitar;;3;"d1 | !strumup![cde2] [,cdd1] | !strumup![cde1] ,f/ (,d ,c ,a) | ""T"",,,e1 f/ (d c a) | \
+!strumup![cdc1] d/ (c a) ,d (,c ,a) ""T""[ac,,a3/2] ,d/4 a |";italian5tab
+46;;52;Sarabanda;;;Guitar;;3;"!strumup![cdeec1] [,f,c] c | ""T""[,c,e3/2] ,,e/4 ,c ,,e1 | \
+!strumup![heeeg1] !strumdown![ifffh] !strumup![lhhhk] | \
+!strumup!""T""[ghgee2] e/ g | ,d2 ,f1 | \
+h1 !strumup![heeeg] !strumdown![heeeg] |";italian5tab
+47;;53;Sinfonia a dui;;;Guitar;;C;",,,,a/ ,,,c ,,c ,b a ,b ,,c ,,,c | \
+!strumup![,bcc3/4] i/4 ,l3/4 l/4 \
+!strumup![dfffd/] a/4 ,d a (,d ,b ,a) |";italian5tab
+48;;60;Capricio obligatto alle lettere del nome;;;Guitar;;C;"[fghg4] | b/4 a ,d f ,,c ,a ,c ,d ,,,,a ,,,,c ,,,,e ,,,a ,,,c ,,,d ,,a/ | \
+!strumup![,ccc4] |";italian5tab
+49;;61;Capricio obligatto alle lettere del nome;;;Guitar;;C;"[dddff2] [ddfed] | [geddd2] z/ f/ ""T""d ,h | \
+""T""d/ ,g ,e ,d ,e ,d ,,f ,,d | ,,f/ ,,d ,,,h ,,,f ""T"",,,e \
+!strumdown!""T""[cdc] !strumup![cdc] !strumdown![cdc] |";italian5tab

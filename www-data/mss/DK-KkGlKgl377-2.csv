@@ -1,0 +1,1464 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+;;;Faszikel 1;Fascicle 1;;;;;;
+1;;1-3;Courant;;;Guitar;;3;"V[c,,a1] | [a,,,e1] ,,,,a V[c,,a] | [a,,,e1] ,,,,a V[c,,a] | \
+[,d,,c1] a ',c/ ,a | V[,c,,a1] ,,c [,cc,a] | \
+[,abc1] [,abc] [,cc,a] | [,abc1] [,abc] [,cc,a] |";french5tab
+2;;1-4;Sonata Adagio;;;Guitar;;C;"[bd,a/] ,,,c ,,,d f [,dd,b] ,,c ',,a/4 b 'a ,d | \
+'[,d,,c/] ,,c ,,,d ,,,c [,d,d] ,,c [a,,,e] ,,c |";french5tab
+3;;1-6;Allemanda;;;Guitar;;C;"V[,d,a/] ,,c ,d b [a,,,e] f a ,,c | \
+[,d,a3/] b/4 'a3/4 ,d/4 '[,c,,a/] ,,,c ,,c ',,a | \
+,,,d/ ,,c ,d ,b ',a ,,a a ,d |";french5tab
+4;;1-7;Courant;;;Guitar;;3;",d/ | [,d,a3/4] ,,c/4 [,d,d3/4] b/4 '[a,a3/4] ,d/4 | \
+'[,c,,a3/4] a/4 ,,c3/4 ,,a/4 ,,,d3/4 ,,,c/4 | \
+,,,d3/4 ,d/4 '[,c,,a3/2] ,d/ |";french5tab
+5;;1-8;Saraband;;;Guitar;;3;"V[bd,a2] [ac,,a] [,d,a1] a | '[,c,,a2] [f,,d] [d,,c] | \
+V[bd,a2] ,,,e3/4 a/4 V[b,,a3/4] d/4 | '[a,,,a4] [,d,a2] | \
+V[bd,a2] [ac,,a] [,d,a1] a |";french5tab
+6;;1-8;Vivace;;;Guitar;;3;",,,a1 ,d ',c | V,d2 ,,c1 | ,,,a1 b 'a | Vb2 (3d/ b a) | \
+,,,a1 f ,c | [,,d1] [a,,c] [b,,a] |";french5tab
+7;;1-10;Allegro;;;Guitar;;C;",d/ ,,c a ,,c b ,,c d ,,c | \
+[f,,d/] (d/4 b) a b a ,d [,c,,a] ,d (,c ,a) ,,c/ ,,a |";french5tab
+8;;1-12;Ouverture;;;Guitar;;C;"V[bd,a3/2] b/ Vd3/2 f/ | [ff,,e3] y/4 d b a | V[b,,a3/2] ,d/ a3/2 a/ | \
+[aab3] y/4 ,a ,c ,d |";french5tab
+9;;1-14;Chaccon;;;Guitar;;3;"V[b,,a1] ,d3/4 a/4 b1 | [a,,,d1] ,,c ,a | [,d,,Vb1] ,d [a,a3/4] ,d/4 | \
+'[,c,,a3/2] ,a/ ,,c1 | V[b,,a1] ,d3/4 a/4 b1 |";french5tab
+10;;1-16;Chacconne Gallate;;;Guitar;;3;"y1 [ab,,d3/2] b/ | V[d,,,c1] X,d3/2 d/ | V[,b,,a1] X,b3/2 ,d/ | \
+'[,aa3/2] ,,c/ ,,a1 | y1 [ab,,d3/2] b/ | V[d,,,c1] X,d3/2 d/ |";french5tab
+11;;1-17;Menuet;;;Guitar;;3;"[,b,,d/] ,d a1 ,b | [,d,a/] ,b ,a ,,c ',,a1 | ,,,c1 ,,,d ,,a | \
+,,,c/ ,,,d ,,,c ,,,a ,,,,d1 |";french5tab
+12;;1-18;Passacaille;;;Guitar;;3;"[,,acd1] [,,c,a] [,aa,c] | V[b,,,a3/4] a/4 ,d/ ,b '[,aa1] | \
+[,bac1] ,b [,b,d/] ,d | '[,ba3/2] ,a/ [,ba,d1] :||: \
+[,,acd1] X,b V,d1 |";french5tab
+13;;1-19;Chacconne Galatée;;;Guitar;;3;"y1 [ab,,d3/2] b/ | [d,,,c1] X,d3/2 d/ | V[,b,,a1] X,b3/2 ,d/ | \
+'[,aa3/2] ,,c/ ,,a1 | y1 [ab,,d3/2] b/ | [d,,,c1] X,d3/2 d/ |";french5tab
+14;;1-20;Coeur de Sybille;;;Guitar;;C;"V[,bc,a3/2] ,b/ | V[,d,,c1] ,d '[,da3/2] a/ | [ab,,d2] [,da1] (,b/ ,a) | \
+[,bc1] [,d,d] '[,aa3/2] ,b/ | [,ba,d2] '[a,,,d3/2] d/ | \
+[,da1] ,d [,d,d] [a,,c] |";french5tab
+15;;1-21;Saraband;;;Guitar;;3;"V[,b,,a3/2] ,a/ ,,c1 | '[a,,,d3/2] ,d/ [,b,,a1] | \
+[,,bc1] V,,c [,a,a] | '[,a,c2] ,,c1 | X[f,,,a3] | \
+[,e,,c1] ,a V[d,a] | [c,,,a1] '[ca3/2] a/ | [aabc3] :||:";french5tab
+16;;1-22;Air;;;Guitar;;C;"[cd,a1] 'a3/4 ,d/4 | [a,,,a1] f3/4 ,c/4 V,d1 ,,b/ a | \
+'[,c,,a2] [fh,a3/2] f/ | \
+V[h,a/] f (3a/4 c d) c/ '[a,,,a3/2] ,c/ |";french5tab
+17;;1-22;Gavott;;;Guitar;;C;"[,d,a1] f | [c,,a1] V[d,a] '[a,,,a] f3/4 d/4 | \
+'[c,,a1] ,d [a,,,a] ',c | ,,,,c/ ,d ,,a a '[a,,,a3/2] ,d/ | \
+[,d,a2] :||:";french5tab
+18;;1-23;Air;;;Guitar;;C;"V[,d,a3/2] ,d/ [a,a] (b a) ,d | '[,c,,a3/2] ,c/ [,d,a1] ,d | \
+(,c/ ,b) (,,d ,,c) ',,a1 ,,,d/ ,,a | ,,c1 ,,,,a ,,,a2 |";french5tab
+19;;1-24;Chacconne;;;Guitar;;3;",,,a3/4 ,c/4 ,d/ a | [bd,a1] [a,,,d3/4] d/4 'b/ a | \
+[,dd1] ,,a3/4 ,c/4 ,d/ a | V[b,,a1] '[a,,,a3/2] ,c/4 d | \
+[,d,a1] :||:";french5tab
+20a;;1-26;Folies d'Espagne;;;Guitar;;3;"[bd,a1] [bd,a] [bd,a] | [ac,,a1] [ac,,a] [ac,,a] | \
+[bd,a1] [bd,a] [bd,a] | [ab,,d1] [ab,,d] [ab,,d] | \
+[bb,d1] [bb,d] [bb,d] | [ab,,d1] [ab,,d] [ab,,d] |";french5tab
+20b;;1-26;Duble;;;Guitar;;3;"[bd,a1] ,d b | [ac,,a1] [ac,,a] [ac,,a] | [bd,a1] ,d b | \
+[ab,,d1] [ab,,d] [ab,,d] | [bb,d1] ,b b | \
+[ab,,d1] [ab,,d] [ab,,d] |";french5tab
+20c;;1-26;2 Variatio;;;Guitar;;3;",d1 ,,,a a | ,c1 ,,,,a ,c | ,d1 ,,,a ,d | a1 ,,,,d a | \
+b1 ,,,d b | a1 ,,,,d a |";french5tab
+20d;;1-27;3 Variatio;;;Guitar;;3;"[,d,a3/4] ,c/4 ,d/ a ,d a | [,c,,a3/4] ,a/4 ,c/ ,d ,c a | \
+[,d,a3/4] ,c/4 ,d/ a ,d b |";french5tab
+20e;;1-27;4 Variatio;;;Guitar;;3;",,,a/ b ,,,a b ,,,a b | (3,,,,a/ ,c a) (3,,,,a ,c a) (3,,,,a ,c a) | \
+,,,a/ b ,,,a b ,,,a b |";french5tab
+20f;;1-28;5 Variatio;;;Guitar;;3;"[,d,a/] ,,,c ,,,a ,,,c ,,,d ,,a | [,cc/] ,,d ,,c ,,a ,,,d ,,,c | \
+[,d,a/] ,,,c ,,,a ,,,c ,,,d ,,,a | \
+[a,,,d/] ,,,a ,,,,d ,,,,b ,,,,a ,,a |";french5tab
+21;;1-29;Air;;;Guitar;;C;"[,d,a2] ',b1 ,,d | [,,cd3] ,d1 | '[,c,,a1] ,d a [b,a] | 
+'[a,,,a2] a | [,d,a2] ',c1 ,a | [,c,,a3] ,d1 | \
+[a,,,e1] b d b/ a |";french5tab
+22;;1-30;Passacaille Persee;;;Guitar;;3;"V[,b,,a3/2] ,a/ ,,c1 | [aaa3/2] ,c/ Vd a | [f,,d1] f3/2 e/ | \
+[ea,c3/4] c/4 Vd3/4 ,d/4 ',b/ ,a | V[,b,,a3/2] ,a/ ,,c1 |";french5tab
+23;;1-32;Air;;;Guitar;;C;"[,,c,a1] [aab] V[,bc,a] ',,a | ,,,d/ ,d ,,a b [ab,,d2] | \
+V[d,a1] [f,,d] V[bd,a] [ab,,d] | '[,ba3/2] ,a/ [,ba,d2] :||:";french5tab
+24;;1-33;Gig;;;Guitar;;3;"[,ba,d3/2] a/ ,b1 | Xd2 ,,a1 | ,,c1 b ,,c | ,,a1 a ,,a | \
+,,,d1 ,d ,,,d | ,,,c1 ,b ,,,c | ,,,a1 b ,a |";french5tab
+25;;1-34;Gavott;;;Guitar;;C;"[,d,,c1] | [ab,,d1] [,d,,c] [ab,,d] [cd,a] | \
+,,a/ d c a ,d a ,b ,a | ,,,,d/ a ,,,,c ,d ,,,,a ,b ,,a ,a |";french5tab
+26;;1-35;La Chasse d' Hirsch Holm;;;Guitar;;6/8;",,a/ | ,,,c/ ,,,,d ,,a ,,,c ,,,,d ,,a | \
+,,,c/ ,,,,d ,,a ,,,c ,,,,d ,,a | \
+[,ba,d/] ,d a [,d,d] a ,b |";french5tab
+27;;1-36;Bouree;;;Guitar;;C;",b1 | [d,,c2] '[a,,,d] | [,d,,c/] ,b ,d a ,d1 [ab,,d] | \
+[b,,a1] [a,,,d] [,d,,c] d | [a,,,d/] ,d a b a b ,,,c d |";french5tab
+28;;1-37;Menuet;;;Guitar;;3;"[,,acd1] ,,a/ ,,a ,,a ,,a | ,,,c1 ,,,,d ,,a | ,,,c1 ,,,,d ,,a | \
+,,,c1 ,,,,d ,,a | X[,ba,d2] ,d1 | [a,,,d1] X,b ,d |";french5tab
+29;;1-38;La Chasse d' Jägers Borg;;;Guitar;;3/8;",,,,d/ | X,,,,d1 ,,,c/ | X,,,c1 ,,a/ | [,,a,d1] ,,,c/ | \
+,,,c/ ,,,,d ,,a | [,,a,d1] ,,,c/ | ,,,c/ ,,,,d ,b | \
+[,ba,d1] ,,a/ | ,,a/ ,,c a |";french5tab
+30;;1-39;Bouree;;;Guitar;;C;"[,b,,d1] | d1 ,b b ,,a | '[a,,,d3/2] ,d/ ,b1 d | \
+b1 a [,d,d] ,b | [,aa1] ,,c/ ,a ',,a2 | ,,a1 ,a ,d b |";french5tab
+31;;1-40;Menuet;;;Guitar;;3;"[,b,,d1] ,,,,d/ ,,,,d ,,,,d ,,,,d | ,,,,d1 ,,,c ,,a | \
+[,ba,d1] ,b/ ,b ,b ,b | X[,ba,d3] | [a,,,d/] b d1 b |";french5tab
+32;;1-41;Menuet;;;Guitar;;3/4;"[ab,,d1] d/ b a ,d | a1 ,b ,,a | ,,,c1 ,,,d/ ,,,c ,,,a ,,,c | \
+,,,,d/ ,,,,c ,,,,d ,,,a ,,,,d1 |";french5tab
+33;;1-42;Chaccone;;;Guitar;;3;"V[,bc,a1] (3,a/ ,b ,d) a1 | '[,aa3/2] ,a/ V[,b,c1] | \
+[,,cd1] ,,c ,d | [,b,a/] ,a '[,a,c3/2] ,a/ | \
+V[,bc,a1] (3,a/ ,b ,d) a1 |";french5tab
+34;;1-44;Prelude en Tempo di Corente;;;Guitar;;3/4;"[,,c,a/] ,,,c ,,c ,b ,,c ,b | [,ab,c/] ,,b ,,,c ,,b ,a ,d | \
+V[,bc,a/] ,a ,,c ,a ,b ,d |";french5tab
+35;;1-45;Menuet;;;Guitar;;3/4;"[,,c,a1] ,,,c ,,c | X[,,c,a1] ,,c/ ,a ,b ,d | \
+[,a,c1] ,a/ ,a ,a ,a | [,abc2] a1 | V[,b,,a1] ,,c/ ,a ,b ,d |";french5tab
+36;;1-46;Chaccon;;;Guitar;;3/4;"[,bcd1] Vb 'a/ b | V[d,,c1] X,b ,d/ a | V[b,,a1] 'a ,d | \
+[a,,,d1] b/ a ,d ,b | [,bcd1] Vb 'a/ b |";french5tab
+37;;1-48;Menuet;;;Guitar;;3/4;",,,d1 ,b b | '[a,,,d2] [,dd1] | [,b,,a1] b ,,d | \
+[,,cd/] ,,a ,,c ,,d ,,c1 | ,,,d1 b/ a b1 | \
+[,d,,c1] d/ b [d,a1] |";french5tab
+38;;1-49;Allemanda;;;Guitar;;C;"y/4 ,c ,d a | [,dca1] ,,,a/4 ,,d ,,c ,,a ,,,d ,,,a ,,a ,,,c ,,d ,,,c ,a ,,a | \
+,c/4 ,,,c ,d ,,,d";french5tab
+39;;1-50;Menuet;;;Guitar;;3/4;",,c1 | [,dca1] ,d/ a b ,d | [ac,,a1] f ,,c | [,dca1] ,d/ a b ,d | \
+[ac,,a1] f ,,c | [,dd1] d/ b a ,d |";french5tab
+40;;1-50;Prelud;;;Guitar;;C;"a/ [f,,,a] d 'b a ,,,a b ,,,,d a ,,,,c ,d ,,,,a (,b ,a) \
+,,c ',,b3/2 ',,c/ X[,,c,a3] ||";french5tab
+41;;1-51;Menuet;;;Guitar;;3/4;",,,,a/ ,,c ,,,,d a ,,,a b | '[a,,,d2] a1 | ,,,,c/ ,d ,,,,a ,b ,,,c ,a | \
+V[,b,,a1] ,,c/ ,a ,b ,d | [a,,,a1] Xf2 |";french5tab
+42;;1-52;Sonata;;;Guitar;;C;",,c/ | V[,d,a/] [a,,,a] [b,,a] [d,,c] [f,,d] [b,,a] ,,a [f,,d] | \
+[d,,c/] V[b,,a] [a,a/4] b ,d a '[,d,,a/] ,,c ,,,,a ,,c |";french5tab
+43;;1-54;Allegro;;;Guitar;;C;",,c/ | V[,d,a/] ,d X,d ,d a ,,c a ,,c | \
+V[b,,a/] ,,c Xb a/4 ,d a/ ,,c ,,,,a ,,c |";french5tab
+44;;1-56;Sonata;;;Guitar;;C;"(3c/4 e f) e c a ,d ',c ,a ,,c ,,,,a ,,,,a ,c ',a ,,,c ,,,c ,a | \
+[,cc,a/] ,,b/4 ,,,e ,,,c ,c ,d";french5tab
+45;;1-58;Bouree;;;Guitar;;C;"a1 | [a,,,a1] c [c,,a] a | [a,,,a1] ,c ,,,,a f | \
+[e,,c1] e/ c a c a ,d | '[,d,,a1] ,a/ ,c ,,c1 a |";french5tab
+46;;1-58;Saraband;;;Guitar;;3;"[,,c,a/] ,,,,c [a,,,e] ,,,,c [a,,,e] ,,,,a | \
+[,d,,c/] a ,d ,c [,a,c] ,d | [,c,,a/] a ,d ,c [,a,a] ,c |";french5tab
+47;;1-60;Gig;;;Guitar;;6/8;"a/ | ,d/ ,,,c ,c ',a3/4 ,c/4 ,d/ | ,c/ ,,,,a ,a ,,c ,,,,a [,a,c] | \
+,c/ ,,,,a [,d,,c] a3/4 ,d/4 [,c,,a/] |";french5tab
+48;;1-61;Menuet;;;Guitar;;3;"X[,,c,a1] ,,,c ,,c | ,,c/ ,,b ,,c ,a ,c ,,c | \
+[,a,c1] ,,,c ,a | ,a3/4 ,,c/4 ,a/ ,c ,d ,a | [,c,,a1] ,,,c ,c |";french5tab
+49;;1-62;Ouverture;;;Guitar;;C;"[,dca2] ,,,a/ ,,,e ,,,c ,,,a | X[,,c,a2] [,,c,a/] ,,c ,a ,c | \
+V,d3/2 ,d/ [,db,c3/2] a/ | '[,c,,a/] ,,,c ,,,e ,,a ,,c a a c |";french5tab
+50;;1-64;Allemanda;;;Guitar;;C;",d/ | [,dca1] ,,,a/4 ,d 'c a X[,,c,a3/4] ,a/4 ,,c3/4 ,,a/4 | \
+X,,,e1 ,,,a/4 a c d [f,,,a/] d/4 c 'a3/4 ,d/4 |";french5tab
+51;;1-65;Courant;;;Guitar;;3/4;",d1 | [,dca3/2] a/ Vc1 (3a/ c d) '[a,,,a3/2] c/ | \
+'[c,,a3/2] a/ ,d1 [c,,a] Vd ,,,,a/ f | \
+[h,a3/2] f/ (3a/ c d) c1[a,b3/2] a/ |";french5tab
+52;;1-66;Saraband;;;Guitar;;3/4;"[,dca1] '[a,,,a3/2] a/ | V[c,,a/] a X,d2 | \
+(3[c,,a/] e f) [e,,c3/2] (c/4 e) | V[f,,,a1] X[f,,,a2] | \
+[ac,,a1] [aab3/2] a/ | [ac,,a1] [ac,,a2] |";french5tab
+53;;1-56;Gavott;;;Guitar;;C;",,,a/ ,d ,,,,e a | ,,,a/ c 'a ,d '[,c,,a3/2] ,d/ | \
+[ac,,a1] X,,c ,,,e/ ,d ,,,c ,c | \
+,,,a/ ,a ,,,,e ,,c '[,,bc3/2] ,,c/ |";french5tab
+54;;1-68;Gig;;;Guitar;;6/8;"[,dca1] ,d/ [ac,,a1] a/ | '[c,,a3/4] a/4 ,d/ ',c3/4 ,a/4 ,,c/ | \
+X[,d,a1] ,d/ a c d | '[c,,a1] ,d/ [c,,a1] ,,c/ |";french5tab
+55;;1-70;Sonata;;;Guitar;;C;"[ab,,a/] ,,,,c V,,,,d (,d/4 ,b) [,abc/] ,,,e ,,b a/4 ,,b | \
+[,,cd/] ,,c/4 (,a/8 ,b) '[,a,a3/4] ,,c/4 \
+[,,bc/] ,,,e [aab] ,,,c/4 ,a |";french5tab
+56;;1-72;Allemanda;;;Guitar;;C;",,c/ | [,,c,a/] a ',b3/4 ,a/4 V[,b,,a/] ,,c ,,,,a b | \
+[,d,d/] a/4 b [a,,,d/] f X[e,,c/] a ,,,,d/4 a f a |";french5tab
+57;;1-74;Courant;;;Guitar;;3/4;"a/ | [aab3/2] ,d/ ',b3/4 ,a/4 | V[,b,,a3/4] ,,c/4 ,a3/4 ,b/4 ',a3/4 ,,c/4 | \
+[,,bc3/4] ,,,a/4 ,,,,d3/4 ,,c/4 ,a3/4 ,b/4 |";french5tab
+58;;1-76;Gavott;;;Guitar;;C;"[a,,,a1] [f,,,d] f [d,,c] | [,b,,a1] [b,,a] [b,a] [a,,,d] | \
+[,,cd1] [,d,,c] [,d,c] [,b,,a/] ,a | [,a,c2] [,,c,a] :||: \
+,,,,a/ a ,a a ,,,,a a ,a a |";french5tab
+59;;1-77;Gig;;;Guitar;;6/8;"a/ | [,b,,a/] a ,,c [,,bc] a f | [e,,c1] ,,,a/ ,,,,d1 f/ | \
+[d,,a/] f a [,da] d ,d | [a,,,d1] ,,,a/ V,,,c1 b/ |";french5tab
+60;;1-78;Sonata adagio;;;Guitar;;C;"[f,,a/] ,,c/4 ,,a ,,,e/ f [,d,e] ,,,c V,,,e f | \
+V[h,a3/4] f/4 (a/4 c d) c [acc/] ,,,,a V,,,,c a |";french5tab
+61;;1-78;Allemanda allegro;;;Guitar;;C;",d/ | [,dca/] ,,,c V,,,e/4 c 'a ,d f ,,c ,a ,c ,d c 'a ,d | \
+'[,c,,a3/4] ,a/4 ,,c/ ,d/4 ,c";french5tab
+62;;1-80;Courant;;;Guitar;;3;",d/ | [,d,a3/4] ,,c/4 ,d3/4 c/4 'a3/4 ,d/4 | \
+[a,,,a3/4] ,,c/4 a3/4 d/4 'c3/4 a/4 | \
+[c,,a3/4] f/4 ,a3/4 f/4 '[d,a3/4] c/4 |";french5tab
+63;;1-82;Saraband;;;Guitar;;3;"[,d,a/] c d '[d,,a3/2] d/ | [f,,,e2] ,,c1 | [,d,,Vc3/2] a/ [aac] ,d | \
+'[,c,,a3/2] ,a/ ,,c1 | [f,,,a/] a [ac,,a1] (3a/ c d) |";french5tab
+64;;1-83;Gavott;;;Guitar;;C;"[,d,a1] f [f,,a] c | [c,a1] h h a | a1 f f d/ c | \
+'[a,,,a3/2] ,d/ [,d,a2] :||: [a,c1] [a,,,a] [c,,a] [a,,,e] |";french5tab
+65;;1-84;Ouverture;;;Guitar;;C;"X[f,,,a3/2] a/ [aab] ,d ',b ,a | V[,bc,a3/2] ,,d/ ',,c ,,a ,,,d ,,,c | \
+V[bd,a3/2] a/ ,d ,b ',a ,,c |";french5tab
+66;;1-86;Air;;;Guitar;;3;"[abc1] '[,b,,a] ,,c | V[b,,a3/4] ,,,c/4 ',,,a/ ,,,,d ',,,,c ,,,,a | \
+[,db/] a '[,b,,a3/2] ,a/ | \
+[,a,c3/4] ,,,d/4 ',,,c/ ,,,a ,,,,d ,,,,c |";french5tab
+67;;1-87;Bouree;;;Guitar;;C;"f1 | [aab1] ,d ',b ,a | V[,b,,a1] ,a/ ,b ,,c1 a | \
+([b,,a/] a) (,d ,b) '[,aa1] (3a/ b d) |";french5tab
+68;;1-88;Menuet;;;Guitar;;3;",,,,a/ ,b a ,n ,,,a b | ,,,,c/ ,,a ,d ,,a ,,,,c a | \
+,,,,a/ ,b (,d ,b) ,a ,,c |";french5tab
+69;;1-89;Gig;;;Guitar;;3/8;"a/ | [,,c,a/] ,a ,b | [,ab/] ,a/4 ,b ,d/ | [,b,,a/] ,d a | \
+[,d,,c/] ,d/4 a b/ | [a,,,d/] ,b d |";french5tab
+70a;;1-90;Aria;;;Guitar;;C;",a1 | [aa,c2] [cab] | [da,c2] [cd,a] | [ab,,d2] [ab,,d1] ,,,,c | \
+,,,,a1 (3a/ c d) 'd1 a | ,,,,c1 ,e ,,,,c ',,,,a |";french5tab
+70b;;1-91;Double;;;Guitar;;C;"a1 | ,,,c/ a ,a a ,,,b c ,a c | ,,,c/ d ,a d ,,,a c ,d c | \
+,,,,d/ ,b a ,b ,,,,d a ,,,,c a |";french5tab
+71a;;1-92;Aria;;;Guitar;;C;"(3a/ c d) | [daa3/2] d/ '[c,,a3/2] d/ | 'c1 a [aXb,,d3/2] a/ | \
+[,d,,c3/2] a/ V,b1 ,b | [,bc,a1] ,d '[,aa3/2] ,c/ |";french5tab
+71b;;1-93;Double;;;Guitar;;C;"d/ | ,,a/ d ,a d ,,a d | ,,,a/ d c d 'a1 | \
+,,,,d/ a ,b a ,,a a |";french5tab
+72;;1-93;Bouree;;;Guitar;;C;",,a/ ,,c | [,aa1] ,a ',a ,,c/ ,,a | [,d,,c1] ,d ,d a/ c | \
+[d,,c1] c [a,,,a] f/ d | [c,,a1] ,d ,d :||:";french5tab
+;;;Faszikel 2;Fascicle 2;;;;;;
+73;;2-1;Sonata adagio;;;Guitar;;3/2;"[,ba,d3/2] ,d/ (3a1 b d) V,b3/2 ,d/ | '[,aa2] ',,c ,,,c1 ,b | \
+[,d,,c3/2] ,b/ [,da3/2] a/ b3/2 d/ | \
+[ab,,d3/2] ,,,a/ ,,,c1 ,,,d [,da3/2] ,,,d/ |";french5tab
+74;;2-3;Allemanda Cantabile;;;Guitar;;C;",,a/ | V[,b,,a/] d '[a,a] (,d/4 ,b) [,ba,d/] ,,,a ,,,c (d | \
+[f,,d/]) ,,a/4 d (b a) (,d ,b) '[,aa3/4] ,,c/4 ,,a/ ,b/4 ,a |";french5tab
+75;;2-5;Gavott: un poco Allegro;;;Guitar;;C;",,,,d/ ,b ,,,,c ,d | ,,,,a/ a ,,a d ,,,c ,b ,,,d ,d | \
+,,a/ ,c (,,c ,,a) ,,,c ,b ,,a ,d |";french5tab
+76;;2-7;Aria: Adagio;;;Guitar;;3/2;"(3a1 b d) [ab,,d2] [f,,d] | [db,c2] (b1 a) [,d,d] ,b | \
+'[,aa4] [,bc,a2] | [,da,c2] ,,a X[b,a] | [ab,,d2] Xf ,,,d |";french5tab
+77;;2-9;Gig;;;Guitar;;6/8;"d/ | [ab,,d3/4] b/4 d/ ,b ,,,,a ,d | ,,a/ ,a ,,,d ,,a ,,,c ,b | \
+[,,cd3/4] ,a/4 ,b/ ,,,a b [a,,,d] |";french5tab
+78;;2-11;Menuet;;;Guitar;;3/4;",b/ ,,a ,,,c ,,a ,,,,d1 | [,ba,d1] ,b [,ba,d] | \
+[,d,a/] ,b ,d a b d | 'a1 ,d/ a ,b1 |";french5tab
+79;;2-11;Menuet;;;Guitar;;3/4;"[,b,,d/] ,d a1 d | ,d/ d ,d ,a ,,a1 | [,d,,c/] a b1 d | \
+[a,,,d/] ,b ,,a ,,,c ,,,,d1 |";french5tab
+80;;2-12;Menuet;;;Guitar;;3/4;",,,,d/ ,,,a ,,,c ,,,d ,,a1 | [,b,,d1] a d | \
+[,,cd1] [b,,a] [a,,,d] | ,d/ ,b ,a ,,c ,,a1 | [,b,c1] d ,,a |";french5tab
+81;;2-13;Vivace;;;Guitar;;2/4;",a1 ,,a | [,d,e1] ,d/ ,b | '[,aa1] ,,c/ ,,a | ,,,e3/2 ,,a/ | \
+,,c/ ,,,a ,,a ,,,a | ,,c/ ,,,a ,a ,,,a | V[,bc,a1] [,aa] |";french5tab
+82;;2-14;Menuet;;;Guitar;;3/4;"[daa3/4] d/4 d/ d ,,a d | '[c,,a3/2] a/ ,d1 | \
+[ab,,d1] ,d/ a ,b ,d | ',a3/2 ,,c/ ,,a1 | \
+[f,,,a1] a (3a/ c d) |";french5tab
+83;;2-15;Aria;;;Guitar;;3/4;"[ab,,d1] [,b,c] '[,aa] | V[,ba,d1] a/ ,b d1 | ,,,,d/ a ,,,c ,b ,,a ,a | \
+V[,ba,d1] a/ ,b d1 | [ab,,d1] [,b,c] '[,aa] |";french5tab
+84;;2-15;Gig;;;Guitar;;6/8;"[,,c,a3/4] ,a/4 ,b/ ',a1 ,,c/ | ,,b/ ,a a X,,,c1 a/ | \
+[f,,,a1] d/ '[b,,a1] a/ | [,d,,c3/4] a/4 b/ [ab,,d3/2] |";french5tab
+85;;2-16;Menuet;;;Guitar;;3/4;"[a,,,a/] ,d ,b ,a ,,c1 | ,,,a1 Vb [a,,,d] | \
+,,,,c/ ,d a ,d ,b ,a | V[,b,,a1] ,a/ ,b ,,c1 |";french5tab
+86;;2-17;Menuet;;;Guitar;;3/4;"[c,,a1] a/ ,d f1 | [,c,,a1] ,a/ ,,c f1 | (3a/ c d) ,a1 a | \
+'[,c,,a3/2] ,a/ ,,c1 | ,,a/ ,a ,,a ,a ,,,e ,,c |";french5tab
+87;;2-17;Sonata Vivace;;;Guitar;;C;"[,d,d/] ,,,a/4 ,,,c V,,,d/ ,,c (3,,,a/4 ,,,c ,,,d) ,,,c ,,,d ,,,a ,,,c ,,,d ,,a | \
+[,,cd/] ,d [a,a] V,b/4 ,,d";french5tab
+88;;2-19;Allemand;;;Guitar;;C;",,c/ | [,d,a/] ,d/4 ,c [,d,d] b '[b,a] ,d '[,c,,a/] ,,c/4 ,,a (3,,,a/4 ,,,c ,,,d) ,,,c/ | \
+,,,d/ ,d ,,,c ',c";french5tab
+89;;2-21;Courant;;;Guitar;;3/4;"K:french5tab
+,d/ | [,d,a/] ,,,a ,,,d ,,c ,,,d (,,,c/4 ,,,a) | \
+,,,c/ ,,,d ,,a ,,c ,,,d ,,,c | ,,,d/ ,,,a ,,,d ,,c ,d ,b/4 ,d |";french5tab
+90;;2-23;Gig;;;Guitar;;6/8;",,c/ | [,d,a3/4] a/4 b/ [a,a3/4] b/4 ,d/ | \
+'[,c,,a3/4] ,d/4 a/ [,,c,a1] ,d/ | \
+(3,,a/ ,,c ,,d) [,,c,a] ',,a3/4 ,,,d/4 ,,a/ |";french5tab
+91;;2-25;Aria en Menuet;;;Guitar;;3/8;"a/ [,,c,a] [,a,c] | [,c,,a/4] ,a ,,c ,a V,c/ | \
+[,d,a/] ',c [,a,c] | [,c,,a/4] ,a ,,c ,a V,c/ | \
+[,d,a/] ',c [,a,c] |";french5tab
+92;;2-25;Fantasia en Menuet;;;Guitar;;3/4;",,,,a/ ,,c ,,,,a ,,c ,,,,a ,,c | ,,,c/ ,,b ,,c ,a X,,,c1 | \
+,,,,c/ ,a ,,,,c ,a ,,,,c ,a |";french5tab
+93;;2-27;Ouverture;;;Guitar;;C;"[daa2] X,b3/2 ,d/ | '[,aa1] (,,c/ ,,a) '[a,,,d3/2] b/ | \
+[,da,c3/2] [,da/] [db,c3/2] [f,,,d/] | [bd,a3/2] [a,,,d/] [b,,,c1] [d,a] | \
+'[a,,,d2] (3a/ b d) ,d1 |";french5tab
+94;;2-28;Bouree;;;Guitar;;C;"(3a/ b d) | [ab,,d1] ,b ,b a | [,da/] ,b ,a ,,c ,,a1 [,b,c] | \
+[,d,d1] [a,,c] [b,,a] [d,a] | [a,,,d/] b a ,d Xb1 [d,,,c] |";french5tab
+95;;2-29;Menuet;;;Guitar;;3/4;"(3a/ b d) '[b,,a2] | [a,,,d/] b a ,d X,b1 | \
+[,b,c1] ,d [a,,,d] | [,da/] ,b ,a ,,c ',,a1 | \
+[,d,,c1] d ,,,,d |";french5tab
+96;;2-29;Marsch;;;Guitar;;C;",,a1 | V,b1 ,b/ ,b [,ba,d1] ,b | ,b/ ,,a ,,,c ,,a ,,,,d1 ,b/ ,d | \
+[a,,,d/] ,d a b [a,,c] b [d,,d] b |";french5tab
+97;;2-31;Vivace;;;Guitar;;3/4;",d/ ,,c ,d c 'a ,d | a/ ,,,,a ,,,,e ,,,c ,,c ,,,c | \
+[a,,,e/] ,,c a d 'c a |";french5tab
+98;;3-32;Menuet;;;Guitar;;3/4;",,,e/ ,,c ,,,c ,,c ,,,a ,,c | ,,,e/ ,,c ,,,c ,,c ,,,a ,,c | \
+,,,a/ ,,,e ,,c1 ,d/ a |";french5tab
+99;;2-33;Saraband;;;Guitar;;3/4;"[ab,,d1] [ab,,d] [ab,,d] | '[,aa3/2] ,b/ [,bcc1] | \
+[,bcd1] [,bcd] [,bac] | '[,aa3/2] ,b/ [,ba,d1] :||:";french5tab
+100;;2-35;Gavott;;;Guitar;;C;"(3a/ b d) | '[a,,,d3/2] ,d/ ,b1 a | [,d,,c/] ,b ,a ,,c ,,a1 ,,c/ ,b | \
+,,a/ ,b ,,,d ,b ,,,c a b d |";french5tab
+101;;2-36;Saraband;;;Guitar;;3/4;"[f,,a3/2] f/ [a,,,e1] | V[b,,a3/2] b/ [,c,,a1] | \
+[,d,,Vb1] ,d [a,a] | '[,c,,a2] ,,c1 | [f,,d3/2] f/ [a,,,e1] |";french5tab
+102;;2-37;Gavott;;;Guitar;;C;"[abc1] f | [ea,c1] a V[,bc,a] [,d,d] | [aa,c2] ,,,a/ b ,,,,d a | \
+,,,,c/ ,d ,,,,a ,b ,,,c ,a ,,,c a |";french5tab
+103;;2-38;Allemanda;;;Guitar;;C;"[,ba,d1] ,,,,d/ ,b [d,,,c] b '[a,a] ,d | [ab,,d1] ,d/ ,b ,,,,d a b d | \
+[,b,d1] [,d,a/] [a,,,d] [,d,d1] ,,,e/ ,b |";french5tab
+104;;2-39;Courant;;;Guitar;;3/4;",b1 | [,ba,d3/2] ,d/ a ,b | [d,,c1] '[b,,a3/2] a/ | \
+[ab,,d3/2] a/ b d | [,b,d/] a ,d (b/4 a) [,d,e/] ,b |";french5tab
+105;;2-40;Sarabanda;;;Guitar;;3/4;"[,ba,d1] [ab,,d3/2] (,d/4 ,b) | [,d,,c1] (a/ b d) ,b | \
+[,bcd1] V[b,,a] [a,,,d/] ,d | '[,da3/2] ,b/ [,ba,d1] | \
+[,ba,d1] [ab,,d3/2] (,d/4 ,b) |";french5tab
+106;;2-41;Gavott;;;Guitar;;2/4;"[,ba,d1] '[,aa3/4] ,b/4 | (3a/ b d) [,,ac1] | \
+[,,cd3/4] ,,,c/4 ,,,a/ a | [,ba,d2] | \
+[a,,,d/] (,d/4 ,b) (3,b/ ,d a) |";french5tab
+107;;2-41;Gig;;;Guitar;;3/8;"[,ba,d1] [d,,,c/] | '[a,,,d1] [,ba/] | [a,,,d/] [,d,,c] [,b,,a] | \
+(3,a/ ,b ,d) ,,a/ | [,,cd1] [,,ac/] | ,,,a/ ,,,d [,,,cd] |";french5tab
+108;;2-43;Allemanda;;;Guitar;;C;",b/ | [,bcd/] ,,a ,,,,a b/4 ,b [,dd,b/] [,bc,a] (3,,a/4 ,,c ,,d) ,b ,,d | \
+[,,cd/] ,,a V,,c V,,b [,dd/4] ,b ,d a";french5tab
+109;;2-44;Saraband;;;Guitar;;3/4;"[f,,d/] ,,,c ,,,d ,,a V,,c f | 'd/ ,,,a ,,,,d ,,,,b ,,,,a ,b | \
+,,,a/ ,,,,d ,,,,b ,,,,a ,,a f |";french5tab
+110;;2-45;Gavott: Vivace;;;Guitar;;2/4;",b/ | Vb/ ,b ,,,d f | [d,,c/] ,b ,,,,d d | V[b,,a/] ,d ,,d d | \
+[a,,,d/] ,b ,,,c a | Vb/ ,b ,,c f |";french5tab
+111;;2-46;Gig;;;Guitar;;12/8;"b/ ,b ,,c X,,,d1 b/ d a ,b ,,,c1 d/ | \
+f/ b ,b X,,,d1 f/ 'd3/2 X,b |";french5tab
+112;;2-47;Allemanda;;;Guitar;;C;",d/ | [,dca/] (f/4 d) c c '[a,a] ,d [,cc] a ,,c ,,a ,,,e ,,c ,d ,c | \
+[,aa/4] (,a/8 ,c ,d/) '[,,a,a3/4] ,,,e/4";french5tab
+113;;2-48;Courant;;;Guitar;;3/4;",,c/ ,a ,c | ,,,,a/ ,d ,,,a c 'a ,d | ,,,,e/ a ,,c a c a | \
+,,,,c/ ,d ,,a ,a 'a ,d |";french5tab
+114;;2-49;Saraband;;;Guitar;;3/4;"[,,ca3/2] ,,c/4 (,a ,c ,d) (a c) | '[,c,,a3/2] ,a/ ,,c1 | \
+,,a/ ,a '[,,c,a3/2] ,,a/ | X,,,e3/2 ,,,c/ ,,,a1 |";french5tab
+115;;2-49;Gavott;;;Guitar;;C;",,,a/ ,,c ,d ,,c ,,,,a ,c a ,c | ,,,a/ ,,c c d '[a,,,a1] ,,c | \
+,,,e/ ,,c ,d ,,c [,aa] ,,c ,,a ,,,e |";french5tab
+116;;2-50;Bouree;;;Guitar;;C;",,c/ ,,a | ,,,e1 ,,,e/ ,,c ,,,a1 ,d/ a | \
+[c,,a1] ,,,,c/ ,d [a,,,e1] ,,c/ ,,a | \
+,,,e1 ,,,e/ ,,c ,,,a1 ,d/ a |";french5tab
+117;;2-51;Menuet;;;Guitar;;3/4;"[,dca1] ,,c ,,c | [a,,,e1] ,,c ,,c | ,,,a/ c ,,,,e a ,,,,c ,d | \
+[,c,,a1] (,a/ ,c) ,,c1 | [,aa1] ,,c [,,ac] |";french5tab
+118;;2-52;Aria;;;Guitar;;3/4;"[,,cca1] ,,,c ',,b | ,,c/ ,a [,ab1] ,,,c | \
+[,b,,a/] ,d [,d,,c1] ,,a | [ab,,d1] (,d/ ,b) ,a ,,c | \
+V[b,,a1] '[,da2] |";french5tab
+119;;2-53;Menuet;;;Guitar;;3/4;"V[,bc,a3/2] ,a/ ,b1 | '[,a,a3/2] ,b/ ,,c1 | [a,cc1] ,,c ,,b | \
+([,,c,a/] ,,b) ,,c ,a ,,c1 | V[,bc,a3/2] ,a/ ,b1 |";french5tab
+120;;2-53;Gig;;;Guitar;;6/8;",,c/4 ,a | ([,b,,a/] ,d) a ,,c1 a/ | ,,b1 a/ ,,,c1 a/ | \
+([,b,,a/] ,d) ,b '[,a,a1] ,,c/ | (,,b/ ,,c) ,a ,,,c1 ,a/ |";french5tab
+121;;2-54;Menuet;;;Guitar;;3/4;"[ab,,a1] a/ ,d (,b ,a) | [,bc,a1] ,,c ',,b | \
+,,,,d/ ,,c ,,,,a ,a ,,,c ,,b | [,,c,a/] ,,b ,,c ,a ,,c1 |";french5tab
+122;;2-55;Courant;;;Guitar;;3/4;",,c/ ,a ,c | V,d1 ,,,a3/4 b/4 'a/ ,d | [ac1] ,,,,a3/4 f/4 d/ f | \
+',d1 ,,,,b3/4 ,d/4 a/ ,d |";french5tab
+123;;2-56;Rondeau;;;Guitar;;3/4;"(f/ d) (b a) | X,d1 ,,,a [a,,,e] | [bd,a1] ,,,a [d,,c] | \
+[f,,d1] (d/ b) [a,a] ,d | '[,cc,a1] (f/ d) (b a) |";french5tab
+124;;2-57;Menuet;;;Guitar;;3/4;"[,dca1] ,,,d '[,c,,a] | V[,d,a2] ,,c1 | [,,d,a1] [,,cd] [,,ac] | \
+[,,cd2] ,,c1 | [,,ac1] ,,,d ,,,c | ,,,d1 ,,,c/ ,,,d ,,,a1 | \
+[a,a1] ,,c '[,c,,a] |";french5tab
+125;;2-57;Menuet;;;Guitar;;3/4;"[,dca1] ,,c ,,c | [a,,,e1] ,,c ,,c | ,,,a/ b ,,,,d a ,,,,b ,d | \
+[,c,,a1] (,a/ ,c) ,,c1 | ,,d/ ,d ,,c ,b ,,a ,,d |";french5tab
+126;;2-58;Bourèe;;;Guitar;;C;",d/ ,c | [,dca1] f/ d [f,,d1] [d,,c] | '[b,,a1] a/ b ,d1 [f,,d] | \
+[f,a1] (d/ b) [a,a] b a ,d |";french5tab
+127;;2-59;Gig;;;Guitar;;6/8;",,c/ | [,dca1] a/ (b a) ,d | [f,,,e1] a/ ,,c1 a/ | \
+b/ d b [a,a] b ,d | [,c,,a/] ,d a ,,c1 a/ |";french5tab
+128;;2-60;Allemanda;;;Guitar;;C;",,c/ | [,d,a/] ,,c ,,,d ,,c [,d,d] b '[a,a] ,d | \
+,,,,a/ ,c a ,c ,,,,a ,,c ,,,,e a |";french5tab
+129;;2-61;Courant;;;Guitar;;3/4;",d1 | [,dca1] ,,,a/ f d f | 'b1 ,,,a/ b [a,a] ,d | \
+'[,c,,a/] ,a ,,c ,,a ,,,d ,d | ,,a/ a '[a,,,a3/2] ,d/ |";french5tab
+130;;2-62;Saraband;;;Guitar;;3/4;"[,dca3/2] a/ [b,,a1] | '[a,,,a2] ,,c1 | ,,,,b/ ,d ,,,,a ,b ,,a ,,d | \
+'[,,a,d3/2] ,,,d/ ,,,d1 | [f,,d/] d d b '[b,,a] a |";french5tab
+131;;2-63;Menuet;;;Guitar;;3/4;"[,dca1] ,,c ,,c | ,,,d1 ,,,c/ ,,,d ,,,a1 | [,d,,b/] ,c ,d b [a,a] ,d | \
+[a,,,a1] ,,c ,,c | ,,,,b/ ,d ,,,,a ,b ,,a ,,d |";french5tab
+132;;2-64;Gig;;;Guitar;;6/8;",c/ | [,d,a/] ,,c ,d ,d ,,c ,d | [a,,,e/] ,,c a a ,,c a | \
+[c,,a/] d c [a,b] c ,d |";french5tab
+133;;2-65;Preludio;;;Guitar;;C;"[,bc,a1] [,bc,a] [,bc,a] [,bc,a] [,abc] [,abc] [,abc] [,abc] \
+[,bc,a] [,bc,a] [,bc,a] [,bc,a] [,db,c] [,db,c] [,dbc] [,db,c] \
+[,b,,a/4] ,a ,,c ,a";french5tab
+134;;2-65;Aria;;;Guitar;;C;"[,,c,a1] 'a/ ,d V[,bc,a1] [,abc] | [,bc,a1] [,da,c] [ab,,d] ,,c | \
+,,,a/ b ,,,,d a ,,,,c ,d ,,,,a ,b | \
+'[,a,c3/2] ,,c/4 ,a ,,c1 ,,,,a :||:";french5tab
+135;;2-66;Aria;;;Guitar;;C;"[,dca1] ,,,c [,d,e] [,d,a] | [ac,,a1] [cd,a] '[a,,,a] ,,c | \
+,,,a/ c ,,,c d ,,,e f ,,a a | '[a,,,a3/2] ,c/ V,d1 ,,,a :||:";french5tab
+136;;2-66;Menuet;;;Guitar;;3/4;",,,e1 ,,,e/ ,,a ,,,e ,,a | ,,c1 ,,,a [,d,,c] | \
+[a,,,e1] ,,c [c,,a] | [a,,,a/] ,d ,c ,a ,,c ,,a | \
+,,,e1 ,,,e/ ,,a ,,,e ,,a |";french5tab
+137;;2-67;Allemanda;;;Guitar;;C;",b/ | [,ba,d1] z/4 d b d a d ,b a ,,a ,b ,,,c ,,a | \
+,,,,d/ V,b [,da,c/4] a b d [ab/] ,,,,d a b/4 a |";french5tab
+138;;2-68;Courant;;;Guitar;;3/4;",b/ | [,ba,d3/2] d/ [b,,a] d | [a,,,d/] d ,b a [,,a,c] ,b | \
+,,,d/ ,b '[,ba3/2] ,a/ | [,ba1] ,,,,d [,da,c] |";french5tab
+139;;2-69;Saraband;;;Guitar;;3/4;"[ab,,d3/2] ,d/ ,b1 | [d,,,c1] ,,a [,b,,a] | \
+,,,d/ ,,c ,,a ,a ,,c ,b | [,da/] ,b ,a ,,c ,,a1 | \
+[ab,,d3/2] ,d/ ,b1 |";french5tab
+140;;2-69;Bouree;;;Guitar;;C;"(,b/ ,d) | [ab,,d1] ,,,a/ b [d,,c1] ,b | [ab,,d1] ,,,a/ b [d,,c1] ,b | \
+,,,d/ f ,,,c d ,,,a b ,,,,d a |";french5tab
+141;;2-70;Menuet;;;Guitar;;3/4;"[,ba,d1] ,,a/ ,,a ,,a ,,a | [,d,,c1] ,,a/ ,,a ,,a ,,a | \
+[d,,c1] b/ a [,d,d] ,b | '[,aa1] ,,c/ ,a ,,a1 |";french5tab
+142;;2-71;Allemanda;;;Guitar;;C;",b/ | [,ba,d/4] ,b ,a ,,c ,,a ,,,d ,,,c ,,,a ,,,,d ,b ,a ,,c ,,a ,,,d ,,,c ,,,a | \
+,,,,d/4 ,b a ,b";french5tab
+143;;2-72;Courant;;;Guitar;;3/4;",,a/ ,,c ,a | [,ba,d1] ,b/ a [,d,,c] b | ,,,,d/ a ,,,a b ,,,c d | \
+[f,,d/] d b a ,d ,b |";french5tab
+144;;2-73;Aria;;;Guitar;;C;"[,ba,d1] '[,aaa] [,ba,c] [,da,c] | [ab,,d3/4] a/4 [,d,d/] ,b [,aa] ,,c ,,a ,,,d | \
+[d,,c/] ,b [f,,d] ,b [,aa] ,,,d [,b,c] [,d,d] |";french5tab
+145;;2-73;Menuet;;;Guitar;;3/4;",,,,d/ ,,,c ,,a ,,,c ,b ,,a | a/ ,b d a ,b1 | \
+,,,c/ ,b f d [b,,a] a | '[,da2] ,,a1 |";french5tab
+146;;2-74;Gig;;;Guitar;;3/8;",,a/ | [,ba,d3/4] ,,,a/4 ,,,c/ | [,,cd3/4] ,a/4 ,b/ | \
+[,d,a3/4] ,,,c/4 ,,,d/ | [,aa3/4] ,b/4 ,d/ | [a,,,d3/4] ,,,a/4 ,,,c/ | \
+[,d,d/] a/4 ,d (,b ,a) |";french5tab
+147;;2-75;Saraband;;;Guitar;;3/4;"[,ba,d1] ,,a3/2 ,b/ | [ab,,d3/2] ,d/ ,b1 | \
+[db1] (3b/ d a) (3,d a ,b) | '[,aa3/2] ,,c/ ,,a1 | \
+[ab,,d1] ,d V[b,a] |";french5tab
+148;;2-75;Menuet;;;Guitar;;3/4;"[,ba,d/] ,,d a1 ,b | [,d,a/] ,b ,a ,,c ,,a1 | \
+[,d,,c/] a b1 d | [a,,,d/] b a ,d ,b1 |";french5tab
+149;;2-75;Preludio;;;Guitar;;C;"[,ba,d1] [,ba,d] [,ba,d] [,ba,d] | [,aaa1] [,aaa] [,aaa] [,aaa] | \
+[,bac1] [,bac] [,bac] [,bac] | [,dcd1] [,dcd] [,dcd] [,dcd] | \
+'[,aa2] ,,,d/4 ,,c ,d a";french5tab
+150;;2-76;Menuet;;;Guitar;;3/4;"[,b,,a/] ,a ,b ,d ,b ,d | [,ba/] ,a ,b ,d ,b ,d | \
+[,b,d1] [,da/] a b ,d | '[a,,,d1] [,da/] a b1 |";french5tab
+151;;2-77;Aria;;;Guitar;;3/4;"[,dca1] [ac,,a] [bd,a] [ac,,a] | [bd,a1] [d,a] [ac,,a] ,,c | \
+,,,a/ ,d ,,,,a ,b ,,a ,,d ,,,d ,,c | \
+',,c3/2 ,,,d/ ,,,d ,,a ,,,d ,,,c :||:";french5tab
+152;;2-77;Aria;;crossed out, unfinished;Guitar;;C;"[,dca1] '[,c,,a] [,d,d/] ,,c [,,ca1] | \
+[,bc,a1] ,,a/ ,,d ',,c3/4 ,,a/4 ,,,d1 | \
+,,,,b/ ,d ,,,,a ,b ,,a ,,d ,,,d ,,a |";french5tab
+153;;2-77;Aria;;;Guitar;;C;"[,dca1] '[,c,,a] [,d,d/] ,,c [,,ca1] | \
+,,d/ ,,c [,,a,d] ,b ',,c1 ,,,d | V[b,,a1] [a,,,e] [,d,d] [,c,c] | \
+[,d,d/] b '[a,a] ,d [ac1] ,,,,a :||:";french5tab
+;;;Faszikel 3;Fascicle 3;;;;;;
+154;;3-3;Preludium;;;Guitar;;C;",,,a/ b ,d b ,,c b ,,a b ,,d b ,,c b ,,,d f ,,,c d ,,,a \
+(b a) ,d";french5tab
+155;;3-3;Air;;;Guitar;;3/4;"[,,ca1] [,,c,d] [,d,,b] | '[,c,,a3/2] ,d/ a1 | \
+V[b,,a1] '[a,,,d] [,d,,b] | [a,,,a3/4] ,d/4 ',c/ ,a ,,c1 | \
+[f,,,a3/2] d/ 'b a |";french5tab
+156;;3-4;Sarabande;;;Guitar;;3/4;"[,dca1] '[,d,,a3/2] ,c/ | V[,d,a1] z/4 (,d ,c ,a) ,,c1 | \
+V[b,,a1] '[,b,c3/2] ,,d/ | ',,c3/2 ,,a/ ,,,d1 | \
+[f,,d3/4] d/4 'b3/2 a/ |";french5tab
+157;;3-4;Air: Que mon Martire;;;Guitar;ConcR5223;3;"[,d,a1] '[,c,,a3/2] ,d/ | [acc1] [ac,,a2] | V[b,,a1] [,d,,b3/2] a/ | \
+'[,c,,a3/2] ,,,,c/ V,,,,e ,,,,a | [,d,a1] '[,c,,a3/2] ,d/ | \
+[acc1] [ac,,a2] | V[b,,a1] [,d,,b3/2] a/ |";french5tab
+158;;3-5;Saraband;;;Guitar;;3/4;"[,,c,a1] '[,,bc3/2] ,,c/ | [,a,c/] ,,,d ,,,c ,,,a ,,,,d ,,,,c | \
+([,b,,a/] ,a) V[,b,a3/2] ,d/ | '[,a,c2] [,,c,a1] | \
+f1 [a,,,d] b |";french5tab
+159;;3-5;Air;;;Guitar;;3/4;"V[,b,,a1] ,,c [a,,,d] | '[,d,a3/2] ,b/ [,a,c1] | \
+V[,b,,a1] '[,a,a3/2] ,,c/ | '[,,bc3] | [,,c,d3/2] ,,c/ [,a,,c1] | \
+V[,b,,a1] ,,c ,,a/ a | ',d3/2 ,b/ ,d1 | [aabc3] :||:";french5tab
+160;;3-6;Air;;;Guitar;;3/4;",d1 | '[,aa3/2] ,b/ ,d1 | [,,ce1] ,a ',,a | ,,c1 ,,,a ,d | \
+'[,aa3/2] ,b/ ,d1 | [,,ce1] ,a ',,a | [,,ca2] :||:";french5tab
+161a;;3-6;Sarabande;;;Guitar;;3/4;"V[,b,,a1] ',a ,,c | V[b,,a3/2] a/ [,d,,c1] | [a,,,d3/2] ,d/ ([,b,,a] ,a) | \
+'[,a,c2] ,,c1 | V[,b,,a1] ',a ,,c | V[b,,a3/2] a/ [,d,,c1] |";french5tab
+161b;;3-7;double;;;Guitar;;3/4;"V[,b,,a3/4] ,d/4 a/ ,b ,a ,,c | [,d,a3/4] a/4 b/ a ,,,,c ,d | \
+,,,,d3/4 ,d/4 a/ ,d ([,b,,a] ,a) | '[,a,c2] ,,c1 |";french5tab
+162;;3-7;Air;;;Guitar;;3/4;"[,da1] ',a3/2 ,b/ | '[,,ca2] ,,c1 | [,d,,c1] '[,b,,a] [,aa] | \
+'[,,ca2] ,,a1 | [,da3/2] ,d/ [d,,c1] | '[a,,,a3/2] a/ [f,,e1] | \
+[d,a3/4] c/4 '[a,,,a3/2] ,d/ |";french5tab
+163;;3-8;Aymable Vainqueur;;;Guitar;Conc_1376;3/4;",d1 | ',a3/2 ,,c/ ,,a1 | ',,a3/2 ,,a/ [,,ca1] | [,a,,c1] ',,a2 | \
+[,da2] ,d1 | [d,a1] [,d,,c] [ad,,d] | [,da1] (,b/ ,a) ,d1 | \
+V[,b,,a1] '[,aa2] |";french5tab
+164;;3-9;Saraband;;;Guitar;;3/4;"[ab,,a1] [abc3/2] a/ | V[b,,a1] ,,b3/2 ,d/ | [,bc1] [,acc] ',,b | \
+V,,c1 ,,,,a2 | [f,,,a1] [aab3/4] ,d/4 ',b/ ,a |";french5tab
+165;;3-9;Air la paix revient;;;Guitar;;3;"[d,,c1] '[a,,,d3/2] a/ | V[b,,a3] | [a,,,d1] (b/ a) ([,d,,a] ,b) | \
+'[,da2] ,d1 | [d,,c1] '[a,,,d3/2] a/ | V[b,,a3] | \
+[a,,,d1] (b/ a) ([,d,,a] ,b) | [,da3] :||:";french5tab
+166;;3-10;Air Helas a quel malheur;;;Guitar;;3;"V[b,,a1] ,d ([a,a/] b) | '[,c,,a3/2] ,d/ [,d,a1] | \
+[d,,c1] (b/ a) [b,,a] ,d | '[a,,,a2] ,,c1 | \
+f1 ,d 'a | V[b,,a1] ,,c (,d/ ,c) |";french5tab
+167;;3-10;Air;;;Guitar;;C;"[,d,a2] 'b1 ,,d | '[,,cd3] ,d1 | '[,c,,a1] ,d a [b,,a] | \
+'[a,,,a3] a1 | [,d,a2] ',c3/2 ,c/ | [,cc,a3] ,d1 | \
+[a,,,e1] b d (b/ a) |";french5tab
+168;;3-11;Belles fleurs;;;Guitar;;C;"V[,b,,a3/2] ,b/ | [,d,,c1] [a,,,d] '[,d,a3/2] ,b/ | \
+[,a,c1] (,,c/ ,,b) [,,c,d1] [,a,,c] | [,b,,a1] [,d,a] '[,a,c3/2] ,,c/ | \
+[,,c,a2] 'a1 d |";french5tab
+169;;3-12;Ouverture;;;Guitar;;C;"[ab,,d3/2] a/ ',d1 ,b | [dd,,c3/2] d/ d1 ,,a | \
+V[,bc,a3/2] ,b/ [,b,d] a (,d ,b) | '[,aa2] z/ ,a ,b ,d |";french5tab
+170;;3-13;Gig;;;Guitar;;6/8;",,a/ | [,b,,d/] ,,a ,b [,d,,c] ,,a ,d | [a,,,d/] ,,a a [b,,a] ,,a b | \
+[d,,c/] b a [,d,d] a ,b |";french5tab
+171;;3-14;Aria en Menuet;;;Guitar;;3/8;",,c/ | [,d,a/] ,,c '[,c,c] | [,d,d/] ,,c [a,,c] | \
+V[b,,a/] ([d,a/4] b) a ,d | '[,c,,a3/4] ,a/4 ,,c/ | \
+[f,,d/] (d/4 b) [a,a] ,d |";french5tab
+172;;3-15;Aria;;;Guitar;;C;"[,,c,a1] [a,b/] ,d '[,b,,a1] [,,bc] | [,,cd1] [,a,a/] ,,c ',,b1 ,,,c | \
+[ab,,d1] [,d,,c] [,b,,a/] ,a ,,c ,a | \
+'[,,bc3/2] ,,c/ [,,cca2] |";french5tab
+173;;3-15;Aria;;;Guitar;;C;",,,a/ ,d a c ,,,,e a c d | ,,,a/ c [a,a] ,d '[,c,,a] ,a ,,c ,,a | \
+,,,e/ ,d ,,,c a ,,,a c [a,a] ,d |";french5tab
+174;;3-16;Courante Gautier;;;Guitar;;3;",,c1 | [,,ca3/2] ,,d/ (,,c ,,a) | ,,,d/ ,,a ',,a3/2 ,,c/ | \
+[,,cca3] | [,d,a1] [,bac3/2] ,,c/ | V[,,da3/2] ,b/ [,,cd1] | \
+(,,c/ ,,a) '[,,a,d3/2] ,,,d/ |";french5tab
+175;;3-16;Gavott;;;Guitar;;C;",d1 f V[b,,a] [d,a/] b | '[a,,,a3/2] ,d/4 a ,d1 ,,,a | \
+,d1 f [b,,a] ,,,c/ d | ,,,d/ f ,,,,a3/4 ,c/4 [,d,a2] :||:";french5tab
+176;;3-17;Air de Lulli;;;Guitar;;C;"V[,d,a3/2] ,d/ '[,c,,a1] ,d/ a | [,,cd3/2] ,,c/ ',,a1 ,,c/ ,,,c | \
+,,,d/ ,,,d ,,a ,,c V,,d3/2 ,,c/ | [,,ac1] ,,a [,b,,a] ,b |";french5tab
+177;;3-18;Saraband;;;Guitar;;3/4;"[bb,d1] ,,c V,,d | [,b,,a1] ,,,d ,d/ ,,c | ,,d1 [,,dc] ,,,,d/ ,b | \
+',,c1 ,,,d [,b,,a] | [,b,a1] ,,,,a ,,,,c | [a,,,d1] ,b [f,,d] |";french5tab
+178;;3-18;Menuet;;;Guitar;;3/4;,,,d/ b ,b b ,b b | ,,,c/ d ,b d ,b d | ,,,d/ f ,,,c d ,,,a b |;french5tab
+179;;3-19;Gavotte;;;Guitar;;C;"[,b,d1] [,ba] [,bc] ,d/ ,,c | ,,d1 [,,dd] [,,dc] ,b/ ,,a | \
+,,,d/ ,,c ,,a ,,d ,,,,a ,b ,,d ,,c |";french5tab
+180;;3-20;Aria;;;Guitar;;C;"[,dca1] [ac,,a] [bd,a] [ac,,a] | [bd,a1] [d,a] [ac,,a] ,,c | \
+,,,a/ ,d ,,,,a ,b ,,a ,,d ,,,d ,,c | \
+'[,,a,d3/2] ,,,d/ ,,,d ,,a ,,,d ,,,c :||:";french5tab
+181;;3-20;Rondeau;;;Guitar;;3/4;"a1 | [bdf] d/ b '[a,a] ,d | '[,c,,a1] ,,c [b,,a] | \
+,,,,c/ ,d ,,,,e a ,,,a b | [a,,,a/] ,d a b a1 |";french5tab
+182;;3-21;Menuet;;;Guitar;;3/4;"[,,c,a/] ,,b ,,c ,a ,b ,d | [a,,,d1] ,,c [a,,,a] | \
+[f,,d1] a [,d,,c] | [a,,,d/] b a ,d ,b ,a |";french5tab
+183;;3-22;Prelud;;;Guitar;;C;"f/ | [ff,,a1] ,,,,a/4 f e c 'a ,d ,c ,a [,cc,a/] ,,c | \
+[acc/] [acc] [acc] [acc] [,abc] [,abc] [,abc] [,abc] |";french5tab
+184;;3-24;Allemanda;;;Guitar;;C;",,c/ | X[,,c,a1] ,,,,a/4 ,,c ,a ,c ,,b ,a ,,,c ,c ',,c/ (,,b/4 ,,c) | \
+,,b/ ,,,c/4 ,,,a ,,,,e ,,c ,a ,c";french5tab
+185;;3-26;Courant;;;Guitar;;3/4;"a/ f e | [f,,,a/] ,,c ,c ,d [a,b] ,d | \
+[,c,,a/] a ,,c ,c [,a,a] ,,c | ,,,c/ ,,b ,,,c ,,,e ,,,c ,,,a |";french5tab
+186;;3-27;Saraband;;;Guitar;;3/4;"[ac,,a/] ,d ',c ,a ,,c ,c | [,abc/] ,,,e ,,,c ,,,a ,,,,e a | \
+[cd/] ,c e ,a [f,,,a] ,a |";french5tab
+187;;3-27;Menuet;;;Guitar;;3/4;"f1 ,,,,a 'e | [f,,,a1] e/ c a ,d | ,,,a/ c ,,,,e a ,,,,c ,d | \
+[ac,,a2] ,,c1 | ,,,,c/ ,d ,,,,a ,c ,,b ,a |";french5tab
+188;;3-28;Gig;;;Guitar;;3/8;",,c/ f a | ,c/ a ,c | ,,,,a/ a ,a | [,,bc/] ,a ,,b | \
+,,,e/ c e | f/ e [c,,a] |";french5tab
+189;;3-29;Courant;;;Guitar;;3/4;"a/ f e | f1 ,,,,a/ f 'd b | 'a1 ,,,,d/ a ,d ,b | \
+[,a,a/] ,,c ,,,c ,a ,,c ,,b |";french5tab
+190;;3-30;Menuet;;;Guitar;;3/4;"[,bc,a1] ,,c [,d,,c] | [a,,,d1] ,b a | [bd,a1] ,d (,b/4 ,a) ,,c/ | \
+',,b2 ,,,c1 | [,bc,a1] ,,c [,d,,c] | [a,,,d1] ,b a |";french5tab
+191;;3-31;Prelud;;;Guitar;;C;"[dda3/2] d/ ,d/4 d ,d d ,,e ,d ,,e ,d ,,a ,a ,,a ,a \
+,,,a ,,a ,,,a ,,a [,,aac3] [,da,c1]";french5tab
+;;;;;Sonata;;;;;
+192;;3-32;Adagio;;;Guitar;;3/4;"[,da1] [ab,,d/] ,d a ,d | '[,b,a2] [,aa1] | [,da1] [a,,,d/] ,d (,b ,a) | \
+'[,,ca2] [,,aac1] | [,da1] d/ c [d,,c] c |";french5tab
+193;;3-32;Allegro;;;Guitar;;2/4;",d/ | d/ ,d ,a ,d | ,,a/ ,,,a ,,,c [,d,a] | [d,a/] ,d ,a ,d | \
+,,a/ ,,,a ,,,,c ,d | [,da/] (,b/4 ,a) ,b/ ,b |";french5tab
+194;;3-33;Menuet;;;Guitar;;3/4;"[,aa1] ,d d | '[,aa1] ,,c/ ,a ,,a1 | [,aa1] ,d d | \
+'[,aa1] ,,c/ ,a ,,a1 | [a,,,d1] [,d,,c] [d,a] | \
+[,b,,d1] [,aa] d |";french5tab
+195;;3-33;Gig;;;Guitar;;6/8;",,a/ | [,da/] ,b ,d [,da] ,b ,d | [,aa/] (,,c ,,a) z/ z/ ,,a/ | \
+[,da/] ,b ,d [,da] ,b ,d |";french5tab
+;;;;;Sonata;;;;;
+196;;3-34;Adagio;;;Guitar;;3/4;"[ac,,a1] [f,,a3/2] h/ | 'e2 [f,,,a1] | [ac,,a1] (3[c,,a/] d a) ,d/4 a ,c/ | \
+'[,a,c2] [,,c,a1] | [a,,,a1] f ,,,a/ h |";french5tab
+197;;3-34;Allegro;;;Guitar;;2/4;"[ac,,a1] [cd,a] | [a,,,a/] ,c/4 ,d a/ [c,,a] | \
+[a,,,a/] ,c/4 ,d a/ [c,,a] | [a,,,a/4] ,d (,c ,a) ,,c/ | \
+[f,,,a/] e/4 c e/ a |";french5tab
+198;;3-35;Menuet;;;Guitar;;3/8;"[ac,,a/] ,c ,,c | [a,,,a/] ,c/4 ,d a/ | [c,,a/] e f | \
+',a2 ,,c1 | [a,,,a/] ,c/4 ,d a/ | [c,,a/] ,d/4 a c/ |";french5tab
+;;;;;Sonata;;;;;
+199;;3-36;Adagio;;;Guitar;;C;"[,ba,d3/4] ,d/4 a/ ,b d3/4 ,,,a/4 ,,,c/ d | \
+[f,,d3/4] d/4 'b/ a [,da3/2] ,,,,a/4 ,,,,c/ ,d | \
+[a,,,d3/4] ,d/4 ,b/ ,a X[,,ca3/2] ,d/ |";french5tab
+200;;3-36;Allegro;;;Guitar;;2/4;",,a/ | [,b,,d/] ,,a ,,a ,b | [,da/] ,,a ,,a ,d | \
+[a,,,d/] ,,a ,,a a | [,da/4] ,b ,a ,,c ,,a/ ,,a |";french5tab
+201;;3-37;Largo;;;Guitar;;3/4;"[,,acd1] (3,b/ ,d ,a) (3,b ,d ,a) | [,b,,d3] | \
+(3,,,,d/ ,,,c ,,,,d) (3,,,,d ,,,c ,,,,d | [,da3] | \
+(3,d/ a ,b) (3,d a ,b) |";french5tab
+202;;3-38;Allegro;;;Guitar;;2/4;"d/ | [d,,c/] a/4 b d/ a/4 b | d/ ,b ,b d | \
+[d,,c/] a/4 b d/ a/4 b |";french5tab
+203;;3-38;Menuet;;;Guitar;;3/8;"[d,a/] (b/4 a) (,d ,b) | [f,,d/] d ,b | [f,,d/] d ,b | \
+[f,,d/] (d/4 b) a b | ,d( ',a ,,a |";french5tab
+204;;3-40;Allemanda;;;Guitar;;C;"f/ | [ff,,a3/4] f/4 Vd b a ,d ',b ,a V,b/ ,,c a ',,a | \
+(3,,,a/4 ,,,c ,,,d) ,,c ,d ,,,,c a ,,,a b X,d3/4 a/4 b/ ,d |";french5tab
+205;;3-41;Courant;;;Guitar;;3/4;"f/ | [ff,,a3/2] f/ 'd b | a/ ,d (,b ,a) ,,c ,a | \
+,b/ ,,c a1 ',,a | ,,,d/ ,,c ,d1 ,,,c/ a |";french5tab
+206;;3-42;Saraband;;;Guitar;;3/4;"[ab,,a1] [bd] [ab] | ',d1 ,,b/ a [,bc,a1] | \
+[,,ca/] b [,,bc] a [,,cd] ,d | '[,b,c3/2] [,ab/] [,,cca1] | \
+[db,c1] f [db,c] |";french5tab
+207;;3-42;Gavott;;;Guitar;;C;"[abc1] f | [ea,c1] a V[,bc,a] [,d,d] | [aabc2] ,,,a/ b ,,,,d a | \
+,,,,c/ ,d ,,,,a ,b ,,,c ,a ,,,c a | '[,b,,a1] ,,c :||:";french5tab
+208;;3-44;Menuet;;;Guitar;;3/4;"[f,,,a2] [a,,c1] | '[,b,,a1] (,a/ ,b) ,,c1 | \
+(3[f,,,a/] h i) [h,a1] f | [e,,c1] c/ e a1 | \
+[,d,,c1] ,,,c/ a ,,,c a |";french5tab
+;;;;;Sonata;;;;;
+209;;3-45;Adagio;;;Guitar;;3/4;"[,da/] ,a [,,a,c] ,a [,da] (3a/4 c d) | \
+'[c,,a/] ,,,c ,,,a ,,,,d ,,,,c ,,a/4 ,d | \
+[ab,,d] [c,,a] (3a/4 c d) ,,,,c ,d ,,,,a ,b ,,a ,a |";french5tab
+210;;3-46;Gavott;;;Guitar;;C;",,a/ ,,c ,a ,b [,da] ,,,,a ,,,,c d | \
+'[c,,a1] [a,,,d/] c [,d,,c] ,,,,a ,,,,c d | \
+[a,,,d/] ,d ,b ,a [,,ca] ,d ,b ,d |";french5tab
+211;;3-47;Saraband;;;Guitar;;3/4;"[,da/] ,,,e [,da] ,,,,a ,,,,c [d,a] | '[c,,a/] ,,,c ,,,a ,,,,d ,,,,c [,da] | \
+[ab,,d/] [,d,,c] [a,,,d] [c,,a] [d,,c] [,,c,d] |";french5tab
+212;;3-48;Gig;;;Guitar;;6/8;",d/ | (3[a,a/] c d) ,d ,d a c | [d,,c3/2] [d,,,c1] ,a/ | \
+[,b,,a/] ,d a ,,c ,d ,b | [,aa/] ,b ,d ,,a1 ,d/ |";french5tab
+213;;3-49;Menuet;;;Guitar;;3/4;"[d,a/] ,d ,,,a ,d ,d ,d | [f,,e/] ,d ,,,a ,d ,d ,d | \
+,,a/ h ,,,e f ,,,c d | '[c,,a1] a/ c ,d1 |";french5tab
+214;;3-50;Preludium;;;Guitar;;C;",,,,a/ f d b a ,d ,b ,a | ,b/ ,,,,a ,,,,d ,,,c ,,,,a ,,c ,b ,,c | \
+,,,a/ b ,a b";french5tab
+215;;3-52;Menuet;;;Guitar;;3/4;",,,,a/ ,b ,,,a ,a ,,,c ,,b | V[,,c,a2] [a,,,d1] | \
+,,,,c/ ,d a ,d ,b ,a | '[,b,,a2] [,a,c1] | \
+,,,,a/ ,b ,,,a ,a ,,,c ,,b |";french5tab
+216;;3-52;Gavott;;;Guitar;;2/4;",,,,a/ ,b ,d a | ,,,a/ b ,,,,d a | ,,,,c/ ,d ,,,,a ,b | \
+,a/ ,,,c ,,b ,a | ,,,,a/ ,b ,d a |";french5tab
+217;;3-54;Menuet;;;Guitar;;3/4;"[abc,a1] a/ ,d a1 | [aaa1] a/ ,d a1 | [f,,d1] f/ d f1 | \
+[d,,c1] d/ b d1 | [b,,a1] b/ a b d |";french5tab
+218;;3-55a;Preludium;;;Guitar;;C;"[daa3/2] d/ ,,a ,d ,c ,a | ,d/ ,b ,a ,,c ,,a a ,d ,b | \
+,a/ ,,c ,,a ,,,e ,,a ,,a/4 ,a ,d ,a";french5tab
+219;;3-55b;Allemanda;;;Guitar;;C;",,a1 | [,,aac3/2] ,,a/ [,d,e] a ,d ,b | [,aa/] ,d ,,c ,d [,,ac] ,a [,,c,d] d | \
+'[c,,a1] ,,,a/ ,,,,d ,,,,c ,d ,,a ,d |";french5tab
+220;;3-56;Courant;;;Guitar;;3/4;"d1 | [dda1] ,,a/ d c a | [,d,,c1] ,,,,d/ a ,d ,b | \
+',a1 ,,a/ ,a ,,c ,,a | ,,,e/ ,,,c ,,,a ,,,,d ,,,,c ,,a |";french5tab
+221;;3-57;Saraband;;;Guitar;;3/4;"[daa1] ,a ,,,,a/ ,b | [,d,,c1] ,,a a/ ,a | V[,b,,a1] ,,,e ,,,a/ ,b | \
+'[,aa3/2] ,,a/ [,d,,c1] | [d,,c1] ,,,,c ,,,,e |";french5tab
+222;;3-57;Bouree;;;Guitar;;C;",,a/ ,,c | [,aa1] ,a ,a ,,c/ ,,a | [,d,e1] ,d ,d a/ c | \
+[d,,c1] c [a,,,a] f/ d | [c,,a1] ,d ,d :||:";french5tab
+223;;3-58;Menuet;;;Guitar;;3/4;",,a/ ,,,e ,,a ,,c ,a ,b | [,d,,c1] ,,a [d,,c] | \
+[c,,a1] a/ ,d [,b,,a] ,a | '[,aa1] ,,c/ ,a ,,a1 |";french5tab
+224;;3-58;Bourèe;;;Guitar;;C;",d/ ,b | '[,aa1] ,,,,a/ ,b ,,,,c ,d ,,,,d a | \
+,,,a/ c ,,,c d [f,,e1] ,d/ ,b | \
+'[,aa1] ,,,e/ ,,c ,,,c ,a ,,c ,,a |";french5tab
+225;;3-59;Gig;;;Guitar;;6/8;",,a/ | [,da/] a ,d ,d a ,d | [,aa/] ,,c ,a ,,a1 [a,,,d/] | \
+[,d,,c/] ,b ,a [,,c,d] ,a ,b |";french5tab
+226;;3-60;Preludio;;;Guitar;;C;",d/ | [,dca3/2] ,,c/4 ,a ,c ,d a c d f d c a | \
+[c,,a/4] ,d ,d ,d [h,a] f d c";french5tab
+;;;;;Sonata;;;;;
+227;;3-61;Adagio;;;Guitar;;C;"f/ | [f,,a3/4] d/4 c/ d [ac,,a3/4] ,,a/4 ,,,e/ f | \
+([,da/4] ,c) (f h) 'a3/4 ,d/4 [,cc,a3/4] ,,,,c/4 ,,,,a/ ,,a |";french5tab
+228;;3-61;Allegro;;;Guitar;;2/4;",,c/ | [,d,a/4] ,c ,d a ,d/ ,,c | [a,,,a/4] ,d a c a/ ,,c | \
+[c,,a/4] a c d f/ (d/4 c) |";french5tab
+229;;3-62;Saraband;;;Guitar;;3/4;"[,d,a1] ,,c3/2 ,d/ | '[c,,a3/2] a/ ,d1 | [f,,a1] (3d/ f c) (3a/ c ,d) | \
+'[,c,,a3/2] ,a/ ,,c1 | [c,,a1] a (3[a,,,a/] c d) |";french5tab
+230;;3-62;Menuet;;;Guitar;;3/8;"[c,,a/4] d f/ ,d | [c,,a/4] d f/ ,d | [c,,a/4] d f/ h | \
+'[a,,,a1] ,d/ | [c,,a/4] d f/ ,d |";french5tab
+231;;3-63;Gig;;;Guitar;;6/8;",,c/ | [,d,a/] ,,c ,d [a,,,a] ,c a | ([c,,a/] a) ,d ,d1 f/ | \
+[f,,a/] d c [a,a] c ,d |";french5tab
+;;;;;Sonata;;;;;
+232;;3-64;Adagio;;;Guitar;;C;",,,,d/4 ,b ,,,a ,b ,,,c ,b ,,,,d ,b ,,,d ,d ,,,a ,d ,,a b a ,d | \
+,,,,d/4 a ,d ,b [daa/] ,,,,c";french5tab
+233;;3-66;Aria;;;Guitar;;C;",,,,d/ ,b ,a ,b ,,,,c ,d ,b ,d | ,,,,d/ a b a [,da] ,,c ,,a ,,,d | \
+,,,c/ d b a ,,,a b a ,d |";french5tab
+234;;3-67;Menuet;;;Guitar;;3/4;",,,,d1 ,b/ ,a ,b1 | ,,,,c1 ,d/ ,b ,d1 | ,,,,d1 a/ ,d a b | \
+[,da1] ,b/ ,a ,,c ,,a |";french5tab
+235;;3-68;Bouree;;;Guitar;;C;",,a1 | [,ba,d1] ,,a ,b [a,,,d] | [,da/] ,b ,a ,,c ,,a1 ,,,c/ d | \
+,,,a/ b ,,,,d a ,,,,c ,d ,,,,a ,b |";french5tab
+236;;3-69;Gig;;;Guitar;;6/8;",,a/ | V,b1 ,,,c/ ,,,a1 ,a/ | ,b/ ,,,c ,,a ,,,,d1 [,da/] | \
+a/ ,,,,d [,da] a ,,,,d [,da] | a/ ,,a ,b ,,,,d1 [b,,a/] |";french5tab
+237;;3-70;[sans titre];;;Guitar;;C;",,a1 | [,ba,d1] a/ ,d [a,,,d1] [,d,d] | [,b,c1] d/ b d1 [b,,a] | \
+[a,,,d/] b d a [,da] a b ,d |";french5tab
+;;;;;Sonata;;;;;
+238;;3-71;Adagio;;;Guitar;;C;"[f,,a/] c/4 d [f,,a/] [d,a/4] c [a,,,a] ,d a/ z/ f | \
+[h,a/4] f d c '[a,,,a3/4] ,d/4 [,d,a/] ,,,a/4 ,,,c ,,,e/ ,,,a |";french5tab
+239;;3-72;Allegro;;;Guitar;;2/4;",,c/ ,,a ,d [a,,c] | [c,,a3/4] a/4 ,d/ a | [c,,a/] d f h | \
+'[a,,,a1] ,,c | [,da3/4] ,c/4 ,d/ a |";french5tab
+240;;3-72;Adagio;;;Guitar;;C;"c/4 d | [f,,a/] f [f,,a] d/4 c [ac,,a/] a ,,,,a c/4 d | \
+[f,,a/] f [f,,a] d/4 c [a,,,a/] [c,,a/4] d '[a,,,a3/4] ,d/4 |";french5tab
+241;;3-73;Allegro;;;Guitar;;3/8;",,,a/ ,d/4 ,c ,d/ | ,,,,a/ a/4 ,d a/ | ,,,a/ c/4 a c/ | \
+,,,,a/ a/4 ,d a/ | ,,,a/ ,d/4 ,c ,d/ |";french5tab
+242;;3-74;Menuet;;;Guitar;;3/8;"[,d,a/] ,,c ,d | '[,c,,a/] ,a/4 ,c ,,c/ | [,d,a/] ,,c a | \
+[c,,a/] a/4 c ,d/ | [c,,a/] f/4 e f/ |";french5tab
+;;;;;Sonata;;;;;
+243;;3-75;Adagio;;;Guitar;;C;"d/ | [d,a3/4] ,d/4 [a,,,d/] [c,,a] [d,a3/4] ,,,,a/4 ,,,,c/ [,da] | \
+[a,,,d/] (c/4 d) ',b3/4 ,a/4 [,,ca3/4] ,,,c/4 ,,,e/ [,d,a] |";french5tab
+244;;3-76;Allegro;;;Guitar;;2/4;"[,da/] d c a | [,d,a/] d c a | [,d,c/] ,b/4 ,a [,b,a/] ,d | \
+[,aa/] ,,,,a ,,,,c [a,,,d] | [a,,,a/] ,d [,da] ,b/4 ,a |";french5tab
+245;;3-77;Saraband;;;Guitar;;3/4;",d/ ,,,,a ',,a3/2 a/ | X[,da2] (a/4 c d/) | ([,b,,a/4] ,d) a/ X[,d,a3/2] ,b/ | \
+'[,aa3/2] ,,c/ ,,a1 | [,da/] ,,,,a [,,a,c1] ,,,,d/ d |";french5tab
+246;;3-77;Menuet;;;Guitar;;3/8;"[,da/] d ,,a | [,da/] d ,,a | ,a/4 ,b ,d/ a | '[,,ca2] ,,a1 | \
+[,aa/4] ,b ,d/ a | [,,ca/4] ,a [,ba/] ,d |";french5tab
+247;;3-78;Adagio;;;Guitar;;C;",,,,a/4 a ,,,,c a ,,,,e a ,,,,a a ,,,,c ,d ,,,,a ,d ,,,,c ,d ,,,c ,d | \
+,,,,a/4 ,c ,,,,c ,d ,,,,e a ,,,a c";french5tab
+248;;3-80;Aria Vivace;;;Guitar;;C;",,,,a/ ,,c ,,,,c ,,b ,,,,a ,,c ,,,,e a | \
+,,,,c/ ,d ,,,,a ,c ,,,c ,a ,,,c ,,,a | \
+,,,,e/ a ,,,a c ,,,,c ,d ,,,,e a |";french5tab
+249;;3-81;Menuet;;;Guitar;;3;",,,,e/ a ,,,,c ,d ,,,,a ,c | ,,,a/ c a ,d ,,,,e a | \
+,,,,c/ ,d ,,,,a ,c ,,,a ,a |";french5tab
+250;;3-82;Bouree;;;Guitar;;C;",,,,a/ a | ,,,a/ c ,,,,e a ,,,a c ,,,,c e | \
+,,,,a/ f e c ,,,,e a ,,,a c |";french5tab
+251;;3-83;Menuet;;;Guitar;;3;",c/ a ,,,,a a ,d ,c | ,,,,c/ ,d ,,b ,d ,c ,a | \
+,,,,a/ ,c ,,,c ,c ,a ,,c |";french5tab
+252;;3-84;Vivace;;;Guitar;;2/4;",,,,a/4 a ,,,,c ,d ,,,c ,d ,c ,a | [,c,,a/4] ,a ,,c ,,b ,,c ,,,c ,,,,e ,,,,a | \
+[c,,a/4] ,d a ,c ,d ,a ,c ,,c |";french5tab
+;;;;;Sonata;;;;;
+253;;3-85;Adagio;;;Guitar;;C;"[ab,,a/4] ,d ,b ,a ,,c/ [b,,a] [a,,,d/4] ,d ',b ,a ,,c/ [b,,a] | \
+[ab,,d/] ,d/4 a [b,,a] a ,d ,b \
+[,a,c/] ,,,c/4 ,,,c ',,,c/ ,,,a |";french5tab
+254;;3-86;Allegro;;;Guitar;;3;",,,,a/ a ,b a ,,,,a a | ,,,a/ b ,d b ,a ,d | \
+,,a/ ,d ,a ,d ,,a ,d | ,,,,d/ a ,b a ,,,,d ,,a |";french5tab
+255;;3-87;Gavott;;;Guitar;;2/4;",,,,a/ ,b ,a ,,c | ,,,c/ ,a ,,,,d a | [,,cd/] ,b ,a ,,c | \
+[,,bc/] ,,,a ,,,,d ,,,,c | ,,,,a/ ,b ,a ,,c |";french5tab
+256;;3-87;alternativ;;Gavotta repetatur;Guitar;;2/4;",,,,a/ ,c ,,,,c ,d | ,,,,e/ a ,,,a c | ,,,c/ ,d ,c ,a | \
+[,c,,a/] ,a ,,c ,a | ,,,,a/ ,c ,,,,c ,d |";french5tab
+257;;3-88;Menuet;;;Guitar;;3;",,,,a/ ,b ,,,,c ,d ,,,,d a | [b,,a1] [a,,,d] z1 | \
+,,,,c/ ,d a ,d ,b | V[,b,,a1] ,a/ ,b ,,c1 |";french5tab
+;;;Faszikel 4;Fascicle 4;;;;;;
+258;;4-3;1 Wer nur denn lieben Gott;;;Guitar;;C;"z1 [b,,d/] ,,a [b,c1] [,,cd] | [,dd1] ,,,,b/ ,d ',b1 ,,,,d/ ,,d | ',,c1 H,,,d z1 [,,cd] | \
+V,d3/2 [,,cd/] [,,ac] ,,,a [,b,c] [,d,d] |";french5tab
+259;;4-3;2 O Gott, du frommer Gott;;;Guitar;;C;",,c1 | [,d,a1] '[,cc] [,d,a] [ab,,d] | H[bb,d3] z1 [a,,,e/] [b,,a] | \
+[d,,c1] [b,,a] [a,c] [b,d/] ,,a | '[,cc,a2] ',,c1 :||:";french5tab
+260;;4-4;3 Jesu! deine tieffen Wunden / freu dich sehr o meine Seele;;;Guitar;;C;"[,ba,d1] [,d,,c] '[a,,,d] [,d,,c] | V[,bc,a1] ,,a/ ,a '[,,ca1] ,,a/ ,,,d | \
+V[,b,c1] [,d,,c] [a,,,d] ,,,,c/ b | \
+[a,,,d1] '[,da] V,b1 ,,,,d :||:";french5tab
+261;;4-4;4 Auff auff zu Gottes Lob;;;Guitar;;C;"[,,c,a1] | [,d,e2] ,,,a/ c [acc1] [c,,,a/] d | \
+H[cd,a3] [f,,e1] | [,d,,,c1] ,,,c/ d '[a,c1] ,,,,a/ ,d | \
+[,dca3] :||:";french5tab
+262;;4-4a;5 Sollt ich meinem Gott nicht singen;;;Guitar;;C;"[,,c,a1] [,ab] [,b,,a/] [,d,,c] [a,,,d1] | \
+[,d,,c1] [,b,,a] '[,a,c] H[,,c,a] | [a,a1] 'c [d,,c] f/ d | \
+'[ca1] ,,,,c/ a H[aa,c2] :||:";french5tab
+263;;4-5;6 Immanuel;;;Guitar;;C;",a1 | ',,a3/2 ,,,e/ ,,,c1 [,a,c] | V[,b,,a3/2] ,d/ [,aa1] [,aa] | \
+[,a,,d1] ',,c3/4 ,a/4 [,a,,c2] | z1 ,,a '[,d,e] ,,,a/ ,b |";french5tab
+264;;4-5;7 Wach auff mein Hertz und singe;;;Guitar;;3/4;"[,d,a/] ,,,c | '[,d,e2] [,d,e1] | [,aa1] ,c V,d | \
+[a,a1] '[a,c] ,,,,a/ ,d | H[,dca2] ,,c1 | '[,d,e2] ,c1 | \
+[,a,c2] ,,c1 | [a,,,e1] ,,,a ,,,c |";french5tab
+265;;4-6;8 Wenn wir inn högsten nöthen sein;;;Guitar;;C;",,c1 | [,d,,c1] [a,c] 'c [d,,,a] | [cd,a1] '[a,c] H[,d,a] [f,,,e] | \
+[d,,c1] [cd,a] '[a,,,a] [,d,,c] | \
+'[,cc,a1] '[,d,a/] (,c/4 ,d) H[ac,,a1] [f,,e] |";french5tab
+266;;4-6;9 Werde munter main Gemüthe;;;Guitar;;C;"[ab,,d1] ,,,d/ b [d,,c1] [d,,,d] | '[b,,a1] [a,,c/] ,,,d [,da1] H[,da,c] | \
+'d1 ,,,a/ b [a,,c1] ,,,d/ ,d | '[,da3/2] ,b/ H[,ba,d2] :||:";french5tab
+267;;4-7;10 Waß mein Gott will / Ich hab inn Gottes Hertz und Sinn ;;;Guitar;;C;"[,,c,a2] V,b | [,d,,b2] [,b,,a1] [b,d] | [b,,,d1] 'a3/4 b/4 H[bb,d2] | \
+[b,,d2] '[a,,,d1] [,d,a] | V[c,a1] [bd,a] '[a,,,a2] | \
+[,dca2] :||:";french5tab
+268;;4-7;11 Ach Gott und Herr;;;Guitar;;C;"[,d,a2] [,c,,a1] '[,a,c] | H[,,c,a2] z1 [,,c,a1] | \
+[,aa2] [,c,c] | HV[,d,a3] [a,,,e1] | [,da2] [,cc] | \
+[,a,c1] [,c,,a3/4] ,d/4 '[,a,c2] | H[,,c,a4] |";french5tab
+269;;4-8;12 O Lamm Gottes;;;Guitar;;3/4;",b2 | [ab,,d1] ,,,,c [b,,,a] | [d,a1] ,,,c [f,,,d] | \
+'[c,,a3] | H[,daa2] [d,a1] | V[,b,,a1] ,,,,c [,da] | \
+[ab,,d2] V[b,,d1] | '[,da3] | H[,ba,d2] :||:";french5tab
+270;;4-8;13 Herr Jesu Christ du höchstes Guht;;;Guitar;;C;"[,b,,d1] | [,,ac2] V[,b,,a] | '[,aa2] V[,b,c] | [,da3] 'a3/4 ,d/4 | \
+V[,b,,d3] a3/4 b/4 | V[d,,c2] d | [a,,,d3/2] b/ Vd2 | \
+'[ba,a3] a1 | [ab,,d3] :||:";french5tab
+271;;4-9;14 Wo soll ich fliehen hinn;;;Guitar;;C;",,c1 | [,,c,a1] [,a,c] V[,b,c] [,da3/4] a/4 | H[ab,,d3] a1 | \
+[ab,,d1] [,d,,c3/4] a/4 '[,b,,a3/2] ,a/ | [,abc3] [,ab1] | \
+V[,bc1] [,da] [ab,,d] a |";french5tab
+272;;4-9;15 Von Gott will ich nicht laßen;;;Guitar;;C;",,c1 | [,d,a1] [a,,,e] V[b,,a1] d/ b | '[a,a3/2] ,d/ [,c,,a1] ,c | \
+[,d,d1] ,d [a,,c] [a,b] | [,,c,a3] :||:";french5tab
+273a;;4-10;16 mein Vatter zeug mich dein Kind nach deinem Willen;;;Guitar;;C;",d1 | [,aa1] [a,a,d] [,da,c] ,,,,a/ ,b | H'[,aa3] ,d/ ,,,e | \
+[,,ac1] [,,ce] [,aa/] ,,c ([,b,,d] ,a) | \
+'[,,ca3/2] ,,a/ H[,,a,c2] [,,ce1] |";french5tab
+273b;;4-10;Mein Vater;;;Guitar;;C;"z1 [,,ca] [,,cd] [,d,a] | '[,cc1] [,d,a] H[ac,,a2] | \
+z1 [b,,a] V[,b,c] [,,cd] | [,d,,b1] ,,d '[,,a,d2] | \
+H,,,d3 [f,,d1] | [db1] [dc] '[b,,a] b |";french5tab
+274;;4-11;17 O Ewigkeit du donner Wort;;;Guitar;;C;"z1 ,,a1 (,a3/4 ,b/4) ('[,b,c3/4] ,a/8 ,b) | [,d,,c1] [,da] [a,,,d/] ,,,,c '[c,,,a1] | \
+[daa2] z1 ,,a1 | '[,aa1] [,b,c] [,d,,c/] ,,,,a [,da1] |";french5tab
+275;;4-12;18 Nun  danket alle Gott;;;Guitar;;C;"[a,,,a1] ,,,,c | [a,,,e2] [ac,,a] | [c,,a2] [cd,a] | [acc2] H,,,,a | \
+z2 [,cc,a] | [,db2] [,cc,a] | [,abc2] ,c1 [,d,a] | \
+'[,a,c3] ,,c1 | H[,,c,a3] :||:";french5tab
+276;;4-12;19 Nun ruhen alle Welder / Inn allen meinen Taten;;;Guitar;;C;"a1 | [,aa,d1] [,da] [ad,,d3/4] b/4 Vd1 | '[b,,a3/2] a/ [ab,,d1] a3/4 b/4 | \
+V[d,,c1] d [,da] [a,,,d3/4] ,d/4 | \
+'[,b,,a3/2] ,a/ H[,aa1] ,,a |";french5tab
+277;;4-13;20 O wir armen Sünder;;;Guitar;;C;"[,d,a1] ,d [,da] ,d | [ab,,d2] [,d,,c] | [,b,,a1] [,aa] [,b,,d] [,,ca] | \
+H',,a4 | [,da1] ,d [,d,a] [,da] | [ab,,d2] [,b,,a] | \
+[,d,d1] [a,,c] [b,,a] '[a,c] |";french5tab
+278;;4-13;21 O Traurigkeit;;;Guitar;;C;"z2 [ab,,d2] | '[,b,,a2] ,a | H[,abc4] | z2 ,,b2 | [,,c,a2] ,a | \
+H',,b4 | z2 [,a,c2] | [,b,,a2] [,d,,c] | [ab,,d2] [b,,a] | \
+'[,da3] ,b1 | H[,ba,d4] |";french5tab
+279;;4-14;22 Hertzlich thut mich verlangen;;;Guitar;;C;"[,aa1] | [ab,,d1] [,da,c] '[,b,,a] [,aa] | '[,,ca3/2] ,a/ [,aa2] | \
+z1 c1 V[d,,c] ([d,,,a/] c) | '[ca3/2] a/ [aabc2] :||:";french5tab
+280;;4-14;23 Gelobet seist du Jesu Christ;;;Guitar;;C;",d2 | [,dca1] ,d [ac,,a] [,d,a] | [c,,a1] f [daa2] | \
+[c,,a1] [f,,,a] [h,a] [f,,a] | \
+(3[a,a/4] c d) c/ '[a,,,a1] [,dca2] |";french5tab
+281;;4-14a;Paa Gud Allene;;Inlay [Auf Gott alleine];Guitar;;C;"[dbac2] [d,,,c1] b | [a,,,d2] a1 [,da] | [a,,,d/] c [d,,,a1] ,,,a c | \
+H[daaa4] | [dbac2] [d,,,c1] b | [a,,,d2] a1 [,da] |";french5tab
+282;;4-14a;Herre Jesu Christ;;Inlay;Guitar;;3/4;",d1 | [,dca3/2] ,c/ ,d1 | H[ac,,a2] [f,,d1] | [d,,c1] ,,,,a/ d [b,,a1] | \
+H[ac,,a3] | [a,,,a1] ,,,,e/ a ,,,,a a | [b,,a3/2] a/ ,,,d ,d |";french5tab
+283;;4-14a;A und O Anfang und Ende;;Inlay;Guitar;;C;"[,b,,d1] [,b,a] [,b,c] [,b,,d] | [,d,,c1] a/ b [a,,,d1] H[,da] | \
+[a,,,d1] f [,d,,c] d | [,b,,a/] a ,d ,b [,aaa1] H,,a |";french5tab
+284;;4-15;24 Vom Himmel hoch;;;Guitar;;C;"[d,a2] | [c,,a1] [a,,,e] [c,,a] [,d,,c] | [a,,,d1] '[c,,a] H[daa2] | \
+(3a1 c d) [d,a1] ,d | [,d,,c1] [,aa] ,d '[,b,,a] | \
+H[,aa3] ,a1 |";french5tab
+285;;4-15;25 Jesu meine Freude;;;Guitar;;C;"[ab,,d1] a [,da] V[,bc] | '[,a,c3/2] ,,c/ H[,,c,a2] | \
+[abc1] a [c,,a] [aa,,c] | [f,,,a2] H[ea,c] | \
+[f,,,a1] (3f/ h i) '[h,,a3/2] f/ | [f,,,a4] :||:";french5tab
+286;;4-16;26 Komst du, mein Jesu, vom Himmel;;;Guitar;;3/4;"[,ba,d1] ,b Vd | '[a,,,d3/2] ,d/ 'b1 | '[,aa3/2] ,,c/ ,a1 | \
+[,,ca1] ,a V[,b,,d] | '[,da2] [,ba,d1] :||: [db1] [db] [db] | \
+H[f,,,d3] |";french5tab
+287;;4-16;27 du Geist des Herrn der du von;;;Guitar;;C;"z1 [abc] [aab] [abc] | [,bc1] [a,,,a] [,db] [,bc] | \
+'[,a,a1] ,a H[,,c,a2] | z1 [,bc1] [,da] [b,,,c] | \
+[ab,,d1] d [b,,d] [a,,,d] |";french5tab
+288;;4-17;28 Seelen bräutigam Jesu;;;Guitar;;C;"[,d,a1] [,da] [,c,,a] [,d,a] | H[ac,,a2] [,d,e1] [a,,c] | \
+[c,,a1] '[a,,,a] H[,dca2] | [c,,a1] [d,,a] [f,,,e] [d,,,a] | \
+[c,,a1] [a,,,a] '[c,,a2] | H[ac,,a2] [,d,,c1] [ac,,a] |";french5tab
+289;;4-17;29 Wo wiltu hin weils abend ist;;;Guitar;;C;"z1 [,d,e1] '[,aa] [,d,,a] | [,,a,c1] (3[a,a/] c d) '[c,,a1] [a,,,a] | \
+H[,dca2] z1 [,d,e1] | [a,,c1] [c,,a] [dc] [cd,a] | \
+'[a,a1] [a,c] [,dca2] :||:";french5tab
+290;;4-18;30 Meine Seele wiltu ruhn;;;Guitar;;C;"[,da1] [,dd] [d,a] [,d,d] | [d,,b1] f H'[c,,a2] | \
+[d,a1] [d,d] [bd] [b,,a] | [b,,c1] '[a,,,a] H[,dca2] | \
+[b,d1] [b,c] V[,ea] [,dd] |";french5tab
+291;;4-18;31 Jesu o du Trost der Seelen;;;Guitar;;C;"[b,,a1] '[a,,,a] [,d,d] [,d,a] | [d,,c1] [b,,a] '[a,,,a2] | \
+H[,dca2] [a,c1] [a,a] | [b,,d1] f Vg [f,,d] | \
+'d2 H[bb,d] | [f,,d1] d '[b,,a] ,d |";french5tab
+292;;4-19;32 Gott wills machen;;;Guitar;;C;"[f,,a1] [dc] [b,,a] [a,,,a] | [b,,,a1] [a,c] [,dc] H'[,cc,a] | \
+[,d,d1] [a,,c] [b,,a] [a,c] | [b,,a1] [d,,,c] H[f,,,a2] | \
+[ac,,a1] [b,,a] [d,a] [b,,a] |";french5tab
+293;;4-19;33 Liebster Jesu Trost der Hertzen;;;Guitar;;C;"[,,c,a1] [,cc] [,ab] [a,,c] | [,c,,a1] [,d,a] '[,a,c] H[,,c,a] | \
+[a,,,a1] [a,,,e] [c,,a] [e,,c] | [f,,,a1] f 'e H[ea,c] | \
+[f,,,e1] [a,,,a] [c,,a1] (3,a/ ,c ,d) |";french5tab
+294;;4-20;34 Wie wohl ist mir o Freundt der Seelen;;;Guitar;;C;"z1 [,b,,d] [ab,,d] [a,,e/] ,d | [,da1] [d,,c] [,b,d] [b,,,c] | \
+'[a,,,d3/2] ,d/ H[,da2] | \
+z1 [a,,,d/] b [d,,,c] ,,,,d [,d,,c] ,,,,a |";french5tab
+295;;4-20a;Rind nu op i Jesu Navn;;Inlay;Guitar;;C;",,,c1 ,,,,c/ ,,,e ,,a1 ,,c | [,a,c1] [a,,,a] [,e,,c2] | \
+d1 ,,,a/ c [a,,,d1] [,d,,c] | [a,,,a1] [,a,c] [,b,,a] ,,c |";french5tab
+296;;4-21;35 Schmücke dich o Liebe Seele;;;Guitar;;C;"[a,,,d1] [,da] [,b,c] [,da] | [a,,,d1] [d,,c] [b,,a] H[a,,,d] | \
+d1 [a,,,d] [f,,,d] [d,,c] | [b,,a1] [a,,,d] [,da] H[,bacd] :||:";french5tab
+297;;4-21;36 O der alles hat verlohren;;14 Empy pages  without number;Guitar;;C;"[,,aab1] ,,c ,,d [,,ca] | (3,,a/ ,,c ,,d) ,b1 [,d,a] H,d | \
+d1 [f,,a] [g,a] f/ d | [d,,a3/2] c/ [d,a2] |";french5tab
+298;;4-22;Menuet;;;Guitar;;3/4;",,,,a/ ,,c ,,,,a ,,a ,,,,a ,,,d | ,,,,a/ ,,,c ,,,,a ,,,a ,,,,a ,,,,d | \
+,,,,c/ ,d a ,d ,b ,a |";french5tab
+;;;;;Sonata;;;;;
+299;;4-23;Adagio;;;Guitar;;C;"[f,,a3/2] (h/4 f) [f,,a3/2] (h/4 f) | \
+[hg/4] f (d c) '[a,a3/4] ,d/4 [,dca/] ,,,a ,,,,e ,,,,c | \
+[ac,,a3/2] (c/4 a) [ac,,a3/2] (c/4 a) |";french5tab
+300;;4-23;Allegro;;;Guitar;;2/4;"[,d,a1] Xf | V[c,,a/] a/4 ,d a/ ,,c | [,d,e1] Xf | \
+V[c,,a1] a/4 ,d [a,,,a/] ,,c | [d,,,a/] c/4 a V[c,,a/] ,,c |";french5tab
+301;;4-25;Pastorelle poco Allegro;;;Guitar;;3;"X,d1 ,,c/ [,d,a1] a/ | Vc1 a/ [c,,a1] d/ | [f,,a3/4] h/4 f/ [f,,a3/4] d/4 c/ | \
+[ac,,a1] ,,,,a/ [ac,,a1] c/ |";french5tab
+;;;;;Sonata;;;;;
+302;;4-26;Adagio;;;Guitar;;3/4;"[ac,,a/] ,,,,a ,,,,a [ac,,a] ,,,,a ,,,,e/4 ,,,,c | \
+[ac,,a/] ,,,,a ,,,,a [ac,,a] ,,,,a ,,,,e/4 ,,,,c | \
+[ac,,a1] ,,,,a2 | [ac,,a1] [ac/] [cd] [ac] [cd] |";french5tab
+303;;4-27;Allegro;;;Guitar;;2/8;"[ac,,a/] [cd,a] | [ac,,a/4] ,d ,c c | [ac,,a/4] ,d ,c c | \
+[ac,,a/4] ,d ',c/ | [ac,,a/4] ,d (3,c ,d a) |";french5tab
+304;;4-28;Adagio;;;Guitar;;3/4;"[ac,,a1] ([c,,a/] a) c a | ',d2 [,cc,a1] | \
+[,cc,a1] ([,d,a/] ,c) ,d ,c | '[,a,c2] [,,c,a1] | \
+[a,,,a/] ,d a1 (c/ a) |";french5tab
+305;;4-29;Menuet;;;Guitar;;3/4;"[,c,,a/4] ,d a/ c | [ac,,a/4] ,,,,c ,,,,a/ a | \
+[,c,,a/4] ,d a/ c | [ac,,a/4] ,,,,c ,,,,a/ a | \
+[f,,,a/] a/4 ,d ,c/ |";french5tab
+;;;;;[Weitere Stücke];[Further Pieces];;;;
+306;;4-30;1 Aria;;;Guitar;;C;"[,,c,a1] a/ ,d V[,b,,a1] [,a,c] | ,,,,a/ ,b ,,,,c ,d ,,,,d a ,,c1 | \
+,,,a/ b ,,,,d a ,,,,c ,d ,,,,a ,b |";french5tab
+307;;4-30;2 Polonese;;;Guitar;;3/4;"[a,,,a1] ,,c/ a ,,c a | [b,,a/] a b a ,d ,b | \
+[,da1] ,,a/ ,d ,,a ,d | [a,,,d/] ,d a ,d ,b ,a |";french5tab
+308;;4-30;3 Menuet;;;Guitar;;3/4;"[a,,,a1] f e | [f,,,a1] ,,c [,a,c] | ,,,,a/ ,b ,,a ,a ,,,d ,,c | \
+[a,,c/] ,d a b a1 | [a,,,a1] f e |";french5tab
+309;;4-31;4 Gavott;;;Guitar;;C;"[,,c,a1] [,abc] [,b,,a] a | [,d,,c1] ,b/ ,a [,b,,a] ,a ,,c1 | \
+[a,,,d1] f/ d [b,,a] a ,d a | ',d3/2 a/ [aa,c2] :||:";french5tab
+310;;4-31;5 Menuet;;;Guitar;;3/4;"[f,,,a1] f/ e f1 | [,,c,d2] [,a,c1] | [,b,,a/] ,a ,,c ,a ,b ,d | \
+[a,,c/] ,d a b a1 | [f,,,a1] f/ e f1 |";french5tab
+311;;4-31;6 Bouree;;;Guitar;;C;"a1 | [a,,,a1] f/ e f1 [a,,c] | V[,b,,a1] ,a/ ,b ,,c1 [a,,,d] | \
+[b,,a/] a ,d ,b ,a ,b ,a ,,c |";french5tab
+312;;4-32;7 Polonese;;;Guitar;;3/4;"[,,c,a1] (3,b/ ,a ,,c) [f,,d1] | [d,,c/] b 'a1 a | \
+[,b,,a/] ,a ,,c ,a ,b ,d | (3[a,,c/] a ,d) a1 ,,,,c :||:";french5tab
+313;;4-32;8 Menuet;;;Guitar;;3/4;"[,,c,a1] ,b/ ,d [a,,,d1] | [,b,,a1] ,a/ ,b ,,c1 | \
+[b,,a/] a ,d ,b ,a ,,c | ',,b1 ,,,c ,,,c | ,,,c1 ,,b ,a |";french5tab
+314;;4-33;9 Gig;;;Guitar;;6/8;"a/ | [a,,,a/] ,,c a a ,,c a | [b,,a/] ,,c b b ,,c b | \
+[a,a/] ,d ,b [,a,a] ,b ,,c |";french5tab
+315;;4-33;10 Aria;;;Guitar;;C;"[,ba,d1] [,a,a] [,ba,d] [,da] | [a,,,d3/4] a/4 ,d/ ,b [,aa] ,,c ,,a ,,,d | \
+[a,,c/] ,b [f,,d] ,b [,aa] ,,,d [,bcc] [,d,d] |";french5tab
+316;;4-33;11 Polonese;;;Guitar;;3/4;"[db1] a/ ,d a ,b | [db1] a/ ,d a ,b | [db,c/] d [f,,d] f [db,c1] | \
+[db,c/] d [f,,d] f [db,c1] |";french5tab
+317;;4-34;12 Marsch;;;Guitar;;C;"d1 | [d,,c/] b a b d1 [f,,d] | [d,,c/] b a b d [f,,ld] | \
+[d,,c1] b/ a [b,,a1] a/ ,d |";french5tab
+318;;4-35;13 Menuet;;;Guitar;;3/4;"[,b,,d/] ,a ,b ,d a b | [d,,c1] ,b d | ,,,d/ f ,,,c d ,,,a b | \
+[ab,,d2] [,da1] |";french5tab
+319;;4-35;14 Aria;;;Guitar;;3/4;"[ab,,d1] ',d3/2 ,b/ | [d,a1] ,,a [,b,c/] ,a | ,,,d/ ,,c ,,a ,a ,,,,a ,b | \
+[,da/] ,b ,a ,,c ,,a1 |";french5tab
+320;;4-36;15 Menuet;;;Guitar;;3/4;"[db1] f d | [b,,a1] a/ b d1 | [a,,,d1] b/ a [,da] b | \
+'[a,,,d1] ,d/ a ,b1 |";french5tab
+321;;4-36;16 Aria;;;Guitar;;C;"[ab,,d1] a/ (,d ,b) [,da1] a/ b | [d,,c1] b/ a [,da1] ,d | \
+[a,,c1] [,aa] [,b,,a] [,d,d/] a | '[,da3/2] ,b/ ,b1 ,,,,d :||:";french5tab
+322;;4-36;17 Menuet;;;Guitar;;3/4;"[,b,,d1] ,b/ ,a ,b1 | [,da1] ,d/ ,b ,d1 | [a,,,d1] b/ a ,d ,b | \
+[,da1] ,,a ,,a | [,b,,d1] ,b/ ,a ,b1 |";french5tab
+323;;4-37;18 Gig;;;Guitar;;6/8;",,a/ | [,b,,d/] ,d ,b ,b ,d ,b | V[,b,c1] ,,a/ ',,a1 ,,a/ | \
+[,d,a/] a ,d ,d a ,d | [,da1] ,,a/ ',,a1 ,d/ |";french5tab
+324;;4-37;19 Aimable;;;Guitar;;3/4;",b/ ,,d | ',,c3/2 ,,a/ ,,,d1 | ,,,d2 [,,ac1] | \
+,,,d/ ,,c ,,,c ,,a ,,,a ,,,d | [,ba,d2] ,b1 | \
+[b,,,a1] ,b [,da] |";french5tab
+325;;4-38;20 Marsch;;;Guitar;;C;",,c/ ,,d | [,b,d1] [,ba/] ,b [,b,,a1] [,da] | \
+[,b,d/] ,,d ,,c ,,a ,,,d1 Vb | ,,,,d/ a ,,,a b ,,,c d ,,,c f |";french5tab
+326;;4-38;21 Menuet;;;Guitar;;3/4;"[b,cd1] f [a,,,d] | [b,,d1] a/ ,d ,b1 | ,,,,b/ ,d ,,,,a ,b ,,a ,,d | \
+'[,,cd2] [,,a,d1] | ,,,d/ f ,,,c d ,,,a b |";french5tab
+327;;4-39;22 Menuet;;;Guitar;;3/4;",b1 | ,,c1 ,,,d [,da] | ,b1 ,,,,d b | ,,,,b/ ,d ,,,,a ,b ,,a ,,d | \
+,,c1 ,,,d b | ,,,,b/ ,d ,,,,a ,b ,,a ,,d |";french5tab
+328;;4-39;23 Allemand;;;Guitar;;C;",b1 | [,bc,a2] [,abc] | [,b,,a1] [a,a] [f,,d/] ,d ',d3/4 a/4 | \
+[a,,c3/2] b/ [a,,,d] ,d ,b ,a | \
+V[,b,,a1] [,a,a/] ,,c [,a,c1] ,,c/ ,,b |";french5tab
+329;;4-40;24 Menuet;;;Guitar;;3/4;"[a,,,a/] ,d ,b1 [,a,c] | [,b,,a/] ,a ,,c1 [,,bc] | \
+[,,c,d1] [,a,a] [,,bc] | [,,c,a/] ,,b ,,c ,a ,,c1 | \
+[a,,,a/] ,d ,b1 [,a,c] |";french5tab
+330;;4-41;25 Menuet;;;Guitar;;3/4;"[f,,a1] ,d [a,,,a] | [bd,a1] a/ b ,d1 | ,,a/ ,,d ,,,d f ,,,c d | \
+[bd,a1] ,,a [a,,,a] | [,,c,a1] d/ b d1 |";french5tab
+331;;4-41;26 Bouree;;;Guitar;;C;",d/ ,c | [,dca1] f/ d [f,,d1] [d,,c] | V[b,,a1] a/ b ,d1 [f,,d] | \
+[d,,c1] b/ a [b,,a1] a/ ,d |";french5tab
+332;;4-41;27 Menuet;;;Guitar;;3/4;"[,,ca1] ,d [a,,,a] | [bd,a1] ,,a [a,,,a] | [,d,a1] d/ b a ,d | \
+'[,c,,a1] ,,c ,,c | [,,cd1] ,d [,b,,a] | ,,d1 ,,,c [,,cd] |";french5tab
+333;;4-42;28 le faville;;;Guitar;;3/4;"[,d,a/] ,,c ,d b a ,d | [a,,,a/] ,,c a d b a | \
+[,d,a/] ,c ,d b [a,a] ,d |";french5tab
+334;;4-42;29 Marsch;;;Guitar;;C;"[b,,d1] [a,a3/4] ,d/4 [,bc,a1] (,,d/ ,,c) | \
+[,da1] [,ba,d3/4] ,,d/4 [,,cd1] ,,a/ ,,,d | \
+[,,cd/] ,b [,,ac] ,b [,,cd] ,b [,,ac] ,b |";french5tab
+335;;4-43;30 Aria;;;Guitar;;C;"[f,,d1] d/ b [d,,c1] ,b | [bd,a/] f [d,a] b [a,,,d1] ,b | \
+[b,,,a1] [,b,d] [,d,,b1] [,b,d/] ,d | \
+,,d/ ,d [,b,d] ,,d [,,cd1] ,,,d |";french5tab
+336;;4-43;31 Menuet;;;Guitar;;3/4;"[,b,d/] b ,b1 ,b | [,b,c/] b ,b1 ,b | [f,,d1] f/ d [d,,a] b | \
+[ab,,d1] ,d/ a ,b1 | ,,,,b/ ,d ,,d f f1 |";french5tab
+337;;4-43;32 Aria;;;Guitar;;C;"[bb,d1] ,,a [bb,,a] ,,,d | [db,c1] [f,,d] 'd ,b | \
+,,,d/ f ,,a g ,,,,a i ,,,,b d | 'd1 ,,,,d/ a Vb1 ,,,d :||:";french5tab
+338;;4-44;33 Menuet;;;Guitar;;3/4;,,,d/ b ,b b ,b b | ,,,c d ,b d ,b d | ,,,d/ f ,,,c d ,,,a b |;french5tab
+339;;4-44;34 Aria;;;Guitar;;C;"[,dca1] [ac,,a] [bd,a] [ac,,a] | [bd,a1] [d,a] [ac,,a] ,,c | \
+,,,a/ ,d ,,,,a ,b ,,a ,,d ,,,d ,,c | \
+'[,,a,d3/2] ,,,d/ ,,,d ,,a ,,,d ,,,c :||:";french5tab
+;;;Faszikel 5+6;Fascicle 5+6;Nur Notation;Staff only;;;;
+;;;Faszikel 7;Fascicle 7;Geistliche Gesänge, in unterschiedlichen Melodeyen in die Guittarre gesetzt durch N. Diesel;;;;;
+340;;7-2;1 Auf auf zu Gottes Lob;;;Guitar;;C;"z1 [,,a,d1] [,ba,d/] ,,,,c [,b,,a] ,,a | [,d,d1] ,,a/ ,d H[ab,,d2] | \
+z1 [,db,c1] V[,b,,a] [ab,,d] | [,d,d1] ,,a/ ,b H[,ba,d2] :||:";french5tab
+341;;7-3;2 Ach wan werd ich schauhen dich;;;Guitar;;C;"V[,d,a1] [ac,,a] V[b,,a] '[a,a/] ,d | '[,c,,a1] ,,,a/ ,d H[ac1] ,,,,a | \
+V[b,,a1] [a,a] '[a,,,a3/2] ,d/ | H[,d,a2] [,,c,d1] [,abc] |";french5tab
+342;;7-3;3 Auf auf mein Hertz mit freuden;;;Guitar;;C;"z1 [,bcd1] ,,c3/4 ,,d/4 [,bac1] | [,,da/] ,,,c [,,cd1] '[,,a,b1] ,,,,d/ ,,,d | \
+H,,,d2 z1 ,b1 | [,d,d3/4] a/4 V[b,,a1] '[a,a] ,,,,a/ ,d |";french5tab
+343;;7-4;4 Auf Christenmensch auf auf zum Streit;;;Guitar;;C;"z1 ,,,d1 [,,ca] V,,d/ ,,,d | [,bac1] [,bcd] [,,d,b] [,,cd] | \
+H[,,acd2] z1 [,b,d1] | \
+[,d,,b/] ,,,,a '[a,a1] V[bb,,a/] ,,,,b [a,,,d1] |";french5tab
+344;;7-4;5 Ach was sind wir ohne Jesu;;;Guitar;;C;"[,,c,a1] ,,,c [,,c,a] [,abc] | V[,b,,a/] ,,a [,d,d] ,b '[,a,a1] ,,,c/ ,,c | \
+H[,,c,a2] V[,bc,a1] [,a,c/] ,,,a | \
+[,,c,d1] [,ab] [,b,,a/] ,,a [,d,d1] |";french5tab
+345;e moll;7-4;6 du Geist des Herren;;auß E mol und A mol;Guitar;;C;"z1 [,aac1] [,a,b] [,a,,c] | [,,ac1] [,a,a] [,,c,d] [,,a,c] | \
+'[,,,ea1] ,,,,c/ ,,,c H,,,c2 | z1 [,,ac1] [,,ca] ,b | \
+[,aa1] [,d,,c/] ,,a [,b,,a] ,,,e [,aa1] |";french5tab
+346;a moll;7-5;6 du Geist des Herren;;auß A mol;Guitar;;C;"z1 [ab,,a] [aab] [aa,c] | V[,b,,a1] [,a,a] [,d,d] [,b,,a] | \
+'[,a,a1] ,,,c/ ,,c H[,,c,a2] | z1 V[,b,,a1] [,da,c] V[baa] | \
+[ab,,d1] [db,c/] ,,,,d [b,,a] ,,,,c [ab,,d1] |";french5tab
+347;e moll;7-6;7 Der schmale Weg ist breit genug;;auß E mol und A mol;Guitar;;C;"z1 [,a,c1] ',,a3/2 ,,,e | H[,,,ec2] z1 [,aa1] | \
+[,bac1] [,,ca/] ,,,c ([,d,a] ,b) [,aa] ,,c | \
+[,aaa1] [,,ca3/4] ,,a/4 H[,,aac2] | z1 [,,ca1] ,,c [,a,b] |";french5tab
+348;a moll;7-6;7 Der schmale Weg ist breit genug;;auß A mol;Guitar;;C;"z1 [ab,,a1] ',b3/2 ,a/ | H[,abc2] z1 [ab,,d1] | \
+V[bb,,a1] [,da,c/] ,,,,a [d,a] b [a,,,d] ,d | \
+[aba1] '[,da3/4] ,b/4 H[,ba,d2] | z1 [,da1] ,d [aab] |";french5tab
+349;;7-7;8 Entbinde mich mein Gott;;;Guitar;;3/4;"[,d,a1] | [,,c,e1] ,,,,c [,,a,a] | V,,,d1 ,,,c [,,,ab] | \
+H[,,cca2] [,d,d1] | V,,d2 [,,ca1] | [,,ac2] [,,c,a1] | \
+V,,,d2 H,,,a1 | z1 z1 [,d,d1] | [,bac1] ,,,a [,,d,d] |";french5tab
+350;;7-8;9 Es ist nicht schwer ein christ zu seyn;;;Guitar;;C;"z1 [,d,a1] Vb 'a/ ,d | [f,,,a1] [a,,,e] V[b,,a] '[a,a/] ,d | \
+H[,c,,a2] z1 [,,c,a1] | [,aa/] ,,,d [,cac1] [,d,a] [ac,,a] |";french5tab
+351;;7-8;10 Gott wils machen daß die sachen;;;Guitar;;C;"[,,ca/] ,,,c [,d,d] ,,a [,c,,a1] V[,d,a/] a | \
+[bd,,a1] 'a3/4 ,d/4 [,d,a1] H,d | V[,b,,a1] (,,d/ ,,c) [,,cd1] (,,d/ ,,c) | \
+[,,c,d1] ',,a3/4 ,,,d/4 H,,,d2 |";french5tab
+352;a moll;7-9;11 Jesu O du Trost der Seelen;;;Guitar;;C;"V [,bc,a1] [,abc] [,,cd] [,,cd/] ,,,c | [,d,a1] [,b,,a] '[,a,c3/2] ,,c/ | \
+H[,,c,a2] [,abc1] ,a | V[,b,,a1] [a,,,d] V[bd,,c] [a,,,d] | \
+[,d,d1] ,,a/ ,b H[,ba,d2] |";french5tab
+353;;7-9;12 Jesu meine Zuversicht;;;Guitar;;C;"[,bcd1] [,,cd/] ,,,c [,d,a1] [a,,,e] | [b,,a/] ,,,c [b,,d] [a,a] H[ac,,a2] | \
+[,d,d1] V[b,,a] [,bac] [,,cd] | [,d,,b/] ,b ,,d ,,c '[,,a,d3/2] ,,,d/ | \
+H,,,d4 :||:";french5tab
+354;;7-10;13 Ich liebe dich hertzlich;;;Guitar;;3/4;"(,,,a/ ,,,c) | ,,,e1 ,,,a ,,,e/ ,,a | [,,ce1] [,,ce/] ,,,c [,d,a1] | \
+[,d,,c1] ,,a/ a '[,c,,a1] | [,d,a1] H,d :||: (c/ d) |";french5tab
+355;;7-10;14 Jesu Jesu nichts als Jesu;;;Guitar;;C;",,,c1 ,,,c [,aac] [,a,a] | [a,,,e1] [,d,,c] ',c ,,,e/ ,a | \
+H[,a,ac2] [,d,,c1] [,d,e] | [,aa/] ,,,e [aa,c1] 'a ,,,,c/ ,e | \
+H[aa,c4] :||:";french5tab
+356;;7-10;15 Jehova dein regiren;;;Guitar;;3/4;"[,aa1] [,,ac] [,,ca] | [,aa1] ,,,c/ ,c [,d,a1] | \
+[aaa1] ,,,c '[,c,,a] | H[,d,a3] | [,aa1] [,bca] [,aa] | \
+'[,,ca2] [,,ac1] | [,,a,c/] ,,c [,,c,d1] ,,,a/ ,,a |";french5tab
+357;;7-11;16 Komst du mein Jesu vom Himmel;;;Guitar;;3/4;"V[,,c,a1] ,,c '[aab] | '[,c,,a1] ,,b/ ,a [,,ce1] | \
+[,,bc3/2] ,,,e/ ,,,c ,,,a | [,,c,e1] [,ab] V[,c,,a] | \
+'[,a,c3/2] ,,c/ H[,,c,a2] :||:";french5tab
+358;;7-12;17 Lasset uns den Herren preisen;;;Guitar;;3/4;",,,c2 ,,,c1 | [,aa1] ,,,e [aa,c] | [a,,,a1] ,,,e [,e,,c] | \
+[aa,c2] Ha1 | [d,,c2] [ca1] | [a,,,e2] V[,d,a1] | \
+[,d,,c1] ',c ,,,e/ ,a | H[,a,ac3] :||:";french5tab
+359;;7-12;18 Meine Seele wilt du ruhn;;;Guitar;;C;"[,aac1] [,aa/] ,,,e [aa,c1] [,a,a] | [a,,,d3/2] c/ H[,e,,c2] | \
+[aa,c/] ,,,e [a,a] ,,c [,d,,c1] (,d/ ,c) | \
+[,d,e1] ',c3/4 ,a/4 H[,a,ac2] |";french5tab
+360;e moll;7-13;19 Mein Jesu der du mich;;;Guitar;;3/4;"[,aac1] ',,a3/4 ,,,e/4 ,,,c1 | V[,b,,a1] ,,,a/ ,b [,aa1] | \
+[,,ac/] ,,,a [,,c,d1] [,a,,c] | [,,ac1] ,,,,c/ ,,,e H,,,c1 | \
+[aa,c1] [,a,a/] (,c ,d) a |";french5tab
+361;a moll;7-13;19 Mein Jesu der du mich;;;Guitar;;3/4;"[ab,,a1] (',b3/4 ,a/4) ,,c1 | V[b,,a1] ,,a/ b H[ab,,d1] | \
+[,b,,a/] ,,a [,d,d1] [aabc] | V[,b,,a1] '[,a,c] H[,,c,a] | \
+[f,,,a1] [a,a/] (b d) f |";french5tab
+362;;7-14;20 Mein Vatter zeige mich;;;Guitar;;C;"z1 [,,ca1] [,,cd/] ,,,c [,d,a1] | '[,c,,a1] ,,,a/ ,d H[ac,,a2] | \
+z1 V[b,,a1] [,bac] [,,cd] | \
+([,d,,b/] ,b) (,,d ,,c) '[,,a,d3/2] ,,,d/ |";french5tab
+363;;7-14;21 O durchbrecher aller bande;;;Guitar;;C;"V,,,d1 [,,ac] [,,cd] [,,a,d] | [,,cd/] ,,,c '[,aaa1] [,ba,d] H,b | \
+V[bb,,a1] [ba,a] [a,,,d/] ,d a1 | \
+[aba1] ',d3/4 ,a/4 V[,ba1] H,,,,d :||:";french5tab
+364;;7-15;22 O Ewigkeit du donner wort;;;Guitar;;C;"z1 ,,,d1 [,,cd/] ,,,c V[,,da1] | [,b,,a/] ,,a [,b,d1] [,d,,b/] ,,,,a '[a,a1] | \
+HV[bbcd2] z1 [,,cd1] | \
+[,,cd/] ,,,c [,,da1] [,b,,a/] ,,a [,b,d1] |";french5tab
+365;;7-16;23 ruhe ist das beste Guht;;;Guitar;;C;"[,,cd1] ,,a/ ,,,d V[,b,,a1] [,d,,b] | '[,b,,d3/2] ,,d/ H[,,cd2] | \
+V[b,,a1] [a,,,d] [,d,d] '[,da3/4] ,a/4 | V[,ba2] H,,,,d :||: \
+z1 [,d,d1] V[b,,a] '[a,,,a3/2] ,d/4 |";french5tab
+366;;7-16;24 Seligstes Wesen und endliche Wonne;;;Guitar;;C;"[,,ca3/2] ,a/ [,,c,e] ,,a | ,,,e1 ,,,a [,d,e] | \
+[,da3/2] a/ '[,c,,a1] | [,d,a2] H,d1 | [a,,,e1] ,,c [,a,a] | \
+[,,bc1] (,,,c/ ,,,a) [,,c,e1] |";french5tab
+;;;Faszikel 8;Fascicle 8;Solo C dur de La Guittarre;;;;;
+367;C dur;8-2;Allegro;;;Guitar;;C;"(3,b/4 ,d ,a) | [,ba,d/] ,a/4 ,,c [,,ac/] ,,,d ,,,c/4 ,,a ,b ,,a [,,a,d/] ,,c/4 ,a | \
+[,,cd/4] ,a ,b/ (3[,aa/4] ,b ,d)";french5tab
+368;C dur;8-3;Vivace;;;Guitar;;3/4;",b/ | [,ba,d3/2] ,,a/ [,,cd1] | [,,ac1] ',,,d3/2 ,,,c/ | \
+[,,,cd1] ,,,a ,,,c | [,,cd3/2] ,a/ [,bac1] | \
+[,d,d/] ,a ,b ,d a b |";french5tab
+369;C dur;8-4;Adagio;;;Guitar;;3/4;"[,,a,d/] ,,,a [,bac1] ,,,d/ ,d | '[,aa3/2] ,,c/ ,,a1 | \
+[,,cd/] ,a ,b ,,a ,,,d ,,,c | ',,,a3/2 ,,,,d/ ,,,,d1 |";french5tab
+370;C dur;8-4;Varation;;;Guitar;;3/4;"[,,a,d1] [,bac] ,,,d/ ,d | '[,aa3/2] ,,c/ ,,a1 | \
+,,c/ ,,a ,,,d ,d ,,,c ,b | ,,a/ ,,,d ,,,c ,,,a ,,,,d1 |";french5tab
+371;C dur;8-5;Menuet;;Volti Boure;Guitar;;3/4;"[,ba,d1] (,b/ ,a) ,b1 | [,da,c1] (,d/ ,b) ,d1 | \
+[a,,,d/] b d ,d [a,a] b | '[a,,,d1] ,d/ a ,b1 |";french5tab
+372;C dur;8-6;Gigue;;;Guitar;;6/8;"[,b,,d/] (,a ,b) (,b ,a) ,,c | ,,a/ (,,,d ,,,c) ,,,d (,,,c ,,,a) | \
+,,,c/ ,,a ,b [,,cd] ,a ,b |";french5tab
+373;C dur;8-7;Boure Allegro;;Volti Gigue;Guitar;;C;",,a1 | ,,,c/ ,,a ,b1 ,b/ ,a ,b ,,a | [,,cd1] [,,ac] ,,a/ ,,c ,,a ,,,d | \
+,,,c/ ,,a ,,,a ,,a ,,,c ,,a ,,,a ,,a |";french5tab
+;;;Faszikel 9;Fascicle 9;Suittes C dur de La Guittarre;;;;;
+374;C dur;9-2;Allegro;;;Guitar;;C;",b/ | V[,,ba/] ,,,,d ,,,,c/4 ,,a ,d ,a [a,,,d/] ,,,a ,,,c d | \
+,,,d/4 f ,,,c d ,,,a b ,,,,d a [,d,,c/] ,,a z/ [,,ac] |";french5tab
+375;C dur;9-3;Vivace;;;Guitar;;3/4;",b/ | [,ba,d3/2] ,b/ [,da] ,a | [,ba,d3/2] ,,,a/ [d,,c1] | \
+[f,,d/] d '[b,,a1] ,,,,d/ a | [,da,c1] ,,a z/ [,,a,d] |";french5tab
+376;C dur;9-4;Adagio;;;Guitar;;3/4;"[,ba,d1] ,,a [,bac] | [,d,,c1] ,,a [b,,a] | \
+,,,,d/ a ,,,,c ,d ,,,,a ,b | '[,aa3/2] ,,c/ ,,a1 | \
+[,bac1] (,b/ ,d/4) a ,d/ (a/4 ,b) |";french5tab
+377;C dur;9-4;Varation;;;Guitar;;3/4;"[,b,,d/] ,,a ,,,c ,,a b1 | [,d,,c/] ,a ,,a ,a ,d b | \
+[a,,,d/] d ,d d [,b,,a] d | '[,aa3/2] ,,c/ ,,a1 |";french5tab
+378;C dur;9-5;Menuet;;;Guitar;;3/4;"[,ba,d1] (,b/ ,d) [,ba] ,a | [,b,,d/] a ,b ,,a [,,cd1] | \
+[,,a,d/] ,b ,,a ,,,c [,d,d] ,b | '[,aa1] ,,c/ ,a ,,a1 |";french5tab
+379;C dur;9-6;Bourre Allegro;;;Guitar;;C;"(,b/ ,a) | [,b,,d1] ,,a ,,a ,b | '[,aa1] ,,c/ ,a ,,a1 (,b/ ,a) | \
+,b/ ,,a ,,,c ,,,,d (,,c ,,a) (,,,d ,,,c) |";french5tab
+380;C dur;9-7;Gigue;;;Guitar;;6/8;",,a/ | (,,,c/ ,,,a) ,,,,d ,,,a ,,,,d ,,,,c | ,,,,d3/2 ,,,,d1 ,,a/ | \
+(,,,c/ ,,,a) ,,,,d ,,,a ,,,,d ,,,,c | ,,,,d3/2 ,,,,d1 ,,a/ |";french5tab
+;;;Faszikel 10;Fascicle 10;Geistliche Gesange in bekandten Melodeyen in die Guittarre ubersetzt von Nathanael Diesel Königl: Lautenist;;;;;
+381;;10-3;1 Ach Gott und Herr;;;Guitar;;C;"z1 [,ba,d1] [,aa] '[,,ca] | H[,,aac2] z1 [,,a,d1] | \
+[,,cd/] ,,,c '[,aaa1] H[,ba,d2] | z1 [,ba,d1] [,da/] a V[,b,,a1] | \
+[,aa,c/] ,,,,a [,aa1] '[,,c,d] ,,,a/ ,,a |";french5tab
+382;;10-3;2 Allein du dir Herr Jesu Christ;;;Guitar;;C;"z1 [,b,,a/] ,,,,c [,,a,d1] [,,cd/] [,a,a] | \
+[,bac/] ,d [a,,,d1] [,d,d] ,,a/ ',a | H[,ba,d2] z1 [a,,,d] | \
+[,da1] [,b,,a] [,aa3/4] ,,c/4 [,,a,d1] |";french5tab
+383;;10-4;3 Ach waß soll ich sinder machen;;;Guitar;;C;",,,c1 [,,,ca] [,,a,c/] ,,,,a ,,a1 | [,,c,d/] ,,,,a [,,ca1] [,aa] H[,aa] | \
+[,da/] ,,,,a [,da,c] ,,a [,b,,a] ,,,e [,aa1] | \
+'[,,c,d1] ,,,a/ ,,a H[,,aac2] |";french5tab
+384;a moll;10-4;3 Ach waß soll ich sinder machen;;in A mol;Guitar;;C;"[,,c,a1] [,,ca] [,bac/] ,,,a [,ba,d1] | [,d,d/] ,,,a [,da1] [ab,,d] H[ab] | \
+[d,,,d/] ,,,a [db,c] ,,,,d [b,,a] ,,,,c [ab,,1] | \
+[,d,d1] ,,a/ ',a H[,ba,d2] |";french5tab
+385;;10-5;4 Am Wasserfließen babilon;;;Guitar;;C;"z1 [,da] [ab,,d] '[,d,a3/4] ,b/4 | [,a,c1] [,da,c] V[,b,,a] '[,,ca] | \
+H[,aa2] z1 [,,ca1] | [,aa1] [,d,e/] ,,a V[,b,,a] ,,,a [,aa1] |";french5tab
+386;;10-6;5 Allein Gott in der Höh sey Ehr;;;Guitar;;3/4;"(,,a/ ,,c) | [,aa/] ,,,e ,,,c ,,,a [,ba,d1] | \
+[,da,c/] ,,a ,,,a1 [,b,,a] | [,aa,c1] ,,,,d '[,,ca] | \
+H[,aa2] [,a,c/] ,,,e | [,aa3/2] ,b/ ,d a |";french5tab
+387;A dur;10-6;5 [Allein Gott in der Höh] selbige aus A Dur;;;Guitar;;3/4;",,c/ ,a | [,c,,a/] ,,b ,,,e ,,,c [,d,a1] | \
+[a,,,e/] ,,,,a ,,,c1 [,d,,c] | [,c,,a1] ,,,a '[,a,c] | \
+H[,cc,a3] ,c1 | [,c,,a3/2] ,d/ a c |";french5tab
+388;;10-7;6 Du o schönes Weltgebäude;;;Guitar;;C;"[aa,c1] [,a,a] [a,,,e] [a,de] | [,d,,c/] ,,,,e [,d,a] ,,,c '[,c,c1] ,,,e/ ,a | \
+H[,a,ac2] [,,a,d1] [,aa] | [,,cb1] [,,ac] '[,,,ea] ,,,,c/ ,,,c | \
+H,,,c4 :||:";french5tab
+389;;10-7;7 Freu dich sehr o meine Seele;;;Guitar;;C;",,a1 [,,ca] [,aa/] ,,,,d [,,ca1] | [,,ac/] ,,,,e ,,,e1 '[,,,ca3/2] ,,,a/ | \
+H,,,a2 [,,ac1] [,,ca] | [,aa1] V[,bca] [,aa] '[,,ca3/4] ,,a/4 | \
+H[,,aac4] :||:";french5tab
+390;;10-8;8 Herr Jesu Christ dich zu uns wend;;;Guitar;;3/4;"(,,a/ ,,c) | [,aa3/2] ,b/ [,d,e1] | '[,aa2] [,,ca1] | \
+[,aa1] ,,,e [,cac] | H[,d,a2] [a,,,d1] | '[,d,a3/2] ,b/ [,aa1] | \
+[,,ce1] ,,,a [,,ac/] ,,c |";french5tab
+391;;10-8;9 Herr Jesu Christ du höchstes gutt;;;Guitar;;C;"z1 [,ba,d1] [,,a,c] V[,b,,a] | [,aa/] ,,,d [,bac1] [,d,a] '[a,,,d3/4] ,d/4 | \
+H[,ba,d2] z1 ([a,,,d/] b) | \
+[d,,,c/] ,,,,a [d,a1] [a,,,d] [db,c] |";french5tab
+392;;10-9;10 Herr Jesu Christ meines lebens licht;;;Guitar;;C;"z1 ,,a [,,a,c/] ,,,,a ,,a1 | [,,,cd/] ,,,e [,,a,c1] [,,c,a] [,aa/] ,,c | H[,,a,d2] z1 [,aa1] | \
+[,aa/] ,,,e [,a,c] ,,,a [a,,,e1] [,d,a/] ,,,c |";french5tab
+393;C dur;10-9;10 [Herr Jesu Christ meines lebens licht] selbige aus C Dur;;;Guitar;;C;"z1 [,ba,d1] [,bac/] ,,,a [,b,,d1] | [,,cd/] ,a [,bac1] [,d,a] '[a,,,d3/4] ,d/4 | [,b,d1] H,,,,d z1 a1 | \
+[a,,,d/] ,,,,c ,,,,a ,,a [f,,e1] [d,,c] |";french5tab
+394;;10-10;11 Jesu meine freude;;;Guitar;;C;"[,aac/] ,,,e [,aa] ,,,c [,,ce] ,,,b [,,ac1] | \
+'[,,,ea1] ,,,,c/ ,,,c H,,,c2 | \
+[,aa/] ,,,e [,bac1] [,d,,c/] ,,,,a [,aa] ,,,e |";french5tab
+395;;10-10;12 Ich ruff zu dir Herr Jesu Christ;;;Guitar;;C;"z1 [,aac1] ',,a [,,ce] | [,,ac1] [,,,ca] [,,ac/] ,,,a [,,c,d1] | H[,a,bc2] z1 [,aac1] | \
+[,d,e1] [,aa/] ,,,b [,,ac] ,,,a [,,c,d] ,,,,c |";french5tab
+396;a moll;10-11;12 [Ich ruff zu dir Herr Jesu Christ] selbige aus a mol ;;;Guitar;;C;"z1 [ab,,a1] ',b [,da,c] | V[,b,,a1] [,,ca] [,b,,a/] ,,a [,d,d1] | H[aabc2] z1 [a,,,a1] | \
+[daa1] [a,,,d/] [,db] [,b,,a] ,,a [,d,d] ,,,c |";french5tab
+397;;10-12;13 Nun freut euch lieben Christen gemein;;;Guitar;;C;"z1 [,aac1] ',,a ,,,a | [,,ac1] V[,b,,a] [,aa,c/] ,,,,d '[,,ca3/4] ,,a/4 | H[,,aac2] z1 [,,ac/] ,,,a | \
+[,,c,d/] ,,,,c V[,b,,a1] [,aa,c/] ,,,,d [,,ca1] |";french5tab
+398;A dur;10-12;13 [Nun freut euch] selbige aus A dur;;;Guitar;;C;"z1 [,,c,a1] ',,c ,,,c | [,,ce1] [,d,,c] V[,c,,a/] ,,,a '[,a,c3/4] ,,c/4 | H[,,c,a2] z1 [,,ce/] ,,,c | \
+[,a,a/] ,,,,e [,d,,c1] V[,c,,a/] ,,,a [,a,c1] |";french5tab
+399;;10-13;14 Komt her zu mir;;;Guitar;;C;"z1 [,,c,a1] [,,cd/] ,,,c [,,ca1] | [ab,,d1] [,da] [aab] '[,b,,a] | \
+H[,abc2] z1 [,,c,d/] ,a | V[,b,,a1] [,abc] V[,bc,a] [a,c,d] | \
+[,db1] '[,b,,a] H[,abc2] |";french5tab
+400;;10-13;15 Nun lob meine Seel den Herren;;;Guitar;;3/4;"[,ba,d/] ,,,a | [,bac1] ,,,e [,aa] | '[,,ca2] ,,a1 | \
+([,b,,a/] ,d) [,d,d1] ,,a/ a | H[ab,,d2] [a,,,a/] ,,,,c | \
+[ab,,d2] [,da1] | [a,,,d/] ,,,a ,,,c ,,,d [,da1] |";french5tab
+401;;10-14;16 O Gott du frommer Gott;;;Guitar;;C;"z1 [,,ca/] ,,,,d [,d,,b1] [,b,d] | [,d,,b/] ,,,,a '[a,a1] HV[bbcd2] | \
+z1 ([a,a/] b) [d,,c1] [b,,a/] ,,a | \
+[ac,,a1] [,d,a] '[,c,,a3/2] ,a/ |";french5tab
+402;;10-14;17 O Herre Gott dein göttlig Wort;;;Guitar;;C;"z1 [,ba,d/] ,,,a [,bac] ,,,e [,aa1] | [,,ca1] ,,a/ ,,,d [,bac1] '[,d,a] | \
+H[ab,,d2] z1 [,da/] ,,,d | [db,c1] [ba,a] [a,,,d] [b,,d] |";french5tab
+403;;10-15;18 Straff mich nicht in deinem Zorn;;;Guitar;;C;"[,,cd1] V[,,da] [,b,,a/] ,,,,b [,b,,d1] | \
+V,,,d1 '[,,a,d] H[,,cd2] | [,d,,b1] '[a,a] V[b,,a/] ,,,c [,,cd1] | \
+'[,,a,b1] ,,,,d/ ,,,d H,,,d2 :||:";french5tab
+404;;10-15;19 Vater unser im Himmelreich;;;Guitar;;C;"z1 [,aac1] [,a,b] [,,ac] | V[,,ce1] [,a,b/] [,,ac] '[,,,ea1] ,,,,c/ ,,,c | H,,,c2 z1 [,aac1] | \
+[,aac/] ,,,e [aaa] ,,,c [,d,e] ,b [,aa] ,,c |";french5tab
+405;;10-16;20 Warumb solt ich mich den grämen;;;Guitar;;C;"V,,,d1 [,,a,d] [,,cd] V[,b,,a] | V,,d1 [,,cd] '[,,a,b1] ,,,,d/ ,,,d | \
+H,,,d2 [,,cd1] [,b,,a/] ,,,,b | \
+H[,,a,d2] [,,cd/] ,,,c '[,a,a1] |";french5tab
+406;;10-16;21 Warumb betrübs du dich mein Hertz;;;Guitar;;C;"z1 [,,aac1] [,,a,d] [,aa/] ,,,,d | [,,ca1] [,d,,c] [,bca] '[,aa] | \
+H[,,ca2] z1 [,aa1] | [,,a,d1] [,d,,c] [,b,,a] [,da,c] | \
+[,,a,d1] '[,aa] H[,ba,d2] |";french5tab
+407;A dur;10-17;21 [Warumb betrübs du dich mein Hertz] selbige aus A dur;;;Guitar;;C;"z1 [,,c,a1] ,,c [,c,,a/] ,,,a | [,a,bc1] [a,,,e] [,db] '[,c,,a] | \
+H[,abc2] z1 [,c,,a1] | [,,ca1] [a,,,e] [,d,,c] [a,,,e] | \
+[,,ca1] '[,c,,a] H[,d,a2] |";french5tab
+408;;10-17;22 Was mein Gott will das gesche alle zeit;;;Guitar;;C;"z1 [,,ca1] V[,b,,a] [,d,,b] | [,b,d1] V[b,,,a] [b,d] '[a,,,d] | \
+HV[bbcd2] z1 V[b,,a1] | [ac,,a/] ,,a [,d,d1] [d,,c] V[b,,a] | \
+'[a,a1] ,,,,a/ ,d H[,d,a2] :||:";french5tab
+409;;10-18;23 Wer nur den lieben Gott läst walten;;;Guitar;;C;"z1 [,ba,d1] [,b,,a/] ,,,,c [,,a,d1] | [,,cd/] ,,,c [,,ca] ,,,,d [,,a,c] ,,,,a ,,,d1 | \
+',,,c1 H,,,,d z1 ,,,c1 | ,,,d1 ,,,c ,,,a [,,a,c] |";french5tab
+410;D dur;10-18;23 [Wer nur den lieben Gott] selbige D dur;;;Guitar;;C;"z1 V[,d,a1] [,d,,c/] ,,,,e [,,ca1] | [,aa/] ,,,e [,a,c] ,,,a [,,c,e] ,,,,c [,,a,a1] | \
+',,,e1 H,,,a z1 ,,,e1 | [,,a,e1] ,,,e [,,,ca] [,,c,e] |";french5tab
+411;F dur;10-18;23 [Wer nur den lieben Gott] selbige F dur;;;Guitar;;C;"z1 [bb,d1] V[b,,a/] ,,,c [,b,d1] | [,d,,b/] ,,,,a [,da] ,,,d [,bac] ,,,a [,,d,d1] | \
+',,d1 H,,,d z1 [,,cd1] | \
+V[,,dc1] [,,cd] [,,a,d/] ,,,,b [,bac1] |";french5tab
+412;;10-19;24 Wo soll ich fliehen hin / Auf meinen lieben Gott;;;Guitar;;C;"z1 V[,,c,a1] ,,c [,abc] | V[,bc,a/] ,,a [,d,d1] H[aabc2] | \
+z1 [a,,,a/] ,,,,c [a,c,d1] [,db] | \
+V[,b,,a/] ,,,,c ,,,,d [,a,a] H[,abc2] |";french5tab
+413;;10-20;25 Ich bin ia Herr in deinner macht ;;pp.21-22 vacant;Guitar;;C;"z1 [,aac1] [,,ac/] ,,,e ,,,c1 | ,,,e1 [,,cb] '[,,ac3/2] ,,,e/ | \
+H,,,e1 ,,,,c z1 [,a,bc] | [,,ac1] [,bac] [,,ce/] ,,,c [,d,a1] | \
+[,aa1] ',a3/4 ,,c/4 H[,,ca2] |";french5tab
+;;;;;Morgen Gesänge;;;;;
+414;;10-23;Wie schön leuchtet der Morgenstern;;;Guitar;;C;"z1 V,,,d1 [,bac] [,,cd/] [,,a,d] | ,,,d1 [,bac] [,d,d] '[,da3/4] ,a/4 | \
+H[,ba,d2] z1 [,bcd1] | [,d,,b/] ,,,,a '[a,a1] V[b,,a] [ab,,d] |";french5tab
+415;;10-23;O Gott .. dir dancken;;;Guitar;;C;"z1 ,,,c [,,ca] [,abc] | V[,b,,a1] [,da] '[,aa3/2] ,,c/ | \
+H[,,a,d1] [,,a,d/] ,,,,c [,,c,a1] ,,c | [,a,,c1] ,a H,,,c2 | \
+z1 (,,,c/ ,,,a) [,,c,d1] [,ab,c] |";french5tab
+416;;10-24;3 Aus meines Herzens grunde;;;Guitar;;3/4;",,a1 | [,,aac2] [,d,e1] | '[,aa3/2] ,,c/ [,,ac1] | \
+,,,e/ ,,,,d ,,,,c ,,,,a ,,a1 | H[,,ca2] [,,ca1] | \
+[,aa3/2] ,b/ [,d,e1] | [,aa3/2] ,,c/ [,a,a] ,,c |";french5tab
+417;C dur;10-24;3 [Aus meines Herzens grunde] selbig aus C dur;;;Guitar;;3/4;",b1 | [,ba,d2] [d,,,c1] | '[a,,,d3/2] ,d/ [,b,,a1] | \
+[,aa/] ,,,d ,,,c ,,,a [,b,,d1] | H[,da2] [,da1] | \
+[a,,,d3/2] b/ [daa1] | [a,,,d3/2] ,d/ [a,a] ,d |";french5tab
+418;;10-25;4 Gottes Himmels und der Erden;;;Guitar;;C;",,,c1 ,,,c [,aac] [,a,a] | [a,,,d1] [,d,,c] [,c,c] ,,,e/ ,a | \
+H[,a,ac2] [,d,,c1] [,d,e3/4] ,b/4 | \
+[,aa/] ,,,e [aaa1] '[aa3/2] [,e,,c/] | H[aa,c4] :||:";french5tab
+419;;10-25;5 Ich dancke dir lieber Herre;;p.26 vacat;Guitar;;C;"z1 [,ba,d1] [,b,d] [,ba,d/] ,,,,c | V[,bc,a/] ,,a [,d,e1] [,aa] '[,,ca3/4] ,,a/4 | \
+H[,,aac2] z1 [,da,c/] ,,a | [ab,,d1] [,da] [,ba,d] '[,,ca3/4] ,,a/4 | \
+H[,,aac4] :||:";french5tab
+;;;;;Mittags Gesänge;;;;;
+420;;10-27;Nun last uns Gott den Herren;;;Guitar;;3/4;"[,ba,d/] ,,,a | [,bac3/2] ,d/ ,b ,a | [,,cd1] ,a [,bac] | \
+[,d,d1] '[,da3/2] ,a/ | H[,ba,d2] [a,,,d/] ,,,,c | \
+V[,bc,a1] ,,a [,d,e] |";french5tab
+421;;10-27;Nun danket alle Gott;;;Guitar;;C;"z1 [,da1] [,d,e/] ,,,a [,da1] | [a,,,d/] ,,,a ,,,c ,,,d H[,da2] | \
+z1 [,aa1] [,bca] [,aa] | \
+[,,ca/] ,,,,d [,aa,c1] '[,,c,d] ,,,a/ ,,a |";french5tab
+422;;10-28;Herr Gott nun sey gepreiset;;;Guitar;;C;"z1 [,ba,d1] [,b,d] [ab,c/] ,,,d | [,da/] ,,b V[,b,,a1] '[,a,a] ,,,c/ ,,c | \
+H[,,c,a2] z1 [a,,,a1] | \
+'[b,,a3/4] a/4 [,da1] [ab,c/] ,,,d '[,da3/4] ,a/4 |";french5tab
+423;;10-28;Was lobes sollen wir dir o Vatter;;;Guitar;;C;"z1 [,,c,a1] V[,bc] [,abc] | V[,b,,a1] [,da] [a,,,d] a | \
+[,db1] V[,b,,a] [,abc] H[,abc] | z1 [,abc/] ,,,a [a,c,d1] [,d,a] | \
+[,da1] [,bac/] ,,,e [,aa1] ,,c |";french5tab
+424;;10-28;Singen wir aus Hertzens grund;;;Guitar;;3/4;"[,,c,a3/2] ,a/ ,b1 | [,abc1] ,,,a [a,c,d] | [,db1] ,,,c V[,b,,a] | \
+H[,ab2] ,,,c1 | [,abc/] ,,,a ,,,,d ,,,,c V[,b,,a1] | \
+[,d,,c1] ,,,,a [aab] |";french5tab
+;;;;;Abendgesänge;;;;;
+425;;10-30;Nun ruhen alle Wälder;;;Guitar;;C;"z1 [,aa1] [,,a,d/] ,,,,c [,,c,a1] | [,aac1] [,da,c] '[,b,,a3/2] ,a/ | \
+H[,aa2] z1 [,aac/] ,b | [,da,c1] [,da,c/] ,,,,d [,,ca1] [,aa] |";french5tab
+426;;10-30;Nun sich der Tag geendet hat;;;Guitar;;C;"z1 [ab,,a1] ,,c [,abc] | V[,b,,a1] [,d,d] [aa,c] [a,,,a] | \
+H[aabc2] z1 a1 | [,d,,c1] [aab] '[,b,,a3/2] ,a/ | \
+H[,abc2] z1 [aab1] |";french5tab
+427;;10-30;Christ der du bist der helle tag;;;Guitar;;C;"z1 V[,,c,a1] [,,ca] V[,b,,a] | [,abc/] ,,,a [,,c,d] ,a V[,bc,a] ,,a [,d,d1] | \
+H[aabc2] z1 [a,,,a/] ,,,,c | \
+[a,,,d1] [a,,,a] [d,,,c/] ,,a [a,,,d1] |";french5tab
+428;;10-31;Christ der du bist Tag und licht;;;Guitar;;C;"z1 V[,,c,a1] V,b [,,ca] | [,,bc/] ,,,a [,,c,d] ,a V[,b,,a1] '[,a,c] | \
+H[,,c,a2] z1 [,aac/] ,,,e | \
+[,aa1] [,d,e] [,aa/] ,,,d [,,ac] ,,,a |";french5tab
+429;;10-31;In dieser abend stunde;;ff.32-34 vacant;Guitar;;C;"z1 [,,c,a1] ,,,c ,,,d | [,,ac/] ,,,a [,,c,d] ,,,,a [,abc1] H[,abc] | \
+z1 [,abc1] V[,b,,a] [,db] | \
+V[,b,,a1] '[,a,c3/4] ,,c/4 H[,,c,a2] |";french5tab
+;Faszikel 11;;Faszikel 11;Fascicle 11;Geistliche gesänge de La Guitarre;;;;;
+430;;11-3;1 Entbinde mich mein Gott;;;Guitar;;3/4;"a/ | [,,ac2] [,,ca1] | ',,a2 ,,,c1 | [,aa2] a1 | '[,b,,a2] [,aa1] | \
+[,,ce2] [,aa1] | ',,a2 H,,,c | z1 z1 [aaa1] | \
+[,d,a2] [,b,,a1] | '[,aa2] [,b,,a1] |";french5tab
+431;;11-3;2 Jesu o du Trostder Seelen;;;Guitar;;C;"V[,b,,a1] [,a,c] [,,cd] ,,c | V[,d,a1] [,b,,a] '[,a,c2] | \
+H[,,c,a2] [,a,c1] [,a,a] | [,b,,d1] a [b,,a] [a,,,d] | \
+'[,da2] H[,ba,d] | [ab,,a1] ,d [,b,,a] [,,cd] |";french5tab
+432;;11-4;3 Du Geist des Herren;;;Guitar;;C;"a1 | [ab,,a1] a ,b [ab,,a] | [,d,,c1] [,b,,a] '[,a,c3/2] ,,c/ | \
+H[,,c,a2] z1 ,b1 | [,da,c1] b [a,,,d] d | \
+V[b,,a1] [a,,,d] '[,da3/2] ,a/ |";french5tab
+433;;11-4;4 Meine Seele wilt du ruhn;;;Guitar;;C;"[,aac1] ,a [aaa] ,a | [a,,,d1] '[c,,,a] H[,e,,c2] | \
+[aa,c1] a [,d,,c] (,c/ ,a) | ',c3/2 ,,d/ [,ae1] H,,,,c | \
+[,d,,c1] ,d [,b,,a] (,a/ ,b) |";french5tab
+434;;11-4;5 Mein Vater zeige mich dein Kindt;;;Guitar;;C;",a1 | [,aac1] a [,e,,d] ([aa,c] | H[ca2]) ,,,,c1 [d,,c] | \
+[,d,,c1] [,aa] [a,,,d] ('[,b,,a/] ,a) | '[,,ca2] H[,,aac] | \
+z1 [h,a1] [f,,a] [h,a] |";french5tab
+435;;11-5;6 Ach wann werd ich schauen dich oder Jesus meines Hertzen freud;;;Guitar;;C;"[,,c,a1] ,,,c [,,c,d] [,a,c] | '[,b,,a1] ,b H[,abc2] | \
+[,aac1] a ('[,b,,a3/2] ,a) | H[,abc4] | [,,c,a1] ,,,c [,,c,d] [,a,c] | \
+'[,b,,a] ,b H[,abc2] |";french5tab
+436;;11-5;7 Gott wills machen;;;Guitar;;C;"[ab,,a1] [,d,,c] '[,b,,a] [,abc] | V[,b,,a1] [,a,c] [,,cd] H[,,bc] | \
+[,,c,a1] [,abc] V[,b,,a] [,a,c] | V[,b,,a1] ',d H[aa,c2] | \
+[,abc1] V[,b,,a] [,d,,c] [,b,,a] |";french5tab
+437;;11-6;8 O du liebe meiner liebe oder O Durchbrecher aller banden;;;Guitar;;C;"[,,aac1] [,,ca] '[,aa] [,,ca] | [,aa1] '[,c,,a] [,d,a] H,d | \
+[d,,c1] d [c,,a] [a,a] | '[a,,,a3/2] ,d/ H[,d,a2] | \
+[,,aac1] [,,ca] '[,aa] [,,ca] |";french5tab
+438;;11-6;9 Der schmale Weg ist breit genug;;;Guitar;;C;"a1 | V[,b,,a1] '[,a,a] H[,abc2] | z1 [a,,,d1] V[b,,a] [a,,,d] | \
+V[d,a1] [a,,,d] '[,da2] | H[,ba,d2] z1 ,d1 | \
+[,d,,c1] a '[,b,,a3/2] [,a,c/] |";french5tab
+439;;11-7;10 Ich liebe dich hertzlich o Jesu für allen;;;Guitar;;3/4;",,a1 | [,da1] ,d [,d,a] | [,da1] a [c,,a] | V[daa1] d [d,,c] | \
+'[c,,a1] Hc c | [ab,,d1] a a | [,d,a3/2] ,b/ [,aa1] |";french5tab
+440;;11-7;11 Es ist nicht schwer ein Christ zu seyn;;;Guitar;;C;"z1 [,,c,a1] V,b [,a,a/] ,,c | [a,,c1] ,a V[,b,,a] [,,ca] | \
+H[,,bc2] z1 ,,,c1 | ,,,e1 ,,b [,,c,a] [,a,c] | \
+V[,b,,a1] [,d,,c] [ab,,a] ([,d,a/] ,b) |";french5tab
+441;;11-8;12 Auf auf zu Gottes Lob;;;Guitar;;C;",,a1 | V[,ba,d1] ,b '[,da3/2] ,d/ | H[ab,,d2] z1 [d,,c1] | \
+V[,b,,a1] [,d,a] '[,da3/2] ,a/ | H[,ba,d2] z1 ,,a1 | \
+[,ba,d1] ,b '[,da3/2] ,d/ |";french5tab
+442;;11-8;13 Auf auf mein Hertz mit freuden;;;Guitar;;3/4;"[,,aac1] [,aa] [,d,,c] | [ab,,d2] [,da,c1] | '[,b,,a2] '[,aa1] | \
+V[,d,a1] ,,a [,,ca] | [,,ac2] '[,aa1] | H[,,ca3] | \
+[,,aac1] [,aa] [,d,,c] | [ab,,d2] [,d,,c1] | \
+'[,b,,a2] H[,aa1] |";french5tab
+443;;11-9;14 Jesu nichts als Jesu;;;Guitar;;C;"[,ba,d1] [,ba] [,ba,c] [,b,d] | [,bac1] [,d,a] [a,,,d/] ,d H[,da2] | \
+[,da1] ,d [,d,,c] [a,,,d] | [,aaa1] ',,c H[,,aac2] :||:";french5tab
+444;;11-9;15 Seelligstes Wesen;;;Guitar;;3/4;"[,bcd1] [,d,,b] [,b,c/] ,,d | ',,c1 ,,,d b | [b,,,a1] [d,,,b] [a,,,d] | \
+H[bb,d2] b1 | [d,,c1] ,b [,d,d] | '[,aa1] ,,a ([,b,c/] ,d) |";french5tab
+445;;11-10;16 Komst du nun Jesu vom Himmel;;;Guitar;;3/4;"[,ba,d1] a [d,,c] | [a,,,d1] ,d [,bac] | [ab,,d1] ,d [,bac] | \
+[,aa1] V[,b,,a] [,d,a] | '[,da3] | H[,ba,d3] | [,ba,d1] a [d,,c] | \
+[ab,,d1] ,d [,bac] |";french5tab
+446;;11-10;17 Mein Jesu der du mich;;;Guitar;;3/4;"[,aac1] ',,a ,,,c | '[,b,,a3/2] ,b/ H[,aa1] | [,,ac1] [,,ca] ,a | \
+',,a3/2 ,,,e/ ,,,c1 | [,d,a1] ,,c [,a,c] | \
+V[,b,,a1] '[,a,c] H[,,c,a] |";french5tab
+447;;11-10;18 Auf Christenmensch auf auf zum Streit;;;Guitar;;C;"z1 [,ba,d1] ',,a ,,,c | [,,ac1] ,b [,b,d] '[,aa] | \
+H[,ba,d2] z1 [ab,,d1] | [,d,a1] [,aa] [a,,,d] ([,d,a/4] ,b ,a) | \
+'[,,ca2] H[,,aac] |";french5tab
+448;;11-11;19 Ach was sind wir ohne Jesu;;;Guitar;;C;",,,d1 [,,ac] [,,cd] ,,,d | [,,cd1] '[,aa] [,ba,d] H[,b] | \
+[b,,a1] a/ ,d [,b,,a1] b | [b,,d1] '[a,,,d] HV[bb,d2] | \
+,,,d1 [,,ac] V,,c ,,,d |";french5tab
+449;;11-11;20 Jesu meine Zuversicht;;;Guitar;;C;"[,bcd1] ,,c [,d,a] [ac,,a] | '[b,,a1] b H[ac,,a2] | \
+[,d,,b1] V[bb,,a] [,bac] [,,cd] | [,d,,b1] (,,d/ ,,c) '[,,a,d2] | \
+,,,d4 | [,bcd1] ,,c [,d,a] [ac,,a] |";french5tab
+450;;11-12;21 Jehova dein regiren macht oder Ermuntre dich mein schwacher Geist;;;Guitar;;3/2;"[,aa2] ',,a [,,ca] | [,aa4] '[,c,,a2] | [,d,a4] '[,c,,a2] | \
+H[,d,a4] [,aac2] | [,ba,d4] [,aa2] | [,,ca4] [,aa2] | \
+'[,,ca6] | [,,aac6] :||:";french5tab
+451;;11-12;22 Lasset uns den Herren preisen und vermehret seynen ruhm oder Lasses uns den Herren preisen o ihr Christen überall ;;;Guitar;;3/2;",,,c2 ,,,c1 [,a,,c2] [aa,c1] | '[a,,,a2] [,e,,c1] '[aa,c2] Ha1 | \
+[d,,c2] [c,,a1] [a,,,e2] [,d,,c1] | ',c2 ,,d1 [,aVe2] ,,,,c1 |";french5tab
+452;;11-13;23 Ruhn ist das beste gutt oder Auf hinauf zu deinem Gott;;;Guitar;;C;"[,aa1] ,,a [,da,c] [a,,,d] | '[,b,,a3/2] ,a/ H[,aa2] | \
+[d,,c1] [c,,a] '[a,,,a3/2] ,d/ | H[,d,a4] | '[,aa1] ,,a [,da,c] [a,,,d] | \
+'[,b,,a3/2] ,a/ H[,aa2] |";french5tab
+453;;11-13;24 O Ewigkeit du freiden wort oder O Ewigkeit du donnerwort;;;Guitar;;C;"z1 [,,aac1] ,a V[,b,,a] | [,d,,c1] ,d [a,,,d] '[c,,a] | \
+HV[daa2] z1 ,,a1 | [,aa1] [,b,,a] [,d,,c] ,d | \
+V[,b,,a1] '[,aa] H[,,ca2] |";french5tab
+;Faszikel 12;;Faszikel 12;Fascicle 12;Suittes G dur de La Guittarre avec accompengement La Basso [staff];;;;;
+;Faszikel 13;;Faszikel 13;Fascicle 13;Menuetes Solo de La Guittarre;;;;;
+454;e moll;13-2;Menuet e-mol;;;Guitar;;3/4;",,,c1 ,,a ,a | ',,a1 ,,,e/ ,,a ,,,c1 | a1 ,e (a/ c) | \
+,,c2 z1 | ,,c1 ',,a/ ,,,e ,a1 | ',,a1 ,,,e/ ,,a ,,,c1 |";french5tab
+455;e moll;13-2;Varation;;;Guitar;;3/4;",,,c/ ,,,c ,,a ,a ,,a a | ',,a1 ,,,e/ ,,a ,,,c1 | \
+,,a/ a ,a ,e a c | ,,c1 ,,,e ,,,,c |";french5tab
+456;c moll;13-4;Menuet c-mol;;;Guitar;;3/4;",,,,d1 ,,,b ,,a | ,,,b1 (,,,a/ ,,,b) ,,,,d1 | ,b1 ,a ,d | \
+,,,d3 | ,,,d1 (,,,b/ ,,,a) ,,a1 | ,,,b1 (,,,a/ ,,,b) ,,,,d1 |";french5tab
+457;A dur;13-5;Menuet A dur;;;Guitar;;3/8;"[,,c,a/4] ,c ,a ,,,c ,a ,,,c | [,,c,a/] ,,b [,a,c] | \
+[,a,,a/4] ,d ,c ,,c a ,,c | ,,b/4 ,,,c ,a ,,b ,,,c/ |";french5tab
+;Faszikel 14;;Faszikel 14;Fascicle 14;Piesses Solo de La Guittarre accompengement Le Basso;;;;;
+458;;14-2;Aria Adagio;;;Guitar;;3/4;"[,,ca1] V,,,d ,,,a | ,,,,e1 ,,,,a z1 | [,,cd1] ,,a ,,,,e | \
+[,,ca2] z1 | [,,cd1] ,,,c ,,,,d | [,,cd1] ,,,,a z1 | \
+[,d,,b1] ',,a2 |";french5tab
+459;;14-2;Menuet;;;Guitar;;3/4;"[,dca2] [,dca1] | [,,c,a2] z1 | [ac,,a1] ,c ,,c | [,dca2] z1 | \
+V,,d1 ',,a2 | [,,dc2] z1 | [a,c,e2] [,c,,a1] | [,dca2] z1 | \
+[,,ac2] [,,ac1] |";french5tab
+460;;14-3;Aria Adagio;;;Guitar;;3/4;"[,da/] ,,,,e ,,,a ,,,c ,,,d ,,a | ,,c/ ,,,,a ,,c ,,a ,,,d ,,,c | \
+b/ ,,,d a ,,,c ,d ,,,a |";french5tab
+461;;14-4;Menuet;;;Guitar;;3/4;"[bd,a2] [,c,,a1] | [,d,d1] ,,a ,,,d | [,,ac2] ,c1 | [,d,a1] ,,c ,d | \
+,,d1 ,,a [,,dc] | [,,cd1] z1 z1 | [,d,d2] [a,a1] | \
+[,c,,a1] ,,,c ,,,,a :||:";french5tab
+462;;14-4;Siciliano;;;Guitar;;12/8;",,c/ | [,bcd1] [,bcd/] [,bac1] [,ba,d/] [,bcd1] ,,a/ ,,c1 [,,a,d/] | \
+[,d,d1] ,,a/ [,bc,a1] [,bc,a/] [,bc,a1] ,,a/ ,,,d1 [,,ac/] |";french5tab
+463;;14-6;Vivace;;;Guitar;;3/8;"[,bcd1] z/ | [,,cd/] ,,c ,,a | [,,cd1] z/ | [,,cd/] ,,c ,,a | \
+[,,cd1] [,d,,b/] | [,ba,d1] z/ | [,,cd/] ,,,d ,,,c | \
+[,,cd/] ,,,d ,,,c |";french5tab
+464;;14-7;Adagio;;;Guitar;;3/4;"[,bcd/] ,,a [,bc,a1] [,d,,b] | [,,cd3/2] ,,a/ [,bc,a1] | \
+[,,da1] [,d,,b] ,,a | [,ba,d1] z1 z1 | [,ba,d2] [,bcd1] | \
+[,aa1] ,,,d [,bac] |";french5tab
+465;;14-8;Aria Lamenta;;;Guitar;;3/4;"[,bc,a2] ,,c/ ,b | [,a,c1] (,b/ ,a) [,,c,a1] | [aabc2] [,abc1] | \
+[,,c,a/] ,,,,d ,,,c ,,b ,,c ,,,c | [,a,b2] ,,,,c/ ,,,,e |";french5tab
+466;;14-8;Menuet;;;Guitar;;3/4;"[,,c,a2] [a,c,d1] | [,bc,a1] (,,c/ ,,b) ,,c1 | [a,c,d2] [,abc1] | \
+,,c1 ,,,c ,,,,a | [,,c,a2] [a,c,d1] | [,abc2] [,ab1] | \
+[,b,,a2] [,d,a1] |";french5tab
+467;;14-9;Aria Adagio;;;Guitar;;3/4;"[,,c,a1] [a,c,d] [,abc] | [,bc,a2] z1 | [aab2] [,abc1] | \
+[,bc,a2] [,bc,a1] | [,,c,a2] [,,bc1] | [,bc,a2] ,,a1 | \
+[a,cd2] ',d1 | [,abc/] ,,,d ,,,c ,,,a ,,,,d ,,,,c :||:";french5tab
+468;;14-10;Menuet;;;Guitar;;3/4;"[,bc,a1] ,,c [,abc] | [,bc,a2] ,,c1 | [,abc1] ,a [,,bc] | \
+,,c1 ,,,c ,,,,a | [,bc,a2] [a,,,d1] | [,d,,c2] [,d,a1] | \
+[ab,,d1] [,d,d] '[,aa] |";french5tab
+469;;14-10;Lamento;;;Guitar;;3/4;"[,bc,a2] [,d,a1] | [a,c,d2] z1 | [aabc1] ,a ,,,c | [,d,,c1] [,d,a] [,abc] | \
+[,bc,a1] z1 z1 | [,bc,a2] [,,cd1] | [,d,a2] [,ba,d1] | \
+[,aa2] [,,ac1] |";french5tab
+;Faszikel 15;;Faszikel 15;Fascicle 15; Suittes Solo C dur Suir La Guittarre par Diesel;;;;;
+470;C dur;15-3;Adagio;;;Guitar;;C;"[,ba,d/] ,,,a [,,ac] ,a/4 ,,c [,bac/] ,,,a ,,,c [,ba,d] | \
+[,da,c/] [db,c] '[b,,a] [daa] [ab,,d] ,,,a \
+[,bac/4] a [,d,d] ,b |";french5tab
+471;C dur;15-3;Allegro;;;Guitar;;C;"V,b/ ,,,,d ,,,,d (,,,c/4 ,,,d) ,,a/ ,,a ,,a | \
+[,b,,d/] ,a/4 ,,c ',,a/ ,,,d ,,,c (,,,a/4 ,,,c) ,,,,d/ ,,a |";french5tab
+472;C dur;15-5;Adagio;;;Guitar;;3/4;"[ab,,a1] ,,c [,abc] | ([,b,,a/] ,a) (,b ,d) [a,,,d1] | \
+[,d,,c/] b 'a ,d '[,b,c] ,a | '[,b,,a1] (,a/ ,c) ,,c1 |";french5tab
+473;C dur;15-6;Allegro;;;Guitar;;3/4;"[,,a,d1] ,,a ,,a | [,,a,d1] (,b/ ,a) ,b1 | [,da,c1] ,,a ,d/4 a b/ | \
+'[a,,,d1] ,d/ a ,b1 | [ab,,d1] (b/ a) [,d,d] ,b |";french5tab
+;Faszikel 16;;Faszikel 16;Fascicle 16;Aria Solo D mol Suir La Guittarre Caro vieni al mio;;;;;
+474;d moll;16-1;Aria Caro - Solo;;;Guitar;;3/8;"[,dca3/2] | [ac,,a3/2] | V[b,,a/] d b | [a,,,a/] f ,,c | \
+[,dca3/2] | [ac,,a3/2] | [b,,a/] [d,a] [b,,a] | \
+[ac1] ,,,,c/ :||:";french5tab
+475;d moll;16-2;Aria Caro;;;Tab + Staff + Text;;3/8;"[,dca3/2] | [ac,,a3/2] | V[b,,a/] d b | [a,,,a/] f ,,c | \
+[,dca3/2] | [ac,,a3/2] | [b,,a/] [d,a] [b,,a] | \
+[ac1] ,,,,c/ :||:";french5tab
+476;d moll;16-4;Varation - Solo;;;Guitar;;3/8;"[,d,d/] ,,,c ,,,a | [a,,,e/] ,,,,c ,,,,a | [b,,a/] d b | [a,,,a/] f ,,c | \
+[,d,d/] ,,,c ,,,a | [a,,,e/] ,,,,c ,,,,a |";french5tab
+477;d moll;16-5;Varation;;;Guitar;;3/8;"([,d,a/4] ,c) ,d b 'a ,d | [a,,,a/4] ,,c a d 'b a | \
+[b,,a/4] ,d d a b ,d |";french5tab
+478;d moll;16-6;Aria Varation;;;Tab + Staff + Text;;3/8;"[,d,d/] ,,,c ,,,a | [a,,,e/] ,,,,c ,,,,a | [b,,a/] d b | \
+[a,,,a/] f ,,c | [,d,d/] ,,,c ,,,a | [a,,,e/] ,,,,c ,,,,a |";french5tab
+;Faszikel 17;;Faszikel 17;Fascicle 17;;;;;;
+479;;17-1;1 Wie schön leuchtet der Morgenstern;;;Guitar;;C;",bcd2] ',,c ,,,d [,bac] ,b [,d,d] '[,aa] V[ba] H,,,,d | \
+[,bcd2] [,d,,b] [a,,,d] [b,,a] [a,,,d] '[,da3] ,a1 H[,ba,d] |";french5tab
+480;;17-1;2 Gottes Himmels und der Erden;;;Guitar;;C;"[,ba,d2] [,da,c] [a,,,d] [d,,c] [,b,,a] [,aa] '[,,ca] H,,a | \
+[,,cd2] [,aa] [b,,a] [,d,d] '[,da3] ,a1 H[,ba,d2] :||:";french5tab
+481;;17-2;3 Ich danke dir lieber Herre;;;Guitar;;C;"[,ba,d2] ',b '[,b,,a] [,b,c] '[,d,d] '[,,ca] H[,,aac] | \
+[,d,,c2] [a,,,d] [,d,,c] [,b,,a] [,d,a] H,,a :||: \
+[db,c2] [b,,a] [a,,,d] [,d,,c] [a,,,d] ('[b,,a1] a) H[,da2] |";french5tab
+482;;17-2;4 Wach auf mein Hertz und singe;;;Guitar;;C;"[bb,d2] 'b [a,,,d] [,d,,b] [b,,d] '[d,a] H[b,,d] | \
+[b,,d2] [d,,c] d [a,,,d] [d,,c] '[b,,a] H[ab,,d] | \
+[,b,,a2] [b,,d] b [d,,c] [f,,d] '[d,a] Hd |";french5tab
+483;;17-3;5 O Gott ich thu Dir danken;;;Guitar;;C;"[,,ca2] V,d [ac,,a] V[b,,a] [d,,c] '[a,,,d1] ,d ,b2 | \
+[,b,,a2] [,da,c] ,d [a,,,d] '[,a,c3] ,,c1 H[,,c,a2] :||: \
+[f,,d2] f [d,,c] '[b,,a] [d,a] H[ac,,a] |";french5tab
+484;;17-3;6 Allein Gott in der Höhe sey Ehr;;;Guitar;;C;"[,ba,d2] a [b,,a] [d,,c] [b,,a] [a,,,d] '[,da] H[ab,,d] | \
+[ab,,d2] 'a [,d,,c1] a [b,,a2] [a,,,d] '[,da] H[,ba,d] :||:";french5tab
+485;;17-4;7 Herr Jesu Christ dich zu uns wend;;;Guitar;;C;"[,ba,d2] a [d,,c] [a,,,d] [,d,,c] [a,,,d] [c,,a] H[daa] | \
+[f,,d2] [d,,c] [b,,a] [a,,,d] [,d,d] '[,da3] ,a1 H[,ba,d] |";french5tab
+486;;17-4;8 Nun freuht euch lieben Christen gemein;;;Guitar;;C;"[,ba,d2] ',b [,,ac] V[,b,,a] V[b,,a] [a,,,d] [,da3] ,a1 H[,ba,d] | \
+[,bac2] [,da,c] V[b,,a] [a,,,d] [,d,d] [,aa] H[,ba,d] :||:";french5tab
+487;;17-5;9 Vater unser im Himmelreich;;;Guitar;;C;"[,,ca2] ,,c ,,,d [,,ac] [,,cd] ',,,c3 ,,,a1 H,,,a2 | \
+[,,ca2] ,,c [,d,,b] '[,b,,a] ,,c ,,,d '[,,a,d] H[,,c,a] |";french5tab
+488;;17-5;10 Jesu meine freude;;;Guitar;;C;"[ab,,a2] 'a [,d,,c] [,b,,a] '[,a,c] H[,,c,a] | \
+[ab,,a2] a [d,,c] a [f,,d] H[ef] | \
+[f,,,a1] h i2 'e3 e1 H[f,,,a2] :||:";french5tab
+489;;17-6;11 Ich bin ja Herr in deiner macht;;;Guitar;;C;"[,ba,d2] [,bac] [a,,,d] V[,b,,a] ,b [,d,,c] '[,da] H[ab,,d] | \
+[d,,c2] [b,,a] [a,,,d] [,d,,c] [a,,,d] \
+V[b,,a] '[a,,,d] H[,da] |";french5tab
+490;;17-7;12 1 Am Waßerflüßen babilon / 2 Ein lämlein geht und trägt die Schult;;;Guitar;;C;"[db,c2] [f,,d] f [a,,,d] [d,,c] '[b,,a3] a1 H[ab,,d2] | \
+[,d,,c2] [a,,,d] V[b,,a] [d,,c] \
+([b,,a1] a) '[,da2] H[,ba,d] :||:";french5tab
+491;;17-7;13 1 Wo soll ich fliehen hin / 2 Auff meinen lieben Gott;;;Guitar;;C;"[,,c,a2] ,,c [,abc] V[,b,,a] '[,da] [aab] H[,,,c] | \
+[a,,,d2] a [,d,,c] [,b,,a] ([,d,a1] ,b) H[,abc2] | \
+[,abc2] V[,b,,a] [,d,,c] [a,,,d] a [,da,c] H[ab,,d] |";french5tab
+492;;17-8;14 Du schönes Weltgebäude;;;Guitar;;C;"[f,,,a2] a [d,,c] [f,,,a] [h,a] [d,,c] '[ca] H[aa,c] | \
+V[,b,,a2] [,d,,c] [a,,,d] ('[,b,,a1] ,a) \
+'[,a,c3] ,,c1 H[,,c,a2] :||:";french5tab
+493;;17-9;15 1 Freuy dich sehr o meine Seele / 2 Treier Gott ich muß dirs klagen;;;Guitar;;C;"[,ba,d2] [,da,c] [ab,,d] [,da,c] [,b,,a] [,aa] '[,,ca] H[,,aac] | \
+[,bac2] [,da,c] [a,,,d] ([b,,a1] a) '[,da3] ,a1 H[,ba,d2] :||:";french5tab
+494;;17-9;16 Wer nur den lieben Gott läst walten;;;Guitar;;C;"[b,,d2] 'b [,b,,a] [,d,,b] '[,b,,a] ,,d '[,,cd] ,,a1 H[,,,d] | \
+[,,cd2] (,,c1 ,,d) [,,cd1] [,,ac] ,b \
+[,d,d] '[,aa] H[,ba,d] :||:";french5tab
+495;;17-9;Wer nur den lieben Gott läst walten 2 Melodie;;;Guitar;;C;",,c2 | [,d,a2] [ac,,a] V[b,,a] [a,,,a] [,d,,b] [a,a1] ,d [,c,,a2] H[,,c] | \
+[,bac2] ',b V,,d [,,cd] [,d,a] (a b) [a,,,a] |";french5tab
+496;;17-10;17 Herr ich habe müß gehandelt;;;Guitar;;C;"[,d,a2] ,,c1 ,a [,b,,a2] [,d,a] [a,,,a] V[b,,a] '[a,,,a] H[,d,a] | \
+V[b,,a2] [a,,,a] [d,a] [ac,,a] V[b,,a] '[d,a] H[f,,,a] :||:";french5tab
+497;;17-10;18 Jesu der du meine Seele;;;Guitar;;C;"[f,,a2] b [a,,,a] V[b,,a] [d,,c] [b,,a] '[a,,,a] H[,d,a] | \
+V[b,,a2] b [a,,,a] [,d,,b] '[,c,,a3] ,d1 H[ac,,a4] :||:";french5tab
+498;;17-11;19 Herr Jesu Christ du höchstes gutt;;;Guitar;;C;"[,ba,d2] [,,ac] V[,b,d] [,aa] [,b,,a] [,da,c] [a,,,d1] ,d H,b2 | \
+[ab,,d2] [,d,,c] [a,,,d] V[b,,a] [d,,c1] \
+b '[a,,,d2] H[,da4] :||:";french5tab
+499;;17-11;20 Ach was soll ich Sinder machen;;;Guitar;;C;"[,,c,a2] ,,c1 ,a V[,b,,a2] ,b [,da,c] ,d [ab,,d] Ha | \
+[d,,c2] d '[b,,a] [a,,,d] '[,da3] ,d1 H[ab,,d4] |";french5tab
+500;;17-12;21 Allein zu dir Herr Jesu Christ;;;Guitar;;C;"[b,,d2] [,b,,a] ,d1 a [b,,d2] f '[d,a3] a1 H[b,,d2] | \
+[f,,d2] [d,,c] [b,,a] [a,,,a] [,d,a] \
+V[d,a] [b,,a] '[a,,,a] H[,d,a] :||:";french5tab
+501;;17-13;22 Waß mein Gott will daß gesche allezeit;;;Guitar;;C;"[,,ca2] V,d [,d,a] [,b,,a] V[b,,a] [b,,,d3] a1 H[b,,d] | \
+V[b,,a2] [a,,,a] [,d,a] V[d,a] [b,,a] '[a,,,a] H[,d,a4] :||:";french5tab
+502;;17-13;23 Warumb betrübst du dich mein Herrtz;;;Guitar;;C;"[,d,a2] ,d V[b,,a] [a,,,a] [d,,c] [f,,d] '[b,,a] H[ac,,a] | \
+V[b,,a2] ,d [f,,d] [d,,c] [f,,d] [,da] [c,,a] H[d,a] |";french5tab
+503;;17-14;24 Nun lob meine Seel den Herren;;;Guitar;;C;"[,ba,d2] [,bac] '[,aa] [,,cd] [,,ac] V[,b,,a] '[,da] H[ab,,d] | \
+[ab,,d2] 'a [,d,,c] [b,,a] [a,,,d] X[,da3] ',a1 H[,ba,d] :||:";french5tab
+504;;17-15;25 Jesu der du meine Seele;;;Guitar;;C;"[f,,a2] b [a,,,a] V[b,,a] V[d,a] [b,,a] '[a,,,a] H[,d,a] | \
+V[b,,a2] b '[a,,,a] [,d,,b] [,c,,a] [,d,a] H[ac,,a4] :||:";french5tab
+505;;17-15;26 Ach Gott und Herr;;;Guitar;;C|;"[,ba,d2] [,aa] '[,,ca] H[,,a] | [,,ac2] [,,cd] '[,aa] H[,ba,d] | \
+[ab,,d2] [,da,c] ,a y | V[,b,,a2] [,aa] '[,,ca] H[,,aac] | \
+[,bac2] '[,aa] V[,b,,a] H[,da] |";french5tab
+506;;17-16;27 Straff mich nicht in deinem Zorn;;;Guitar;;C;"[,,cd2] V,,d V[,b,,a] ,b ,,,d '[,,a,d] H[,,cd4] | \
+[,d,,b2] [a,,,d] V[b,,a] (,,d1 ,,c) '[,,a,d2] H[,,,d4] :||:";french5tab
+507;;17-16;28 Herr Jesu Christ meines lebens licht;;;Guitar;;C;"[,ba,d2] [,b,,a] '[,aa] [,,cd] V[,b,,a] [,d,a] '[,aa] H[,,ca] | \
+[,da,c2] ,d [,d,,c] V[,b,,a] [,aa] '[,,ca3] ,,a1 H,,a2 |";french5tab
+508;;17-17;29 O Gott du frommer Gott;;;Guitar;;C;"[db,c2] d [db,c] [f,,d] f H[db,c] | \
+[ab,,d2] V[b,,a] [a,,,d] [,d,,c] [a,,,d1] b \
+'[,da2] H[,ba,d] :||:";french5tab
+509;;17-17;30 Kommt her zu mir spricht Gottes Sohn;;;Guitar;;C;"[,,c,a2] ,,c [,,c,a] [a,,,d] [,d,,c] [a,,,d] '[,b,,a1] ,a H[,abc2] | \
+[,abc2] V[,b,,a] [,d,,c] [a,,,d] a X[,d,a3] ',b1 H[,abc2] |";french5tab
+510;;17-18;21 Warumb solt ich mich den grämen;;;Guitar;;C;"[,d,a2] [,c,,a] [,d,a] [ac,,a] V[b,,a] '[a,a1] ,d '[a,,,a2] H,,c | \
+V[b,,a2] [d,,c] H[ac,,a4] | [,d,,b2] ,d H[,c,,a4] |";french5tab
+511;;17-18;22 O Herr Gott dein göttliches wort;;;Guitar;;C;"[,ba,d2] [,bac] '[,aa] [,,cd] [,,ac] V[,b,,a] '[,da] H[ab,,d] | \
+[,da,c2] [d,,c] '[b,,a] [a,,,d] [,d,d] '[,da] H[,ba,d4] :||:";french5tab
+512;;17-19;33 Ich ruff zu dir Herr Jesu Christ;;;Guitar;;C;"[ab,,a2] ,b [,d,a] '[,b,,a] ,,c V[,b,,a] [,da] H[aa,c] | \
+[ab,,d2] [d,,c] a1 ,d V[,b,,a2] [,d,,c] '[b,,a] H[ac,,a4] :||:";french5tab
+;;;;;Tisch Gesänge;;;;;
+513;;17-20;35 Nun last uns Gott den Herren;;;Guitar;;C;"[,ba,d2] ',b [,aa] ,,c [,d,d] '[,da] H[,ba,d4] | \
+[,ba,d2] [,da,c] ,d [,aa] [,d,a] '[,b,,a] H[,aa4] | \
+[,,ac2] [,b,,a] ,b [,da,c] [ab,,d] [,da] H,d4 |";french5tab
+514;;17-20;36 Herr Gott nun sey gepreiset;;;Guitar;;C;"[,ba,d2] ,b [a,,,d] [,d,,c] [,b,,a] '[,a,c] H[,,c,a4] | \
+[ab,,d2] V[b,,a] [,d,,c] [a,,,d] '[,da] H[,ba,d4] :||: \
+[,ba,d2] [ab] [a,,,d] V[b,,a] [,d,,c] [d,,c] H[,da4] |";french5tab
+515;;17-20;37 Was lob sollen wir dir o vater / brunn;;;Guitar;;C;"[,,c,a2] V,b [,a,c] V[,b,,a] [,d,,c] [a,,,d] a [,d,,c] [,b,,a] [,abc] H,a | \
+[,abc2] [a,,,d] [,d,,c] ,d [,b,,a] [,aa] [,b,,a] [,d,,c] \
+[,b,,a] '[,a,c] H[,,c,a] :||:";french5tab
+516;;17-21;38 Nun danket alle Gott;;;Guitar;;C;"[db,c2] d [d,,c] [f,,d] f [db,c] H,,,,d | \
+[ab,,d2] [b,,a] [a,,,d] [,d,,c] [a,,,d1] b '[,da2] H[,ba,d4] :||: \
+[,da,c2] ,d [,da,c] [a,,,d] a H[,da4] |";french5tab
+517;;17-21;39 Singen wir aus Hertzen Grund;;;Guitar;;C;"[,,c,a2] ,b [,a,c] [,d,,c] [a,,,d] '[,b,,a] H[,abc4] | \
+[,abc2] V[,b,,a] [,d,,c] [a,,,d] V[,b,,a] '[,a,c] H[,,c,a] | ,,d2 | \
+[,abc2] [a,,,d] [,d,,c] [,b,,a] [,aa] '[,,ca] H[,,aac] |";french5tab
+;;;;;Abend Gesänge;;;;;
+518;;17-22;40 Nun ruhen alle Wälder;;;Guitar;;C;"[a,,,d1] ,d [,b,,a2] [,d,,c] [a,,,d] [d,,c] '[b,,a] H[ab,,d4] | \
+[a,,,d1] b [d,,c2] d [,d,,c] [a,,,d] '[,b,,a] H[,aa4] |";french5tab
+519;;17-22;41 Unser mühden Augenglieder;;;Guitar;;C;"[,ba,d2] [,da,c] [a,,,d] [,d,,c] [,b,,a] [,aa] '[,,ca] H,,a | \
+[,ba,d2] [,d,,c] [a,,,c] ([b,,a1] a) '[,da3] ,a1 [,ba,d4] :||:";french5tab
+520;;17-23;Werde munter mein gemüthe;;;Guitar;;C;"('[a,a,d1] b) [d,,c2] [f,,d] [b,,a] [a,,,d] '[,da] H,d | \
+[,b,,d1] [d,,c] b '[a,,,d] '[,da3] ,b1 H[,ba,d4] :||:";french5tab
+521;;17-23;Christ der du bist der helle Tag;;;Guitar;;C;"[,,c,a2] ,,c [,b,,a] '[,a,c] ,,c [,b,,a] '[,da] H[ab,,d] | \
+[ab,,d2] a [a,,,d] [d,,c] ([b,,a1] a) '[,da3] ,a1 H[,ba,d] |";french5tab
+522;;17-24;In dieser abend stunde;;;Guitar;;C;"[,ba,d2] ,b [,b,,d] [,b,,a] ,,c [,,ac] H[,da4] | \
+[,da,c2] [a,,,d] ([b,,a1] a) '[,da3] ,a1 H[,ba,d4] | \
+[,da,c2] [a,,,d] V[b,,a] '[,da3] ,a1 H[,ba,d4] |";french5tab
+523;;17-24;Christ der du bist Tag und licht;;;Guitar;;C;"[,,c,a2] V,b [,,c,a] [,,bc] [,,c,a] ,b '[,a,c] H[,,c,a] | \
+[,abc2] ,a [,d,,c] [,aa] ,,a [,,cd] [,aa] H[,ba,d] |";french5tab
+524;;17-25;46 Nun sich der Tag geendet hat;;;Guitar;;C;"[ab,,a2] ,,c [,abc] V[,b,,a] ,b '[,da3] ,d1 H[ab,,d4] | \
+[a,,,d2] [,d,,c] [a,,,d] '[,b,,a3] ,a1 H[,abc4] | \
+[,d,,c2] [,b,,a] [,a,c] V[,b,,a] [,,cd] \
+[,,bc3] [,,c,a1] H[,abc4] |";french5tab
+;Faszikel 18;;Faszikel 18;Fascicle 18;Christliche Arien ein Halb Dutzend, angenehme Melodeyen in der Guittar gesetzt mit accompengement Guittare und Clavicembalo Basso durch Nathanäel Diesel;;;;;
+525a;;18-2;Aria 1 Mein König liebt mich noch;;;Guitar;;2/4;",b/ | [b,,d1] [,d,,b] | '[,b,,d3/2] ,,d/ | [,,cd1] z/ ,,c/ | \
+[,,ac/] ,b [,aaa] [,ba,d] | [b,,a1] [ab,,d] | '[,da2] | \
+V[,ba1] H,,,,d :||:";french5tab
+526a;;18-4;Aria 2 Nun unverzagt;;;Guitar;;6/8;",,a/ | [,da,c3/2] [ab,,d] | [,da3/2] z/ z/ [,aa/] | \
+V[,b,,a1] [,aa/] '[,,ca1] ,,a/ | ,,,e3/2 z/ z/ [,,ca/] | \
+[,aa1] [,c,,a/] [,d,a1] ,,c/ |";french5tab
+527a;;18-6;Aria 3 Wie wohl ist mir bey Jesu liebes zug;;;Guitar;;3/8;"d/ | [,ba,d1] ,b/ | [,da,c1] [a,,,d/] | V[b,,a1] [f,,d/] | \
+'[d,a1] [b,,a/] | [ab,,d1] [,da,c/] | [ab,,d1] a/ | \
+[,da,c1] d/ | V[,b,,a1] [,b,a/] | [,aa1] (,b/4 ,a) |";french5tab
+528a;;18-8;Aria 4 Ihr Zähren fliest,;;;Guitar;;C;"[a,,,a/] | V[b,,a1] [aa,c] [,e,e] z/ [,d,,c/] | \
+[,b,,a/] a [,b,b] ,b [,abc1] z/ a/ | \
+'[a,,,a1] ,,c V[b,,a1] z/ f/ |";french5tab
+529a;;18-10;Aria 5 Die Hoffnung Gott ;;;Guitar;;3/8;"[c,,a/] | '[a,a1] [,c,,a/] | [,d,a1] ,,c/ | [,a(a/] [,,c)] ,,a | \
+(,,,e/4 ,,,c) ,,,a/ ,,c | [,d,,c1] [,ab/] | [aa,c1] [,,c,a/] | \
+[,d,,c1] '[,a,c/] |";french5tab
+530a;;18-12;Aria 6 Ergebe dich gar weßter geist;;;Guitar;;2/4;",b/ | [b,,d1] '[a,,,d] | [b,,d1] z/ [,b,,a/] | [,d,,b1] ,b/ ,,d | \
+[,,cd1] z/ ,,c/ | [,,ac/] ,b [,aaa] [,ba,d] | \
+V[b,,a1] [a,,,d] |";french5tab
+;Faszikel 19;;Faszikel 19;Fascicle 19;accompengement Guittarre ou Clavicembalo, par Nathanäel Diesel;;;;;
+525b;;19-2;Aria 1 Mein König liebt mich noch;;;Staff;;;;
+525c;;19-3;Aria 1 [Mein König liebt mich noch];;;Guitar;;2/4;",b/ | [bbcd1] [,d,,b] | [,bcd/] ,,,,d ,,,d ,,c | [,bac1] [,aaa/] ,,,,d | \
+[,da,c1] [ab,,d] | '[,da1] [,aa] | [,ba,d3/2] :||:";french5tab
+526b;;19-4;Aria 2 Nun unverzagt, Siciliano;;;Staff;;;;
+526c;;19-5;Aria 2 [Nun unverzagt] Siciliano;;;Guitar;;6/8;",,a/ | [,da,c1] [,aa/] [aba1] ,,,,d/ | [,da/] ,,,a ,,,,c ,,a1 [,,ac/] | \
+[,,c,a1] [,aa/] [,,ce1] [,,ac/] | [,d,a/] ,,c ,,,e ,,,a1 ,d/ |";french5tab
+527b;;19-6;Aria 3 Wie wohl ist mir [bey Jesu];;;Staff;;;;
+527c;;19-7;Aria 3 [Wie wohl ist mir bey Jesu];;;Guitar;;3/8;"[,bac/] | [,ba,d3/2] | [,aa1] [,ba,d/] | [,d,a1] [,d,d/] | \
+,a/ ,,a ,a | [ab,,d1] [,da,c/] | [ab,,d3/2] | [,da,c1] z/ | \
+[,bc,a1] [,bca/] | [,aa1] ,,a/ | '[,,ca3/2] |";french5tab
+528b;;19-8;Aria 4 Ihr Zähren fliest;;;Staff;;;;
+528c;;19-9;Aria 4 [Ihr Zähren fliest];;;Guitar;;C;"[a,,,a/] | [bd,a/] [bd,a] [aa,c] [,abc] [,ece] [,ece] [aab] [,db,c] | \
+[,bc,a/] [,bc,a] [,b,b] [,b,b] [,abc] ,,,,c ,,,c a |";french5tab
+529b;;19-10;Aria 5 Die Hoffnung Gott;;;Staff;;;;
+530b;;19-10;Aria 6 Ergebe dich;;;Staff;;;;
+529cc;;19-11;Aria 5 [Die Hoffnung Gott];;;Guitar;;3/4;"[cd,a/] | [aaa/] ,a [,c,,a] | [,d,e/] ,,,c ,,,a | [,aa/] [,,c,a1] | \
+,,,e/ (,,,a/4 ,,,c) ,,,a/ ,,,,e | ,,,,c/ ,d [,ab] | \
+[aabc/] ,,,a ,,,,e |";french5tab
+530c;;19-11;Aria 6 [Ergebe dich];;;Guitar;;2/4;",b/ | [bbcd1] [aba] | V[bdc/] ,,a ,,c ,,,d | [,d,,b1] [,bac/] ,,d | \
+[,,cd/] ,,,,d ,,,d ,,c | [,aa/] [,bac] [,aaa] [,ba,d] |";french5tab
+;Faszikel 20;;Faszikel 20;Fascicle 20;Aria A dur de La Guittarre Si, si m'el ricorderò;;;;;
+531;A dur;20-8;Ari Si, si;;;Guitar;;C;"V[,c,,a1] z/ a ,,c ,a ,c ,d | \
+[ac,,a1] V[c,,a] [a,,,a/] (,d/4 ,c) [,d,,c/] (,c/4 ,a) | \
+V[,c,,a1] V[c,,a] [a,,,a/] ,c [,d,,c] (,c/4 ,a) |";french5tab
+;;;;;Suittes G dur;;;;;
+532;G dur;20-12;Allegro;;;Guitar;;C;"d/ | ,,a/ d ,,a d (,,a/4 ,,c) (,a ,b) ,d/ d | \
+,,a/ d ,,a d (,,a/4 ,,c) (,a ,b) ,d/ [a,,,d] |";french5tab
+533;G dur;20-14;Adagio;;;Guitar;;3/4;"[aa,c1] Vd a | [a,,,c1] ,e z1 | [ca1] f c | [d,,c/] c a1 z1 | \
+[,e,,c/] c ,a f d c |";french5tab
+534;G dur;20-16;Bouree;;;Guitar;;2/4;"d/ | '[,aa1] [,b,,a] | [,da,c1] z/ [a,,,d] | [,aa/] ,b ,d [a,,,d] | \
+[,da/4] (,b ,a) ,,c ,,a/ d | '[,aa1] [,b,,a] |";french5tab
+;;;;;Suittes G dur;;;;;
+535;G dur;20-20;Allegro;;;Guitar;;2/4;",,a/ | (,,a/4 ,,c) (,a ,b) ,d/ [a,,,d] | [,d,,c/] (a/4 c) d/ ,,a | \
+(,,a/4 ,,c) ,a ,b ,d/ [a,,,d] |";french5tab
+536;G dur;20-22;Adagio;;;Guitar;;C;"[a,,c/] ,a ,a [,b,,a] ,a ,,,c z/ ,a | \
+[a,,,d/] [c,,,a/4] d [ca/] (d/4 f) [d,,c/] a z1 |";french5tab
+537;G dur;20-22;Menuet alternative;;;Guitar;;3/4;"[,da1] (,a/ ,b) ,d1 | [,da1] (,a/ ,b) ,d1 | \
+[,da/] d c a [,d,a] ,b | '[,aa1] ,,c/ ,a ,,a1 |";french5tab
+538;e moll;20-23;Trio mol;;;Guitar;;3/4;",,a1 (,,a/ ,,c ,,d) ,b | V[,d,,b1] ,,a ,,a | \
+[,da1] (d/ c) [d,,a] f | [g,a1] d d | ,,a1 (,,a/ ,,c ,,d) ,b |";french5tab
+;Faszikel 21;;Faszikel 21;Fascicle 21;Sept Pieces Solo de la Guitare Premiere très humblement dediées à Son Altesse Royale la Princesse Charlotte Amalie par Nathanael Diesel;;;;;
+539;C dur;21-3;Solo Adagio;;;Guitar;;C;"[,ba,d/] ,,,,c [,b,,a] ,,a [,b,d] ,,,c ,,,a ,,,,d | \
+,,,,a/4 ,b ,d a (b a) [b,a] ,d [ab,,d/] ,d/4 ,b) (,b ,d) a ,b |";french5tab
+540;C dur;21-4;Allegro;;;Guitar;;2/4;"[,b,,d/4] ,d a b d/ '[,aa] | [,bac/4] ,d (a b) d/ '[,aa] | \
+[,b,,d/] ,,a [,d,,c] ,,a | [a,,,d/4] ,d ,b/ (,b/4 ,d) a ,b |";french5tab
+541;C dur;21-6;Adagio;;;Guitar;;3/4;"[db,c1] ,b/ a [,d,d] ,b | '[,aa2] [,ba,d1] | \
+,,,d/ ,,c ,,,c ,,a ,,,a ,,,d | ',,,c2 ,,,a1 | \
+([,b,c/4] ,a) ,b/ (,b/4 ,a) ([,b,,a] ,a) ,b/ |";french5tab
+542;C dur;21-6;Allegro;;;Guitar;;C;",b1 | [,,a,d2] ,,,d | (,,,c/ ,,,a) ,,,,d1 z/ ,b | \
+,,a/ ,,,d ,,a ,,c (,,,d ,,,c) ,,,d ,,a | ,,,c1 ,,,,d z1 ,b |";french5tab
+543;C dur;21-7;Gigue;;;Guitar;;6/8;"[,b,,d/] ,,a ,b ,b ,,a ,b | V[,b,,a3/2] ([,b,c/] ,a) [,,cd] | \
+(,,a/ ,,c) ,,,d (,,,c ,,,d) ,,,a | \
+(,,,c/ ,,,a) ,,,,d ,,,,d1 a/ |";french5tab
+544;C dur;21-8;Menuet;;;Guitar;;3/4;"V[,ba1] ,,,,d ,,,,d | [,b,c/] ,d a ,b [,da] ,a | \
+[,bac1] ,,,,d ,,,,d | [a,,,d/] b d a [b,a] ,d |";french5tab
+545;d moll;21-8;Solo Allegro;;;Guitar;;C;",,c/ | [,d,a/] ,,c [a,,,a] ,,c ([b,,a/4] a) (,d ,c) ,d/ ,,c | \
+[,d,a/] ,,c [a,,,a] ,,c ([b,,a/4] a) (,d ,c) ,d/ [a,,,a] |";french5tab
+546;d moll;21-10;Vivace;;;Guitar;;3/4;",,c/ | [,,ca1] ,,,d/ ,,c ,,d ,,a | [,,ca1] ,,,d/ ,,c ,,d ,,a | \
+[,,ca/] ,d ,,c a ,d b |";french5tab
+547;d moll;21-12;Adagio;;;Guitar;;3/4;"[,,ca1] V,,d3/2 ,,d/ | ,,,,e2 ,,,a1 | ,,a/ ,,,d (,,a/4 ,,c) ,,d/ [,,c,a] ,,a | \
+',,,d3/2 ,,,c/ ,,,a1 | (,,d/ ,,c) ,d3/2 ,,,d/ |";french5tab
+548;d moll;21-12;Allegro;;;Guitar;;C;",,c1 | [,d,a1] a/ ,c ,d1 a/ ,c | [,d,a1] ,,c ,,c ,,d | \
+[,,c,a1] ,,a/ ,,,d (,,,c ,,,d) ,,a ,,,c |";french5tab
+549;d moll;21-13;Menuet en Polonese;;;Guitar;;3/4;"[,d,a/4] (,c ,d/) ,,c1 ,,a | ,,,d/4 ,,a ,,c/ ,,,a1 ,,,a | \
+[b,,a1] a [,d,,b] | ([,c,,a/4] ,d) a/ ,,c1 ,,,,a |";french5tab
+550;a moll;21-14;Solo Allegro;;;Guitar;;C;"a/ | [,,c,a/] ,a '[,a,c3/4] ,,c/8 ,a [,b,,a/4] ,,c ,b a f/ ,,c | \
+[b,,a/4] ,d ,a ,,b ,,,c b a ,d [,b,,a] ,,c z/4 (,a ,b ,d) |";french5tab
+551;a moll;21-16;Andante;;;Guitar;;6/8;"[f,,,a/4] ,a '[,a,c3/4] ,,c/8 ,a [,b,,a/4] ,,c ,,b ,,c V[b,,a/] | \
+[a,,,d/] f [,,ca] '[,a,c1] [,,c,a/] | \
+[a,,,d/] ,,c a [,d,,c] ,,b ,d |";french5tab
+552;a moll;21-17;Vivace;;;Guitar;;3/4;"a/ | [,,c,a/] ,a '[,a,c3/2] ,,c/4 ,a | [,b,,a/] ,,,c ,,c ,b a ,b | \
+[,,c,a/] ,,,c ,,c ,b a ,,c |";french5tab
+553;a moll;21-18;Allegro;;;Guitar;;C;"[ab,,a2] V[b,,a] | [a,,,a/] ,d ,b ,d a1 ,,c | [ab,,a2] [b,,a] | \
+[ab,,a2] z1 ,,,c | [,,c,a1] ,,c/ ,b [,a,c1] ,a/ ,d |";french5tab
+554;a moll;21-19;Andante;;;Guitar;;3/4;"(3[,,c,a/4] ,a ,,c) (3,b ,d ,b) (3a b a) | [a,,,a/] ,b ,b ,,c ,,c ,,,c | \
+(3,,b/4 ,,c ,,b) (3 ,a ,b ,a) (3,d a ,d |";french5tab
+555;a moll;21-20;Allegro;;;Guitar;;C;"a/ ,d | [,b,,a1] a [,a,c] a | [,b,,a1] ,,c ,,,c a/ ,d | \
+[,b,,a1] a [,a,c] a | V[,b,,a1] ,,c ,,,c a/ ,d |";french5tab
+556;a moll;21-20;Menuet en Polonese;;;Guitar;;3/4;"[,b,,a/] a ,b a [,a,c] a | [,,c,a/4] (,a ,b ,d/) a ,b ,,c ,,,c | \
+[,,c,a/] ,,b ,,c ,b [,a,c] ,d |";french5tab
+557;G dur;21-21;Solo Allegro;;;Guitar;;C;",,a/ d ,d ,a ,,a ,,,a ,,a1 | \
+[,,ac/] ,,c/4 ,a [,,ca/] (,a/4 ,b) [,aa] ,,c ,,a/ ,,a ,d |";french5tab
+558;G dur;21-23;Adagio;;;Guitar;;3/4;"[daa1] 'd3/2 f/ | V[c,,a1] 'b [d,a] | [ab,,d1] ',d ,,,a/ ,b | \
+'[,aa/] ,,c ,,a2 | ,a/ ,,a (,a/4 ,b) ,d/ [,b,,a] ,a |";french5tab
+559;G dur;21-24;Gigue;;;Guitar;;6/8;",,,a/ | ,,a1 ,a/ ,a1 ,d/ | [,da1] d/ d1 [,d,,c/] | \
+[a,,,d/] ,d ,b (,b ,d) a | [,d,,c1] ,,a/ ,,a1 ,d/ |";french5tab
+560;G dur;21-26;Menuet Polonese Alternativement;;;Guitar;;3/4;"[d,a/] ,d ',a1 ,,,,a/ ,b | [,d,,c/] ,a ,,a1 [,,ca] | \
+,a/ ,,,a (,,a/4 ,,c) ,a/ ,,c/4 (,a ,d/) | '[,,aa2] [,,ca1] |";french5tab
+561;g moll;21-27;Trio;;;Guitar;;3/4;",,d/ ,b ,d ,,d ([,,ca/4] ,,d) ,b/ | ,,d/ ,b ,d ,,a ,,,e/4 ,,a ,,c/ | \
+(,,a/ ,,c) ,,d ,b ,d ,e |";french5tab
+562;G dur;21-28;Solo Allegro;;;Guitar;;C;"[,da/] (a/4 c) d/ [,d,,c] [a,,,d] [,da,c] z/ d | \
+,,,,d/4 a ,,,,c ,d ,,,,a ,b ,,a ,a [,,ca/] ,,a z/ [,,ca] |";french5tab
+563;G dur;21-30;Adagio;;;Guitar;;3/4;"[,aa1] ,d (d/ c) | '[c,,a2] V[d,,a1] | \
+[a,,,d/4] (b a) ,d ,b (,d ,b ,a) ,,c ,a (,,c ,,a) |";french5tab
+564;G dur;21-31;Allegro;;;Guitar;;C;"[,,aac1] ,d ,d ,d | [d,a1] ,d ,d2 | ([,aa/] ,b) ,d1 ,,a ,a | \
+'[,,ca2] ,,a | [,d,,c1] (,b/ ,a) ,,c1 ,,a |";french5tab
+565;G dur;21-32;Polonese;;;Guitar;;3/4;"[,,aac1] ',,a ,,,a/ ,,c | (3,,a/4 ,,,e ,,a) ,,,a1 ,,,a | \
+[,aa1] ',a ,,,,a/ ,b | (3[,aa/4] ,,c ,a) ,,a1 ,,a |";french5tab
+566;G dur;21-33;Menuet;;;Guitar;;3/4;"[d,a/] f h1 d | [c,,a1] f ,d | [a,,,a1] d [c,,a] | \
+[d,a/] c a c [,d,a1] | (,,a/ ,,c) ,a1 [,,ca] |";french5tab
+567;D dur;21-34;Solo Vivace;;;Guitar;;C;"[,d,a/] ,,c [,aa] ,,c [,d,a] ,,c [,aa] [,,ca] | \
+[,aa/] a [,c,,a] (,a/4 ,c) [,d,a/] ,,c ,,,e ,,,a |";french5tab
+568;D dur;21-36;Siciliano;;;Guitar;;6/8;"[,,ca3/4] ,d/4 ,,c/ ,a/4 ,,a [,,ca1] z/ | \
+[,d,a/4] (,c/8 ,a) ,,c/ ,,a ,,,e/4 ,,,c ,,,a/ z | \
+[,,ca/] ,,c ,,c [,,c,e1] ,,c/ |";french5tab
+569;D dur;21-37;Menuet Alternativement;;;Guitar;;3/4;"[,d,a1] ,d/ ,d [,d,,a] ,d | [,d,a/] ,,c ,,,e ,,,a ,,,e ,,c | \
+[,d,a1] ,d/ ,d [,d,,a] ,d | ,d1 ,,,a z1 |";french5tab
+570;b moll;21-37;Trio;;;Guitar;;3/4;"[c,,a/] ,d [a,,,a] ,c [,d,a1] | ,,c/ ,,,e ,,a ,,,c ,,,e1 | \
+,,,a/ ,,,e ,,c ,d c f | '[a,,,a2] ,,c1 |";french5tab
+571;D dur;21-38;Allegro;;;Guitar;;2/4;"(,,c/4 ,,a) | ,,,e/ ,,c ,d [,,c,a] | ,,,e/ ,,,a ,,,a (,,c/4 ,,a) | \
+,,,e/ ,,c ,d [,,c,a] | ([c,,a/4] a) ,d/ ,d c |";french5tab
+572;G dur;21-40;Solo Vivace;;;Guitar;;3/4;",d/ | [,da3/2] a/ [,d,a] ,b | [,aa/] ,d d ,a [,,ca] c | \
+[daa1] (,,a/ ,,c) (,a ,b) | [,d,,c1] (,b/ ,a) (,,c ,,a) |";french5tab
+573;G dur;21-42;Adagio;;;Guitar;;3/4;"[daa1] ',a ,,,,a/ ,b | [,da,c2] [a,,,d1] | [,d,,c1] ,,,e [,b,,a] | \
+'[,,ca2] ,,a1 | [d,,c1] ',a ,,a/ a | \
+([,c,,a/] ,a) (,,c ,,a) ,,,e ,d |";french5tab
+574;G dur;21-42;Allegro;;;Guitar;;C;",d1 | [d,a1] h/ ,,a ,d1 d/ ,d | [,aa1] ,d/ ,a ,,a1 ,a/ ,,a | \
+,,,a1 ,,a ,,a [,,ca] | '[,aa2] [,,ca1] ,d |";french5tab
+575;G dur;21-43;Menuet;;;Guitar;;3/4;"[,da1] (,b/ ,a) [a,,,d1] | '[,b,,a2] [,aa1] | [,,ca1] d c | \
+[d,a1] c/ a [,d,a] ,b | [,aa/] ,d ,,a ,a [,,ca] ,b |";french5tab

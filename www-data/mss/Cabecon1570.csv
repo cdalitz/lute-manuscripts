@@ -1,0 +1,587 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+;;;Duos para principiantes;;;;;;;
+1;;1r;Duo;;;OT;;C;"[gg4] | [hf4] | [Xbd4] | [ce4] | [hXf4] | [gg4] | [ce4] | [bd4] | \
+[gd4] | [hf2] [ff] | [ge2] [ge] | [dd2] [dXf] | [cg2] [hh] |";italian4tab
+2;;1v;Duo;;;OT;;C;",g4 | z2 X,f | ,g2 ,h | [ce3] ,d1 | ,e1 ,f [Xbg2] | c2 [df1] ,e | \
+[hf3] g1 | [he1] b c2 |";italian4tab
+3;;1v;Duo;;;OT;;C;"g4 | b2 b | [bd4] | [hf2] d | ,f1 c [hf] Xb | [ce2] [fh1] g | \
+h1 [bg] [ce] ,f |";italian4tab
+4;;2r;Duo Ave Maristella;;;OT;;C;",g4 | ,b4 | [dh4] | X,f4 | [eg4] | ,c4 | c2 ,b | ,h2 ,g | \
+[df2] ,b | ,b2 ,h | [eg2] ,c | ,c2 ,b |";italian4tab
+5;;2v;Duo Ave Maristella;;;OT;;C;"g2 ,d | ,d2 ,e | [df2] ,c1 ,e | [df1] ,g ,h X,b | \
+[ec1] ,d ,f ,g | ,g4 | c2 ,g | ,g2 ,h | [db1] ,d ,d ,e |";italian4tab
+6;;3r;Duo Ave Maristella;;;OT;;C;",g2 c | b2 e | [dd1] c b h | g1 g Xf b | [he1] g h Xb | \
+c1 b h g | [hXc1] g f e/ d | e2 h |";italian4tab
+7;;3v;Duo Ave Maristella;;;OT;;C;",g/ g h b c d e f | g/ f e d e e | [dd/] d e f g h b c | \
+d/ c b h e1 b |";italian4tab
+8;;4r;Duo Te Lucis Ante Terminum;;;OT;;C;",d4 | X,f4 | [gg4] | [bd1] ,c ,d ,e | ,f1 ,d ,f ,g | \
+[ch1] ,b ,c ,h | [gb1] ,c ,d2 | ,g2 ,d | [hc1] ,h ,c ,b |";italian4tab
+9;;4v;Duo B;;;OT;;C;",c4 | y2 ,c | [fc4] | ,d2 f | [fc2] ,h | [gb4] | [fh2] [dd] | \
+e2 ,c | [dd2] g | y2 Xf | g2 ,d | ,d2 [gd] |";italian4tab
+10;;5r;Kyries de nvestra senora [Primero Kyrie];;;OT;;C;"[ddd3] [e,c1] | X[f,h2] [g,b] | ,d1 h [b,h] [c,g] | \
+[d,f2] b1 ,,g | [hch1] ,,b [f,c] ,,d | [e,e1] X,,f ,,g ,,e |";italian4tab
+11;;5v;Segvndo Kyrie;;;OT;;C;"[gdg3] ,,h1 | [g,b1] ,,c ,,d h | [bdd1] c d ,,e | [ddf1] ,,g ,,h e | \
+[fc1] ,,b ,,c e/ d |";italian4tab
+12;;5v;Tercer Kyrie;;;OT;;C;"[gg3] f1 | e1 d e2 | [dd2] d | y1 c1 b2 | [hXc2] g1 f | \
+e1 d e2 | [ddd2] y1 ,,c |";italian4tab
+13;;6r;Aue Maristela de Hernando de Cabeçon, el baxo C.;;;OT;;C;"g2 ,d | ,c2 ,b | [dh2] [,fh] | y1 [,gg] [,hf] X,b |[ece2] ,,c1 ,,d | \
+[,ce1] [,df] [,eg] ,f |";italian4tab
+14;;6v;Ave Maristella C Tenor;;;OT;;C;",g2 ,,g | ,,d1 ,,b ,,h ,,g | [,dXf2] ,,g | ,,h2 X,,f | \
+[,eg2] ,,g1 ,,f | ,,e1 ,,d ,,c ,,b |";italian4tab
+15;;7r;Pange Lingua;;;OT;;C;"[,bd2] ,,b | y1 ,,c ,,d2 | [,cg2] ,,c | [ddf2] [b,g] | \
+y1 c1 [d,Xf2] | [gdg2] ,,b | [bdg1] ,,f [g,g] ,,h |";italian4tab
+16;;8r;Pange Lingua;;;OT;;C;"[bb4] | g2 b | [hc2] f | ,d2 g | ,,b2 h1 b | [,dg2] h1 g | \
+[,,db2] f1 e | [f,h2] [g,g] | [hc2] ,,f |";italian4tab
+17;;9r;Versos del primer tono. Tiple canto llano;;;OT;;C;"[,,gd2] ,,b | ,,h2 ,,g | [,dhd2] [,fd1] ,,e | ,,f1 [,eg] [,dh] ,c | \
+[gbbd1] ,c [bd] ,e | [,,fb1] h [gg] ,f |";italian4tab
+18;;9r;Contralto C;;;OT;;C;",,h2 ,d | ,f2 ,c | [,dh2] ,,,d1 ,c/ ,b | [,h,fg2] ,,,c | \
+[,dhd3] [,e,c/] ,,,b | [,f,h1] ,,,b [he,c] ,,,d |";italian4tab
+19;;9r;Tenor C llano;;;OT;;C;"[,fh2] ,c | ,,g2 ,e | [,df2] ,,,d | [,,hf2] [,f,c] | [,cg2] [gb,d] ,c | \
+[bdf2] [fc,h] | [h,ec2] ,h1 [gb,b] |";italian4tab
+20;;9r;Contrabaxo C llano;;;OT;;C;",e2 ,f | ,g1 ,f ,e ,d | [hXc2] ,,h1 [,db] | [,ec1] [,db] [,ch] [,bg] | \
+[hcf1] ,,g [,,he] ,,,f | [gdbg1] ,,,f [,g,e] [,f,d] |";italian4tab
+21;;9v;Segundo tono canto llano el tiple;;;OT;;C;",,,e2 ,,e | ,,g2 ,e1 ,,h | [,gbe2] [e,c1] ,h | [gbg2] [hhc1] ,g | \
+[bfbd2] ,e1 ,f | [ee,e2] ,,g | [,,ce3] ,,b/ ,,c |";italian4tab
+22;;9v;Canto llano contralto;;;OT;;C;",,b2 ,g | ,,b2 ,f1 ,d | [,e,g1] ,f ,g ,,,f | [,,bd1] ,,,e [,d,f] ,,,g | \
+[cehe1] ,,,c ,,,e [bf] |";italian4tab
+23;;9v;Tenor canto llano;;;OT;;C;"[ee2] f | g3 f/ g | [hee1] b c [d,f] | [e,g1] d c [b,f/] ,,g | \
+[hehe1] ,,b ,,c ,,,f |";italian4tab
+24;;9v;Contrabaxo canto llano;;;OT;;C;"e2 ,c | ,c2 ,b | [ec1] ,d [,e,c] ,d | [,c,c1] ,b/ ,h [,g,b1] ,f | \
+[ee,c1] [,f,d] [,g,e] [,f,d] |";italian4tab
+25;;10r;Tercero tono. Canto llano Tiple;;;OT;;C;",,,f2 ,,f | ,,b2 [f,c] | [b,df2] [,db1] c | [dfh2] [b,d1] ,g | \
+[hhcd2] [dfXb] | [cgce1] ,,b/ ,,h ,,g1 ,,c | [ffhf4] |";italian4tab
+26;;10r;Contralto Canto llano;;;OT;;C;",,c2 f | ,c1 g [h,,c] [bd] | [cec1] [,f,d] [,g,e] ,,,f | \
+[g,bg2] [dd,f] | [cgc1] ,,,e ,,,e ,,,d/ ,,,e | [ffcf2] ,c |";italian4tab
+27;;10r;Tenor C;;;OT;;C;",f2 ,,c | ,,c2 f1 ,,b | [ffh2] ,,,f1 [e,g] | [d,ff2] ,,b1 [c,,e] | \
+[bf,d2] ,,b1 [h,cc] | [b,db2] [c,e1] [d,fh] |";italian4tab
+28;;10r;Contrauaxo Canto llano;;;OT;;C;"c2 ,g | ,e2 ,,,g | [c,,e2] ,h | ,g2 [,f,h] | [ce,g1] ,d ,e [,f,f] | \
+[,g,e2] ,,c | [dfhf1] ,,d3/2 ,,c/ ,,b ,,h |";italian4tab
+29;;10v;Versos del quarto tono Tiple C.;;;OT;;C;",,,d2 ,g | ,b2 ,g | [,b,d2] ,,d1 ,c | [,df2] [,bd] | [,dfd2] d1 ,,g | \
+[f,h2] [ddb] | [fdhd2] ,f1 g | [hehXc2] ,d1 ,e |";italian4tab
+30;;10v;Contralto C.;;;OT;;C;",,h2 ,h | ,,h2 X,b1 X,c | ,d1 ,e [,f,h2] | [,fh1] X,,,b X,,,c ,e | \
+[,d,d2] ,,,e1 ,,,f | X[,che2] X[,b,d1] X[,c,e] |";italian4tab
+31;;10v;Tenor canto llano;;;OT;;C;"[dd2] g | ,,,d1 f [g,,g] h | [bd1] ,,,f ,,,g [h,,h] | \
+[g,,b2] ,,,c1 X[f,hd] | [gdd1] ,,,e [d,,f] [,,ce] |";italian4tab
+32;;10v;Bassus C.;;;OT;;C;"[hf3] ,e/ ,f | ,e2 ,d | [hc,f2] ,h1 X[,b,e/] ,,,f | \
+X[,c,e1] ,d ,e ,,,d | [h,cc1] ,,,c [,c,e] [,,bf/] ,,c |";italian4tab
+33;;11r;Quinto tono Tiple C.;;misprint: pagenr 12 instead of 11;OT;;C;",,,f2 ,,f | ,,b ,,c ,,d | ,,,f ,,c [f,h] | [b,b] c [d,h] | \
+[,,bf] c [hcc] | [bf1] ,g [hhc] [f,d] |";italian4tab
+34;;11r;Contralto C.;;;OT;;C;"[c,c] ,,,g ,,,f | ,,,e1 ,,,f [,g,e] [,f,c] | [,ecc1] [,f,d] [ce,e] [bd] | \
+[hc,f1] b h [gb,g] | [fhch1] [gb] [hc] ,,,f |";italian4tab
+35;;11r;Tenor C.;;;OT;;C;"[bf] b c | d1 e f g | [hf1] b y h | [b,b] [f,b] [e,c] | \
+[d,d1] [c,e] [b,f] [h,g/] g |";italian4tab
+36;;11r;Basus C.;;;OT;;C;"[cg2] ,e | [,c,g1] ,d [,e,e] ,f | [cg,c1] ,,,d ,,,e [,f,f] | \
+[,ecg2] [,,hh] | [dff1] [,,gg] [,,hf] X,,b | \
+[cgce1] ,,,g ,,,e ,,,f |";italian4tab
+37;;11v;Versos del sexto tono tiple canto llano;;;OT;;C;",,,d2 ,f | ,d2 ,e | [,f,d1] ,e [bd] ,c | [gb] ,,b [hc] | \
+[bdgd1] [h,h] [g,b] [f,h] | [eggc] ,,f ,,e | [chfd2] ,,h |";italian4tab
+38;;11v;Canto llano contralto;;;OT;;C;",,h2 ,d | y1 ,c ,b | [,fh2] ,,,d1 ,e | ,f ,,,c ,,,b | \
+[,,hd] d ,,,e | [,f,f] [c,,e] b | [cfhd3] [eg,c/] ,,,b |";italian4tab
+39;;11v;Tenor C.;;;OT;;C;[bd1] c d e | f/ g e Xf g Xf Xf Xe | [gdb1] ,,c ,,d ,,e |;italian4tab
+40;;11v;Contrabaxo C;;;OT;;C;"d2 ,h | ,f3 ,g1 | [dh2] ,,,h/ ,f ,g ,h | [,b,f1] ,b ,,,g | \
+[dh,h2] ,,d/ ,,,f ,,,g ,,,h | [dfbb1] ,,,b ,,c |";italian4tab
+41;;12r;VII. tono Tiple C.;;misprint: pagenr 11 instead of 12;OT;;C;"[,,cc2] ,,d | ,,e2 ,,y/ ,,c ,,d ,,e | [,,fc1] ,,g ,,h2 | \
+[c,g1] ,,f ,,e [d,d] | [e,c2] ,,g/ c d e |";italian4tab
+42;;12r;Contralto C;;;OT;;C;",,g2 ,c | ,c1 ,,,c ,d | [,eg,c1] c [,f,d] | [cg,e2] [df,f] | \
+[eegg2] [ddhf] | [gbbe1] ,,,d ,,,e | [fchf1] ,,,e [,d,d] |";italian4tab
+43;;12r;Tenor C;;;OT;;C;"[cc1] b [h,c] [g,b] | [f,h1] [e,g] [f,f] [g,e] | [hcf1] [g,g] [f,h2] | \
+[e,gg1] [d,,f] [c,,e] ,,,d | [cegc1] X,,,b ,,,c ,,h |";italian4tab
+44;;12r;Basus C.;;;OT;;C;"[fh2] ,g | [,f,h1] ,e ,d ,,,g | [fc,f1] ,,,e [,f,d] ,,,c | \
+[,fcf1] [,,be/] ,,,d [,,hc1] [,,gXb] | [hcfc1] ,,e ,,g ,,f |";italian4tab
+45;;12v;Octauo tono C superius;;;OT;;C;",,,f1 ,b ,h ,g | ,b2 ,c | [,d,f1] [,df] [,bd] [,ce] | \
+[,df1] f d [e,g] | [fchf1] [,df] [ge] | [hfc2] [ff] |";italian4tab
+46;;12v;Contralto C;;;OT;;C;"[,fc] ,e | ,f1 ,g ,h ,f | [fhc1] ,b [ec/] ,b ,h ,g | \
+[ff1] g h f | [hccf1] b [c,,e/] b h g |";italian4tab
+47;;12v;Tenor C;;;OT;;C;",f1 b b h | b1 [d,b] [d,b] [c,h] | [bfb1] ,,d [b,d] [h,cf] | \
+[b,bf1] ,,,d [f,cf] ,,,h | [ffch1] [,,bg] [f,hf] X,,b |";italian4tab
+48;;12v;Contrabaxo C;;;OT;;C;"f1 ,,c ,,c ,,c | ,,h1 ,c ,,c/ ,c ,c1 | [fhf1] ,,,f ,c/ ,,,f [,,gf1] | \
+[,fgd1] [,g,f] ,h/ ,,,f ,,,f1 |";italian4tab
+49;;13r;Fabordon del primer tono llano;;;OT;;C;"[dfhd2] [dfhd] | [bfbd2] [bfbd] | [bfbd2] ,f | [bfbd2] [dfhd] | \
+[cgce3] [,f,d1] | [cgce2] [dfhf] | [bd1] [,,ge] [,,gd] | \
+[heh2] X,,,c | [ddXfd4] |";italian4tab
+50;;13r;Glosado con el Tiple;;;OT;;C;"[dfhd2] [dfhd] | [bfbd/] ,,,b ,,,h ,,,g ,,,f ,,,e ,,,d ,,,c | \
+[bf,b/] ,,,h ,,,g ,,,h [bf,b] ,,,c ,,,d ,,,e |";italian4tab
+51;;13r;sans titre;;;OT;;C;"[dfhd2] [dfhd] | [bfbd2] f/ e d c b h | \
+[bfbd/] b c d [efbd] f g h |";italian4tab
+52;;13v;Glosado con las vozes de medio;;;OT;;C;"[dfhd2] [dfhd] | [bfbd/] ,d ,e ,f ,g ,b ,h ,g | \
+[bfbd/] ,g ,f ,e [bdbd] ,,c ,,b ,,h |";italian4tab
+53;;14r;Fabordon segundo tono llano;;;OT;;C;"[bdfb2] | [gdgb2] [gdgb] | [gdgb4] | [gdgb2] [gdgb] | \
+[cegc2] [,d,b] | [cegc] [bfbd] | y1 ,,h [cegc] ,,,b | \
+[fcfh1] [,d,b] [eegc] |";italian4tab
+54;;14r;Glosado;;;OT;;C;",,,f/ ,,,e [bdfd] ,,,c ,,,b ,,,h | \
+[gdgb1] ,,,g/ ,,,f ,,,g ,,,h [gdgb/] ,,,c | \
+[gdgd/] ,,,f ,,,g ,,,d ,,,e ,,,d ,,,c |";italian4tab
+55;;14r;sans titre;;;OT;;C;"b/ c [ddfb] c b h | [gdgb1] b/ c d c [bdgb] h | \
+[gdgb1] b/ c [ddgb] c b h |";italian4tab
+56;;14v;Glosado;;;OT;;C;",,f2 [bdfb/] ,,d ,,e/4 ,,d ,,e ,,f | [gdgb2] [gdgb/] ,b ,c/4 ,b ,c ,d | \
+[gegb/] ,g ,e ,f [gd,b] [,eg] [,ce] [,df] |";italian4tab
+57;;15r;Tercer tono llano;;;OT;;C;"[bdfb2] [bdfb] | [gdgb2] [gdgb] | [gdgb2] [gdgb2] | [gdgb2] [gdgb] | \
+[gdgb4] | [cegc2] [,d,Xb] | [cegc2] [bfbd] | \
+[,df1] ,,,c [eegb] ,d |";italian4tab
+58;;15r;Glosado;;;OT;;C;"[bdfb2] [bdfb] | [gdgb/] ,,,d ,,,c ,,,b [gdgd] ,,,b ,,,h ,,,g | \
+[gdgb/] ,,,g ,,,f ,,,e ,,,g ,,,d [g,,e] ,,,f |";italian4tab
+59;;15r;Glosado;;;OT;;C;"[bdfb/] c d e [fdfb] e d c | [bdgb/] h g f [gdgb] g f e | \
+[dbgb/] c b h [gdgb] f e d |";italian4tab
+60;;15v;Glosado;;;OT;;C;"[bdfb2] [bdfb] | [gdgb/] ,,d ,,e ,,f ,,g ,g ,b ,c | \
+[gd,b/] ,,f ,,g ,,h [,gb] ,f [,gb] [,hc] |";italian4tab
+61;;16r;Quarto Tono llano;;;OT;;C;"[dfhd4] | [bfbd2] [bfbd] | [bfbd4] | [bfbd2] [bfbd] | \
+[ffhc2] ,,g | [ffhf1] ,,b [cgce] | y1 [dfbd] [bdfd] | \
+[heg2] X,,,c |";italian4tab
+62;;16r;Glosado;;;OT;;C;"[dfhd2] ,,,y/ ,,,c ,,,d ,,,e | [bfbd/] ,,,h ,,,b ,,,c [bfbd] ,,,e ,,,f ,,,g/4 ,,,e | \
+[bfbf/] ,,,f ,,,g ,,,h ,,,b ,,,c ,,,d ,,,e/4 ,,,c |";italian4tab
+63;;16r;Glosado;;;OT;;C;"[dfhd/] c d e d1 d | [bfbd/] b c d e f g h | \
+[bfbd/] c d e [ffbd] e d c |";italian4tab
+64;;16v;Glosado;;;OT;;C;"[dfhd2] ,y/ ,e ,f ,g | [bfbd2] ,,y/ ,,h ,,b ,,c | \
+(3[bdbd1] ,d ,f) (3,b ,b ,d) | \
+(3[bdbd1] ,,g ,,b) (3,,f [,df] [,eg]) |";italian4tab
+65;;16v;Quinto Tono llano;;;OT;;C;"[bdgb2] [gdgb] | [gdgb2] [gdgb] | [gdgb2] [gdgb] | [cegc2] [bfbd] | \
+[eegc2] [g,,b1] ,,f/ ,,e | [fcf2] ,,,h | [bbdb4] |";italian4tab
+66;;17r;Glosado;;;OT;;C;"[bdfb1] ,,,h/ ,,,g [bdff] ,,,e ,,,d ,,,c | \
+[gdgb/] ,,,h ,,,g ,,,g ,,,f ,,,e ,,,d ,,,c | \
+[gdgb/] ,,,h ,,,g ,,,h [gdgb] ,,,c ,,,d ,,,b |";italian4tab
+67;;17r;Glosado;;;OT;;C;"(3[bdfb1] c d) (3[gdgb] h b) | [bdgb/] g h b c d f g | \
+[gdgb/] d e f [gdgb] h b g |";italian4tab
+68;;17v;Glosado;;;OT;;C;"[bddb1] ,f/ ,e [bdfb] ,c ,b ,h | [gbgb/] ,g ,h ,b ,c ,d [ge,b] ,d | \
+[gg,b1] ,f/ ,e [gdgb] ,e ,f ,d |";italian4tab
+69;;17v;Sexto Tono llano;;;OT;;C;"[dfhd2] [bfbd] | [bfbd2] [bfbd] | [bfbd2] [bfbd] | [bfbd2] [bfbd] | \
+[cegc4] | [gdgXb4] | [cegc1] ,,,d ,,,e [,df] | \
+[ceg1] [,,hd] [bfbd2] |";italian4tab
+70;;17v;[Glosado];;;OT;;C;"[dfh/] ,,,d ,,,e ,,,f [bfb] ,,,b ,,,c ,,,d | \
+[bfbb/] ,,,f ,,,g ,,,h ,,,b ,,,c ,,,d ,,,e | \
+[bfbf/] ,,,g ,,,h ,,,b ,,,f ,,,g ,,,e ,,,f |";italian4tab
+71;;18r;Glosado;;;OT;;C;"[df,d/] ,,h ,,g ,,h [dfbd] ,,h ,,h ,,g/4 ,,h | \
+[bfbd/] ,f ,e ,d ,g ,f ,f ,e/4 ,f |";italian4tab
+72;;18v;Glosado;;;OT;;C;"[dfhd2] [bfbd] | [bfbd2] b/ c d e d g | \
+[bfed2] b/ c d e d g | [bfbd2] b/ c d e d g |";italian4tab
+73;;19r;Septimo Tono llano;;;OT;;C;"[ggbd2] [ggbd] | [ggbd2] [ggbd] | [ggbd2] [ggbd] | [gb2] [d,df] | \
+[dhdXf4] | [egcg4] | [dhdXf4] |";italian4tab
+74;;19r;Glosado;;;OT;;C;"[ggbnd2] y/ ,,,c ,,,d ,,,e | [ggbd/] ,,,b ,,,h ,,,g y ,,,g ,,,e ,,,f | \
+[ggbd/] ,,,g ,,,f ,,,d1 ,,,e/ ,,,d ,,,c |";italian4tab
+75;;19r;[Glosado];;;OT;;C;"[ggnbd3] y/4 ,f ,g ,h | [ggbd1] ,f/ ,e ,d ,c ,b ,h | \
+[ggbd/] ,d ,e ,f ,g ,f ,g ,h |";italian4tab
+76;;19v;Glosado;;;OT;;C;"[ggbd2] y/ f g h | [ggbd/] d e f g f g h | \
+[bgbd/] g h b c d e f |";italian4tab
+77;;19v;Octauo tono llano;;;OT;;C;"[fhcf2] [fhcf] | [dhdf2] [dhdf] | [dhdf4] | [gbdg2] [,,ch] | \
+[gbdb1] ,,e [fcfh] | [c,eg2] [fhch] | [bbd1] ,,,g ,,,f ,h | \
+[cgc2] ,,,e |";italian4tab
+78;;20r;Glosado;;;OT;;C;"[fhcf/] ,,,c ,,,d ,,,e [dhdf] ,,,g ,,,h ,,,b | \
+[dhdh/] ,,,h ,,,b ,,,c [dh,d] ,,,e ,,,f ,,,g | \
+[dgdf/] ,,,e ,,,d ,,,e [dhdf] ,,,g ,,,h ,,,f |";italian4tab
+79;;20r;Glosado;;;OT;;C;"[fh,f1] ,,b/ ,,c [dhdf1] ,f/ ,g | \
+[dh,f/] ,,d ,,c ,,b [,,hf] ,g ,f ,e | \
+[ddhf1] [,bd] ,,,f/ [,hc] [hc] [,gb/4] [,hc] |";italian4tab
+80;;20v;Glosado;;;OT;;C;"[fhcf2] [dhdf] | [dhdf1] c/ b [dhdf] b c d | \
+[dhdf1] d/ c d e f d |";italian4tab
+81;;21r;Aue maris stella;;;OT;;C;"[,gg1] ,,h ,,b ,,c | [,dh1] X,,f ,,h | [,eg2] ,,c | \
+,c1 ,,b ,,h ,,g | [ddf1] [e,g] [f,h] [g,b] |";italian4tab
+82;;21r;Aue maris stella;;;OT;;C;",,d4 | [,gg4] | [,dh2] X,,f | [,eg2] [,ch] | [,db2] ,,h/ ,,b [,ec] ,,b ,,h ,,g | \
+[dXfh1] ,g Xf |";italian4tab
+83;;21v;Aue maris stella;;;OT;;C;",,d4 | [,dh1] ,c ,d | [,gb1] ,g ,f | [,eg1] ,d ,c ,b | \
+[,hh1] ,g ,h | [,gXbd] ,,,c [,g,d] | [,ecg2] ,,,g |";italian4tab
+84;;22r;Aue maris stella;;;OT;;C;",g4 | ,d4 | ,d4 | [ce4] | ,c4 | [gd4] | ,e4 | [hf4] | f1 ,e ,d | \
+[he1] ,d ,g2 | h2 X,f | [bgd2] ,f |";italian4tab
+85;;23r;Veni creator;;;OT;;C;",,g4 | [,,hc4] | [,,gd2] ,,f | ,,,c2 [,,gb] | [,,hc4] | \
+[,,gd2] ,,b | ,,,c1 ,,h ,,,d | [,cge1] ,,,f [,,eg] | \
+[,df2] ,,,f | [,cge2] [gb,d] |";italian4tab
+86;;23v;Christe redemptor;;;OT;;C;"f4 | [fc2] e | [dc2] ,b | [ch2] ,d | [egg1] f g ,h | \
+[,bg1] ,c [ddf] | [e,e1] ,c ,c f |";italian4tab
+87;;24r;Vt queant laxis;;;OT;;C;",c4 | y4 | X,b4 | [,c,c2] [,eg] | X,,,b2 [,dXf] | \
+[,cgc1] ,d ,e ,f | [ggbe2] [,d,d] | [ff1] ,,,c ,,,c ,e |";italian4tab
+88;;25r;Christe redemptor;;;OT;;C;",c2 f | f2 e | [fc2] e1 d | c1 ,,g d | [ecg2] [f,f] | \
+[e,g1] [c,f] ,,e | [gbd2] [,,gd] | [gb,b1] [,,fg] ,,e |";italian4tab
+89;;26r;Pange Lingua;;;OT;;C;"[bb2] c | d2 e | ,c2 f | [bdf2] b | ,,g1 h [g,b] | [,dh2] Xf | \
+[gdbd1] ,,,c ,,,d ,,,e | [h,bf1] ,,,d [,,hg] ,,g |";italian4tab
+90;;26v;Pange Lingua;;;OT;;C;",,,b4 | ,,,b2 ,,,b | [,,fc2] ,,,f1 ,,,g | [,,fh1] ,,,b [,,fc] ,,,d | \
+[,,ge2] ,,c1 ,,d | ,,e1 ,,f [,,ge] ,,h | [,bbd2] ,,,b1 ,,,c |";italian4tab
+91;;28r;Pange lingua. De Vrreda;;;OT;;C;"[,bfb4] | [,,bd2] ,,h | [,cgXe1] [,,ff] ,g X,,,e | \
+[,dff2] ,,e/ ,,d ,,e ,,f ,,g ,,h | ,,b2 ,,,d1 ,,h/ ,,g |";italian4tab
+92;;29r;Versos del primer tono;;;OT;;C;",,h4 | [,,gd2] ,,f | [,,hc2] [,,gb] | [,,fd2] [,,ec] | \
+[,,db2] X[,,fh] | [,,gg/] ,,,h ,,,b ,,,c ,,,d1 ,,f | \
+[h,e1] X,,,c/ X,,,b [,,hc] ,,,d X,,,b X,,,c |";italian4tab
+93;;29r;sans titre;;;OT;;C;",,,b4 | ,,,c2 ,,,c | [,b,d2] ,,,f | [,c,e1] ,,,d [,c,c] ,,,b | \
+[,dfh2] ,f1 ,,,b | [,egc1] [,d,d] [,cge] ,b | [fhhf2] [,,cf] |";italian4tab
+94;;29r;sans titre;;;OT;;C;",b4 | ,c2 ,c | [,df2] z/ ,b ,c ,d | [,gg2] [,eg] | [,dh2] ,c | \
+[,bd2] [,gb1] ,g | ,,g/ ,d ,f1 ,,g/ ,c ,e1 |";italian4tab
+95;;29v;sans titre;;;OT;;C;",,,d3 ,,,c1 | ,,,h2 [,,gb] | y1 [,,fh] [,,dXf2] | [,,eg3] [,,dh1] | \
+[,,bb1] ,,c [,ddf] [,,eg] | [,,fh1] [,dgb] [,hhc2] |";italian4tab
+96;;29v;sans titre;;;OT;;C;",b2 ,h1 ,g | ,b2 ,c | ,d3 ,e1 | X,f1 ,g ,e2 | [,df2] [,ce1] [,bd] | \
+[,hf1] ,b ,,g ,c | ,,h/ ,h ,d ,c ,d ,e [,fb] ,g |";italian4tab
+97;;30r;sans titre;;;OT;;C;",,c4 | ,g2 ,,g | ,c2 ,,e | [,hXf2] X,b | ,,g2 ,c | \
+,,h2 ,d1 ,,h | [,dh2] ,,b1 ,d | [,dg2] [,eg] | ,d1 ,,f ,,f2 |";italian4tab
+98;;30v;sans titre;;;OT;;3;"[,,dd2] [,,gb] [,,cc/] ,,,b ,,,c/4 ,,,b ,,,h ,,,g | \
+[ddfh2] [hXbdg] [cc1] ,b | [dhdf1] ,d [,gbd2] [,ege] | \
+[ffhc2] [bdf] [eeg] |";italian4tab
+99;;30v;Versos del segundo tono;;;OT;;C;",,b4 | ,,c4 | [b,b4] | c2 ,,e | b1 ,,d/ ,,c ,,e ,,d ,,d ,,c/4 ,,d | \
+,,e2 e | ,f1 d/ c d b c d |";italian4tab
+100;;31r;sans titre;;;OT;;C;"[bbfb/] ,,,f ,,,g ,,,h ,,,b ,,,c ,,,d ,,,e | \
+[bb,f1] ,,,b/ ,,,c ,,,d ,,,e ,,,f ,,,d | \
+[ebeg/] ,,,f ,,,e ,,,c [g,,e] ,,,d ,,,c ,,,b |";italian4tab
+101;;31r;sans titre;;;OT;;C;",,,f4 | ,,,g2 ,,,h | [,,bb2] ,,,d | [,,cc2] [,,db1] ,,,h | \
+[,,eg2] [,,gb] | [,,fc2] [,,ed1] ,,d | [,,ce1] ,,d ,,e ,,f |";italian4tab
+102;;31r;sans titre;;;OT;;C;"e4 | [db2] b | [cg2] [dXf] | [eg2] ,,e1 [fh] | [gbdb2] [,gb] | \
+[fhch2] [d,dXf] | [gbdg1] ,,,d/ ,,,c [,,eb] ,,,h ,,,g ,,,f |";italian4tab
+103;;31r;sans titre;;;OT;;C;"[bdfb1] f/ e d c b h | [gbgb/] h b h g f e d | \
+[cegc/] b c d e f g h |";italian4tab
+104;;31v;sans titre;;;OT;;3;"b4 c b | [e,b4] ,,c [dfb] | [cge4] [dfd] ,b | \
+[bbf2] c1 d [e,e4] [fhc] | [bbdf1] ,,f ,,e ,,d";italian4tab
+105;;31v;Versos del tercero tono;;;OT;;C;",,,f4 | ,,,g4 | [,,bb2] ,,,d | [,,cc2] [,,eb] | [,,gb2] [,,fh] | \
+[,,eb2] [,,ec] | [,,dd2] [,,eg] | ,,,c2 ,,f | ,,g2 X,,,b |";italian4tab
+106;;32r;sans titre;;;OT;;C;",,,f4 | ,,,g2 ,,,h | [,,bb1] ,,,c ,,,d ,,,e | [,,cc2] [,,db1] ,,,h | \
+[,,eg1] [,,fh] [,,gb] [,,hc] | [,,fc2] [,,ee1] ,,,d |";italian4tab
+107;;32r;sans titre;;;OT;;C;"[bfdf2] ,b | [f,c1] ,h/ ,g ,b [,gd] ,h | [ebeg1] d [cc2] | \
+[bfdb2] [gg] | [h,cc1] X,f/ X,e X,f1 ,,d |";italian4tab
+108;;32v;sans titre;;;OT;;C;",b2 ,,,f | [,b,b3] ,,,h1 | [b,,b1] ,,,c ,,,d | \
+[eb,g2] ,,,g1 [d,,f] | [e,,g1] [f,,h] [g,bb] | \
+[ccdeg1] [b,d] [c,e] [d,f] |";italian4tab
+109;;32v;sans titre;;;OT;;C;"[ee2] ,d | ,c1 ,b ,c | [egb2] [,hh] | [,bg1] ,,f ,,g2 | \
+[ecee2] ,,g1 ,,,d | [,egc1] ,,,b ,,,c ,d |";italian4tab
+110;;32v;sans titre;;;OT;;C;"[,gb2] ,f | ,d2 [,e,g] | ,,b1 [,d,f] [,b,d2] | [,ebe3] [,f,d1] | \
+[,gbb2] ,d1 ,,,c | [gg,d2] ,,,e1 f | [dfbf2] [eb,g] |";italian4tab
+111;;33r;Versos del quarto tono;;;OT;;C;",d4 | X,c2 [,d,d] | [,e,Xc2] [,d,d] | [,c,e2] [,bgd] | \
+[,h,c1] X,,f [gbgb] ,g | X[fdhh2] ,c | [gbg2] ,h1 ,b |";italian4tab
+112;;33r;sans titre;;;OT;;C;",,h4 | ,,g2 ,,h | [,,bd4] | [,,hXc2] ,,,d | ,,,e2 ,,h | \
+[,,bd2] ,,h | ,,g2 ,,f | ,,e2 ,,,e | \
+[,,df/] ,,,e ,,,f ,,,g ,,,f1 [,,ee] |";italian4tab
+113;;33v;sans titre;;;OT;;C;",h2 X,b | X,c2 ,d | ,e1 ,d/ ,c ,d ,c ,d ,e | \
+[df2] [ee] | X[fc2] [gd] | [hXc1] g/ f g f g h |";italian4tab
+114;;34r;sans titre;;;OT;;C;",d4 | [hXc2] ,d | [ge2] h | [bd2] b | [hXc2] [he] | \
+[dfh/] ,e ,f ,g [df1] [ce] | X[bdg2] [ce1] [,fh] |";italian4tab
+115;;34r;sans titre;;;OT;;C;"[,,dd/] ,,e ,,f ,,g [,,hXc] ,,f ,,g ,,h | \
+[,,bd/] ,,h ,,c X,,b [,,ce] ,,b ,,h ,,g | \
+[,,hc/] ,,g ,,f ,,e [,,fh] ,,g ,,e ,,f |";italian4tab
+116;;34r;sans titre;;;OT;;C;"[ddhf4] | y2 [ddhf2] | [ddhd/] ,,,f ,,,g ,,,h ,,,b ,,,c ,,,d ,,,e | \
+,,,f1 ,,,f/ ,,,g [dd,h] ,,,b ,,,c ,,,d |";italian4tab
+117;;34v;Versos del quinto tono;;;OT;;C;",b4 | ,d4 | [ff4] | h2 ,f | [bg2] b1 ,f | [ce3] b1 | [hf4] | \
+b2 ,f | ,g2 b | [ce2] ,e | [hf2] h |";italian4tab
+118;;34v;sans titre;;;OT;;C;",b/ ,h ,b ,c ,b1 ,c | ,d2 ,e | [gg/] e f g [fh1] g | \
+h1 ,g [bf2] |";italian4tab
+119;;35r;sans titre;;;OT;;C;",,b4 | [,fc2] ,,h | [,gb2] [,eg] | [,fhf2] [,dd] | \
+[,e,g2] X,,b1 X[,,ce] | [,ddf2] [,ec1] [,fh] | \
+(3[b,bd1] ,,,e ,,,f) (3[,d,g] ,,,f ,,,g) |";italian4tab
+120;;35r;sans titre;;;OT;;C;",,,b3 ,,,d1 | ,,,c2 ,,,b | ,,,d2 ,,,e | [,,ff3] ,,h1 | \
+[,,gg2] [,,fh] | ,,h1 ,,,g X[,,bf2] | ,,c2 ,,,g1 ,,,e | \
+[,bdf2] ,,b1 ,d |";italian4tab
+121;;35r;sans titre;;;OT;;C;",b4 | [,df4] | [ffh4] | [h,c2] ,e1 ,d | [ce/] ,f ,g ,f ,e ,d ,e1 | \
+[bfdb1] ,e [,dg] [hch] | [gbbd1] ,h [fbh] [ecg] |";italian4tab
+122;;35v;sans titre;;;OT;;3;"[,,bb4] ,,,d2 ,,h [,,ge4] | [bbff4] ,d2 h [gebg] ,,g | \
+[ffch2] g [hc] [b,,g] [cg,e4] | [fhcf2] g h [bgb] [ceg4] |";italian4tab
+123;;35v;Versos del sexto Tono;;;OT;;C;",,,d4 | ,,,b2 ,,,c | [,,gd2] ,,,d | [,,ee2] [,,fd1] ,,,c | \
+[,,gb2] ,,,b1 ,,g | [,,hc2] [,,gd1] ,,f | \
+[,,ee/] ,,f ,,g ,,h [,,bd] ,,h ,,g ,,b |";italian4tab
+124;;36r;sans titre;;;OT;;C;",,,d3 ,,,b1 | ,,,c2 ,,,d | [,,ge2] ,,,d1 [,,eg] | [,,ff2] [,,ge1] ,,,d | \
+[,,hc2] [,,ce1] [,,bd] | [,,hc1] ,,,f ,,g X,,,e | \
+[,dff1] ,,g ,,h [,bbd] |";italian4tab
+125;;36r;sans titre;;;OT;;C;",d4 | ,,h2 ,c1 ,b | ,c2 [,dg1] ,,h | [,eg3] ,,h1 | [,dbd3] ,e1 | \
+[,fg2] [,ggc1] ,,,b | [,e,c2] ,,h1 [,dbd] | [,c,e2] ,,h |";italian4tab
+126;;36v;sans titre;;;OT;;C;",b3 ,c1 | [,df3] [,eg1] | [,dh2] [,gb] | [,fh2] [,ed1] ,d | \
+[,ec2] [,fb1] ,,h | [,ggb1] [,df] [,eg] ,,,c | \
+[,dfd2] [,cce/] ,d ,e ,f |";italian4tab
+127;;36v;sans titre;;;OT;;C;",d4 | ,b4 | [hc4] | [fd4] | [ge2] ,d | [h,h2] ,c | [bdf3] [hc1] | \
+[gbg2] [fch1] e | [ddbd1] ,e [,fh] ,d | [,egb2] [,df] |";italian4tab
+128;;37r;sans titre;;;OT;;C;"[bdfb/] ,,,c ,,,d ,,,e ,,,f ,,,d ,,,e ,,,f | \
+[gbeg3/2] ,,,f/ ,,,e ,,,d ,,,c ,,,b | \
+[fcfh1] ,,,f/ ,,,e [fd,d] ,,,c ,,,b ,,,h |";italian4tab
+129;;37r;sans titre;;;OT;;3;"[,,bb1] ,,h ,,g ,,f ,,e2 ,,g [,,fc4] | \
+[bbbd1] c d y e2 g [fc4] | [bd1] c d e f d g2 [ce] c |";italian4tab
+130;;37v;Versos [del] septimo tono;;;OT;;C;",,,c2 [,fh] | X[,egc2] [,fh] | [cge2] ,,c/ ,c ,b ,c | \
+[,gb2] [,cc/] ,d ,e ,f | [,gbd1] [,fh] [,fh] [,gb] |";italian4tab
+131;;37v;sans titre;;;OT;;C;"f4 | [hc2] h | [ge2] ,e | ,d2 f | g2 [hcf] | [fdh2] [,ch] | \
+[g,g2] X[,bg] | [hc,c2] ,,f1 [gb] | [egge1] [fh] [gb,e] [hc] |";italian4tab
+132;;38r;sans titre;;;OT;;C;",c3 ,d1 | [gd1] ,f ,e h | [bd1] c b2 | \
+h1 ,c/ ,b ,d ,c ,d/4 ,c ,b ,c |";italian4tab
+133;;38r;sans titre;;;OT;;C;",,g4 | ,,h2 ,c | ,d2 ,,b | ,,h2 [,eg] | [,df3] ,c1 | \
+,b2 ,,b | ,,h2 [,eg] | [,dh2] ,c | ,d2 ,,d | \
+,,c2 (3[,gb1] ,e ,g) |";italian4tab
+134;;38v;sans titre;;;OT;;C;",,,c3 ,,,g1 | [,c,c2] ,,,d1 ,g | [,c,e2] [,d,d] | \
+,e1 ,,,c/ ,,,b [,,gc2] | [gd,d1] ,,d ,,g [d,h] | \
+[g,b2] [hch] |";italian4tab
+135;;38v;sans titre;;;OT;;C;"[ffhc/] f e d c b h g | f/ g h g f d e f | \
+[cgce/] d e f [g,b] h b c |";italian4tab
+136;;39r;sans titre;;;OT;;3;"[ef4] | [gb2] g ,h Xf [gb4] | [fc2] g h g [fc] e1 d | \
+[ce2] d e f g h |";italian4tab
+137;;39r;Versos del octauo Tono;;;OT;;C;",,,c4 | ,,,d4 | [,,fc2] ,,,f | [,cg2] ,,,e | [,dff2] ,,b | \
+[fc2] [,fh] | [g,b2] ,e | [ffhc2] [b,bed1] [,eh] | \
+[,df1] [,eg] [hfhc2] |";italian4tab
+138;;39v;sans titre;;;OT;;C;",,,f2 ,,,d | ,,,e2 ,,,f | ,,,g2 ,,,f1 ,,,e | [,,bd2] ,,g | \
+[,,hc2] X[,,bd] | [,,ce2] [,,bf1] ,,h | [,,gg1] ,,h ,,b ,,c |";italian4tab
+139;;39v;sans titre;;;OT;;C;"f4 | g4 | [fc4] | [bd4] | ,c1 h/ g h2 | [bf2] [d,f] | \
+[ceg2] [bd] | [hcf2] [bd] | [gbb1] ,c ,d ,e |";italian4tab
+140;;40r;sans titre;;;OT;;C;",c1 | ,d1 ,,f [,eg2] | [,ch2] ,,f1 ,f | ,g1 ,,b [,hc2] | \
+[,fd2] [,gb1] [,fhc] | [,bbd2] [,cge] | \
+[,fhc1] ,,b ,,c [,ddf] |";italian4tab
+141;;40r;sans titre;;;OT;;C;",,f4 | [,cg4] | [,df2] ,,b | ,c2 [,fh] | ,,b2 [,ec] | \
+[fhc2] [,eg] | [,fhd2] [,gb] | [fchc2] [,d,f] | \
+[gbb1] ,,,e/ ,,,d ,,,e ,,,f ,,,d ,,,e |";italian4tab
+142;;40r;sans titre;;;OT;;3;"[fc2] e [dd] e [fc] g | [hf2] f [bd] h [ge] ,d1 ,e | \
+(3[ffhc2] g h) (3[bdgd] g b) (3[cecc] h c) |";italian4tab
+143;;40v;sans titre;;;OT;;C;"[fcff1] ,,,f/ ,,,g ,,,h ,,,b ,,,c ,,,d | \
+[cege/] ,,,f ,,,g ,,,h [hcff] ,,,g ,,,h ,,,b | \
+[gb,g/] ,,,h ,,,b ,,,h [,,eh] ,,,g ,,,g ,,,f/4 ,,,g |";italian4tab
+144;;40v;Rex virginum;;;OT;;C;",c4 | [,cg4] | [,cf2] ,f | [,eg2] [,db] | [,ch2] ,,g | \
+[,cXfd2] ,,g1 X,,f | [,egc2] [,fh] | [,bbd2] [,dff] | \
+X[,che2] [,dfd] |";italian4tab
+145;;41r;sans titre;;;OT;;C;",,,d2 ,,d | [,,fd2] ,,g | [,,hc1] ,,g/ ,,f ,,g ,,f ,,g ,,h | \
+[,gbd2] ,b1 ,c | [,dhf1] ,,f ,,h ,,b |";italian4tab
+146;;41r;sans titre;;;OT;;C;"h4 | y2 g | h2 g | ,d2 Xf | g2 [hXc] | [fd2] ,c | g2 X,b | \
+[hc2] [fd] | [db2] g | [ec2] f |";italian4tab
+147;;41v;sans titre;;;OT;;C;",,d4 | ,,g2 X,,f | ,,g2 ,,g | [,,bg1] ,,h X[,,fd] [,,hXc] | \
+[,,gd/] ,,f ,,g ,,h [,,gd1] ,,f/ ,,e | [,,df1] ,,e ,,f [,,ge] |";italian4tab
+148;;42v;Kyries del primero Tono;;;OT;;C;",,d4 | ,,g2 [,,bg] | [,,gd1] ,,f/ ,,e [,,ff2] | \
+[,,gd1] X,,,d/ X,,,b [,,hc] ,,,d X,,,b X,,,c | \
+X[,,fd1] ,,g ,,,b [,,ec] |";italian4tab
+149;;42v;sans titre;;;OT;;C;"[gg2] e | [fd2] g | [df,d2] [d,,h] | X,,,b1 c/ b [h,,d2] | \
+[bd,f1] h [g,,b] f | [ecg2] [,,ec] | [ddfh2] [g,gb1] ,,,c |";italian4tab
+150;;42v;sans titre;;;OT;;C;",,g4 | ,,h2 ,,b1 ,,c | ,,,d1 X,,b ,,c/ X,,b ,,h X,,b | \
+[,,ce2] ,,,f1 [,,gg] | ,,b1 X,,,f ,,,g/ X,,,f ,,,e X,,,f |";italian4tab
+151;;43r;sans titre;;;OT;;C;"h3 g/ h | [gd2] f1 X,c/ ,d | [ec2] [db] | ,h1 Xf [gg] X,b | \
+[hc2] [dd] | [eg1] f g ,g |";italian4tab
+152;;43v;Kyries del segnndo tono;;;OT;;C;",d4 | [,cg2] ,c | [,df2] [,ff] | [,eg2] [,db] | X[,ch] ,,g | \
+,,f2 ,d | ,f2 ,,g1 ,e/ ,d | [,cc2] [,db1] ,,h |";italian4tab
+153;;43v;sans titre;;;OT;;C;"[,gg2] ,c | X[,bg2] ,e | [,dXf1] ,c/ ,d ,e ,d ,c ,b | \
+[,hXf1] ,g ,h2 | [,ggg2] ,,,c1 ,e | [gdgb2] [cc,e] |";italian4tab
+154;;44r;sans titre;;;OT;;C;",,,g4 | ,,,b2 y1 ,,,b | ,,,b2 ,,,h | ,,,b2 [,,dd] | \
+[,,fc/] ,,,b ,,,c ,,,d ,,,c1 [,,fb] | [,,fh2] [,,eg] | \
+[,,fh2] [,,hc] |";italian4tab
+155;;44v;sans titre;;;OT;;C;",g4 | ,d2 ,d | X,c2 y1 X,c | [dd/] ,e ,f ,e ,d ,c ,c ,b/4 ,h | \
+[gb2] y1 [gb] | X[fh1] X,b ,c X[fh] |";italian4tab
+156;;45r;Kyries del tercero tono;;;OT;;C;",h4 | X,c2 ,d | ,e4 | [,dh2] ,f | ,,,c1 ,e [,d,d2] | \
+,,,e1 X,c/ X,b X,c2 | [,ddd2] ,,,f1 ,d | \
+[,dff2] [,cge1] [,b,d] |";italian4tab
+157;;45r;sans titre;;;OT;;C;",,,h2 ,d | [,e,c1] ,c ,f2 | ,,,d1 ,e ,d2 | [,c,e2] ,,g | \
+[,fhd1] [,df] [,gb2] | [,g,d1] [,hh] [,bg] ,c | \
+[,dff1] ,,e ,,f ,,g |";italian4tab
+158;;45v;sans titre;;;OT;;C;"b4 | h2 g | [ff2] h | [eg2] [bd] | ,c1 h [he2] | [bd2] [hf] | \
+[g,b1] ,e ,e2 | [ffh2] [ceg] | [,dffg2] [,fh] |";italian4tab
+159;;45v;sans titre;;;OT;;C;",,h2 ,,b1 ,,c | [,dd2] [hec1] ,f | [bgb1] c [dfhd2] | \
+[cece1] ,,,f [bddg] ,e | [hfcf2] [bfd] | \
+[g,bg1] ,e/ ,e ,d ,d ,e1 |";italian4tab
+160;;46r;Kyries del quarto tono;;;OT;;C;",,h4 | ,,b2 y1 ,,b | ,,h2 ,,g | [,,he1] ,,b ,,g ,,h | \
+[,,ff1] ,,g ,,h [,,bf] | [,,ce1] ,,h [,,bd] ,,b | \
+[,,he1] [,,ff] [,,bd] [,,ge] |";italian4tab
+161;;46r;sans titre;;;OT;;C;"[he2] ,h | [bg2] ,f1 ,e | [,bf2] ,d | [heh2] ,f | \
+[gbd1] ,c ,d ,e | [hfc1] ,g [,hb] X[,fh] | [ggbd2] [,dg] |";italian4tab
+162;;46r;sans titre;;;OT;;C;",c4 | y2 ,d | ,e2 ,d | y2 X,c | [,df2] y1 ,c | ,b1 ,h [,gg] ,c | \
+,,h1 ,h [,bg] ,c | ,d2 X,,f1 ,c | [,bg1] ,h ,g ,,f |";italian4tab
+163;;46v;sans titre;;;OT;;C;"[,,hc1] ,f [,eg] [,fh] | [,dfd1] [,gb] X[,fh] [,gb] | \
+[,dff1] ,b [,dd/] ,c ,d ,e | [,fhf1] ,d ,,d/ ,e ,f1 |";italian4tab
+164;;47r;Kyries del sexto tono;;;OT;;C;",b4 | ,c4 | ,b2 ,b | [,ce4] | [,df1] ,c ,h ,b | \
+[,ce1] ,g [,ce2] | [,hf2] ,b | [,eg1] ,f ,g ,h |";italian4tab
+165;;47r;sans titre;;;OT;;C;",,f2 ,d | [,eg1] ,c ,e2 | [,dXf1] ,c/ ,d ,e ,d ,c ,b | \
+[,hXf1] ,g [dh2] | [egg1] c [eg2] |";italian4tab
+166;;47v;sans titre;;;OT;;C;",b4 | ,d4 | ,e4 | ,f2 ,e | [,df2] ,b | [,ch3] ,b/ ,c | \
+[,db1] ,c ,e ,d | [,cc1] ,d ,e [,db] |";italian4tab
+167;;47v;sans titre;;;OT;;C;",f4 | ,f2 ,e | [,d,f2] y/ ,c ,d ,e | [,d,f2] [,e,e] | \
+[,f,d2] [,gbd] | [,,be2] [,fhf] | [,egg2] ,,g | [,dhf2] X,,b |";italian4tab
+168;;48r;Kiries del septimo tono;;;OT;;C;",,f4 | [,cg4] | [,df4] | ,c2 ,,c | ,,d2 [,gd] | [,hc2] ,h | \
+[,gb4] | [,fhc2] ,,h1 ,e | [,d,d1] ,c [,bg2] | \
+[fhhc1] ,,b [,fc] ,,h |";italian4tab
+169;;48v;sans titre;;;OT;;C;"[,cc2] y1 ,,c | [,df2] ,,b | [,bh2] ,,g1 ,,h | \
+[,gbg1] ,,c ,,d X[,,bg] | [,hcc2] ,,,f | [cgce2] ,,,c1 c | \
+[ffhf2] [b,bd1] ,,,e |";italian4tab
+170;;48v;sans titre;;;OT;;C;",,,c4 | ,,,d4 | ,,,c4 | ,,,g4 | [,,fh4] | [,,cg4] | [,,df2] ,,,b | \
+[,,ch4] | [,,bg2] ,,e | ,,d2 [,,cc] | ,,,b2 [,,fh] |";italian4tab
+171;;49r;sans titre;;;OT;;C;"f4 | c2 y1 b | c2 [fc] | [bg1] c h ,f | [gg2] [hc] | \
+[bf1] ,g [ce2] | [,df1] h Xb2 |";italian4tab
+172;;49v;Quinto tono. Kyries.;;Ottavo tono?;OT;;C;",,,b4 | ,,,d4 | [,,ff4] | ,,h2 ,,,e | [,,bd2] y/ ,,h ,,b ,,c | \
+,,b2 [,,hf] | [,,gg2] [,,bf] | [,,bf1] ,,,e/ ,,,d [,,ce2] |";italian4tab
+173;;49v;sans titre;;;OT;;C;"[,b,b2] ,d | [,ffd1] ,e [,dh] ,c/ ,b | [fhcf1] [,bd] [,cc] [,db] | \
+[hchf1] [,bf] [,ch] [,dg] | [cehe1] [,cf] [,fb] [,eh] |";italian4tab
+174;;50r;sans titre;;;OT;;C;",,d4 | ,,c2 X,,b | [,,cg2] y1 ,,b | [,,hf2] [,,ge] | \
+[,,ff1] ,,g ,,h [,,fe] | [,,bd1] ,,g [,,hc] ,,g/ ,,h |";italian4tab
+175;;50r;sans titre;;;OT;;C;",,b4 | ,,,f2 ,,h | ,,b2 [,,ce] | [,,bf2] ,,,g | ,,,f2 ,,h | \
+,,f2 [,,ge] | [,,hc2] [,,bd] | ,,g2 ,,,e | [,fff2] ,,,h1 ,,g |";italian4tab
+176;;50v;Comiençan los tientos. segundo tono;;;OT;;C;"c4 | g4 | y2 e | f2 g | c2 g | [h,c1] ,b ,c2 | ,,g2 b | \
+h2 [g,e1] h | ,,f1 b ,,g g |";italian4tab
+177;;52r;Quarto tono;;;OT;;C;"h4 | g4 | f4 | b4 | [he2] c | ,d1 b g b | [hc1] g f e | \
+[df2] d | ,e2 [cg1] Xb | [c,h2] [hf] |";italian4tab
+178;;53r;Tiento del primer tono;;;OT;;C;",d4 | X,c4 | ,d4 | ,g2 ,c | ,,,d2 ,b | [,e,c4] | [,d,d1] ,e ,f ,d | \
+[,e,g1] ,d [,c,c] ,d | ,e1 ,f [,g,Xb] ,f |";italian4tab
+179;;55r;Tiento sobre quiladira;;;OT;;C;",,g4 | [,,fd2] ,,g | ,,,b1 ,,f ,,d2 | [,,ec2] ,,f | \
+,,,d1 ,,e ,,d ,,c | ,,b2 [,,dd] | [,,ce2] [,,dd] | \
+[,,ec2] [,,fc] |";italian4tab
+180;;56r;Tiento del segundo tono;;;OT;;C;",,e4 | ,,e4 | ,,f4 | ,,e4 | ,,h4 | [,,gb2] y1 ,,f | \
+[,,eb2] ,,d | [,,cc1] ,,d ,,e2 | ,,,b1 ,,d ,,e ,,d |";italian4tab
+181;;57r;Tiento del tercero Tono;;;OT;;C;"h4 | y4 | f4 | e4 | [dh4] | [hc2] h | [gd2] f | \
+[ce1] b h g | [ff1] g [he] g |";italian4tab
+182;;59r;Quarto tono;;;OT;;C;",,,e4 | ,,h4 | ,,,f4 | ,,b2 ,,,e | ,,,d2 [,,hXc] | \
+[,,gd2] X,,f1 ,,,c | [,,gb2] [,,fh1] ,,,b | \
+[h,ec1] ,,,d ,,,e [,,df] |";italian4tab
+183;;61r;Tiento del octauo;;;OT;;C;",,c4 | y2 ,,c | ,,c2 ,,h | ,,b2 ,,c | [,,df4] | ,,b2 ,,,f | \
+,,,f2 [,,bd] | [,,hf2] [,,gg] | [,,fh2] ,,f |";italian4tab
+184;;62v;Tiento del quinto tono;;;OT;;C;",,,f4 | ,,,f2 ,,,b | [,,bf2] ,,,f | [,,bg2] ,,e | ,,b2 [,,bf] | \
+[,,ce2] [,,bd] | ,f2 [,,hc1] [,,gb] | [,fhd2] [,bb] |";italian4tab
+185;;64r;Tiento del primer tono;;;OT;;C;",,,d4 | ,,h2 X,,,c | ,,,d2 ,,g | [,,hc2] [,,gb] | [,d,h2] ,,f | \
+[,,eb2] [,c,c] | [,dfh2] y1 ,,,b | [,cec2] [,bdd] | \
+[,he2] [h,,c] |";italian4tab
+186a;;64v;Tiento del sexto tono;;;OT;;C;",,,b/ ,,,h ,,,b ,,,c ,,,b1 ,,,c | ,,,d2 ,,,e | ,,,d2 ,,,b | \
+,,,d2 ,,,e/ ,,,c ,,,d ,,,e | [,,ff/] ,,e ,,f ,,g ,,f1 ,,g |";italian4tab
+186b;;66v;Segunda parte;;;OT;;3;",,f2 y/4 ,,e ,,f ,,g ,,f1 ,,d ,,e ,,f | \
+[,,bf2] ,,,f1 [,,bd] [,,ge] [,,hf] | \
+[,,bb1] ,,,c ,,,d [,,ge] [,,hf] ,,b |";italian4tab
+187;;68r;Tiento sobre Cum Sancto Spiritu;;;OT;;C;",,,g4 | y2 X,,,f | ,,,g2 ,,,h | X,,,f2 ,,,g | ,,c1 ,,,f ,,,e2 | \
+,,,d2 X,,b | ,,c2 [,,df] | X[,,bg2] ,,c1 ,,,g |";italian4tab
+188;;69r;Prenes pitie;Criquillon;;OT;;C;",,,b3 y/4 ,,,h ,,,b ,,,c | ,,,b2 ,,,c | ,,,d2 ,,,b/ ,,,c ,,,d ,,,e | \
+,,,f/ ,,,d ,,,e ,,,f ,,,g/4 ,,,f ,,,g ,,,f ,,,g ,,,f ,,,e ,,,f |";italian4tab
+189;;70v;Ye pres en grey;Criquillon;;OT;ConcR1358;C;"[bbfb3/2] ,,,h/ ,,,b ,,,h ,,,b ,,,c | [gdgb2] [cehc] | \
+[bfbd1] [,e,c] [,f,d] [,g,e] | [bfbd1] ,g [fhcf] ,b |";italian4tab
+190;;72v;Ye pres en grey glossado de Hernando de Cabeçon;;;OT;;C;[bbfb1] f/ e d c b h | [gdgb1] g/4 f e d [cehc1] f/4 e d c |;italian4tab
+191;;74v;Si par suffrir;Criquillon;;OT;;C;",,b3 y/4 ,,h ,,b ,,c | ,,b2 ,,f | ,,c1 ,,b/ ,,c ,,d ,,c ,,d/4 ,,c ,,b ,,c | \
+[,,df1] y/4 ,,,e ,,,f ,,,g ,,,f1 ,,c |";italian4tab
+192;;76v;Cancion Francesa;Clemens non Papa;;OT;;C;"[cegc1] ,,b/ ,,h ,,g ,,f ,,e ,,d | \
+[cgce/] b c/4 b h g [fhcf/] h g f |";italian4tab
+193;;77v;Ancol que col partire;;;OT;ConcR492;C;",,d2 ,,,d | ,,f2 ,,,c1 ,,e | ,,f1 ,,,h [,,gXb2] | \
+[,fhc2] [d,,d1] ,d | [heh1] X,,,b/ X,,,c [,f,d] X,,,c \
+[h,,d/4] X,,,c X,,,b X,,,c |";italian4tab
+194;;79r;Por vn plasir;Criquillon;;OT;ConcR858;C;"f2 [fc1] g | [hc3/2] [fd/] [ge3/2] [hc/] | \
+[bdf3/2] ,e/ [fffc3/2] ,,g/ | \
+[h,hc3/2] [,,fd/] [c,ge1] [,,hc] |";italian4tab
+195;;80r;Vn gay bergeir;Criquillon;;OT;ConcR857;C;",,,c2 ,,,c1 ,,,c | [,,gd1] ,,,g/ ,,,h [,,gb] ,,,c [,,gd] ,,,e | \
+[,,hf1] ,,d/ ,,e ,,f ,,g [,,hf] X,,b |";italian4tab
+196;;82r;Dulce memoriae.;Hernando de Cabeçon;;OT;ConcR856;C;"[gdgb2] y/ ,,,h ,,,b ,,,c | [hdgb3/2] f/ g f g h | \
+[bdfb1] b [fcfh/] ,,,c ,,,b ,,,h |";italian4tab
+197;;84r;Fuga a quatro todas la bozes por vna sexto tono;;;OT;;C;",,,b4 | [,,fc2] ,,,d | [,,ge2] ,,h | [,bbd4] | [fch2] ,d | \
+[ge,g2] [h,,c] | [bddd2] [,,gb] | [h,hc2] ,,f1 ,,,d |";italian4tab
+198a;;85r;Quaeramus;Moton;;OT;ConcR1641;C;",,b4 | ,,b2 ,,b | ,,b1 ,,g ,,h/ ,,g ,,h ,,b | \
+,,f1 ,,g ,,h ,,f | [,,bf2] ,,b/ ,,c ,,d ,,e |";italian4tab
+198b;;86r;Segunda parte de Quaeramus;;;OT;ConcR1642;C;"[bf2] y/ ,e ,f ,g | [hf1] ,g/4 ,f ,e ,f [gg2] | \
+[bf/] b c d e f [gf] h |";italian4tab
+198c;;87r;Tercera parte de Quaeramus;;;OT;;C;",,,f4 | ,,,f2 ,,,d | ,,,e4 | ,,,d1 ,,,b/ ,,,h ,,,b ,,,c ,,,d ,,,e | \
+[,,bf1] ,,,e/ ,,,f ,,,g ,,,f ,,,g/4 ,,,f ,,,e ,,,f |";italian4tab
+199a;;89r;Quaeramus, con differente glossa;Moton;;OT;ConcR1641;C;",,b3 y/4 ,,h ,,b ,,c | ,,b1 ,,h/ ,,g ,,f ,,e ,,d ,,c | \
+,,b1 ,,b ,,h/ ,,g ,,h ,,b | ,,f1 ,,h ,,g ,,f |";italian4tab
+199b;;90r;Segunda parte de Quaeramus;Moton;;OT;ConcR1642;C;"[bf/] h/4 g f e d c b1 b | [hf1] g/ h [gg] h b1 | \
+[bf/] c d e f g [hf] b |";italian4tab
+200;;91v;Clama necesses;Iusquin;;OT;;C;"[d,dh/] ,,,g ,,,f ,,,e ,,,d1 [e,,c/] ,,,b | \
+X[f,dh/] ,,,b [d,,c] ,,,d [g,,g] ,,,h ,,,b ,,,c | \
+[,,db/] ,,,c ,,,d ,,,e X[f,,Xf] ,,,g ,,,h ,,,g/4 ,,,h |";italian4tab
+201;;96v;Osanna de la missa de lome arme;;;OT;;C;"[,,dd1] ,,,c/ ,,,d ,,,e/4 ,,,d ,,,c ,,,b [,,ec] ,,,b ,,,h ,,,g | \
+X[,,fh1] ,,d [,,gb/] ,,g ,,h ,,b | [,,cg/] ,,d ,,e ,,f [,,gb1]";italian4tab
+202;;98v;Benedictus de la missa de lo me;Iusquin;;OT;;C;",d3 ,c/ ,d | ,g2 ,d | ,,g1 ,c ,h ,,g/ ,,h | \
+[,bd2] [,hh/] ,g ,h ,b | ,c1 ,,g ,,e/ ,h ,b ,c |";italian4tab
+203;;99v;Aue maris stella;;;OT;;C;"[,ggg/] ,,,f ,,,g ,,,h ,,,g ,,,h ,,,b ,,,h | \
+,,,b/ ,,,c ,,,d ,,,c ,,,b ,,,c ,,,d ,,,e | \
+[,ddf/] ,,,e ,,,f ,,,g ,,,h ,,,b [,e,g] ,,,b |";italian4tab
+204;;102r;Beata viscera mariae. Canto llano;;;OT;;C;"c1 ,,c/ ,,d ,,e ,,d ,,e/4 ,,d ,,e ,,f | \
+[e,g1] ,,g/ ,,h ,,b ,,g ,,h ,,b | \
+[e,c/] [,gb] ,,h ,,b ,f ,g [,hc] |";italian4tab
+205;;103r;Cum sancto Spiritu;Iusquin;;OT;;C;",,c2 y/ ,,b ,,c ,,d | ,,c2 ,,b | ,,c2 ,,d | \
+X[,,bg1] ,,h X,,b ,,c ,,,f ,,,g ,,,h | \
+,,,g1 ,,b [,,hXf/] ,,,g X,,,f X,,,e/4 X,,,f |";italian4tab
+;;;Desde a qui se da principio a los Motetes y Canciones de a cinco glosados;;;;;;;
+206a;;105r;Stabat mater dolorosa;Iusquin;;OT;ConcR3574;C;"[f,f3] y/4 ,,,,e ,,,,f ,,,,g | [f,,,3/2]e/ f e f/4 e d c | \
+[d,f,f/] ,,,,e ,,,,f ,,,,g ,,,,f1 [c,,,e] |";italiantab
+206b;;107v;Segunda parte;;;OT;ConcR1598;C;"[bfd,h3] ,e/ ,f | [bgd1] ,h [gb] ,h/ ,b | \
+[gc/] ,d ,e ,d ,c ,b ,h ,g |";italiantab
+207a;;110v;[I]nuiolata;Iusquin;;OT;ConcR2116;C;",,,,b3 y/ ,,,,c | ,,,,b3/2 ,,,,h/ ,,,,b ,,,,h ,,,,b ,,,,c | \
+,,,,b2 ,,,,b/ ,,,,c ,,,,d ,,,,e | \
+,,,,f/4 ,,,,d ,,,,e ,,,,f ,,,,g ,,,,h ,,,,b ,,,,g |";italiantab
+207b;;112r;Segunda parte de Inuiolata;Iusquin;;OT;ConcR2117;C;b4 | b2 b | d1 c/ b c b c d | e1 d/ e f e f/4 e d c |;italiantab
+207c;;113v;Tercera parte de Inuiolata;;;OT;ConcR2118;C;"[,df3] ,,g1 | [,df,d3/2] ,,e/ ,,f ,,e ,,f ,,g | \
+[fcf1] ,,,,f ,,,,e ,,,,d | [fcf,c2] e1 d | [ccegc2] ,c1 ,,,,d |";italiantab
+208;;114v;Si bona suscepimus;Verdelot;;OT;ConcR1526;C;"g3 y/4 ,c ,d ,e | ,d1 Xf g h | [bd1] ,c ,d ,e | \
+[hf1] g f/ g [hf] f |";italiantab
+209;;118r;Aspice Domine;Iaquet;;OT;ConcR1802;C;",,,g3 y/4 ,,,f ,,,g ,,,h | ,,,g1 ,,,g ,,,h/ ,,,g ,,,h ,,,b | \
+[,,cc3] y/4 ,,b ,,c ,,d | \
+,,c/ ,,,d ,,,e ,,,d ,,,f ,,,e ,,,d ,,,c |";italiantab
+210;;121r;Sana me Domine;Clemens non Papa;;OT;;C;",,,,d4 | ,,,,c2 ,,,,g | ,,,,b2 ,,,,c | ,,,,d4 | ,,,g2 ,,,,b | \
+[,,,fc1] ,,,,d [,,,ce] ,,,d | \
+,,,d/ ,,,c [,,,dd] ,,,e [,,,fc] ,,,d ,,,e ,,,f |";italiantab
+211a;;123v;In te Domine speraui;Lupus;;OT;ConcR557;C;",,b3 y/4 ,,h ,,b ,,c | ,,b3/2 ,,c/ ,,b2 | ,,b/ ,,c ,,d ,,e ,,f ,,g ,,h ,,b | \
+,,h2 ,,g | [,,bf3] y/4 ,,,e ,,,f ,,,g |";italiantab
+211b;;126r;Segunda parte de In te Domine speraui;;;OT;ConcR1597;C;",,,,c4 | y2 ,,,,c | ,,,,d1 ,,,,c/ ,,,,d ,,,,c ,,,,d ,,,,e ,,,,c | \
+,,,,f/ ,,,,g ,,,,h ,,,,f ,,,,h ,,,,g ,,,,h/4 ,,,,g ,,,,f ,,,,g |";italiantab
+212;;128v;Tercera parte de virgo salutifera;Iusquin;;OT;;C;",f4 | [ff4] | [fc,c2] y1 ,d | [ce,c1] ,f ,g d | \
+[e,,g1] f [gb] ,,,h | ,,,b1 [fh,c] [fh,d] e | g1 ,g [bg,b2] |";italiantab
+213;;129r;Hierusalem luget;Ricafort;;OT;;C;",,b3 y/4 ,,h ,,b ,,c | ,,b1 ,,h/ ,,b ,,c ,,b ,,c/4 ,,b ,,h ,,b | \
+[f,c3] y/4 ,,c ,,d ,,e |";italiantab
+214;;131r;Stabat mater dolorosa;Iusquin;;OT;ConcR3574;C;"[f,f4] | [f,f,f3/2] e/ f e f/4 e d c | \
+[d,f,f/] ,,,,e ,,,,f ,,,,g ,,,,f ,,,,e \
+[c,,,f/4] ,,,,e ,,,,d ,,,,c |";italiantab
+215;;134r;Inuiolata;Iusquin;;OT;ConcR2116;C;",,,,b3 ,,,,c1 | ,,,,b3/2 ,,,,h/ ,,,,b ,,,,h ,,,,b ,,,,c | \
+,,,,b/ ,,,,b ,,,,c ,,,,d ,,,,e ,,,,f ,,,,g ,,,,h | \
+,,,,b/ ,,,,f ,,,,g ,,,,h";italiantab
+216;;136r;Ye fille qua nile me dona de que;Adrian Villarte;;OT;;3;"[,,cec2] | [,,gdb2] y1 [,,gdb1] [,,gdb2] | [,,geb2] ,,,d1 ,,,,c [,,gbd2] | \
+[,,gbe2] ,,,,d1 ,,f [,,ecg2] | [,,ddf2] y1 ,,,c [,,ebg2] | \
+[,,fhc2] ,,,,d [,,gb] |";italiantab
+217;;137r;Pis ne me pul uenir;Criquillon;;OT;ConcR1786;C;",,,,c/ ,,,,b ,,,,c ,,,,d ,,,,c ,,,,d ,,,,e ,,,,f | \
+,,,,g2 ,,g1 ,,,,g | \
+[,,c,g2] ,c/ ,,,,f [,,c,g/4] ,,,,f ,,,,e ,,,,d |";italiantab
+218;;138v;Aiuli vous so la verdura;Lupus;;OT;ConcR946;C;",,,c2 [,,,cg1] ,,,c | [,,,gg1] ,,,,g [,,,bd/] ,,,,d [,,,bd] ,,,,e | \
+[,,,ff/] ,,,,e/4 ,,,,f [,,,fg] ,,,,f ,,,,e ,,,,d \
+[,,chc/] ,,,,b ,,,,c ,,,,d |";italiantab
+219;;140v;Ayme qui voldra;Gombert;;OT;;C;",,g3 y/4 ,,f ,,g ,,h | ,,g2 ,,f | [,,c,g2] ,,e | \
+,,d1 ,,c [,,d,f] ,,e | [,,f,c2] [,,ece] | \
+[,,f,d1] ,,,b/ ,,,h [,,gc] ,,,b ,,,c/4 ,,,b ,,,h ,,,g |";italiantab
+220;;142v;Durmendo vn jorno;Verdelot;;OT;ConcR2129;C;"g4 | b2 ,d1 c | [df2] [bg] | [ch1] ,g/ ,f [dg] ,f ,g ,h | \
+[gbd1] ,h/ ,b [dc] ,b ,c/4 ,b ,h ,g |";italiantab
+221;;144v;Triste de par;Gombert;;OT;;C;",,,c3/2 ,,,h/ ,,,b ,,,h ,,,b ,,,c | ,,,f2 ,,,h | \
+[,,,gg1] ,,,,f/ ,,,,e ,,,,f ,,,,e [,,,gf] ,,,g | \
+[,,,hc1] [,,,bd] [,,,ce2] |";italiantab
+222;;146r;Ie suis ayme;Criquillon;;OT;;C;",,g2 y/ ,,f ,,g ,,h | ,,g2 ,,c | [,,fc3] ,,f1 | [,,ec2] [,,df] | \
+[,,ccg1] ,,d ,,e [,,fc] | [,,gbg2] [,,fhc] | \
+[,,egg2] ,,,e1 [,,e,g] |";italiantab
+223;;148r;Susana vn jur. Glossada de Hernando de Cabeçon;;;OT;;C;",,,,c4 | ,,,,e/ ,,,c ,,,d ,,,e ,,,c ,,,b ,,,h ,,,h/4 ,,,g | \
+,,,h1 ,,,g [,,,ff/] ,,,g ,,,h ,,,f | [,,,cg/] ,,,c ,,,d ,,,e";italiantab
+224;;149v;Susana;;;OT;;C;",,,,c4 | ,,,,e1 ,,,c ,,,c ,,,b | ,,,h1 ,,,g [,,,ff/] ,,,h ,,,g ,,,f | \
+[,,,cg/] ,,,b/4 ,,,h ,,,g ,,,f ,,,e ,,,d \
+[,c,c/] ,,,c ,,,b [,,,hg] |";italiantab
+225;;151v;Pis ne me pul uenir glossado de Hernando de Cabeçon;;;OT;;C;",,,,c4 | [,,g,g2] y1 ,,,,g | [,,c,g/] ,,,,h ,,,,b ,,,,h [,,c,g] ,,,,f ,,,,f ,,,,e/4 ,,,,d | \
+[,cc,e1] ,,,,g [,,c,h/] ,,,,g ,,,,f ,,,,e |";italiantab
+226;;153r;Qui la dira;Adrian Villarte;;OT;;C;",d4 | ,b1 ,h/ ,g ,h ,g ,h ,b | \
+[hc/] ,d ,b ,c ,d ,c ,d/4 ,c ,b ,c |";italiantab
+227;;155r;Ad Dominum cum tribularer. Fuga en 4. con el tiple;;;OT;;C;",,g4 | y4 | [,,f,c2] y1 ,,e | ,,f4 | [g,g,Xb2] y1 ,,,,h | \
+X,,,,b2 ,,g | [fch,c2] X[e,g] | [fc,,d2] ,,f | \
+[gXbe2] ,,d1 [,hc] |";italiantab
+228;;156v;Pves ami del consolado tanto males me rodean;Iuan de Cabeçon;;OT;;C;"[,g,dg4] | [,c,e4] | X[,b,d2] [,c,e] | ,,,,h2 [,d,f] | \
+[,g,db4] | y2 [,d,fb] | [,e,gb2] [,d,f1] ,,,,h | \
+[,bd,b2] [,g,g] | [dd,gh2] [,dhXf] |";italiantab
+229;;157v;Qvien llamo al partir partir, ;;;OT;;C;",b2 ,c | ,d2 ,f | ,e2 ,d | [fcf2] g | h2 [c,e] | \
+[b,df2] [h,c] | [gbdg2] X,,e | [fcfh2] ,,,c | [,d,b2] [,ffh] |";italiantab
+;;;Desde a qui se da principio a los motetes y canciones de a seys y discantes;;;;;;;
+230;;159r;Benedicta es regina celorum;;;OT;;C;"[,,,,cc4] | [,,,,cc2] ,,,,d | [,,,,ec2] ,,,,f | \
+,,,,c1 ,,,,d/ ,,,,e ,,,,f ,,,,g ,,,,h X,,,,b/4 ,,,,c | \
+,,,,,d1 ,,,,c ,,,,b ,,,,h | \
+X,,,,b2 ,,,,g/ ,,,,,c ,,,,,e ,,,,,e |";italiantab
+231a;;164r;Benedicta es caelorum Regina;;;OT;;C;"[,,,,cc4] | [,,,,cc2] ,,,,d | [,,,,ec1] ,,,,c ,,,,f/ ,,,,g/4 ,,,,f ,,,,g ,,,,f ,,,,e ,,,,d | \
+[,,,,cc/] ,,,,d/4 ,,,,e ,,,,f ,,,,g ,,,,h \
+,,,,b ,,,,c/ ,,,,c ,,,,c1 |";italiantab
+231b;;168r;Duo;;;OT;;C;",,,g4 | [,,,b,d2] ,,,b | \
+[,,,b,f1] ,,,h/ ,,,b [,,,c,f] ,,,b ,,,c/4 ,,,b ,,,h ,,,g | \
+[,,,h,f2] ,,,f/ ,,,e ,,,f ,,,g |";italiantab
+231c;;170r;Tercera parte de Benedicta;;;OT;;3;",,,,g4 ,,,,g ,,,,h | [,g,,b4] ,g [,h,,h] | [,b,,fd4] [,,,,gd] [,c,,,e] | \
+[,dd,ff4] [,bd2] ,,,,e [,ce,ce4] | \
+[,hf,cc4] [,b,,bd] [,ce,g2] ,,,,,c |";italiantab
+232;;171r;Sancta Maria;Verdelot;;OT;;C;",,,,c4 | ,,,,,g1 X,,,,b/ ,,,,c ,,,,d ,,,,c ,,,,d/4 ,,,,c ,,,,b ,,,,h | \
+,,,,g1 ,,,,,f/ ,,,,,g ,,,,,h ,,,,,g ,,,,,h/4 ,,,,,g ,,,,,f ,,,,,e |";italiantab
+233;;175v;Aue Maria;Iusquin;;OT;;C;"[,ec2] y/ ,d ,e ,f | [,ec1] ,d/ ,e ,f ,e ,f/4 ,e ,d ,c | \
+[,bd3/2] ,,c/ ,,d ,,c ,,b ,,h |";italiantab
+234;;178v;Ultimi mei suspiri;Verdelot;;OT;;C;"[,,,c,c1] ,,,b/ ,,,h ,,,g ,,,f ,,,e ,,,d | ,,,c1 X,,,,,b ,,,,,c ,,,,,d | \
+[,,,c,e2] ,,c | [,,cc,e1] ,,d ,,e/ ,,d ,,e ,,f |";italiantab
+235;;181v;Ardenti mei suspiri;Verdelot;;OT;;C;",,g4 | ,,g2 y/ ,,f ,,g ,,h | ,,g1 X,,f/ ,,g ,,h ,,g ,,f ,,e | \
+[,,f,d/] ,,d ,,e ,,f ,,g ,,f ,,g/4 ,,f ,,e ,,f |";italiantab
+236;;185r;Differencias sobre las Vacas;;;OT;;C;"[eegb2] [cehc] | [bfbd1] ,,,b/ ,,,c ,,,d [c,,e] [d,,f] b | \
+[bfbd/] h b c b g h b |";italian4tab
+237;;186v;Pauana Italiana;;;OT;Conc_4405;C;"[ceg,c1] ,,,e [hcfd] ,,,c | [gdgXb1] ,,,h ,,,g ,,,h | \
+[gdgXb1] ,,,c [gdgd] X,,,b | [cgc1] ,,,d ,,,e ,,,d | \
+,,,f1 ,,,e [cehf/] ,,,e ,,,d ,,,c |";italian4tab
+238;;188r;Differencias sobre la Gallarda Milanesa;;;OT;;3;"[egbg2] | [egbg3] [d,,f1] [cgcXe2] | [fhcf2] [cgcf] X,,,e1 ,,b | \
+[ffhf1] ,,g ,,h ,,,e [bfbd2] | \
+[egbe1] f [ggbe] h [bf,d/] g h b |";italian4tab
+239;;189r;Differencias sobre el canto llano del Cauallero;;;OT;;C;"[gd2] [,,gb1] [cehc] | [bfbd2] [,gbd1] b | [ce,e1] ,,g [,,he] ,c | \
+[bdfd1] h [g,gb] f | [eggc1] ,,e [chfd2] | [bb1] ,,d [cgXec2] |";italian4tab
+240;;190v;Differencias sobre la Pauana Italiana;;;OT;Conc_4405;C;"[gbdg2] | [gbdg3] [dhdXf1] | [gbdg/] ,,,h ,,,b ,,,g [fcfh] ,,,f ,,,g ,,,h | \
+[bdfb1] ,,,h/ ,,,g ,,,f ,,,e ,,,d ,,,c |";italian4tab
+241;;192r;Differencias sobre el canto de la dama le demanda;;;OT;;C;"[gbdg2] | [gbdg2] [dhdXf] | [gbdg2] [fcfh] | [bdfb1] ,c ,d ,e | \
+,f1 ,e [bfbd] ,d | [cegc1] ,,,b [ddfb2] |";italian4tab
+242;;193v;Differencias sobre el Villancico, de quien te me enojo Isabel;;;;;C;"[gdgb2] [cehc] | [bfbd3/2] [,e,c/] [,f,d] [,g,e] [,f,d1] | \
+b/ ,,,b ,,,c ,,,d [egbe] f g h | [egbe] f g h | \
+[bfbd1] ,h ,g/ ,g ,f ,e |";italian4tab
+243;;197r;Differencias sobre las Vacas;;;;;C;"[bdfb3] h1 | b1 c [bdfb2] | [bdfb1] c [ddfb] e | \
+[fcfh1] ,g ,h ,b | [fcfh/] ,h ,b ,c ,d ,c ,d ,e |";italian4tab
+244;;199r;Otras differencias de Vacas;;;;;C;"[,,db1] ,b ,b ,c | [,ddb1] [bd] [bd] [ce] | [dfdb1] [df] [df] [eg] | \
+[ffch1] f f g | [fc,h1] ,,f ,,d ,,e |";italian4tab
+245;;200r;Du uiensela;;D'ou vient cela;;ConcR852;C;"[,gdg/] ,,c ,,b ,,h | [,ggg/] ,,h ,,b ,f [,ec] ,,d ,,e [,df] | \
+[,ceg/] ,,d ,,c ,,b [,ec] ,,b ,,c/4 ,,b ,,h ,,g |";italian4tab
+246;;202r;pange lingua de arreda;;handwritten addition;;;C;"[,bfb4] | [,,bd2] ,,h | [,cge4] | [,dff4] | ,,b2 [,,hd1] ,,g | \
+[,dfd4] | [gdg2] ,,,b | [f,,h2] [g,gb] | [hcec2] [g,f] | \
+[eeg2] ,,,b |";italian4tab

@@ -1,0 +1,73 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+;;;For Theorbo;;;;;;;
+1;;1r;[Passamezzo];;;OT;;C;",,,a1 ,,,c | [,daa{a}2] [,daa1] {a} | [,daa1] ,c [,d,,a] a | \
+[,daa{a}1] ,,,,,a ,,,,,c ,,,,,a | \
+[,daa{a}1] {8} [,daa{9}] {10} | [,aba{11}2] [,aba1] {11} |";italian7tab
+2;;1v;[variation];;;OT;;C;",,,a1 ,,,c | [,daa{a}1] ,,,,a ,,,a [,,a,,a/] ,,b | \
+[,,d,,c1] [,,a{a}] [,,b,,a] [a,,,a] | \
+[,daa{a}1] ,,,,,a/ ,,,,,c ,,,,,d ,,,,a ,,,,c ,,,,e |";italian7tab
+3;;2r;sans titre;;La Monica / Une jeune fillette;OT;Conc_4438;C;",,,,a2 | ,,,a2 {a}1 a | b1 d [b,,a2] | [a,,,a2] {10}1 ,d | \
+,b1 ,a ,b ,,,,a | [,a,,,d1] ,c ,d ,,,,,b | [,d,,,a2] [,c,,a] |";italian7tab
+4;;2v;sans titre;;;OT;ConcR989;C;",,d2 ,,,,a1 ,,d | ,,d1 ,,,,a [abd,a] {10} | \
+[abd,a1] ,d/ ,,,,c [abd,,a1] {10} | [abd,a1] [,,a,,d/] ,,,,,c [aabcca1] ,,,,c | \
+,,c1 ,,,,,a [aabcca] ,,,,,c |";italian7tab
+5;;5r;sans titre;;Un gai bergier;OT;ConcR857;C;",,,a2 ,,,a1 ,,,a | [a,,,a1] ,d [a,,,a] [c,,,a] | \
+[d,,,c1] ,,,,a [d,,,c] ,,,,d | [c,,a1] ,d [,d,a] ,d | \
+[,,,ca1] ,,,a [,,,ca] [,,a,a] |";italian7tab
+6;;6v;sans titre;;La Gatta;OT;;C;",,,a2 ,,,a1 ,,,a | [f,,,a2] [f,,,a1] [f,,,a] | \
+[f,,a3/2] h/ [f,,a1] [f,,a] | [d,,c3/2] c/ [d,,c1] [d,,c] | \
+[c,,a1] ,d [,d,a] ,d |";italian7tab
+7;;7v;Canzon franzeze;;;OT;ConcR981;C;"[b,,a1] d/ b | [a,,,d1] [,d,,c] [,c,,a] ,d | \
+[a,,,a1] [,d,,b] [d,,,,d/] b a ,d | \
+[,c,,a1] [,d,,,b] [a,,,,d/] ,d [a,,,a1] | [,d,a1] {a} ||";italian7tab
+8;;7v;Aria spagnola;;;OT;;C;"[,c{10}/] ,,,,a ,c1 [,c,,a] [,d,a] | [a,,,d1] {8} a [a,,,d] | \
+[a,,,d/] ,d a1 [a,,,d] [,d,a] | [acdca1] {10} [acd] [,aa] |";italian7tab
+9;;8r;Gagliarda;;;OT;ConcR1581;3;"[,,,c1] | ,,a1 ,,b [,,d{a}2] [ddf,,d] | \
+[cdd{a}2] ,,d1 ,,b ,,a ,,,,,a | \
+[,d,,,c1] ,,,,,d [add,a2] [,c{10}1] ,,b | \
+[,daa{a}2] [,daa1] {a} [,daa] ,,,c |";italian7tab
+10;;8v;No[n] havete a temer ch'in forma nuova;;;OT;;3;"[,daa{a}2] | [,daa{a}2] ,,,,a1 ,,b ,,a2 | \
+[,da{8}2] [,da{9}] [,da{10}] | [,dba{11}2] ,,,,,d [,dba] | \
+[,db{10}2] [,db{9}] [,db{8}] | \
+[,daa{a}3/2] (,c/ ,d3/2) (a/ c3/2) ,,c/ |";italian7tab
+11;;8v;So ben mi ch'ha bon tempo;;ff.9r-11r empty;OT;ConcR956;none;",d1 [,d,a] [a,,,e] [b,,a] [,,b,b] [,,d,a] {10} [acd] ,d \
+[,d,a] [a,,,e] [b,,a] [,,b,b] [,,d,a] {10} [acd] ,,,,a/ ,a ,b1";italian7tab
+12;;11v;sans titre;;"base: Aria di Fiorenza; ff.12r-13r empty";OT;ConcR1224;3;",,d1 | [c{a}3/2] d/ c1 | ,,,a ,,,,a a | [,d,,c3/2] ,c/ ,d1 | \
+,,,,c1 ,,,,,c ,c | [,a,,,d3/2] ,c/ ,d1 | ,,,,,d1 ,,,,a ,c | \
+[,daa{a}2] ,,,,a1 |";italian7tab
+13;;13v;[Ruggiero];;ff.14r-23v empty;OT;Conc_3638;C;"[cd,a/] ,,,c ,,a ,,b | [c,d/] ,,b ,,a ,,,c [c,,a] ,,,,d ,,,,c ,,,,a | \
+[d,,,,d/] ,,,,a ,,,,c ,,,,,d [a,,,a] ,,,,,d ,,,,,c ,,,,,a |";italian7tab
+;;;For Lute;;;;;;;
+14;;24r;[Ruggiero];;;OT;Conc_3638;none;"[cdda2] [cdda] [cdda] [dab,,d] [acdca] [cdda] {a}1 d c2 \
+[cdda] [cdda] [acdca] [,da,c] [aacc,a] [,cdca] ,,,,a1 ,d ,c2 \
+[,cdca] [,cdca]";italian7tab
+15;;24r;[Variation 1];;;OT;;none;"[cdda2] [cdda] [cdda1] a/ c [dab,,d1] c [addca] ,c [cdd{a}2] \
+,,,a1 d c a c {a} ,,,,,c ,,,,,d [,cdca] a [,da,c]";italian7tab
+16;;24r;[Variation 2];;;OT;;none;"[cdd{a}/] ,,,c ,,a ,,b [cdd{a}] ,,b ,,a ,,,c [cdda] ,,,,d ,,,,c ,,,,a \
+[,aba,d] ,,,,a ,,,,c ,,,,,d [,cdca] ,,,,,c ,,,,,d ,,,,a";italian7tab
+17;;24v;sans titre;;;OT;;none;"[cdda2] [cdda] [cdda] [acdca] ,,d1 ,,,,,d ,,,,,c2 [,aba,d] \
+[,da,c] [acdca] [cdda1] [a,,,e] [c,,a] [a,,,e] [c,,a] [,d,,c] \
+[ab,,d2] [ad,,,d] [addca1] ,c [cdd{a}3] d1 c2 :||:";italian7tab
+18;;24v;[Aria di fiorenza];;;OT;ConcR1224;none;"[cdda1] {a}/ d c1 [acdca] [,da,c] ,,,,c/ a ,d1 ,,,,,c/ ,c \
+[,aba,d3/2] ,c/ ,d1 [acdca] [cdda/] ,,,a ,,,,d ,,,,c ,,,,a";italian7tab
+19;;25r;[Variation 1];;;OT;;none;"[cdd{a}/] a c d c1 [acdca] [,daac/] ,c ,d a ,d1 ,,,,,c/ ,c \
+[,aba,d] ,,d ,a ,c ,d1 [acdca]";italian7tab
+20;;25v;[Variation 2];;;OT;;none;"[cdda2] [cdda] [,cdca] [,da,c] ,,,,,c1 ,,d [,ab,,d] ,c ,d ,,a ,,,c ,,,a \
+[,cdca2] [cdd{a}3] d1 c2 :||:";italian7tab
+21;;26r;sans titre;;;OT;;none;",c/ ,d [acdca] ,d a1 [acdca] [cdda] [dbb,d] ,,b ,b \
+a/ c [dbb,d] c d1 [dbb,d] [cdda] [acdca]";italian7tab
+22;;26v;[Aria di Fiorenza, tenore];;Lute 1;OT;ConcR1224;none;"[ea,c3/2] f/ e1 [caabc] [ac,,e3/2] c/ a1 [aa,,,e] \
+[acd,a3/2] ,,,,,e/ ,,,,,c1 [,ea,c] [aacc,a3/2] ,,d/ ,,c1 ,,,,,a :||: \
+[fc,,a3/2] ,e/ ,f1 [ea,c]";italian7tab
+23;;26v;[Aria di Fiorenza, 1. contrapunto;;Lute2;OT;;none;e3/2 f/ e1 c a k/ l k1 h f3/2 h/ f1 c e/ a ,d ,c ,a ,,d ,,c ,,a;italian7tab
+24;;27r;[Aria di Fiorenza, 2. contrapunto;;Lute2;OT;;none;,,,,,a/ f e c a c a ,e ,c k h f e f e c a ,,d ,,c ,,a;italian7tab
+25;;28r;[Aria di Fiorenza, 3. contrapunto;;Lute2;OT;;none;"[aacc,a/] h e/4 f h/ a ,,,c ,,,b/4 ,,,c ,,,e/ ,,,c e a/4 c \
+e/ ,c ,,d ,,c/4 ,,d ,a/ ,,d";italian7tab
+26;;28v;[Aria di Fiorenza, 4. contrapunto;;Lute2;OT;;none;"[aacc,a/] h e f h/4 f h f h f e c a/ ,,,c ,,,,e ,,,a \
+,,,c/4 ,,,a ,,,c ,,,a ,,,c ,,,a";italian7tab
+27;;29v;[Aria di Fiorenza, 5. contrapunto;;Lute 2 - ff.31v-61r empty;OT;;none;[aacc,a/] n l k h f e c a h f e c a ,e c a a ,d ,c ,a;italian7tab
+28;;61v;[Spagna for two lutes;Francesco da Milano;Contrapunto;OT;ConcR1411;none;"y2 ,,,c1 ,,a ,,b ,,d ,a ,c ,e a c a ,e ,c a ,e \
+a c d c a c d f h2 :||:";italian7tab
+29;;62r;[Spagna for two lutes;Francesco da Milano;Tenore, cf. ConcR1411;OT;;none;"[,a,c,a2] [,a,c,a] [,aa,c] [,,bcd] [,,bcd] [,,b,ca] ,a [,aa,c] \
+[,aa,c] [,,bcd] [,,bcd] [,,bc,a] [,,bc] [,,def] [,,dcd] \
+[,aa,c] [,ab,,a] [,d,ac]";italian7tab

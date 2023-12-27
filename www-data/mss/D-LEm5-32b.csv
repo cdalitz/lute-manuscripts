@@ -1,0 +1,56 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1;;1v;[?Allemande (partie d'Altus)];;Staff notation - pp 1r, 2r empty;;;;
+2;;2v;[?Allemande (partie de Superius or d'Altus)];;p. 3r tuning instruction;;;;
+3;;3v;CANTO;;Staff notation;;;;
+4;;4r;Balet;;;OT;;C;"c1 | [cdda1] d/ c a ,d [acd,a1] | \
+[,dda2] {a}1 c | [cdda1] [a,d,e] [,da,c] ,,c | \
+[acd,a2] {,,a}1 f/ d |"
+5;;4v;Volte;;;OT;;3;"c1 | [cdda2] {a}1 | d/ c a ,d [acd,a1] | \
+[,dda2] {a}1 | ,d/ a c ,d c d | [f,,,a3/2] d/ c a |"
+6;;5r;Balet;;;OT;;C;"[,dda1] [,cdca] [,dda{a}1] ,c/ ,a | \
+[,,da,c1] [,a,,,a/] ,c [,dda1] [,d,,,d/] a | \
+[cdda2] :||: [cdda2] [acd,a1] {,,a} | \
+[cdda1] [,da,c3/2] [a,,,,d/] |"
+7;;5v;Pauane espagnolle;;;OT;Conc_4405;C;",,,a1 b a ,d | [,cdca3] ,d1 | [,cdca1] ,d a ,c | \
+[,d,a1] a b a | [,d,a1] ,a ,b ,d | [ab,,d3] d1 |"
+8;;6r;[Courante];;;OT;;3;"c1 | [cdda3/2] d/ c1 | [acd,a3/2] ,d/ a1 | [,dda2] {a}1 | \
+,,,a3/2 a/ c1 | [ddf,,d3/2] f/ d1 | [cdda3/2] a/ ,d1 | \
+[acd,a2] {,,a}1 |"
+9;;7r;bouree;;;OT;;C;"[,cdca3/2] ,d/ a1 c | [a,,,c1] ,d ,c ,a | \
+[,cdca3/2] ,d/ a1 c | [a,,,c1] ,d ,c ,a | [,cdca2] {,,a}1 |"
+10;;7v;Volte;;;OT;ConcR1804;3;"[c{,a}1] [a,,,,a] [,d,a] | [c{,a}1] ,,,,,a ,,,,a | \
+[c{,a}1] [a,,,a] [,d,a] | [f{a}1] ,,,,a ,,,a | \
+[d{a}/] c [a,,,a] c [d,,a] a |"
+11;;8r;Pauane [d'Espagne];;;OT;Conc_4343;C;"[,dda2] | [,cdca3] ,,d1 | [,acc,a2] [,cdca] | \
+[,dda{a}1] a b a | [,dda1] ,a ,b ,d | H[abb,d] | \
+[abb,d2] [abc] | [abb,d3] d1 | [bdda2] [ccd,a] |"
+12;;8v;Le Remede a mon mal cest;;;OT;;C;"[,dda2] [acd,a] | [cdd,,a4] | [cdda2] [cdd] | \
+[acd,a4] | [da,c2] [da] | [cdda2] ,,,,,a | \
+[acd,a1] [,d,c] ,c | H[,dda{a}] :||:"
+13;;9r;Les mariniers adorent un beau jour;;;OT;;3;",,d2 ,d a | [cdd{a}6] | [cdda2] [cdd] {a} | \
+[cdda2] [acd,a4] | [cdd{a}6] | [cdda2] [cdd] {a} | \
+[cdda4] {a}2 | [cd,,c4] [a,d,c2] |"
+14;;9v;Gauotte;;;OT;;C;"a/ c | [da,c3/2] [c,,a/] [acd,a1] [c,,a] | \
+[,da,c3/2] [a,,,e/] [c,,a] ,d | [dab,,d1] [c{,a}] [add,a] ,c | \
+[,daa{,a}2] ,d1 :||:"
+15;;10r;Gallarde de bouffons [Passomezzo moderno];;end on f. 9v;OT;;3;",d1 | [cd{,a}2] [cd] {,a} | [cdda1] a c ,d a c | \
+[dab,,d2] [ab] ,,,a | \
+[dab,,d1] ,,,,,c [dab,,d] [dab,c] ,,,,c |"
+16;;10v;Courante;;;OT;;3;"f1 | [fdaa3/2] d/ c1 | a3/2 c/ a1 | [,dda3] | \
+,,,a3/2 ,d/ ,c1 | [,a,a3/2] ,c/ ,,d1 | \
+,,,c/ ,,a ,,c ,,d ,a ,,c |"
+17;;11r;amour n'a point ses esles;;;OT;;C;"[,dda1] [cdda] [cda,c] [dba,,d/] ,,,,a [da,,c] ,,,,e | \
+[cdda3/2] [acc,e/] [,daac1] [acd,a/] c | \
+[dab,,d1] [cdda] [cd,a] [,daac] [acd,a] |"
+18;;11v;Pauane [Passemezzo moderno];;;OT;;C;",,d1 ,d a | [cdda2] ,,d1 d | [cdda1] d c a | \
+[cdda2] ,,d1 d | [cdda1] d/ ,,,a d1 c |"
+19;;12v;Volte;;;OT;;3;"d1 c a | [,dda{,a}3/2] a/ ,d1 | [acd,a1] ,d a | \
+[cdda3/2] a/ ,d1 | ,,,a1 [acd,a2] |"
+20;;13r;Jendure un fascheus;;;OT;;C;"[,dda/] a c [ddf,,d] f d [c,,a] ,,,c ,,,e ,,b [acd1] | \
+,,,,a [cdda] [ddf,,d] ,,,,a ,,,,c ,,,,e [cdd{,a}]"
+21;;13v;Depitz (?);;;OT;ConcR948;C;"[,ddef2] [,cdca] | [,aaac4] | [,cde,c2] [,aba,d] | \
+[,,defa4] | [,aba,d2] [,,d,,c1] ,,,a | \
+[,abc,a1] ,c [,dda{,a}2] | [add,a1] ,c/ ,a ,c1 d | \
+H[cdd{,a}] |"
+22;;14r;Branle doub(le) de Champaig(ne);;pp. 14v-27v empty;OT;;C;"[abd,a/] ,,,c/4 ,d | [,b,,,a/] ,b/4 ,a | [,,da/] [,,cc] | \
+[,,da/4] ,a ,b ,d | [abd,a/4] b a ,d | [,b,,a/] [,a,a/4] ,,d |"

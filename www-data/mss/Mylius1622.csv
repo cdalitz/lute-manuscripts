@@ -1,0 +1,373 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1;;1;Grammatica Illustriss: Doulandi;John Dowland;Farewell Fancy;OT;ConcR315;C;"c2 c1 c | \
+d1 e f g | \
+[ha3/2] f/4 d [ca/] a [ca] d | \
+[ab/] f ,c/4 d c a [cd/] h"
+2;;3;Praeludium 1;;;OT;;C;"[aab,,a1] ,d/8 ,b ,d ,b ,a ,,d ,,b ,,a ,,,c \
+,,a ,,b ,,d ,a ,c ,d a c d c a ,e a c/4 |"
+3;;3;Praeludium 2;;;OT;;C;"[aab,,a/4] c d a h ,,,,h ,,,f ,,,,h [,abcca] \
+,,,,,c ,,,,,d ,,,,,,a ,,,,c ,a ,d ,a | \
+c/4 ,,,,c/8 ,,,,e ,,,a/4 ,,,,c"
+4;;4;Praeludium 3;;;OT;;C;"[,abc,a/4] ,,d ,a ,,,,,c ,,,,,d ,,,,,a [,,d,,c] ,a ,c \
+,,,,,d ,,,,a ,,,,,c [,a,,,d] ,c ,d ,,,,a | \
+,,,,c/4 ,,,,,d [,c,,a] ,d"
+5;;5;Praeludium 4;;;OT;;C;"[aab,,a/4] ,d/8 ,c ,a ,,d ,,b ,,a \
+,,,c/4 ,,a ,,b [c,d] [da/] ,,,c c ,,,b | \
+[aabc/] ,,,,,a/4 ,,d ,,b/ [,,a,,c]"
+6;;5;Praeludium 5;;;OT;;C;"[aabc/] ,,,,,a [aabc] c [da,c/4] ,,,a [abb,d] ,,,,c \
+[abdca/] ,,,,,d/4 ,,,,,c | \
+[aab,,a1] ,,,c/4 c d a c/ [,ab] ,,,c/4 ,,d [a,b/] |"
+7;;6;Praeludium 6;;;OT;ConcR781;C;"[aab,,a/4] ,d/8 ,b ,a ,,d ,,b ,,a ,,,c ,,a ,,b ,,d ,a ,c ,d a \
+[c,,a/4] a c d [f,,,a] d [c,d] a |"
+8;;7;Praeludium 7;;;OT;;C;"a1 e/ f h a [fc] e | \
+[cef/] a [,ef] ,c ,e ,,d [a,c] ,,a | \
+,,,c/ ,d [,cd] ,a ,c ,,b [,da] ,,,c |"
+9;;7;Praeludium 8;;;OT;ConcR784;C;"a1 e/ f h ,a [fc] ,e | \
+[ef/] ,,,c ,,c [c,d/4] ,f [,ef/] ,,,,c [a,d,e] [c,,b] | \
+[ea,c/] ,,,,,a [fc,e,c] e/4 f ,,,,,e/ [ha] [fc,,a] e |"
+10;;8;Praeludium 9;;;OT;;C;"[aac,,a1] ,c/4 ,e a c [effc3/4] f/4 [h,,g/] k/4 ,,,h | \
+[ha/] ,,,,,a/4 f [e,,,,c] [c,d] [a,c] ,,,,,a [,ea,c/] \
+[a,e,e] [aaa,c/4] ,e/8 ,c ,e/4 ,,,,a |"
+11;;8;Praeludium 10;;;OT;ConcR2585;C;"[aabc/] ,,,,,a/4 c [da,c/] [c,,b/4] ,,d ,,,c ,,a [,ab] \
+,,,a [,,,cd] ,,a [,,bc] ,,d | \
+,,,,c/4 ,,,c [,aab] ,,,,a ,,,,,d ,,,c \
+,,,,a ,,,,,d ,,,,,c ,,,c"
+12;;9;Praeludium 11;;;OT;;C;",,,e2 ,,d/ ,a [,cde/4] c a ,d | \
+[,cde/] ,,,c/4 ,,,a ,,,,e [a,d] [,d,a] ,c \
+[,acc/] ,,,a/4 ,,,,e ,,,,c ,d [,c,,e] ,a |"
+13;;10;Praeludium 12;;;OT;;C;"[ccd,,c/] ,,,e c [a,,,,e/4] ,d [,c,,a/] c ,,,,c [a,,,e] | \
+[,d,a/] [,c,c/4] ,a [,,de/] ,c ,d [,c,c] ,,,a [ca] | \
+[ac,,e/] {,a}/4 c e/"
+14;;11;Praeludium 13;;;OT;ConcR788;C;"[ccde/] ,,,,,c [ccd] [ea] [fca] c [ee,d] ,a | \
+[cede/] ,,,,,c ,e [,a,,,e] [cdca/] ,a/4 ,c [,da,c/] ,,c | \
+[,cd,a/] ,,,,,c ,d [,c,,,a]"
+15;;12;Praeludium 14;;;OT;ConcR792;C;"[cede2] [,cd,,c/] f/8 e c a c/ a/8 ,d ,c ,a | \
+,c/ ,,a c [a,d/4] ,d [,cd/] [c,,,a] [,,c,c] [a,d,e] |"
+16;;13;Praeludium 15;;;OT;;C;"[ccde/] ,,,,,c c/4 e/8 c e/4 f/ ,,,e [e,c] c/4 a | \
+[ccd/] a/4 c a/ ,,c [cd,e] ,c [ec,d] ,a |"
+17;;14;Praeludium 16;;;OT;;C;"[ccde/] ,,,,,c ,,,e ,,c [,,de] ,a ,c ,,,c | \
+,,,a/ ,c [caa] ,,c ,,,,e [ccd] [a,c] [,ea] | \
+[a,c/] ,,,,c [,,d,a] ,d [,c,c] ,a [acd] ,,,,c |"
+18;;14;Praeludium 17;;;OT;;C;"[ccde/] ,,,,,c [ccdee] ,,c/4 ,,a [egh,e/] ,,,g ,h/4 e f ,h | \
+[e,,,e/] [,g,g/4] ,,,,c [c,a,a/] [ea,d,e] [,cde,c] ,,,e ,d [,ccc] |"
+19;;15;Praeludium 18;;;OT;;C;",,,e/ ,,,c ,,,e ,,c ,,d ,,c/4 ,,a [,,de,c/] ,c | \
+[cd/] ,,c [f,,e] ,c [,c,,e] e [c,aa,c] ,a | \
+,a/ ,,,,e/4 ,,,,c ,,,,e/"
+20;;15;Praeludium aliud 19;;;OT;ConcR791;C;",,,e/ ,,,c ,,,e ,,c ,,d ,,a | \
+[,,d,,c/] ,,c ,,a ,,,,,e [,,a,a] ,,,,,c ,,,,a [,,c,c] | \
+[,,,ce/] ,,a/4 ,,c [,,d,e/]
+"
+21;;16;Praeludium 20;;;OT;;C;"[,aba,d/] ,d a c/8 a c d [cdd{a}/] ,,,a/4 a c/ [d,,c] | \
+[f,,e/] ,d [h,,f] f/4 d [cdda/] {a} d [cdd] [aab,,a]"
+22;;16;Praeludium 21;;;OT;ConcR779;C;"[ddeffd2] [ddef3/4] f/4 g/ d | \
+[fdde1] [ddef/] ,,,d ,,,b ,d [,bb] d | \
+,,,a/4 d b a b ,,,c ,,,d ,,b [a,d/] [bd] [a,,,a] ,c |"
+23;;17;Toccada;;;OT;ConcR2345;C;"[aabcca3/2] ,e/ a c d f | \
+[h,,,,a1] f/4 d c/ d ,,,c3/4 c/4 a/ | \
+,e/ a [c,ac] ,,,b [da,c3/4] ,,,,,a/4 ,,,,,c ,,,,,d ,,,,a ,,,,c |"
+24;;18;Toccada Nobilissimi Victoris Galli (2);Victor Gallus;;OT;ConcR1144;C;"[aabcca2] [abdca1] [abbcd] | \
+[,abacd/] ,d [,dfffd1] [,bd/] ,,b [,bdd] ,d | \
+[aacc/] ,,,a [a,d,e] f [bdda] ,,,,d ,,,,c/4 a c d |"
+25;;20;Toccada 3.;;;OT;ConcR483;C;"[ha,g,a3/2] [f,a/] [ea,c,a1] [ca,b/] ,,,,e | \
+[cef,c/] e f/4 ,e [ef/] [cf{,a}] ,e/4 ,c [cef/] ,,d | \
+[aac,,a1] [acd] [acd,,a] [aac/] {a} |"
+26;;20;Toccada 4.;;;OT;ConcR1139;C;"[aabcca3/2] c/ [da,c,a3/2] [f,a/] | \
+[ha,f,a1] i/ ,,,h [ha,h,a1] ,,,f/ ,,,e | \
+[ha,f,a1] [f,a/] ,,,c [caab3/4] a/4 c d/8 c d c a c |"
+27;;21;Toccada 5.;;;OT;ConcR1140;C;"[ccde2] [ccde1] [fc,e] | \
+[e,a{,c}1] [,c,d/] ,a [ccde,c1] [,df/] a | \
+[cfe,c1] [,cde/] ,,,c [,caa1] [,aaa/] ,,d/4 ,a | \
+[,cdee1] [,,cd/] [,,ab] [,ccde] ,,,,c [,cc,a] [,ea] |"
+28;;21;Toccada 6.;Vincenzo Bernia;;OT;ConcR682;C;"[abd,a2] [abd,a/] ,d ,b ,a | \
+,b3/4 ,,,,d/8 ,,,,c ,,,,a ,,,,,e ,,,c/4 ,a a \
+[,bd,a/] ,c ,,,,,b ,,d ,d ,,,,,c | \
+[,,b,,d/4] ,,,c ,a ,,,,,e"
+29;;22;Toccada 7.;;;OT;ConcR1141;C;"[ddff2] [ddf,,d1] [ddff] | \
+[f,de1] [f,ge] [h,if3/2] ,,,e/ | \
+[hi,,h1] f/ ,i [fi{a}1] ,h/ ,f | \
+[fh{a}1] [hi,a{,a}] [if{,,a}/] ,h [hi{,a}] {,c} |"
+30;;22;Toccada 8.;;;OT;ConcR1142;C;"[abbcd2] {,a}/ ,d a ,b | \
+[dbbcd/] ,,,a ,,,c ,,,a/4 ,,,,d [da,ac/] b [b,d,d1] | \
+[a,b/] [,d,d] [abb,d1] {,a}/4 a ,d ,b [,db,c/] ,,,d |"
+31;;23;Toccada Nobilis Sonatoris Gautier 9.;Gauthier;;OT;;C;",,d/4 ,a ,b ,,d [,fc/] ,,,c [,,d,e] ,,,f [,daa{a}] [,,c,ca] | \
+[,bd,d/] [,a,a] [,,cc] [,bdc{,,a}] ,,,,a \
+[,,,aac] [,a,c,d] [,,,,da/] | \
+[,,,aab/] ,,d [,,ccca] ,,,a"
+32;;23;Toccada Ejusdem 10.;;;OT;;C;"[,,dca{,,a}3/4] ,a/4 ,c/ ,,d a ,,,,,a ,,,,c ,,,c | \
+[aac3/4] ,d/4 ,c/ ,a ,c ,,,,,c ,,,,e ,,,e | \
+[ccd/] ,,c ,,,e [eccd] [fc,e] [e,c]"
+33;;24;Toccada 11.;;;OT;ConcR1143;C;"[,,dca{,,a}1] [,ac] [,cdca] [,df] | \
+[acd,a1] [cd/] d [edd,a1] ,c/ ,a | \
+[,cdc{,,a}3/4] ,a/4 ,c ,a ,c ,,d [,ad,,a1] ,,c/ ,,a |"
+34;;24;Toccada 12.;Michelangelo Galilei;;OT;ConcR775;C;"[abdc{,,a}2] b/ ,,d a ,,b | \
+[,,,da/] ,d ,,,c ,,,a [,,,ca] ,b/4 ,a ,b ,,a ,,c ,,d | \
+[,ad,,a1] ,,c/ ,,a [,abc1] d/ ,,,a |"
+35;;25;Grammatica Victoris Galli;Victor Gallus;;OT;ConcR1145;C;"h1 h/ d f h i1 | \
+h/ ,f [hf] ,,g [fd] [ef] [fg] h/4 f | \
+[ef/] f h ,d ,b f"
+36;;26;Seconda Pars Ejusdem;Victor Gallus;;OT;ConcR1145;C;"h2 f1 h d a | \
+[ca1] ,,b [a,d] ,,a [fe] ,,,,h | \
+[,if1] [,hf,g] ,,,,c [,da] [,ca,b] [,da,c/] ,,,,,d | \
+[,a,e/] ,,,c/4 ,,,a ,,,c ,,,e"
+37;;28;Grammatica Rosideri Angli generosi;John Dowland;;OT;Conc_4427;C;"h2 h1 h | \
+g1 f e d | \
+c1 [df3/4] c/4 a/ c [df] a | \
+[df/] f [he] c ,d d [fc] a |"
+38;;30;Fantasia;John Dowland;;OT;ConcR153;C;"h2 h1 h | \
+[af3/4] c/4 d/ a [hf1] [df] | \
+[i,,h3/4] ,,f/4 ,,,g/ ,,,h [hf3/4] ,h/4 ,i/ ,h/4 ,f | \
+[fh/] h ,f f"
+39;;32;Fantasia 2.;;;OT;ConcR342;C;"a2 a/ c e a | \
+c/ e f h k [ha/4] f e c [ea] c | \
+[ac/4] e [ce] e/8 f [ha/4]"
+40;;34;Seconda Pars;;;OT;ConcR2717;C;"[ha,g,a1] ,,,,h [fh] [ef/] c/4 e | \
+f/ e [ce1] [ha] ,,h/ h/4 g | \
+h/ ,f [ha] ,,h [he] ,a [h,h] ,e |"
+41;;35;Fantasia 3.;Francesco da Milano;;OT;ConcR170;C;"h1 i h ,a/ h | \
+[,eg/] f [ca] d ,,,c [ca] [,,b,d] [a,d] | \
+[,f,ec/] ,e/4 ,c [,efec/] ,,,e [,,d,d/8] ,,b ,,d ,a ,,d ,,b"
+42;;37;Fantasia 4.;John Dowland;Forlorn Hope Fancy;OT;ConcR332;C;",,,c2 ,,,b/ ,,,a ,,,,e ,,,,d | \
+[,a,,c/] ,,,,e ,,,a ,,,,c [,,e,e] ,,,e ,,d/4 ,,,c ,,,,e ,,,b | \
+[,,cc/] ,,,,,a ,,b/4 ,,,,,c ,,,,,d ,,,,a"
+43;;38;Fantasia 5.;;;OT;ConcR130;C;",a2 c/ c ,d a c | \
+d/4 ,,,c c a [,df] ,c ,d a [ca/4] a/8 c \
+[d,b/] [c,d/4] a [da] c |"
+44;;40;Fantasia 6.;;;OT;ConcR795;C;"a2 a/ ,e/4 ,c/8 ,e a/4 ,d/8 ,c ,a3/8 ,c/8 | \
+[ha1] ,f h ,e/ f | \
+[hf,fh1] [df,c] [ca,c] ,,,b |"
+45;;41;Fantasia 7.;;;OT;ConcR796;C;"h1 h/ h e ,f e f | \
+[hf1] ,f/ ,f [fc] ,,d [fc] ,e | \
+[ef,c/] f [ha,,h] [e,,c] [ff,,e] ,,,,a [,f,,e]"
+46;;42;Fantasia 8.;;;OT;ConcR803;C;"[aabcca/] ,d/4 ,b [,a,c/] ,,,a/4 ,,,,d [,,b,c/] \
+[,,a,a/4] [,,,c,d] ,,,,,c ,,d ,,,b c | \
+[da,c,a/] {a}/4 {,a} {,c} [cd] \
+[ab/] [haa] [,,b,c/4] ,,a [,,,ce/]"
+47;;44;Pauana Wilhelmi Angli. 1;;;OT;;C;"[,cae2] ,d1 [,cae] | \
+[,ab/] ,c [,da] a [caa,c1] ,a/ ,,,,b | \
+[,da,c/] ,,,,,c [,ca,a1] [,ab,c] ,a/ ,,a/4 ,,,c | \
+[,,ee1] [cd,e] f/ ,c [e,,c] ,a |"
+48;;46;Pauana Anglica Ejusdem. 2;Daniel Bacheler;;OT;Conc_4433;C;"[aa,c1] {,a}/ ,c [ea,c] a [ccab1] | \
+[ce,ec/] e/4 g h/ ,,,,,g [hf,g,e] [g,,,,g/4] e [ce,ec/] e | \
+[gea/] ,c/4 ,a ,c/"
+49;;48;Pauana Anglica Excellens. 3;John Dowland;;OT;ConcR296;C;"[caa,c1] {,,a}/ a [,ea,c1] [,ca,b/] ,,,c | \
+[,cabc/] ,a [,a,d,e] [,cf,ee/4] ,,f ,,e \
+,,c [,cee/] ,,,,,c ,,,,,a | \
+[,aa,c{,,a}/] c [e,,c{,,c}] g"
+50;;50;Pauana Anglica alia. 4;;;OT;ConcR175;C;"[ha,,,a3/2] ,e/4 ,c [,af,,a/] h [fc] ,e | \
+[ef,c1] ,a/ ,,b/4 ,,,,e [,aa,c/] ,c ,e [a,,,a/4] ,,,,,e | \
+[ccd,,c/] e f [ha,,,a] [kf,fa1]"
+51;;52;Pauana Douulandi. Angli. 5;John Dowland;;OT;;C;"[aac,,a3/4] h/4 f/ d/4 c [da,,,a/] [c,d] [a,b] [,ea] | \
+[aab,,a3/4] a/4 [,dd,,c/] ,b [,a,c,d3/4] ,d/4 ,b ,a [,b,,a/] | \
+[,aa,c/] {a}/4 ,,d [,,b,,a/]"
+52;;54;Pauana Douulant 6;John Dowland;;OT;;C;"[cdf,c1] {,a}/ [ac] [,df] {c} {a} [,cd] | \
+[,abc,a/] ,c/4 ,d a/ {a} {,c} [aa] ,,e c | \
+[da,a{,a}1] c/ ,,d [,,b,,a] a/4 ,,d ,,f/ ,d |"
+53;;57;Pauana Anglica. 7;Daniel Bacheler;;OT;Conc_4423;C;"[,dda1] {a}/ [,c,c,a/4] ,a [,,da,c/] f [da,a,d] [cd] | \
+[acdca1] ,,,,,a/ [,dda,c/4] ,c [,a,a,d/] [hi] [fh] [df] | \
+[cdda1] {,a}/ [lh,a] ,,,,,h [fh,a] [ha,,,a] |"
+54;;59;Pauana Anglica 8;Philip Rosseter;;OT;Conc_4519;C;"[,abcca1] a/ ,,,,,c [,,,c,d] ,d ,b1 | \
+[,bba,d/] ,a ,a1 [aa,cd/] ,,d/4 ,,b ,,d/ a | \
+[,eb,c1] [a,a/] ,,,c [ca,bc1] [da,a,d3/4] c/4 |"
+55;;61;Pauana Anglica. 9;;;OT;;C;"[,dda{,a}3/2] ,,,,,a/ [,dd,,c1] [,db,,d/] ,,a | \
+[,,dca1] ,c/ [,,de] [,ab,,a1] ,,,c | \
+[,cdca1] [,d,ac] [a,d,,f] ,,,,e/ ,,b | \
+[,daa{,a}3/2] a/ [cd1] [da,,,a] |"
+56;;64;Pauana [10];;;OT;;C;"[caa,c2] [caa,c/] ,,,,e ,,,a ,,,c | \
+[ccde3/2] [ea,c/] [fdaa1] [fcd,a] | \
+[ea,c/] [c,d] [c,ca] ,,a [eghge/4] ,h ,g ,e ,g ,h e ,g |"
+57;;65;Pauana [11];;;OT;;C;"[ea,c3/4] c/4 a c e f [hff,b3/4] k/4 h/ ,,,a | \
+[khh,,k/] ,,,,,h ,,,,a h [fc,ca] [ea] [c,d] [a,c] | \
+[,ea,c/4] ,a/8 ,c ,e a"
+58;;66;Pauana (12);;;OT;;C;"[fdaa1] [c,d/] [d,b] [fdaa1] ,,a/ [h,,,,h/4] ,,,,e | \
+[fd,a/] ,,a/4 ,,b [,cd,a/] d/4 c [aabc/] ,,a ,,b [c,d] | \
+[da,c/] f [h,,,,h] [,,a,a]"
+59;;68;Pauana 13;;;OT;ConcR991;C;",,,e2 ,,d/ ,a [,c,e] ,d [a,,c] ,c | \
+[c,da/] ,a [a,,,e] ,,c/4 ,,d [,da,c/] ,,c [,cde] ,,,,e/4 ,,c | \
+[,caa/] ,a [,c,ee] ,,,d"
+60;;69;Courante 1;;;OT;ConcR1148;3;"h/ | \
+[hfff3/4] ,e/4 ,f/ c [,ea,c] ,,,,a | \
+[aa,c,d3/4] ,,,,,c/4 ,,,,,a/ [c{b}] ,a [,,de] | \
+[,,d,ca/] a [da] {a} [f,a{,a}3/4] d/8 f |"
+61;;70;Courante 2;;;OT;ConcR1149;3;",a/ | \
+,,c/ ,,,c [,,ab] ,,c ,,,,,a [,a,,,e] | \
+[,c,,a3/4] ,e/4 a ,c ,e/ ,,,,c {,,a} | \
+[,ef3/4] ,,c/4 ,,a ,,,c ,,,b/ {,,a} ,e |"
+62;;70;Courante 3;;;OT;ConcR1150;3;",,c/ | \
+[,,c,,a/] ,,,c [,,d,,c] [,a,c,e3/4] a/4 [c,,,a] a | \
+[,ea,c/] {,,a} h [hfh{,a}] g3/4 e/8 g | \
+[hea{,,a}3/4] c/4 e ,f c/ ,,f [,,ab] |"
+63;;71;Courante 4;;;OT;ConcR1151;3;",a/ | \
+[af3/4] c/4 e/ c [he] f | \
+[ef/] ,,f/4 e c ,e [af3/4] ,,c/4 ,,d ,a | \
+[,,cc/] [c,d] ,,,b [ea,c]"
+64;;71;Courante 5;Michelangelo Galilei;;OT;ConcR524;3;",,a/4 ,,c ,,d/ [,ac] [,cd] ,,,e ,,d | \
+[,,c,e3/4] ,,d/4 ,,c ,,,d [,,ae/] ,,,,,c f | \
+[h,aa/] f/4 h k/ [e{,a}] ,f f |"
+65;;72;Courante 6;;;OT;ConcR1152;3;",,,e/ | \
+,,,d/ ,c ,,c [,,de3/4] ,,c/4 ,,d/ | \
+[,c,c/] [,aaa3/4] ,,d/8 ,a ,c/ ,,,,e {,a} | \
+,,c/ ,,,c ,,d [,,aa{a}3/4] ,,c/4 ,,d ,a |"
+66;;73;Courante 7;;;OT;ConcR1153;3;",c/4 ,a | \
+[,cd3/4] ,,c/4 ,,a/ [,,cd] [,,de] [,,cd] | \
+[,,ae/] ,,,,,c ,,d [,a,c,e3/4] ,c/4 ,d ,f | \
+[,c,ca3/4] ,,d/4 [a,c/] [c,a] [ef,c] ,d |"
+67;;74;Courante 8;;;OT;ConcR1154;3;",a/ | \
+[,abc3/4] ,b/4 ,a/ [,,ab] ,,,,e [,,db] | \
+[,,bc/] ,,,,c ,,a [,,,cd] ,,,,a/4 ,,b ,,a ,,,c | \
+[,,,bc/] {,,a}3/4 c/4 ,e/ ,a d |"
+68;;74;Courante 9;;;OT;ConcR1155;3;",,d/4 ,,c ,,d/ [,ac] [,bd] ,,,,a [,a,ac] | \
+[,,dcd/] [,a,a] [,,cc] [,,d,a3/4] ,,,d/4 ,,,c ,,,,c | \
+[,,,cd/] [,,,aab3/4] ,,,,d/8 ,,,a ,,,c/ [,,b,,a3/4] ,,d/4 |"
+69;;75;Courante 10;;;OT;ConcR1156;3;",,b/ ,,,c ,,a/4 ,,,b [,,bc/] ,,,,,a/4 ,,d ,a/ | \
+[,,a{a}/] [,a,c{,a}] ,,d [,aab{,,a}3/4] ,,b/4 ,,a ,,,c | \
+,,,b/ {,,a}/4 ,c ,e a c/ ,a d |"
+70;;75;Courante 11;;;OT;ConcR1157;3;",a/ | \
+[aab,,a3/4] c/4 a/ h ,e f | \
+[df,,,a3/4] c/4 a ,e a3/4 ,b/4 ,,d ,a | \
+[,,b,,a/] ,,,c [,,a{a}] [,,b{,,a}] \
+[,,,c{,a}] [,,a{,,,a}/4] ,,,c |"
+71;;77;Courante 12;;;OT;ConcR1158;3;",,b/ | \
+[,,bc3/4] ,,d/4 ,,b/ [,,aa] [,,bc] [,,de] | \
+[,aff1] ,,,,,d/ [,aff1] ,d/ | \
+[,,d,,c/] ,,,a ,a [,,ba,a] ,,,,c ,,,,e | \
+[,,aaf3/4] ,,b/4 ,,d ,,b"
+72;;78;Courante 13;;;OT;ConcR1159;3;"a/ ,b ,,d a3/4 ,b/4 ,a ,,d | \
+[,,cc3/4] ,,,a/4 [f,,,d/] [h,,a3/4] f/4 [e,,c/] | \
+[f,,d3/4] ,d/4 ,,g ,d ,f/ ,,,,,a ,a/4 ,,d |"
+73;;78;Courante 14;;;OT;ConcR1160;3;"a/ | \
+[abd,a3/4] b/4 a/ [b,,,a] ,b ,d | \
+[,fg{,,,a}3/4] ,,f/4 ,,g/ [,d{,,a}] ,,g [,,ff] | \
+[,,de{,a}3/4] ,b/4 [,a{a}/] [,b,,,a] [,,d,,b] [,a{a}] ,,d |"
+74;;79;Courante 15;;;OT;ConcR1161;3;",b/ | \
+[,bdc{,,,a}1] [,a,a{,,a}/] [,,dc{,a}3/4] ,b/4 [,a{a}] ,,d | \
+[,,c,,a/] ,,,,c ,,,c [aac1] ,d/ | \
+[,,dd/4] ,,b ,,d ,a ,b/ [,,bc] [bb,a] ,a |"
+75;;80;Courante 16;;;OT;ConcR716;3;",,d/ | \
+[,,dca1] [,a,a/] [,c,,e] [,a,a] ,,,c | \
+,,d/ {,,a}/4 ,,,c ,,a ,,c [,,d,,c/] ,,,,,a/4 ,a [,c{a}] ,d | \
+[a{,a}3/4] ,d/8 a ,c/ [cd]"
+76;;81;Courante 17;;;OT;ConcR1162;3;",a/ | \
+[,af3/4] ,,e/4 ,,f/ ,c ,,e c | \
+[,df/] ,,d [e,c] [f,a3/4] ,,,c/4 ,,,a ,,,,e | \
+[,,aa/] h f [e,,,e] ,h [,g,g] |"
+77;;82;Courante 18;;;OT;ConcR1163;3;",,d/ | \
+[,,daa{a}/] ,,,,a [,,f,,d] [,,d,,c3/4] ,,f/4 [,,d,,a] ,,b | \
+[,,aa{a}/] ,,,,a ,,,a ,,a ,,,a [,,,ca{,a}] | \
+[,,,ac{,,a}3/4] ,,,c/4 ,,a ,,b ,,a/ ,,,,,c/4 ,,d [,,b,,d] ,,a |"
+78;;83;Courante 19;;;OT;ConcR1164;3;",,d/ | \
+[,,daa{a}3/2] ,,b/4 ,,a [,aba{,,a}/] [,,dc{,a}] ,,b | \
+[,,aa{a}/] ,,b/4 ,,d ,a ,,b ,d3/4 {a}/4 [a{,a}/] | \
+[c,,a{,,a}3/4] d/4 c/ ,,,c [a,a] [,dc] |"
+79;;84;Courante 20;;;OT;ConcR1165;3;"f/ | \
+[fddd{a}3/4] g/4 f/ [,fd,e3/4] f/4 [df/] | \
+[df{a}/] b a [b,,a3/4] ,,d/4 ,,e/ | \
+[a,,,d/] ,,e ,,d [,d,,b3/4] b/4 [a,,,,d] ,d \
+[,c,,a/] {,,,a} ,,,c |"
+80;;84;Cour: 21;;;OT;ConcR1166;3;",,d/ | \
+[,,dd3/4] ,,,c/4 [,,da/] ,,,,e ,,b ,,,c | \
+[,,,df{a}3/4] ,d/4 ,c ,d [acd/] ,,,,a {,,,a} | \
+[,cdc3/4] ,,b/4 ,,,d ,,,c [,,,ab3/4] ,,,c/4 [,,,da/] |"
+81;;86;Courante 22;;;OT;;3;",d/ | \
+[,dda{,a}3/4] ,,,c/4 ,,,a ,,,,d | \
+[,ddb/] [,b,da] [,,ec,d1] | \
+,,,,d/ ,,,d [,bd1] | \
+f/ [gd,f] ,f [fg,d] | \
+{,a}/ [dg,,d] ,f | \
+[,d,,b3/4] d/4 b d |"
+82;;87;Courante 23;;;OT;;3;"a/4 ,d | \
+,b/ ,,,,a [,db,c] | \
+[abb,d3/4] c/4 d/ | \
+[a,d/] f ,,,a | \
+[e,,c/] c/4 e a/ | \
+[f,,,a/4] h i/ [hffg] | \
+[ffgh/] ,,,,,f ,,i |"
+83;;88;Balletto 1;;;OT;ConcR804;C;",d/4 a | \
+[c,,a/4] d [f,a/] [,da,c] [acd,a] | \
+[,dda{a}/] ,,d/4 ,,b ,,a ,,,a f d | \
+[c,,a/4] ,d a c [dab,,d/] [cdd{a}] |"
+84;;89;Balletto 2;;French Toy / Ballet;OT;Conc_3457;C;",d/ a | \
+[c,,a/] [a,,,a] [,d,a] f | \
+[fdda{a}3/4] d/4 [c,,a/] a ,d | \
+[,cd,a/] [,dda,c] [a,,,,d/4] ,d [,c,,a/] | \
+[,dda/] {a} [,dd] ,d/4 a |"
+85;;89;Balletto 3;Johan Baptiste Besard;;OT;ConcR684;C;"c/4 ,c ,,a ,,c ,,d ,,,,,c ,,,,a ,,,,c | \
+[,,cde/] {,a}1 ,h/4 ,f | \
+,e/4 {,a} [ac] ,,a [,ee] a [,e,,de/] | \
+[,cc,e/] {,a}1"
+86;;90;Balletto 4;;;OT;ConcR805;C;",d/4 a | \
+[b,,a/] [a,,,e] [b,,a/4] d [f,,,a/] | \
+[ea,,,a3/4] c/8 e [f,,,a/] f/4 h | \
+i/ [d,,,d/4] f [gd,,,d] ,f [fg{d}/] |"
+87;;91;Balletto Tessier;;;OT;ConcR1167;C;"c/ | \
+[cdda/] d/4 c a ,d [acd,a/] | \
+[,dda{,a}/] ,a/4 ,c ,d/ c | \
+[cdda/] [a,,,e] [,da,c] ,,c | \
+[acd,a1] ,,,c/ f/4 d |"
+88;;91;Balletto 6;;;OT;ConcR769;C;"[bdda/] [a,,,d] [,d,,b] [a,,,,d/4] ,d | \
+[,cdca/] ,a/4 ,c ,,d/ ,,,,,d | \
+,,,,,b/ ,d [aab,,a] b/4 a | \
+[bdda{,a}/] a/4 b ,d/ [f,,d] |"
+89;;92;Balletto Mertelij;Elias Mertel;;OT;ConcR1168;C;"[,daac1] [a,,c/4] ,d [,cee/] | \
+[,efec/] {,a} [,efe1] | \
+[aabc/4] ,d a cd [da,c,a] ,,,,,c [a,,,,d] ,,,,a | \
+[,da,c/4] ,c ,d a [caa,c]"
+90;;92;Balletto Ejusdem;;;OT;ConcR1169;C;"[,aaa{,a}/] c h [f,a] | \
+[da/] f [c,d1] [a,b/4] c | \
+[,da/] [,c,c/4] ,d [a,a] c [a,b] ,d | \
+[a,d/4] ,c [,daa/] {a}"
+91;;93;Volte 1;;;OT;ConcR1077;3;",d/ | \
+[,dba,d3/4] a/4 ,d/ [,a,,,d] ,,b ,d/4 ,b | \
+[,a,,,d/] ,,b ,,,a ,,,c ,,,,c ,,,,d | \
+[,,,acd3/4] ,,,c/4 [,,,aac/] [,,,c,a3/4] ,,,e/4 [,,,ce/] |"
+92;;93;Volte 2;;;OT;ConcR1170;3;",b/ | \
+[,bbcd3/4] ,d/4 a/ [d,,,d] ,f [f,,,d] | \
+[df,,d/4] ,g ,f ,d ,,g/ [i{,,,a}3/4] ,f/4 ,h/ | \
+[,i,a{,,a}3/4] h/4 [f{,a}/] ,i [fi{a}] ,h |"
+93;;94;Volte 3;;;OT;ConcR1171;3;",,b/ ,,,c ,b [,,dd3/4] ,d/4 ,b/ | \
+[,a,a,d3/4] d/4 b/ [a,,,d3/4] i/4 h/ | \
+[fg,a/] [dd,,c3/4] b/4 [a,,,d3/4] c/4 [d,,,c/] | \
+,,,,d/ [c,da3/4] a/8 c d/"
+94;;94;Volte 4;;;OT;ConcR1172;3;",b/ | \
+[,bd3/4] ,,b/4 ,,d ,,,d [,dff/] [,fg] [,df] | \
+[,fg3/4] d/4 f h [i,,h/] ,h [hif] | \
+,,g/ [f,i3/4] ,i/8 f ,i/ ,,,,,d/4 ,f ,d ,,g |"
+95;;95;Volte 5;;;OT;ConcR1173;3;",d/4 a b/ d [f,,d3/4] ,d/8 ,f ,g/ | \
+[f,,,a3/4] ,d/4 [,cd/] [,ddd{a}3/2] | \
+[abb,,a3/4] ,a/4 [,,d,,b/] [gd,,,d1] [dfg,d/] | \
+[bbd,,b1] ,b/ [,,bcd1] [,,dda/] |"
+96;;95;Volte 6;;;OT;ConcR1174;3;",,b/4 ,,d ,a/ ,,b ,a | \
+[,aba,d3/4] ,b/4 ,a/ [,,def{a}3/4] ,,f/4 ,,d/ | \
+[,,b,,a/] ,,,c ,a d [c,,a] [a,,,d] | \
+[,d,,c/] ,,b [a,,,d] [,d,,c] ,,b [a,,,d] |"
+97;;96;Volte 7;;;OT;;3;",,a/ | \
+[,aaa{,,a}3/4] ,c/4 ,a/ c3/4 e/4 f c | \
+[h,,f{,,a}/] ,,,e [fe] [df{,,a}3/4] c/4 d a | \
+c/ ,d [ac] [,df{,,a}3/4] ,c/4 ,d a |"
+98;;96;Volte 8;Michelangelo Galilei;;OT;ConcR551;3;",,,c/ ,,d ,a [,cdca3/4] ,d/4 [,c,,a/] | \
+[,a,,,a3/4] ,,d/4 [,,cc/] [,,de1] ,,,,,c/ | \
+f/ [e,,,,a] [c{a}] [a{,a}] ,d/4 a [c,,a/] | \
+[,da,c/] ,,c [,c,,a] ,a ,,,,,a ,,,c |"
+99;;96;Volte 9;Michelangelo Galilei;;OT;ConcR552;3;"a/ ,c ,e [acd3/4] c/4 [aac/] | \
+[c,a/] e [fe] [e,,c3/4] c/8 e ,f/ | \
+f/4 e [c,,a/] [a,,,e] [,da,c] ,,c [a,,,e] |"
+100;;97;Volte 10;;;OT;ConcR553;3;",,,c/4 ,,a ,,c/ ,,,c [,,dca3/4] ,,,,c/4 [,,d,e/] | \
+[,a,a/] ,,,c/4 ,c [,,de] ,a [,,cc/] ,,,,,a/4 ,,d ,,c/ | \
+[a,d,e/] [,dd,c] ,,c [,cd,a3/4] ,d/4 ,c/ |"
+101;;97;Volte 11;Michelangelo Galilei;;OT;ConcR555;3;"a/ | \
+[acd,a3/4] c/4 a/ [,c,,a] ,,d [,a,,,a] | \
+[,,d,a1] f/ [e,,c3/4] c/8 e ,f/ | \
+[ce,,c/] [ef] [ce] [af1] [,,c,,a/] | \
+[,,d,,c3/4] ,c/4 [,a,,,e/] [,c,,a3/4] a/4 [,d,,c/] |"
+102;;98;Volte 12;;;OT;Conc_1766;3;",d/ | \
+c/ ,d [df] [fh] ,,,a [hi] | \
+[fh3/4] ,,d/4 ,,b/ [,,a{a}] [f,,c{,a}] d | \
+[c{a}/] ,a [a{,a}] ,,d [,da{,,a}] ,,c | \
+[,cd{,,,a}/]"
+103;;99;Volte 13;;;OT;;3;",,a/ ,,c [,,da3/4] ,,f/4 ,,d/ | \
+[,,a{a}/] ,,,a ,a/4 ,c [,daa{a}3/4] ,c/4 ,d a | \
+[c{a}/] ,,,a [a{,a}] [,da{,,a}1] [,cd{,a}/] | \
+[,a{a}3/4] ,,d/4 [,,c,,a/] [,,dca1] {,,,a}/ |"
+104;;99;Volte 14;Michelangelo Galilei;;OT;ConcR694;3;",,,c/ | \
+,,c/ ,a a e ,f h/4 f | \
+[e,,,,a3/4] ,a/4 ,,d ,a [,,c,,a3/4] ,,,,c/4 ,,,,a ,,,,c | \
+[,a,,,e/] ,,,,,a ,,a/4 ,,,c [,,,b{,,a}3/4] ,,a/4 ,a/ |"

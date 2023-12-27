@@ -1,0 +1,67 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+;;;[Evangelische Choräle];[Protestant Hymns];;;;;
+1;C dur;1;Ich bin vergnügt;;;;;C;"[,cd/] [aa] | [cc,,,d1] {a} {4}/ [cc] [ed] [cc] | [aa,,a1] \
+,,,,,c {a}/ [aa] [cc] [aa] | [,cd{4}1] [aa{,,,a}] [cc{,,a}] \
+['a{,a}/] ,c | [,a{a}/] ,,d ,a ,c [,'a1] [,cd/] [aa] | "
+2;C dur;2;Gott des Himmels und der Erden;Heinrich Albert;;;;C;"[,,dcc{4}3/2] ,a/ [,a,c{5}2] | ([,c{4}1] ,e) [ca{5}2] | \
+[,,db,a2] [,,cc{a}1] {4} | ([,,c{,,,a}2] [,,#a{,,,a}1]) \
+,,,c/ ,,a | [,,,ca{a}2] {,a} | "
+3;C dur;3;Aus meines Hertzens Grunde;;;;ConcR1025;3/4;"[,,dc,d1] | [,,dcc{4}2] ([ca{5}/] a) | [,c,c{4}1] {a}/ \
+[,a,a] [,,d,ca1] | [,,dc{,,a}1] [,ac{,,,a}] V[,(cd{4}/] [,a)] \
+ | [,ac{a}3/2] ,a/ V[,c{,a}] a | [c,d{,,a}2] ['a,c{,,,a}1] | "
+4;C dur;4;Wach auf, mein Hertz und singe;;;;;3/4;"[,,dcc{4}1] [,,d,ca2] [,,'cc{,,a}1] | [,,aa{,a}1] [,,c,a] \
+[,,d,c{4}] | ([,cd{a}1] [,#a3/2]) ,,d/ | [,,dcc{4}2]!fermata! \
+, [,,dc,d1] | [,,db,a1] {a} [,aa{,b}] | [,,c{a}1] [,,d,,a] \
+[,a,,,c] | "
+5;C dur;4;Ich dank dir schon durch deinen Sohn;;;;;3/4;",,d1 | [,,dcc{4}3/2] ,a/ ,,d1 | [aa,,,d1] ,,,,,c [,ac{a}] | \
+[,cd{4}/] b [c,(d,,a] [,,a)] [#b{,,,a}3/4] c/4 | [cac{a}2] \
+[,cb{4}1] | [a,d,,a2] [#c,d{,,a}1] | "
+6;B dur;5;Freu dich sehr, o meine Seele;;;;;C;"[,,ba{d}2] [,,da,a] | [,a{d}2] [,,da,a] | [,,'b{a}2] \
+[,,a,,a1] {5} | V[,,,#c{4}3] ,,,a1 | [,,,a{,a}2] {,,a} | \
+[,,ba{,,,a}2] [,,d{4}] | "
+7;a moll;6;Valet will ich dir geben;;;;;C;"[,,aa{,a}2] | [,a,a{d}2] [,,da,a] | [,,b{a}2] \
+[,,a{,a}] | [,,,#c{4}3] ,,a1 | [,,aa{,a}3]!fermata! \
+[,c{,,a}1] | [ac{,,,a}2] [ac{a}] | [,#c,,,a3] ,a1 | "
+8;C dur;6;Komm, Heiliger Geist, Herre Gott;;;;;C;"[ccd{4}2] | [e,d{,a}2] [c,d{,,a}] | [,c{4}1] a c2 | \
+[,ac{a}4] | [,c,,,d2] [,ed,,a] | [cac{a}2]!fermata! \
+[c,d{a}4] | [e,d{,a}2] [c{,,a}1] {,a} | "
+9;C dur;8;Nun bitten vir den Heyligen Geyst (#9);;;;Conc_377;C;"[,,dcc{4}2] [,aa{,a}] | [,aa{,,,a}2] [,,dc{,,a}] | \
+[,,aa{,a}2] [,,,c{,,a}] | [,,ac{,a}2] [,,'ca{,,,a}] | \
+[,,dcc{4}4]!fermata! | "
+;;;[Sonata I in G-Dur per il Liuto con Violino obligato composte da Federico Guiglielmo Rust / Nell anno 1791] ;[Sonata I in G major per il Liuto con Violino obligato composte da Federico Guiglielmo Rust / Nell anno 1791] ;Violinstimme in D-BRust53;Violin part in D-BRust53;;;
+10;G dur;10;Sonata I;Friedrich Wilhelm Rust;;;Conc_5127;C;"[,,cc{a}/] [,,cc{a}1] [,,de/] [,ac{a}3/4] [,cd/4] [,ac/] \
+{a} | [,cd{a}/] [,cd] (3[,c{a}/4] ,e c) (3,e c e) (e/4 c) \
+(,e ,c) ,a/ [,ac{a}] | "
+11;G dur;12;Romanza;Friedrich Wilhelm Rust;;;Conc_5128;C;"[,ea{,,,a}3/2] [,c,c/] [,'a,'b1] [,a,b{,,,a}/] {,a} | \
+[cc,,,a3/2] [ba,,,a/] [,'c'e,,a1] [,cd,,a/] {a} | \
+[eaa{a}1] {,,a}/ [c,e] ['c{,,,a}/] ,e (,e ,c) | \
+[,ac{a}/] {,a} [cc{,,a}] {a} [ba,,,a1] [,ce{6}] | "
+12;G dur;16;Tempo di Minuetto;Friedrich Wilhelm Rust;;;Conc_5129;3/4;"(3{a}/ c ,a) (3,,c ,a ,,c) (3{a} ,,c ,a) | \
+(3{,,,a}/ ,,a ,a) (3{,a} ,,d ,a) (3{a} ,,c ,a) | \
+(3{a}/ c ,a) (3,,c ,a ,,c) (3{a} ,,c ,a) | "
+;;;[Thema und Variationen];[Theme and Variations];Melodiestimme fehlt;Melody part is missing;;;
+13a;G dur;18;Il Thema;;;;;3/4;"[cac{a}1] ['y'y'y{,,,a}] ['y'y'y{a}] | [cad,,a1] [b'y'y] \
+[cac{a}] | [ea{,a}2] {,,,a} [fa{a}/] e | [ea{,a}2] ,,,,,a \
+{,,,a}1 | [ha,,,a1] ['y'y{,a}] ['y'y{,,,a}] | ([ha{a}1] g) \
+[c,c{,,,a}] | [c,c{,,,a}1] [e,d] [,a'y{,,,a}] | "
+_13b;G dur;18;Var 2;;;;;3/4;"{a}/ c ,a ""sotto voce""c ,,c c | ,,,,,a/ ,,d ,a b [,,c{a}] c | \
+{,a}/ e ,a e {a} g | {,a}/ e ,a e ,,a e | "
+_13c;G dur;27;Accomp. Var 1:;;;;;3/4;"[cac{a}1] z1 z1 | [bad,,a1] z1 [cac{a}1] | [,aa{,a}1] z1 \
+[,ac{a}1] | [,aa{,a}1] z1 z1 | [,ad,,a1] z1 z1 | [,ac{a}1] \
+z1 z1 | [,ac{,,,a}1] z1 [,aa{,,,a}1] | "
+_13d;G dur;28;Var;;;;;3/4;"{a}/4 ,,c ,a ,,c c ,,c ,a ,,c {a} ,,c ,a ,,c | \
+,,,,,a/4 ,,d ,a ,,d b ,,d ,a ,,d {a} ,,c ,a ,,c | \
+{,a}/4 ,,a ,a ,,a e ,,a ,a ,,a {a} ,a g ,a | "
+_13e;G dur;29;Var;;;;;3/4;"Z5 | z1 z1 ""pp""[(g(f/] [e)a)] | [ea1] z1 z1 | Z4 | ""pp""[cac1] \
+[c,ac] [ea] | [cac1] z1 ""Fine""z/ :||: z/ | Z4 | "
+;;;[Sonata II in d-Moll per il Liuto con Violino obligato composte da Federico Guiglielmo Rust / Nell anno 1791] ;[Sonata II in d minor per il Liuto con Violino obligato composte da Federico Guiglielmo Rust / Nell anno 1791] ;Violinstimme in D-BRust53;Violin part in D-BRust53;;;
+14;d moll;30;Sonata II per il liuto . Allegro maestoso;Friedrich Wilhelm Rust;;;Conc_5130;C;"[,aaa{,,,a}2] [aaa] | [eaa{,,,a}2] {,a}1 (c/4 a) \
+(,c ,a) | [,,e,,a1] ,,e ,c ,c | [c,e{,,a}1] {,,a} {a} {a} | \
+[,,e{5}1] ,,e ,c ,c | "
+15;d moll;34;Arioso;Friedrich Wilhelm Rust;;;Conc_5131;3/4;"z1 | [,,de{,a}1] z1 [,,de{,a}1] | [,,dc{,,a}1] z1 \
+[,,dc{,,a}1] | [,dd{,,,a}1] z1 [,dc{,,,a}1] | ([,dd{4}1] \
+,c) z1 | [,aba{5}1] z1 [,aba{5}1] | [,aba{5}1] z1 z1 | \
+[,cdc{5}1] z1 z1 | "
+16;d moll;36;Rondò;Friedrich Wilhelm Rust;;;Conc_5132;3/8;"""pia""[ed/] {,,,a} [cc] | [aa/] ,,a ,c | [,a,a/] ,,a [,c,c] | \
+a/ ,,a ,a | [ed/] {,,,a} [cc] | [aa/] ,,a ,c | [,a,a/] ,,a \
+[,c,c] | [,a,a/] ,,a ,,,,a | "

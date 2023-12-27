@@ -1,0 +1,773 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1;;17;Volte;;Hoe groot o Heer en hoe vervaerlijck;OT;;C,1/4;"a1 | \
+[aac,,a1] [aa] [aac,,a3/2] [,e,,c/] | \
+[a,,,,d1] [d,,,,a] [caab] [aa,,c] | \
+[,ea,c2] [,a,,,d1] ,a | \
+[,a,,,d1] [,,d,,c] [,aba,d3/2] ,,d/ | \
+[,,b,,a1] ,,b [,,da{a}/] ,a ,b ,d |
+[V:Citter]
+K:french4tab
+k1 | \
+[kagi1] k [kagi2] | n1 [mkm2] k1 | [heeg3/2] g/ [eag1] e | \
+[feae1] ,e [ecca] d | [baca1] b d/ e f h |"
+2;;20;Ballet La durette;;;OT;Conc_1755;C;"[,,dca1] ,,,,a/ ,a [,b,,a1] ,,d | \
+[abd,a2] [,d,,,b1] ,b/ ,d | \
+[a,,,,a/] b d1 [,b,,,b] [,aba,d] | \
+[,bb,d1] a/ b [d,,c] a [f,,d1] |
+[V:Citter]
+K:french4tab
+[daac1] d/ e f h [kia1] | [kagi2] [heeg] | \
+[kia/] m [nakm1] [hea/] f [heeg1] | [fade2] [nakm3/2] p/ |"
+3;;23;Een Fransche Bransle;;;OT;ConcR966;C;"[,dda{a}1] ,d/ ,c [,aac1] [,,dca] | \
+[,dda/] ,c ,d a [cdda] ,d a c | \
+[dab,,d1] [cdda] [a,d,a] [,d,,c] | \
+[fcd,a2] [,dda] ||
+[V:Citter]
+K:french4tab
+[heeg1] h/ g [ede1] [daac] | [heeg1] [kig] [mkm] k/ m | \
+[nakm1] [mkm] [kagi] [heeg] | [paak2] [heeg] ||"
+4;;25;Studenten Dans;;;OT;;C;"[abd,a3/2] ,d/ [,bd,a1] ,a/ ,,d | \
+[,acc,a1] ,,,c [,ac] [dabc] | \
+[caa,c1] [caa] [a,,,d/] d [c,,,a] a | \
+[,ea,c2] [,ea] ||
+[V:Citter]
+K:french4tab
+[kagi3/2] [heeg/] [fadc1] [ede/] d | [caca/] a c d [caca1] [nakm] | \
+[mkm1] [mkm] [kaa/] n m k | [gig4] ||"
+5;;27;Van een Fransche Courante;;;OT;ConcR343;3;"[fdda3/2] d/ f1 | \
+[cdda2] [h,,f1] | \
+[cdda3/2] d/ f1 | \
+[dab,,d2] [cdda1] | \
+[acd,a2] [,da,c1] | \
+[,cd,a2] [,,d,e1] | \
+[,dda2] [a,,,e1] |
+[V:Citter]
+K:french4tab
+[gaae/] h | [kaa3/2] m/ [kia1] | [gaae2] [mkm1] | [kaa3] | \
+[gaae3/2] h/ [kaa1] | [heeg2] [geg1] | \
+[edea2] d1 | [caca3/2] a/ ,a1 |"
+6;;30;Engelsche Daphne;;;OT;ConcR1105;3;",,,c1 ,,a | \
+[,,bc,a2] ,,,c [,,da{a}] | \
+[,ab,,d/] ,,d ,a ,b ,d ,a ,b ,d [acd,a2] | \
+[,e,,c/] ,c ,e a c a c a [,e,,c] ,a ,c ,e |
+[V:Citter]
+K:french4tab
+,a1 a | [cac4] [daa2] | [edea4] [kagi2] | \
+[igia1] g i k ,,i i |"
+7;;33;Op de Engelsche Foulle, Of: Walsch Wallinneken;;;OT;ConcR389;C;"a/ c | \
+[dabc3/2] d/ [cdda1] a/ c | \
+[daf,,d1] ,,b [,,ba,d] [ab,,d] | \
+[,da,c1] [,b,,a] ,a ,,d | \
+[,ab,,d2] [,ab1] ||
+[V:Citter]
+K:french4tab
+[kia/] m | [nakm3/2] [nak/] [mkm1] k/ m | \
+[nakm1] h [heeg] [kagi] | [heeg1] [faa] [edea] [daac] | \
+[,dcd2] [,ded1] ||"
+8;;35;La Morisque;Robert Ballard;;OT;ConcR591;3;"[cdda1] | \
+[cdd{a}2] [dab,,d1] | \
+[d,,c2] [fcd,a1] | \
+[fcd,a2] [h,,f1] | \
+[h,,f3/2] f/ [dab,,d1] | \
+[h,,f2] [fhhh1] | \
+[ddff,d2] |: [ddff,d1] | \
+[ddff,d2] [cdda1] | \
+[cdd2] [acd,a1] |
+[V:Citter]
+K:french4tab
+,,,c1 | [daac2] ,,,d1 | [acad2] ,,,e1 | [,eae2] ,,,g1 | \
+[,eeg3/2] ,,,e/ [acad1] | [,eeg2] [,eae1] | [acad2] |: \
+,,,d1 | [acad2] ,,,c1 | [daac2] ,,,a1 |"
+9;;37;Bransle Guinée;;;OT;ConcR945;C;"[,dd1] ,,,a [,dd] ,d/ a | \
+[cdda1] a/ ,d [,cd,a1] [,cd] | \
+[,ab,,d1] ,,d/ ,a [,,d,a1] [,d,,c] | \
+{a}1 ,,,,a [,dda2] ||
+[V:Citter]
+K:french4tab
+[acad1] ,,,d [acad] ,,,e/ ,,,g | [,eeg1] ,,,e/ ,,,d [daac1] [,aa] | \
+[edea1] d/ e [daa1] [heeg] | [heeg1] [gaae] [heeg2] ||"
+10;;41;La Dolphinée;;;OT;Conc_4492;3;",,d1 | \
+[,bd,a3/2] ,d/ ,b1 | \
+[,a,,,d2] [,,d,,b1] | \
+[,,d{a}3/2] ,a/ [,c,,a1]| \
+[,,dca2] || ,,d1 | \
+[,bd,a2] [,db,c1] | \
+[ab,,d3/2] b/ a1 | \
+[ab,,d2] [,db,,d1] |
+[V:Citter]
+K:french4tab
+[daac1] | [fade3/2] ,,e/ [fade1] | [edea2] [daac1] | \
+[daac3/2] e/ [caca1] | [daac2] || d1 | [fade3/2] h/ f1 | \
+[kagi2] k1 | [heeg3] |"
+11;;43;La Vallette;Robert Ballard;Courant La Vallette;OT;ConcR597;3;",,d1 | \
+[,dda{a}3/2] a/ [cd,a1] | \
+[,a,,,a1] ,,,c ,,,a | \
+[a,,d,c1] ,,,a/ c [a,,c] ,,d | \
+[,c,,a1] ,,d f | \
+[fd{a}3/2] h/ f1 |
+[V:Citter]
+K:french4tab
+,,,a/ ,,,c | [acad3/2] ,,,e/ [acad1] | [edea1] ,,,c ,,,d | \
+[,aae3/2] ,,,g/ [,eae1] | [daac1] d ,,,g/ ,,,i | \
+,,,k/ ,,,i ,,,k ,,,m [,,ak1] |"
+12;;47;Alst begint;;Wilhelmuslied;OT;ConcR186;C;",,d1 | \
+[,da,c1] ,c/ ,d [a,d,a] ,c ,d a | \
+[cdda1] a/ c [dab,,d1] [cdda] | \
+[acd,a/] ,d [a,,,e1] [,dda3] || c/ d |
+[V:Citter]
+K:french4tab
+,a1 | [daac1] d ,,,a/ ,,,c ,,,d ,,,c | \
+[daac1] ,,,a/ ,,,c [acad1] [daac] | \
+[caca1] [caca] [daac3] || ,,,c/ ,,,d |"
+13;;50;Si ceste malheureuse bande;;;OT;ConcR1015;C;"d1 | \
+[dab,,d3/2] [cdda/] [dabc1] [fdda] | \
+[,dd{a}1] [dabc/] c [abb,d1] [,db,,d/] ,d | \
+[,bdca1] ,b/ ,b [,aba,d1] ,,d/ ,,b | \
+[,dda{a}3/2] [,dd/] ,,,a1 || ,d1 |
+[V:Citter]
+K:french4tab
+[heeg1] | [heeg3/2] [geg/] [heeg1] [kagi] | \
+[daac1] [heeg/] [geg] [edea1] [daac/] [daac] | \
+[bad1] [bad/] b a1 ,a/ ,,c | [,cad3] || ,,,d1 |"
+14;;52;Fransche Courante;;Brett's Courant;OT;Conc_3469;3;",,d1 | \
+[,,da{a}3/2] ,a/ [,,d,,c1] | \
+[,a,,,d1] [,c,,a3/2] ,a/4 ,c | \
+,d1 ,,,a {a} | \
+[,dda3/2] a/ ,d1 | \
+[,c,,a3/2] ,d/ [,a,,,d1] | \
+[,,da,c3/2] ,a/ [,,b,,a1] |
+[V:Citter]
+K:french4tab
+d1 | [daa3/2] e/ [daa1] | [edea2] h1 | [heeg3] | \
+[heeg3/2] ,,g/ [heeg1] | [geg2] e1 | [daa3/2] e/ b1 |"
+15;;54;Engels Nou, nou;;;OT;ConcR172;3;"[cdda4] [acd,a2] | \
+[,da,c4] [,cd,,c2] | \
+[,ab,,d3] ,c1 [,dda2] | \
+[acd,a4] ,,,c2 | \
+[c,,a3] d1 [f,,a2] | \
+[da,c,a2] [ccd,,c] [aa,,,d1] ,d | \
+[acd,a3] ,d1 ,c ,a |
+[V:Citter]
+K:french4tab
+[gaae4] [eaca2] | [daac4] [caca1] | [acad3] ,d1 ,e2 | \
+[caca4] [caca2] | ,,,c1 ,,,a ,,,c ,,,d [,aae2] | \
+[acad4] ,,,c2 | [caca4] z2 |"
+16;;59;[Maximilianus de Bossu];;;OT;ConcR3149;C;"[,dd{a}1] | \
+[,dda1] ,d [,dda{a}/] a [bbdd1] | \
+[acd,a3/2] ,d/ [,c,ca1] [,dda] | \
+[,a,,,a1] [,,b,,d] [,a,,c] [,cdca] | \
+[,dda{a}2] [acd,a/] ,d a ,c | \
+[,dda{a}3] || [,dd1] |
+[V:Citter]
+K:french4tab
+d1 | [daac1] d [daac/] e [fade1] | [edea3/2] d/ [caca1] [daac] | \
+[acad1] ,,e [acad] [caca] | [daac2] e/ d [caca1] | \
+[daac3] || d1 |"
+17;;62;Op 't Engels Lapperken;;;OT;ConcR373;C;"f1 | \
+[f,,,a1] f [e,,,,a] c/ e | \
+[f,,,a1] e/ c [aacc,a2] | \
+[ca,,c2] [ea,c,a1] c/ e | \
+[fcd,a2] [aac,,a1] a |
+[V:Citter]
+K:french4tab
+,,,g/ ,,,i | [,aak1] ,,,k [,aak] ,,,i/ ,,,k | \
+,,,m/ ,,,k ,,,i ,,,g [kagi1] [kagi] | \
+[mkm1] [mkm] ,,,i [,aae] | [,,k2] [kagi1] || ,,,g/ ,,,i |"
+18;;64;[Hoort allegaer];;;OT;;C;"[,dda{a}3/2] ,c/ [,ab,,d1] ,a | \
+,c3/2 ,a/ [,,da,c1] ,a/ ,c | \
+[,dda1] ,c/ ,d [a,,,a] ,d ,c ,a | \
+[,,d,,c2] [,ab,,d1] ,,,c/ ,,a |
+[V:Citter]
+K:french4tab
+[heeg2] [edea1] [edea] | [daac3/2] ,,,a/ ,,a1 ,,,a/ ,,,c | \
+[acad1] ,,,c/ ,,,d ,,,e ,,,d ,,,c ,,,a | [daac2] [edea1] e |"
+19;;68;Engels Farwel, met den Bas daer by gestelt;Robert Jones;Farewell Dear Love;OT;ConcR697;C;"[,,dca2] [,bb,d1] ,a/ ,,d | \
+[,ac,,a2] [,ac1] [a,,,d] | \
+[,d,,c1] [a,,,e] [,bd,a] [,dd{a}] | \
+[,ac,,a2] [,ac] | \
+[,ac,,a2] [,ac1] ,,,,d |
+[V:Citter]
+K:french4tab
+[daac3/2] e/ [faa] ,,c/4 ,,d ,,e ,,d ,,c ,,a | [caca/] a c d [caca1] [kagi] | \
+[heeg1] [kagi] [fdde] [heeg] | [caca2] e1 [caca] | \
+[edea/] d e f [edea1] [fdde] |"
+20;;71;Ghy die my met u braef gelaet:;;;OT;;3;"[,ab,,a1] | \
+[,aa,c2] ,,,,c1 | \
+[,ab,,a2] [aabc1] | \
+[,ea,c3/2] ,,,,a/ [aac,,a1] | \
+[,ab,,a2] [,,b,,d1] | \
+[,cd,a1] ,a ,,d | \
+[,ab,,a2] ,,,,c1 | \
+[,ab,,a2] ,,,,c1 | \
+[,ab,,a2] [aabc1] |
+[V:Citter]
+K:french4tab
+[edea1] | [edea2] [ede1] | [edea2] [kaa1] | [igi2] [kagi1] | \
+[edea2] [eaca1] | [faa2] e/ d | [edea2] [ede1] | \
+[edea2] [ede1] | [edea2] [kaa1] |"
+21;;75;Almande Guerre, guerre gay;;Battle Almain;OT;ConcR3020;C;"[,dda{a}/] a b d [fa,d1] [e,,c] | \
+[fcd,a2] [abb,d1] ,d/ a | \
+[bdda1] a [,d,,c] a/ b | \
+[dab,,d/] b a ,d [acd,a2] ||
+[V:Citter]
+K:french4tab
+[daac1] [kagi] [kagi] [igi] | [kagi2] [edea] | \
+[fdde1] f/ e [daac1] [daac] | [heeg1] [heeg] [eagi2] ||"
+22;;78;Een Fransche Ballet;;;OT;;C;"[,dda{a}/] a b d [f,,d] ,g d f | \
+[g,,f/] f d ,g [,f,,d] ,g d ,f | \
+[,d,a/] a b d [ac1] ,,,,a |
+[V:Citter]
+K:french4tab
+,,a/ ,,c ,,d ,,e [,aae1] ,,,e | [acad1] [faa] [edea] e | \
+,,a/ ,,c ,,d ,,e [caca2] |"
+23;;81;Van een Fransch ballet;;;OT;Conc_1769;C;"[,,dca1] [,a,,,e] [,b,,a] [,d,,c] | \
+[,,dca/] ,a ,b ,d [,a,,,a1] [,,dca] | \
+[a,,,,a1] [c,,a] [d,,c] [f,,e] | \
+[d,,c2] [caa,c] | \
+[aac,,a1] ,,,c [aac2] ||
+[V:Citter]
+K:french4tab
+[daac1] [edea] [fdde] h | ,,a/ ,,c ,,d ,,e [caca1] [daac] | \
+[kagi1] [mkm] [nkkm] [paak] | [nkkm2] [mkm] | [kagi4] ||"
+24;;83;Soet soet Robbertgen;Thomas Robinson;Lord Willoughby's Welcome Home / Roland;OT;Conc_4430;C;"[acd,a2] f | \
+[da,c,a3/2] c/ [a,,c1] c/ d | \
+[fc,e,c1] ,,d ,b ,d | \
+[aac,,a1] ,,,c ,,,,,a2 || \
+[,dff3/2] ,,g/ ,d1 ,,g/ ,d |
+[V:Citter]
+K:french4tab
+[kagi2] ,,,k | [nkkm3/2] m/ [kaa1] ,,,g/ ,,,i | \
+,,,k1 ,,a [faa/] e f h | [kagi3/2] h/ [kagi2] | \
+[fade2] [fade1] [edea] |"
+25;;86;Quand la bergere;;;OT;ConcR113;3;"[,,dca3/2] ,a/ ,,d1 | \
+[,bd,a3/2] ,b/ [,bd,a1] | \
+[,a,,,d1] [,b,,,b] [,d,,c] | \
+[aacc,a2] a1 | \
+[,ea,c3/2] a/ c1 | \
+[aacc2] ,,,,,a1 | \
+[,,dca/] ,,c ,,a ,,c ,,d ,,a |
+[V:Citter]
+K:french4tab
+[daac3/2] d/ [edea1] | [faa3/2] h/ [kaa1] | [kaa3/2] h/ [heeg] | \
+[kagi2] [kagi1] | [heeg2] h1 | [kagi2] [kagi1] || \
+[kagi1] [ka] [mkm] |"
+26;;91;s Nachts doen een blauw gestarde kleet;;;OT;;C;",,,,,a1 | \
+[,,dca1] [,a,,,e] [,b,,d] [,d,,c] | \
+[aacc3/2] [aac/] ,,,c1 [db,,d] | \
+[cdda1] [aabc] [,e,,c] ,c/ ,e | \
+[aac,,a3] || [aacc/] [aacc] | \
+[,b,,d1] ,b/ ,b ,,,,d1 [aacc] |
+[V:Citter]
+K:french4tab
+,a1 | [daac1] [edea] [fade] [heeg] | [kagi1] k [kagi] [nkkm] | \
+[mkm1] [kagi] k [igi] | [kagi3] ,a1 | [daac1] c d e |"
+27;;95;Courante Si cest pour mon pucellage;;;OT;ConcR3113;3;"[fdda2] [cdda1] | \
+[da,,,a2] [c,,,,c1] | \
+[a,,,,d3/2] ,d/ a1 | \
+[cdda3/2] a/ ,d1 | \
+[f,,,a3/2] d/ [c,,a1] | \
+[da,c2] [c,,a1] | \
+[acd,a/] ,d a c d a | \
+[cdda3] |
+[V:Citter]
+K:french4tab
+[,eae2] ,,,c1 | [acad2] ,,,c1 | [,aa2] ,,,a1 | [daac3/2] ,,,a/ [,aa1] | \
+[,aae3/2] ,,,d/ ,,,c1 | [acad3/2] ,,,c/ ,,,a1 | \
+,,a1 [caca2] | [gaae3] |"
+28;;99;Pavane Medelyn;John Johnson;The Old Medley;OT;ConcR37;C;"[abd,a2] [abd1] ,,,,a | \
+[abd,a/] ,a/4 ,b ,d ,b ,d ,b ,d ,b ,a ,,d ,a ,,c ,,d ,,a | \
+[aac,,a1] ,,,c/ ,,a
+[V:Citter]
+K:french4tab
+[caca2] [caca1] [daac] | [caca2] [caca1] [daac] | \
+[,dcd1] [acad]"
+29;;102;Sei tanto gratioso;;cf. Adriaenssen1592 / 13v;OT;;C;"z1 [acd,a1] [aacc,a2] | \
+[acd,a1] [acd,a2] [,cd,e1] | \
+[,da,c/] ,a ,c ,d [,cdca1] [,cd] | \
+[,ac1] [fdde] [e,,c] ,,,c | \
+[cdd1] [acc,e] ,,,,a [aacc] |
+[V:Citter]
+K:french4tab
+z1 d [dcad2] | d1 [daac2] [acad1] | [,dcd/] ,c/4 ,d ,e ,d ,c ,a [acad2] | \
+z1 [heeg] [geae2] | [ecca1] [daac2] d1 |"
+30;;109;La Romanette;;;OT;ConcR1070;C;"[,bb,d3/2] ,d/ [,aba,d1] [,aba,d] | \
+[,,dca/] ,b ,a ,,d [,,cc,a1] ,,,c | \
+[,,dca/] ,,c ,,d ,a [,,dca/4] ,,c ,,d ,a ,,d ,a ,b ,d |
+[V:Citter]
+K:french4tab
+[fdde3/2] h/ [edea1] [edea] | [daa/] f e d [caca1] ,a | \
+[daac/] c d e [daa] e f h |"
+31;;111;Engels Bara vastres drom, Of: Phoebus is lang over zee;;Bara Faustus's Dream;OT;Conc_4428;3;"[,ab,,a2] [aabc1] | \
+[,ea,c3/2] ,,,,a/ [aa,c,d1] | \
+[c,,a3/2] a/ [,e,,c1] | \
+[aacc2] ,,,,,a1 | \
+[ddff,d3/2] f/ d1 | \
+[cdda3/2] d/ [c,,e1] | \
+[d,,c1] c [a,,,d] |
+[V:Citter]
+K:french4tab
+[cdca2] [kagi1] | [igia2] [kagi1] | [mkm3/2] k/ [igi1] | \
+[kagi3] | [nkkm3/2] ,,m/ [nkkm1] | [mkm3/2] n/ [mkm1] | \
+[kaa3/2] n/ m1 |"
+32;;115;Almande Prins de Parma;;;OT;ConcR320;C;"f1 | \
+[cdda1] [hd,f,d] [dfg,d] [hd,f,d] | \
+[fdda1] {a}/ d [c,,a] a c d | \
+[f,,,a/] ,,,,c ,,,,e ,,,a [da,c1] [caa,c] | \
+[acd,a2] [cdda3/2] a/ |
+[V:Citter]
+K:french4tab
+,,,e/ ,,,d | ,,,e1 [,eeg] ,,,d/ ,,,e [,eeg1] | \
+[,aae3/2] ,,,d/ [daac1] ,,,c/ ,,,d | \
+[,aae1] [,eae] ,,,d/ ,,,e ,,,c ,,,d | [caca2] ,,,c3/2 ,,,a/ |"
+33;;119;Courante durette;;cf. Conc_1755;OT;;3;",,d1 | \
+[,,dca/] ,,c ,,a ,,c ,,d ,a | \
+[,b,,a/] ,a ,,d ,a ,b ,d | \
+a1 ,,,,d ,,,c | \
+,d1 ,,,,c ,b |
+[V:Citter]
+K:french4tab
+d1 | [daac2] e1 | [faa3/2] e/ [daa1] | [kagi3] | [he3eg3] |"
+34;;123;Paszemeze d'Anvers;;;OT;ConcR847;C;"[aacc,a3/2] [aac/] ,,,c1 ,,,,,a | \
+[,db,,d3/2] a/ [b,,d1] [a,,c] | \
+[,d,,c1] [,b,,d] [,a,,,a] [,,d,,b] | \
+[,,cc,a2] ,,,c | \
+[ab,,d/] ,a ,b ,d a ,b ,d a |
+[V:Citter]
+K:french4tab
+[kagi3/2] [kagi/] [kagi1] [ka] | [heeg2] [heeg1] [kia] | \
+[heeg1] [faa] [edea] [daac] | [caca/] a c d [caca1] [caca] | \
+[faa/] e f h [kagi1] [kagi] |"
+35;;127;Engels Oud Ioen metten Bas;;;OT;;C;"[cdda1] | \
+[a,,,e1] [f,,,a] [fa,,,a] [e,,c] | \
+[f,,,a1] ,,,,,a [f,,,a] [c,,a] | \
+[h,,f1] [f,a] [da,c] ,,,,,a/ d | \
+[cdda1] ,,,,a ,,,a c/ d |
+[V:Citter]
+K:french4tab
+[geae1] | [,gia1] [kagi] [kagi] [ihi] | [kagi2] k1 [gaa] | \
+[mkm1] [kia] h/ g/4 h khge | [geg/] ,e g g [geg1] g/ h |"
+36;;132;Engelsche Fortuyn;John Dowland;"Fortune My Foe, ""dese gediminueert""";OT;ConcR28;C;"[,,dca2] [,,dc1] [,a,,,e] | \
+[,bdca3/2] ,d/ ,b1 [,a,,,a] | \
+[,,d,,b1] [a,,,d] [,d,a] [,b,,a] | \
+[,acc,a2] ,,,,c1 ,,,c || \
+[ab,,d2] ,,,,d1 [ab,,d] | \
+[ab,,d2] ,,,,c1 [,d,,c] |
+[V:Citter]
+K:french4tab
+[daac2] [daac1] [edea] | [fade3/2] ,,c/ [fade1] [fade] | \
+[daac1] [,aa] ,,e/ ,,d ,,c ,,a | [ecca2] [ecca] || \
+[kagi2] [kagi1] [kagi] | k/ h f h [kaa1] [nakm] |"
+37;;137;Pavane Philippi met den Bas;Peter Phillips;;OT;ConcR94;C;"[acd,a3/2] ,d/ [,cd1] [,ac] | \
+[,cd,a1] ,a/ ,c [,ab,,d1] ,,,,,c/ ,,,,,a | \
+[,aaa1] ,,d [,,d,,c/] ,a ,c ,,d | \
+[,a,,,a/] ,,d ,,c ,,a [,,cc] ,,d ,a ,,c |
+[V:Citter]
+K:french4tab
+[daac2] [daac1] [caca] | [daa1] ,,,a/ ,,,c [ecea2] | \
+[ecca1] [daac] [daac2] | [daa1] c/ a c d e c |"
+38;;142;Gallarde Suit Margriet;;Galliard, Sweet Margaret;OT;ConcR773;3;"[cdda1] a/ c [,d,,c1] ,,c [a,d,e2] | \
+[cdd{a}1] a/ c [d,,a] c a ,d [aacc,a2] | \
+[,da,c1] ,c/ ,d [a,,,,d] ,d ,c ,a [,c,,a] ,d a ,c |
+[V:Citter]
+K:french4tab
+[geae2] [daac] [ede] | [geg3] h1 [edea2] | \
+[daac1] c/ d e [d,a] c a c d e c |"
+39;;146;La Boree;;;OT;Conc_4359;C;",b1 | \
+[,,dca1] ,,d [,,dca] ,a/ ,b | \
+[,d,,,d1] ,,b [,,b,d] ,,,,c | \
+[,,dca1] [,,cc] [,,d,d/] ,a [,b,,a] ,,d | \
+[,a,,,a1] ,,,c ,,,,,a ,b/ ,a |
+[V:Citter]
+K:french4tab
+d1 | [daac2] [da1] e/ f | [heeg1] [caca] [caca2] | \
+d/ e [fdde1] [ede] [daac] | [ecca1] ,a ,a |:| [kaa/] h |"
+40;;151;d'Engelsche klocke dans;;;OT;Conc_4527;C;"[ab,,d1] | \
+[,,dca3/2] ,b/ ,a ,,d [f,,,a1] | \
+[d,,,,d1] f/ h [i,,,a3/2] [ab,,d/] | \
+[,d,,,d1] ,,,,d [ab] [,d,,,d] | \
+[,bb,d3] || [ab,,d1] | \
+[,d,,,d3/2] [b,,d/] [ab,,d3/2] [f,,,a/] |
+[V:Citter]
+K:french4tab
+,a1 | [daac3/2] ,,d/ ,,c ,,a [daac2] | \
+[caca1] d/ e [faa3/4] ,a/ | [,de1] ,,d ,a [,de] | \
+[fade3] || [,aa1] | [,de3/4] ,b/ [,aa3/2] d/ |"
+41;;154;Het was een ryck mans burgers zoon;;;OT;;C;",,d1 | \
+[,d,,c1] [,,d,,c] [a,,,c] [caa,c] | \
+[,daac1] ,c/ ,a [,c,,,a1] [,,dca] | \
+[,aa,,d/] ,,b ,,d ,a [,,d,,c1] [,,b,,d] | \
+[,,dca2] [,db,,d1] || ,,d1 |
+[V:Citter]
+K:french4tab
+[daac1] | [heeg1] [mkm] [kia] [mkm] | \
+h/ g/4 h k h g e [gaae1] [daac] | \
+[edea1] d/ e [daa1] [caca] | [daac2] [heeg1] || [daa1] |"
+42;;157;Op de Engelsche Min, Of: Noch leef ick in verdriet;;;OT;ConcR3133;C;"[,dd1] | \
+[cdda/] d [f,,,a1] f/ d [cdda1] | \
+[acd,a2] ,,,,e1 [cd] | \
+[dab,,d1] [c,,,,c] [acd,a/] ,d [a,,,e1] | \
+[,dda3] || [,cd,a/] ,d |
+[V:Citter]
+K:french4tab
+[,aa1] | ,,,c/ ,,,d [,eae1] [,eae] ,,,d/ ,,,c | \
+[caca2] [daac1] ,,,a/ ,,,c | [acad1] [daac] ,,,a/ [,aa] [caca1] | \
+[daac3/2] d/ [daae1] || d1 |"
+43;;160;Gaillarde Belle;;;OT;ConcR47;3;"[,dd{a}1] a c ,d a c | \
+[dab,,d1] ,,a ,,b ,,d [dab,,d2] | \
+[cdda1] a c d [f,,,a2] | \
+[a,b,,d1] c d a c ,d |
+[V:Citter]
+K:french4tab
+[daac2] [daac] e1 g | [heeg3] k1 [heeg2] | \
+[geae3] e1 [geae2] | [ede1] g h e g d |"
+44;;164;Isser yemant uyt Oost-Indien gekomen, Oft: Est ce le grand Dieu des alarmes;;Sellenger's Round / Est-ce Mars / The French Tune;OT;ConcR19;C;"[,,a{a}/] ,,c | \
+[,,d,,c1] {a} [,,d,a] ,a/ ,c | \
+[,dda1] ,,a/ ,,c [,,dca1] ,,,,e | \
+[,dda{a}1] ,c/ ,d [a,,,a] ,c ,d a | \
+[cdda{a}2] ,,,a1 ||
+[V:Citter]
+K:french4tab
+,,,a/ ,,,c | [daac1] c [daac] ,,,a/ ,,,c | [acad1] ,c/ ,d ,e1 ,,e | \
+[heeg1] [gaa/] h k g h k | [mkm3/2] n/ [mkm1] ||"
+45;;167;Engels Com again, metten Bas: Ende is een tweespraeck tusschen Ian ende Pieter;John Dowland;Come Again, Sweet Love Doth Now Invite;OT;ConcR460;C;"[,dda{a}2] [cdda1] ,,,a/ d | \
+[fdda2] {a} | \
+z2 [fdda2] | \
+[h,,f,d2] [f,,,f] | \
+[da,c,a1] ,c/ ,a ,c ,d [d,,c1] | \
+[cdda2] {a} | \
+z2 [fdda2] |
+[V:Citter]
+K:french4tab
+[daac2] [gaae3/2] h/ | [kagi4] | z2 [kaa/] g h k | \
+[mkm2] [kagi] | [heeg1] g/ h k h g e | [gaae4] | z2 [kaa] |"
+46;;170;Hey Wilder dan Wild;;;OT;;3;"a1 | \
+[acd,a3/2] c/ ,,,,e1 | \
+[,c,,a3/2] ,d/ [a,,,e1] | \
+[,d,,c1] [,c,,a] [,a,,,a] | \
+[,cdca1] ,,d [acd,a] | \
+[aacc,a3/2] c/ e1 | \
+[f,,d2] [e,,c1] | \
+[cceec,c3/2] [a,,c/] [c,,,c1] |
+[V:Citter]
+K:french4tab
+,,,e1 | [,aae3/2] ,,,g/ ,,,e1 | [daac/] ,,,a ,,,c ,,,d [,aae1] | \
+[acad1] ,,,c ,,,a | ,,,c1 ,,a ,,,e | [,aae3/2] ,,,g/ ,,,i1 | \
+[,aak2] ,,,i1 | [mkm3/2] k/ [mkm1] |"
+47;;175;La Vignonne;;;OT;Conc_273;3;"a1 | \
+[ab,,d2] [,d,,c1] | \
+[,b,,a1] [,a{a}3/2] ,,d/4 ,a | \
+[,,dca1] ,,,,a a | \
+[bdda3/2] d/ b1 | \
+[ab,,d1] ,,,,c [f,,,a] | \
+[ea,,,a1] a [f,,,a] |
+[V:Citter]
+K:french4tab
+[kaka1] | [kagi2] [heeg1] | [faa1] [edea2] | [daac2] [kia1] | \
+[lhhk3] | [kagi2] ,,,k1 | [,agi2] [,,ak1] |"
+48;;180;Almande Nonette, Of: Vne Iuesne fillette;John Dowland / Daniel Bacheler;Une Jeune Fillette / Nonette;OT;Conc_4438;C;",,d1 | \
+[,dda{a}1] [a,,,d] [b,,a] [,d,,c] | \
+[ab,,d3/2] ,,,,b/ ,,,,a ,,,,,d [,,da,b1] | \
+[,a,,,d/] ,b [,d,,b1] [ad,,a] ,c | \
+[,dda{a}3/2] [,dd/] ,,,a1 || f1 |
+[V:Citter]
+K:french4tab
+[,ac1] | [daac3/2] c/ [fade1] [fade] | [edea3/2] d/ [caca1] [caca] | \
+[daac1] d [ecca] e | [caca/] a c d [caca1] || k1 |"
+49;;186;Kits Almande;Robert Johnson;Judentantz / Kits Almande;OT;Conc_1775;C;",,,,,a1 | \
+,,,,a1 [,ab,,d] [,bd,a] [,da,c] | \
+[abb,d3/2] ,d/ [,bd,a1] [abb,d] | \
+[,d,,c1] [,bd,a] [,a,,,a] [,,d,,c] | \
+[,,b,,d3/2] ,,a/ [,,,c,a1] [,bd,a] | \
+,,,,,a1 ,,,,a [,,b,,d] ,,,,a |
+[V:Citter]
+K:french4tab
+,a1 | [daac1] e [faa] h | [kagi3/2] h/ [fade1] k | \
+[heeg1] f [edea] [daac] | [caca3/2] a/ ,a1 [fade] | \
+[edea1] [daac] [caca] a |"
+50;;189;Fransche Gaillarde;;;OT;ConcR168;C;",d/ a | \
+[cdda1] f/ d [cdda3/2] a/ | \
+[c,,a/] d [f,,,a1] [f,,d] [e,,c] | \
+[fcd,a3] || [h,,f1] | \
+[f,,,a1] [d,,,,d] [c,,c3/2] c/ | \
+[a,,,a1] [,d,,c] [,d,,,d] ,,,,a |
+[V:Citter]
+K:french4tab
+[daa/] e | [geg1] h/ g [geg3/2] e/ | [geg/] h [kagi1] [kagi] [igi] | \
+[kagi3] || [mkm1] | [kagi1] [heeg] [geg3/2] g/ | \
+[ede1] [daac] d [caca] |"
+51;;191;Windeken daer het bosch van drilt;;;OT;Conc_4502;C;"[cdda1] [a,,,,d/] ,d [,c,,a1] [,d,,c] | \
+[,c,,a/] ,,d ,a ,,c [,dda{a}2] || \
+[,dda3/2] [acd,a/] [c,,e1] [a,d,e] | \
+[,daac/] a ,c ,d [,acc,a1] [,,dca] |
+[V:Citter]
+K:french4tab
+[mkm1] k/ h [geg1] [heeg] | [geg/4] h g e g ,e e g [heeg1] h || \
+[heeg1] [kagi] [mkm] [kagi] | [heeg1] [gaae] [ede] [daac] |"
+52;;195;L'orangée;;;OT;ConcR542;3;"a1 | \
+[acd,a3/2] ,d/ ,c ,a | \
+[,c,,a3/2] ,a/ ,,d ,a | \
+[,,d,a1] ,,,,a ,,a | \
+[,dd{a}2] [,a,,,e1] | \
+[,c,,a1] ,,d [a,,,e] | \
+[c,,a1] [,e,,c] ,,d/ c |
+[V:Citter]
+K:french4tab
+,,,e1 | [,eae3/2] ,,,d/ ,,,c1 | [caca3/2] d/ [caca1] | [daac3] | \
+[daac2] [edea1] | [gaae1] ,e [kia] | [ihi3/2] g/ [ihi1] |"
+53;;198;Engels Woddecot, Ofte: Datmen eens van drincken spraeck;;cf. GB-CuNn636 / 3r (1);OT;;3;",a1 | \
+[aac,,a3/2] c/ d1 | \
+[d,,c3/2] c/ [a,,,e1] | \
+[,e,,c1] ,,,,,a ,,,,c | \
+[,aa,c2] || [aacc1] | \
+[,d,,c2] [,cd,a1] | \
+[,dda2] [acd,a1] | \
+[,cd,a3/2] ,a/ [,cd,a1] |
+[V:Citter]
+K:french4tab
+k1 | [kia3/2] m/ [nkk1] | [nkk3/2] m/ [kaa1] | [igi1] [ede] [ede] | \
+[edea2] || [kagi1] | [heeg2] [gaae1] | [heeg2] [kagi1] | \
+[geg3/2] e/ [ede1] |"
+54;;203;Ballet;Robert Ballard;;OT;ConcR801;C;",,d/ ,a | \
+[,b,,a1] [,a,,,e] [,,d,a] [,,c,,a] | \
+[,,dca1] ,,,c ,,,,a ,,d/ ,a | \
+[,b,,a1] [,a,,,e] [,b,,a] [,d,,c] | \
+[abb,d1] ,,,,d [abb] a/ c |
+[V:Citter]
+K:french4tab
+d/ e | [fade1] [edea] [daac] [caca] | [daac1] [caca] [caca] d/ e | \
+[fade1] [edea] [faa] [heeg] | [kagi3] k/ m |"
+55;;207;t Engels Malsims, metten Bas: zynde op een twee-spraeck gestelt, tusschen A ende B.;Johan Leo Hassler;Mall Sims;OT;Conc_4432;C;"[aab,,a2] [dabc] | \
+[caa,c1] [caa] ,,,,e [h,,,,a] | \
+[f,a1] [d,,c] [c,,a] [a,,,d/] ,,d | \
+[,ea,c1] ,,,,c [,aa,c2] | \
+[da,c1] [a,,,e] [cdda] {a} |
+[V:Citter]
+K:french4tab
+[edea2] [edea1] [nkkm] | [mkm/] k h g [edea1] ,,,m | \
+,,,k/ ,,,m [nkkm1] m/ n [kagi1] | [iji/] ,g ,,i i [ecca2] | \
+[nkkm1] [kaa] [mkm] [edea] |"
+56;;213;Engels Prins Daphne;Robert Johnson;The Prince's Almain;OT;Conc_4336;C;",,,c1 | \
+[,,dca1] ,a/ ,b [,a,,,d3/4] ,b/4 ,d1 | \
+[,b,,d/] ,a ,b ,d a1 ,b/ ,d | \
+[a,,,d/] c d ,,,,c [ffg,a] h i1 |
+[V:Citter]
+K:french4tab
+,a1 | [daa1] e/ f [edea1] f/ e | [faa/] e f h [kaa1] [fade] | \
+,a/ ,c ,d ,a [daa] e [faa1] |"
+57;;217;Pavane Lachrime met den Bas;John Dowland;Lachrimae Pavan;OT;Conc_4415;C;"[aabc,a2] ,,,c1 [,da/] ,b | \
+[,ab,,a1] ,,d [da2] | \
+[,bb,d1] f/ d [c,d1] [a,b] | \
+[cef,c1] ,,f/ ,c ,e ,f c ,e | \
+[caa,c2] ,a1 ,,,,,a |
+[V:Citter]
+K:french4tab
+[kagi2] k1 h/ f | [edea2] [nkkm] | [nkkm2] [mkm1] [kagi] | \
+[igi/] g i k i k ,,i i | [kagi2] [edea] |"
+58;;223;Pots hondert duysent slapperment;;;OT;ConcR1064;C;",,c1 | \
+[,,dca3/2] ,,c/ ,,d ,a ,b ,d | \
+[aacc,a3/2] [aac/] ,,,c1 [f,,,a] | \
+[e,,,,a1] [f,,,a] [h,,,,a] [e,,c] | \
+[f,,,a3/2] f/ ,,,,a1 || f1 |
+[V:Citter]
+K:french4tab
+,a1 | [daa/] c d e [faa] e f h | [kagi2] k1 ,,,k | \
+,,,i1 ,,,k ,,,m ,,,i | [gaak3] || [daa1] |"
+59;;225;O Heere! Geeft so lange leeft;;;OT;;C;"a1 | \
+[ddff,d1] f/ h [h,,f1] h | \
+[cdda1] d/ f [fcd,a1] f | \
+[a,,,a/] c d1 [c,,e] [a,,,a] | \
+[,e,,c1] ,c/ ,e [,,,c,a1] [a,,,d] |
+[V:Citter]
+K:french4tab
+d1 | [faa1] e/ f [kagi1] k | [edea1] f/ e [heeg1] [hee] | \
+d/ e [fade1] [edea] [daac] | [caca1] c [caca] [daac] |"
+60;;229;Come sheap Herders deck jour heds;;;OT;;C;",,,c1 | \
+[,a,,c1] ,d [a,,,e] [,,,c,a] | \
+[a,,,d2] ,,,c1 ,a | \
+[d,,c3/2] ,a/ [,,dca1] [,,b,,a] | \
+[,,dca1] ,,d/ ,,c ,,d ,a ,,d ,,,,a |
+[V:Citter]
+K:french4tab
+,a1 | [ecca1] [heeg] [kaa] [,aa] | [edea3] e1 | \
+[acad3/2] e/ d1 [caca] | d1 [daac2] d1 |"
+61;;234;Schoonste Nimphe van het Wout, Of: Quand ce beau printemps je voy;;;OT;;C;"[aabc1] [aab/] ,,,c [,ea,c1] [,ea] | \
+[aab,,a1] ,,,,a/ ,,,,c [dbb,,d2] | \
+[,d,,c1] ,,,,a/ ,,,,e [,aa,,a2] | \
+[ddf,,d1] [f,,d] [h,,f] h | \
+[i,,h1] [h,,h] [ff,h2] |
+[V:Citter]
+K:french4tab
+[daac1] d [,dcd] ,d | [daa/] c d e [fade2] | [,dcd1] [daac] [caca2] | \
+[faa/] e f h [kaa] f h k | [lhhk1] [kagi] [heeg2] |"
+62;;239;Courante Serbande;Robert Ballard;La Courant Sarabande;OT;Conc_1756;3;"a1 c | \
+[acd,a3/2] c/ a1 | \
+[,c,,a1] ,,d a | \
+[a,,,e1] ,,d [c,,a] | \
+[,d,,c1] ,,c [,a,,,a] | \
+[,c,,a3/2] ,a/ ,c1 | \
+[,cd1] ,,,,a a |
+[V:Citter]
+K:french4tab
+,,,c ,,,d | [,,e3/2] g/ ,,,e1 | ,,,e1 ,,a ,,,e | [,aae2] [,eeg1] | \
+[acad3/2] ,,,e/ ,,,d1 | [daac2] d1 | [daac2] ,,,d/ ,,,e |"
+63;;243;La piquarde;;;OT;ConcR487;3;",,d1 | \
+[,dda{a}3/2] ,,,,a/ ,,,a1 | \
+[c,,e1] [a,,,c2] | \
+[,dda{a}3] | \
+[f,,e2] [d,,c1] | \
+[cdda3/2] a/ ,,,,c1 | \
+[,cd,a1] ,,d/ ,a ,c ,d | \
+[acd,a3] | \
+[,,dca2] [,a,,,a1] |
+[V:Citter]
+K:french4tab
+,a1 | [acad/] ,,,c ,,,d ,,,e ,,,g1 | [,eeg2] [,eae1] | [acad3] | \
+[,aak2] [nkkm1] | [mkm3/2] k/ h1 | [geg1] ,e/ e g h | \
+[kagi3] | [daac2] e1 |"
+64;;248;Comedianten dans;Thomas Campion;What if a day - Merck toch hoe sterck;OT;Conc_4421;C;"[aacc,a1] [,e,,c/] [aacc] [ca,,c1] [a,,,,a/] [ca,,c] | \
+[dab,,d1] c/ [a,,c] [caa,c2] | \
+[dab,,d1] [c,,,c/] [d,,c] [f,,,a1] d/ [f,,,a] | \
+[h,,,,a3/2] [h,,,,a/] f h d f |
+[V:Citter]
+K:french4tab
+[daac1] c/ [daac] [edea1] d/ [edea] | [fdde1] e/ [daa] [edea2] | \
+[fdde1] e/ [fdde] [heeg1] f/ [heeg] | \
+[kagi3/2] [kaa/] h k f h |"
+65;;251;Courante Seignor;;;OT;Conc_1750;3;"a1 | \
+[abb,d3/2] b/ a1 | \
+[a,,,d1] [,db,,d2] | \
+[,bb,d1] ,,,,d ,b/4 ,d a c | \
+[ddff3/2] f/ [ddff1] | \
+[da,c2] [cdda1] | \
+[abd,a2] [f,,d1] |
+[V:Citter]
+K:french4tab
+,a1 | ,a3/2 ,b/ ,a1 | ,a1 [heeg2] | [fdd1] ,,d/ ,,e ,a ,c | \
+,d/ ,c ,d ,e ,d1 | ,d1 [acad2] | [caca2] [daa1] |"
+66;;255;Gaillarde Maurice, Of: Waer mach myn herteken wesen;;;OT;ConcR3151;3;"[dabc2] ,,,,,d1 | \
+[cdda2] {a}1 | \
+[aabc3/2] c/ [aabc1] | \
+[,e,,c2] [,a,,,a1] | \
+[dabc3/2] c/ [aabc1] | \
+[,e,,c2] [a,,,a1] | \
+[,b,,d2] [,a,,c1] | \
+[,,dca2] [,,b,,d1] | \
+[,,b,,d3/2] ,,d/ [,,a,,c1] | \
+[,,b,,d3] |
+[V:Citter]
+K:french4tab
+[fade3] | [eedea3/2] f/ [edea1] | [daac3/2] e/ [daac1] | [caca2] ,a1 | \
+[fade3/2] e/ d1 | [caca2] ,a1 | [bad2] [a,c1] | ,,e2 ,,d1 | \
+,,d2 ,,e1 | [,,db3] |"
+67a;;258;Pavane d'Espagne BASSUS;;Spanish Pavan;OT;Conc_4343;C;",,,c1 | \
+[,,dca3/2] ,b/ [,a,,,a1] [,,d,d] | \
+[,,cc,a1] ,,a/ ,,c ,,,c1 [,d,a/] ,b | \
+[,a,c1] [,,d,d] ,,,a [,,cc] | \
+[,,dca3/2] ,a/ ,b1 [,a,,c] |"
+_67b;;259;Idem TENOR;;Spanish Pavan;OT;;C;",f1 | [a,,,,a/] c d a f d c a | \
+[,ea,c/] ,c ,a ,,e ,a ,c ,e a | \
+[c,,,c/] a ,e a c ,e a c |"
+_67c;;259;idem SUPERIUS;;Spanish Pavan;OT;Conc_4405;C;",,,a1 | \
+[,dda{a}1] f/ d [b,,d1] a/ ,d | \
+[,c,,a1] ,,d/ ,,b [,,d,,c1] ,,,c/ ,,,a | \
+[a,,,e1] [b,,a] [d,,c] [acd,a] | \
+,,,a1 f/ d b a ,d ,c |
+[V:Citter]
+K:french4tab
+,d1 | [daac1] e/ f h f e d | [caca3/2] a/ ,a1 a | \
+[caca/] a c d c d e c | [daa/] c d e [faa1] [edea] |"
+68;;263;Ballet. Questa dolce Sirena;Gastoldi arr;;OT;ConcR705;C;"[ddff,d1] | \
+[abdca1] [dab,c] [dfg,d] [cdda{a}] | \
+[ddff,d2] [ddff,d1] [ddff,d] | \
+[abdca1] [dab,c] [dfg,d] [cdda] | \
+[ddff,d2] x1 [ddff,d/] [ddff,d] | \
+[cdda1] [cdda{a}/] [cdda] [aab,,a1] [aabc/] [aabc] |
+[V:Citter]
+K:french4tab
+[fdde1] | [dbd/] e [fdde1] [fdde] [edea] | [fade3/2] [fade/] [fade1] [fade] | \
+[dbd/] e [fdde1] [fdde] [ede] | [fdde3] [fdde/] [fdde] | \
+[edea1] [edea/] [edea] [dbd1] [dbd] |"
+69;;267;Mrs Mary Hofmans Almand;John Sturt;;OT;ConcR292;C;"[cdda1] a/ ,d ,,,,a1 [acd] | \
+[,da,c1] ,,,,a/ ,,,,,d ,,,,,c1 [,ca] | \
+[,a,,,d1] ,,b/ ,,d [,a,,,d] [,c,,a] [,d,,c] [a,,,e] | \
+[c,,a3/4] d/4 [a,,,a3/4] c/4 [,dda1] ,,,,,a/ a |
+[V:Citter]
+K:french4tab
+[geg1] e/ d [ecc1] [ecc] | [daac1] c/ a [caca1] [caca] | \
+[acad1] ,,c/ ,a ,c ,d ,e e | \
+[geg3/4] h/4 [ede3/4] g/4 [daac2] ||"
+70;;271;Courante Françoyse, Of: O Angenietje;;;OT;Conc_278;3;"a1 | \
+[aabc3/2] c/ a1 | \
+[,e,,c1] [,a,,,a] [aabc] | \
+[aabc,a/] ,d a d c a | \
+[c,,a1] [,d,,c] [ddff] | \
+[ddf,,d3/2] f/ [h,,,,a1] | \
+[i,,h2] [h,,f1] |
+[V:Citter]
+K:french4tab
+d1 | [daac3/2] e/ [daa1] | [caca1] ,a d | [daa/] c d e f d | \
+[edea1] ,d f | ,,d/ ,,c ,,d ,,e ,a ,,d | [,bad2] ,,,e1 |"
+71;;275;Chi guerregiar desia;;;OT;;C;"[cdda{a}1] [cdd/] ,,,a [cdda{a}1] [ddff,d] | \
+[cdda{a}1] [ca,,a] x1 [acd,a/] [,dfec] | \
+[acd,a1] [acd,a] [,dfec] [,dfec] | \
+[,cee,c1] ,,,e/ ,,,e ,,,e1 [,dfec/] ,f |
+[V:Citter]
+K:french4tab
+[kagi1] k/ k [kagi1] [lhhk] | [kagi1] [kagi] z1 [heeg/] [fade] | \
+[hgi1] [hgi] [fdde] [fdde] | [eagi2] z1 [faa/] h |"
+72;;279;Sonatemi un balletto;;;OT;;C;"[f,,d1] | \
+[bbdd3/2] d/ [f,,d1] [bbdd] | \
+[a,,,a/] [,d,,c] [a,,c] [b,,d] [d,,f1] [b,,d/] a | \
+[,dda{a}1] [a,,,,a/] b d b a [,d,,c] |
+[V:Citter]
+K:french4tab
+,,,e1 | [fade3/2] h/ [kaa1] [fade] | [ede/] d e f [heeg1] f/ e | \
+[daac1] e/ f h f e d |"
+73;;283;Fransche Courante, Of: De Mey die komt ons by, seer bly;;;OT;ConcR3152;3;"a1 | \
+[acd,a3/2] [,d{a}/] ,c ,a | \
+[,c,,a1] ,a ,,d/ ,a | \
+,,d1 ,,,,a ,,d | \
+[,,dca2] [a,,c1] | \
+[acd,a2] ,,,,e1 | \
+[f,,d2] [ea,c1] | \
+[c,,,c2] [,aa,,a1] |
+[V:Citter]
+K:french4tab
+,,,e1 | [,eae2] ,,,d1 | [,eac2] [caca1] | [daac2] [daa1] | [daac2] [,eae1] | \
+[,eae2] ,,,e1 | [,aak2] ,,,i1 | [,eeg2] [caca1] |"
+74a;;286;Almande Monsieur BASSUS;;;OT;;C;"[acd,a3/2] ,,,,c/ ,,,,a1 ,,,,,e/ ,,,,,c | \
+[aac,,a3/2] ,,,e/ ,,,c ,,,a ,,,,e ,,,,c | \
+[,cd,a/] ,d a ,c [,dda1] [aacc] | \
+[,,dca1] ,,,c/ ,,,,a ,,d2 |"
+_74b;;287;Idem TENOR;;;OT;;C;"[aacc,a3/2] [aac/] ,,,c1 [,,d,e] | \
+[ca,,c3/2] [ca/] ,,,,c1 [h,,,,a/] f | \
+[e,,,,a1] f/ e [ca,,c3/2] e/ | \
+[ca,,c1] [aacc3/2] a/ [aacc,a1] |"
+_74c;;287;idem SUPERIUS;;;OT;ConcR48;C;"[,dda3/2] {a}/ [,dd1] [,ca,,c/] ,d | \
+[acd,a/] ,a ,c ,d [acd,a1] [f,,a/] c | \
+[dab1] [cdd{a}] [acd,a/] ,d a ,c | \
+[,d,,c/] ,c ,d a [,dda{a}1] ,,d |
+[V:Citter]
+K:french4tab
+[daac3/2] e/ [daac1] c/ a | ,a3/2 ,c/ [,aa1] [kaa/] [hee] | \
+[geg1] [hee/] [geg] [ede] [daac] [caca1] | \
+[daac3/2] d/ [daac2] |"
+75;;291;Dimmi ch'e del mio core;;;OT;ConcR3134;C;"[ac,,a1] [ac,,a/] [cc,,a] [ac,,a1] [,d,,c] | \
+[ac,,a1] [ac,,a/] [aa,,,d] [ac,,a1] [cd{a}] | \
+[ac,,a1] [,d,,c/] ,,,,a [aa,,,d1] [ac,,a] | \
+[cd{a}2] [cd] || \
+[fh,a1] [fh,a/] [ff,,e] [fh,a1] [df,c] |
+[V:Citter]
+K:french4tab
+[dce1] [dce/] [ece] [dce1] [ba] | [dce1] [dce/] [dad] [dce1] [ede] | \
+[dce1] [ba] [dad] [dce] | [ede2] [ede] || \
+[hgk1] [hgk/] ,,i [hgk1] [fe] |"
+76;;293;Ballet Marignault;;;OT;ConcR949;C;"f1 | \
+[fg,d3/2] g/ f1 [dfg,d] | \
+[bdd2] {a}1 d/ b | \
+[ab,,d1] b/ a [,d,,b1] a/ ,d | \
+[,cd,a3/2] ,a/ ,,d1 ,d/ a |
+[V:Citter]
+K:french4tab
+[kagi1] | [kagi3/2] l/ [kagi1] [heeg] | [fade3] h/ f | \
+[edea1] f/ e [daac1] [ea/] d | [caca3/2] a/ [,aa1] d/ e |"

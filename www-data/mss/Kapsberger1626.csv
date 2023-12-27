@@ -1,0 +1,65 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+;;;;;"Mindestens 1 Stück (Pma) fehlt; der Druck beginnt auf Seite 7";At least one piece (Pma) is missing, the print begins on page 7;;;;
+1;g moll;7;la 2;Gio: Girolamo Kapsberger;;OT,a;;C;"[bddaa{a}4] | [,,da{a}3/2] ,,e/ ,,d1 ,,,d3/4 d/4 | \
+(3,,d/ ,,i ,,d ,,,d1 [,,,(b/4] ,,,a ,,,,d ,,,,b ,,,,a ,,,,,d [,,,y)a/] |
+[V:B] G4 | G4 | G4 |";italian7tab
+2;e moll;10;la 3;Gio: Girolamo Kapsberger;;OT,a;;C;"[cdaac4] | ,,f1 ,,a3/4 (,,b/4 ,,a1) ,,,c | \
+[,,,ac1] [,,,,ac3/4] [,a,,,(d/4] [,,,,,c)1] [,cb,,a] | [cdaac4] | \
+,a/ ,c ,d a c [(ya/4] ,c ,d a c [y)d] |
+[V:B] e4 | e4 | e4 | e4 | e4 |";italian7tab
+3;F dur;12;la 4;Gio: Girolamo Kapsberger;;OT,a;;C;" [,,bcd{8}1] ,d [a,,,d] [b,,a] | [d,,c1] [,ddd/] ,,f [,fgf1] {8} | \
+[d,ea1] ,,,c [,,dd] ,,,,,b | \
+[,,bdd1] ,,,c/ ,,d [bd,,b1] ,,,,a |
+[V:B] e4 | e4 | e4 | e4 | ";italian7tab
+4;;14;la 5;Gio: Girolamo Kapsberger;;OT,a;;C;"[cdaa{a}3/2] ,,,,a/ ,,,a ,,,c ,,,e ,,,a | \
+f/ ,,f ,,h ,,i ,,,h ,h ,,,a ,,,,a | \
+[,daa{a}3/2] ,c/ ,d a c d |
+[V:B] G4 | G4 | G4 |";italian7tab
+5;;16;la 6;Gio: Girolamo Kapsberger;;OT,a;;C;" [,d,a{a}1] ,c/ ,a [c,,,a1] [d,,c] | \
+[c,d/] ,,,a ,,f ,,h ,,g ,,,,a [,d,,c] ,,,,e | \
+[c,,a/] d [c,d] [a,b] [,daa] ,c/4 ,a ,,,,a/ ,,,,,c |
+[V:B] G4 | G4 | G4 | ";italian7tab
+6;;18;7ma;Gio: Girolamo Kapsberger;;OT,a;;C;" [aabcca{13}2] [a,bcd{8}] | [dabacd{11}2] [abdca{10}] | \
+[aabcca3/2] c/ d1 [,e,e] | [d,,c1] c [cab,,a] [ac] | \
+[cdaac2] {9}/ c d ,,d |
+[V:B] A2 F2 | c2 d2 |  A4 | A4 | e4 |";italian7tab
+7;;20;8va;Gio: Girolamo Kapsberger;;OT,a;;C;"[daba,d{11}4] | ,,,f/4 ,,,a/ ,,,c/4 ,,,,c/ ,,,a/4 ,,,,,d/ ,,,,c/4 ,,,,,a/ ,,,,,d/4 {9}/ {a}/4 | \
+{11}/ ,d/4 a/ c/4 [d,,c/] [c,d] [d,f,,d] (3(,,g/4 ,,f/4) f/4 ,,,f/ |
+[V:B] c4 | c4 |  c4 | ";italian7tab
+8;;22;Gagliarda;Gio: Girolamo Kapsberger;;OT,a;;3;"[abdca{10}3] ,a1 ,b ,d | [abd,a2] a1 [abd,a2] a1 | \
+[abd,a3] [ab,,a1] [bd,a2] | [a,b,,d2] [,,dc,b] [,,fa] | 
+[V:B] d4 d2 | d2 d d2 d | d4 g2 | c2 ""7""B2 ""6""B2 |";italian7tab
+9;;23;Partita Pma;Gio: Girolamo Kapsberger;;OT,a;;3;"[abdca{10}3] ,a1 ,b ,d | [ab,,a1] ,,d d b ,,,c ,d | \
+[,b,,a1] ,,,d a ,,,a [,b,,a] ,d | \
+a1 ,,,,,d ,,,,,b ,,d ,,f ,,,a |";italian7tab
+10;;23;2da;Gio: Girolamo Kapsberger;;OT,a;;3;"[abd{10}4] ,,,,a/ ,a ,b ,d | \
+[ab,,a/] f [f,e] d [d,d] b [b,b] a [a,,d] ,d [,d,c] ,b | \
+[,b,,,d/] ,a [d,,a] b [b,,c] a";italian7tab
+11;;23;Corrente Pma;Gio: Girolamo Kapsberger;;OT,a;;3;" [a,,,a1] [,c,c] [,d,a] | [acd{10}3/2] c/ a1 | \
+[,d{a}/] ,c [,a,,,a] ,,,,a [,dc,c1] | \
+[,cd,a1] {10} [,d,,c] | [a,,,e1] ,,,,a [c,,a/] a |
+[V:B] ""\#""d3 | ""\#""d2 d | G ""\#""A2 | ""\#""d2 e | ^f2 g |";italian7tab
+12;;24;Partita;Gio: Girolamo Kapsberger;;OT,a;;3;",,d/ a ,,,,a ,a ,c ,d | a/ ,c ,,,,a {10} c a | \
+[,d{a}/] ,c [,a,,,a] ,,,,a [,,c,c] ,d |";italian7tab
+13;;25;Corrente 2da;Gio: Girolamo Kapsberger;;OT,a;;3;"[,,dd1] [b,,a] [a,,,e] | [b,,a1] {a}/ d b1 | \
+[a,,,d1] ,,d [,,bab] | [,bd,a1] {10}/ ,,f ,,g1 | \
+[,,ea,d1] [d,e,,a] ,,g | 
+[V:B] b g ^f | g2 g | ""56""f2 ""6""_e | d2 d | ""\b""c ""\b\n56""A2 |";italian7tab
+14;;25;Partita;Gio: Girolamo Kapsberger;;OT,a;;3;",,d/ d b ,,,a ,,,,e a | b/ ,,,a {a} d b ,,,a | \
+,,,,d/ a ,,b ,,d ,,,,b ,,b |";italian7tab
+15;d moll;26;Ancidetemi pur a 4. Passeggiato;Gio: Girolamo Kapsberger;;OT,a;;C;" [aab,,a4] | [abd{10}/4] [,,,(ya/8] ,,,,c ,,,,d ,,,a ,,,c ,,,d ,,,c ,,,d ,,,c/4 [,,,a)] \
+[aab,,a1] (,,d/8 ,,b ,,a ,,,c ,,,a ,,,d) |
+[V:B] a4 | d2 a2- |";italian7tab
+16;;32;Com' esser puo' à 5. Passeggiato;Gio: Girolamo Kapsberger;;OT,a;;C;" [abd,a2] [,,daab1] [aab,,a] | [,aba,d2] {11}1 {a}/4 ,,b/8 b ,,d/4 ,d | \
+[acd,a1] {10} (,,,,a/8 ,,,,c ,,,,d ,,,,c ,,,,d \
+,,,,c ,,,,d ,,,,c ,,,,a/ ,,,,c) |
+[V:B] d2 B A | c3 G | ""\#""d2 d2 |";italian7tab
+;;;;;"Es folgen Beispiele und Übungen:
+S. 35-42 Passaggi diuersi sul le note per sonare sopra la parte
+S. 43 [Diversi] Cadenze
+S. 44+45 Tauola per intauolare sopra il Chitarone, alla Italiana et alla Francese
+S. 46 Tauola per sonare il Chitarone sopra il Basso";"Some exercises and examples follow:
+S. 35-42 Passaggi diuersi sul le note per sonare sopra la parte
+S. 43 [Diversi] Cadenze
+S. 44+45 Tauola per intauolare sopra il Chitarone, alla Italiana et alla Francese
+S. 46 Tauola per sonare il Chitarone sopra il Basso";;;;

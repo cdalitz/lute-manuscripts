@@ -1,0 +1,200 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1;;1;ENTREES DE LUTH / PREMIERE;;Prelude;OT;;C;"[,aaac1] {,,a} [,a,a] [,c,c] | [,da,c1] ,,,a [,c,ca] ,,a | \
+[,aa,,d1] ,,,c/ ,,,a ,,,c ,,,,c | \
+[,a,a,c1] ,,,c/ ,,,a [,,eeec] ,,,,,a |"
+2;;2;SECONDE;;Prelude;OT;;C;"[abdca1] {,,,a}/ ,,,,a [abd2] | [ffghhf2] [eff,,a/] f h1 | \
+[ffg,a2] [abd1] ,,b | [a,de2] ,e1 ,a | [ab,c,a2] ,a1 ,,,a | \
+[,a,,da2] ,,d1 ,,,,d |"
+3;;3;TROISIESME;;Prelude;OT;;C;"[,cdca1] {,,,a} [,cdc] ,,,,c  | [a,d,e2] [,daa] | [,dcc2] [,cd] | \
+[,cdc,a2] [,acc1] {a} | [,,dc{,a}2] [,aa{,,a}1] ,,c | \
+[,cdca{,,,a}1] ,d [acd] ,,,,,e |"
+4;;4;QUATRIESME;;Prelude;OT;;C;"[,dda{a}1] ,,,a [,dd] a | [bdda1] d f ,,,,d | [,,,ab1] d/ b d1 ,,,c | \
+[f,,da1] ,,,c/ ,,,a [,,d,e1] [da,a/] b |"
+5;;5;CINQUIESME;;Prelude;OT;;C;"[,dda{a}1] ,,,a [,da] ,,,c | [,dde2] [,dff] | [,dbc1] ,c/ ,a ,c1 ,,d | \
+[,dfa1] ,,a ,,d ,,,,d | [,dd,c1] ,,c/ ,,a ,,c1 ,d |"
+6;;6;SIXIESME;;Prelude;OT;;C;"[aab,,a1] ,,,c ,,b ,,d | [,abc,a1] ,b [,,aa{a}] ,a | \
+[aa{,a}1] ,,d/ ,,b [a,d1] ,,,c | [a,b{,,a}2] [,da] | \
+,,,,,a1 ,a [,,bc] ,c |"
+7;;7;SEPTIESME;;Prelude;OT;;C;"[ddef1] ,,,,,d [dde] f | [g,,f1] ,d [f,,e] ,,g | [fdef1] d/ ,g d1 ,,e | \
+,,,a1 [d,e] [b,d] [a,b] | [bdda1] d f ,,,,d |"
+8;;8;HUITIESME;;Prelude;OT;;C;"[ccde1] ,,,,,c [c,d] [ea] | [fc,e1] ,,,c [hh,a2] | \
+[df,c1] [,,fa] [a,f,e] [c,e] | [,df,c1] ,,,e [,ca,b] ,,,c | \
+[,c,ac1] ,a/ ,,e ,a ,,,a ,,,c ,,,a |"
+9;;9;NEUFIESME;;Prelude;OT;;C;"[,bbcd1] {,a} [,bbc] ,,,,c | [,bdca1] ,,,,,d [,bd,,b] [,,b,,a] | \
+[,ddd{a}1] [,f,f] [hd] [,ff/] ,d | \
+[,fg1] {,a} ,,,,,b/ ,,d [,ddd{a}1] |"
+10;;10;Ballet de M. le Daufin / PREMIER CHANT;;;OT;Conc_4495;C;"[abd,a4] | [abd{,,,a}3/2] d/ [c{a}3/4] f/4 [e,,,,a3/4] h/4 | \
+[f,,,a1] ,,,h ,,,,,a [hf,g] | [if,ha1] h/ f [ea,,,a] a f1 |"
+11;;10;SECOND;;;OT;;C;"[,cd/] ,,,,a ,,,c ,d a ,,,,,e [ccd,,c] ,e | \
+,,,,,a/ ,a e f h1 [aac,,e] | \
+[acd,a1] [aac,,a] [aaa,c] ,e/ ,,d |"
+12;;11;TROISIESME;;;OT;;3;"{,,,a}1 | [,cdc2] {,a}1 | [acd2] {a}1 | [cdd2] ,,,,a1 | \
+[acd2] ,,,,,e1 | [f,d,,c1] [ea,,,a] ,c | [cdd{a}1] ,,,a/ a c e | \
+[f,,,a1] [ha,g,a3/2] f/4 h |"
+13;;12;Ballet de la Reyne / PREMIERE CHANT;;;OT;;C;"[bdda2] [abd,a] | [,dedb/] a b d [f,,d1] d/ ,g | \
+[dfg,d1] [,d,,b/] a [b,,,a1] [a,,,,d] | \
+[bbd,,b1] ,,,d [bbd] ,,,c |"
+14;;12;SECOND;;;OT;ConcR718;C;"[fhia2] [hiif3/2] f/ | d/ ,,,,d ,f ,,,,c [ffg,a] h i ,h | \
+[hk,,,a1] [,f{,a}/] f [,,i{a}] ,,g [e,f,,a3/4] c/8 e |"
+15;;13;TROISIESME;;;OT;;3;"[cdd{a}3/2] d/ [f,a2] [ddfffd] | [cdd{a}2] ,,,a1 d c2 | \
+[abb,d3/2] c/ d2 [cdda] | [acdca2] {,,,a} [acd] | \
+[,c,,a3/2] [,d,,c/] [a,,,e2] [cdda] |"
+16;;13;COURANTE;;;OT;ConcR588;3;",d1 | [bdda3/2] a/4 b [d,,c1] | [f,dd1] ,,,a/ d b1 | a1 ,,,,e ,,d | \
+[bdda3] | [ddef2] [f,,e1] | [gd,f3/2] f/ [df,,d1] |"
+17;;14;ENTREE DE LUTHS / Ballet de la Reyne / PREMIER CHANT;;;OT;ConcR589;C;"[abdca2] [aa,c,e3/2] ,d/ | [,bdca1] ,a ,,d2 | [fddd{a}2] [ea,c,a3/2] c/4 e | \
+[f,,,a1] {,,,a} [,,dc] ,a | [abd,a2] [cdda1] ,,,,d | \
+[dd,ac1] ,,,,a ,,,,,d b |"
+18;;15;SECOND;;;OT;Conc_1755;C;"[,,dca1] {,,,a}/ ,a [,b,,a] ,,d [aa,c,e1] | \
+[abdca2] [,db,c1] d3/4 b/4 | [abb,d/] b d1 [,bdda/] ,,,c [,aba,d1] | \
+[,bbcd1] a/ b [db,c1] [fa,d/] ,,d |"
+19;;16;TROISIESME;Robert Ballard;Courant;OT;Conc_1744;3;"{,,,a}1 | [,bdc2] {a}1 | [,ddd2] {,,,a}1 | [,bdc2] ,,,,,a1 | \
+[,acc2] {,a}1 | [abb2] {a}1 | [,ddd2] {,,,a}1 | \
+[,bdc1] ,a ,,,,,a3/4 ,a/4 |"
+20;;17;Ballet des Esclaves / PREMIER CHANT / Mesure grave;;;OT;;C;"[acd,a1] {,,,a}/ ,d [,c,,a1] [,acc,a] | [,,dca3/2] ,c/ ,a ,,,,,e ,,,c ,a | \
+[,cdca/] ,e [a,d] ,,c [aaa,c] ,,,c [,ea1] |"
+21;;18;SECOND;;;OT;;C;"[abd1] ,,b [f,,d/] ,,d ,d1 | [db,c1] ,a/ ,,d ,,b d [b,dd] a | \
+[,dff/] ,,,d [db,c1] [,d,a/] a [ba] d |"
+22;;19;TROISIESME;;;OT;;C;",,d/ ,a | [,bbcd1] [,b{,a}/] ,d [a,b] ,b a b | \
+[dbb,d1] {,a}/ b a1 b/ d | [f,,d1] ,,d [ddf,,d3/2] ,g/ |"
+23;;20;Ballet des Contre-Faits d'Amour / PREMIER CHANT;;;OT;;C;"[,dda{a}2] [acd,a] | [cdda1] {a}/ a ,d1 [ff,,e] | \
+[fdaa1] {a}/ d [c,,a] [d,,c] [f,,e1] | [ddff2] [cdda] | \
+[acd,a1] [acd/] [,d,,c] [c,,e] ,,,a [,acc1] |"
+24;;20;SECOND;;;OT;;C;"[cdda2] [acd,a] | [,daac1] ,c/ ,a [,cde,c1] ,a/ ,,d | \
+[,aba,d/] ,c [,d,,,c] [a,,,,a] [cdd{a}] ,,,a a ,d | \
+[acd1] ,,,,a/ a"
+25;;20;TROISIESME;;;OT;;C;"[bdda2] [bdcdb] | [bbd,,b/] d f1 [dbb,d/] ,,,,b [ffg,a1] | \
+[,dedb1] [gd,f,d/] ,f [fda{a}] [d,b] [ddda] c | \
+[ddf,,d1] ,,,f [ddf] ,d/ a |"
+26;;22;Ballet des Insencez / PREMIER CHANT;;;OT;;C;"[fdd{a}1] [f,,a/] d [b,d1] [a,d,e/] ,,b | \
+[,d,d{a}1] [,c,ca/] ,,,,,d [,dd,,b1] [acb,,a] | \
+[bdd{a}1] [b,,a/] d [b,d1] [acd,a] | [,dda{a}1] [,d,a3/4] ,b/4"
+27;;22;SECOND;;;OT;;C;"[bdda/] {a} ,,,a [a,,,d] [,d,,c1] [d,b] | \
+[dbb,d1] {,a}/ b [a,,,d] ,,,,c [ffg,a1] | \
+[hf,g,a1] [if,ha] [hf,g,a] f/ h | \
+[ffhha1] {,,,a}/ ,,,,a [ffhh2] |"
+28;;23;TROISI.;;;OT;Conc_273;C;"[fdd{a}1] [f,,a/] d [c,d] d [c,,,a] a | \
+[,d{a}/] ,,d [,d,a] a [c{a}] ,d [c,,a] d | [f{a}1] [,,da]"
+29;;24;Ballet / PREMIER CHANT / Mesure grave;;;OT;;C;"[fdd{a}3/4] d/4 | [b,,a1] [a,d,e] [,dda{a}/] a [b,,a] d | \
+[acd,a1] {,,,a}/ ,,,,a [acd1] [b,,,a/] a | \
+[,dedb/] a [bdea] ,,d"
+30;;24;SECOND;;;OT;;C;",d/ | [,dda{a}3/2] a/ [acd,a3/2] c/ | [cdda1] {a} ,,,a3/2 d/ | \
+[ddf,,d3/2] f/ [fdaa3/2] h/ | [ha,f1] f/ ,i [c,,a] ,d d1 |"
+31;;25;TROISIESME;;;OT;;3;"{a}1 | [cdd2] ,,,,,d1 | [ddf2] ,,,,a1 | [acd2] {a}1 | \
+[cdd2] ,,,,c1 | [,daa2] ,,,,,d1 | [,aba2] ,,,,,a1 | \
+[aac2] ,,,,a1 | [,cfdc2] ,,,,,c1 |"
+32;;26;Ballet / Mesure grave;;;OT;;C;"[db,,d1] {,a}/ b a ,d ,b1 | [dbbcd1] {,a} [dbb/] ,,,a [dbbc1] | \
+[bbdd1] [abb,d] [,dba,d] ,b/ ,d | [abb,d1] {,a}/ a"
+33;;28;Ballet des Dieux;;;OT;;C;"[abd{,,,a}2] | [abb{,a}2] [,dda{a}1] ,b | [,ac,,a1] [,bd] [,ac,,a3/2] ,,d/4 ,a | \
+[,,d,a1] {,,,a} ,,,,a ,,,c | [,,dc2] [,aba,d1] ,b | \
+[,dba,d2] [,dda,c] |"
+34;;29;Ballet / Mesure grave;;;OT;;C;"[ffhha2] [fgi{a}] | [effcca1] ,,,,c ,,,c f/ h | \
+k/ ,,,,a h f [ea,,,a] a f1 | [ffhhhf1] {,,,a}/ ,,,,h [ffhh2] |"
+35;;30;Ballet / Mesure grave;;Print error: p. 29;OT;;C;"[dbb,d2] [dd,ac] | [dbb,d1] {,a} [dbb] b/ d | \
+[f,dd/] ,a [db,c1] [bbdd/] d [a,,,d] b | \
+[,dba,d1] [a,,,d/] c d ,a [c,da1] |"
+36;;31;Ballet des Manans;;;OT;;C;"[fda{a}1] [f,,a] [cdd{a}/] d [f,,a1] | [,dda{a}1] [a,,,a/] c [da,,,d] ,c [cdd{a}1] | \
+[acd,a1] [a{,,,a}/] ,d [,c,,a] ,d a ,,,,,d |"
+37;;32;Ballet / PREMIER CHANT;;;OT;;C;"[,dda{a}/] a [b,,a] d f1 [ff,,e] | [fdda1] {a} ,,,a d/ f | \
+[g,,f1] [f,,d] [d,,,d/] ,g d f | [bbd,,b1] ,,,d [bbd] a/ b |"
+38;;32;SECOND;;;OT;;C;"f3/4 d/4 | c/ ,,,a ,,d [a,,,d] [,d,,c] ,,b [ab,,a] c | \
+[da/] ,,,,,d ,a ,b ,d ,,,,,d [a,,,,c] ,,,,,a |"
+39;;33;Ballet / PREMIER CHANT;;;OT;;C;"[,c{,,,a}/] ,d | [a,,,a1] [acd] [cdda] [acd,a] | \
+[,dda{a}1] ,,,a [,cdca] ,a/ ,,d | [,acc,a1] \
+[,cd,a/] ,e a ,,c [,ea,c1] |"
+40;;33;SECON.;;;OT;;C;"[,c{,,,a}1] [,c,,a/] ,d a1 a | [,,d{,,,a}1] [a,,,e] [c,,a] [e,,,c] | \
+[f,,,a1] [acd] [cdda] [,d,,c] | [a,,,c1] [,c,,a] [,a,a] ,,,c |"
+41;;34;Ballet / PREMIER CHAN.;;;OT;;C;"[,,a{a}/] ,,b ,,d ,a ,,d1 [,,d,,c] | [,,d{a}1] ,,,a/ ,,b ,,a1 ,,,a | \
+[,,d,,c1] [,,da] [,,b,,d] [,,a{a}] | \
+[,,,c{,,,a}1] [,,a{a}/] ,,c ,,d ,a [,,c,,a1] |"
+42;;34;SECOND;;;OT;;C;"[cdda2] | [acd,a2] [ddf,,d] | [cdd{a}3/2] f/ [ea,,,a3/2] h/ | \
+[f{,,,a}1] [,c,,a/] ,d a ,c [c,,a] ,d | \
+a/ ,,,,a ,,d ,a ,c ,d [,a,,,a1] |"
+43;;35;Ballet / PREMIER CHANT;;;OT;;C;"[bdda2] [abd,a] | [,dedb2] [bdd,b] | [,,effd1] ,,d/ ,,,f [,,da{a}] ,,,,d [,d,,b1] | \
+[,cdca1] [,,dc/] ,,,,,d [,dd,,b1] [aab,,a/] ,c |"
+44;;35;SECOND;;;OT;;C;"[cdda1] [cdd/] ,,,c [f,,e1] [ddff] | [cdda1] a/ c [ddf,,d1] [cdda] | \
+[acd,a1] c/ e [f,,a1] [ea,c] | [ffh,a1] {,,,a} [ffhh] a/ c |"
+45;;35;TROISIESME;;;OT;;C;"[cdd{a}3/2] d/ f1 [f,,,a] | [fdaa1] [f,a] [h,,f] [f,,,a] | \
+[fdaa1] [,d{a}/] a [c,,a] d [acd,a1] | [,daa{a}1] ,,,,a ,,,a2 |"
+;;;Courantes;;;;;;
+46;;36;Courante de la Reyne / PREMIERE COURANT;Robert Ballard;;OT;ConcR341;3;",f1 | [ffgh1] [h,f] ,,,g | [if,h3/2] h/ f1 | [eff,,a1] a [if,h/] ,h | \
+[hif1] [,fg] f | [e,f,,a1] [af] [f,dd/] ,a |"
+47;;38;SECONDE;;;OT;;3;",,d1 | a1 ,,,c [,ac] | [,bd1] ,,b [,d,d] | [a,,c3/2] ,d/ [,b,,a1] | \
+[,a,,h1] ,,,f [,,dcd] | [,a,a1] ,,,c/ ,b ,d ,a |"
+48;;40;TROISIESME;;;OT;;3;"a1 | [abd,a3] | [,d,,c1] ,,b ,,,d | [,bbcd1] {,a} ,,,,d | \
+[,bbc2] [,aba,d1] | [,,dca1] {,,,a}/ ,a ,b1 | \
+[,,b,,a1] ,,d [,,,d,b] |"
+49;;42;QUATRIESME;;;OT;;3;"a1 | [abdca1] {,,,a}/ c a1 | [ffg,a1] ,,,h/ h f1 | \
+[eff,,a1] ,,,c ,,,a | [ff,,e1] ,,d/ d [c,,a1] | \
+[da1] ,,,,,d/ b [a,,,d1] |"
+50;;44;CINQUIESME;Robert Ballard;Courant La Bontade;OT;Conc_1670;3;"{,,,a}1 | [,bdc2] {a}1 | [,ddd3/2] ,b/ ,a ,,d | ,,c1 ,,,,,a ,,,,c | \
+[,,cc2] d1 | [dfg,d1] {,a} [dfg] | [f,,,a/] d c1 [,ea,c] |"
+51;;46;SIXIESME;Robert Ballard;Courant de la Durette;OT;ConcR431;3;",,,c1 | [,,dca1] {,,,a}/ ,a ,b1 | ,a1 ,,d [aa,c,e] | \
+[abd,a3] | ,d1 ,,,,c ,,b | [abb,d1] ,,,c/ b d1 | \
+[,bdd1] ,,,c [,a,df] |"
+52;;48;SEPTIESME;Robert Ballard;Courant de la Reine;OT;ConcR433;3;",,d1 | ,b1 ,,,,a [,acc,a] | [,bdca3/2] ,a/4 ,b [,d,,c1] | \
+[a,,,d1] ,,,,a/ ,d ,b1 | [,abc1] ,,,a [a,,,d] | \
+[,db1] ,,,,,d [,b,a] |"
+53;;50;HUITIESME;;;OT;ConcR511;3;",,b1 | [,,bcd1] {,a}/ ,,d ,,b1 | ,,,c1 ,,,,d a | \
+[abb,d1] {,a}/ b a1 | [,bb1] [d,,c] ,,,,d | [bbdd,b3] | \
+[abb,d1] {,a}/ d b a |"
+54;;52;NEUFIESME;;;OT;Conc_1760;3;",c1 | [,cdca3/2] ,d/ [a,,,e1] | [,,def1] ,,,,e [,dc,c] | \
+[,cdca3/2] ,a/4 ,c ,,d1 | [,a,,,e1] ,,,c/ ,c [,,d,,c] ,a | \
+[,,c,,a1] [a,,c] [ca,b] |"
+55;;55;DIXIESME;?Robert Ballard;La Courant Sarabande;OT;Conc_1756;3;",,d/ ,a ,c ,d | [acd,a3/2] c/ a1 | [,c,,a1] ,,d [aac,,e] | \
+[acd,a3] | [cdda1] {a}/ a ,d a | [,c,,a1] {,,,a} ,,,,a |"
+56;;56;UNSIESME;;;OT;;3;",f1 | [ffg,,f1] ,,,h/ h i1 | [hf,g1] f h | f1 ,,,,,f ,,,,h | \
+[ffgh2] [abd1] | c1 [,ab] d | [f,,d1] ,d ,,d |"
+57;;58;DOUSIESME;;;OT;;3;"a1 | [ffg,a2] a1 | [da,c,a1] [caa,c3/2] a/4 c | a1 ,,,,d/ b a1 | \
+[,dba,d1] a ,d | [,bdca3/2] ,d/ [,a,,,d1] | \
+[,b,,a1] [,,d,,b] ,d |"
+;;;Les Angeliques;;;;;;
+58;;60;PREMIERE;René Saman / Robert Ballard;Courant;OT;ConcR362;3;",,b1 | [,bbcd3] | ,d1 ,,,,c ,,b | [abb,d1] {,a} ,,,,d | \
+[abbc1] ,,,,c ,d | [abb,d1] ,,,a/ ,d a b | \
+d/ ,,,c ,,b b [a,,,d] b |"
+59;;62;SECONDE;Robert Ballard;Volt / Courant;OT;ConcR396;3;"d1 | [dfg,d1] {,a}/ f d1 | [f,,d1] [hiif3/2] f/4 h | \
+i1 {,a} ,,,f | [ifg2] [hiif1] | [ffgh1] ,,,c [dbb] |"
+60;;64;TROISIESME;;Courant;OT;;3;",,d1 | [,,da{a}1] ,,,a/ ,a ,,d ,,b | ,,a1 ,,,a ,d | \
+[,dda{a}1] ,,,a/ a ,d ,,,c | [,cde1] ,,,c [,dfa] |"
+61;;66;QUATRIESME;;Courant;OT;Conc_3462;3;",c1 | [,cdc{,,,a}1] ,,,,a/ ,d a1 | [,c{,,,a}3/4] ,a/4 ,,d1 [aa,c,e] | \
+[acdca1] {,,,a} ,,,,a | [acd2] {a}1 | [,daa2] [a,d,e1] | \
+[cdda1] a ,,,,a3/4 ,,d/4 |"
+62;;68;CINQUIESME;;Courant;OT;Conc_3464;3;",,,c1 | [,,dca1] {,,,a}/ ,a ,,d1 | [,acc,a1] ,,,c/ ,c ,d a | \
+[,c,,a1] {,,,a} ,,,,a | [,cdc1] ,,,,,e ,a | \
+,,,,,c1 [,,dee] ,,,,,a |"
+63;;70;SIXIESME;;Courant;OT;Conc_103;3;",,,a1 | ,,b1 ,,,,,d [,,bac] | [,,da{a}1] ,,,a/ ,a ,b ,d | \
+,a1 {,,,a} ,,,,,d | [,aba2] ,d1 | [,dba,d1] ,,,,,c [,dd] | \
+[adb,,a1] ,c3/2 d/ |"
+64;;72;SEPTIESME;;Courant;OT;;3;",,f1 | [,,ff,d1] ,,,,f ,,,f | ,d1 {a} [,,da] | ,a1 {,,,a} ,,,,,d | \
+[,aba2] ,d1 | ,,,f1 [,df] ,,,e | [,,bc1] ,c ,,d |"
+65;;74;HUITIESME;;Courant;OT;ConcR344;3;",,d1 | ,d1 ,,,a [a,d,e] | [bdda1] [a{a}/] b [,d,a] b | \
+[a,,,a1] {,,,a} ,,,,a | [abdc3/2] ,d/ [,b,,a1] | \
+[,a,,,a1] {a} [,,d{,a}] |"
+66;;76;NEUFIESME;;Courant;OT;;3;",d/ a | b1 ,,,a [a,d,e] | [,dddf1] [,cdca3/2] ,a/4 ,c | \
+,a1 ,,,a [a,d,e] | [bdda1] a/ b ,d b | a1 ,,,,a [acd] |"
+67;F dur;78;DIXIESME / Fin des favorites d'Angélique;Robert Ballard;Courant L'Amoresque;OT;ConcR591;3;"{,,,a}1 | [,cdc2] {a}1 | [,daa2] {,,,a}1 | [acd2] {a}1 | \
+[cdd3/2] a/ ,d a | [c,,a1] [ac,,a3/2] ,d/4 a | \
+[,d,a2] {,,,a}1 | [,cdc1] ,,,,a ,,,,,d |"
+68;;79;COURANTE;;;OT;;3;",,d1 | [,,da{a}1] ,,,a/ ,a ,,d1 | [,aba,d1] [,c,ca3/2] ,a/4 ,c | \
+,d1 {a} ,,,a | a1 ,,,,e ,,d | [cdda1] {a}/ a ,d a |"
+69;;80;COURANTE;Robert Ballard;;OT;ConcR381;3;",,,c1 | ,,b1 ,,,c [,,aa] | [,,b,d1] ,,d ,,,c | [,ab,c1] ,,a ,,,c | \
+,,a1 {,,a}/ ,c ,d1 | [,,b,,a1] ,c [,a,c] | \
+,,,a1 [,,eeec3/2] ,,c/4 ,,e |"
+;;;Voltes;;;;;;
+70;;82;PREMIERE VOLTE;Robert Ballard;Volt / Courant;OT;Conc_1746;3;"a1 ,b ,,d | a1 ,,c ,,d/ ,a | ,b/ ,d [,a,c3/2] ,,d/4 ,a | \
+,,d1 ,,,,a/ ,a ,b1 | ,,d1 [,,b,c] ,,,d |"
+71;;84;SECONDE;;;OT;;3;",b1 ,a ,,d | a1 ,,,c [,da/] ,,c | [,bd1] [,ac,,a3/2] ,,d/4 ,a | \
+,,d1 ,,,,a/ ,a ,b1 | [,a,,c/] ,,d [,,b,d1] ,,d |"
+72;;86;TROISIESME;;;OT;;3;"[,,,c{,,,a}1] ,,,,e ,,,,a | ,,,e1 {,,,a}/ ,,,e ,,,c1 | \
+[,,aa{a}/] ,,c ,,d ,,,,e [,,c,ca1] | [,,dca1] {,,,a} [,,dc] | \
+a/ ,d ,c1 [,,de] |"
+73;;88;QUATRIESME;;;OT;ConcR592;3;"[,,d{,,,a}/] ,a ,c1 [,c,c] | [,,d,a1] {,,,a} [,,dc] | \
+[,c,,a/] ,d a1 [aac,,a] | [,cdca1] {,,,a} [,cdc] | \
+[,c,,a/] ,d a1 [c,,a] |"
+74;;89;CINQUIESME;;;OT;ConcR593;3;"a1 ,c ,,d | c1 ,,,a [a,,c] | [,da1] ,,c/ a [,cd1] | \
+[,a,c1] ,,,,a [,c,,a] | ,,d1 [,ac,,a3/2] ,,d/4 ,a | \
+[,c,,a3/2] ,a/4 ,c ,,d1 |"
+75;;90;SIXIESME;;Printing error: 91;OT;;3;",,,c/ ,,a ,,c1 ,,,c | ,a1 ,,,,,a [,c,,a/] ,e | a1 c [,ea,c] | \
+[af,,,a1] ,,,,c ,,,c | a/ c e1 [a,,,e] |"
+76;;91;sans titre;;Printing error: 92 - Handwritten addition;OT;;3;"b1 | [,dd{a}3] | [dde,,d3/2] f/ [b{a}] d | [acd,a1] {,,,a} ,,,,a | \
+[acd3] ,,,,,b1 | [bbddd2] [d,,c1]| \
+[f,,d1] ,,,,d/ f [d{,a}] ,f |"

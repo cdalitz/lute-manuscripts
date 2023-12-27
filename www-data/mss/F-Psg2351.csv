@@ -1,0 +1,214 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;1r;[sans titre];;;Guitar;;none;"!strumdown![,bcc1] !strumup![,bcc] !strumdown![,bcc] \
+!strumdown![,d,,c3/2] !strumup![,bcc/] !strumdown![,bcc1] \
+!strumup![,bcc] !strumdown![,b,Xa3/2] !strumdown![,,bcc/] \
+!strumdown![,,bcc1] !strumup![,,bcc2] || \
+!strumdown![,b,cd1] !strumup![,b,cd] !strumdown![,b,cd] \
+!strumdown![bbcdd3/2] !strumup![,b,cd/] !strumdown![,b,cd1] \
+!strumdown![,b,cd2] (3d/ b a) [,b,Xa2] ||";french5tab
+2;;1v;Sarabande - Dites-moi, belle, je vous prie;;;Guitar;;none;"!strumdown![cdc1] !strumup![cdc] !strumdown![cdc] \
+!strumdown!X[cdc3/2] !strumup![cdc/] !strumdown![cdc1] \
+!strumdown![dd,,c1] !strumup![dd,,c] !strumdown![dd,,c] \
+!strumdown!X[cdc3/2] !strumup![,ccc/] !strumdown![,ccc1] \
+!strumdown![,ccc] !strumup![,ccc] !strumdown![,ccc] \
+!strumdown![,ccc3/2] !strumup![,ccc/] !strumdown![,ccc1]";french5tab
+3;;1v;Passacaille;;;Guitar;Conc_1050;none;"!strumdown![,b,cd1] !strumup![,b,cd] !strumdown![,b,cd] \
+!strumdown!,,,,c !strumup![,b,,c] !strumdown![,bcc] || \
+!strumdown![,bcc1] !strumup![,bcc] !strumdown![,bcc] \
+!strumdown![,b,Xa3/2] !strumup![,b,cd/] !strumdown![,b,cd1] || \
+!strumdown![dd,,c1] !strumup![dd,,c] !strumdown![dd,,c] \
+!strumdown![bdc1] !strumup![bdc] !strumdown![bdc]";french5tab
+4;;2r;Boemiene Sarabande;;;Guitar;;none;",,,a1 X[a,,,a2] !strumdown![bdc3/2] (3d/ b a) ,,,a \
+!strumdown!Xd3/2 (b/ Xa1) b (d/ b a) ,d || \
+,,,a1 f2 ,,,,a1 (,a/ ,b)";french5tab
+5a;;2v;La Sylvie Sarabande;;;Guitar;;none;"!strumdown![,b,cd1] !strumup![,b,cd] !strumdown![,b,cd] \
+!strumdown![,Xa,,c3/2] !strumup![,bcc/] !strumdown![,bcc1] \
+!strumdown![,bcc1] !strumup![bbcc] !strumdown![,bcc] \
+!strumdown![,b,Xa3/2] !strumup![,b,cd/] !strumdown![,b,cd1] || \
+!strumdown![dd,,c1] !strumup![dd,,c] !strumdown![dd,,c] \
+!strumdown!Xb3/2 !strumup![,bcc/] !strumdown![,bcc1]";french5tab
+_5b;;2v;La Sylvie a pincer;;;Guitar;;none;",b1 ,,,a a X,a2 ,,,,a1 X,a ,b [,b,Xa] !strumdown![,b,cd1] || \
+d1 ,,a d Xbn2 a1 ,,,,a Xa b";french5tab
+6a;;3v;Il est vrai, je scai, qu'en aimant;;vedi f. 15v;Staff;;none;;french5tab
+_6b;;3v;T.re: Il est vrai, je scai, qu'en aimant;;vedi f. 15v;Guitar;;none;"!strumdown![,b,cd3/2] [,d,,c/] !strumdown![,d,,c1] \
+!strumdown![,b,cd2] !strumdown![,b,cd1] \
+!strumup![,b,cd1] !strumdown![,d,,c3/2] !strumup!a/ \
+!strumdown![,bcc1] !strumup![,bcc] !strumdown![,bcc] \
+!strumup![,bcc] !strumdown![,,bcc3/2] !strumup![bbcd/] \
+!strumdown![bbcd1] !strumup![bbcd] !strumdown!X[,aaa] \
+!strumup![,baa1] !strumdown![,d,,c] !strumup![d,,,c]";french5tab
+7;;4v;Sarabande - A pincer;;;Guitar;Conc_1050;none;"X,a1 ,,a ,,,,a X,a2 ,,,a1 X,b2 ,a1 X,,,,a2 ,,a1 || \
+,d ,,,a a X,b2 ,a1 X,a2 ,,,,a1 X,,,,a2 ,,a1 ||";french5tab
+8;;5r;Branle de Normandie - Un beau garson se presente;;;Guitar;;none;",,a1 ,b ,,a ,b X,a ,b/ !strumdown!,d1 ,,a ,d !strumdown!,d \
+(,b/ ,d) a [,b,Xa] !strumdown![,b,cd2] ||";french5tab
+9;;5r;Sarabande;;;Guitar;;none;",d1 X,a ,b !strumdown!,d ,,a ,,,a (3a/ c d) X[a,,,a2] ,,,a1 || \
+X,a2 ,,,,a1 X,,c X,,,,a (,a/ ,b ,d1)";french5tab
+10;;5v;Branle de la Musete;;;Guitar;;none;"X[a,,,a1] Xc ,,,a Xa2 X,c1 ,,,,a Xa2 Xc1 ,,,a Xa2 ,,,,a || \
+(,a/ ,c ,d1) X,c2 X,a1 ,,,,a X,a ,,,,a";french5tab
+11;;6r;Branle de St. Nicolas;;;Guitar;Conc_4434;none;"!strumdown![,b,cd1] !strumup![,b,cd] !strumdown![,b,cd] \
+!strumup![,d,,c] !strumdown![,b,cd3/2] !strumup![,b,cd/] \
+!strumdown![,b,cd2] !strumdown![dd,,c1] !strumup![dd,,c] \
+!strumdown!b !strumup!Xb !strumdown![,b,cd2] || \
+!strumdown![,b,cd/] !strumup![,d,cd] !strumdown![,b,cd1] \
+!strumup![,b,cd] !strumdown![,d,,c] !strumup![,d,,c] \
+!strumdown!X[,bcc3/2] !strumup![,,bcc/] !strumdown![,,bcc2] ||";french5tab
+12;;6v;Sarabande de P. d. Dialogue - Si je meurs pour un berger;;;Guitar;Conc_1900;none;"!strumdown![,bcc1] !strumup![,bcc] !strumdown![,bcc] \
+!strumdown![,bcc3/2] !strumup![,bcc/] !strumdown![,bcc1] \
+!strumdown![bdc1] !strumup![bdc] !strumdown!X[adc] \
+!strumdown![,d,,c3/2] !strumup![,d,,c/] !strumdown![,d,,c] \
+!strumdown![,b,cd1] !strumup![,b,cd] !strumup![,b,Xa] \
+!strumdown![,bcc3/2] !strumup![,bcc/] !strumdown![,bcc1] \
+!strumdown![,d,,c1] !strumup![,d,,c]";french5tab
+13;;7r;Branle de Poitou;;;Guitar;;none;"(3,a/ ,b ,d) (3,a/ ,b ,d) !strumdown!,d1 ,d X,a ,,a \
+(3,a/ ,b ,d) (3,a/ ,b ,d) !strumdown!,d1 ,d X,a ||";french5tab
+14;;7v;Petite Roialle Courante - Allons a Paris chers enfants;;;Guitar;;none;"a/ | !strumdown![,b,cd1] ,,,,a X,a ,b [,b,Xa] ,b/ !strumdown!X[,aaa3/2] \
+,b/ !strumdown!,d a Xa ,d/ !strumdown![,d,Xa3/2] ,b/ X,a1 \
+,b !strumdown![,bcc3/2] ,,,,a/";french5tab
+15;;8r;Gavotte - O valet comment as-tu nom?;;;Guitar;;none;",b1 d Xa b !strumdown!d d ,b d Xa b !strumdown![dd,,c2] || \
+!strumdown![,b,cd1] ,b X,a ,b !strumdown!,d a Xb a";french5tab
+16;;8v;Gavotte;;;Guitar;;none;"!strumdown![,b,cd1] a !strumdown![,b,cd3/2] d/ !strumdown![db,cd1] \
+d1 !strumdown![db,cd2] [f,,,a1] X[b,,a] d a [,b,Xa3/2] \
+(,b/4 ,d a1) ,b !strumdown![,b,cd1] a !strumdown![,b,cd3/2] d/ \
+!strumdown![db,cd1]";french5tab
+17;;9r;Dame françcoise. Sarabande;;;Guitar;Conc_284;none;"!strumup![,b,cd1] !strumdown![dd,,c2] !strumdown![dd,,c3/2] \
+!strumup![dd,,c/] !strumdown![dd,,c1] !strumdown!Xb3/2 \
+!strumup![,b,cd/] !strumdown![,b,cd1] !strumdown![,b,Xa3/2] \
+!strumup![,b,cd/] !strumdown![,b,cd1] || \
+!strumup![,b,cd1] !strumdown![,b,cd2] !strumdown![,d,,c3/2] \
+!strumup![,bcc/] !strumdown![,bcc1] !strumdown![,bcc]";french5tab
+18;;9r;Air - Madonte je ne puis exprimer;;;Guitar;;none;"!strumdown![dd,,c1] !strumup![dd,,c] !strumdown![dd,,c] \
+!strumdown!X[cdc3/2] !strumup![,,,cc/] !strumdown![,,,cc1] \
+!strumdown![,b,cd1] !strumup![,b,cd] !strumdown![,b,cd] \
+!strumdown!X[cdc3/2] !strumup![dd,,c/] !strumdown![dd,,c1] || \
+!strumdown![fdc1] !strumup![fdc] !strumdown![fdc] \
+!strumdown![h,,,f3/2] !strumup![h,,,f/] !strumdown![h,,,f1] \
+!strumup![dd,,c1] !strumup![dd,,c] !strumdown![dd,,c]";french5tab
+19;;9v;Bergamasque;;;Guitar;;none;",a/ | !strumdown!X[,aaa1] ,,a/ ,d !strumdown!,d1 X,a1 \
+!strumdown![,b,cd3/2] a/ ,d ,b X,a1 ,,a/ ,a !strumdown!X[,aaa1] \
+,,a/ ,,d !strumdown!,d1 X,a1";french5tab
+20;;10r;Chanson a danser - Face qui voudra l'amour;;;Guitar;;none;"!strumdown![,b,cd3/2] ,d/ !strumdown![,d,,c1] a/ Xa ,b !strumdown![,d,,c3/2] :||: \
+!strumdown![,b,cd1] ,d Xa (3a/ b d) a1 [,b,Xa] ,b !strumdown![,d,,c1] \
+,,,a a ,b X,,,a";french5tab
+21;;10r;Vaudeville;;;Guitar;;none;"b/ !strumdown![,b,cd] ,b X,a b !strumdown![,d,,c1] \
+,,,a/ a b Xa1 !strumdown![,d,,c3/2] || ,d/ !strumdown![,d,,c3/2] \
+a/ X,,,a1 ,b X,a/ ,b !strumdown![,d,,c1]";french5tab
+22;;10v;Courante - Cruel Tyran;;;Guitar;;none;",b/ !strumdown![,b,cd3/2] ,d/ !strumdown![,b,cd1] a Xa3/2 ,,,a/ \
+!strumdown![,b,cd1] !strumup![,b,cd2] ,b1 Xa b !strumdown!d3/2 \
+,d/ !strumdown![,d,,c1] a1 Xa3/2 ,d/ !strumdown![,d,,c2] \
+!strumdown![,d,,c] ||";french5tab
+23;;10v;Gavotte;;;Guitar;;none;"(3d/ b a) ,,,a ,b ,d X,a3/2 ,b/ !strumdown![,b,cd1] ,d Xa b d f \
+!strumdown!X[cdc3/2] d/ !strumdown![dd,,c2] ||";french5tab
+24;;11v;Sarabande de Dame françoise;;;Guitar;Conc_284;none;"!strumdown![,b,cd1] !strumup![,b,cd] !strumdown![,b,cd] \
+!strumdown![,b,cd3/2] d/ d1 Xb d a [,b,Xa] !strumdown![,b,cd1] || \
+Xa2 b1 d ,,,a3/2 a/ b1 ,,,,a X,a ,b1";french5tab
+25;;11v;Entrée de ballet;;;Guitar;;none;"!strumup![dd,,c/4] !strumdown![dd,,c3/4] !strumup![cdc/4] \
+!strumdown![cdc3/4] !strumup![,,,cc/4] !strumdown![,,,cc1] \
+!strumdown![,,,cc3/4] !strumup![,b,cd/4] !strumdown![,b,cd3/4] \
+!strumup![cdc/4] !strumdown![cdc3/4] !strumup![dd,,c/4] \
+!strumdown![dd,,c1] !strumdown![dd,,c3/4] || !strumup![h,,,f/4] \
+!strumdown![h,,,f1] !strumdown![h,,,f3/4] !strumup![,b,cd/4] \
+!strumdown![,b,cd1]";french5tab
+26;;11v;Carillon du ballet;;;Guitar;;none;"!strumdown![dd,,c/] !strumdown![dd,,c1] !strumdown![,b,cd/] \
+!strumdown![,b,cd1] !strumdown![dd,,c/] !strumdown![dd,,c1] \
+!strumdown![cdc/] !strumdown![dd,,c1] || !strumdown![h,,,f/] \
+!strumdown![h,,,f1] !strumdown![,b,cd/] !strumdown![,b,cd1] \
+!strumdown![dd,,c/] !strumdown![dd,,c1] !strumdown![cdc1] \
+!strumdown![dd,,c3/4] || !strumup![dd,,c/4] !strumdown![dd,,c1]";french5tab
+27;;12r;Autre ballet;;;Guitar;;none;"!strumup![dd,,c/] !strumdown![dd,,c1] !strumdown![,d,,c] \
+!strumup![,bcc/] !strumdown![,bcc1] !strumdown![,b,cd1] \
+(3,d/ ,b ,a) ,,,,a1 X,a ,,a !strumup![dd,,c/] !strumdown![dd,,c1] \
+!strumdown![,d,,c1] !strumup![,bcc/] !strumdown![,bcc1] \
+!strumdown![,b,cd/] !strumup![,b,cd]";french5tab
+28;;12v;feuillantines;;;Guitar;;none;",b1 ,d !strumdown![,b,cd1] a (3a/ b d) Xa2 ,,,a1 a \
+!strumdown![,b,cd2] X,a3/2 ,b/ !strumdown!,d a ,b3/2 \
+,d/ !strumdown![,d,Xa2] ||";french5tab
+29;;12v;Lerida [cont'd on f.13r bottom];;chanson sur le siège de Lérida par Condé;Guitar;;none;",b2 ,,a !strumdown![,b,cd] ,d a ,b !strumdown![,d,Xa] || \
+!strumdown![,bcc2] ,,c1 X,,,,a ,,a ,,,,a X,a2 ,b2 ,,a1 || \
+!strumdown![,b,cd3/2] (,d/ ,b ,a) X,,,,a2";french5tab
+30;;13r;Autres feuillantines;;;Guitar;;none;"!strumdown![,b,cd1] !strumup![,d,cd] !strumdown![,b,cd1] \
+!strumup![,b,cd] !strumdown![,b,cd] !strumup![,b,cd] \
+!strumdown![,b,cd3] !strumdown![,d,,c1] !strumup![,d,,c] \
+!strumdown![,b,cd3] !strumup![,d,,c/] !strumdown![,d,,c1] \
+!strumup![,d,,c] !strumdown![,b,cd3/2] !strumup![,d,,c/] \
+!strumdown![,d,,c2] ||";french5tab
+31a;;13v;Rejueuse;;;Guitar;;none;"!strumdown![bdc3/2] !strumup![bdc/4] !strumup![bdc] !strumdown![bdc1] \
+!strumdown!X[bdc3/2] !strumup![dd,,b/4] !strumup![dd,,b] \
+!strumdown![dd,,b1] !strumdown![dd,,b3/2] !strumup![bdc/4] \
+!strumup![bdc] !strumdown![bdc1] !strumdown!X[accc3/2] \
+!strumup![bdc/4] !strumup![bdc] !strumdown![bdc1] ||";french5tab
+_31b;;13v;La mesme a pincer;;;Guitar;;none;"[bdcaa1] [bdc] ,,,,a X[bdcaa2] ,,a1 (3a/ b d) [b,,a1] \
+X[a,,,a2] [,d,a1] || b1 Xa ,,,a X[,c,,a] ,,,,a ,a X,c ,d";french5tab
+32;;14r;Batterie;;;Guitar;;none;"!strumdown![dd,,c/] !strumdown![dd,,c] !strumup![dd,,c] !strumup![dd,,c] \
+!strumdown![dd,,c1] !strumdown![cdc3/2] !strumup![,,,cc/] !strumup![,,,cc] !strumdown![,,,cc1] \
+!strumdown![,b,cd/] !strumdown![,b,cd] !strumup![,b,cd] !strumup![,b,cd] \
+!strumdown![,b,cd1] !strumdown![cdc3/2] !strumup![dd,,c/] \
+!strumup![dde,,c] !strumdown![dd,,c1] ||";french5tab
+33;;14v;Chanson a danser - Sous nostre orme, le matin;;;Guitar;;none;",b/ ,,a !strumdown![,b,cd1] ,d a X,,,a [,b,cd] Xa ,,,a Xa1 \
+(3a/ b d) ,,,a1 Xa ,d !strumdown![,d,Xa2] ||";french5tab
+34;;15r;Chanson a danser - Robin est d'humeur gentille;;;Guitar;;none;",,a1 ,b !strumdown![,b,cd] ,d X,a3/2 ,b/ !strumdown!,d1 ,d \
+!strumdown![,b,cd1] a Xa ,d !strumdown![,d,Xa2] || \
+,,,a1 a ,b ,d !strumdown!X[,aaa]";french5tab
+_6c;;15v;Air a Pincer - Il est vrai je scai qu'en aimant;;vedi f. 3v;Guitar;;none;"!strumdown![,b,cd2] X,,,a1 !strumdown![,b,cd2] Xa1 a \
+X,,,a3/2 a/ [,b,,a1] ,b X,b ,d !strumdown!X[,aaa3/2] ,b/ \
+!strumdown![,bcc1] ,,,,a X,a ,b !strumdown!,d";french5tab
+35;;16v;La Royalle Courante;;;Guitar;;3;",b/4 | !strumdown![,b,cd3/2] ,d/ X,a1 ,b !strumdown![,d,,c3/2] ,,,a/ | \
+Xa1 ,b d a Xb3/2 d/ | !strumdown![,b,cd2] [b,,,a1] X[b,a3/2] a/ | \
+!strumdown![bbcdd3/2] (3a/ b d) f1";french5tab
+36;;17r;N'entendez-vous point ce langage;;;Guitar;;none;"!strumdown![,b,cd1] X,b1 ,,a/ ,b !strumdown![,d,,c1] \
+a1 (3d/ b a) X,,,a2 !strumdown![,b,cd3] a1 Xa b \
+!strumdown![,d,Xa1] ,,,a a ,b !strumdown![,bcc1] ,,,a/ ,d";french5tab
+37a;;17v;Tricotez;;;Guitar;;none;"d1 !strumdown!Xd3/2 !strumup![,b,cd/] !strumdown![,b,cd1] f \
+!strumdown![fdc3/2] !strumup![dd,,c/] !strumdown![dd,,c1] d \
+!strumdown!Xd3/2 !strumup![,b,cd/] !strumdown![,b,cd1] f \
+!strumdown![fdc2] !strumdown![dd,,c1] || \
+a !strumdown![,b,cd1] ,b !strumdown!,d1";french5tab
+_37b;;17v;autre a pincer;;;Guitar;;none;"d1 !strumdown!Xd3/2 b/ Xa1 f X[f,,a] !strumdown![dd1] || \
+a Xa ,b !strumdown!,d1 a Xa ,,,a/ a ,b (3d b a) ,,,a ,b";french5tab
+38;;18r;Petits[..?..];;;Guitar;;none;"!strumdown![db,cd3/2] !strumup![db,cd/] !strumdown![db,cd1] \
+!strumdown![,b,cd1] a X,,,a !strumdown![,bcc3/2] !strumup![,d,,c/] \
+!strumdown![,d,,c1] !strumdown![,b,cd2] a1 !strumdown![db,cd3/2] \
+!strumup![db,cd/] !strumdown! [db,cd1] !strumdown![,b,cd] \
+a X,,,a !strumdown![,bcc3/2] !strumup![,d,c/] \
+!strumdown![,d,c1] !strumdown![,b,cd2] ||";french5tab
+39;;18v;Marion;;;Guitar;Conc_1050;none;",,a1 | X,a2 ,,a1 X,a2 ,,c1 (,a/ ,b ,d1) ,,,a1 X,a2 ,,,,a1 X,,c2 \
+,,,,a1 X,,c2 ,,,,a1 ,d X,b ,a";french5tab
+40;;18v;[sans titre];;;Staff;;none;;french5tab
+41;;19r;Allemande;;;Guitar;;none;"h/ !strumdown![h,,,f1] !strumdown![h,,,f3/2] f/ !strumdown!X[fhh/] \
+f/ Xf h !strumdown![,b,cd1] !strumdown![,b,cd/] ,d !strumdown![dd,,c] d \
+!strumdown![cdc3/2] !strumup![,ccc/] !strumdown![,ccc] ,,,,a ,,,c \
+!strumup![cdc] !strumdown![cdc]";french5tab
+42;;19v;Gavotte d'anjou;;;Guitar;;none;"a/ | !strumdown![,b,cd1] a Xa ,b Xd3/2 !strumup![,b,cd/] !strumdown![,b,cd2] \
+!strumdown![fhh1] !strumdown![fhh1] !strumup![hhh/] \
+!strumup![ifffh/] !strumdown![ifffh1] f !strumdown!Xd3/2 \
+b/ !strumdown![,b,cd2] ||";french5tab
+43;;20r;Sig Visages;;;Guitar;;none;",,,a1 X[a,,,a2] ,,,a1 !strumdown![bdc3/2] (d/ b a) ,,,a1 \
+!strumdown!X[,ccc1] ,d X[a,,,a3/2] b/ [d,a] X[b,,a] \
+X[a,,,a2] [,d,a] ||";french5tab
+44;;20v;Grand Guempe [?] - point du Guerre;;;Guitar;;none;"!strumdown!Xd3/2 !strumup!f/ !strumdown!Xd1 ,,,a \
+!strumdown!Xd3/2 !strumup!f/ !strumdown!Xd1 ,,,a \
+!strumdown![,b,cd1] a X,a ,b !strumdown![,d,Xa2] || \
+d1 !strumdown!Xd1 d Xd c !strumdown![,b,cd2]";french5tab
+45;;21r;Italienne;;;Guitar;;none;"!strumdown![,b,cd1] !strumup![bb] !strumdown![dd,,c] !strumup![dd,,c] \
+!strumdown![,d,,c1] !strumdown![fdc3/2] !strumdown![fdc/] \
+!strumup![fdc1] !strumup![fdc] Xd !strumup![,b,cd] || \
+!strumdown![,b,cd1] !strumup![,b,cd] !strumdown![,b,cd] \
+!strumdown![,d,,c] ,,,a a ,,,,a X,a ,b";french5tab
+46;;21r;Air en batterie - Nuict agréable, mère des plaisirs;;;Guitar;;none;"!strumdown![,b,cd1] !strumdown![,b,cd3/2] !strumup![bbcdd/] \
+!strumdown![bbcdd1] !strumdown![bbcdd3/2] !strumup!d/ \
+!strumdown![,b,cd1] !strumdown![,b,Xa3/2] !strumup![,b,cd/] \
+!strumdown![,b,cd1] !strumdown![,b,cd2] !strumdown![bbcdd3/2] \
+!strumdown![dd,,c/] !strumup![,dc/] !strumdown![,dc1] \
+!strumdown![,dc] !strumup![,dc] !strumdown![dd1]";french5tab
+47;;21v;L'autre jour, en me promenans;;;Guitar;;none;"!strumdown![,b,cd1] !strumdown![,b,cd3/2] !strumup![,b,cd/] \
+!strumdown![,b,cd1] !strumdown![bbcdd1] !strumup![bbcdd] \
+!strumdown![bbcdd] !strumdown![,b,cd1] !strumup![,b,cd] \
+!strumdown![,b,cd] !strumdown![,d,,c3/2] !strumup![,d,,c/] \
+!strumdown![,d,,c1] !strumdown![,b,cd1] !strumup![,b,cd] \
+!strumdown![,b,cd]";french5tab
+48;;22r;Quoi ! voulez-vous estre tous jours mauvaise;;;Guitar;;none;"!strumdown![dd,,c1] !strumup![dd,,c] !strumdown![fdc] \
+!strumdown!X[cdc3/2] a/ ,,,a1 !strumdown![,b,cd] a X,,,a \
+!strumdown!X[,bcc3/2] !strumup![,,bcc/] !strumdown![,,bcc1] \
+!strumdown![,b,cd1] a X,,,a !strumdown!X[,ccc3/2] \
+!strumup![,ccc/] !strumdown![,d,,c1]";french5tab
+49;;22v;[sans titre];;;Guitar;Conc_1050;none;"X,a ,,a X,a ,,,,a (,a ,b ,d) ,,,a X,a ,,,,a ,,c ,,,,a \
+,,c X,,c ,,,,a (,a ,b ,d ,a) X,,,,a ,,a ||";french5tab

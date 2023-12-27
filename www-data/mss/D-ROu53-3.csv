@@ -1,0 +1,63 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+;;Mus Saec XVIII-53,3a: [Suite in A] Del Sig. Pichler;Mus Saec XVIII-53,3a: [Suite in A] Del Sig. Pichler;;;;;;
+1;A dur;a1r;Intrada;Pichler;;;Conc_796;C;"[ece,,a/] ,c ,,e ,c ,,a (,,c ,,e) ,a | [,cc{a}1] ,,c ,c/ (,c \
+,e) d | [e{,a}/] ,c ',a ,,e ,a i ['g{,,,a}] ,h | [,'g{,,a}1] \
+,,h ,,h {,,,a} | 
+[V:S] a/e/c/e/ A/B/c/d/ | e1 A1 e/e/f/g/ | \
+a/e/d/c/ d/c'/b/a/ | g1 e1 e1 z1 |  
+[V:B]  A4 | G4 | f3 d1 | e3 d1 |  "
+2;A dur;a1v;Tournèe;Pichler;;;Conc_797;2;",c/ | ([,,a,,a/4] ,,c ,,e) ,a ,c/ V[,ea,a] | [,'c,,,a/] \
+,,a ,,a e | ([,,a,,a/4] ,,c ,,e) ,a ,c/ [,ea,a] | [,'c,,,a/] \
+,,a ,,a ,e | 
+[V:S] e/ | A/4B/4c/4d/4 e/f/ | e/A/ A/a/ | \
+A/4B/4c/4d/4 e/f/ | e/A/ A/a/ | 
+[V:B] a/ | a3/2 d/ | A2 | A3/2 d/ | A2 | "
+3;A dur;a2r;Menuett;Pichler;;;Conc_1781;3/4;"[,,a,,a/] ,,,d ,,a1 V[,,cd{,,a}] | [,,e,,a/] ,,c ,,e1 [,ae,,c] | \
+[,ca,,e1] V[,e,,a] [,ca,,e] | [,a,,,c/] ,,e ,a ,,c [,,e,,a1] | 
+[V:S] A/G/ A1 B1 | c/B/ c1 d1 | e1 f1 e1 | d/c/d/B/ c1 |
+[V:B] a2 e1 | a2 B1 | c1 d1 c1 | B2 A1 | "
+;;Mus Saec XVIII-53,3b: Bigler partie;Mus Saec XVIII-53,3b: Bigler partie;Alte Signatur: 35;Old signature: 35;;;;
+4;A dur;b1r;Entrèe;Pichler;;;;C;",,,,c1 | [,,a,,a] [,,a,,c] [,,a,,e] ([,,a,,a/] ,,c/4 ,,e/4) | [,,cd{,,a}1] {,a} {a} [,,cd{,,a}] | \ 
+([,,e,,a/] ,,a) [,a,,,c] ,,c [,c{4}1] [,e{,,,a}] | [,,cd{,,a}1] {,a} {,,a} ,,,,c | 
+[V:S] E1 | A1 A1 A1 A/B/4c/4 | B2 z1 B1 | c1 d1 e1 f1 | B2 z1 E1 |
+[V:A] E1 | E1 E1 E/E/ F/G/4A/4 | G2 z1 E1 | A/G/A/B/ c1 A1 | G2 z1 E1 | 
+[V:B] z1 | A1 B1 c1 A1 | e1 f1 g1 e1 | A1 B1 c1 A1 | e1 f1 e1 d1 |  "
+5;A dur;b1v;Gavotte;Pichler;;;;C;"[,,ee,a1] [,,cd{,,a}] | [,,ee,a1] [,a,,,c] [,Vc,,,e] [,'a,,a/] ,,e | \
+[,,c{,,a}1] ,,,,c [,,a,,e] [,a,,,c] | [,,e,,a] ([,,c{a}/] ,,e) [,,'a{,a}1] ,,,d/ ,,a | \
+ [,,cd{,,a}1] ,,,,c [,,a{,a}] [,,c{a}] | 
+[V:S] c B | c d e d/c/ | B E A d | c B/c/ A G/A/ | B E A B |
+[V:A] A G | A B c B/A/ | G z c B | A G/A/ F E/F/  | G z F G |
+[V:B] A e | A B c d | e2 c B | A G F2 | e2 f g | "
+6;A dur;b2r;Menutt;Pichler;;;;3/4;"[,,a,,a/] ,,c ,,e ,a ,c ,e | [,ca,,a1] ,,a [,c{4}] | \
+[,e{,,,a}1] (,a/ ,c ,e) ,a | [,c{4}1] ,,a ,c | 
+[V:S] A/B/c/d/e/f/ | e A e  | f d/e/f/d/ | e A e | 
+[V:A] A/G/A/B/c/d/ | c A c | d B/c/d/B/ | c A c |
+[V:B] A3 | A2 c | d3 | e z e |  "
+7;a moll;b2r;Trio;Pichler;;;;3;"[,,a,,a/] ,,,d ,,a1 ,c | [,,a,,a/] ,,,d ,,a1 [,d,,a] | [,c,,,d1] ,a/ (,,d ,,c ,,a) | \  
+[,,,'d{,,a}1] ,,,,e/ ,,,d ',,,,c | 
+[V:S] A/^G/ A e | A/^G/ A f | e d/c/B/A/ | ^G F/G/ E | 
+[V:A] E2 c | E2 d | c B/A/^G/^F/ | E ^F ^G | 
+[V:B] A3 | A2 d | c2 d | e3 |  "
+;;Mus Saec XVIII-53,3c: Bartie von Bigler;Mus Saec XVIII-53,3c: Bartie von Bigler;Alte Signatur: 34;Old signature: 34;;;;
+8;D dur;c1r;Entrèe;Pichler;;;Conc_805;C;"e/ | [ee{,,,a}3/2] (3,,a/4 ,,c ,,e) ,a/ ,e/ [,'cc{a}] ,a | [,,'e,,a1]> ,,c [,,'a1] {a} | \
+[,aa{,a}/] (,a ,c ,e) [ce{,,a}1] [ec{4}] | \
+['baa{,,,a}1]> ,c [,'a1] [,ea{,,,a}] | 
+[V:S] a/ | a3/2 z/4 !(3A/8B/8c/8 d/f/e/d/ | Tc > B A z | \
+z/ (d/e/f/) g a | f > e d f |"
+9;D dur;c1v;Gavotte;Pichler;;;Conc_673;C;"[,aaba1] ,,a ,a ,,a | V[,ca,,e2] (,,a/ ,,c ,,e) ,a | \
+[,ca,,a1] ,,a ,c ,,a | ([,e,,a/] ,c) (,e ,c) ,a2 | \
+[,e,,a1] e (e/ d) e1 | 
+[V:S] d A d A | f2 (A/B/c/d/) | eAeA | (f/e/f/e/) d2 | fA(3a^ga |"
+10;D dur;c1v;Paisane;Pichler;;;Conc_1272;C;"[,aa{,,,a}1] e [,'a] {,,a} | {,a}1 e [,a] {,,a} | \
+{,,,a}1 e ,a [,c{a}] | [,,'e,,a1] (,a/ ,c) ,,a2 | \
+{4}1 e [,,a] {,,,a} | 
+[V:S] zad2 | zad2 | zade | cd/e/A2 | zaAz |"
+11;D dur;c2r;Menuet;Pichler;;;Conc_806;3/4;"[,e{,,,a}/] c/ e1 ,a | [,,'e,,a1] {a} [,aVf{,a}] | \
+{,,a}1 c [cc{,,,a}] | [cca{4}1] (,e/ ,c) [,ea{,,,a}1] | \
+{a}1 g/ ,,e ,,f1 | {,a}1 e/ ,,e ,,f1 | 
+[V:S] (f/g/a)d | c2d| zgg | g(f/e/f) | z(b/c/d)| za/c/d |"
+11a;d moll;[c2r];Trio;Pichler;keine Lautenstimme/no lute part;;Conc_1271;3/4;[V:S] df2- | fe/d/^c | df2- | fe/d/^c | fzz | (ed^c) |
+12;D dur;c2v;Capricio;Pichler;;;Conc_807;3;",,,,a/ ,a ,,,b ,a ,,a ,a | ,,,,a/ ,a ,,,b ,a ,,a ,a | \
+,,,,a/ ,a ,,,b ,a ,,a ,a | {,,,a}/ {,,a} {,a} {a} ,,,,,a1 | \
+[,e,,a/] e ,c e ,a e | 
+[V:S] DFA | DFA | DFA | Dzz | fed | "

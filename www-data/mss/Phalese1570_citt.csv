@@ -1,0 +1,522 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+;;;[Liber I];;;;;;;
+1;;1r;Fantasia;;;Cittern;ConcR3082;C;"d1 d/ c a1 ,a | ,,e1 ,c [ka] [ke/] h | [ge1] [ed] [dc/] e [ga] ,c | \
+[ed/] [ge] [hg] [kh] [ig] [ki] [ig1] |";french4tab
+2;;1v;Fantasia;;;Cittern;ConcR3103;C;"[daac1] [dcad] [caca] | [daac1] [gege] [heeg] [egge] | \
+[gege1] [kggi] [kgig] [igig] | [kggi1] [gege] [heeg] [egeg] | \
+[gege1] [daac] [edea] [caca] |";french4tab
+3;;2r;Fantasia;;;Cittern;ConcR3083;C;"d1 f f/ h | k1 [ka] [hd] [fd/] [fe] | [eg1] [fea/] e [dbd1] ,,d/ ,,e | \
+[eag/] d [eag1] [fed] e/ d |";french4tab
+4;;2v;Allegez moy;;;Cittern;ConcR855;C;"[fede2] [fede1] [edea] | [daab/] [daab] [dbad] [dbad] [caca] a [caca/4] a c d | \
+,,c1 [caca] [daab/] ,,e [daab] ,c |";french4tab
+5;;3v;Susanne un jour;;;Cittern;ConcR198;C;"[daa1] [daab2] | [dbad2] [,aca/] c ,a d | [caca1] [caca] [caca] [caca] | \
+[dbad/] e [fdde1] [eded/] f [fede] e |";french4tab
+6;;4v;D'ou vient cela;;;Cittern;ConcR852;C;"[daab2] [daac/] e f d | [hgeg/] f e d [caca] a c d | \
+[caca1] c [dadc/4] c d e [daac/] e |";french4tab
+7;;5v;Languyr me fais;;;Cittern;ConcR200;C;"[daac/] ,,,a ,,,c ,,,a [daac/4] c d e [daac] c a ,a | \
+[aeed/4] ,a ,c ,d ,c/ ,d [aeed] c [dcac] a |";french4tab
+8;;6v;Tant que vivray;;;Cittern;ConcR854;C;"[kaak/] h k m [kaak1] h | [geae/] e g h [geae1] [geae/] e/4 d | \
+[edea1] [kagi1] [igia/] k g i |";french4tab
+9;;7r;Pis ne me peult venir;;;Cittern;ConcR1786;C;"[daab/] e [feae/4] e f h [feae/] e | [feae1] [fede] [edea/] [daac] [edea] [fede] | \
+[edea/] d/4 e [fede1] [edea/] d [dbd] ,,,d |";french4tab
+10;;7v;La pastorella mia;;;Cittern;ConcR2965;C;"[daa1] [daa] [aeed] | [caca/4] a c d [caca/] a/4 c [daac1] [daac] | \
+z1 [edea] [edea] [edea] | [daac/] c/4 d [caca/]";french4tab
+11;;8v;J'ay trop aymer;;;Cittern;ConcR2967;C;"[gege2] [geae1] e/ g | [daac1] [daac/] e/4 g [hgeg1] h | \
+[edea/4] d e g d e g h [kagi3/2] h/ |";french4tab
+12;;9r;Un advocat dist a sa femme;;;Cittern;ConcR2969;C;"[daac2] [aeed1] [aeed] | [edea/4] d e g [edea/] e [hgeg] ,,g ,,i ,,,i | \
+[gege1] [edea] [edea/] d/4 e [daac/] c/4 d |";french4tab
+13;;9v;Ce mois de may;;;Cittern;ConcR2968;C;"d1 d/ d k1 k | [na1] [na/] ,a [me1] ,e | [kha1] [,ja/] ,,a [,gg1] [ngg/] ,,,k | \
+[nakm1] [nak/] [ma] [kaak/] h [fede1] |";french4tab
+14;;10v;O combien est;;;Cittern;ConcR1725;C;"[daab1] [daab/] c/4 a ,a a c d | \
+[eded/] d c/4 a c d [eded/] d/4 e [daab/] c/4 a |";french4tab
+15;;11v;Le mal;;;Cittern;ConcR3015;C;"[feae2] [feae/4] e d c d/ e | [feae/] e/4 f [eded/] d/4 e [aeed2] | \
+[aeed1] [aeed] [daab/4] c d e [daab/] ,c |";french4tab
+16;;12v;Doulce memoire;;;Cittern;ConcR856;C;"[feae2] [feae/] e d/4 c d e | [fdde1] [edea] [daab/4] c d e d/ c/4 a | \
+[caca/4] a c d [caca/] c";french4tab
+17;;13v;Finy le bien. Response;;;Cittern;ConcR3014;C;"[daa2] [feae/4] e f h [feae/] h | [kak/] m [nak] ,,m [nakm1] m/ k | \
+[ifia/] k k [ig] [kagi2] |";french4tab
+18;;14v;Godt es mijn licht;;;Cittern;ConcR850;C;"[,ag2] [,dg1] [,ea] | [,gge1] [,ge] [,gge] [fea] | \
+[eaca/] d [baca] a [baca1] [daab] | \
+[edea1] [fdde/] ,a [faae1] [ec/] d |";french4tab
+19;;15v;Si mon traveil;;;Cittern;ConcR1726;C;"[geae1] e [daac/4] c d e [daac/] e/4 g | \
+[heeg/4] g h k [heeg/] h [geae] e d c |";french4tab
+20;;16v;Le dueil yssy. Response;;;Cittern;ConcR3016;C;"[geae1] [geae2] | [edge2] [gea1] [geac] | [heeg1] ,,g/ [hei] [geae/4] e d c [aeed1] | \
+[gaac/] [,,ea] [gaac] [,cad] [edea] g e d |";french4tab
+21;;17r;En fut il oncque;;;Cittern;ConcR2966;C;"[khak2] [khak1] [kggi] | [khak/] ,,c ,,d ,,e [kggi1] [fede] | \
+[fede1] [fede] [hgeg] [kagi] | [igia/] k m i [kagi1] ,,g |";french4tab
+22;;17v;Dames qui au plaisant son;;;Cittern;ConcR2963;C;"[daac3/2] [daac/] [faae1] [edce] | [edea1] [daac] [caca2] | \
+[caca1] ,a/ [daac] [edea1] [fdde] | \
+[edea1] [daac/] d [caca] d [daca] c |";french4tab
+23;;18r;Je ne veux plus;;;Cittern;ConcR2961;C;"[daac2] [dbad1] [daac] | [,bad/] d ,b ,,,c/4 ,,,a [daac1] [bad] | \
+[dbd1] [fede] [edea] [dbd] | [,ad/] b ,a ,,d [bad2] |";french4tab
+24;;18v;Helas mon Dieu;;;Cittern;ConcR1662;C;"[daac3/4] ,,,a/4 ,,,c/ ,,,d [daac] ,,a ,,,a ,,,c | \
+[dcad/] ,a ,c c [heeg2] | [,aa/] h g e [gege1] [gege] |";french4tab
+25;;19v;Ia'y bien mal choisi;;;Cittern;;C;"[daac/] d [caca] [daac] [edea3/4] e/4 [edea/] [edea] | \
+[daac/] d [caca] c [daac1] d/ ,a | [daac/] d [caca/4] a c d";french4tab
+26;;20r;Bon jour mon coeur;;;Cittern;ConcR870;C;"[geae2] [hdea] | [heeg/] g/4 h k h g e [geae2] | \
+z1 [heeg] [kiak] [mkmk] | [nkkm/] ,,m ,,,m ,i [mkm1] [kaka] |";french4tab
+27;;20v;Quand mon mary vient de dehors;;;Cittern;ConcR875;C;"[de1] [fe/] [fe] [hd1] [ka] | [,mk1] [,ki] [laa] [,,ah/] [,,ah] | \
+[,de1] [,ag] [,dg] [,ce] | [,ag1] [ng/] n [mg] ,e [kh] ,h |";french4tab
+28;;21r;Amour est un grand maistre;;Orig: f. 24r;Cittern;;C;"[daac1] [caca/] [dcac] [edea1] [daac] | [daca1] [caca] [,aac/] d ,a ,,,d | \
+[daac1] [caca/] [dcac] [edea/] e [daac] d |";french4tab
+29;;21v;Ne pense plus;;;Cittern;ConcR2964;C;"[de1] [fe/] [fe] [hd] [ka] [hg] n | \
+[,om/] [,mk] [,ki1] [kaa] [,,ab/] [,,ab] | \
+[,de/] [,ag] [,,ea] ,d [,ca] [ba] a ,,,d |";french4tab
+30;;22r;Si ce n'est amour qu'est-ce;;;Cittern;;C;"[daac3/2] [edea/] [geg1] | [geg1] [heeh2] | [gege2] ,e1 | \
+[,ege3/2] e/ g1 | e1 [gege] ,e | [caca3] | \
+[heeg3/2] [geg/] [edea1] | e1 [heef2] |";french4tab
+31;;22v;Si pur ti guardo;;;Cittern;ConcR195;C;"[daac2] [aeed1] [daac] | [caca/] a/4 c [deac1] z/ [geae] [geae] [geae] | \
+[eagi1] [geae] [aeed3/2] [aeed/] | \
+[aeed/4] ,,,c ,,,d ,,,e [aeed1]";french4tab
+32a;;23v;Les Bouffons Superius;;f. 26v;Cittern;ConcR829;C;"[daac3/4] d/4 [daac/] [daac] [acad3/4] a/4 [acad/] [acad] | \
+[daac3/4] d/4 [daac/] [daac] [caca3/4] c/4 [caca/] [caca] | \
+[daac3/4] d/4 [daac/] [daac]";french4tab
+_32b;;23v;Plus diminuee;;;Cittern;ConcR829;C;"[daac3/4] d/4 [daac/] [daac] [acad/4] ,a ,c/8 ,a ,c ,a [acad/] [acad] | \
+[daac/] [,aac/4] c [daac] a c d";french4tab
+33a;;24v;Les Bouffons Bassus;;;Cittern;ConcR829;C;"[cac3/4] a/4 [caca/] [caca] [daac3/4] d/4 [daac/] [daac] | \
+[caca3/4] c/4 [caca/] [caca] [acca3/4] a/4 [acca/] [acca] |";french4tab
+_33b;;24v;Plus diminuee;;;Cittern;ConcR829;C;"[caca/4] a c d [caca/] a/4 c [daac] ,,,a ,,,c ,,,d [daac/] d | \
+[caca/] ,a/4 a c a c d";french4tab
+34a;;25r;Pavane des Bouffons;;;Cittern;;C;"[caca2] c1 ,a | [caca1] ,a/ a c ,a a c | [daac2] d1 ,a | \
+[daac1] a/ c d a c d |";french4tab
+_34b;;25v;Autrement;;;Cittern;;C;"[edea2] e1 ,d | [edea1] e [edea] d/ b | [,cad1] d ,c ,,,c | \
+[dcad1] ,,,a/ ,,,c ,,,d ,,,a ,,,c ,,,d |";french4tab
+35a;;25v;Gaillarde des Bouffons Bassus;;;Cittern;;3;"[caca3/2] a/ [caca1] | [caca/] a [caca1] a/ c | [daac3/2] c/ [daac1] | \
+[daac1] d [daac] | [caca3/2] a/ [,aca1] | [,aca/] a c a c d |";french4tab
+_35b;;26r;Autrement;;;Cittern;;3;"[edea3/2] e/ [edea1] | [edea1] [edea] d/ b | [dcad3/2] d/ [dcad1] | \
+[dcad/] ,,,c ,,,d ,,,a ,,,c ,,,d | [baca3/2] a/ [,aca1] |";french4tab
+36a;;26v;Padoana de sperance;;;Cittern;ConcR3050;C;"[kaak2] [kaak/] h g k | [mkmk2] [kaak3/2] h/ | \
+[geae1] e/ d [caca/4] a c d e d c a |";french4tab
+_36b;;27r;La gaillarde;;;Cittern;ConcR3051;3;"[kaak3/2] h/ [kaak1] | [geae1] g/ h [kaak1] | [mkmk1] i [kaak] | \
+[kaak1] h [geae] | [edea/] d c a c d |";french4tab
+37a;;27v;Pavane L'espagnolle;;;Cittern;Conc_4405;C;"[daac1] | [caca3/2] ,a/ [acca1] [caca] | [daac1] d/ ,a [daa] a b d | \
+[edea2] e1 ,d | [edea1] e [fade] [edea] |";french4tab
+_37b;;27v;Autrement;;;Cittern;Conc_4405;C;"[daac1] | [caca1] c/ ,a [acca1] [caca] | [daa/] e f e [daa] a b/4 a b d | \
+[,dea/] e ,d f [edea1] [edea] |";french4tab
+38;;28r;Passemezo ditalye Super / M.T.;;;Cittern;;C;"d/ e [faae1] f/ h | [faae/] e [daa] c [daa] e [faae] h | \
+[faa/] e/4 f h f e d [edea1] ,d/ ,,e |";french4tab
+39;;28v;Passemezo milanese Superius;;;Cittern;ConcR3065;C;"[daab1] [daa] [daab] [edea] | [daab1] [faae] [faae] [edea/] [daab] | \
+[edea2] [edea/] d e f | [edea1] [ede] [edea/] d f e |";french4tab
+40a;;29r;Gaillarde de la precedente;;;Cittern;ConcR3066;3;"[daab3/2] ,,c/ ,,a1 | [daab1] [daab] ,,,a/ ,,a | [edea3/2] f/ [edea1] | \
+[edea1] ,,,e ,,,d | [daab3/2] ,,c/ ,,a1 | \
+[dbab1] [baca] [dbad] |";french4tab
+_40b;;29v;Autrement;;;Cittern;;3;",,,b1 [daa] ,,,b/ ,,,d | [,aae1] [,aae] ,,,d/ ,,,b | \
+[,,ca1] [bd] ,,,a/ ,,,b | [,bad1] [,bad] ,,,b/ ,,,a | \
+,,,b1 [daa] ,,,e/ ,,,d |";french4tab
+41a;;29v;Gaillarde Romanesque;;;Cittern;ConcR841;3;"[fade3/2] f/ [fade1] | [fade1] f [fade] | [edea3/2] e/ [edea1] | \
+[edea1] f [edea] | [daac3/2] d/ [daac1] | [daac1] d [daac] | \
+[caca3/2] c/ [caca1] |";french4tab
+_41b;;30r;Plus diminuee;;;Cittern;ConcR3056;3;"[fade3/2] f/ [fade1] | [fade/] ,,c ,,d ,,e [fade] ,c | \
+[,dea/] e [,dea] f [edea1] | [edea1] f [edea] |";french4tab
+42;;30v;Passemezo Bassus;;;Cittern;ConcR840;C;"[edea2] [edea1] e | [baca1] [,aca/] d [edea1] d/ b | \
+[dca1] ,,,d/ ,,,c [,cad] ,a ,c ,d | [acad1] ,,,d/ ,a ,c";french4tab
+43a;;30v;Gaillarde de la precedente;;;Cittern;ConcR841;3;"[edea3/2] e/ [edea1] | [edea1] e [edea] | [dcad3/2] d/ [dcad1] | \
+[dcad1] d [dcad] | [baca3/2] b/ [baca1] | [baca1] b [baca] |";french4tab
+_43b;;31r;Autrement;;;Cittern;ConcR841;3;"[eded3/2] e/ [eded1] | [edea/] d ,d d e g | [heeg3/2] h/ [heeg1] | \
+[heeg/] g h e g h | [kggi3/2] k/ [kggi1] |";french4tab
+44;;31v;Passemezo D'Italie Tenor;;;Cittern;ConcR437;C;",,,d/ ,a | [dbad2] [dbad3/2] ,a/ | [,bad1] ,,,d/ ,,a ,d ,b ,a ,,,d | \
+[badb1] ,d ,d/ ,b ,a ,,,d |";french4tab
+45a;;32r;Gaillarde Tenor;;;Cittern;ConcR183;3;",,,d/ [,a,a] | [dbad3/2] [dba/] ,,,d1 | [,bad1] ,d/ ,b ,a ,,,d | \
+[badb2] [bad1] | [badb1] [bad/] ,d ,b [,a,d] | [dbad2] [dba1] |";french4tab
+_45b;;32r;Autrement;;;Cittern;ConcR183;3;"[dbad1] ,,,d/ ,d ,b ,a | [dbad1] d ,d/ ,b | [badb1] ,,,b/ ,,,d ,,,b ,,,a | \
+[badb1] ,,,b/ ,,,d [badb1] |";french4tab
+46;;32v;Passemezo Commune;;;Cittern;ConcR3067;C;"[daac/] ,,,d [daac1] [daac/] [caca] | [daac/] c [daa] c [daac] ,,,a ,,,c ,,,d | \
+[daac/] ,,,a ,,,c ,,,a [dcad1] ,,,c/ ,,,a |";french4tab
+47;;33v;Gaillarde Commune;;;Cittern;ConcR3068;3;"[daac1] | [daac3/2] [daa/] ,,,c1 | [daac1] ,,,d/ ,,,c ,,,a ,,a | \
+[dcad3/2] [dca/] ,,,d1 | [dcad1] [dcad] ,,,c/ ,,,a | \
+[daac3/2] [daa/] ,,,c1 |";french4tab
+48a;;34r;Passemezo de Zorzi;;;Cittern;ConcR842;C;"[daac1] [daac] [daac/] ,,,d | [daac/] ,,,c ,,,a ,,a [caca] a [cac] d | \
+[cace1] [cace] [ecca] [cace] | \
+[ecca/] ,,,c ,,,d ,,,a [cace1] [cac] |";french4tab
+_48b;;34r;Padoana de Zorzi;;;Cittern;ConcR1833;3;"[daac/] | [daac/] d/4 c d c | a/4 c d e d a | [caca/] d [caca] | \
+[cac/] ,,,a [cace] |";french4tab
+_48c;;34v;Saltarello de Zorzi;;;Cittern;ConcR1219;3;"[daac1] | [daac3/2] ,,,d/ [daac1] | [daac1] ,,,d/ ,,,c ,,,a ,,a | \
+[caca3/2] a/ c d | [caca/] a c d e c |";french4tab
+49a;;35r;Passemezo Ungaro;;;Cittern;ConcR3069;C;"[hdcd1] [dcad] [,cad] | [dcad1] [bdcd] [dadb] [,adb] | \
+[dadb1] [bdcd] [dcad] [bdcd] | [dadb1] [acad] [bdcd/] a b d | \
+[bdcd1] :||:";french4tab
+_49b;;35v;Gaillarde Ungaro;;;Cittern;ConcR3070;3;"[edea1] | [dcad2] [dca1] | [acad1] b/ d [bdcd1] | [dadb3/2] [dad/] ,,,b1 | \
+[dadb1] [dad] [bdcd] | [acdad1] b/ d [edea1] | \
+[dadb1] [dad] [dcad] |";french4tab
+50a;;36r;Passemezo d'angleterre;;;Cittern;ConcR845;C;"[kagi1] h/ k [edea1] g/ h | [kagi1] k [edea] h | \
+[geae1] d/ e [daac] c a d | [caca/4] a c d";french4tab
+_50b;;36v;Le reprinse;;;Cittern;ConcR3048;C;"[daac3/2] c/ [daac] c d e | [fede/] e f h [fede1] k | \
+[hgeg3/2] f/ [edea1] [daac/] ,,,d | \
+[badb3/2] a/ [,aca1] [fede] |";french4tab
+51a;;36v;Passemezo Bataglia;;;Cittern;ConcR3072;C;"[kagi2] [kagi1] [kagi] | [geae/] e/4 g h e g h [geae1] [heeg] | \
+[heeg/] g h g [edea] d c a |";french4tab
+_51b;;37v;Gaillarde de Bataille;;;Cittern;ConcR836;3;"[kaak1] k [kaak] | [geae/] e g h [geae1] | [hgeg1] h [hgeg] | \
+[edea3/2] e/ [edea1] | [kagi3/2] k/ [kagi1] | \
+[geae3/2] k/ [kgeg1] |";french4tab
+52a;;38r;Passemezo la douce;;;Cittern;ConcR843;C;"[geae1] g [geae] e/ g | [hgeg1] g [hgeg] k | [geae1] e/ g [hgea1] g/ e | \
+[geae/] d e g";french4tab
+_52b;;38v;Reprinse;;;Cittern;ConcR3049;C;"[daac1] e/ g [hgeg] g h k | [hgeg1] m [kagi3/2] h/ | \
+[geae/] e g h [geae1] g | [daac1] e/ g";french4tab
+53a;;39r;Gaillarde Caracossa Sup;;;Cittern;ConcR202;3;"[caca1] c [caca] | [caca/] a c d [caca1] | [daac1] d [daac] | \
+[edea3/2] e/ [edea1] | [fade1] f [fade] |";french4tab
+_53b;;39v;Plus diminuee;;;Cittern;ConcR202;3;"[caca1] c [caca] | [caca/] a c/4 a c d [,aca/] c | \
+[daac/] c d a [baca] d |";french4tab
+54a;;40r;Gaillarde Caracossa Bassus;;;Cittern;ConcR202;3;"[acca1] a [acca] | [acca/] ,a ,c ,d [acca1] | [baca/] a b ,a a b | \
+[dcad3/2] d/ [dcad1] | [edea1] e [edea] |";french4tab
+_54b;;40v;Autrement;;;Cittern;ConcR202;3;"[igig1] i [igig] | [igig/] g i k [igig1] | [kggi/] i k g h k | \
+[mkmk3/2] m/ [mkmk1] | [nkkm1] n [nkkm] |";french4tab
+55;;41r;Chi passa per questa strada;;;Cittern;ConcR178;3;"[caca1] | [caca1] ,,,a/ d c a | [caca1] c [caca] | \
+[caca3/2] a/ c d | [caca1] [cac] a/ c | \
+[daac1] ,,,a/ ,,,c [dcad1] |";french4tab
+56;;41v;Gaillarde;;;Cittern;ConcR3073;3;"[dadb1] [dad] [dadb] | [edea1] [ede/] f [edea1] | [dadb1] ,,,d/ ,,,b ,,,a ,,a | \
+[caca/] a c d [caca1] | [dadb1] [dad] [dadb] |";french4tab
+57;;41v;La Milanesa;;;Cittern;ConcR3076;3;",,,b/ ,,,d | [,aae3/2] ,,,d/ ,,,b ,,,a | ,,,b1 [daa] ,,,b/ ,,,d | \
+[,aae3/2] ,,,b/ ,,,d ,,,b | [,,ca1] [bd] ,,,a/ ,,,b |";french4tab
+58;;42r;Gaillarda;;;Cittern;ConcR3074;3;"c/ d [edea1] [edea] | [edea2] [ede1] | ,,,a/ ,,,c [dcad1] [dcad] | \
+[dcad2] [dcad1] | ,,a/ ,,,a [daab1] [,bad] | \
+[,aae3/2] ,,,d/ [daab1] |";french4tab
+59;;42v;Gaillarde;;;Cittern;ConcR3075;3;"a/ c | [daac3/2] c/ [daac1] | [daac1] [edea] [ede] | [fade3/2] f/ [fade1] | \
+[fade1] [fad] [fade] | [dbd3/2] d/ [dbd1] | \
+[fade1] [edea] [edea] |";french4tab
+60;;43r;Gaillarda du Roy;;;Cittern;ConcR3081;3;"[cace1] | [cace3/2] ,,,d/ [daab1] | [caca1] [daa] ,,,a/ ,,,b | \
+[dbad2] [dbad1] | [daab1] ,,,a/ [daa] [caca1] | [daab2] [daab1] | \
+[dbad/] ,,,b [bdca1] [daa] |";french4tab
+61;;43v;Gaillarde la Morette;;;Cittern;ConcR2998;3;"[caca1] [daac] [edea] | [fade3/2] e/ [daac1] | [caca1] [daac] [edea] | \
+[fade3/2] f/ [fade1] | [edea3/2] f/ [edea1] | [daac3/2] c/ [daac1] | \
+[caca3/2] d/ [caca1] |";french4tab
+62;;43v;Gaillarde Hely;;;Cittern;ConcR3087;3;"[daac1] d [daac] | [caca2] [daac1] | [edea2] [daac1] | [caca1] [daac2] | \
+[daac/] c d a c d | [caca/] a ,a a c d |";french4tab
+63;;44r;Gaillarde Puis que nouvelle affection;;;Cittern;ConcR2995;3;"[daac1] d [daac] | [acad2] [daac2] [baca1] ,,,c | [acad3/2] a/ [acad1] | \
+[daac1] d [daac/] b | [acad1] [acad/] b [daac1] |";french4tab
+64;;44v;Gaillarde la Lionnoise;;;Cittern;ConcR2996;3;"a/ c | [daac3/2] d/ [daac1] | [daac1] d [daac] | [acad1] [acad/] ,d [acad1] | \
+[caca1] [caca/] d [caca1] | [daac1] d/ ,a [daac1] |";french4tab
+65;;45r;Gaillarde de la Gaye;;;Cittern;ConcR3053;3;"d/ e | [gaae3/2] g/ [gaae1] | [gaae1] g [gaae] | [heeg1] h [edea] | \
+[heeg1] h [heeg] | [gege3/2] e/ [,ege1] | \
+[gege1] [gege] e/ ,e |";french4tab
+66;;45v;Gaillarde O combien est heureuse;;;Cittern;ConcR3055;3;"e/ g | [heeg3/2] h/ [heeg1] | [heeg1] [gege] [edea] | \
+[daac2] [acad] [daac] | [edeea1] [edea/] f [edea1] | \
+[daac1] [baca] [baac] | [acad3(2] a/ [aaad1] |";french4tab
+67;;46r;Gaillarde Baisons nous belles;;;Cittern;ConcR2997;3;"[daac1] d [daac] | [acad3/2] a/ [acad1] | [caca1] d [caca] | \
+[daac3/2] d/ [daac1] | [daac1] [ede] [geg] | [heeg3/2] [geg/] [edea1] | \
+[daac1] [daca] [caca] |";french4tab
+68;;46v;Premiere milanoise;;;Cittern;ConcR834;3;"f/ e | [daac3/2] c/ [daac1] | [caca3/2] d/ [caca1] | \
+[daac3/2] ,,,d/ [daac1] | [edea3/2] f/ [edea1] | \
+[fade1] f/ ,a [edea1] | [fade1] [fdea] [edea] |";french4tab
+69;;47r;Seconde milanoise;;;Cittern;;3;"b/ d | [edea3/2] d/ [baca1] | [dcad3/2] e/ [fade1] | \
+[edea3/4] d/ [baca1] | [dcad3/2] e/ [fade1] | \
+[edea1] [,dea/] f [edea] e |";french4tab
+70;;48r;Troisieme milanoise;;;Cittern;;3;"[edea1] e [kaak] | [heeg1] h/ ,e [gege1] | [edea1] [daac] [baca] | \
+[acad3/2] [edea/] [dcad1] | [baca1] [acad] [daac] | \
+[ecca3/2] [baca/] [acad1] |";french4tab
+71;;48r;Quatrieme milanoise;;;Cittern;ConcR833;3;"[heeg1] [gege1] [edea] | [daac3/2] b/ [acad1] | [edea3/2] d/ [baca1] | \
+[daac3/2] b/ [acad1] | [edea3/2] d/ [baca1] | \
+[daac/] e d b a ,a |";french4tab
+72;;48v;Cinqui[e]me milanoise La brunette;;;Cittern;;3;"[heeg1] | [gege3/2] h/ [edea1] | [dcad3/2] e/ [baca1] | [acad1] ,,,d d/ b | \
+[acad1] ,,,d d/ b | [acad1] a/ ,c [daac1] |";french4tab
+73;;49r;Gaillarde elle ma faict ceste grace;;;Cittern;ConcR3052;3;"[fede3/2] f/ [fede1] | [fede1] e [daab] | [baca/] a b d [baca1] | \
+[baca3/2] a/ [baca1] | [daab/] c d e d c |";french4tab
+74;;49v;Gaillarde Caracossa diminuée Superius;;;Cittern;;3;"[caca1] c [caca]| [caca/] a c/4 a c d [caca1] | \
+[daac/] c d a c/4 a c d |";french4tab
+75;;50v;Passe pied;;;Cittern;;C;"[edea3/4] d/4 b a b d [edea/] e [daac] [edea] | \
+[daac/] [baca] [ecca] [caca] [,dea3/4] d/4 b a b d |";french4tab
+76;;51r;Almande de Loraine;;;Cittern;ConcR286;C;"[daac3/4] e/4 g/ h [kaak3/4] k/4 [kaak/] [kaak] | \
+[edea/] [gaae] [heeg] [edea] [gaae3/4] g/4 [gaae/] [gaae] | \
+[daac3/4] c/4 d e g h";french4tab
+77;;51v;Almande bruynsmedelijn;;;Cittern;ConcR974;C;"[paak3/2] o/ [paak1] p | [nakm3/2] m/ [kagi1] [nmkm] | \
+[mkmk1] [kaka] [igia/] k g i | [kagi3/2] h/ [kagi1] k |";french4tab
+77a;;51v;Almande;;;Cittern;ConcR3003;C;"[edea3/4] f/4 [edea/] [daac] [edea3/4] f/4 [edea/] [edea] | \
+[fade/] [edea] [daac] [daa] [caca1] [cac/] ,,,a :||: \
+[acad3/4] ,d/4 [acad/] [acad]";french4tab
+_77b;;51v;Reprinse;;;Cittern;ConcR3004;3;"[edea1] [edea/] f [edea1] | [edea1] [edea/] f [edea1] | \
+[fade1] [edea] [daac] | [caca3/4] d/ [caca1] :||: \
+[acad1] [acad/] ,d [acad1] |";french4tab
+78a;;52r;Almande du Prince;;;Cittern;ConcR3006;C;"[daac2] [edea] | [fade2] [fad1] ,,,e | [edea1] [fade] [edea] [edea] | \
+[fade2] [fad1] ,,,e | [daac1] c/ d [edea1] d/ e |";french4tab
+_78b;;52r;Reprinse;;;Cittern;ConcR3007;3;"[daac/] | [daac/] c [daac] | [edea/] d [edea] | [fade1] [fade/] | \
+[fade1] [fade/] | [edea1] [fade/] | [edea/] d [edea] | \
+[fade1] [fade/] | [fade1] :||:";french4tab
+79a;;52v;Almande Pousinghe;;;Cittern;ConcR763;C;"[kagi2] [kagi1] [igia] | [kagi2] [kagi1] h/ f | [edea1] d/ a [caca/4] a c d e/ c | \
+[daac/] c d e [eaac1] d :||:";french4tab
+_79b;;53r;La reprinse;;;Cittern;ConcR3024;3;"[kagi1] k [hgeg] | [kagi1] h/ f [edea1] | [daac/] a c ,a a c | \
+[daac1] d/ ,a [daac1] :||: [kagi1] k [mkm] |";french4tab
+80;;53r;Almande de Bisarde;;;Cittern;ConcR3025;C;"[kagi1] h/ k [geae1] ,e | [mknk3/2] k/ [igia1] g/ i | \
+[kagi3/2] h/ [geae1] e | [daac1] a/ c [daac1] d :||:";french4tab
+81;;53v;Almande de Philippine;;;Cittern;ConcR3022;C;"[kagi2] [igia1] k | [mkmk1] [igia] [kagi] ,,,i | [paak1] o/ m [kagi1] n | \
+[mkmk1] [igia] [kagi] k :||: [kagi3/2] h/ [fede1] e |";french4tab
+82;;53v;Almande deux trois aes;;;Cittern;ConcR3023;C;"[daac/] c d e [geae1] e/ d | [edea/] d e g [edea1] [geae] | \
+[hgeg1] g/ e [daac1] d :||:";french4tab
+83;;54r;Almande guerre guerre;;;Cittern;ConcR3020;C;"[daac1] k [kagi] [igia] | [kagi1] h/ f [edea1] d/ e | \
+[fede3/2] e/ [daac1] e/ f | [hgeg/] f e d [eaca1] e :||:";french4tab
+84;;54r;Almande Bruijnswijck;;;Cittern;ConcR3021;C;"[daac/] c d e [daac1] d | [caca3/2] a/ [,aca] a c d | \
+[edea/] g h g [edea] d c a |";french4tab
+85;;54v;Almande Frison;;;Cittern;ConcR3018;C;"[daac/] c d e [fede] e f h | [kagi3/2] h/ [kagi1] n | \
+[mkm1] [khk] [igia/] k m i | [kagi2] [kagi1] k :||:";french4tab
+86;;54v;Almande Malines;;;Cittern;ConcR3019;C;"[hgeg/] g h k [hgeg1] [gaae] | [hgeg1] g/ e [daac1] d | \
+[edea1] d/ e [geae] h k g | [hgeg1] g/ e [daac2] :||:";french4tab
+87;;55r;Almande la tour;;;Cittern;ConcR3027;C;"[daac/] c d e [daac] a c d | [edea1] d/ c [acad1] ,a | \
+[daac/] c d e [daac1] c/ d |";french4tab
+88;;55r;Almande dambrugghes;;;Cittern;ConcR3026;C;"[daac1] e/ f [edea1] [daac] | [fede/] e f h [kagi1] k | \
+[kagi/] h k m [nakm1] k | [nakm/] m k h";french4tab
+89;;55v;Almande nivelle;;;Cittern;ConcR979;C;"[daac/] c d e [fede1] ,e/ f | [edea/] d b a [baca1] ,a | \
+[fede/] ,,e ,a ,c [edea1] [fede] |";french4tab
+90;;55v;Almande Brusselles;;;Cittern;ConcR3028;C;"[daac/] c d e [geae3/2] k/ | [hgeg/] k h g [edea1] [daac] | \
+[edea/] g h e [geae1] g :||:";french4tab
+91;;56r;Almande de Spainge;;;Cittern;ConcR3030;C;"[daac/] c d e [geae] e g h | [kagi3/2] h/ [geae1] m | \
+[kagi/] h g e [geae2] :||:";french4tab
+92;;56r;Almande Lieue gheburen;;;Cittern;ConcR3029;C;"[daac/] c d e [geae] e/4 g h/ g | [edea1] [daac] :||: \
+[kagi/] h g e [daac] c a ,a |";french4tab
+93;;56v;Almande de lignes;;;Cittern;ConcR817;C;"[daac3/2] e/ [geae1] g | [hgeg3/2] g/ [edea1] e | \
+[geae3/2] e/ [daac1] c/ d | [edea3/2] d/ [caca1] ,a |";french4tab
+94;;56v;Almande à deux pas;;;Cittern;ConcR3017;C;"d/ e [fede1] [fede/] e/4 d | [edea/] d [caca1] [daac] [daac/4] c d e | \
+[fede/4] e f h f/ f";french4tab
+95;;57r;Premier Branle de Bourgongne;;;Cittern;ConcR1821;C;"[daac/] d [caca/4] a c d [edea1] [edea/] [gaae] | \
+[edea/] [daac] [daca] [caca] [daac3/4] d/4 ,a/ ,,,c |";french4tab
+96;;57v;Seconde Branle de Bourgongne;;;Cittern;ConcR1822;C;"[kggi/] k [igig] g/4 i [kggi/] i/4 g | \
+[,ggi1] [,ggi/4] ,,,k ,,,i ,,,g [,aca/] a/4 c [daac/] a/4 c |";french4tab
+97;;57v;Troisiéme Branle de Bourgongne;;;Cittern;ConcR1823;C;",a/ a b d [edea1] k | [kggi1] k [heeg] e | \
+[,eeg/] ,g ,h ,g [daa] b a ,a | [ecca1] e [caca] c |";french4tab
+98;;58r;Quatriéme Branle de Bourgongne;;;Cittern;ConcR1824;C;"[caca3/4] a/4 [,aca/] e [daac] [caca] | [acca/] [,aca] [,aca/4] a [caca/] [acca] [,aca] [,aca/4] a [caca/] | \
+[,aca/4] a [caca/] [,aca/4] a";french4tab
+99;;58v;Cinquiéme Branle de Bourgongne;;;Cittern;ConcR1825;C;",a/4 a b d [edea/] e [daac] d | \
+[baca/] b [acad/4] b d a [baca/] b ,a/4 a b d |";french4tab
+100;;59r;Sisiéme Branle de Bourgongne;;;Cittern;ConcR1826;C;"[egge/] e [caca] c [gege] g | [gge1] [daac/] [caca] [acad] [daac] [ecca] e | \
+[caca1] [egge/] e [caca] ,a [daa/4] e g/ |";french4tab
+101;;59v;Setiéme Branle de Bourgongne;;;Cittern;ConcR1827;C;"[acad/4] ,,,c ,,,d ,a [acad/] a [baca] b | \
+[acad/] a [,cad/4] ,,,c ,,,d ,a [,cad] b d e d b a ,a |";french4tab
+102;;60r;Huitiéme Branle de Bourgongne;;;Cittern;ConcR1828;C;"[,aca/] e [caca] c [gege] g | [egge1] [daac/] [caca] [acad] [daac] [ecca] e | \
+[caca1] [,aca/] e [caca] c [gege] g |";french4tab
+103;;60v;Neufiéme Branle de Bourgongne;;;Cittern;ConcR1829;C;"[fdde3/4] e/4 d e f d [edea/] e [baca] b | \
+[baca/4] a b d b d e b [daac/] b/4 a [,aca/] [fdde] |";french4tab
+104a;;61r;Premier Branle de malte;;;Cittern;;C;"[daac/4] ,,,a ,,,c ,,,d [cac/] ,,,a/4 ,,,c [dcad3/4] d/4 [dcad/] [dcad] | \
+[daac3/4] d/4 [daac/] [daac] [caca3/4] c/4 [caca/] [caca] |";french4tab
+_104b;;61r;Plus diminuee;;;Cittern;;C;"[daac/4] ,,,a ,,,c ,,,d [cac/] ,,,a/4 ,,,c [dcad] ,a ,c ,d [dcad/] [dcad] | \
+[daac3/4] c/4 d a c/8 a c d";french4tab
+105;;61v;Seconde Branle de malte;;;Cittern;;C;"[daac/] c d e [geg1] g | [edea1] [daac] [caca] d/ c | \
+a/ ,a [ecca1] [caca] c/ ,a |";french4tab
+106a;;62r;Troisiéme Brande de malte;;;Cittern;;3;"g/ | [heeg1] [heeg/] | [gege3/4] e/4 ,e/ | [caca3/2] | \
+,a/ e g | [heeg1] h/ | [gege3/4] e/4 ,e/ | [caca3/2] | \
+,a1 [gege/] |";french4tab
+_106b;;62r;[Autrement];;;Cittern;;3;"e/ g | [heeg1] [heeg/] | [gege3/4] e/4 ,e/ | [kggi3/2] | \
+[kggi/] ,g ,i | [heeg1] [heeg/] | [gege3/4] e/4 ,e/ | \
+[kggi3/2] | [kggi1] [gege/] |";french4tab
+107;;62v;Branle de Champagne;;;Cittern;ConcR3060;C;"[kaak/] k [heeg] [fade] [edea] [daac] | [caca1] [heeg/] h [fade] e/4 d [daca/] c | \
+[daac1] [kaak/] k [heej] ,g [edea] [daac] |";french4tab
+108;;62v;2. Branle de Champagne;;;Cittern;ConcR3061;C;"[daac/] d [caca] [daac] [edea1] e/ [edea] | \
+[fade/] f [edea] [daac] [caca1] [daac] | \
+[daac/] d [caca/4] a c d";french4tab
+109;;63r;3. Branle de Champagne;;;Cittern;ConcR3062;C;"[daac/] d [caca] d [daca] c | [daac/4] c d e [gaae/] g [edea] [daac] [daca] [caca] | \
+[daac1] :||:";french4tab
+110;;63v;4. Branle de Champagne;;;Cittern;ConcR3063;C;"[gege/] e/4 g [heeg/] [gege] [edea] [daac] | \
+[caca1] [daac/] d [edea] [caca] [daac] d | \
+[edea/] [caca] [gege] e/4 g";french4tab
+111;;63v;5. Branle de Champagne;;;Cittern;;C;"[,aca/] e [baca] b [daac/4] a b d | [edea1] [baca/] b [baca/4] d [edea/] [daac] [baca] | \
+[ecca/] [caca] :||:";french4tab
+112;;64r;Sisiéme Branle de Champagne;;;Cittern;;C;"[,aca/] ,a [baca] b [dcad] d | [edea/] e [acbc] a [ecca1] [,aca/] ,a | \
+[baca/] a/4 b [dcad/] b/4 d";french4tab
+113;;64v;7. Branle de Champagne;;;Cittern;;C;"[cac/] c [acad] [caca] [daac3/4] c/4 | \
+[acad/] [daac] [caca] c [acad] [ecca] [daac] [acad] | \
+[caca1] [caca/] c [acad] [caca] [daac3/4] c/4 |";french4tab
+114;;64v;8. Branle de Champagne;;;Cittern;;C;"[aca1] [baca/] d/4 e f e d b | [ecca/] [caca] [acad/4] b d e d b a ,a [ecca/] e | \
+[caca1] :||:";french4tab
+115;;65r;Branle simple N'avrés vous point de moy pitie;;;Cittern;ConcR3057;C;"[daac3/4] c/4 d/ e [fade1] f/ ,a | [edea1] [daac] [caca] [fade/] f | \
+[ede3a/] d/4 c [daac/] c/4 a [caca3/4] c/4 [caca/] [caca] |";french4tab
+116;;65v;Branle gay;;;Cittern;ConcR3058;3;"[daac/] | [caca3/4] d/4 e/ | [fade1] f/ | [,ade/] e [daac] | \
+[caca1] [fade/] | e/ [fade] d | [caca1] [daac/] | \
+[caca3/4] d/4 e/ |";french4tab
+117;;65v;Branle & tant plus;;;Cittern;ConcR3098;C;"[daac/] d [caca] d [daca] c | [daac3/4] e/4 [gege/] g [edea] [daac] [daca] [caca] | \
+[daac1] [kggi/] k [gege] k [kggi] k |";french4tab
+118;;66r;Branle de Poictou;;;Cittern;ConcR3064;3;"[daac/] | [edea3/4] g/4 h/ | [gaae3/4] e/4 [daac/] | d/ [edea1] | \
+[caca/] c [daac] | [edea3/4] g/4 h/ | [gaae3/4] e/4 [daac] |";french4tab
+119;;66r;Branle cent escus;;;Cittern;;3;"[daac1] [edea/] | [gege1] g/ | [gege3/4] g/4 [gege/] | \
+[heeg3/2] | [edea3/4] e/4 [edea/] | [edea3/4] e/4 [edea/] | \
+[edea3/4] e/4 [edea/] | [gege1] [daac/] |";french4tab
+120;;66v;Branle des Bergers;;;Cittern;;C;"[baca1] b/ ,a [daac1] [dcad/] [edea] | [baca/] a/4 ,a [ecca/] e [caca1] c/ ,a | \
+[baca/4] a b d [baca/] a/4 b [daac1] [dcad/] [edea] |";french4tab
+121;;67r;Branle Las il n'a nul mal;;;Cittern;;C;"[baca/] d [edea1] e/ ,d | [daac/] b [acad] ,,,d [daab1] [ecca] | \
+[caca1] [baca/] d [edea1] e/ ,d | [daac3/4] b/4 [acad/] ,,,d";french4tab
+122;;67v;Branle du disois;;;Cittern;ConcR3080;C;"[daa1] [daa] [cace] [cac] | [dcad1] [cace] [daab] ,,a | \
+[bdca/] ,,,b ,,,d ,,,a [daab1] ,,,a/ ,,a | \
+[caca/] a d c [daa1] [daa] :||:";french4tab
+123;;68r;Branle;;;Cittern;ConcR3079;C;"[daac1] [daac] [daac] [daac] | [caaa/] d ,,,a ,,,c [dcad1] [dca] | \
+[daac1] ,,,a/ ,,,c [acad1] [dcac] | \
+[caca/] a/4 c d c a c [daac2] :||:";french4tab
+124;;68v;Quatrebrant;;;Cittern;ConcR940;C;"[daac/] ,,,d ,,,c ,,,a [daa] c d e | [daac/] ,,,d ,,,e ,,,d [daac1] [caca/] ,,,c | \
+[dcad1] ,,,c/ ,,,a [daa] c d e |";french4tab
+125;;69r;Branle de Bataille;;;Cittern;ConcR969;C;"[kagi3/2] h/ [kagi1] k | [geae3/2] g/ [geae1] g | \
+[edea/] g h g [edea] d c a | [caca/4] a c d";french4tab
+126;;69r;Branle de Spiers;;;Cittern;ConcR3046;C;"[kagi2] [edea1] k | [igia/] e g i [kagi1] k | [daac/] e f e [daac] e f e | \
+[daaa/] e f h";french4tab
+127a;;69v;Branle del duc;;;Cittern;ConcR3032;C;"[daac/] f e d [caca1] ,a | [daac/] a c d [edea1] e | \
+[fdde/] ,,e ,a ,c [edea] d c a |";french4tab
+_127b;;69v;La saltarelle;;;Cittern;ConcR3033;3;"[daac3/2] c/ [daac1] | [caca1] a [caca] | [daac/] c d a c d | \
+[edea3/2] e/ [edea1] | [fdde/] ,,c ,,d ,,e ,a ,c |";french4tab
+_127c;;70v;La courante;;;Cittern;ConcR3034;C;"[daac/] d [caca] c [daac/4] a c d | [edea/] e [fede] f [edea] d d [caca] | \
+[daac/] d :||:";french4tab
+_127d;;70v;La reprinse;;;Cittern;ConcR3035;C;"[fede3/2] e/ [daac/4] c d e d/ c | \
+[fede/] d/4 e f e f h [kagi1] h/ f |";french4tab
+128;;71r;Branle de Berghes;;;Cittern;ConcR3031;C;"[daac/] e f d [edea1] [daac] | [fede/] e f h [kagi1] k | \
+[kagi/] h f e [daac1] d :||:";french4tab
+129;;71v;Branle hoboken;;;Cittern;ConcR3036;3;"[daac1] k/ | [kagi1] [mkm/] | [nakm1] m/ | [kagi1] h/ | [kagi/] h [fede] | \
+[edea/] e [daac] | [daac/] d [kagi] | [kagi/] k [mkm] |";french4tab
+130;;72r;Den raij;;;Cittern;ConcR3037;3;"[daac1] [kagi/] | [geae/] ,e [geae] | [daac/] d [edea] | \
+[geae1] g/ | [daac/] d [kagi] | [geae/] g/4 e [geae/] |";french4tab
+131;;72r;Branle coupe;;;Cittern;ConcR3038;C;"[daac/] e f h [kagi1] [fede] | [hgeg1] k [daac/] e [fede1] | \
+[edea/] d c a [caca1] ,a |";french4tab
+132;;72v;Branle;;;Cittern;ConcR3039;C;"[daa/] e f e [daa] e f e | [daa/] e f h [kagi1] k | \
+[nakm3/2] m/ [kagi1] i/ k |";french4tab
+133;;73r;Branle rebecca;;;Cittern;ConcR3044;C;"[kagi1] h/ f [edea1] [khk] | [igia/] h g i [kagi1] k | \
+[edea/] f h e [fede1] e/ d |";french4tab
+134;;73r;La saltarelle;;;Cittern;ConcR3045;3;"[kagi3/2] h/ [hgeg1] | [edea3/2] d/ [kagi1] | [igioa1] g [igia] | \
+[kagi3/2] k/ [kagi1] | [edea/] d e f h e |";french4tab
+135;;73v;L'homarmé;;;Cittern;ConcR958;C;"[paak1] p [nakm3/2] m/ | [nakm1] m/ k [mkm1] k | [paak3/2] n/ [mkm1] [khk] | \
+[ighia/] k g i [kagi1] k :||:";french4tab
+136;;74r;Calleken van nieupoorte;;;Cittern;ConcR3047;C;"e/ g [hgeg3/2] g/ | [hgeg/] e g h [geae] e g h | \
+[geae3/2] h/ [kagi1] h | [kagi1] h/ g";french4tab
+137;;74v;Tant vous alez doux guillemette;;;Cittern;ConcR477;C;"[daac1] [caca/] [daac] [edea3/4] e/4 [edea/] [daac] | \
+[caca/] [daac] [daca] c [daac1] d/ ,a | \
+[daac/] d [caca/4] a c d";french4tab
+138;;75r;Les Matachins;;;Cittern;ConcR952;3;"[caca/] | [daac3/4] d/4 [daac/] | [daac3/4] c/4 [aaac/] | \
+[caca3/2] || z1 [caca/] | [daac3/4] c/4 [daac/] | \
+[acad3/4] a/4 [acad/] | [caca3/2] ||";french4tab
+139;;75v;Les forces d'Hercules;;;Cittern;ConcR1249;3;"[faa3/4] e/4 d/ f e d | [edea1] e/ ,d [,,ea] e | \
+[daac/] c a d [caca] a | [caca1] c/ ,a [,,ca] c |";french4tab
+140;;76r;Den lustelijcken mey;;;Cittern;ConcR933;C;"[daa1] [daa/] a/4 c d a c d | [edea/] d [edea/4] d e g [heeg1] [gaae/] h | \
+[geae/] e [eccd1] [edce] [acbc] |";french4tab
+141;;76v;Ick had een gestadich minneken;;;Cittern;ConcR3078;C;"[daa1] [daa/] c d b | [acad/] b d a [bdca3/2] a/ | \
+[,cad1] [fade] [edea] [daac] | \
+[caca/] a/4 c [daca/] c [daac2] :||:";french4tab
+142;;76v;Sloef sloef waer hebdi gheweest;;;Cittern;ConcR3013;C;"[daac/4] c d e [daac/] d [edea/4] g h e [geae/] g | \
+[daac/4] c d e [daac] a c d [edea] c d e [geae1] :||:";french4tab
+143a;;77r;Era di magio;;;Cittern;ConcR3084;C;"[fade2] [edea1] e | [daab1] d [caca2] | z1 [caca] [daab] e | \
+[fede1] ,e/ f [edea1] e | [daab1] c/ a [caca2] :||:";french4tab
+_143b;;77r;Autrement;;;Cittern;ConcR3085;C;"[fed/] ,,e [fa] ,c [edea/4] d e f [edea/] d/4 c | \
+[daab/4] ,,,a ,,,b ,,,d [daab/] ,,,a/4 ,,a";french4tab
+144;;77v;Een venus dierken;;;Cittern;ConcR932;C;"[daab1] [daab/] c d e | [daab1] d [caca] a/ c | \
+[daab/] a c d [edea] d e f | [edea1] e [edea/] c d e |";french4tab
+145;;77v;Een amoureux fireghelate;;;Cittern;ConcR931;C;"[daac/] c d e [daac] c a ,a | [acad/] ,a ,c ,d [acad1] a | \
+[caca/] a/4 c [daac1] [caca/] ,a a c |";french4tab
+146;;78r;Het wasser te nacht;;;Cittern;ConcR929;C;"[daac1] [hgeg3/2] g/ | [edea/] d/4 e [daac/] c/4 a [caca] d e d a/ c | \
+[daac/] c d e [daac1] d |";french4tab
+147;;78v;Het was een maecht;;;Cittern;ConcR3012;C;"[daac1] [daac/] e f f | [edea1] [daac] [fede3/4] h/ | \
+[kagi2] [kagi/] i k m | [ngga1] [kagi] [ngga/] m [kagi] h |";french4tab
+148;;78v;Het was een ardich vrauken;;;Cittern;ConcR2981;C;"[geae1] [geae/] g [geae] g | [geae3/2] g/ [geae1] [geae] | \
+[kagi/] g [hgeg] e [geae2] :||: [edea3/2] e/ [edea1] e |";french4tab
+149;;79r;Robbin c'est un galland;;;Cittern;ConcR3086;C;"[geae1] [geae/] g [geae] g | [geae1] g [geae/] d e g | \
+[heeg1] h [edea/] e [edea] e |";french4tab
+150;;79v;Linkens houen es bestouen;;;Cittern;ConcR936;C;"d1 d [fe] [fe/] ,e | [hd/] ,a [,,kh] ,,k [ka1] [ka] | \
+d/ e [fe1] [fe] e/ [fe] | [hd/] ,a [,kh] ,,k [ka2] |";french4tab
+151;;79v;Thyenette venéstost;;;Cittern;;C;"[kagi1] h/ f [edea] d [caca1] | ,,c/4 ,,d ,,e/ ,,a/4 ,,c ,,d/ ,,c ,,a [caca] ,a | \
+[kagi1] h/ f [edea] d [caca1] |";french4tab
+152;;80r;Veriubileert ghij venus dierkens;;;Cittern;ConcR1410;C;"[ecca1] [caca/] d [ecca1] [ecca/] g | [ecca/] d c a [caca1] ,a | \
+[daac1] [dcac] [caca/] c/4 a ,a/ a |";french4tab
+153;;80r;Entre vous gentils galans;;;Cittern;;C;"[daac/] g [eaga] g [eaga] [geae] [heeg1] | \
+[heeg/] [geae] [eagi1] [heeg/] g [eagi] c | \
+[daac1] [eagi] [geae3/4] e/4 [daac1] :||:";french4tab
+154;;80v;Il estoit ung lourdault;;;Cittern;;C;"[daac/] [daac] [hgia1] h | [heeg1] [gaae/] h [kagi] ,,i k h | \
+[kagi/] e [edea] g [heeg1] [heeg] |";french4tab
+155;;80v;La veille des roys;;;Cittern;;C;"[kagi/] k [igia] g/4 i [kagi/] h/4 g | \
+[eagi1] [kagi/] k [igia] g/4 i [kagi/] h/4 g | \
+[eagi1] [eagi/] e";french4tab
+;;;Liber Secundus. Continens cantiones musicas, Passomezo, Gaillardas, Almandes aliaque non-nulla in tabulaturam Cythare Italicae vulgo dictae;;;;;;;
+156;;81v;Si pur ti guardo;;;Cittern;ConcR195;C;"[daaa2] [dcab1] [daaa] | [cac1] [daaa] z/ [hfh] [hfh] [hfh] | \
+[feh1] [hfh] [dcab3/2] [dcab/] | \
+[dcab1] [dcab] [cac/4] a ,a a c ,a a c |";french4tab
+157;;82v;Madona mia pieta;;;Cittern;ConcR2844;C;"[acab1] [acab/] [acab] [daaa] [dada] [cac1] | \
+z/ [cac] [dcf] [fdf] [daaa] [daaa] [cac3/4] d/4 | \
+[fdh/] g [dbd] [dbab] [dac] c [daaa1] |";french4tab
+158;;83r;Tu Traditora;;;Cittern;;C;"[ece/] | [ece3/4] f/4 [hfh/] [ifff] [ifff1] | \
+[ifff/] [hfh1] [fkm/] [ifff1] [hfh] | \
+z/ [ece] [ece3/4] f/4 [hfh/] [ifff] [ifff1] |";french4tab
+159;;83v;Mia mari ando al mario;;;Cittern;ConcR2973;C;"[daaa1] [daaa] [daaa] [acab] | [cac1] [dae] [fdf2] | \
+[fdf1] [fdf] [fdf] [da] | [dac/] c/4 a d c d/8 c a c [daaa2] |";french4tab
+160;;84r;La Cortesia;;;Cittern;ConcR942;C;",a1 [fdh] [dbd] [dbab] | [dac/] c/4 a d c d/8 c a c [daaa1] z/ [dbd] | \
+[dbd/] [gfdd] [gdf] f [gddd3/2] [fdf/] |";french4tab
+161;;84v;Sto Core mio;;;Cittern;ConcR2972;C;"[hfh/] [hfh] [ifff] [lil1] [lil/] [lin] | [ifff/] [ihfg] [hfh1] [ifff] [gaa3/4] ,,c/4 | \
+[gddd/] [fdf] [daaa] [dbab] [dac] c [daaa1] |";french4tab
+162;;85r;Le vechie per invidia;;;Cittern;ConcR2974;C;"[gddd2] [gddd1] [gddd] | [fdf1] [gddd] [ihl] [lil] | \
+[ihl1] [gfi] [ifff] [fdf] | [gddd1] [dad] [fccc] [fccc/] d | \
+[cac2] z1 [cac] |";french4tab
+163;;85v;Sia sia maladetta;;;Cittern;ConcR2975;C;"[cac2] [cac1] [cac] | \
+[daaa/] a/4 c d a c/8 a c d [cac/] a/4 c d c d/8 c a c |";french4tab
+164;;86r;Era di magio;;;Cittern;;C;"[gdd2] [fdf1] [fdf] | [daa/] ,,d ,,c ,,a [cac1] [cac/] a/4 c | \
+[daaa/] c/4 d [fdf/] d/4 f [gddd/] d/4 f g d f g |";french4tab
+165;;86v;Chy vol vedere;;;Cittern;;C;"[fdf2] [fdf1] [fdf] | [dcf1] [dcf] [bac/] a/4 b d b d/8 b a ,a | \
+[accc1] [accc] [bac] [dcf] |";french4tab
+166;;87r;Vita mia bella;;;Cittern;;C;"[gddd1] [gddd/] [gddd] [fdf] [gddd] [ihl] [ihl] | \
+[lil1] [lil/] [gddd] [fdf] [gfi] [dbd] [dbab] | \
+[dac/] c [daaa1] [gddd] [gddd/] [gddd] |";french4tab
+167;;87v;E me levai;;;Cittern;ConcR2971;C;"[daaa1] [daaa/] [fdf] [gddd1] [gddd/] [gddd] | \
+[gddd/] [gddd] [gddd] [gddd] [fdf1] [fdf] | \
+[fdf1] [fdf/] [fdf] [daaa] a/4 c d a c d |";french4tab
+168;;88v;Tribulatie ende verdriet;;;Cittern;ConcR934;C;"[daa/] c a c [daa] c d f | [hfh/] f h i [hfh1] h/ ,,h | \
+[hfh1] h [daa/] f h d |";french4tab
+169;;89v;De mesa nui;;;Cittern;ConcR2962;C;"[hfh2] [hfh/] f h i | [hfh1] [dcaa] [fdf] [hfh] | \
+[ifff/] g/4 g i f h/8 f h i [hfh/] f h/4 f h i |";french4tab
+170;;90r;Amour partez;;;Cittern;ConcR2850;C;"[daaa2] [daaa/] a/4 c d a c/8 a c d | \
+[cac/] a/4 c [daaa/] c/4 d [fdf1] [fdf/] [fdf] |";french4tab
+171;;90v;Gross lieb hat mich umbfangen;;;Cittern;ConcR2978;C;"[hfh2] [hfh1] [lkm] | [ifff1] [hfh] [ifff/] f/4 h i f h i | \
+[hfh2] z1 [hfh] | [hfh1] [fcg] [fce/] e/4 c";french4tab
+172;;91r;Die liebe ist meisterin;;;Cittern;ConcR2979;C;"[daaa1] [cac/] [dcaa] [fdf1] [dcf] | [dac/] c/4 a d c d/8 c a c \
+[daaa/] c/4 a ,a ,,,b ,,,d/8 ,,,b ,,,a ,,c |";french4tab
+173;;91v;Passemezo Bataglia;;;Cittern;ConcR2991;C;"[lkhi2] [lkhi1] [lkhi] | \
+[hfh/4] f h i l i h f [hfh] f ,f f h ,f f h |";french4tab
+174;;92v;Num fahr hir alle mein trauren ;;;Cittern;ConcR2977;C;"[daaa1] [daaa] [fdf/] d f g | [fdf1] [ifff] [hfh] [feh] | \
+[hfh/] f h i [hfh1] h/ i |";french4tab
+175a;;93v;Passemezo Commune;;;Cittern;ConcR2987;C;"a/ c | [daaa1] c/ a ,a ,,,b ,,,a ,,c | \
+[daaa/] ,,c ,,,a ,,,b ,,,d a b d | [dfd1] f [fdf/] g f d |";french4tab
+_175b;;94v;Saltarello Commune;;;Cittern;ConcR2988;3;"a/ c | [daaa1] c/ a ,a ,,,b | ,,,a/ ,,,b ,,,d a b d | \
+[fdf1] d/ g f d |";french4tab
+176a;;95v;Passemezo dytalye;;;Cittern;ConcR2983;C;",,,b/ ,a | [,bab1] d ,,,b/ ,d ,b ,a | [,bab/] ,a ,,,b d ,d ,b ,a ,,,b | \
+[bad/] ,,,b ,,,d ,b ,d ,b ,a ,,,b |";french4tab
+_176b;;96v;Gaillarde dytalie;;;Cittern;ConcR2984;3;",,,b/ ,a | [dbab1] ,,,b/ ,d ,b ,a | [,bab/] d ,d ,b ,a ,,,b | \
+[bad/] ,,,b ,,,d ,b ,d ,b |";french4tab
+177a;;97v;Passemezo dytalye Superius;;;Cittern;ConcR2985;C;"d/ f | [gaad3/2] i/ [gaad1] [fdf] | [dad1] [gaad] [fdf] [dad] | \
+[fdf1] ,,f/ g f d f g | [fdf/] d f g";french4tab
+178;;98r;Padoana milanese;;;Cittern;ConcR2986;3;"[gddd1] | [fdf1] [fdf] [fdf/4] g [fdf/] | [daaa1] [daaa] [acab/4] c [dcab/] | \
+[cac1] [cac] [cac/4] c [dae/] | [cac2] :||:";french4tab
+_177b;;98v;Gaillarde dytalye;;;Cittern;ConcR183;3;"d/ f | [gaad3/2] i/ [gaad1] | [fdf1] [dad] [gaad] | \
+[fdf1] ,,f/ g f d | [fdf1] g/ f d c |";french4tab
+179;;99r;La Caracossa Superius;;;Cittern;ConcR202;3;"[cac1] [cac] [cac] | [cac/] a c/4 a c d [cac/] a/4 c | \
+[daaa/] c d a b d |";french4tab
+180;;99v;Chy passa;;;Cittern;ConcR178;3;"[cac1] | [cac1] ,a/ a c d | [feh/] h f d c a | \
+[cac1] ,,c/ d c a | [cac1] [daa] [fdf] |";french4tab
+181;;100v;Gaillarda;;;Cittern;;3;"[daaa1] [cac] [daaa] | [fdf3/2] g/ [fdf1] | [fdf1] [daaa] [dcab] | \
+[cac3/2] d/ [cac1] | [daaa1] [cac] [dfaa] | \
+[fdf3/2] g/ [fdf1] |";french4tab
+182;;101r;Gaillarde;;;Cittern;;3;"d/ f | [hfh3/2] i/ [hfh1] | [ece1] [fdh] [hfh] | [ifff/] ,,h ,,f ,,,h [ifff1] | \
+[hfh1] [fdf] [dae] | [cac/] a c d [fdf1] |";french4tab
+183;;101v;Gaillarde;;;Cittern;;3;"g/ f | [daa3/2] f/ [daa1] | [cac3/2] d/ [cac1] | [daa3/2] c/ [daa1] | \
+[fdf3/2] g/ [fdf1] | [gddd1] f/ g [ihh1] |";french4tab
+184;;102r;Branle del duc;;;Cittern;ConcR3008;C;"[daa/] ,,d ,,c ,,a [cac] d [cac] a/4 c | [daa/4] c a c d a b d \
+[fdf] d f g [fdf/]d/4 f |";french4tab
+185;;102v;La Courrante;;;Cittern;ConcR3009;3;"[daa2] [daa1] | [cac3/2] d/ [cac1] | [daa3/2] c/ [daa1] | \
+[fdf3/2] g/ [fdf1] | [gddd2] [gddd1] | [fdf2] [daa1] | \
+[cac3/2] d/ [cac1] | [daaa3/2] d/ [daaa1] :||:";french4tab
+186;;103r;Le saltarelle;;;Cittern;ConcR3010;C;"[daa/] [daa] [cac] [cac] [daa] [daa] [fdf1] | \
+[gddd/] [gddd] [fdf] [daa] [dac] c [daaa1] :||: \
+[gfh/] [gfh] [fdh] [liai] [lhk] k [lhhh1] |";french4tab
+187;;103v;Branle;;;Cittern;;C;"[daaa/] c d f [hfh1] [hfh] | [ifff1] [feh] [daaa] [hfh] | \
+[ifff1] [feh] [hfh] f/ ,f | [cac/] a d c [daaa1] d/ ,,,a :||:";french4tab
+188a;;104r;La courrante;;;Cittern;;3;"[daaa2] f1 | [hfh2] [hfh1] | [ifff2] [feh1] | [daaa2] [hfh1] | \
+[ifff2] [feh1] | [hfh3/2] f/ ,f1 | [cac3/2] a/ c1 | \
+[daaa3/2] d/ ,,,a1 :||:";french4tab
+_188b;;104v;La reprinse;;;Cittern;;C;"[daaa/] f [hfh] [hfh] [ifff] [feh] [,aaa] [hfh] | \
+[ifff/] [feh] [hfh] f/4 d [cac] a d c [daaa1] :||:";french4tab
+189a;;105r;Almande;;;Cittern;;C;"[daaa1] [daaa] [cac/4] a c d [cac/] [daaa] | \
+[fdf/] [fdf] [daaa] c/4 d [cac] a c d [cac/] [cac] |";french4tab
+_189b;;105v;La Reprinse;;;Cittern;;3;"[daaa2] [daaa1] | [cac1] ,,c/ a c d | [fdf1] [fdf] [daaa] | \
+[cac3/2] d/ [cac1] | [daaa1] ,,c/ ,,e ,,c ,,a |";french4tab
+190a;;106r;Almande;;;Cittern;ConcR3001;C;"[daaa/] | [cac1] [daaa] [fdf/4] d f h [fdf/] [daaa] | \
+[cac/] [dcf] [dac] c [daaa1] d/ [daaa] |";french4tab
+_190b;;106v;La Reprinse;;;Cittern;ConcR3002;3;"[daaa1] | [cac2] [daaa1] | [fdf2] [daaa1] | [cac1] [dcab] [cac] | \
+[daaa2] [daaa1] | [cac1] ,a/ a c d | [fdf/] h f d c a |";french4tab
+191a;;107r;Almande;;;Cittern;;C;"[hfh1] [hfh] [ifff/] f/4 h i f h i | [hfh/] [fdh] [fce] e [fccc1] f/ ,,c | \
+[hfh/] i [hfh] f/4 h";french4tab
+_191b;;107v;Reprinse;;;Cittern;;3;"[hfh2] [hfh1] | [ifff1] f/ h i f | [hfh1] [fdh] [ece] | \
+[fccc3/2] f/ ,,c1 | [hfh3/2] i/ [hfh1] | [ifff/] h f h i f |";french4tab
+192a;;108r;Almande;;;Cittern;ConcR3003;C;"[hfh1] [hfh] [hfh/4] f h i [hfh/] f/4 h | \
+[ifff/] [hfh] [ifff] ,h [hfh1] h/ ,,h | [daaa1] [daaa]";french4tab
+_192b;;108v;La reprinse;;;Cittern;ConcR3004;3;"[hfh2] [hfh1] | [hfh/] f h i [hfh1] | [ifff1] [hfh] [ifff] | \
+[hfh3/2] h/ ,,h1 | [daaa2] [daaa1] | [daaa/] c a c [daaa1] |";french4tab
+193a;;109r;Almande;;;Cittern;;C;"[ihl1] [ihl/] h/4 i [lil] i l m [lil/] i/4 ,i | \
+[ihk/] [gfi] [gdf] f [gddd1] g/ ,,,d |";french4tab
+_193b;;109v;Reprinse;;;Cittern;;3;"[ihl2] [ihl1] | [lil/] i l m [lil1] | [ihl1] [gfi] [fdf] | \
+[gddd3/2] g/ ,,,d1 | [ihl3/2] l/ [ihl1] | [lil3/2] l/ [lil1] |";french4tab
+194;;110r;Ghelooft sy Godt;;f. 100r;Cittern;;3;"[hfh1] | [hfh2] [feh1] | [dce2] [feh1] | [feh2] [fcc1] | \
+[cae2] [hfh1] | [hfh2] [feh1] | [dce2] [dce1] | \
+[ifff2] [ifff1] | [hfh1] [hfh] [lkn] |";french4tab

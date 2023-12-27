@@ -1,0 +1,952 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1;;1;Passaggio;;;OT;ConcR785;C,1;"[aaccca1] | \
+[aac,,a/16] ,,,,,c ,,,,,e ,,,,,a ,,,,c ,,,,e \
+,,,a ,,,,c ,,,c ,,a ,,c ,,,c ,a ,c ,d ,a | \
+a/16 c e a h k l h n l k h f e c a |"
+2;;1;[Prelude];;;OT;ConcR782;C;"[aab,,a1] | \
+[,ab,,a/16] a ,d a ,c ,d ,a ,c ,,d ,a ,,b ,,d ,,a ,,b ,,,c ,,,e | \
+,,,a/16 ,,,c ,,,,e ,,,a ,,,,c ,,,,e ,,,,a ,,,,c ,,,,,d ,,,,a ,,,,,c \
+,,,,,d ,,,,,a ,,,,,c ,,,,,,d ,,,,,a |"
+3;;1;Passaggio;;;OT;ConcR786;C;"[caaac1] | \
+[caaac/] {a} | \
+[,aaac/16] h f d c a ,d ,c ,a ,,d ,,b \
+,,a ,,,c ,,,a ,,,,d ,,,,c | \
+,,,,a/16 f d c a ,d ,c ,a ,,d ,,b ,,a \
+,,,c ,,,a ,,,,e ,,,,c ,,,,a |"
+4;;2;Passaggio;;;OT;;C;"[,daa{a}1] | \
+[,daa/8] {a}/16 ,,,,,a ,,,,,c ,,,,,d ,,,,a ,,,,c ,,,,e \
+,,,a ,,,,a ,,,,c ,,,,e ,,,a ,,,c | \
+,,a/16 ,,b ,,d ,,,a ,,,c ,,a ,,b ,,d \
+,a ,c ,d ,,d ,a ,c ,d a |"
+5;;2;[fragment];;;OT;;C;",,,c/ ,,,,a/4 ,,,,b/8 ,,,,d | \
+,,,c/16 ,,a ,,b ,,d ,a ,c ,d a c d f d \
+c/32 a ,d ,b ,a ,,d ,,b ,,a |"
+6;;2;Passagio J.V.d.Hoven A[nn]os 1614;Joachim van den Hove;;OT;ConcR208;C;"[,dda{a}/4] ,c/8 ,a ,,d ,,b ,,a ,,,c | \
+[,,,a{a}/8] ,,,c ,,a ,,b ,,d ,a ,c ,d | \
+[a,,,a/8] ,d a c [a,,,a] c d f |"
+7;;2;Praambulum;Johan Baptiste Besard;CLFBes N°2;OT;ConcR509;C;"[,dda/] {a}/4 a | \
+[bdda/] [a,d,e] | \
+[,dddf/] f | \
+[gd,f,d/] [f,,,,c] | \
+[ddf,,d/4] ,,,,a [,d,,b] [a,,,d] | \
+[b,,a/4] ,,,c [,d,d] [,ab] | \
+[abb,a/4] {,,a} ,,,,d ,,,a |"
+8;;3;Passagie;;;OT;;C;",,d/8 ,a ,c ,,d ,a ,c ,d ,a | \
+,d/8 ,d a ,c ,d a c ,d | \
+a/8 c d a c d f d |"
+9;;3;Praludium Johan Rude Frances: A[nn]os 1615. 5.X[e]mb[er];Johannes Rude;;OT;;C;",a/4 ,c ,d a | \
+c/4 ,a c e | \
+[f,a/4] [e,c/8] c [a,d/4] ,,c/8 ,,a | \
+[,ac/4] [,cd] [,df/8] ,c ,a/4 | \
+[,cXf/4] ,,e/8 ,,c ,,e ,,f [,c,,,c] ,,e |"
+10;;3;Praeludium;;;OT;;C;"a/ ,,d/4 ,c | \
+,,a/4 ,d ,,b a | \
+[c,a/8] a ,d ,c [,af] ,,d ,,b ,,a | \
+[a,,c/4] ,d [,cd] ,,b |"
+11;;3;Praeludium;Johannes Rude;;OT;ConcR742;C;"[,aa/8] ,c ,d a c ,a c e | \
+f/8 ,f ,d e c ,a ,c c | \
+b/8 ,a ,,e ,c c a [,df] a |"
+12;;4;Praeludium Mercury d'Orleans;Mercure d'Orléans;;OT;ConcR750;C;"[baa{a}/] ,,a/4 f | \
+[da/8] c a ,d ,c/16 ,a ,,d ,,b ,,a ,,,c ,,,a ,,,,e | \
+[,a,,c/16] ,,,,e ,,,,f ,,,,e ,,,,c ,,,,,d ,,,,,c ,,,,,a \
+{a} {,a} {,,a}"
+13;;4;Praeludium;;;OT;ConcR743;C;"[aab,,a/] d/4 ,,,,d | \
+[c,,da/4] ,,,,c [a,b,d] ,,,,a | \
+[,da,c/4] ,,,,,d [,b,c,a] ,,,,,c | \
+[,ab,,d/4] ,,,,,a [aab,c] [,ea] | \
+[aab,,a/4] d a ,,,,d |"
+14;;5;Praeludium;;;OT;ConcR160;C;",d/4 a [cdda/8] d f ,,,a | \
+d/8 c a c ,,,a ,d a c | \
+,,,,d/8 ,b ,d a ,,,,c ,a ,b ,d | \
+,,,,a/8 ,,d ,a ,b [,a,,,d] a [,d,,c] ,a |"
+15;;5;Praeludium;;;OT;;C;"[aaccca1] | \
+[aac,,a/16] h e a ,a/8 ,,c ,,,c ,,,,c ,,,,,e ,,,,,a | \
+[aac,,a/16] c e f h ,,a ,,c ,,d ,a ,,,b ,,,c ,,a ,,c ,c ,a ,,d |"
+16;;6;Prelude, a Napoli. A[nn]os 1616. 23 Sept:;Elias Mertel;;OT;ConcR777;C;"[bdd{a}/] a | \
+[bdda/8] d f ,,,,d [,dedb] a b ,,,,a | \
+[dde,,d/4] [f,d] [gd,f] ,f | \
+[fg,a/4] {a}/8 d b/4 [a,,,,a] | \
+[,dd,,b/4] ,b [,,ea,d] ,,,c |"
+17;;6;Praeludium;;;OT;;C;"[haa/] [k,,i/4] [h,,k] | \
+[g,h/4] [h,i] [h,h] g | \
+[haa/4] c/8 e f ,c e ,a | \
+c/8 ,,d [ca] ,,d ,,c c [bac/4] |"
+18;;7;Praeludium J.V.d.H.;Joachim van den Hove;;OT;ConcR1082;C;"[ccd,,c/] ,,,e/4 e | \
+[fc,e/8] e c f [ec,d] ,,,e ,,c ,,,d | \
+[ccde/8] ,,c ,,d ,,f [ccde] ,,,c ,,,a ,,,,e | \
+[ccaa/4]"
+19;;7;Praeludium;;;OT;;C;"a/ ,b/4 ,,d | \
+[,ac/4] [,bd] ,,,c ,a | \
+[,,d,d/4] ,,,,a [,a,c,e] [,bd,a] | \
+,,,,,a/4 [,acc] [,bd] a | \
+a/4 [,bd] [,ab/] | \
+a/4 [,,bc] [,,dd]"
+20;;8;Praeludium J.V.d.H.;Joachim van den Hove;;OT;;C;"[cdd{a}1] | \
+[,dff,d/] [da,c,a] | \
+[cdd{a}/4] d [cdda] [a,d,e] | \
+[,dd,c/4] ,,c/8 ,,a [,ac,c] ,,d ,a ,,c | \
+[,cd,a/4] a/8 ,d [,cd] d [,cd] ,,b |"
+21;;8;Toccate;;;OT;;C;"[fda{a}1] | \
+[cdda/8] ,,,,d ,,,,c ,,,,a [dab,,d/4] ,,,,,c/8 ,,,,,a | \
+[fda{a}/4] [df] [cd,a] [a,d,e] | \
+[,da,c/8] c a c [,da,c/16] ,a ,c ,d ,a ,c ,d |"
+22;;9;Praeludium Dio:;Diomedes Cato;;OT;;C;"[aab,,a1] | \
+a/4 ,a ,,,c ,,b/8 ,,,a | \
+[d,bcd/16] ,,,,c ,,,,d ,,,a ,,,c ,,,a ,,,,d ,,,a \
+,,,c ,,,e ,,,f ,,,e ,,,c ,,,e ,,,f ,,d | \
+[ddf,,d/4]"
+23;;10;Praambulum;;;OT;;C;"[faa{a}/8] [a{,a}] ,e ,c ,a ,c ,e a | \
+c/8 e [fc,e,c/4] e/8 c ,f ,d | \
+,c/8 ,,f ,,d ,,c ,,,e ,,c ,,d ,,f |"
+24;;10;Bargamasco di Gioan Battista Domenicho;Giovanni Battista Domenico;;OT;Conc_45;C;"[cdda/] [cdd] | \
+[dab,,d/] [dab] | \
+[acdca/] [acd] | \
+[cdda/] {a} || \
+[fdaa/] [fda] | \
+[dab,,d/] [dab] | \
+[acd,a/4] c d a | \
+[cdda/] {a}/4 d ||"
+25;;12;Sequitur Contrapunto Sopr'alla bergamasca del Me;?Joachim van den Hove;Bergamasca descant;OT;ConcR1083;C;"f/ f | \
+d/ d | \
+a/ a | \
+c3/4 a/4 || \
+,d/ ,d/4 ,c | \
+,a/ ,a | \
+,c/4 ,d ,a ,c | \
+,d/4 ,d ,c ,a ||"
+26;;16;Corante Mercury;Mercure d'Orléans;;OT;ConcR1091;3;",c/4 | \
+[,cd/4] ,,c [,da] | \
+[a,,c/4] ,,,e ,,c | \
+[,cd/4] ,,,,a ,,,,,e | \
+[,,d,,c3/8] ,a/8 [,,c,,a/4] | \
+[,,a,,a3/8] ,,c/8 ,,d/4 | \
+{a}/4 ,c [,a{a}/8] ,,d |"
+27;;16;[Dump duet treble];;;OT;ConcR285;none;"f/8 d c a ,d ,c ,a ,,d ,,b ,,a ,,,c ,,,a ,,,,d ,,,,c ,,,,a \
+,,,,,d ,,,,,c ,,,,,a {a} ,,,,,a ,,,,,c ,,,,,d"
+28;;17;Pauana Lachrimae Joachimi van den Houen der 16 Febr: A[nn]os 1614;John Dowland / Joachim van den Hove;;OT;Conc_4415;C;"[aabcca/] ,,,c/4 ,d/8 ,b | \
+[,ab,,a/8] ,,d/16 ,a ,b ,d a c [d,,c/8] a [c,,a] ,a | \
+[aa,,d/4] ,,d/8 ,,b [,,d,d] ,,a/16 ,,b ,,d ,,a ,,b ,,d |"
+29;;20;[7 Divisions on Fortune My Foe];;;OT;ConcR28;C;"[,dda{a}3/8] [,c,c/8] [,dda/4] [acd,a] | \
+[bdda/4] ,d/8 a b d [acd,a/4] | \
+[,dda{a}/4] [fg,d] [dfg,d] [bdda] | \
+[acd,a/8] ,d a b [acd,a/4] ,,,c | \
+[,d,a/8] a b d"
+30;;24;Pauana;;;OT;;C;"[ca,bc/] ,,,,c/4 [ac] | \
+[,efec/4] ,,,,a [aa,c,e/] | \
+[acdca/4] ,d [,cd,a] ,,,,,d | \
+[fc,e,c/] ,,,,,a/4 [df] | \
+[cdda{a}/4] [a,b] [,da] ,,,,,a | \
+[,ceeec/4] c [,cee] ,,,,,c |"
+31;;25;Del Excellentissimo Musico Jano Dulando. Andegaui, Anno 1614. 22 Jun.;John Dowland / Daniel Bacheler;;OT;Conc_4438;C;",,d/4 | \
+[,dda/] [acd,a] | \
+[bdda/] [d,,,c/4] b | \
+[a,,,d/] ,,,,a/4 ,d | \
+[,b,c/4] ,a [,,d,,b/] | \
+[,aba,d/4] ,b [,dd,,b/] | \
+[a,b,,a/] ,,,,e |"
+32;;28;Pauana Johan Douland;;;OT;;C;"[abdca3/8] c/8 d f ,d/4 | \
+[ff,,a/4] ,,g3/8 ,,i/16 ,f g3/8 f/8 | \
+[dg,fd3/16] ,g/16 ,f3/16 ,d/16 ,f/8 d f d | \
+[,dda/8] d b a [bdd/4] {a} |"
+33;;31;Corante Mercury a Orleans A[nn]os 16[16];Mercure d'Orléans;;OT;Conc_911;3;"a/4 | \
+[a,d3/8] ,d/8 [,c,,a/4] | \
+[,a,a/4] ,,d [,,cc] | \
+[,,dca/] {,,,a}/4 | \
+[,,dc/] a/8 c e a | \
+h/4 ,,,,,a [e,cc] | \
+[c,,,c3/8] ,f/8 [,e,e/4] |"
+34;;32;Pauana. J.V.D.H.;Joachim van den Hove;;OT;;C;"[,,dca/] [,bd] | \
+[,a,c/4] ,,,,c [,bd,a/4] ,,,c | \
+[aab,,a/] [,bd,a/4] ,d | \
+[,ab,,a/4] ,,d [aabc] ,,,a | \
+[a,bcd/] a/4 ,d | \
+[aaa,c/4] ,e/8 ,c [,ea,c/4] ,a |"
+35;;33;Fantasia;;;OT;;C;"z/ f | \
+[h,,f,d/] d | \
+[c,da/] ,d | \
+[df,,d/] ,,g | \
+[,df,,d/] d | \
+[f,,a/] [c,d] | \
+,a/ [a,b,d] | \
+[,,aa/] [,da,c] | \
+[,d,c,d/] [,cdca] | \
+[,daa{a}/4]"
+36;;33;Corante;;;OT;;3;"i/4 f | \
+[fdd{a}3/8] h/8 f/4 | \
+[hi,f3/8] i/8 h/4 | \
+[dfg,d/] ,,,f/4 | \
+[dfg/] [i,,,,f/4] | \
+[h,,,h/] [f,,d/4] | \
+{a}/4 [ea,c] ,,,,,a | \
+[fcd,a/] {a}/4 | \
+[fcd/] ||"
+37;;34;Fantasia;;;OT;;C;",a3/4 ,a/4 | \
+,a/ ,a | \
+,,e/ ,a | \
+[c,a3/4] [c,c/4] | \
+[c,e/4] ,,a [ca/] | \
+[b,c/] [c,a] | \
+,,,,c/4 a ,d [,c,,c] | \
+[,d,,c/4] ,a [,da,c/] |"
+38;;36;Fantasia Ortenzio;Ortenzio;;OT;ConcR797;C;",a1 | \
+,a/ ,c | \
+,d/ ,a | \
+c/ ,,a/4 a/8 ,d | \
+[,ca/4] ,d [c,a/] | \
+,,d/4 ,c [c,a/] | \
+,c/ a/4 ,a | \
+[,ce/] [,df] | \
+,c/ [c,e] |"
+39;;37;Lamentatio Boqueti;Charles Bocquet;CLFBoc N°34;OT;ConcR823;C;"[f,,,a/8] h i/4 h [ffg,a] | \
+[da,c,a3/8] b/8 a ,d b/4 | \
+[f,,d/4] [d,,c] [b,,a/8] a [d,,,c] b | \
+[a,,,d/8] b a ,d [,b,,a] ,d a ,b |"
+40;;38;Fantasia. Joachimi Vanden Hove;Joachim van den Hove;Fantasia on Lachrimae;OT;ConcR761;C;"[aab,ca/] ,,,c/4 [,da] | \
+[,bdc,a/] [,ab/4] [,,de] | \
+[da,cca/] ,,,,c/4 [c,d] | \
+[aabcc/] [caabc/4] [aab] | \
+[befe{a}/] [cef/4] [ccd] | \
+[ha,f{a}/] [f,,d/4] [d,,c] | \
+[caab/] [aabc/4] ,,,,,a |"
+41;;39;Dio: Re. mi. fa. sol. la.;Diomedes Cato;;OT;ConcR2697;C;"[da,c,a/4] [ab/8] c [da/4] ,,,c/8 c | \
+[aab,,a/4] ,d/8 ,,a [,c,c] ,d [,a,a] ,c | \
+[,,deec/4] c f ,,,a/8 d | \
+[c,d,,c/4] a/8 ,,b [,da] a [,c,c] ,d |"
+42;;40;Fantasia Petrue Kenopacky;Vaumesnil;;OT;ConcR672;C;",a1 | \
+,a/ ,a | \
+[c,d/] ,,a | \
+[c,e/] [ca] | \
+[ac/4] ,a [,cd] ,,c/8 ,,a | \
+[b,c/4] ,c [c,e] ,a | \
+e/4 ,c [f,a] ,d |"
+43;;41;Corant Puis que vos yeux;;;OT;Concr729;3;"[b,,a/4] | \
+[a,,,e3/8] b/8 a/4 | \
+[,dda{a}3/8] a/8 ,d/4 | \
+[,cdca/] {,,a}/4 | \
+[,cdca3/8] ,a/8 ,,d/4 | \
+[,ab,,d3/8] ,c/8 ,d/4 | \
+[,d,a/4] [,cdca/] | \
+[,dda/] {a}/4 |"
+44;;42;Dio: Fantasia;Diomedes Cato;;OT;ConcR409;C;",,c/ ,,c/4 ,,c | \
+,,c/ ,,c | \
+,,d/ ,,c/4 ,,a | \
+[,c,d/] [,c,e/4] ,c | \
+,c/8 ,,c ,,d ,,f [,cd] ,,c ,,d/16 ,,c ,,a ,,,c |"
+45;;43;Corante Ballard a Paris A[nn]os 1615;Robert Ballard;;OT;ConcR488;3;"c/4 | \
+[cdda3/8] d/8 c/4 | \
+,d/4 f c | \
+[,d,a/4] ,,d ,,a | \
+,,,a/4 {a} c | \
+[cdda3/8] d/8 c/4 | \
+[,d,,,d3/8] a/8 c/4 | \
+[acdca/] ,,,c/4 |"
+46;;44;Fantasia Ortenzio;Ortenzio;;OT;ConcR1355;C;",d1 | \
+,d/ ,,e | \
+,b/ ,d | \
+,,b/4 ,,d ,,e ,b | \
+,d/ f | \
+,d/ [bd] | \
+[d,e/] [f,d] | \
+[,de/4] a b d | \
+[f,d/] ,,d/4 d |"
+47;;45;Fantasia de Monsieur Francisque. a Metz Anno 1615;Francesco da Milano;;OT;;C;"a1 | \
+a/ ,b | \
+,d/ a | \
+,,d/4 ,d ,b ,a | \
+[,bd/4] ,,b [,d,d/] | \
+[a,b/] [,bd] | \
+[,,,cc/4] [,bd] [,ad] [,,de] | \
+[,abc/4] ,,,a [a,,,d] ,,d |"
+48;;45;Passagie;;;OT;;C;",,,,,a/8 ,,,,,c ,,,,,d ,,,,a ,,,,c ,,,,d ,,,a ,,,c | \
+,,a/8 ,,b ,,d ,a ,b ,d a ,d | \
+,b/8 ,a ,,d ,,b ,,a ,,,c ,,,a ,,,,d |"
+49;;46;Fantasia Ballard a Paris A[nn]os 1615. 10 Febr:;;;OT;;C;",b/4 ,d a ,b | \
+d/4 ,,b ,,,c ,,,,d | \
+[f,,d/4] ,,,a/8 ,,,c ,,,d/4 [d,b] | \
+[b,d/4] ,a [ab] ,a/8 ,,d | \
+[,db/4] [,bd] [,da] ,,b |"
+50;;46;Cour. Ou la Bergere;;Courante La Bergere;OT;;3;"[,dda{a}/4] [,dda] [,cdca] | \
+[,dda{a}3/8] a/8 c/4 | \
+[a,,,a3/8] a/8 [,da,c] | \
+[,cd,a3/8] ,a/8 [,,d,,c/4] | \
+[,ab,,d3/8] ,,d/8 ,a/4 | \
+[,,d,a/] [,da,c/4] | \
+,,,,,d3/8 ,d/8 [,cd,a/4] |"
+51;;47;Fantasia jncerti a Frankfurt. 2. x[e]mb[er]. Anno 1615;;;OT;;C;",,,a1 | \
+,,,a/ ,,,a | \
+,,,,d/ ,,,,a | \
+,,,,c/ ,,,,d | \
+,,,a/ ,,,,c | \
+,,,,a/ ,,d/4 ,,,,c | \
+[,,d,d/] [,,d,a] | \
+[,,b,c/] [,,,cd] | \
+[,,,df/] [,,b,c] | \
+[,,d,a/] [,,,df] |"
+52;;48;Courante Mercuriy;Mercure d'Orléans;;OT;Conc_1758;3;",c/4 | \
+[,cdc{,,a}3/8] ,d/8 [a,,,e/4] | \
+[c,,a/4] [e,,c3/8] c/16 e | \
+f/4 ,,,,a ,,,,c | \
+,,,,e/4 e [c,,a] | \
+[aac,,a/4] ,,,c ,,,a | \
+[a,,,e/4] [,da,c] ,,c | \
+[ccd,,c/4] ,,,,,a {a} |"
+53;;49;La mia Barbara. Johan. Doulande Bacheler;;;OT;ConcR1084;C;"[fdaa/4] ,,,c [,da] [a,b] | \
+[cdda/4] d [f,a/] | \
+[,dfa/4] d d/ | \
+[,dda3/16] d/16 c/8 a [cd,,c3/8] a/16 c e/4 | \
+[fcdca3/8] d/8 c3/8 a/16 c a/8 ,d |"
+54;;51;Corante;;;OT;;3;",d/ | \
+[,d{a}/4] ,c ,d | \
+a/4 c ,d | \
+[a,,,a/4] ,d ,c | \
+,d/4 a ,c | \
+[cdda/] {a}/4 | \
+[a,,,a/4] ,d ,c | \
+,d/4 a ,c |"
+55;;52;Vltimi miei Suspiri, Ferabosco;Philippe Verdelot arr. Alfonso Ferrabosco;;OT;ConcR413;C;"[aa,c/] | \
+[aa,c/8] ,,a/16 ,,b ,,d ,a ,c ,e ,f ,e ,f ,e ,f ,e ,c ,e | \
+[df,c/8] ,d/16 ,b ,a ,,d ,a ,b ,a ,,d ,,b ,,d ,a ,,d ,,b ,,a |"
+56;;55;Pauana de Nicola Vallet por tresdocte Martin Dalem der 8 april 1614;Nicolas Vallet;;OT;ConcR991;C;"[ccdeec/] ,,d/4 ,a | \
+[,c,e/4] ,d [a,,c] ,c | \
+[cdda/4] ,a [a,,,e] ,,c/8 ,,d | \
+[,da,c/4] ,,c [,cde] ,,,,e/8 ,,c | \
+[,caa/4] ,a [,ccee] ,,,d |"
+57;;56;Corante;Robert Ballard;Courant de la Reine;OT;ConcR433;3;"K:frenchtab
+,,d/4 | \
+,b/4 ,,,,a [,a,,,e] | \
+[,bd,a/4] ,a/8 ,b [,d,,c/4] | \
+[abb,d/4] ,,,,a/8 ,d ,b/4 | \
+[,a,c/4] ,,,a [a,,,d] | \
+[,dba,d/4] ,a/8 ,b ,d ,a |"
+58;;56;Corante;;;OT;ConcR344;3;",,d/4 | \
+,d/4 ,,,a [a,,,e] | \
+[b,,a/4] a/8 b ,d b | \
+a/4 ,,,,a ,,,,c | \
+,,,,d/4 [,a,a/8] ,b ,d ,b | \
+[,a,,c/4] ,,,,a [,,d,d] |"
+59;;56;Corante;;finished at the bottom of p. 57;OT;;3;",,,a/4 ,,,c | \
+[,,,d{a}/] ,,b/4 ,,,,,a | \
+[,,d,,b/4] ,,,a [,a,,,d] | \
+[,cdca/4] ,,,c [,d,,c] | \
+[a,,,d/4] ,,d b | \
+[a,,c/4] ,,,d ,d | \
+[a,b/4] [,cdca/8] ,a/16 ,c |"
+60;;57;Corante;Robert Ballard;Courant de la Reine;OT;ConcR341;3;",f/4 | \
+[ffgh/4] h ,,,g | \
+[if,h3/8] h/8 f/4 | \
+[eff,,a/4] a [if,h] | \
+[h,f/4] [,fg] f | \
+[eff,,a/4] a [f,,d/8] ,a | \
+[d,,c/4] [b,,a] ,a |"
+61;;58;Corante;;;OT;ConcR433;3;",,d/4 | \
+,b/4 ,,,a [,a,,,e] | \
+[,bdca3/8] ,a/16 ,b [,d,,c/4] | \
+[a,,,d/4] ,,,,a/8 ,d ,b/4 | \
+[,abc/4] ,,,a [a,,,d] | \
+,d/4 ,,,,,d ,,,a | \
+[,db/] [da,,,a/4] |"
+62;;59;Corante;;;OT;ConcR1226;3;",,d/4 | \
+[,bdca3/4] | \
+[,dff,d/4] ,,g ,d | \
+,f/4 {a} ,,,f | \
+[,fg/4] ,,,,c ,d | \
+[a,,,d/4] ,,,a/8 c [d,,c/4] | \
+[a,,,d/4] [ff,c] ,d | \
+[eff,,a/4] f h |"
+63;;59;Courant der Maij der Maij;;Sellenger's Round / Est-ce Mars / French Tune;OT;ConcR19;3;"[,,dca/] ,,d/4 | \
+[,,dca3/8] ,a/8 ,c/4 | \
+[,dda/] {a}/4 | \
+[,dda/4] {a} d | \
+[c,,a/4] a ,d | \
+[,cd,a3/8] ,a/8 ,c/4 | \
+[,dda/] {a}/4 | \
+[,dda/] {a}/4 :||:"
+64;;60;Corante;;;OT;ConcR603;3;",d/4 | \
+[ddff3/8] f/8 d/4 | \
+[fdaa3/8] d/8 f/4 | \
+f/4 ,,,f ,,,h | \
+,,f/ [f,,e/4] | \
+[ddff3/8] f/8 [c,,a/4] | \
+[a,d/4] ,d/8 a c d |"
+65;;61;Corante;;;OT;ConcR1226;3;",,d/4 ,a | \
+[,bdca3/8] ,d/8 ,b/4 | \
+[,dba,d/4] ,b ,d | \
+[abb,d/] {,a}/4 | \
+[ab/4] ,,,,c ,d | \
+[ab,,d3/8] c/8 d/4 | \
+a/4 [f,,a/] | \
+[ddf,,d3/8] f/8 h/4 |"
+66;;61;Corante;;;OT;ConcR3113;3;"[fda{a}3/8] d/8 [c,,a/4] | \
+[da,c/4] ,c [c,,a] | \
+[,da,c/4] [a,,,e] ,,d | \
+[c{a}/] ,d/4 | \
+[fda{a}3/8] d/8 [c,,a/4] | \
+[da,c/4] ,,,,,c c | \
+[a,,,,d3/8] ,d/8 [,cd,a/4] |"
+67;;62;Corante;;;OT;;3;",d/8 a b/4 [d,,c] | \
+[f,,d/4] g/8 f ,g/4 | \
+[d,,,d/4] h [b,,a] | \
+[a,,,a3/8] ,d/16 a ,c/4 | \
+[,d,a/8] ,c ,d a b d | \
+[f,,,a3/8] h/8 i/4 |"
+68;;62;Corante;;;OT;;3;"[aabc/4] | \
+[abd,a3/8] c/8 a/4 | \
+[,ea,c/4] {a}/8 ,,a ,,c ,,e | \
+,a/8 ,c ,e a c ,e | \
+[aabc3/8] c/8 d/4 | \
+[ca,b/4] [aabc/] | \
+[,ef3/8] ,,d/8 [a,c/4] |"
+69;;63;Sarabande;Robert Ballard;La Courant Sarabande;OT;Conc_1756;3;",,d/8 ,a ,c ,d | \
+[aac,,a3/8] c/8 a/4 | \
+[,cd,a/4] {a} [a,,,,e] | \
+[acd,a/] [c,,a/4] | \
+[,da,c3/8] a/8 ,d/4 | \
+[,cd,a/] ,d/8 a | \
+[cdda/] [acd,a/4] |"
+70;;63;Corante;;;OT;;3;"a/4 | \
+[,b/4] ,,c [,ac] | \
+[,,dd/4] ,,,c ,,,a | \
+[a,,,d/4] ,b/8 ,d a b | \
+[d,,c/4] ,b ,a | \
+[,,dd/4] ,b ,,,c | \
+[,d,a/4] d b |"
+71;;64;Corante Mercury A[nn]os 1615;Mercure d'Orléans / René Saman;;OT;Conc_3470;3;",a/4 | \
+[,cdc{,,,a}3/8] ,d/8 ,c/4 | \
+[,a,,,a/4] ,,d [,,cc] | \
+,,,,,c/4 ,,,,e ,,,e | \
+[ccd/4] ,,,,,a {a} | \
+{,a}/4 ,,,,e [a,d] | \
+,,,,c/4 [,c,,a] ,a/8 ,,d |"
+72;;64;Corante Mercury;Mercure d'Orléans;;OT;;3;"f/4 | \
+[ffgh3/8] h/8 i/4 | \
+[h,,g/4] [ffgh] h | \
+[da,c/4] a/8 b d b | \
+[a,d3/8] b/8 [d,,c/4] | \
+[f,,d/4] ,,,,a/8 ,,,,c ,,,,d ,,,,a |"
+73;;65;Corante Mercury;Mercure d'Orléans;;OT;;3;"d/4 | \
+[dfg,d3/8] f/8 d/4 | \
+,f/4 ,,g ,d | \
+[,fgfd/] {,,a}/4 | \
+[,fgf/] d/4 | \
+[dfg,d3/8] f/8 d/4 | \
+[f,,d3/8] i/8 [h,,f/4] | \
+[if/4] h/8 f ,i ,g |"
+74;;65;Corante eiusdem;Mercure d'Orléans;;OT;;3;"d/4 | \
+[dfg,d/] [fggd] [dbbc] | \
+[bbdd3/8] d/8 b/4 | \
+[a,,,d3/8] b/8 [d,,c/4] | \
+[bbdd/4] [abbd/] | \
+[,dff/] ,,,,,d/4 | \
+[abb,d3/8] b/8 [db,c/4] | \
+[bbdd3/8] d/8 [a,,,a/4] |"
+75;;66;Corante eiusdem authoris;Mercure d'Orléans;;OT;;3;",b/4 | \
+[,bbcd{,a}3/8] ,d/8 ,a/4 | \
+,,b/4 ,,,c ,,,,d | \
+d/4 {,a} i | \
+d/4 ,,,c [abb,d] | \
+[,bbcd{,a}3/8] ,d/8 a c | \
+[d,,c/4] [ccda] a/8 c |"
+76;;66;Corante. Venetijs A[nn]os 1616.18 april;;Courant Nesta;OT;Conc_276;3;"a/4 | \
+[a,,,a3/8] c/8 [d,,c/4] | \
+[b,,a3/8] ,,,,c/8 ,d/4 | \
+[abb,d/] ,,,c/4 | \
+[abb3/8] [,d,,a/8] ,b/4 | \
+[,d,,c3/8] ,,,,,d/8 a/4 | \
+[,b,,a3/8] ,,,,,b/8 ,d/4 | \
+[aaccca/] ,,,c/4 |"
+77;;67;Corante à Napoli der 22 Sept. A[nn]os 1616;;;OT;;3;"a/4 | \
+[,bd3/8] ,d/8 ,,b/4 | \
+[c,a3/8] d/8 f/4 | \
+[d,,c3/8] f/8 d/4 | \
+,f3/8 ,d/8 a/4 | \
+[b,,a3/8] d/8 [a,,,d/4] | \
+[,d,,,d3/8] ,,b/8 [,df] | \
+[,bbdd/] {,a}/4 |"
+78;;67;[fragment];;;OT;;C;"[acd/] ,c | \
+[ffhh/] [,fi/4] ,,e | \
+[ffhh/] [df] | \
+[dfg/] [cdf/4] [,cd] [cef/] [efc] | \
+[,dff/] ,,f | \
+[dfff/] [,dg/4] ,,g [ddff/] [bd] |"
+79;;68;Toccate, Gemaeckt ter Eeren Van Mons: Vander Linden. In Leyden den 21 Febr: Anno. 1614. / Joachimus Vanden Hove Fec:;Joachim van den Hove;;OT;ConcR1085;C;"e/ ,c | \
+[,ccde/] [,cde,c] | \
+[,cee,c/] [,g,g/4] [,e,e] | \
+[,g,ge/] k | \
+[ccee/] h | \
+[ha,,h/4] k [fh] [ha] | \
+[ea,c/4] [f,a] [cd,a] [ea,c] | \
+[ac,,e/4] [c,d] [,da,c] [a,c] |"
+80;;69;Het Afscheyt Van Do Martino Dalemio, ende Joachimo Vanden Houe Gemackt, door Joachimus Vanden Houe: In Leyden den 12 Juny A[nn]os 1613;;beforelast system at the bottom of p. 68;OT;;C;"c/ e | \
+f/4 c [ha/] | \
+[fc/4] e [cd] ,a | \
+[df/] [cd/4] ,c | \
+[ca,,c/4] ,,a [a,d,e] ,,c | \
+[c,,aa/4] ,,,,c [ea,c] a |"
+81;;70;Het Laeste Leytsche Afscheit tussen Do. Martino Dalemio ende Joachimus Vanden Hoven / Joachimus Vanden Hoven;Joachim van den Hove;;OT;;C;",b/ ,d | \
+a/ d/4 ,,b | \
+[b,d/4] ,a [ab] d | \
+f/4 ,,d/8 d [cd/4] [da] | \
+[db/4] [cd] [d,b] ,d | \
+[ab/4] ,,,,d [bb,a] ,a |"
+82;;71;Propempticon triste de abitu doloroso Nobiliss: & strenui viri Rodolphi Echteny, ex Nobilissima Luciana societate, Compositum per J. V. Hove A[nn]os 1613. mensis maii. die duodecima;Joachim van den Hove;Rudolph Echtenij's Dump;OT;ConcR1056;C;"[ec,de/] {,a}/4 c | \
+[bcc,e/4] ,,,,c [cca,b] a | \
+[,ef,c/4] e/8 f h/4 ,,,,a | \
+,,,,,e/4 h [fc,e,c] e | \
+[ccde/4] ,,f [ccde] ,,,c |"
+83;;72;Toccate di Paulo d'Aragona Siciliano. Neapoli 23 7[em]b[e]r A[nn]os 1616;Paolo Aragona;;OT;;C;"[b,da/] ,d/4 a | \
+[b,,a/4] d [ff,,d/] | \
+[,d,,b/4] d/8 b [d,,,b/4] ,d | \
+[bc,,a/] [bd,,a] | \
+[ad,,c/] ,c | \
+[bd,a/4] ,,,c [bd,d] ,,,c/8 ,,,a |"
+84;;73;Toccate J. V. d. H.;Joachim van den Hove;;OT;;C;"[aaccca1] | \
+[aacc/] [caab] | \
+[aacc/4] ,d/8 ,c [,acc/4] ,,,b/8 ,,,,e | \
+[,ea,c/4] e/8 f h/4 [ea,c,a] | \
+[fc,ca/4] [fc,,a/8] [,a,,c] [f,d,e/4] [fc,ca] | \
+[ea,c/4] [e,,c/8] [c,a] [aac/4] [ea,c] |"
+85;;74;Toccate J. V. d. H. Anno 1614;Joachim van den Hove;;OT;;C;"[fda{a}1] | \
+[cdda/] [dab,,d] | \
+[c,,a/8] d f ,,,,d ,,,,c f [ea,c] ,d | \
+[f,,,a/8] c a ,d ,c ,,,e ,,,c ,,,a |"
+86;;74;Toccate;;;OT;;C;"[fda{a}1] | \
+[cdda/] [dab,,d] | \
+[c,,a/8] d c a ,d ,,,,d ,,,,c ,,,,a | \
+,,,,,d/8 ,,a ,,b ,,d ,a ,,,,a ,,,,c ,,,,e | \
+,,,a/8 f d c [da,c] ,,d ,a ,c |"
+87;;74;Toccate tot, Feren Mons: vander Burgle, van J. V.d.H. der 13 Jan. An[n]os 1614;Joachim van den Hove;M Vander Burgle's Toccata;OT;;C;",a1 | \
+[c,d/] [a,d/4] ,,b | \
+[,ea/4] [a,,c] ,,a ,c | \
+[ha,,h/4] ,a/8 ,c ,d a c e | \
+[fc/] ,a/4 d | \
+[ce/4] [af] [cf] ,e |"
+88;;76;Toccate pour Mons. Van der Lynden. A[nn]os 1614 der 16 Febr:;Joachim van den Hove;M Vander Linden's Toccata;OT;;C;"[fda{a}1] | \
+[cdda/] [ddf,,d] | \
+[cdda/8] d c [a,,,d] [,da,c] c [a,c] ,d | \
+[,cd,a/8] ,d ,c ,a [,a,,,d] [,,d,,c] ,,,a [,,b,,a] ,,,e |"
+89;;76;Toccate. J.V.d.H.;Joachim van den Hove;;OT;;C;"[cdd{a}1] | \
+[,dff,d/] [da,c,a] | \
+[cdd{a}/4] d c a | \
+[c,,a/8] a ,d ,c ,a ,c ,d a | \
+[c,,a/8] a c ,d [a,,,e] ,d a ,c |"
+90;;76;Toccate;;;OT;;C;"[abd/4] ,,b/8 ,,,d [aab/4] [,cd] | \
+[bdda/4] a/8 ,d [ab,,d/4] [abd,a] | \
+[,d,,b/4] [,b,,a/8] [,,e,,d] [,b,,a/4] [,,d,,b] | \
+[,,ea,d/4] ,,d/8 ,,b [,,d,,b] [,a,,,d] [,b,,a] [,d,,b] |"
+91;;77;Toccate J V d H 1614;Joachim van den Hove;;OT;ConcR774;C;"[abd,a/] {,,a}/8 f i f | \
+a/8 ,b ,d a ,,d ,,,c ,,,d [a,,c] | \
+[b,,a/8] [a,,,d] [,d,a] [,a,c] [,b,,a] ,d ,b ,a | \
+[,b,,a/8] [,a,,,d] [,,d,,b] ,,,a [aa,c,a] c e f |"
+92;;77;Toccate J.V.d.H. 1614.16 Aug.;Joachim van den Hove;;OT;;C;"[cdf,c/] [dc,c,a/4] ,a | \
+[cce,,c/4] ,,,e/8 ,,c ,,d ,,f ,c ,d | \
+[,c,,,c/8] ,,f ,,e ,,c [cce,,c] ,,f ,c ,,e | \
+[,aaac/8] ,c ,d ,c [,aaac] ,c ,d a |"
+93;;77;Volte;;;OT;ConcR598;3;",d/4 | \
+[,dda/4] {a} [a,,,e] | \
+[b,,a/] [d,,,b/4] | \
+[f,,,a3/8] d/8 [b,,a/4] | \
+[a,,,e/] [,d,a/4] | \
+[acdca/] {,,,a}/4 | \
+[,d,a/4] {a}/8 a b d | \
+a/4 ,,,,a {,,,a} | \
+[acd/4] ||"
+94;;78;Corante di Napoli;;;OT;;3;",b/4 | \
+[,bdca3/4] | \
+[,ddd{a}/4] ,f ,d | \
+,f/4 {,,,a} ,,,,a | \
+[abd/] f/4 | \
+[ffg,,f/4] ,,,h h/8 f | \
+[eff,,a/4] f e | \
+[f,,,a/4] {,,,a} [abd] |
+"
+95;;79;[Courante];;;OT;;3;",,d/4 | \
+[,,d{a}/4] ,,,a ,,,b | \
+[,,dd3/8] [,ab/8] [,cd/4] | \
+[,dda{a}/4] ,,,a/8 a b/4 | \
+[a,,,e/4] ,,d {a} | \
+[,ddef/4] ,,,,d ,,,,b | \
+[,,ba/4] ,,,d ,,,c | \
+{,,,a}/4 ,,,,a [acdc] |"
+96;;79;Corante;;;OT;;3;"d/4 | \
+[a{,a}3/8] b/8 d/4 | \
+[,b,c/4] [,d,a/8] a b d | \
+a/4 {,a} ,,,,d | \
+[,bbc/] a/4 | \
+,d/4 ,,,,c ,,b | \
+[,b,,a3/8] ,,b/8 ,,a/4 |"
+97;;80;Corante;;;OT;;3;",,,c/4 | \
+[,,,c{,,,a}/4] ,,,e [,,,c{,,a}] | \
+[,,a,,a/4] ,,d [,,cc,a] | \
+[,,d,a/4] ,,,c/8 ,,,a ,,,,e ,,,,c | \
+,,,,a/4 {,,,a} a | \
+[acd/4] ,d/8 a [,c,,a/4] |"
+98;;80;Corante della Notte di Napoli. 23 Sept. A[nn]os 1616;;;OT;;3;"d/4 | \
+[ddff3/8] f/8 d/4 | \
+[hhi/4] ,,g [h,f] | \
+[dfg/4] ,,,,d ,,,f | \
+,,g/4 ,,,,c ,,,,a | \
+[,df,,d/4] ,f ,,,,,c | \
+,,,,,a/4 d ,c |"
+99;;81;[Courante];;;OT;;3;",f/4 | \
+[,fgfh/4] ,,,,f/8 ,,,,d [,f,f/4] | \
+,d/4 ,,,,a [,bd] | \
+,,,c/4 {,,,a} [,a,,,e/8] ,,,,f | \
+[,,,,df/4] ,,,a [,,,c,d] | \
+[,,,cab/4] ,,,a/8 ,,,,d ,,,a ,,,,a |"
+100;;81;Corante;;;OT;ConcR430;3;"a/4 | \
+[abd/] [aab/4] | \
+,,,d/4 a/8 ,d ,b ,d | \
+,f/4 ,,,,,a ,,,,c | \
+,,,c/4 a ,d | \
+[,bd/4] ,a/8 ,b ,d/4 | \
+,,b/8 ,,,d ,,,c ,,,a ,,,,d/4 |"
+101;;82;Corante;;;OT;;3;",,,c/4 | \
+[,,,cd{,a}3/8] ,,,d/8 [,,,ca/4] | \
+[,,d{a}/4] ,,,d ,a/8 ,,d | \
+[,,c,,a/4] ,,,,c ,,,c | \
+[,bdca/4] ,,,,,d [,dd,,b] | \
+[a,,,,a/8] ,,,,c ,,,c c d/4 | \
+[,bdd,b/4] b/8 ,,,,,a [b{a}/4] |"
+102;;82;Corante;Gauthier;;OT;Conc_1747;3;",b/4 | \
+[,bdca{,,,a}/4] ,,,,a ,,,c | \
+[,,d{a}/4] ,,,d3/8 ,a/16 ,,d | \
+[,,c,,c/4] ,,,,c ,,,c | \
+[aac/] d/4 | \
+[dfg{,a}/4] ,,,,d ,,,f | \
+[ffg,,f/4] ,,,,h ,,,h | \
+[h,,,,a/4] ,,,,h ,,,,f |"
+103;;83;Courante di Francisco quaresmine;;;OT;;3;",,d/4 | \
+[acd/4] ,,,,a [aa,,,e] | \
+[ccd,,c3/8] e/8 f c | \
+[e,,c/4] ,,,,,a [f,,e] | \
+[h,,f/4] ,,,,,e [f,,e] | \
+[e,,c/4] ,,,,,a {a} | \
+[a{,a}/4] ,,d [,d,,c] |"
+104;;84;Courante;;;OT;ConcR431;3;",,,c/4 | \
+[,,dca/4] ,a ,b | \
+,a/4 ,,d [aa,,,e] | \
+[acdca3/4] | \
+[,dbac3/4] | \
+[abb,d3/8] b/8 d/4 | \
+[,bdca/4] ,,,,,b/8 ,d [,a,,,d/4] | \
+[,bbcd/4] {,,a}/8 ,d a b |"
+105;;84;Courante;;;OT;ConcR406;3;"a/4 | \
+[abd,a3/8] c/8 a/4 | \
+[da,,,a/4] [caa,c] a/8 c | \
+a/4 ,,,,,a/8 ,d ,b ,a | \
+[,b,,a3/8] ,a/16 ,b [,d,,c/4] | \
+[a,,,d/4] [c,,a] a/8 c |"
+106;;85;Corante;;;OT;Conc_1751;3;"a/4 | \
+[abbcd3/8] b/8 a/4 | \
+[,db,,d/4] ,a/8 ,b ,d a | \
+[,bbcd/] {,a}/4 | \
+[,bbc/] d/4 | \
+[df,,d3/8] f/8 d/4 | \
+[bbdd/4] ,,,,d [ab] | \
+[,dff/] ,,,,,d/4 |"
+107;;86;Courante;;;OT;;3;"a/4 | \
+[abd,d3/4] | \
+[,dba/] ,b/8 a | \
+,b/4 {,a} ,,,c | \
+[bbd/] d/4 | \
+[dbb,d3/8] ,,,a/8 [d,,c/4] | \
+[bbdd/4] d [a,,,d] | \
+,d/4 ,,,,,d ,,,a | \
+[,,db/4] [a,,d] b |"
+108;;87;Courante;Mercure d'Oléans;;OT;Conc_3470;3;"[,cdca/4] | \
+[,cdca{,,a}3/8] ,d/8 ,c/4 | \
+[,a,,,a3/8] ,d/8 [,ca/4] | \
+[ccd,,c/4] ,,,,e ,,,e | \
+[ccd/4] ,,,,,a {a} | \
+{,a}/4 ,,,,e [c,d] | \
+,,,,c/4 [,c,,a3/8] ,a/16 ,,d | \
+,a/4 ,,,,,a ,,,c |"
+109;;87;Courante;Mercure d'Oléans;;OT;Conc_1758;3;",c/4 | \
+[,cdc{,,,a}3/8] ,d/8 [a,,,e/4] | \
+[c,,a/4] [e,,c3/8] c/16 e | \
+f/4 ,,,,a ,,,,c | \
+,,,,c/4 e [c,,a] | \
+[aac,,a3/8] ,,,c/8 ,,,a/4 | \
+[a,,,e/4] [,da,c] ,,c |"
+110;;88;Courante;;;OT;ConcR360;3;"b/4 | \
+[bdda3/8] d/8 b/4 | \
+[dde,,d/4] f d | \
+[f{a}/4] ,d ,,d | \
+,,,d/4 ,,,a f | \
+[f,,d/4] d/8 f ,g/4 | \
+[g,,f/4] ,f [f,,d] | \
+[dfg,d/] ,,,f/4 |"
+111;;88;Courante;;;OT;;3;",d/4 | \
+[,d,a3/8] a/8 b/4 | \
+[a,,,d3/8] b/8 [d,,a/4] | \
+[,,dca/] {,,,a}/4 | \
+,,,,a/ f/4 | \
+[f,,d3/8] d/8 f/4 | \
+[gdf/] [dfg/4] | \
+[f,,d/] [id/4] |"
+112;;88;Courante;;;OT;;3;"f/4 | \
+[fda{a}3/8] d/8 [b,,a/4] | \
+[a,,,,d3/8] ,d/8 [,c,,a/4] | \
+[,da{a}/] ,,,,a/4 | \
+,,,a/4 d b | \
+d/4 ,,,,d f | \
+[bdda{a}/4] a/8 b d b |"
+113;;89;Courante;;;OT;;3;",b/4 | \
+[,bbcd3/8] ,,,,c/8 ,,,,a/4 | \
+[,d,,,d/4] ,,,,,b ,,,,,d | \
+[a{,a}/4] ,,b/8 ,,,d ,,,c ,,,a | \
+,,,,d3/8 ,,,a/8 ,,,c/4 | \
+[,bdd3/8] ,,,c/8 [,d,a/4] | \
+[a,,,d3/8] ,,,,c/8 [c,,,a/4] |"
+114;;89;Courante;;;OT;Conc_4357;3;",d/4 | \
+[,deffd3/8] ,e/8 ,d/4 | \
+[,d,,,c/4] [,,da] ,b/8 ,d | \
+[,,e,,d/4] ,,,,f ,,,f | \
+[dde/] b/4 | \
+[bde,b/] {,,a}/4 | \
+{,a}/4 [,ed] ,,b | \
+[,dda{a}3/8] a/8 [c,,a] ,,,,d |"
+115;;90;Courante venetijs à Monsieur Tuenhuysen 24 Apr: A[nn]os 1616;;;OT;;3;"d/4 | \
+[dfg,d3/8] f/8 d/4 | \
+[bbdd/] ,,,,,b/4 | \
+[,db/] ,,,,,d/4 | \
+[,bbc/4] {,a} [,bb] | \
+[a,,,d3/8] ,d/8 a b | \
+[d,,c3/8] b/8 d f |"
+116;;90;sans titre;;fragment?;OT;;C;"[cdda/4] [cdea] [ddea] [ddda] | \
+[cdda/4] [dda,c] [a,bcd] [,abac] | \
+[,cbaa/4] [,ddda] [add,a] [,cd,a] | \
+[,dda{a}/4] [bdd{a}] [,gih{a}] [a,ghh{,,a}] | \
+[a,gh,a/] [a,hf,a] | \
+a/ ||"
+117;;90;Courante de eodem;;;OT;ConcR824;3;",,b/4 | \
+[,,bcd3/8] ,,d/8 [,a,,c/4] | \
+[,b,,a3/8] ,a/8 ,,,,,d/4 | \
+[,,da{a}3/8] ,,,f/16 ,,d ,,,e/4 | \
+,,,f/4 ,,,,,d ,,,f | \
+[ddf/4] ,,,e ,d | \
+a/4 ,,,c/8 c d ,c |"
+118;;91;Volte;William Byrd arr.;La Volta Courant;OT;ConcR100;3;"[c{a}/4] [a,,,a] [,d,a] | \
+[c{a}/4] ,,,,a ,,,a | \
+[c{a}/4] [a,,,a] [,d,a] | \
+[f{a}/4] ,,,,a ,,,a | \
+[c{a}/4] [a,,,a] [,d,a] | \
+[c{a}/4] ,,,,a/8 a [,d,a/4] |"
+119;;92;Volte;;;OT;;3;"f/4 | \
+[fcd,a/4] {,,a}/8 d [c,,a/4] | \
+[acd,a/4] {,,a}/8 ,d [,cd,a/4] | \
+[,acc/4] ,,,,a [,,dca] | \
+[,dda/4] {a} [acd,a] | \
+[c,,a/4] {a}/8 a c/4 |"
+120;;92;Volte;;;OT;ConcR2729;3;",,d/4 ,d a | \
+[bdda3/8] d/8 b/4 | \
+[a,d3/8] ,d/8 [,c,,a/4] | \
+[,dda/] {a}/4 | \
+[,,bcd/] [,,dd/4] | \
+[,,bcd3/8] ,,,d/8 [,,bcd/4] | \
+[,,dd,b/4] ,,,d [,,dd] |"
+121;;93;Courante;;;OT;ConcR824;3;",,b/4 | \
+[,,bcd3/8] ,,d/8 [,a,,c/4] | \
+[,b,,a3/8] ,a/8 ,,,,,d/4 | \
+[,,da{a}3/8] ,,,f/16 ,,d ,,,e/4 | \
+,,,f/4 ,,,,,d ,,,f | \1
+[ddf/4] ,,,e ,d | \
+a/4 ,,,c/8 c d ,c |"
+122;;93;Volte;;;OT;;3;",a/4 | \
+[,aba,d/4] ,,,,c/8 ,b ,d/4 | \
+[,,,cd/8] ,,,a ,,,b ,,,,c [,,aa/4] | \
+[,,ba,d/4] ,,,a/8 ,,d ,a ,b | \
+[,d,,,c/4] [,,bc,a] ,c | \
+[,daa{a}/4] ,,,a ,,d |"
+123;;94;Volte;Robert Ballard;Angelica Volt;OT;ConcR396;3;"d/4 | \
+[dfb,d/4] {,a} [dfb] | \
+[f,,d/4] [h,,f3/8] f/16 h | \
+i/4 {,a} ,,,f | \
+[ifg/] [h,,f/4] | \
+[dfgh/4] ,,,c [db] | \
+[b,dd/4] ,a/8 d [ab,,d/4] |"
+124;;94;[Volte];;;OT;;3;"c/4 | \
+[f,a3/8] d/8 [c,,a/4] | \
+[d,,c3/8] c/8 [a,d/4] | \
+[cef/] ,,,,c/4 | \
+[cef/] [h,,f/4] | \
+[i,,h3/8] h/8 [f,,,f/4] | \
+[h,,f3/8] f/8 [,i,,h/4] | \
+[fdaa/] {a}/4 |"
+125;;95;[Prelude];;;OT;;C;"h/4 f e ,h ,f/ c/4 a c a ,e ,c ,a/ ,a/4 ,c | \
+,d/4 a c e f/ c/4 e f c e f h1 |"
+126;;96;[Volte];;;OT;;3;",b/4 | \
+[,bbcd3/8] ,d/8 [,aba,d/4] | \
+[,,d,,b3/8] ,a/8 [,cc,a/4] | \
+[,,dca{,,,a}/8] ,,a ,b ,d [,aba,d/4] | \
+[abb,d/4] {,a} d | \
+b/4 ,,,a [a,,c] | \
+,,,,d/8 ,b ,d a b d |"
+127;;96;[Prelude];;;OT;;C;"[,daa{a}1] f/ c d f ,d ,a ,c | \
+,d/ ,,,,a ,,,,,c ,,,,,d ,,,,a ,,d ,,a ,,b | \
+,,d/ c ,d a c ,,b ,,a ,,,c |"
+128;;97;Pauana Dolorosa P. P.;Peter Phillips;Chromatic Pavan;OT;ConcR327;C;"[,cdca/] ,,,,a | \
+[,a,a/4] ,,,,,e/8 ,,,,,c [,,,ca/4] ,,,,,e | \
+[,cdca/4] ,d [ac,c] [,a,,,e]| \
+[cddc,c/4] ,,,b/8 ,,,,e ,,,b e f e | \
+[ea,c,a/4] f [ea] [c,,a] |"
+129;;98;[fragment];;p.99 empty;OT;;C;"f2 ,d/4 a | \
+c/4 d f ,d | \
+[h,,f/4] ,,,h ,,f ,,h | \
+,d/4 f ,c/8 ,a ,c f | \
+,a/4 d/8 ,c [cd] a c ,d |"
+130;;100;Tyrada;;;OT;ConcR170;C;"h3/8 f/16 d c a ,d ,c ,a ,c ,d ,c ,a ,,d ,,b ,,a | \
+[dab,,a/8] ,,b/16 ,,a ,,b ,,d ,a ,b [da/8] ,,b/16 ,,a ,,b ,,d ,a ,c |"
+131;;101;Toccata;;;OT;;C;"[abd,a/] f/4 ,,,,c | \
+[a,b,d/] d/4 ,,,a | \
+[,b,c/] a/4 ,,a | \
+[,ab/] ,d/4 ,,d | \
+,,f/4 a/8 c d/ | \
+,,,c/8 c a ,d [a,d] ,b ,d a |"
+132;;102;Fantasia;;;OT;;C;"[fd1] | \
+[fd/] [fd] | \
+[da/] [ac] | \
+[cd/] [da] | \
+[f,d/] [c,d] | \
+a/ ,,d | \
+[a,b/] [,abc] | \
+[,,de/] [,ab] | \
+[ac/] [cdda] | \
+[da,c/] ,c |"
+133;;103;Fantasia Graegorij;Gregory Huwet;pp. 105-112 empty;OT;ConcR405;C;"f/ | \
+c/ d | \
+f/ ,d | \
+[da/] ,c | \
+[cd/] ,,d | \
+[cdd/] [aab/4] ,d | \
+[acd/] [fcd,a] | \
+[cd,,c/] d | \
+[fcd,a/] [acd] | \
+,,f/ ,d/4 a |"
+134;;113;sans titre;;;OT;ConcR546;C;"[bddaa{a}1] | \
+f3/8 g/8 f/4 d | \
+b3/8 d/16 b a/4 b/16 a,d/8 | \
+[b,d3/8] [d,e/8] [b,d/4] [a,b] | \
+[,d,d3/8] [a,b/16] [,d,d] [,c,c/4] [,c,d/16] ,,,c [,d,a/8] | \
+[bddaa{a}1] |"
+135;;115;La Prezzata Imperiale. Corrente.;;;OT;ConcR1086;3;"z/ ,d/4 | \
+[,,ef/4] d ,,,d | \
+,,,b/8 ,,d ,,b ,d ,b d | \
+[cdda3/8] d/8 f/4 | \
+g/4 ,,,f f | \
+d/8 ,,g ,d ,f ,g d |"
+136;;116;[Prelude];;;OT;;none,1/4;"h1 ,a/ ,c ,d a c d f1 ,,d/ ,a ,c ,d a c d1 \
+,,b/ ,,d ,a ,c ,d a c1 ,,a/ ,,b ,,d ,a ,c ,d a1"
+137;;116;[Prelude];;;OT;;none,1/4;"h/ f/4 d c a ,d ,c ,a1 d/4 c a ,d ,c ,a ,,d1\
+c/ ,a ,d ,c ,a ,,d ,,b1 a/ ,d ,c ,a ,,d ,,b ,,a1"
+138;;117;La bataglia;Mercure d'Orléans;Battaglia di Pavia / pp. 121-132 empty;OT;Conc_4455;C,1/4;"[fdda{a}2] [fdaa] | \
+[cdd{a}/] f c f [c,,a] ,,d ,,a ,,d | \
+[,,aa{a}1] | \
+[,cdca2] [,f{10}] | \
+[,cdca/] ,f ,c ,f [,c,,a] ,,,c ,,,a ,,,c | \
+{10}1 |"
+139;;133;Fiminutio J. B.;Johan Baptiste Besard;;OT;ConcR619;none,1;"[ccd,,c/8] ,c/16 ,a ,,d ,,a ,,d ,,c ,,a ,,,a ,,,e ,,,c ,,,a \
+,,,,c ,,,a ,,,,e/8 ,,,,c ,a ,,,,,e ,,,,,a ,,,,c ,,,e ,,,a ,,,,c | \
+,,,e/8 ,,f ,,c ,,,c ,a c ,d ,a"
+140;;133;sans titre;;[unfinished];OT;ConcR1066;C,1/4;"[cdda2] [acd,a] | \
+[,daac2] [,cda,c] | \
+[,aba,d2] [,cbc,a] | \
+[,,daac1] ,,,,,a [,dda2] | \
+[aab,,a2] [,,daac1] ,c | \
+[,aba,d1] ,d [,cdca] a | \
+[c,,a/] d c a"
+141;;134;Contra-puncto sopra Vestiui Colli;Palestrina;;OT;ConcR2357;C,1;"c/ c/4 c | \
+h/4 ,a ,a ,a | \
+c/8 ,d ,a ,c ,d a c e | \
+f/4 ,,a ,,a ,,a | \
+,a/8 l k k l h k l |"
+142;;137;Fantasia L.;Laurencini;;OT;ConcR616;C,1/4;"[fdaa2] [ddff/4] f h f d ,g ,f ,d | \
+[dfg,d2] [bbdd/16] ,,,c ,,,d ,,,c ,,,a ,,,,d ,,,,b ,,,,a \
+,,,,,d ,,,,,b ,,,,,d ,,,,,b ,,,,,a {a} |"
+143;;138;Treble;John Johnson;The Queen's Dump, duet treble;OT;Conc_4401;C,1/2;"[f,aa3/8] d/8 c/4 a ,d ,b ,a ,,d | \
+,a3/8 ,,d/8 ,,b/4 ,,a ,,b ,,d ,a/8 ,c ,d/4 | \
+,c3/8 ,d/8 ,c/4 ,a ,,d ,,b ,,a ,,,c |"
+144;;140;[Studio];;;OT;ConcR92;C,1/4;",,,,h/8 h h h ,,,,g h h h ,,,,h h h h ,,,,,h h h h | \
+,,,a/8 f f f ,,,,e f f f ,,,,f f f f ,,,,,f f f f |"
+145;;141;Almande C.D.;;;OT;;C,1;"[aa,c,a3/8] ,e/8 a/16 c | \
+[ea,,,a/8] c e f e c a | \
+[ca,,c3/8] a/8 ,e/4 a | \
+[ca,,c/] [,a,,,e/8] ,c ,e ,a |"
+146;;142;Mylord of Darbeis Galliard. M. Johan Doulandt;John Dowland;Earl of Derby's Galliard;OT;ConcR308;3,1;"a/4 e f | \
+[ha,,,a3/4] a/4 e f | \
+[ha,,,a3/4] h/4 e a | \
+[haa,c{a}/] [f,aa] [ea,,,a] | \
+[caa,c/] {a}1 | \
+[caa,c/] [caa{a}/4] [caa,c/] [cce,,c/4] |"
+147;;143;[Lavecchia Pavan];;first part of duet;OT;Conc_4386;C,1;"[eff,,a/4] [eff] | \
+[eff,,a3/4] f/4 [eff,,a] [eff] | \
+[ea,,,a/4] [ac] [d] [ea] | \
+[fcd,a3/4] d/16 c a/8 ,d ,c ,a | \
+[acd,a/4] ,d/8 a [cdda/4] [cdd] |"
+148;;144;Frogge Galliard;John Dowland;Frog Galliard / Now O Now;OT;ConcR172;3,1;"[ea,c,a1] [cef,c/] | \
+[,fc,e1] [,ef,,e/] | \
+[,cdca3/8] ,a/8 ,c ,e [aa,c/4] ,,,,,a | \
+,,,,c/4 [,ef] ,,,e/8 ,f ,e ,c [,ef/] | \
+[ea,,,a3/4] f/4 h/ |"
+149;;145;Allmande Doulant;John Dowland;Lady Laiton's Almain;OT;ConcR44;C,1;",a/ | \
+[aa,c,a/4] ,e/8 a [caa,c/4] [ea,c] | \
+[fc,,a/4] [ea,,c/8] c [a,,,e/4] [c,,b] | \
+[ea,c/4] [ca,b] [aa,,e] ,,e | \
+[cef,c/4] {a} [cef] ,e/8 ,c/16 ,,e |"
+150;;146;My Lady Riches Galliard;John Dowland;Lady Rich's Galliard / Dowland's Bells;OT;Conc_4418;3,1;"[ha,,,a3/4] f/4 [ea,,,a/] | \
+[caa,c3/4] ,,,,a/4 [aa,,,e/] | \
+[ccd,,c/] f [ea,,,a] | \
+[caa,c/] {,a}1 | \
+[aa,c,a3/4] c/4 [ea,c,a/] | \
+[ce,,c3/4] i/4 [fc,,,c/] | \
+[ea,,,e/] c/4 a [ea,,a] c | \
+[aac,,a/] ,,,c1 ||"
+151;;147;[Monsieur's Almain];;broken consort part;OT;ConcR48;C,1/2;"[aacc/] ,,,c [aac] [a,d,e] | \
+[cef,c/] ,,,,c [cef] ,,,,a | \
+[ee,,,e/] f/4 h [fc,,,c] ,e | \
+[eff,,a/] ,,,,,a [eff1] | \
+[ea,,,a/] f/4 h [fc,,a/] [ea,,,a] |"
+152;;148;Allmande:;John Dowland;Sir John Smith's Almain, consort part;OT;ConcR43;C,1;"[fdaa/4] f/8 f [fdaa/4] [fc,,a] | \
+[c,aa/4] d f c | \
+[a,ff/8] ,d [,dde/4] [dd,c] ,c/8 d | \
+[cdda/4] ,,,a [cdd/] | \
+[fdaa/4] f/8 f [fdaa/4] [fc,,a] |"
+153;;149;Corrente detta La Corteggiana;;;OT;ConcR103;3,1/4;"z2 a1 | \
+f3/2 d/ [bd1] | \
+a1 ,,,,a [,bd] | \
+,a3/2 ,,d/ [,,cc1] | \
+,,d1 ,,,,a ,,,,c | \
+,,,,d1 [a{8}] b | \
+d2 ,,,,c/ ,,,,a | \
+,,,,,d ,b ,,,,,a |"
+154;;150;Corrente detta La Pasaura;;unfinished / p. 151 empty;OT;ConcR756;3,1/4;"z2 a1 | \
+[ab,,d3/2] b/ a1 | \
+[,da,c1] ,,b a | \
+[,bdda1] ,a/ ,b ,,d1 | \
+[,d{7}/] ,b ,d a b d | \
+[a{8}1] ,d/ a ,b1 |"
+155;;152;Capricio;;unfinished;OT;ConcR1087;C,1/4;"[bdda{7}4] | \
+[bdda1] ,a/ ,b ,d a b d | \
+f2 [ddea] | \
+{7}1 f b ,d | \
+f1 ,,,a ,,e d | \
+,,,a1 d b a |"
+156;;152;sans titre;;;OT;ConcR1080;C,1/4;",,a4 | \
+,,a2 ,,,a | \
+[,,,bc2] [,,aa] | \
+[,,cb1] ,,a ,,c ,a | \
+,b2 [,aa] | \
+[,bc2] [,de] | \
+[ab1] ,d a b | \
+[da1] ,,c ,a ,b |"
+157;;153;sans titre;;fragment;OT;;C,1/4;"z1 f/ b d a b ,d | \
+a/ ,b ,d ,a ,b ,,c ,a ,,a | \
+,,c/ ,,,b ,,a ,,,a ,,,b ,,,,c ,,,a ,,,,a |"
+158;;154;sans titre;;pp. 155-168 empty;OT;ConcR1088;C,1/4;"[abaaa{10}4] | \
+[abaaa{10}2] [,,aa] | \
+[,,cb2] [,,,ca] | \
+[,,aa2] [db{8}] | \
+[bd{7}1] ,,c ,a ,b | \
+[,da,,e2] ,,,a | \
+[,,cb1] f d b | \
+[ab1] b d a |"

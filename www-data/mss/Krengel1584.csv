@@ -1,0 +1,244 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+;;;Incipits prepared with the help of Sarge Gerbode's transcriptions on his website;;;;;;;
+;;;Manche der Sätze sind zweifach in unterschiedlicher Tonhöhe gesetzt und können entweder alleine oder mit zwei Lauten in unterschiedlicher Tonhöhe zusammen gespielt werden - wie Gregor Krengel in seinem Titel beschreibt.;Many pieces are given in two different keys and can be played either alone or on two differently-tuned lutes together - as explained by Gregor Krengel in his preface.;;;;;;
+1a;g moll;0v;Tutto lo giorno 1;J. Regnart;Partie;OT;;C;"[cefec1] [cefec/] [cefec] [cefec1] [cefec] | \
+[dffc,a/] [ce,ec/4] ,,f [aabc/] [acd,a] [h,ikkh1] [h,ikkh/] [ca,a] | \
+[cd,a/] [da,a,d/4] ,d [cdf,,d/] ,,f \
+[hf,fha] [h,,,h] [,,f,c] [ca,b] |";germantab
+1b;f moll;1r;[Tutto lo giorno] 1;;Contrepartie;OT;;C;"[acdca1] [acdca/] [acdca] [acdca1] [acdca] | \
+[bdda{d}/] [ac,ca/4] ,,d [,dddf/] [,dff,d] [f,ghhf1] [f,ghhf/] [a,d,d] | \
+[ab,,d/] [b,d,db/4] ,b [fbd,,b/] ,,d [fd,df{d}] \
+[f,,,f] [,,,ca] [a,d,e] |";germantab
+2a;e moll;1v;Del crud amor 2;J. Regnart;Partie;OT;;C;"[acc,e1] [acc,e/] [cef,c] [effc] [cef,c] [acc,e1] | \
+[,egg,e/] [acc,e] [,cde,c1] [,ccce/] [e,g,ge1] [cc,aa/] | \
+[e,gg,e1] [,c,,e] [e,,,e/] [,,cce] [,,dcef] [e,fgge] |";germantab
+2b;d moll;2r;[Del crud amor] 2;;Contrepartie;OT;;C;"[,dfec1] [,dfec/] [acd,a] [cdda] [acd,a] [,dfec1] | \
+[,cde,c/] [,dfec] [,abc,a1] [,aaac/] [c,ee,c1] [aa,,dd/] | \
+[c,de,c1] [,a,,c] [c,,,c/] [,,aac] [,,bacd] [c,deec] |";germantab
+3a;a moll;2v;Non è dolor 3;J. Regnart;Partie;OT;;C;"[,cde2] [c,def1] [ca,a] | [,ghge1] [,,e,,c/] [c,,e] [,df,c] ,,,e [,dfec1] | \
+[,cc,e1] ,,,d [,efg] [acd] | \
+,c/ [cc,e] [,ef] [ac] [,egg1] [,ccc] |";germantab
+3b;g moll;3r;[Non è dolor] 3;;Contrepartie;OT;;C;"[,abc2] [a,bcd1] [a,d,d] | [c,fec1] [,,c,,a/] [a,,c] [,bd,a] ,,,c [,bdca1] | \
+[,aa,c1] ,,,b [,cee] [,dff] | \
+,a/ [aa,c] [,cd] [,df] [,cee1] [,aa,c] |";germantab
+4a;a moll;3v;Amor lasciami stare 4;J. Regnart;Partie;OT;;C;"[,ccde1] [acc,e] [acd,a/] [ff,,a1] [eff,,a/] | \
+[ccd,,c1] [a,c,e] [,c,,e/] [,cc,e] [,,cce] a | \
+[,,,cef/] [ac] [a,d,a] [aac,,a] [,cde,c1] [,ccce] |";germantab
+4b;g moll;4r;[Amor lasciami stare] 4;;Contrepartie;OT;;C;"[,aabc1] [,dfec] [,dff,d/] [da,,,d1] [cdd{d}/] | \
+[aab,,a1] [,da,c] [,a,,c/] [,aa,c] [,,aac] ,d | \
+[,,,acd/] [,df] [,d,f,d] [,dde{d}] [,abc,a1] [,aaac] |";germantab
+5a;d moll;4v;Io voglio 5;J. Regnart;Partie;OT;;C;"[cdf,c1] [cdf,c/] [cdda] [acd,a] [,dfec] [,cee,c] [,df,c] | \
+[a,c,e/] [,dfec] [,cee] ,c [,dfec1] [caa/] [,df] | \
+[dd,f/] [dffc] [,cee,c] ,,e/4 ,,,e [,a,bc/] [da,c,a] [ca,ac1] |";germantab
+5b;c moll;5r;[Io voglio] 5;;Contrepartie;OT;;C;"[abd,a1] [abd,a/] [abb,d] [,dff,d] [,bdca] [,acc,a] [,bd,a] | \
+[,da,c/] [,bdca] [,acc] ,a [,bdca1] [a,dc] [,bd] | \
+[bbd/] [bdda] [,acc,a] ,,c/4 ,,,c \
+[,,d,ef/] [b,da{d}] [a,d,df1] |";germantab
+6a;G dur;5v;Dolsi sospir 6;J. Regnart;Partie;OT;;C;"[effc1] [c,ee/] [cef,c] [effc1] [effc] | \
+[ffh,a/] [cef,c] [ac,ce] [acd,a] [,efec1] [aacc] | \
+,,,,,a/ [aacc] [,cdca] [aacc,a] [caabc1] [e,,c/] [,ac] |";germantab
+6b;F dur;6r;[Dolsi sospir] 6;;Contrepartie;OT;;C;"[cdda1] [aacc/] [acd,a] [cdda1] [cdda] | \
+[ddf,,d/] [acd,a] [,dfec] [,dff,d] [,cdca1] [,ddef] | \
+{d}/ [,ddef] [,aba,d] [,ddef{d}] [a,dcef1] [c,,a/] [,,de] |";germantab
+7a;d moll;6v;Dipensire 7;J. Regnart;Partie;OT;;C;"[,cde3/2] [,cde/] [,cde1] [,ccd/] [,cde] | \
+[,df,c/4] ,,,,e ,,,a ,,,c [,cee1] [aa,c/] [cd,a] [acd1] | \
+[cd,a/] ,,d [,,def] c/4 ,a [,cc,e/] [cdf,c] [ccee1] |";germantab
+7b;c moll;7r;[Dipensire] 7;;Contrepartie;OT;;C;"[,abc3/2] [,abc/] [,abc1] [,aab/] [,abc] | \
+[,bd,a/4] ,,,,c ,,,,d ,,,a [,acc1] [,dda/] [ab,,d] [,dff1] | \
+[ab,,d/] ,,,c [,,bcd] a/4 ,,d [,dfec/] [,bdca] [aacc1] |";germantab
+8a;G dur;7v;Senot è giorno 7 [=8];J. Regnart;Partie;OT;ConcR3356;C;"[,acc/] ,,,c [,ccce] [,efec] [aacc1] [acd,a/] ,,d | \
+[,,c,,a/] [effc] [cefec] [aac,,a] [acdca1] [aac,,a/] [aacc] | \
+[cdda3/4] [cdda/4] [cdda/] [aacc] [acc,e1] [,efec/] [ca,,c] |";germantab
+8b;F dur;8r;[Se not è giorno] 8;;Contrepartie;OT;ConcR3356;C;"[,,def/] ,,,,f [,aaac] [,cdca] [,ddef1] [,dff,d/] ,,,f | \
+[,,a{d}/] [cdda] [acdca] [,dde{d}] [,dfffd1] [,dde{d}/] [,ddef] | \
+[abb,d3/4] [abb,d/4] [abb,d/] [,ddef] \
+[,dfec1] [,cdca/] [acd,a] |";germantab
+9a;F dur;8v;Seruite fedelment 9;J. Regnart;Partie;OT;;C;"[,ddef1] [cdda3/2] [cdda/] [ddf,,d] [ddf,,d] | \
+[cdda1] [ac,,a/] ,,d [,dfec] [,dff,d] [,cdca1] | \
+[,ddef{d}/] ,,,e [,,aa] [,,da] \
+[cdf,c] ,,,a/4 [,c,,a] [h,fffd/] [h,ff,d] |";germantab
+9b;C dur;9r;Seruite fedelment p 41 9;;Contrepartie;OT;;C;"[,,dcef1] [,cdca3/2] [,cdca/] [,dde{d}] [,dde{d}] | \
+[,cdca1] [,ac,,a/] ,,,c [,,deec] [,dde{d}] [,accca1] | \
+[,,dca/] ,,,,e [,,,,ef] [,,,ca] [,cde,c] \
+,,,,a/4 ,,c [c,aaa{d}/] [c,aa{d}] |";germantab
+10a;F dur;9v;Alerm à lerm 10;J. Regnart;Partie;OT;;C;",,d1 ,,d/ ,,d [fhihf] ,,,h [fhihf] [fhi,f] | \
+[fhia/] [fhia] [fhia] ,,,e ,,,h [ffhha] [ffhha] [ffh,a] | \
+[ffh,a/] [ffh,a] [ffh,a1] f/ ,,,h [cdaa] ,,d |";germantab
+10b;C dur;10r;[Alerm à lerm] 10;;Contrepartie;OT;;C;",,,c1 ,,,c/ ,,,c [acdca] ,,,c [acdca] [acd,a] | \
+[acd,a/] [acd,a] [acd,a] ,,,,e ,,,c [aacc,a] [aacc,a] [aac,,a] | \
+[aac,,a/] [aac,,a] [aac,,a1] a/ ,,,c [,cd,ef] ,,,c |";germantab
+11a;d moll;10v;Mirate che mi fa crudel 11;J. Regnart;Partie;OT;;C;"[cdde1] [cdda/] ,,d/4 [cd,a] [cdf,c/] [acc,e] [c,def] ,,d/4 ,a | \
+[ac,,a/] [,dfec] ,,,f/4 ,,,e [,cde,c] [,df,,d] \
+[,a,c/4] ,c [,dde,c/] [,cd/4] [,ac] |";germantab
+11b;c moll;11r;[Mirate che mi fa crudel] 11;;Contrepartie;OT;;C;"[aabc1] [abb,d/] a/4 [ab,,d] [abd,a/] [,dfec] [ab,cd] ,,b/4 ,,d | \
+[,df,,d/] [,bdca] ,,,d/4 ,,,c [,abc,a/] [,bd,,b] \
+[,,da/4] ,a [,bbc,a/] [,a,f/4] [,,de] |";germantab
+12a;a moll;11v;Donna ben posso 12;J. Regnart;Partie;OT;;C;",d/ ,,f [acd1] [cdd/] [acd1] [,df/] | \
+[,cde1] [,cd/] ,,,e [,dff] [aa,c] [,cee1] | \
+[,aa,c3/2] [,a,ac/] [,cdca1] [,ddef/] [,cdca1] | \
+[,aaac/] [c,deec1]";germantab
+12b;g moll;12r;[Donna ben posso] 12;;Contrepartie;OT;;C;",b/ ,,d [,dff1] [ab,,d/] [,dff1] [,bd/] | \
+[,abc1] [,ab/] ,,,c [,bdd] [,daa] [,acc1] | \
+[,,dca3/4] [,,dca/4] [,d,ffd1] [,bbcd/] [,dff,d1] |";germantab
+13a_1;g moll;12v;Alleluia Orl: a 5 p 3 13;Orlando;Partie;OT;;C;"[aabc2] [,dfec1] [,ddef] | [,cdca/4] ,d ,c ,a [acdc1] [aabc/4] ,,a ,,b ,,d [aabc] ,,d ,a ,c | \
+[cdda/4] d c a ,,,a ,,,,e ,,,,c ,,,,a";germantab
+13b_1;b moll;13r;[Alleluia];;Contrepartie;OT;;C;"[ddef2] [bdda/] a [bbdd] ,,,c/4 ,,,a | [abb,d/] ,d [dfgf1] [ddef/] ,,d [ddef1] | \
+[fggd/4] g f d ,g ,f ,d ,,g";germantab
+13a_2;g moll;13v;Secunda pars 14;Orlando;Partie;OT;;C;"[,abc2] [,ddef1] [,dfec/] ,c/4 ,a | \
+[,cdca/4] ,a ,c ,d [,cd,a/] ,a/4 ,c [,d,acd/] \
+[a,bc,a/4] ,c ,d a |";germantab
+13b_2;b moll;14r;[Secunda pars];;Contrepartie;OT;;C;"[,def2] [bbd/] ,,,c [bdda1] | \
+[abb,d/] ,,,c/4 ,a [,ab,,d/] ,d/4 a \
+[b,,d,b1] [d,ef,d/] ,,d/4 ,,e |";germantab
+14a_1;B dur;14v;Credidi propter quod loquitur Orl: a 5 15;Orlando;Partie;OT;;C;"[,dff1] ,,,f/ [ab,,d] [abb,d] [,bb] [,,bc] [da] | \
+[ddda/] c [a,d,a] [,efec] [a,bcd] [abd,a] [,efec/4] ,f ,e ,c |";germantab
+14b_1;C dur;15r;[Credidi propter];;Contrepartie;OT;;C;"[acd1] ,,d/ [cdd] [cdda] [,dd] [,d,e] [fc] | \
+[fffc/] e [cd,,c] [,ghge] [c,def] [cdf,c] [acc,e/4] ,e ,c ,a |";germantab
+14a_2;B dur;15v;Secunda pars Vota mea 16;Orlando;Partie;OT;;C;"[,acc1] ,,,c/ [,bd,a] [,aabc] [,acc,a] [,bd,a] ,,,e/4 [,bd,a] | \
+[,df,d3/4] ,,,f/4 [,bdca1] [,a,c,a/] ,,b/4 ,,a [a,b,c1] | \
+[,,fec/] ,e [,e,ec] [,e,ec]";germantab
+14b_2;C dur;16r;[Secunda pars] 16;;Contrepartie;OT;;C;"[,cee1] ,,,e/ [,df,c] [,ccde] [,cee,c] [,df,c] ,,c/4 [,df,c] | \
+[acd,a3/4] ,,d/4 [,dfec1] [,c,e,c/] ,,d/4 ,,c [c,d,e1] | \
+[,,hge/] ,g [,gh,e] [,g,ge]";germantab
+15a;a moll;16v;Tota pulchra est a 5. 17;Gregorij Lang;Partie;OT;;C;"c1 ,a/ ,c ,e/4 ,a ,c ,e [a,c1] | \
+[,cde1] [,ef,c/] ,,,,e [c,ab] ,,,,e/4 ,,,b [,acc,e1] | \
+[,cdcef/] ,,,,,e [c,de,c1] [,a,bc/] ,,,,e [c,ab1] |";germantab
+15b;g moll;17r;[Tota pulchra est a 5];;Contrepartie;OT;;C;"a1 ,,d ,c [,d,e] | [,abc1] [,cd,a] [a,,ce/4] ,,,,c ,,,,a ,,,,,d [,,de,c1] | \
+[,a,acd/] ,,,,,c [a,bc,a1] [,,d,ef/] ,,,,c [a,,ce] ,a/4 ,c |";germantab
+16a;d moll;17v;Vina parant animos a 5. 18.;Gregorij Lang;Partie;OT;;C;",c1 ,,,e/ ,a [c,d] [,,cc] [,,def] [a,,,e] | \
+[,dfec/] [,c,ce] [,a,bc] [,,,ce] [,a,ac] [,c,ce] [,da,c] ,,,,c/4 ,a | \
+[,c,eec/] ,,e/4 ,,c [,,ee,c/] ,,,c";germantab
+16b;c moll;18r;[Vina parant animos a 5] 18;;Contrepartie;OT;;C;",a1 ,,,c/ ,,d [a,b] [,,aa] [,,bcd] [,d,,c] | \
+[,bdca/] [,a,ac] [,,d,ef] [,,,ac] [,,dca] [,a,ac] [,b,ca] ,,,,a/4 ,,d | \
+[,a,cca/] ,,c/4 ,,a [,,cc,a/] ,,,a";germantab
+17a;d moll;18v;Offt wünsch ich Ihr 19;Gregorij Lang;Partie;OT;;C;",c1 [c,,e/] a [cdf] [,cd] [h,ff] [fc,e/4] ,d | \
+[df,c/] [cd,e/4] ,,,f [acd/] [,df] [ccee] [,df,c] [,,a,b] [,dfec] | \
+[,ce,,c/] [,df,c] [,,def] [,,dce]";germantab
+17b;c moll;19r; [Offt wünsch ich Ihr] 19;;Contrepartie;OT;;C;",a1 [a,,c/] ,d [abd] [,ab] [f,dd] [da,c/4] ,b | \
+[,dba/] [ab,c/4] ,,,d [,dff/] [,bd] [aacc] [,bd,a] [,,,c,e] [,bdca] | \
+[,ac,,a/] [,bdca] [,,bcd] [,,bac]";germantab
+18a;d moll;19v;Ist keiner hie der spricht zu mir. 20;Henning Winsiman;Partie;OT;ConcR2088;C;",a1 [,d,e/] ,c [,a,ac] ,,,c [c,def] ,,,,e | \
+[,dfec/4] ,c ,d ,f [ccd,,c/] ,,c \
+[,d,ec/4] ,f c/ [fc,,e] [e,,d] |";germantab
+18b;c moll;20r;[Ist keiner hie der spricht zu mir] 20;;Contrepartie;OT;ConcR2088;C;",,d1 [,b,c/] ,a [,,d,df] ,,,a [a,bcd] ,,,,c | \
+[,bdca/] ,d [aab,,a] ,,a [,b,ca] ,,a [da,,c] [c,,b] |";germantab
+;;;Sequuntur Cantiones nonnullae quas vulgo Paduanas vocant quibus omnis generis Textus applicati possunt tam Italici Germanici, nec non Polonici, &c. his quoq. Adjecimus vilanellas nonnullas;;;OT;;;;germantab
+19a;a moll;20v;Paduana 1;;Partie;OT;;C;"[ccde1] [cc,e/] [cede] [effc3/4] [c,,,c/4] [acc,e/] [,efg,e] | \
+[,cdca/] [fc,e,c/4] ,,,,,e ,,,,a ,,,,c [efh,e] [c,,b] \
+[ea,c/] [cd,,c] [ccde] [eccd] |";germantab
+20a;C dur;20v;Ohn dich mus ich mich aller freude massen;J. Regnart;Partie;OT;ConcR2180;C;"[acd1] [cd,a/] [ea,c] [fca3/4] [ea,c/4] [c,da/] [a,d,e] | \
+[,dda/] [,cde] [,a,c] ,,c [,,d,a] [c,,a1] [a,,,e/4] ,,d | \
+[,dda/] [,cde] [,acc1] [,,d,a] z/ [acd] |";germantab
+21;;20v;Dies ist die zeit, die mich erfreut;;Handwritten addition (in Krakow copy) - Regnart Bd 19 #41;OT;;C;"[,acc2] [,cde1] [,ef,c] | [ac,,a1] [,ea,c] [,efe] [,cee] | \
+[,ef,c2] :| [,ef,c2] z1 [cef] |: [cef3/4] [acd/4] [cef1] [ef,c] | \
+[cef2] [cef1] [cef] |";germantab
+19b;g moll;21r;[Paduana] 1;;Contrepartie;OT;;C;"[aabc1] [aa,c/] [acbc] [cdda/4] d c [a,,,a] [,dfec/] [,cde,c] | \
+[,aba,d/] [da,c,a/4] ,,,,,c ,,,,,d ,,,,a [cdf,c] [a,,,e] \
+[c,da/] [ab,,a] [aabc] [caab] |";germantab
+20b;B dur;21r;Ohn dich mus ich mich;J. Regnart;Contrepartie;OT;ConcR2180;C;"[,dff1] [ab,,d/] [c,da] [da,c3/4] [c,da/4] [a,b,d/] [,db,c] | \
+[,bb,d/] [,abc] [,,def1] [,,b,,d/] [a,,,d1] [,d,,c/4] ,,d | \
+[,bb,d/] [,abc] [,,def1] [,,b,,d] z/ [,dff] |";germantab
+22;;21r;Ich wollt, wer mir mein glück nicht gönnt;;Handwritten addition (in Krakow copy) - Regnart Bd 19 #42;OT;;C;"[acd2] [acd1] [acd] | [acd2] [,cd1] ,d | [,dff2] [ac,c] :| \
+[cd,a1] [cd,a] [acd] [,dff] |: [,cde3/4] [,acc/4] [,cde1] [,dff] | \
+[acd2] [,cde] |";germantab
+23a;G dur;21v;[Paduana] 2;;Partie;OT;;C;"[effc1] [ffh,a/] [eff,,a] [effc1] [cdf,c/] [cdda1] | \
+[acd,a/] [,dfec] [,acc,a] [,cd,a] [,aaac] [,,,,ec] [,,ee] | \
+[,aabc/] [,cdca1] [,acc,a/] [,cdca] [,daa] [,cdca] [,aaac] |";germantab
+24a;d moll;21v;Wann ich gedencke der stundt;J. Regnart;Partie;OT;ConcR3221;C;"[cd,a1] [acd3/2] [,cde/] [,dff] [ac,c] | \
+[cd,a1] [f,a/] ,c [dc,c] [caa] [acd] ,d/4 a | \
+[,df,c/] [,d,,c] [c,,a/4] ,,,c ,,a ,,c [a,d/] [,df] [,cee1] |";germantab
+23b;F dur;22r;Paduana 2;;Contrepartie;OT;;C;"[cdda1] [ddf,,d/] [cdd{d}] [cdda1] [abd,a/] [abb,d1] | \
+[,dff,d/] [,bdca] [,,def{d}] [,df,,d] [,,dcef] [,,,,ca] [,,cc] | \
+[,,dca1] [,dba,d1] [,,def{d}/] [,dba,d] \
+[,bbcd] [,dba,d] [,,dcd] |";germantab
+24b;c moll;22r;Wann ich gedenck der stunde;J. Regnart;Contrepartie;OT;ConcR3221;C;"[ab,,d1] [,dff3/2] [,abc/] [,bdd] [,dfa] | \
+[ab,,d1] [d,,c/] ,a [ba,a] [a,d,d] [,db,,d] ,b/4 ,d | \
+[,bd,a/] [,b,,a] [ab,,d/4] ,,,a [,a,c] ,,,e \
+[,d,f/] [,bd] [,acc1] |";germantab
+25a;d moll;22v;Paduana 2 [=3];;Partie;OT;ConcR1059;C;"[caa,c1] [h,i,kh/] [fc,e,c] [ddf,,d3/4] [c,da/4] [aabc/] [,dfec] | \
+[,c,e,c/] ,,e [,efec] [a,b,,a] [,cd,a] [f,,a/4] ,d [h,ff,d/] [hf,,,a] | \
+[h,,,kh/] ,,d [ef,c,a] [fc,ca]";germantab
+26a;C dur;22v;Glaube nicht das ich köndt ein;J. Regnart;Partie;OT;;C;"[acd1] [acd/] ,d/4 a [cd,a/] ,,d [a,,,e] [,d,,c] | \
+[,cde/] ,a [,cd] a [,dff] [,cd] [,acc1] | [,,d,a2] :| \
+[,,d,a/] |: a/ ,c ,d [acd]";germantab
+27a;C dur;22v;Kein grösser freud;J. Regnart;Partie;OT;;C;"[acd1] [cd,a/] [aa,c] [,cde] [,dde] [,acc3/4] [ac,,e/4] | \
+[,dfa/] [,cde] [,acc1] [,,d,a2] :| [,dfa/] [,cde] [,acc1] [,,d,a] |: \
+z/ [acd] | [acd/] [acd] [cdf] [cdf]";germantab
+25b;c moll;23r;[Paduana] 3;;Contrepartie;OT;;C;"[a,dca1] [f,g,a/] [da,c,a] [bbd,,b3/4] [a,,cd/4] [,dddf/] [,bdca] | \
+[,a,c,a/] ,,c [,cdca] [,d,df{d}] [,ab,,d] [d,,,d/4] ,b [f,dd,b/] [fd{d}] | \
+[f,,,a/] ,b [cd,a{d}] [da,a,d]";germantab
+26b;B dur;23r;Glaub nicht;J. Regnart;Contrepartie;OT;;C;"[,dff1] [,dff/] ,,g/4 ,d [a,b,d/] ,,b [,d,,c] [,b,,a] | \
+[,abc/] ,,d [,ab] ,d [,bdd] [,ab] [,,def1] | [,ab,,d2] :| \
+[ab,,d/] |: ,d/ ,a ,b [,dff1]";germantab
+27b;B dur;23r;Kein grösser freud;J. Regnart;Contrepartie;OT;;C;"[,dff1] [ab,,d/] [,dda] [,abc] [,bbc] [,,def3/4] [,df,c/4] | \
+[,bd,d/] [,abc] [,,def1] [,,b,,d2] :| [,bd,d/] [,abc] [,,def1] [,,b,,d] |: z/ [,dff] | \
+[,dff/] [,dff] [abd] [abd]";germantab
+28a;G dur;23v;Paduana 4;;Partie;OT;;C;"[effc1] [ffh,a/] [eff,,a] [cef,c1] [e,,,,e/] [acd,a] | \
+[aac,,a/4] ,,,,,c ,,,,,e ,,,,a [,ea,c] ,c ,e [a,c] \
+[ccd,,c] e f ,c [e,,,e] c e [a,c] |";germantab
+29a;a moll;23v;Jungfrau ewer wanckelmuth;J. Regnart;Partie;OT;;C;"[,cde1] [,cde/] [,cde] [cd,a] [cd,a] [acd/4] ,d a c | \
+[acd/] [,cde] [,dff] [ac,c] [cd,a] [,df/4] ,,,c [,ce1] | \
+[,aa,c2] :| [,aa,c1] |:";germantab
+30a;d moll;23v;Ich bin gen Baden zogen;J. Regnart;Partie;OT;;C;"[cdf1] [cdf/] [,df/4] ,,,f [acd/] [cda] [df,c] c/4 a | \
+[cef/] [c,,,c] [d,,c] ,a ,a [c,,b/4] ,a [a,,c/] [,df] |";germantab
+28b;F dur;24r;[Paduana] 4;;Contrepartie;OT;;C;"[cdda1] [ddf,,d/] [cdda] [acd,a] ,d/4 a [c,,,,c/] [,dff,d] | \
+[,dde{d}/4] ,,,,,a ,,,,,c ,,,,,d [,c,ca] ,d ,c [,da] \
+[aab,,a] [c,d] [da/] [c,,,c] [,da,c] |";germantab
+28b;g moll;24r;Jungfrau ewer wanckelmuth;J. Regnart;Contrepartie;OT;;C;"[,abc1] [,abc/] [,abc] [ab,,d] [ab,,d] [,dff/4] ,,d ,,f ,,g | \
+[,dff/] [,abc] [,bdd] [,dfa] [,bd,d] [,bd/4] ,,,a [acc1] | \
+[,,dca2] :| [,,dca1] |:";germantab
+30b;c moll;24r;Ich bin gen Baden zogen;J. Regnart;Contrepartie;OT;;C;"[abd1] [abd/] [,bd/4] ,,,d [,dff/] [ab,c] [bd,a] a/4 ,d | \
+[acd/] [a,,,a] [b,,a] ,,d ,,d [a,,,e/4] ,,d [,d,a/] [,bd] |";germantab
+31a;d moll;24v;[Paduana] 5;;Partie;OT;;C;"[cdf,c1] [cdf,c/] [cdf,c] [fhhe3/4] [efh,e/4] [cdda/] [acd,a1] | \
+[,dfec/] [,cde,c] [cdd{d}/4] ,,,,,a ,,,,,c ,,,,,d \
+[acd,a/] [,dfec] ,,,e |";germantab
+32a;d moll;24v;Nach meiner lieb viel hundert Knaben trachten;;Partie;OT;;C;"[cdf,c/] [cdf,c/4] [cdf,c] [cdf,c/] [cdf,c] [fca3/4] [eac/4] [ccd/] [cdf] | \
+[acd/] ,d/4 a [cd,a/] [c,da] [,dff] \
+[,d,e/4] ,a [aa,c/] ,,,c/4 [,df] |";germantab
+33a;C dur;24v;Sagt mir Jungfraw rechter;J. Regnart;Partie;OT;;C;"[cd1] [cd,a/] [ef,c] [acd] [ac,,a] [cd,a/4] ,d a c | \
+[ac,,a2] :| [ac,,a/] |: [,cd/] [,cd] [a,c] [acd] c a [,da] |";germantab
+31b;c moll;25r;[Paduana] 5;;Contrepartie;OT;;C;"[abd,a1] [abd,a/] [abd,a] [dffc3/4] [cdf,c/4] [abb,d/] [,dff,d1] | \
+[,bdca/] [,abc,a] [abb,d/4] ,,,a ,,,c ,,,d \
+[,dff,d/] [,bdca/] ,,,c |";germantab
+32b;c moll;25r;Nach meiner;J. Regnart;Contrepartie;OT;;C;"[abd/] [abd/4] [abd] [abd/] [abd] [da,c3/4] [c,de/4] [aab/] [abd] | \
+[,dff/] ,,d/4 ,,f [ab,,d/] [a,b,d] [,bdd/] \
+[,b,c/4] ,,d [,dda/] ,,,a/4 [,bd] |";germantab
+33b;B dur;25r;Sagt mir;;Contrepartie;OT;;C;"[,dff1] [ab,,d/] [cd,a] [,dff] [,df,,d] [ab,,d] ,d/4 a | \
+[,df,,d2] :||: [,ab1] [,ab/] [,dde] [,dff] ,f ,d [,b,c] |";germantab
+34a;a moll;25v;[Paduana] 6;;Partie;OT;;C;"[,cde,c3/2] [,cde,c/] [,efec] ,f [caaa1] | \
+[,h,ge/] ,g/4 ,e ,g/ ,,f [c,de,c] ,f [,efec1] | \
+[ea,c,,e3/4] c/4 [acc,e1]";germantab
+35a;G dur;25v;Jungfraw von ewrent wegen;Gregorij Lang;Partie;OT;;C;"[aa,c1] [acd3/4] [aac/4] [acd/] [cda] [ef,c1] | \
+[cef1] ,,f/ [ce] [ef,c] [fh,a] [ef,c] [ef,c] | \
+[ce,,c2] :| [ce,,c1] |: ,e/ ,,f [aa,c] [cda] [hf,g] [fh,h] |";germantab
+36a;d moll;25v;Ich hört ein Jungfraw klagen;Gregorij Lang;Partie;OT;;C;"[cef1] [cef/] [df,c] [acd] [cda] [d,,c] ,c | \
+[cd,a1] c/ [f,,a] [cd] h [ac] f | \
+[,df/] d/4 c [cab/] a [cc,e2] :";germantab
+34b;g moll;26r;[Paduana] 6;;Contrepartie;OT;;C;"[,abc,a3/2] [,abc,a/] [,cdca] ,d [a,dcd1] | \
+[aab,c/] ,e/4 ,c ,e/ ,,d [a,bc,a] ,d [,cdca1] | \
+[c,de,c3/4] ,f/4 [,dfec1] [aab,,a3/4] [c,d/4] \
+[da,c3/4] [cd/4] |";germantab
+35b;F dur;26r;Jungfraw von ewrent wegen;Gregorij Lang;Contrepartie;OT;;C;"[,dda1] [,dff3/4] [,dde/4] [,dff/] [ab,c] [cd,a1] | \
+[acd1] ,,d/ [ac] [cd] [df,,d] [cd,a] [cd,a] | [ac,,a2] :| \
+[ac,,a1] |: ,c/ ,,d [,d,a] [ab,c] [fd,e] [df,f] |";germantab
+36b;C dur;26r;Ich hört ein Jungfraw klagen;Gregorij Lang;Contrepartie;OT;;C;"[acd1] [acd/] [bd,a] [,dff] [ab,c] [b,,a] ,a | \
+[ab,,d1] a/ [d,,,d] [ab] f [,df] d | \
+[,bd/] b/4 a [a,dd/] ,d [aa,c2] :|";germantab
+37a;d moll;26v;[Paduana] 7;;Partie;OT;;C;"[cdf,c2] [cdf,c/] ,c [cdf,c/4] ,f c e | \
+[fcd,,c/] e [cdf,c1] [dff,,a] [acd,a/4] c d/ | \
+[cdd{d}3/2] [cdd{d}/] [d,,c,a/] c d [,a,,,a/4] ,,,a |";germantab
+38a_1;d moll;26v;Ach möchte es doch gesein;Gregorij Lang;Partie;OT;;C;"[cdf1] [fca/] [d,ff] [c,da] [a,bc] [,ea,c] ,a | \
+[,a,c/] a [,cd] [f,a] [cdf] h [,,he] g | \
+[ha,,,h2] :| [ha,,,h/] |:";germantab
+38a_2;b moll;26v;Alio modo;;Partie;OT;;C;"[d,ef1] [b,da/] [,ebb] [,d,db] [,ebb] [,ab,,d] ,,b | \
+[,,b,d/] ,b [,,dd] [b,,a] [,def] d [,,da] c | \
+[d,b,,d2] :| [d,b,,d/] |:";germantab
+37b;c moll;27r;[Paduana] 7;;Contrepartie;OT;;C;"[abd,a2] [abd,a/] ,,a/4 ,,b ,,d ,a ,b/8 ,d a c | \
+[dab,,a1] [abd,a/] ,d/4 a [bdd{d}1] [,dba,d] | \
+[abb,d3/2] [abb,d/] [b,,a{d}] a ,,d ,,,,e |";germantab
+38b_1;c moll;27r;Ach möchte es doch gesein;Gregorij Lang;Contrepartie;OT;;C;"[f,gh1] [da,c/] [b,dd] [a,b,d] [,daa] [,c,ca] ,,d | \
+[,,da/] ,d [,ab] [d,,c] [abd] f [,a,c] e | \
+[f,d,a2] :| [f,d,a/] |:";germantab
+38b_2;g moll;27r;Idem Alio modo;;Contrepartie;OT;;C;"[a,bc1] [,da,c/] [,b,cd] [,a,a,d] [,b,ca] [,,c,ca] ,,,c | \
+[,,,ca/] ,,d [,,aa] [,d,,c] [,abc] a [,,a,c] ,e | \
+[a,,c,a2] :| [a,,c,a/] |:";germantab

@@ -1,0 +1,82 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;1r;sans titre;;;OT;;none;"%%tabfirstflag 0
+[aacc,a] [aacc,a] [aac] ,,,,,a [aac] ,,,a [a,,,e] ,,,,c [acdca] \
+[acd] ,,,,a [acd] [acdca] [acdca] [acd] [cdda] [ad] ,,,a";italian7tab
+2;;1v;Ruggiero in tenore;;P XVII 214;OT;Conc_3638;none;"%%tabfirstflag 0
+[aacc,a] [aacc,a] [aac] [acdca] [caabc] [aacc,a] [aac] ,,,c [aac] | \
+[aacc,a] [aacc,a] [aac] [acdca] [acd] [caabc] \
+[caa] ,,,,c [cca] |";italian7tab
+3;;2r;Passemezzo in tenore;;;OT;;none;"%%tabfirstflag 0
+[aabc,a] ,,d [aabc,a] [aab] ,,,c [aab] ,,,,a [,ab,,d] ,,,,,c [aabc,a] \
+[aab] ,,,c [aab] ,,,,a ,,,,c ,,,,e [cdda] [cd] ,,,a [cd]";italian7tab
+4;;2v;La 3a moraza(?);;duet?;OT;;none;"%%tabfirstflag 0
+[acdca] ,d [acdca] [acd] [cdda] [cd] [acdca] | \
+[acdca] ,d [acdca] [acd] [aacc] [aac] [acdca] ||";italian7tab
+5;;2v;La 3a moraza(?);;duet?;OT;;none;"%%tabfirstflag 0
+[acdca] ,d [acdca] ,c [cdda] ,d [acdca] ,c | \
+[acdca] ,d [acdca] ,c [aacc] ,,c [acdca] ,c ||";italian7tab
+6;;3r;sans titre;;;OT;;none;"%%tabfirstflag 0
+[caa,c] [caa,c] [caa] [aacc,a] ,,,c [aac] [acdca] [acd] [acdca] \
+[caa,c] [caa] ,,,,c [caa] ,,,,a [aaa,,e] ,,,,,c [aacc,a] ,,,c";italian7tab
+7;;3v;Pauana in tenore;;;OT;;none;"%%tabfirstflag 0
+[aacc,a] ,,d [aacc,a] [aac] ,,,,,a [aac] ,,,,,a [aac] ,,d \
+[aacc,a] [aa,,e] [c,,a] [aacc] [acdca] [acd] ,,,,a \
+[acd] ,,,,a [acd]";italian7tab
+8;;4r;sans titre;;;OT;;none;"[aacc,a2] ,,d1 [aacc,a2] ,,,c/ [aac1] ,,,,c [aaa,e] ,,,b [aacc] | \
+,,,d1 [aacc,a2] ,,,c/ [aac1] | \
+,,,,c1 [aaa,e] ,,,a [aaa,e] ,,,,c [acdca2]";italian7tab
+9;;5r;sans titre;;;OT;;none;"%%tabfirstflag 0
+[aaccca] a c d c a ,d ,b ,a ,,d ,,b ,,a ,,,c ,,,a \
+,,,,e ,,,,c ,,,,a ,,,,,d ,,,,,c ,,,,,a |";italian7tab
+10;;5v;sans titre;;;OT;;none;"%%tabfirstflag 0
+[,,d,a] ,a [,b,,a] ,a [,b,,a] [,ab,,d] [,ab] [ab,,d] [ab] ,,,,d [ab] [ab,,d] \
+[bbdd,b] [bbd] [,ab,,d] [,ab] [ab,,d] [ab] ,,,,d [ab] :||:";italian7tab
+11;;6r;sans titre;;unfinished;OT;;none;"%%tabfirstflag 0
+[acdca] f a ,c ,,d ,,,c ,,,,e \
+[acdca] c d f d c a ,b ,c ,a ,,d ,,c ,,a";italian7tab
+12;;6v;[barriera/battaglia];;;OT;;none;"%%tabfirstflag 0
+[cdda] c c [cdda] d d [cdda] [bd] ,,,a [cd] :||: \
+,d ,d a [c,,a] [a,,be] [,da,c] a ,d";italian7tab
+13;;7r;[barriera/battaglia];;;OT;;3;"[cdda2] c1 c [cdda] c | [f,,a2] f1 f [f,,a] f | \
+[cdda2] c1 c [cdda] c  | {d}2 [,da1] [,da] {d} [,da] :||:";italian7tab
+14;;7v;[barriera/battaglia];;;OT;;none;"[cdda2] a1 [cdda2] [f,,a] d1 [f,,a2] [cdda] a1 [cdda2] \
+[,da{d}] [,da] ,,,a [,da] :||: [,da{d}] a1 ,d [acdca2]";italian7tab
+15;;8v;Passemezzo in soprano;;;OT;;none;"%%tabfirstflag 0
+[,dda] a [bdda] [bd] ,,,a [bd] ,c ,d a [b,,a] [,ab,,d] [,b,,a] [,da,c] \
+[ab,,d] [ab] ,,,,d [ab] ,a ,b ,d";italian7tab
+16;;9r;[Passemezzo in soprano - variazione];;;OT;;C;"f1 b d [f,,a] | b1 ,d a [b,,a] :||: d/ a c [d,,,d] a ,b ,d [a,,,d] :||: \
+f/ b d [f,,a] b ,d a [b,,a] :||:";italian7tab
+17;;9v;[Passemezzo in tenore];;;OT;;none;"%%tabfirstflag 0
+[aabc,a] ,,d [aabc,a] [aab] ,,,,,a [aab] ,,d ,,b ,,a \
+[aabc,a] ,,,,c ,,,,a ,,,,,d ,,,,,c ,,,,,a {d} {c} [,da{d}]";italian7tab
+18;;10v;Passemezzo in tenore;;;OT;;none;"[aabc,a2] ,,d1 [aabc,a2] ,,,,,c1 [,ab,,d] ,,,,a [,ab,c] ,,,,a \
+[,ab,,d] ,,,,,c [aab,,a] ,,,,,c [,ab,,d] ,,,,a [,aa,c] \
+,,,,,d [,d,,,c] ,,,,,a |";italian7tab
+19;;11v;[Passemezzo in tenore];;;OT;;none;"%%tabfirstflag 0
+[aabc,a] ,,d [aabc,a] ,,a [aab] ,,d [aa] ,,d [aab] ,,a \
+[aabc,a] ,,a [aab] ,,d [aa] ,,b [aaa] ,,,c [cdda]";italian7tab
+20;;12v;[contrapunto su passemezzo];;;OT;;none;"%%tabfirstflag 0
+[aabc,a1] ,,d [aabc,a2] [aabc1] [aabc] [ca,b] [aabc] [,ab,,d] \
+[abd,a] [,aa,c] [aabc,a] [aabc] [aabc] [ca,b] [aabc] \
+[,c,,a] [,d,,c] [a,,,e]";italian7tab
+21;;13v;Passemezzo in 4. tono;;;OT;ConcR2404;C;",,,,,c1 ,,,,,d ,,,,a ,,,,c ,c ,d a c ,,,,,c ,,,,,d ,,,,a ,,,,b ,c ,d a c | \
+,,,,,a1 ,,,,,c ,,,,,e ,,,,a";italian7tab
+22;;14v;Passemezzo in 4. tono;;;OT;;none;"%%tabfirstflag 0
+,c ,d a [c,,,c] | ,d ,a ,c [,d,,c] c ,d a \
+[c,,,c] ,d ,a ,c [,d,,c] c ,d a c";italian7tab
+23;;15v;sans titre;;;OT;;none;"%%tabfirstflag 0
+,a ,c [,da,c] ,a ,c ,d a c d c a ,d ,c ,a ,,e ,a ,c [,da,c]";italian7tab
+24;;16v;sans titre;;;OT;;none;"%%tabfirstflag 0
+[,da{d}] [,da{d}] [,da] {c} [,da{d}] ,,,,,a [,da,,c] ,,,,,a \
+[,da{d}] [,da] {c} [,da{d}] ,,,,d [,da,c] ,,,,a ,,,,d \
+[,ab] [,ab] ,,,,,c [,ab,d]";italian7tab
+25;;17v;sans titre;;;OT;;none;"[aaccca2] [aaccca] [aaccca] a1 ,a ,,c ,,,c ,,,,d ,,,,,e ,,,,,a [aaccc] \
+[acdca2] [acdca] f1 a ,c ,,d ,,,c ,,,,e ,,,,a";italian7tab
+26;;18v;sans titre;;;OT;;none;"%%tabfirstflag 0
+[aabc,a] [aab] ,,,c [aab] [,c,,a] [,d,,c] [a,,,e] [,da{d}] \
+[,da] {d} [,da] [,c,,a] [,ab,,d] [,,d,,c] [aabc,a] [aab] \
+,,,c [aab] [aabc,a] [aabc,a]";italian7tab
+27;;19r;[monodic exercise];;;OT;;none;"f1 f/ d c a | d d c a ,d | c c a ,d ,c | a a ,d ,c ,a | \
+,d ,d ,c ,a ,,d |";italian7tab
+28;;19v;sans titre;;;OT;;none;"[,da{d}] [,da{d}] [,dda] ,,,a [,da] ,c ,d a [cdda] \
+,,,,c [a,,,d] [c,,a] [,ab,,d] [,ab] ,,,a [,ab]";italian7tab

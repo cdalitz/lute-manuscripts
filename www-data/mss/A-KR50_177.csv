@@ -1,0 +1,17 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+;;;Parthia a 5 / Mandora Prima / Mandora Seconda / Violino o Travers 1mo / Violino o Travers 2do / e / Basso;;;;;;;
+;;;Mandora Prima;;;;;;;
+1;G dur;2v;Allegro;;;Mandora;;3/4;"[daa/] [daa] [daa] [daa] [daa1] | ,,,,,d/ ,,,,a ,,,,c ,,,,a ,,,,,d1 | \
+[d,a/] (c/4 a) ,d/ a [,d,a] ,b |";french5tab
+2;G dur;3v;Andante;;;Mandora;;2/4;"[daa/] ,d ,d1 | [fd,e/] ,d ,d1 | ([f,,a/] d) (c a) ,d ,b | \
+[,aa/] ,,,,,d ,,,,,d [,da,c] | \
+[ab,,d/] [ab,,d] [ab,,d] [ab,,d] |";french5tab
+3;G dur;4v;Finale;;;Mandora;;2/4;",,a/ ,a ,d d | ,,a1 ,,,,,d | ,,,a/ ,,a ,a ,d | [,aa1] [,,ca] | \
+,,,,,c/ ,d ,,c ,d | ,,,,,d/ ,d ,,a ,d |";french5tab
+;;;Mandora Seconda;;;;;;;
+4;G dur;6v;Allegro;;;Mandora;;3/4;"[,,a,,d/] ,,c ,a ,,c ,,a1 | [,a,,,d/] ,b ,d ,b ,a1 | \
+[d,a/] (c/4 a) ,d/ ,b ,a ,,c | [,,ca1] [,,a,,d] z1 |";french5tab
+5;G dur;7v;Andante;;;Mandora;;2/4;",,,,,d/ ,a/4 ,b ,d/ d | 'c/ ,,,a ,,,a ,,c/4 ,a | \
+V[,b,,a/] ,d/4 a '[c,,a/] a/4 (c | d/) ,,a ,,a1 |";french5tab
+6;G dur;8v;Finale;;ff.9v-13v Staff;Mandora;;2/4;",,a1 ,,,,,d | ,,a/ ,a ,d d | ,a/ ,d d h | [d,a1] [c,,a] | \
+,,,e/ f ,d f | ,,a/ h ,a h |";french5tab

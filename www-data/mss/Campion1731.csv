@@ -1,0 +1,356 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;1;Prelude;François Campion;;guitar;Conc_5280;C;"!strumdown![cc3/2] c/4 a ,c 'd ,,d/ X,,c ,,a | \
+,,,e/ ,,c ,a ,c [,,df] ,,a ,d ,,a | \
+,,,d/ ,,c ,c ,,,d ,,,b ,,a ,a ,c |";french5tab
+2;;1;Prelude à 4 temps;François Campion;;guitar;Conc_5281;C;"!strumdown![cc3/2] ,c/ ,,,e ,a ,,a ,d | ,,c/ ,c ,,,,a c ,,,,c b !strumdown![bcc1] | \
+f/ ,,,a h ,a ,e ,a ,f |";french5tab
+3;;2;Allemande / Tendrement;François Campion;;guitar;Conc_5282;C;"!strumup![cc/] | !strumdown![cc1] ,c/ ,d X[,a,e1] ([,,da/] ,,c) | \
+[,,df1] [,,cd/] [,,df] X[,,aXb1] ,,,,,d | \
+[,cca1] '[,d,,c/] ,c X[,a,d] ,a [,aab] [,cea] |";french5tab
+4;;2;Courante;François Campion;;guitar;Conc_5283;3;"!strumup![cc/] | !strumdown![cc3/2] e/ 'f1 (e/ c) X[aac3/2] ,d/ | \
+!strumdown![,cd/] (,,d ,,c ,,a) X[,a,e3/2] ,d/ \
+([,c,a/] ,a) (,,d ,,c) |";french5tab
+5;;3;Menuet;François Campion;;guitar;Conc_5284;3;"!strumdown![cc1] ,c '[c,a] | X[aac3/2] ,d/ [,c,,a1] | \
+[f,a1] [e,,d] [c,,b] | [e,,a/] c e f e1 | \
+!strumdown![cc1] ,c '[c,a] | X[aac3/2] ,d/ [,c,,a1] |";french5tab
+6;;4;Gigue La Somptueuse;François Campion;;guitar;Conc_5285;3;"!strumdown![cc2] ,c1 | ([,c,e/] ,a) ([,da] ,c ,a) ,,,,a | \
+([,,da/] ,,c) [,,af1] [,ca/] ,,,d | \
+[c,,(b/] [,,,d)] (,,,b ,,,a) [e,,,c] |";french5tab
+7;;5;La Montléon;François Campion;;guitar;;C;"(,,a/ ,,c) ,,,,a ,a | ',c1 ,,a ',d ,,c/ a | '[,c,,a1] (,,c/ ,,a) ([,,ce] ,,d) (,a ,c) | \
+[,,df1] ,,a (,d/ ,c) ,,,d ,c |";french5tab
+8;;6;Courante La Victoire;François Campion;;guitar;;3;"!strumup![cc/] | !strumdown![cc3] ,c1 c2 | '[c,a2] X[a,c3] ,d1 | \
+X[,c,,a3] ,c1 f2 | [f,,,a2] X[ea3] c1 | X[bc3] ,d1 ,c ,a | \
+[cc,,a2] [bac] [c,a] |";french5tab
+9;;7;Gavotte;François Campion;;guitar;Conc_5286;C;"!strumdown![cc1] [,c,e] | '[,da1] X[,ac] '[,c,,a] X[,a,,c/] ,,d | \
+X[,,ca1] [,,af] '[,c,d] ,c/ [,d,b] | [a,,a1] [,c,,a] [c,,b] [e,,,c] | \
+!strumdown!X[bcc2] ||";french5tab
+10;;7;Sarabande la liébar;François Campion;;guitar;Conc_5287;3;"[f,a1] e c | V[e,,e1] ,c [,c,d] | [c,,b1] [e,,a] '[fa] | \
+!strumdown!X[bcc3] | !strumdown![cddb1] X[a,,a1] [,d,,c] | \
+X[,c,,a1] [a,,,a] '[f,a] | !strumdown![effd1] ,,,a/ e 'f1 |";french5tab
+11;;8;Rondeau;François Campion;;guitar;Conc_5288;3;",c1 | !strumdown![cc1] ([,c,e/] ,d) (,a ,c) | [,,df1] ,,a [,c,d] | \
+!strumdown![cddb1] ([f,,,a/] e) (c a) | [,dc1] ,a [a,,d] |";french5tab
+12;;8;Sarabande;François Campion;;guitar;Conc_5289;3;"!strumdown![cc1] e f | !strumdown!X[bcc3/2] [,d,,c/] [,c,,a1] | \
+[,ac1] [,c,e] [,,ca] | [,,df3/2] ,,c/ ,,a1 | [,ca1] ,d [a,,d] | \
+!strumdown![cddb3/2] [c,,a/] [e,,,c1] | \
+[f,,,a1] X[,acd3/2] ,d/ | !strumdown![,,dda3] ||";french5tab
+13;;9;Allemande à 4 temps;François Campion;;guitar;;C;"!strumup![cc/] | !strumdown![cc3/2] f/4 e [f,a/] [c,,b] [e,,,c] [b,,a] | \
+!strumdown![cc3/2] a/4 ,d [,ca/] ,a/4 ,,d [,,ce/] [,c,a] | \
+[,,df/] ,,a [,,df] [,ac]";french5tab
+14;;10;Allem à 4 temps;François Campion;;guitar;;C;"!strumup![cc/] | !strumdown![cc3/2] ,c/ c c/4 b c/ e | \
+b/ ,c ,,c ,a ,,,,a c ,,c b | !strumdown![cc1] X[e,,e/] ([c,,a/4] e) \
+[f,a/] (e/4 c) [e,,d/] ,c |";french5tab
+15;;11;Les Soupirs à 3 temps legerz;François Campion;;guitar;;3;",c1 | c1 ,c ,,,,a | ,,a1 ,d ,,a | ,,,e1 ,a ,,c | ,,,f1 ,,d ,a | \
+[,c,d1] ,,a ,c | [,c,b1] c ,a |";french5tab
+16;;12;Sarabande;François Campion;;guitar;;3;"!strumdown![cc1] X,a ,,,e/ (,,d/4 ,,c) | [,,df3/2] ,,a/ ,d1 | \
+[,ac1] X[,,de] ,,,a/ ,,c | [,,df3/2] ,,f/ ,,d ,,f | \
+[,c,d1] [cc,b] ,a/ ,e |";french5tab
+17;;13;Air;François Campion;pp. 14-16 vacuo;guitar;;3;"!strumdown![cc1] ,,a ,,c | [,c,,a1] [,c,,a] [c,a] | \
+X[b,,a1] [c,,c] [e,,e] | [f,a1] [ed] [ca] | X[bc1] X,a (,,d/ ,,c) | \
+[,c,,a1] X[,ac] ([,,da/] ,,c) |";french5tab
+18;;17;Allemande;François Campion;;guitar;Conc_5290;C;"!strumup![cddb/] | !strumdown![cddb1] (d/ c) X[a,,,a1] (,d/ ,c) | \
+'[,d,,c3/2] ,d/ [a,,,e1] ([c,,,a/4] a) (c d) | \
+X[c,,b1] d/ c X[a,,a1] c/ a |";french5tab
+19;;18;Courante la Mauleurier;François Campion;;guitar;Conc_5291;3/2;"!strumup![cddb/] | !strumdown![cddb3] c1 a ,d | [a,,a2] ,,d [,d,,c] | \
+[,db2] X[,d,,a3] ,c1 | !strumdown![,dd'b3] ,c1 ,d a | \
+!strumdown![cddb2] [,d,,c] [,ac] |";french5tab
+20;;18;Menuet Rondeau;François Campion;;guitar;Conc_5292;3;"!strumdown![cddb2] (c/ a) ,d1 | [a,,a1] ,,d [,d,,c] | [,ab1] ,c [,d,d] | \
+X[,c,,a3/2] (,a/ ,c) ,,d | !strumdown![cddb1] (c/ a) ,d1 | \
+[a,,a1] ,,d [,d,,c] |";french5tab
+21;;19;Gigue obmise en la suitte de la page 12me;François Campion;;guitar;Conc_5293;3;",d/ | [,ddb2] ,,d1 | [,ab3/2] ,c/ ,d1 | X[,c,,a3/2] ,a/ ,,d1 | \
+[,db2] a1 | [c,a3/2] d/ c1 | X[a,b3/2] ,d/ [,c,,a1] | \
+!strumdown![,ddb2] !strumup![cddb1] |";french5tab
+22;;19;Gavotte;François Campion;;guitar;Conc_5294;C;"!strumdown![cddb1] ,d | [f,,a1] a/ c [d,,,c1] X[c,,b] | \
+([c,,,a/] a) (,d ,c) [a,,,a] c d a | \
+!strumdown![cddb/] a (,d ,c) X[,a,d1] (,c/ ,d) |";french5tab
+23;;20;Chacone;François Campion;;guitar;Conc_5295;3;"!strumdown![cddb1] !strumup![cddb] !strumup![cddb] | \
+!strumdown![,cdd1] !strumup![,cdd] !strumup![,cdd] | \
+!strumdown![cd,b1] !strumup![cd,b] !strumup![cd,b] | \
+!strumdown![,,bdc1] !strumup![,,bdc] !strumup![,cdd] || \
+!strumdown![,ddb1] c/ c d c |";french5tab
+24;;21;Prelude à 4 temps;François Campion;;guitar;Conc_5296;C;"!strumdown![,cdd1] ,,,,c/ ,d ,,c ,d ,,,,a ,c | \
+,,,c/ ,,a ,a ,,d ,,,d ,,c ,a ,c | \
+,,a/ ,d ,,c a ,,,,a ,c c ,,,,a |";french5tab
+25;;21;Allemande / vivement;François Campion;;guitar;Conc_5297;C;"!strumup![,cdd/] | !strumdown![,cdd1] [,c,,a1] [,d,,c] [a,c] | \
+X[,c,,a1] [a,,,a] [c,,,a] [e,c] | [f,a1] ([e,,c/] c) [e,,d1] [a,,b] | \
+[f,,a1] [a,,,a] !strumdown![cddb] (d/ c) |";french5tab
+26;;22;Courante La petitte doucet;François Campion;;guitar;Conc_5298;3/2;"!strumup![,cd/] | !strumdown![,cd3] c1 a ,c | '[,d,,c2] [,ac] [a,,d] | \
+X[,c,,a2] ,,d1 ,c X,a ,,d | \
+!strumdown!X[,,cd3] ,,,f1 X,,,d ,,,b |";french5tab
+27;;22;Menuet;François Campion;;guitar;Conc_5299;3;"!strumdown![,cd1] (c/ a) ([,da] ,c) | X[,ac2] [,c,,a1] | \
+[,d,,c1] [,ac] [a,,d] | ([,c,,a/] ,d) (,c ,a) ,,d1 | \
+!strumdown![,cd1] (c/ a) ([,da] ,c) |";french5tab
+28;;23;Sarabande;François Campion;;guitar;Conc_5301;3;"!strumdown![,cd1] ,d a | [,ac1] ,c [,d,d] | X[,c,,a1] ,,,,a [a,c] | \
+[f,a1] [e,,d] [c,,b] | [a,,a1] [,d,,c] [,c,,a] | \
+X[,acd1] [,aab] X[,cea] |";french5tab
+29;;23;Gigue;François Campion;;guitar;Conc_5302;6/8;"a/ ([f,,,a] e) f | ([a,,a/] c) ,c ([,dc] ,a) a | \
+[,c,,a/] ,,d a ([c,,b] e) [f,a] |";french5tab
+30;;24;Chacone;François Campion;;guitar;Conc_5300;3;"!strumdown![,cd1] ,,d ,c | !strumdown![,,cdc1] ,,c ,a | \
+!strumdown![,d,b1] ,,a ,,,,a | !strumdown![,,cdc1] ,d a || \
+!strumdown![,cd1] ,c a | !strumdown![,,cdc1] ,a a |";french5tab
+31;;25;sans titre;François Campion;Continuation of ???;guitar;;3;"y y y !strumdown![,cdd1] !strumup![,cdd] !strumup![,cdd] | \
+!strumdown![,,cdc1] !strumup![,,cdc] !strumup![,,cdc] | \
+!strumdown![,d,b1] !strumup![,d,b] !strumup![,d,b] | \
+!strumdown![,,cdc1] !strumup![,,cdc] !strumup![,,cdc] ||";french5tab
+32;;25;harpégement;François Campion;;guitar;;3;",,d/4 a ,c a ,c a ,c a ,,d a ,c a | \
+,,c/4 a ,a a ,a a ,a a ,,c a ,a a |";french5tab
+33;;25;Menuet;François Campion;;guitar;;3;"!strumdown![,cd/] ,d a c a1 | [,,df1] ,,d [,ac] | \
+[,c,,a/] ,a ,c ,d ,c ,d | !strumdown![,,cdc/] ,d a c a1 |";french5tab
+34;;26;Courante les délices;François Campion;pp. 27-32 vacuo;guitar;;3;",,c/ ,,d ,a | ,,,,a/ ,c ,,,,c ,d ,,c ,d | \
+,,,,a/ ,c ,,,d ,,d ,a ,,c | ',,d1 ,,,,a/ ,c ,d a |";french5tab
+35;;33;Gavotte;François Campion;;guitar;Conc_5303;C;"!strumdown![,cdd1] f | [,d,,c1] ([,c,,a/] ,d) [,ac1] ,,,d/ a | \
+([,d,,a/] ,c) ,,d1 !strumdown![,cd] c/ [e,c] | \
+[f,a1] ([e,,,a/] c) X[ca3/2] a/ |";french5tab
+36;;33;Gigue;François Campion;;guitar;Conc_5304;3;"!strumdown![,cd3/2] ,d/ ,c1 | [,ac2] [,,df1] | [a,,d3/2] c/ a1 | \
+[,da3/2] a/ [,dc1] | [,cd3/2] ,,f/ ,,d1 | [a,c3/2] [c,d/] [a,c1] | \
+[f,a3/2] ,c/ ,d1 |";french5tab
+37;;34;Prelude;François Campion;;guitar;Conc_5305;C;"!strumup![,,cdc/] | !strumdown![,,cdc3/2] c/ ,,,c ,a ,,,,a ,a | \
+,,,d/ ,,c ,a a ,,,,a ,c ,,c ,a | \
+,,a/ ,e ,,,d a ,,,c c ,a h |";french5tab
+38;;34;Allemande / Tendrement;François Campion;;guitar;Conc_5306;C;"!strumup![,,cdc/] | !strumdown![,,cdc2] [,ac/] [,c,,a] [,ac] [,,df] | \
+X[,,cd/] ,a ,c [,e,c] !strumdown![acca] e X[c,,,a] a | \
+X[,ef/] ,,h ,,f ,,,,a ,,c ,a a ,e |";french5tab
+39;;34;Prelude à 4 temps;François Campion;;guitar;Conc_5307;C;"!strumdown![,aabc3/2] ,d/ X,c ,a ,,,,b ,c | ,,a/ ,d ,,,,c ,,a ',,b a ,,c ,a | \
+,,,,a/ c ,,e ,c ,,,,c ,d d ,,,,c |";french5tab
+40;;35;Simphonie / lente;François Campion;;guitar;Conc_5308;3/2;"!strumdown![c,,bc2] [a,e1] c [,,ca] a | [,d,,c2] ,,,,a1 ,,,,c [c,a] ,,,,a | \
+[,ab2] ,,a1 ,,b [a,,d] ([,db/] ,e) | \
+X[,,ef2] ,,,d1 ,,,f [,,ea] [,c,d] |";french5tab
+41;;36;Sarabande;François Campion;;guitar;Conc_5309;3;"!strumdown![,aabc3/2] ,c/ ,d1 | [a,,a1] [c,,b] [d,,d] | \
+X[,,ef3/2] ,,,d/ ,,,f1 | [,a,b1] [,c,a] [,d,,c] | \
+[ac,,b3/2] a/ c1 | [,d,,c1] X[,ca3/2] ,a/ | [,ab3/2] ,c/ ,d1 |";french5tab
+42;;36;Courante;François Campion;;guitar;Conc_5310;3/2;"!strumup![c,,bc/] | !strumdown![c,,bc3] c1 d c | \
+[a,,a2] X[,de] ,,a1 ,c | [,d,,c2] ,a1 ,d ,c ,a | \
+[c,,,a2] [h,,g3/2] k1 | X[g,a3] ,,b1 ,,a ,,,d |";french5tab
+43;;37;Gigue;François Campion;;guitar;;3;",a1 | c3/2 d/ c1 | Xa3/2 ,d/ [,ca1] | [,d,,c3/2] ,,,,d/ ,,,,c1 | \
+X[,c,,a3/2] ,,b/ ,,a1 | [,ab2] [c,a1] | [d,,d3/2] f/ d1 | \
+[c,a3/2] d/ [c,b1] |";french5tab
+44;;38;Gavotte en rondeau;François Campion;;guitar;;C;"!strumdown![,,,bc/] ,c ,d a | !strumdown![c,,bc1] (c/ d) ([c,,,b] a) ([,da] ,c) | \
+[,d,,c/] a ,c ,d [a,,,a] c ,d a |";french5tab
+45;;39;Gavotte en Rondeau;François Campion;p. 40 vacuo;guitar;;C;"[,d,,c1] ,c/ ,a | [a,,,b1] ([,d,,a/] ,c) [c,c1] [,ab] | \
+X[,,ef1] ,,a [,d,e] (,c/ ,a) | [,c,d1] ,,a [,a,b] (,c/ ,a) |";french5tab
+46;;41;Gigue;François Campion;;guitar;Conc_5311;3/8;",a/ | '[,d,,c1] a/ | [cce1] ,c/ | ([,d,,c/] ,c) ,a | \
+[,ca1] c/ | ([,d,,c/] ,a) d | [a,,,a/] ,c f | [c,,b/] ,d c |";french5tab
+47;;41;Gigue;François Campion;;guitar;Conc_5312;6/4;",a1 | !strumdown![c,,cc3/2] e/ c1 !strumdown![c,,cc2] ,,a1 | \
+[,ec3/2] ,c/ ,e1 [a,e3/2] c/ a1 | [,ef3/2] a/ ,e1 X[,ca3] | \
+[c,,c3/2] e/ c1 [c,c3/2] a/ ,e1 |";french5tab
+48;;42;Prelude à 4 temps;François Campion;;guitar;Conc_5313;C;"!strumdown![acca3/2] e/ a ,c c ,e | ,,,,d/ ,,c [,c,d] ,,,a ,,,,a ,c c [e,c] | \
+[f,a/] ,,,c [e,,d] ,,,a [c,,c] ,,c ,,e ,,,,d |";french5tab
+49;;42;Allemande Tombeau;François Campion;;guitar;Conc_5314;C;"!strumup![acca/] | !strumdown![acca1] ,c [e,,,d3/2] ,e/ | \
+[a,,a3/2] a/ [fef3/2] e/ | [ec,,a3/2] c/ X[ce,,a1] ,c/ e | \
+[ebc2] [,ec1] a | X[,bc1] ,,c/ [,ba] [,ccd1] [,eac] |";french5tab
+50;;43;Gigue;François Campion;;guitar;Conc_5315;3;",c1 | !strumdown![ecc3/2] c/ a1 | ,e3/2 a/ [,c,a1] | \
+X[,bc3/2] ,,a/ [,c,d1] | [c,,c3/2] [e,,d/] [a,,a1] | \
+[,e,,d3/2] e/ ,e1 | [a,,a3/2] f/ a1 |";french5tab
+;;;Accord nouveau Pour Les Piéces Suivantes;;;;;;;
+51;;44;Allemande;François Campion;;guitar;Conc_5316;C;"!strumup![bc/] | !strumdown![bc3/2] b/ ,c ,e ,,,,a ,a | \
+,,a/ ,,e X,,c ,,a ,,,e ,c ,e a | \
+[b,,c/] b [d,,,c] b X[a,,a] ,,,c X,,,a ,,,,b |";french5tab
+52;;44;Courante;François Campion;;guitar;Conc_5317;3/2;"!strumup![bc/] | !strumdown![bc1] !strumdown![bc/4] b a ,e ,c1 ,e X[,c,e3/2] ,a/ | \
+X[,,ef3/2] ,,c/ ,,e ,a [,c,,a1] X[,ac3/2] [,,ef/] |";french5tab
+53;;45;Menuet;François Campion;;guitar;Conc_5318;3;"!strumdown![bc1] [a,c/] ,e ([,c,e] ,a) | X[,,ef1] ,,a [,c,e] | \
+[,,ef1] [,e,c] [,bc] | [,cca/] ,b ,c ,e ,c1 | \
+!strumdown![bc1] [a,c/] ,e ([,c,e] ,a) |";french5tab
+54;;45;Gigue Angloise;François Campion;;guitar;Conc_5319;6/4;"!strumup![bc1] | !strumdown![bc3/2] a/ ,e1  [,c,e3/2] ,e/ ,a1 | \
+X[,,ef2] ,,a1 ,,a2 f1 | [f,,,a3/2] d/ [ba1] X[a,,a3/2] ,e/ a1 |";french5tab
+55;;46;Gavotte;François Campion;;guitar;Conc_5320;C;"!strumdown![bc1] a/ [,ec] | [,c,,a1] ,a/ ,,e [,,ce1] [,c,a] | \
+X[,,ef1] ,,a [,c,e] ,e/ a | '[b,,c1] (a/ b) [,e,,c1] [d,c] | \
+X[ac,a2] ||";french5tab
+;;;Accord nouveau;;;;;;;
+56;;46;Prelude tres lentement;François Campion;;guitar;Conc_5321;C;"!strumdown![ed,,c/] e ,,,,a ,d (e c) (,d ,c) | \
+[,d,,c/] ,,,,a (,,b ,,a) [cab] a (,c ,a) | \
+[e,,a/] ,,c [cce] e c ,d c ,c |";french5tab
+57;;46;Allemande;François Campion;;guitar;Conc_5322;C;"!strumup![,aaac/] | !strumdown![,aaac1] !strumup![,aaac/] ,c !strumdown![,d,,c] ,d ,c ,d | \
+!strumdown![,abac/] ,,b ,,a [,f,f] !strumdown![edddf] ,f e f |";french5tab
+58;;48;Courante;François Campion;;guitar;Conc_5323;3/2;"!strumup![,a,,c/] | z3/2 ,c/ ,d1 ,a [e,,,a3/2] [k,,i/] | \
+X[i,a3/2] ,k/ ,h1 [k,k] [f,,f3/2] e/ | \
+X[c,,,a3/2] e/ [,ab1] ,c [,dc3/2] c/ |";french5tab
+59;;48;Menuet;François Campion;;guitar;Conc_5324;3;"!strumdown![,a,,c1] a [e,a] | X[a,,a3/2] ,c/ ,a1 | [e,,,a1] [f,,a] [c,b] | \
+[e,a/] c e f e1 | !strumdown![,a,,c1] a [e,a] | \
+X[a,,a3/2] ,c/ ,a1 |";french5tab
+60;;49;Sarabande;François Campion;;guitar;Conc_5325;3;"!strumdown![ed,,c1] Xa3/2 ,c/ | !strumdown![,,b,c1] X,,a3/2 ,,,f/ | \
+!strumdown![eddd1] Xe3/2 f/ | [h,a1] [a,b] [f,,f3/4] e/4 | \
+X[c,d3/2] ,,f/ [c,d] ,,b | X[h,,a3/2] a/ [f,,f1] |";french5tab
+61;;49;Gigue;François Campion;;guitar;Conc_5326;3;",,a1 | ,a1 ,c ,d | ,c1 ,d ,a | e2 [e,a1] | [a,,a1] ,,,c ,,,d | \
+[c,,c1] [e,,d] [a,,a] | X[,ca1] ,,c ,,e |";french5tab
+62;;50;Gavotte;François Campion;;guitar;Conc_5327;C;"!strumup![ed,,c/] c X[a,e] ,c | [,d,,c1] ,a [e,,,a] [k,,i] | \
+X[i,a1] ,h ([k,i/] h) ([f,,,e] e) | \
+[f,f1] [e,,,a] X[caXb3/2] e/ |";french5tab
+63;;50;Passacaille;François Campion;;guitar;Conc_5328;3/2;"!strumdown![ed,,c2] !strumup![ed,,c] !strumup![ed,,c] | \
+!strumdown![,cdc2] !strumup![,cdc] ,c1 a | \
+!strumdown![c,b,c2] !strumup![c,b,c] a1 c | \
+!strumdown![ec,cb2] !strumup![ed,cb1] c Xa ,c | \
+!strumdown![ed,,c2] !strumup![ed,,c] !strumup![ed,,c] |";french5tab
+;;;Accord nouveau;;;;;;;
+64;;51;Rondeau;François Campion;;guitar;Conc_5329;C;"!strumdown![d,,,b1] [b,,,a/] d | ([b,,a/] a) ([,cc] ,a) [b,,,a1] ([a,,a/] b) | \
+([,ea/] ,c) ([,,ff] ,,e) [,a,e] [,c,c] ([a,,a] b) |";french5tab
+65;;52;Gigue;François Campion;;guitar;Conc_5330;3;"d1 | ,a3/2 ,c/ a1 | ,c3/2 a/ ,a1 | d2 [d,a1] | [a,,a3/2] [,c,c/] [,a,e1] | \
+[b,,c3/2] [d,,e/] [a,,a1] | X[,ca3/2] d/ b1 |";french5tab
+66;;52;Gavotte;François Campion;;guitar;Conc_5331;C;"!strumdown![d,,,b1] [d,a/] b | [a,,a3/2] b/ [d,,e] f [b,,c] [a,,a] | \
+X[,ca1] [,a,a] [a,,a] [f,,,a] | X[c,c1] (d/ f) [fgh3/2] d/ | \
+!strumdown![dc,c2] ||";french5tab
+67;;52;Menuet;François Campion;;guitar;Conc_5332;3;"([,a,a/] ,c) X[,c,,a2] | [,e,a1] (,c/ ,a) [b,c1] | \
+([b,,,a/] a) ([b,,a] a) ([,cc] ,a) | [,ca/] ,a ,c ,e ,c1 |";french5tab
+;;;Accord nouveau;;;;;;;
+68;;53;Allemande;François Campion;;guitar;Conc_5333;C;"!strumup![ddccc/] | !strumdown![ddccc3/2] ,d/ a a ,d ,b | \
+X[,ac3/2] ,,,c/ [,b,e] [,b,e] [,a,c] [,b,a] | \
+[,d,,e/] d X[c,c] d [a,,a] f X[d,,,a] f |";french5tab
+69;;54;Gigue;François Campion;;guitar;Conc_5334;3/8;",d/ | d1 c/ | d1 [,de/] | X[,c,,a1] [a,c/] | [,db1] [,b,,c/] | \
+X[,ac1] [,db/] | [d,,e1] [,a,c/] | [a,,a1] [d,,,c/] | \
+[i,,,a1] [a,,,a/] | X[c,,c1] d/ |";french5tab
+;;;Accord nouveau;;;;;;;
+70;;54;Gigue;François Campion;;guitar;Conc_5335;3;"a1 | !strumdown![,,bd3/2] c/ d1 | [c,a3/2] d/ [a,b1] | \
+[a,d1] [c,a] [,e,,a] | !strumdown![,,bd2] ,a1 | [,ba3/2] ,d/ ,b1 | \
+X[,ab2] a1 | [aac3/2] ,d/ a1 |";french5tab
+71;;55;Menuet Rondeau;François Campion;;guitar;Conc_5336;3;"!strumdown![d,bd1] (c/ a) (,d ,b) | X[,ab2] ,a1 | \
+([a,c/] c) (d c a) ,d | X[,cd3] | ([c,e/] a) (c d ([c,a] a) |";french5tab
+;;;Accord nouveau;;;;;;;
+72;;55;Allemande;François Campion;;guitar;Conc_5337;C;"!strumup![,,dfd/] | !strumdown![,,dfd3/2] a/ [c,,e1] ,a/ c | \
+!strumdown![d,,f1] f/ d X[c,,d1] ,,,a/ d | \
+[a,,b1] ,,,,b/ c X[,e,a1] ,,,a/ ,,f |";french5tab
+;;;Accord ordinaire;;;;;;;
+73;;56;Allemande;François Campion;;guitar;Conc_5338;C;"!strumup![fhh/] | !strumdown![fhh2] ,h/ ,i f h | \
+!strumdown![,fgh3/2] !strumup![,fgh/] !strumdown![,fgh] ,f ,h ,,g | \
+!strumdown![,db,c3/2] !strumup![,db,c/] \
+!strumdown![,db,c] ,d a ,a |";french5tab
+74;;57;2.e Allemande le Cotharne;François Campion;;guitar;;C;"!strumup![fhh/] | !strumdown![fhh3/2] [fh/] [hi,a1] [fh] | \
+[df,a1] ,,,,e/ f !strumdown!X[cdc3/2] d/ | \
+!strumdown![,fgh3/2] [,fg/] [,hh,a1] [,fg] | \
+[,de,a1] ,,,g/ a !strumdown!X[,ccc3/2] ,,,c/ |";french5tab
+75;;58;Gigue;François Campion;;guitar;;6/8;"!strumdown![,dc1] a/ [c,,a] d c | [a,,,e/] f ,f [,d,,c] d ,d | \
+[,c,,a/] c ,c [,aa] a ,a | [,,ce1] ,d/ X[,c,c3/4] ,a/4 ,c/ |";french5tab
+76;;58;Gavotte;François Campion;;guitar;;C;"!strumdown![,dc/] [,c,c] [,d,e] [a,a] | X[,c,,a1] [,d,,c] [a,,,e/] c [d,,,a] a | \
+!strumdown![cdc1] ,d [c,,a/] a [c,,,c] d | \
+[a,,,e/] d [c,,,a] a [,d,,c] c [a,b] ,d |";french5tab
+77;;59;Sarabande la Geffosse;François Campion;;guitar;Conc_5339;3;"[f,,a1] Xc3/2 a/ | [,d,,c1] ,,,,e/ a [c,,a1] | [d,,c1] a [f,,,e] | \
+X[c,,a3/2] a/ [,d,,c1] | ,,a/ a X[ac,,a3/2] !strumup![,de/] | \
+!strumdown![,dc3] |";french5tab
+78;;59;Menuet;François Campion;;guitar;Conc_5340;3;"[,d,a/] ,c ,d a '[c,a1] | X[,c,,a3/2] ,a/ ,,,,a1 | \
+[,d,,c1] [a,a] ([,d,,a/],c) | !strumdown![,dc/] ,c ,d a ,d1 |";french5tab
+79;;60;Italienne;François Campion;;guitar;Conc_5341;3;",,,,a1 | !strumdown![,dc/] ,c ,d a ,d1 | [a,,,e/] ,d a c a1 | \
+!strumdown![cddc1] ,d [ca,a] | X[ac,,a2] || [a,,,a1] | \
+!strumdown![cdc/] d c a ,d ,c |";french5tab
+80;;60;Trompette;François Campion;;guitar;Conc_5342;2;"!strumdown![fhh/] h f1 | [,h,,a/] ,i f1 [,d,,c] ,d | \
+!strumdown![,ccc1] !strumup![,ccc] !strumdown![cdc] ,d | \
+!strumdown![fhh/] h f1 [,h,,a/] ,i f1 |";french5tab
+81;;61;Brunette;François Campion;;guitar;;3;"!strumdown![,dc1] [,c,c] [,d,e] | [aca2] [,d,e1] | [dc,c1] X[cd,a2] | \
+X[ac,,a3] | !strumdown![,dc3] | [c,,a1] [a,,,e] ([,d,,a/] ,c) | \
+[,d,,c2] ([,c,,(a/] [,d,,c)]) | [,ab1] [a,,c2] |";french5tab
+82;;62;Sonattina 1741 / Allegro;François Campion;pp. 68-70 vacuo;guitar;;C;"c1 c | a1 a f f | ,d2 d1 c | a1 ,d/ ,c ,d1 a | \
+c1 ,c [ac] [ac] |";french5tab
+83;;71;Prelude;François Campion;;guitar;;C;"f/ d f a | b/ b Xa ,d [,cc] ,,a ,,c ,,,c | \
+[,d,d/] ,,,d [,c,c] [,d,a] [a,,,e] f X[d,,,a] f |";french5tab
+84;;71;Sarabande;François Campion;;guitar;;3;"[b,,a1] [a,,,d] [,dd] | [f,,,a1] ,,,,c [a,,,e] | [b,,a1] [a,,c] [,d,d] | \
+X[,ca3/2] ,,c/ ,,a ,,,d | [,c,c1] [,d,a] [a,,,e] | \
+!strumdown![bdc3/2] [a,,,d/] [,d,,c1] |";french5tab
+85;;72;Tombeau de Mr De Maltor;François Campion;;guitar;;3;"!strumdown![fgh1] !strumup![fgh/] !strumup![fgh] !strumdown![fgh1] | \
+,,h/ ,g ,,g ,f ,,h ,g | X[,ff3/2] ,f/ '[fg,,a1] | \
+X[,dd3/2] ,d/ '[dfa1] | !strumdown!X[,ccc2] [,ca1] |";french5tab
+86;;73;Prelude;François Campion;;guitar;;C;"f1 f | g1 g X,c2 | ,d1 a [bd] a | [cbc1] [cbc] [ddd] [ddd] | \
+[fdfe1] f [gf,f] [gf,f] | !strumdown![fgha2] [fg,a1] [fg] |";french5tab
+87;;74;Sonatina / Allegro;François Campion;;guitar;;2;"[,d,a1] a [,,cd2] | [,d,a1] a [,,cd] a | [,d,a1] a [b,,a] d | \
+[a,,,d1] b [,dd] a | [,c,,a2] [,ca1] a |";french5tab
+88;;76;Air;François Campion;;guitar;;3;",d1 | 'b1 (d/ b a) ,d | a1 ,,c [,c,c] | [a,a1] ([b,(c/] [a,a)]) ([,d,(d] [,c,c)]) | \
+[,d,d1] ,,c [,d,a] | [a,a1] ([a,(a/] [b,c] [d,d)]) [a,a] |";french5tab
+89;;78;Passacaille;François Campion;cont'd on p,77;guitar;;3;"[,d,a/] [,c,c] [,d,d] [aba] | !strumdown!'[bdc1] !strumdown!'[,bcc] !strumup![,bcc/] c | \
+!strumdown![dd,,'b1] [,aa/] [,cc] [,dd] [a,a] | \
+!strumdown![bdcd1] [ada/] ,d X[,c,,a1] | !strumdown![,dc1] ||";french5tab
+90;;81;Gigue;François Campion;;guitar;Conc_5343;3;"[f,,a3/2] d/ f1 | 'b3/2 a/ ,d1 | X[,cc3/2] ,,a/ ,,d1 | \
+[,dcd2] [ac,c1] | [bd,a2] [a,df1] | X[,cc,a2] [dc,,a1] | \
+!strumdown![bdc3/2] [a,,,d/] [c,,a1] |";french5tab
+91;;82;Gavotte;François Campion;;guitar;Conc_5344;C;"!strumdown![,dc/] ,,c ,d a | !strumdown![bdc/] a ,d a [b,,a] [a,,,a] [b,,a] [d,,c]| \
+[f,,d/] ,,,c ,,,d ,,a [ac,,a] [bd] [df] [ac] |";french5tab
+92;;82;Allemande La furieuse;François Campion;;guitar;Conc_5345;C;"!strumup![,bcc/] | !strumdown![,bcc2] z/4 ,,,,a ,,e ,b ,,,a (a c e) | \
+[f,,,a3/2] d/ [b,,a1] [a,,,d] | [,d,,c1] [,b,,a] [,ab] [a,,c] |";french5tab
+93;;84;Allemande;François Campion;;guitar;Conc_5346;C;"!strumup![dd,,c/] | !strumdown![dd,,c2] z/ a ,d ,b | \
+X[,aa3/2] ,,,,a/4 ,,a [,b,,a1] [,d,,c] | \
+!strumdown![,b,cd1] ([c,,,a/] d) \
+!strumdown!X[cdc/] ,,,c ,,,a ,,,,d |";french5tab
+94;;84;Gigue;François Campion;;guitar;Conc_5347;3;"!strumdown![dd,,c2] ,d1 | [a,,,d3/2] b/ a1 | [,d,,c2] [,b,,a1] | \
+X[,aa2] [,a,a1] | [,b,c3/2] [,d,d/] [,b,c1] | X[,a,Xa2] [,b,,d1] | \
+[,d,,c2] [d,a1] | !strumdown![,b,cd2] [f,,,a1] |";french5tab
+95;;85;Gavotte;François Campion;;guitar;Conc_5348;C;"!strumdown![dd,,c1] ,d | [a,,,d1] ,b [,d,,c] [,b,,a] | \
+X[,aa/] ,,c ,,a ,,,e [d,,c1] a | \
+[ff,,e1] ([dd,a/] c) X[ac,,a3/2] ,d/ | !strumdown![,dc2] ||";french5tab
+96;;86;Rondeau;François Campion;;guitar;Conc_5349;C;"[a,,,a1] [f,,,a] | ([ff/] e) ([cd] a) ([dc] c) ([,de] ,d) | \
+([,d,,a/] ,c) ,,c1 [,d,,c] [a,,,e] | \
+([c,,a/] a) (,d ,c) ([,c,c] ,a) (,c ,d) |";french5tab
+97;;87;sans titre;François Campion;pp. 88-92 vacuo;guitar;;C;",,,,c1 ,,,c | [,a,a1] [a,,,d] [,d,,c] [,b,,a] | \
+[,ab1] [,,c,a] X[,,bd] [,b,c] | [b,,a1] [a,,,d] [,d,,c] [,b,,a] | \
+([,b,a/] ,a) ([,,cc] ,,b) [,,cd2] |";french5tab
+98;;93;Prelude;François Campion;;guitar;;none;"K:french5tab
+a/8 (d c a) ,d a (,d ,b .a) (,b ,d) (,b ,a) \
+,,c (,,e ,,c ,,a) ,,,e ,,a (,,,e ,,,c) |";french5tab
+99;;94;Allemande à 4 temps;François Campion;;guitar;;C;"!strumup![dfec/] | !strumdown![dfec3/2] c/4 ,f ,e/ c ,,,,c  ,,,,a | \
+,,a/ a ,,,e ,e ,,,c a ,,,b c | \
+[d,,c/] ,b [c,,a] ,a [a,,,d] ,a [a,,,d] ,,d |";french5tab
+100;;95;Courante La Grancey;François Campion;;guitar;;3;",a/ ,c ,e | a/ ,a a c [d,,c1] | X[c,,b1] ,a/ c [d,,a] c | \
+,,,,d/ a ,a a ,,c c |";french5tab
+101;;96;Les Ramages;François Campion;;guitar;;12/8;"!strumup![,,,cc/] | !strumdown![,,,cc3/2] ,a1 a/ [a,,c1] ,a/ [c,,b1] ,a/ | \
+[d,,c/] ,a [c,,a] ,a [a,,,d] ,a [a,,,d] ,,c | \
+!strumdown![ceee1] [,e,e/] ,,c [a,a] ,a [c,,b] ,a |";french5tab
+102;;97;sans titre;François Campion;;guitar;;2/4;"[a,,c/] [,e,e] | [a,a1] [c,,,a] | [,aa/] ,a [a,a] [,e,e] | \
+[a,,c1] X[ca,b] | [d,,c/] c [a,,c] [,e,e] | [a,a1] [c,,,a] | \
+[,aa/] ,a [a,a] [,e,e] |";french5tab
+103;;98;sans titre;François Campion;pp. 99-100 vacuo;guitar;;3;",,,c1 | X,,,b1 ,,,,c [a,a] | X[,e,e1] ,a [c,,b] | [d,,c1] a [d,,c] | \
+[f,,e1] [h,a] [i,,,a] | X[,ee1] [,a,,a] [a,a] | \
+,,,,a/ c X[ca3/2] a/ |";french5tab
+104;;101;Prelude à 4 temps / allegro;François Campion;;guitar;;C;",,,,a1 ,b (,b/ ,a) ,,c1 | ,,b1 a (,,b/ ,,c) (,a ,b) | \
+,,,,a1 b ,,,,a (,,,,c/ ,,,,d) | ,,,,c1 d ,,a (,,,,a/ ,,,,c) |";french5tab
+105;;102;Fugue;François Campion;;guitar;;2;"a1 a | (,d/ ,b) ,,c1 [b,,,a] ([b,,,a/] d) | [a,b1] ,,,c [f,f] ,,f | \
+X[e,e1] [a,f] [i,,,a] [i,,,a] | [h,,,h1] ,,,,h [f,,,g] ,a |";french5tab
+106;;103;Air;François Campion;;guitar;;3;",f1 | !strumdown![fffhh3/2] h/ i1 | !strumdown![hfhgf1] [,f,,a] [f,f] | \
+[f,,a1] [ha] ([ff/] e) | [f,,,a2] [a,,,a1] | [,ab3/2] ,b/ [,d,c1] | \
+!strumdown![,bcc1] ,,c [,b,,a] |";french5tab
+107;;104;Allemande à 4 temps;François Campion;;guitar;;C;",d/ d f |  g/ ,,,a ,,a [f,,,a] [d,d] g X[f,f] d | \
+[c,,a/] ,,,,a ,,,a ,,,,d [d,,,b] ,d [d,a] b |";french5tab
+108;;106;Courante;François Campion;;guitar;;3;",,d/ ,a ,c | !strumdown!'[,deec1] X[,c,e/] ,,e ,c ,,d | \
+',,e1 ,,,,c/ c [,fd] c | [,de/] c [,cc] c [,aa] a | \
+!strumdown![ccde3/2] ,,,f/ ,,,e ,,,c |";french5tab
+109;;107;Air;François Campion;p. 108 vacuo;guitar;;3;"[c,,,c1] | [,fd3/2] c/ [,c,e1] | '[,d,,c1] ,,e [,de] | \
+X[,cc3/2] [,de/] [,,de1] | [,aa1] [,c,e] [,d,c] | X[,,de2] ,,,e1 | \
+[,,de3/2] ,,,e/ ,,,,e1 |";french5tab
+110;;109;Air;François Campion;;guitar;;2;"!strumup![bbcd/] | !strumdown![bbcd3] [a,,,d1] | \
+[b,,d1] [d,,c] [f,,d] [g,d] | ([f,,,d/] d) ([,gd] ,f) [b,c1] [a,a] | \
+[b,c1] [,b,d] [,dd] [,bc] | [,,df1] [,b,c] [,,cd] [,b,c] |";french5tab
+111;;110;Air;François Campion;;guitar;;2;"!strumup![bbcd/] | !strumdown![bbcd3/2] ,b/ '[,d,a1] ,,c | \
+'[,,dc1] ,b X[,,cd3/2] ,b/ | [,dcd1] [ab,c] !strumdown![bdc] ,,,,d/ b | \
+!strumdown![bd,,c3/2] d/ !strumdown![ab,cd1] ,,,,d/ ,,,,b |";french5tab
+112;;111;Sarabande;François Campion;;guitar;;3;"!strumdown![bbcd1] [,b,,a] [,d,,b] | X[,b,,d3/2] ,,d/ X[,,cd] ,,,b | \
+[,,ca1] [,,c,d] [,,d,b] | !strumdown![,bcdd1] [b,,d] [,dd] | \
+[d,a1] X[a,,,d] ,,d/ b | !strumdown![bbcd3/2] d/ f1 |";french5tab
+113;;112;Menuet;François Campion;;guitar;;3;"!strumdown![,bcd1] ,,c ,,,d | !strumdown![,b,c1] ,b/ ,d a ,b | \
+[ba,a1] (d/ b a) ,d | !strumdown![,b,cd/] ,a ,b ,d ,b1 | \
+!strumdown![,bcd1] ,,c ,,,d |";french5tab
+114;;112;Gigue;François Campion;pp. 114-116 vacuo;guitar;;6/8;"!strumup![bbcd/] | !strumdown![bbcd3/4] d/4 b/ !strumdown![,b,cd3/4] ,d/4 [,bd/] | \
+!strumdown![bbcdd1] !strumup![bbcdd/] !strumdown![bbcdd3/4] ,,a/4 ,,c/ | \
+!strumdown![,dddb1] !strumup![,ddb/] !strumdown![,ddb3/4] a/4 b/ | \
+!strumdown![dd,,b1] !strumup![dd,,b/] \
+!strumdown![dd,,b3/4] ,,c/4 ,,d/ |";french5tab
+115;;117;Prelude;François Campion;;guitar;;2;"!strumup![,b,cd/] | !strumdown![,b,cd1] ,,,a/ ,a [,b,c1] [,d,d] | \
+X[,aa1] [,b,,a] [,d,,c] ([a,a/] b) | \
+X[a,,,d1] ,,,,a/ b [,d,,c1] ,,a/ a |";french5tab
+116;;117;Bransle;François Campion;;guitar;;6/8;"!strumup![,b,cd/] ,d a | [b,,a/] a b [d,a1] b/ | \
+!strumdown![,b,cd1] !strumup![,b,cd/] !strumdown![,b,cd] ,d a | \
+[b,,a/] a b [d,a1] b/ |";french5tab
+117;;118;Gavotte;François Campion;pp. 119-121 vacuo;guitar;;C;"!strumdown![,b,cd1] d/ b  X[a,,,d1] (,d/ ,b) [,d,,c] a ([,d,,a] ,b) | \
+X[,aa1] ,,a [,b,,a] [,d,,c] | \
+[a,,,d1] ([b,,d/] a) X[,da1] (a/ b) |";french5tab
+118;;122;Fugue / allegro;François Campion;pp. 127-128 vacuo;guitar;;C;",i2 ,i1 ,i | ,l3 ,l1 | h1 ,l/ h ,i1 h | [l,h2] ,h1 ,h | \
+[,ik3] ,,k1 | [i,,,k1] (,,,,h/ ,,,,k) ,,h1 [i,,,k] |";french5tab
+119;;129;Fugue;François Campion;pp. 131-132 vacuo;guitar;;C;"l1 l | ,i1 ,i ,l h | [il1] ,l [i,h] [h,h] | [h,,,h1] [fh] [hi] i/ h | \
+[hi1] ,h/ ,i [fhh1] ,,h |";french5tab
+120;;133;Fugue;François Campion;unfinished;guitar;;2;",,a1 ,,,e/ ,,a | ,,c1 ,,e/ ,,c ,d1 ,b | X,a1 ,,a [,d,e] a/ ,d | \
+[a,,c1] c/ a [f,,,e1] [d,,,a] |";french5tab
+121;;134;Fugue;François Campion;;guitar;;C;"l1 l | i1 ,l i i | h1 ,i [hi] [hi] | [fh1] ,,h [fh] [fh] | \
+[df2] [if1] ,,h | [if1] ,h [hi] ,h |";french5tab
+122;;140;Fugue / retrò ignari;François Campion;Qui se peut joindre à la Sonatina cy devant - p.141 vacuo;guitar;;2;"[hi1] [hi] | [fh1] [fh] [ln] [ln] | [,ik2] [il1] ,i/ i | \
+[ih1] ,f/ ,,h [hf1] [fh] | [hi1] i/ h [hi1] ,h/ ,i |";french5tab
+123;;142;Fugue;François Campion;;guitar;;C;",d1 ,d/ ,d | d1 d [c,,a] ,,,a/ ,,,a | X[a,a1] ([a,a/] c) [,d,e1] [,d,e] | \
+'[,b,c1] ,,,c/ ,b  ,,,a ,b c ,a |";french5tab
+124;;143;sans titre;François Campion;unfinished;guitar;;C;",,,a1 ,,,a/ ,,,a | ,,a1 ,,a [,d,e] ,d/ ,d | [d,,c1] d [f,,a] d/ f | \
+[h,a1] ,i [hi] [i,,,h/] h |";french5tab
+125;;144;Fugue;François Campion;partly crossed out - unfinished;guitar;;C;",,,c1 ,,,c/ ,,,e | ,,a3/2 ,,a/ ,,c1 ,,e | ,,,,e2 ,,c1 ,,,e | \
+'[,,,b1] ,,,b/ ,,,c ,,,e1 ,,,e | \
+[,aa1] [,a,c/] ,c [,d,,c3/2] [,d,,c/] |";french5tab
+126;;144;[Fugue];François Campion;unfinished;guitar;;C;"[hia1] [hia/] [hia] | [abacd1] ,,,,d/ ,,,,d [ff,e1] ,,,e | \
+[,de,c1] ,,,,c/ ,,,,c [dd,c1] [dc,,a] | \
+[cdca1] ,,,c/ ,,,e [,da1] a/ c |";french5tab

@@ -1,0 +1,501 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+;;;Many new concordances taken from Pietro Prosser's thesis (1996);;;;;;;
+1;d moll;5r;Entrée;;Ex molli D;Mandora;Conc_4669;C;"(3,a/ ,c ,e) | [aa{,,a}1] {,a} {a} (3[a{,,a}/] c d) | \
+[ca,,c1] ,,,,e ,,,b [ca,b] | \
+[da,c1] [ca,a] [ab,,d] [c,,,a/] a |";french5tab
+2;d moll;5v;Minuet;;;Mandora;Conc_5152;3/4;"[h,,,,a/] f d c a ,e | [a,,,,a/] ,a ,,c ,,a ,,,e ,,,c | \
+[,b,,a/] ,a ,,c ,a ,,,,,c1 | [,,a,,a1] ,,,e/ ,,a ,,,c1 |";french5tab
+3;d moll;5v;Trio;;;Mandora;Conc_4881;3/4;"(3,a/ ,c ,e) | [aa,,,a1] h a/4 c a/ | [aa,,,a1] ,,,,c/ ,,,,a ,,,,,d ,,,,,c | \
+,,,,,a/ a ,,,b c ,a1 |";french5tab
+4;d moll;6r;Scherzo;;;Mandora;;2;"h/ | [h,,,,a/4] f d c c a ,e/ | ,,,,,a/ a ,a a | \
+h/4 f d c c a ,e1 |";french5tab
+5;d moll;6v;Sarabanda;;;Mandora;Conc_5138;12/8;",a/ ,c ,e | [aa,,,a3/4] c/4 d/ [c,,,a3/4] d/4 a/ [,e,,c3/4] a/4 c/ ,a1 [,bc,a/] | \
+[,aa,,d3/4] a/4 ,a/ [,,c,,c3/4] c/4 ,,c/";french5tab
+6;C dur;6v;Intrada;;Ex C;Mandora;;3/4;",d/ ,,c ,d ,,c ,d ,,c | [,d,a/] ,c/4 ,a ,,c/ ,,a ,,,e ,,,c | \
+,,,a/ ,d c f ,,,,a ,c |";french5tab
+7;C dur;7r;Menuet;;"Originally written ""Mennet"". Idem for all following cases";Mandora;;3/4;",,,a/ f ,h f l1 | [,c,,a2] V[,d,a1] | ,,,,a/ a ,c a ,,,,a1 | \
+[c,,a2] [a,,,a1] | ,,,,a/ a ,c a d1 |";french5tab
+8;C dur;7v;Menuet;;;Mandora;;3/4;"(3,,c/ ,a ,c) | V[,d,a1] c/ d f1 | [,c,,a2] V[,d,a1] | \
+,,,,a/ ,c a1 d | [c,,a2] [ac,,a1] | ,,,,a/ ,,c ,c1 a |";french5tab
+9;G dur;7v;Trio;;;Mandora;;3/4;"[,c,,a1] ,,c/ ,a ,c1 | ,,,,a/ ,c ,,,,c ,d ,,,,e a | \
+,,,,c1 ,d [,c,,a] | [,ab,,a2] ,,,,e/ a | ,,,,c1 ,d [,c,,a] |";french5tab
+10;C dur;7v;Boure;;;Mandora;Conc_4882;2;",,c/ | [,dca/] ,,c ,,c ,d | [a,,,a/] ,,c ,,c a | [c,,a/] a/4 c d c a ,d | \
+[,c,,a/] ,a/4 ,c ,,c/ ,,c |";french5tab
+11;g moll;8r;Menuet;;;Mandora;;3/4;"[,d,a1] ,,c ,,,e | ,,,a2 (3,a/4 ,c ,d) | [a,,,a1] ,c ,,c | \
+[,,c,a2] [,a,,,d1] | ,,,,,c/ ,,c ,d1 ,,c | ,,,,,d/ ,a a1 ,a |";french5tab
+12;C dur;8v;Trio;;;Mandora;;3/4;",,,,a/ a ,b a ,,,,a a | ,,,a/ b ,a b ,,,a b | \
+,,,,,e/ ,a a1 ,b | V[,b,,a1] ,a/ ,b ,,c1 |";french5tab
+13;C dur;8v;Menuet;;;Mandora;;3/4;"[fh,a1] ,h/ ,i f1 | V[,d,a2] [,,ca,c1] | [,a,,,d1] a [,c,,a] | \
+V[,d,a2] [,,ca,c1] | [,a,,,d1] [d,,c] [c,,a] | \
+[,,ca,c1] [c,,a] [a,,,e] |";french5tab
+14;c moll;9r;Trio;;;Mandora;Conc_4883;3/4;"[,,ca1] ,d [ac,,a] | [b,,a2] [d,,,,a1] | [b,,a/] d f1 [,c,,a] | \
+[,dca2] ,,,a/ b | ,,,,d/ a ,,c a ,,,a b |";french5tab
+15;C dur;9r;Gavotta;;;Mandora;;2;"(3,,c/4 ,a ,c) | V[,d,a/] ,,c [a,,,a] ,,c | [c,,a1] a/4 c ,d/ ,,c | \
+[c,,a/] a/4 c [d,,c/] [c,,a] | [a,,,a/] ,,,,c ,,,,e ,,,,a |";french5tab
+16;C dur;9v;Menuet;;;Mandora;;3/4;",d1 (c/ a) ,d1 | V[,d,a1] [ac,,a] [c,,a] | [a,a1] ([d{,,a}/] c) a1 | \
+[,c,,a1] ,a/ ,c ,,c1 | ,,,c/ d ,c d ,,,,a d |";french5tab
+17;G dur;9v;Trio;;;Mandora;Conc_4694;3/4;",,,,,a/ ,,a ,,,,c ,,a ,,,a ,,a | ,,,,,a/ ,,a ,,,,c ,,a ,,,a ,,a | \
+[da{a}1] (c/ a) ,d1 | ,,,,d/ a ,,,,a ,b ,,,,,{a} ,a |";french5tab
+18;C dur;10r;Menuet;;;Mandora;;3/4;"[,d,a/] ,c ,d1 [a,,,a] | [c,,a/] a ,d1 [a,,,a] | \
+,,,a/ c ,,,e f ,,,c d | [c,,a2] [a,,,a1] | [c,,a/] a ,d1 c |";french5tab
+19;G dur;10r;Trio;;;Mandora;Conc_4757;3/4;"[k,,,a1] f [e,,,,a] | [f,,,a1] a [,d,,c] | V[,c,,a1] ,,c [,,b,,a] | \
+V[,,c,a2] [,ab,,a1] | ,,,,a/ ,c ,,,,,a ,a ,,,,a ,c |";french5tab
+20;C dur;10v;Tournée;;;Mandora;;C;",,c/4 ,a ,c | V[,d,a/4] ,c ,a ,,c ,,a ,,,e ,,,c ,,,a [,d,a/] \
+(3c/4 d f) ,d/ (3,,c/4 ,a ,c) |";french5tab
+21;G dur;11r;Menuet;;;Mandora;;3/4;"[,,c,a1] ,d/ ,c ,d1 | V[c,,a1] (,d/ ,c) ,d1 | V[,c,,a1] [d,a] [a,,,a] | \
+V[,d,a1] [ac,,a2] | [c,,a/] ,d [a,,,a] ,c [,d,,c1] |";french5tab
+22;g moll;11r;Trio;;;Mandora;Conc_4885;3/4;",,,,a/ a ,b a ,,,,a a | ,,,a/ b ,a b ,,,a b | {a}/ (b a) (,d ,b ,a) | \
+V[,b,,a1] ,b/ ,a ,,c1 | ,,,,a/ ,b ,,c ,b ,,,,a ,b |";french5tab
+23;C dur;11v;Menuet;;;Mandora;;3/4;"V[,d,a2] c/ ,d | [f,,e2] c/ ,d | ,,,c/ d ,,,a c ,,,,a a | \
+V[,d,a2] [f,,e1] | [d,,c1] [c,,a] [a,,,e] | \
+([c,,a/] a) ,d1 [c,,a] |";french5tab
+24;c moll;11v;Trio;;;Mandora;;3/4;"[,d,a/] a [b,,,a1] a | [,d,a1] ,,c ,,c | [a,,,a/] b d1 a | \
+[b,,a1] a/ b ,d1 | [g,a/] f g1 f |";french5tab
+25;c moll;11v;Siciliana;;;Mandora;;12/8;",,c/ ,a | V[,d,a3/4] a/4 b/ [b,,a3/4] a/4 ,d/ [,dc,,b3/4] a/4 ,c/ [,c,,a1] [g,,f/] | \
+[f,,d1] [d,,c/] ,,,,a3/2 d/8 b a/4 ,d ,c";french5tab
+26;C dur;12v;Menuet;;;Mandora;Conc_4886;3/4;",,c/ ,a | V[,d,a1] (c/ a) ,d1 | V[,d,a1] [,,c,,c] [,,a,,d] | \
+,,a1 (d/ c) a1 | [,c,a1] ,d/ a ,,c1 |";french5tab
+27;c moll;12v;Trio;;;Mandora;Conc_4887;3/4;"[,dca1] b [ac,,a] | [,d,a1] ,,c ,,c | [b,,a1] f d | [b,,a1] ,d ,d | \
+[,,ca1] ,a [,c,,a] | [,d,a1] a b |";french5tab
+28;c moll;13r;Aria;;;Mandora;Conc_4888;2;",d/4 a | [b,,a/] b/4 d f/ [,c,,a] | [,d,a/] ,,c ,,,a b | \
+,,,,d/4 a ,,c a ,,,,c ,d ,,b ,d |";french5tab
+29;C dur;13r;[sans titre];;;Mandora;Conc_4889;3/4;"[,d,a1] ,,c ,,,e | ,,,a3 | [f,,e1] c ,d | [,,c,a3] | \
+[,d,a/] a c1 ,a | [,c,,a/] ,d a1 [,,c,a] | \
+,a1 ,,,,,a/ a ,,c ,,b |";french5tab
+30;C dur;13v;Quique;;;Mandora;Conc_4783;6/8;",,c/4 ,a ,c | [,d,a/] ,,c ,d [,d,a] ,,c ,d | \
+[,d,a/] c/4 a ,d ,c V[,d,a1] [,,c,,c/] | \
+[,a,,,d/] ,,a ,a [,,a,,a] d/4 c a/ |";french5tab
+31;G dur;14v;Praeludium;;Ex G;Mandora;;C;"f1 | Vf1 a/ (,d ,c ,a) ,,c ,,b | [,,c,a1] ,,,,c ,,,,e/ ,a ,,,,,a ,a | \
+,,,,a/ ,c ,,,,c ,d ,,,,e a ,,,,c ,d |";french5tab
+32;G dur;14r;Menuet;;;Mandora;;3/4;"[ac,,a2] [cd,a1] | [ac,,a1] (f/ e) f1 | [a,,,a1] [,d,,c] [,c,,a] | \
+,,,,,a/ ,,b ,a ,,b [,,ca1] | ,,a/ ,d c ,d ,,a ,d |";french5tab
+33;g moll;14r;Trio;;;Mandora;Conc_4852;3/4;",,,,a/ ,b a1 f | e1 e/4 f h/ a1 | ,,,,c/ ,d ,,b ,d ,,,,,a ,d | \
+[,b,,a1] ,b/ ,a ,,c1 | ,,,,d/ a ,,,,a a ,,,a b |";french5tab
+34;G dur;15r;Menuet;;;Mandora;Conc_4850;3/4;"V,,c1 a [a,,,c] | [a,,,e1] f/ a [c,,a] ,d | [ac,,a1] ,d/ [,c,a] ,a1 | \
+[,,b,,a1] ,,c/ ,a ,,,c1 |: ,,,,,a/ a ,d1 V[,d,,c] |";french5tab
+35;C dur;15r;Trio;;;Mandora;;3/4;"[c,,a/] a ,d1 [,c,,a] | [,d,a2] [ac,,a1] | [c,,a/] a ,d1 [,c,,a] | \
+[,d,a2] [ac,,a1] | ,,,a1 [cd/] ,,,a ,,,,a [df] |";french5tab
+36;G dur;15v;Capricio;;;Mandora;Conc_4755;2/4;"V[,,c,a/] a ,,,,e a | [,d,,c/] ,,,,,a [,c,,a1] | V[c,,a/] (c/4 a) (,d ,c) ,a/ | \
+[,,b,,a/] ,,c/4 ,a ,,,c1 | [f,,,e1] [c,,a/] a |";french5tab
+37;G dur;15v;Menuet;;;Mandora;Conc_4891;3/4;"V,,c/ (,a ,c ,d) a1 | V[,,c,a2] [c,,a1] | [a,,,e1] [c,,a/] a [,d,,c1] | \
+X[,ab,,a3/2] a/ ,,,,e a | ,,,a/ c ,,,,a c ,,,a c |";french5tab
+38;G dur;16r;Trio;;;Mandora;Conc_4876;3/4;",,,,a1 f [e,,,,a] | [f,,,a1] a [,d,,c] | [,b,,a1] [a,,,d] [,d,,c] | \
+[,b,,a1] ,b/ ,a ,,c1 | ,,,a1 b ,,,,d | ,,,,c/ ,d d b a ,d |";french5tab
+39;G dur;16r;Menuet supra Trio;;;Mandora;;3/4;",,,,a1 Vf e | f1 ,,,,a/ ,,,,c ,,,,e1 | ,,,,a1 f e | \
+Vf2 [ac1] | (3,d/ c ,d) ,,,,a1 (3,d/ c ,d) |";french5tab
+40;g moll;16v;Andante;;;Mandora;Conc_4670;C;",,c/ ,a | [,b,,a1] ,a/ ,,c a1 [,,b,,a] | V[,,c,a1] ,,,,c ,,,,d ,,c | \
+,,,,,d1 ,,,,,c ,,,,,a a/ ,d | '[,b,,a1] ,a/ ,b";french5tab
+41;g moll;16v;Menuet;;;Mandora;Conc_4892;3/4;"V[,,c,a1] ,a/ ,,c [,ab,,a1] | [,b,,a1] (,a/ ,b) ,,c1 | \
+[,d,a1] (,d ,a) | [,,b,,a1] ,,c/ ,a ,,,c1 | \
+[ab,,a1] [ab,,d] [ab,,a] |";french5tab
+42;C dur;17r;Trio;;;Mandora;;3/4;"V[,d,a1] ,,c V[c,,a] | [a,,,a1] ,d/ ,c [,d,a1] | (a/ c) ,,,c d ,,,a c | \
+[a,,,a1] ,,,,c ,,,,e | [f,,e1] ,,,a [h,,f] |";french5tab
+43;g moll;17v;Fantasia;;;Mandora;Conc_4671;4/8;"[,,c,a/4] a [,,c,a] a [,,b,,a] a [,,b,,a] a | \
+[,b,,a/] ,a/4 ,b ,,c/ f | [dd,,c/] d a ,d |";french5tab
+44;G dur;18r;Menuet;;;Mandora;;3/4;",,,,a/ f ,,,,e a ,,,,c a | [,c,,a1] ,a/ ,c ,,c1 | \
+,,,a1 c [a,,,e] | ,,,,c1 [,db] [,c,,a] | ,,,,,a/ ,,b ,a1 ,c |";french5tab
+45;g moll;18r;Trio;;;Mandora;;3/4;"[ab,,a1] a ,b | V[,b,,a1] ,a/ ,b ,,c1 | ,,,,d/ ,,c ,,,a ,a ,,,,,a1 | \
+V[,,c,a1] ,,b/ ,,c (3,a/ ,b ,d) |";french5tab
+46;g moll;18v;Aria;;;Mandora;;C;"V[f,,,a1] a ,b [,a,,,a] | V[,,c,a1] ,,,,c ,,,,d [,ab,,a] | \
+[,b,,a/] (,a ,b ,d) [,b,,a1] [,d,,,b] | \
+[aab,,a/] ,,,,,c ,,,,,e ([,a,,,a] ,b ,d) |";french5tab
+47;g moll;19r;Menuet;;;Mandora;Conc_4893;3/4;"V[,,c,a1] f [a,,,,e] | [,b,,a1] (,a/ ,b) ,,c1 | [b,,a/] a ,d ,b ,a1 | \
+[,,b,,a1] ,,c/ ,a ,,,c1 | [,,c,a1] f [e,,,,a] |";french5tab
+48;F dur;19r;Menuet [&] Trio;;;Mandora;Conc_4894;3/4;"[ab,,d1] a/ b d1 | [,da,c1] ,,,,,d d | ,b1 ,d/ a b1 | \
+[,aa1] ,,,,,d a | [,,c,,b1] ,a/ ,b ,d1 |";french5tab
+49;g moll;19v;Boure;;;Mandora;;C;",,c1 | V[,b,,a1] (,a/ ,b) ,,c1 ,a | [,b,,a1] (,a/ ,b) ,,c1 [,a,,,a] | \
+[,b,,a1] (,a/ ,b) [,d,,c1] [,b,,a] | X[,a,,,a3] [f,,,a1] |";french5tab
+50;g moll;19v;Menuet;;;Mandora;Conc_4895;3/4;"V[,,c,a1] a/ (,d ,b ,a) | [,,c,a1] ,,,c/ ,,,a ,,,,d ,,,,c | \
+,,,a1 b [a,,,d] | ,,,,c/ ,d ,,,,a ,b ,,,,,a ,a |";french5tab
+51;g moll;20r;Aria;;;Mandora;Conc_4896;C;"[ab,,a1] a ,b [,a,,,a] | [,b,,a1] (,a/ ,b) ,,c1 [,a,,,a] | \
+,b1 (,a/ ,b) (,d ,b) ,a1 | [,,b,,a1] ,,c/ ,a ,,,c1 a |";french5tab
+52;g moll;20r;Menuet;;;Mandora;;3/4;"[abc,a1] a [a,,,c] | [a,,,d1] ,b/ ,a ,,c1 | [b,,a/] ,d ,a ,,a b1 | \
+[a,,,d1] ,,,,c f | [ef,,,a/] f h a ,d1 |";french5tab
+53;g moll;20v;Quique;;;Mandora;Conc_4779;6/8;"V[,,c,a1] V,b/ ([,b,,a] ,a) ,,c | [aa,,,a1] ,,,,,c/ ,,,,,e1 ,,,,,a/ | \
+V[,,c,a1] V,b/ (,a ,b) ,,c | [,,b,,a/] ,,c ,a ,,,c1 b/ |";french5tab
+54;G dur;21r;Favorite;;;Mandora;Conc_4897;3/4;"[,,c,a/] ,a ,c ,d a c | [a,,,a1] a ,c/ a | ,,,,c/ ,,b ,d ,,b ,,,,,a1 | \
+[,c,,a3/2] ,c/ ,,c ,c | [,a,,,a1] ,a/ ,,c [,a,,,a] ,,b |";french5tab
+55;C dur;21r;Menuet;;;Mandora;;3/4;"[c,,a1] f [,d,,d/] a | [,c,,a1] (,a/ ,c) ,,c1 | \
+[,a,,,d1] ,d [,c,,a] | [,d,a2] ,,c1 | \
+[a,,,e1] ,,c/ ,,c ,,c ,,c |";french5tab
+56;C dur;21v;Menuet;;;Mandora;Conc_4898;3/4;",,,,a/ a ,c ,,c ,,,a c | [a,,,a1] f/ e f1 | \
+,,,,a/ a ,c ,,c ,,,a ,d | [,c,,a1] ,a/ ,c ,,c1 |";french5tab
+57;c moll;21v;Trio;;;Mandora;Conc_4899;3/4;"[,d,a/] a b1 a | ,,,a/ ,,,c ,,,d1 ,,,c | [,d,a/] a b1 a | \
+,,,a/ ,,,c ,,,d1 ,,,c | [,d,a/] a b1 f |";french5tab
+58;G dur;21v;Menuet [&] Trio;;;Mandora;Conc_4900;3/4;",,,,a/ ,c a ,c ,,,,a1 | ,,,,a/ ,d c ,d ,,,,a1 | \
+,,,,a/ ,c a1 ,d/ ,c | [,ab1] ,,,,,a ,,,,,a |";french5tab
+59;C dur;22r;Trio;;;Mandora;Conc_4901;3/4;"[f,,a1] ,d [a,,,a] | [c,,a1] ,d/ a c d | [f,,a1] ,d [a,,,a] | \
+[c,,a2] ,,c1 | [,aa/] ,,c ,a1 d | [,,ca/] ,,a ,,c1 c |";french5tab
+60;G dur;22r;Menuet;;;Mandora;Conc_4902;3/4;"[acc,a1] ,c/ a ,,,,a a | [,db,c1] ,,b/ ,d ,,,,c ,d | \
+[,cc,a1] ,d/ ,c ,a ,,c | ,,,c/ ,,b ,a a [aabc1] |";french5tab
+61;g moll;22v;[sans titre];;;Mandora;Conc_4903;C;"a/ | V[,,c,a1] [,a,,,a] V[,,c,a] a | V,,c1 [,a,,,a] V[,,c,a] V[b,,a] | \
+[ab,,d1] V[b,,a/] a ,d ,b ,a1 | '[,,b,,a1] ,,c/ ,a ,,,c1 b |";french5tab
+62;G dur;22v;Menuet zum tinderieg;;;Mandora;Conc_4904;3/4;"[a,,,a/] c a ,d ,c ,a | [,,c,a/] ,,b ,,c a c d | \
+[a,,a1] c/ a ,d1 | [,a,,,a1] ,,,,,e ,,,,,a |";french5tab
+63;g moll;23r;Ariosa;;;Mandora;;3/4;"a1 ,,c ,a | V,b1 ,,,,a [,d,,c] | ,,,,d1 a [b,,a] | [,,b,,a2] [,,c,a1] | \
+d1 ,b ,d | a1 ,,,,d [b,,a] | ,,,,,a1 d [f,d] |";french5tab
+64;G dur;23v;Menuet;;;Mandora;;3/4;"[ac,,a1] ,,c [,ab,,a] | [,c,,a2] [,d,,c1] | [a,,,e/] ,d a1 [c,,a] | \
+[,ab,,a2] [,c,,a1] | ,,,,c/ ,d ,,,,a ,c ,,c1 | \
+[c,,a1] a/ ,d [a,,,e1] |";french5tab
+65;F dur;23v;Trio;;;Mandora;;3/4;"[,ba,d1] ,,a/ ,b ,,,,d ,b | ,d/ ,,,,c ,,a ,d ,,,,c ,d | \
+[ab,,d1] (b/ a) ,d ,b | [,da,c1] (,b/ ,a) ,,c ,,a |";french5tab
+66;G dur;24r;[sans titre];;;Mandora;Conc_5079;C;",,,,a1 f/ e f1 a | [,c,,a1]  ,d/ a ,,c2 | Vc1 c/ a ,d ,c ,a1 | \
+[,,b,,a1] ,,c/ ,a ,,,b2 |";french5tab
+67;C dur;24v;Menuet;;;Mandora;Conc_4940;3/4;",,,a1 [cd] ,,,a | ,,,,,a1 d/ c d1 | ,,,,e1 a ,,c | ,,,a1 c/ a c1 | \
+,,,,a/ ,c ,,c ,c ,,,,c ,d |";french5tab
+68;C dur;25r;Trio;;;Mandora;Conc_4905;3/4;",,,,a/ ,c a ,c ,,,,a a | [cd,a1] [ac,,a] [cd,a] | \
+[ac,,a1] [,d,,c] ,a/ ,,c | ,,,,,a/ ,,b ,a ,,b ,,,,,a1 |";french5tab
+69;G dur;25r;ut placet titulus;;;Mandora;;C;"[f,,,a/] a | [c,,a1] c/ a c1 d | X[a,,,a3] [a,,,e1] | \
+[,d,,c1] [,c,,a] [,d,,,a] a/ ,a | ,c1 ,d/ a ,,c1 [f,,,a/] a |";french5tab
+70;g moll;25v;Trio;;;Mandora;;3/4;",,,,a1 ,,c ,,c | ,b/ ,a ,,c1 ,,,,a | ,,c1 ,b ,b | \
+a/ ,d ,b1 ,,c | ,,,,a/ ,c a ,c ,,c a |";french5tab
+71;G dur;25v;[Enceniastes?];;;Mandora;;3/4;"V[f,,,a1] (3f/ h f) (3f h f) | [f,,,a/] ,f ,,g ,f ,,,,a1 | \
+,,,a/ c ,,,,e a ,,,,c ,d |";french5tab
+72;F dur;26r;Amorozo;;;Mandora;Conc_4906;3/4;"[ab,,d1] ,b/ ,d a1 | [a,,,d1] [b,,a] [d,,,,a] | ,,,a1 b [a,,,d] | \
+[,d,,,d2] [db,,,a1] | ,,,a1 b [a,,,d] | \
+[,d,,,b1] ,b/ a [,ba,,a1] |";french5tab
+73;B dur;26v;[sans titre];;;Mandora;Conc_4907;3/4;"[,ba,d1] ,b/ ,d a b | [d,,,,a1] ,b [f,,d] | [,,a,,d1] ,a [,b,,a] | \
+[,d,,c1] ,b/ ,a ,,c ,,a | [b,,a1] ,,,,c ,,,,d |";french5tab
+74;F dur;27r;Aria;;;Mandora;;3/4;"[daa,,d1] ,a/ ,b ,a1 | [,bc,a/] ,,,a/ ,b ,a ,,c1 | \
+[,a,,,d/] ,d ,b ,a ,,c ,,a | ,,c1 ,,,a ,,,,d |";french5tab
+75;C dur;27v;Menuet;;;Mandora;Conc_4908;3/4;"[,dca1] ,d/ ,c ,d c | [a,,,a1] ,,c/ a c d | ,,,c/ d ,,,c d ,,,a c | \
+[ac,,a1] ,,c/ a c d |";french5tab
+76;C dur;27v;[sans titre];;;Mandora;;2;"[,d,a/] ,,,c ,,,e [,d,a] | [ac,,a/] ,,,,c ,,,,e [ac,,a] | \
+[cd,a/] ,,,c ,,,e [cd,a] | [ac,,a/] ,,,,c ,,,,e [c,,a] | \
+[d,,c/] ,,,a ,,,,e [f,,,a] |";french5tab
+77;C dur;28r;[sans titre];;;Mandora;;3/4;"[ac,,a1] ,,,,a [cd,a] | [ac,,a1] ,,,,a [cd,a] | \
+a1 ,d/ ,c ,a ,,c | [,,b,,a2] V[,,c,a1] | \
+[,ab,,a1] ,,,,,a [,cc,a] | [,ab,,a1] ,,,,,a [,cc,a] |";french5tab
+78;C;28r;[sans titre];;;Mandora;;3/4;"(3,,c/ ,a ,c) | ,,,a/ ,d ,,,a ,d ,,,a ,d | \
+,,,,a/4 ,c a ,c ,,,,a ,c a ,c ,,,,a ,c a ,c |";french5tab
+79;c moll;28v;Quique;;;Mandora;Conc_4840;6/8;"[,d,a/] ,c ,d [,d,a] ,c ,d | ,,,,a/ (,a/4 ,c ,d) a ,,,,a/ ,a/4 ,c ,d a | \
+[b,,a/] a b [b,,a] a b |";french5tab
+80;C dur;29r;[sans titre];;;Mandora;;3/4;"[fh,a1] c/ d f1 | [,d,a2] [,,c,,c1] | [,,a,,d1] [a,,,,a] [,c,,a] | \
+[,d,a2] [,,c,,c1] | [,,a,,d1] [d,,c] [c,,a] | \
+[,,c,,c1] ,,,a/ c ,,,,a a |";french5tab
+81;g moll;29v;Melancholista;;;Mandora;;3/4;"Vf1 a/ ,d ,b ,a | [,,c,a1] ,,c/ ,,b [,,c,a1] | \
+[,ab,,a/] ,,b ,,,,,a ,,b ,a ,d | [,b,,a1] ,a/ ,b ,,c1 |";french5tab
+82;B dur;29v;[sans titre];;;Mandora;Conc_4910;3/4;"[,ba,d1] a/ b d1 | [,a,,,d1] ,,,,,b [,b,,,a] | [,,a,,d/] ,,c ,a ,b ,d a | \
+[b,,a/] ,,,,,d [a,,,d2] | [,ba,d1] d d |";french5tab
+83;F dur;30r;[sans titre];;;Mandora;Conc_4911;3/4;"[,,a,,d1] ,a [,dc,,c] | [da,,,a1] c/ a [,dc,,c] ,b | \
+[,a,,,d/] ,b [,d,,c1] [a,,,d] | X[,,ca2] ,,,a1 | \
+[,bc,a1] [,aa,,d] [,,ca] | [,bc,a1] [,aa,,d] [,,ca] |";french5tab
+84;C dur;30r;[sans titre];;;Mandora;Conc_4912;3/4;"f1 [,c,,,a] [,d,,,c] | [a,,,,d1] [,c,,,a] [,d,,,c] | \
+,,c1 d [c,,a] | [ac,,a2] [c,,a1] | [d,,,,a/] c d1 f | \
+[c,,a1] a/ c [,dc,,c1] |";french5tab
+85;G dur;30v;[sans titre];;;Mandora;;C;",c/ ,d | [ac,,a1] ,,c ,,c ,c/ ,d | ,,,,e/ a ,,,,a ,c ,,,,c ,d ,,,,,a ,a | \
+[,c,,a1] ,,c ,,c [,cc,a] |";french5tab
+86;C dur;30v;Bourlesca;;;Mandora;Conc_4913;2/4;"[cd,a1] [ac,,a] | [,dca/] ,c ,d a | [cd,a1] [ac,,a] | \
+[,dca/] ,,c ,,,a c | [a,,,e1] [,d,,c] | [,c,,a1] ,a ,c ,d |";french5tab
+87;F dur;31r;[sans titre];;;Mandora;Conc_4914;C;"[,,a,,d/] ,d ,d [,b,,a] [,aa,,d] ,,c/4 ,a [,b,,a/] ,,c | \
+[,aa,,d/] ,,c/4 ,a [,b,,a/] ,,c [,a,,,d] ,,a ,,c ,,,e |";french5tab
+88;B dur;31v;[sans titre];;;Mandora;;C;"[db,c3/4] ,b/4 V,b3/4 ,b/4 [db,c3/4] ,b/4 V,b3/4 ,b/4 | \
+V[f,,d/] f/4 d b a ,d/ [,a,,,a] ,,c/4 ,,a ,,,d ,,,c ,,,a/ |";french5tab
+89;B dur;31v;Paison;;;Mandora;Conc_4915;2;",,a/ | [,ba,d/] ,,a [,d,,c] ,,a | [ab,,d/] ,d/4 a ,b/ [,d,,,d] | \
+[a,,,d/] ,d/4 a b/ a | [,da,,d3/2] d/ | ,,,,,d/4 ,a ,,a/ d a |";french5tab
+90;F dur;32v;Harpeggio;;Ex F;Mandora;;C;",,,,,a/4 ,,a ,a ,,a ,,,,,a ,,a ,a ,,a ,,,,,a ,,a ,a ,,a ,,,,,a ,,a ,a ,,a | \
+[,da,,a4] | [dd,,,a4] | [bd,,,a4] | [ab,,,a4] |";french5tab
+91;F dur;32v;Intrada;;;Mandora;;C;"z/4 ,d ,a ,,a | [a,,,d/4] ,b ,d a [,d,,c] ,d ,a ,,a \
+[a,,,d] ,b ,d a [,d,,c] d c a |";french5tab
+92;F dur;33v;Menuet;;;Mandora;Conc_4686;3/4;",d/ a | V[d,,,,a1] f ([c,,a/] a) | [,d,,c1] [,b,,a] [,a,,,a] | \
+[ab,,d1] [,da,c] [,bc,a] | [,a,,,a1] ,,c/ ,a ,,a1 | \
+[,a,,,a1] ,,,f/ h ,,,e f |";french5tab
+93;F dur;33v;Trio;;;Mandora;Conc_4916;3/4;",,,,,a/ ,,a ,a ,,a [,,ca1] | [,a,,,a1] (,,a/ ,,c) (,a ,b) | \
+[,d,,,a1] d [c,,a] | [d,,,,a1] [,d,,c] ,d | \
+,,,,d/ ,b a ,b ,,,,d a |";french5tab
+94;F dur;34r;Menuet;;;Mandora;;3/4;"(3,d/4 a c) | V[d,,,,a1] d/ c V[d,,,,a1] | ,,a2 [,,ca1] | \
+[,a,,,a/] ,,c ,a ,,a [,,ca1] | [,,a,,a3/2] ,d/ ,,,,c ,d |";french5tab
+95;F dur;34v;Menuet;;;Mandora;Conc_4872;3/4;"[,,a,,a1] ,,,,c/ ,d ,,,,a ,b | [,a,,,a1] ,,c/ ,a ,,a1 | \
+,,,,c/ ,d ,,,,d a ,,,a c | [daa,,a1] c/ a (,d/4 ,b ,a) ,,c |";french5tab
+96;C dur;34v;Trio;;;Mandora;;3/4;"[c,,a/] a ,d1 [ac,,a] | [c,,a/] a ,d1 [ac,,a] | \
+[c,,a1] [d,,,,a/] c a ,d | [,c,,a1] ,d/ a ,,c1 | \
+[c,,a/] a ,d1 [ac,,a] |";french5tab
+97;F dur;35r;Aria;;;Mandora;;3/4;"[daa,,a1] [daa,,a/] [daa,,a] [daa,,a] [daa,,a] | \
+[daa,,a1] (c/ a) [,d,,c1] | [ab,,d1] [ab,,d] [ab,,d] | \
+[ab,,d1] (,d/ ,b) ,a1 | ,,,,a/ ,b ,,,,a ,b ,,,,a ,b |";french5tab
+98;F dur;35v;Menuet;;;Mandora;Conc_4820;3/4;",,a1 ,d ,a | [,,a,,a1] d [c,,a] | ,,,,d/ a ,,,,c ,d ,,,,a ,b | \
+[,a,,,a1] ,,c/ ,a ,,a1 | ,,,,a/ ,c a1 V[,d,a] |";french5tab
+99;B dur;35v;Trio;;;Mandora;Conc_4798;3/4;"V[,b,,d1] ,,a ,,a | V[,d,,,a1] ,,a ,,a | [a,,,d1] ([b,,a/] a) ,d1 | \
+[,a,,,a1] ,,c/ ,a ,,a1 | ,,,,d/ ,b ,,a ,b ,,,,d ,b |";french5tab
+100;F dur;36r;[sans titre];;;Mandora;Conc_4917;C;"V[d,,,,a/] ,,,,,a ,,,,,a (d/4 c) V[d,,,,a/] ,,,,,a ,,,,,a Vd/4 c | \
+[d,,,,a/] (c/4 a) (,d/ ,b) [,a,,,a] ,,c/4 ,a ,,a1 |";french5tab
+101;G dur;36v;Menuet;;;Mandora;;3/4;"[h,,,,a1] ,i [,h,a] | V[,i,,,a1] ,,h ,,h | [,i,,,a1] Vh [f,,a] | \
+V[h,,,,a3/2] f/ ,,,a h | ,,,,h/ i ,i i ,,,,f h |";french5tab
+102;B dur;37r;Trio;;;Mandora;;3/4;",,a/4 ,,c ,a | [,ba,d1] ,,a [,ba,d] | ,,,,c/ ,,a ,d ,,a ,,,,,a1 | \
+[ab,,d1] V[b,,a/] a ,d1 | [,a,,,a1] ,,c/ ,a ,,a ,,,d |";french5tab
+103;F dur;37r;Guigue;;;Mandora;Conc_4687;6/8;",d/ | ,,,,c/ ,,a ,d ,,,,c ,,a ,d | ,,,,d/ ,,a a ,,,,d ,,a a | \
+[,d,,,a/] ,b ,a [,a,,d] (,,c ,,a) |";french5tab
+104;F dur;37v;[sans titre];;;Mandora;;C;"[da,,,a1] c/ a ,d ,b ,a ,,c | [,,a,,a1] ,,,e/ ,,,c ,,,a ,,,,d ,,,,c ,,,,a | \
+,,,,,a3 [,da,c1] | [ab,,d1] i/ h i a ,d ,b |";french5tab
+105;F dur;38r;Menuet;;;Mandora;;3/4;"[,,a,,a1] [,d,,c] [,b,,a] | [,a,,,a2] [,,ca1] | [,,a,,a1] ,,,,d/ a ,,,,c ,d | \
+[,b,,a2] [,aa,,a1] | ,,,a/ ,,c ,b ,,c ,,,,,a ,a |";french5tab
+106;F dur;38r;[sans titre];;;Mandora;;6/8;",,,,,a/ d ,,,,,a ,,,e f ,,,e | ,,,f/ h ,,,f ,,,,a c ,,,,a | \
+,,,,c/ d ,,,,c ,,,,d f ,,,,d |";french5tab
+107;B dur;38v;Menuet;;;Mandora;;3/4;"V[,b,,d1] d [,a,,,a] | V[,b,,d1] ,b V[,b,,d] | [f,,d1] [d,,c] [f,,d] | \
+X[b,,a3/2] a/ [a,,,d1] | [,d,,a1] V[b,,a/] a ,d1 |";french5tab
+108;F dur;39r;[sans titre];;;Mandora;;3/4;"[d,,,,a/] c d1 [f,,a] | [h,,,,a1] ,d ,d | [,a,,,a/] ,,c ,a1 [,b,,a] | \
+[,da,c1] ,,a ,,a | ,,,,d/ ,b a ,b ,,,,c ,d |";french5tab
+109;F dur;39v;Scherzo;;;Mandora;Conc_4680;2;",,,,,a1 c/ a | ,,,,c/ ,d [,b,,a] [,a,,,a] | [,b,,d/] a [,d,,c] [,b,,a] | \
+,,,,c/ ,d [,b,,a] [,a,,,a] | ,,,,a/ ,b [,a,,,a] [,,ca] |";french5tab
+110;F dur;40r;Men:;;;Mandora;;3/4;",,,,,a1 [da] [cb,a] | ,,,,,a1 [da] [cb,a] | ,,,,,a/ d c a ,d ,b | \
+[,a,,,a2] [,,ca1] | ,,,,d1 [ab] [,da,c] | \
+,,,a1 [,bc] [,aa,,a] |";french5tab
+111;F dur;40v;[sans titre];;;Mandora;;3/4;",,,,,a/ ,d d h f1 | ,,,a/ ,h f i h1 | ,,,f/ h ,,,e f ,,,c d | \
+[c,,a1] c/ a ,d1 |";french5tab
+112;F dur;40v;[sans titre];;;Mandora;;2;"[,,a,,a/] ,,,,a ,,,,c [,b,,a] | [,d,,c/] a/4 ,b ,d/ ,,a | \
+[,b,,a/] ,a [,,ca] ,a/4 ,,a | ,,,e/ ,,a/4 ,a [,,ca1] :||:";french5tab
+113;F dur;41r;Menuet;;;Mandora;Conc_4918;3/4;"d1 (,d/ ,b ,a) ,,c | [,,a,,a1] [a,,,d] [,d,,c] | \
+[a,,,d1] [,d,,c] d | X[,b,,a2] [,a,,,a1] | \
+[,d,,c1] (,b/ ,a ,,c ,,a) |";french5tab
+114;F dur;41r;Boure;;;Mandora;;2/4;",,,,,a/ [da] ,,,a [cb] | ,,,,,a/ d ,d ,a | ,,,,,a/ d/4,a ,,,a/ [cb] | \
+,,,,,a/ d ,d ,a | ,,,,d/ [ab] ,,,,c [,da] |";french5tab
+115;F dur;41v;Menuet;;;Mandora;;3/4;",d/ a | V[d,,,,a2] [c,,a1] | Vd1 c/ a [,d,a1] | ,,,,d/ ,,a ,b a ,,,,c ,d | \
+X[,b,,a2] [,aa,,a1] | ,,,,d/ a ,b a ,,a a |";french5tab
+116;B dur;41v;[sans titre];;;Mandora;Conc_4725;C;",b/ ,a | [,b,,d1] ,,a ,,a a | [a,,,d1] ,b ,b [d,,c] | \
+[d,,c1] b/ a [b,,a] a d1 | [,a,,,a1] ,,c/ ,a ,,a1 ,c |";french5tab
+117;B dur;42r;Marche;;;Mandora;Conc_4740;C;",,a/ | ,,,,d/ ,b ,,,a ,b ,,,c ,b ,,,,d ,c | \
+,,,,,a/ ,d ,,,,a ,d ,,,,c ,d ,,,,,a ,d | ,,,,d/ a ,,,,,a ,d";french5tab
+118;g moll;42r;Arieta;;;Mandora;;C;"[ab,,a/] [a,,,c] | [a,,,d1] b/ a [,d,,c1] [,d,,a] | \
+[,d,,,b1] a/ ,d ,,,,a ,b ,,,,c ,d | \
+[a,,,d1] b/ a [,d,a] ,b ,a ,,c |";french5tab
+119;F dur;42v;Rusticana;;;Mandora;;2;",,,,,a1 ,,,a | ,,,,c3/2 ,,,c/ | ,,,a/ ,,,,d ,,,,c ,,,,a | \
+,,,,c/4 ,,,,d ,,,a ,,,,c ,,,,,a1 | \
+[,,a,,a/4] ,,c (,a ,b) [,d,,c/] ,,a |";french5tab
+120a;B dur;43r;Variationes;;;Mandora;Conc_4919;3/4;",,,,d/ ,b a ,b ,,,,c ,b | ,,,,a/ ,b a ,b ,,,,,a ,b | \
+,,,d/ ,b a ,b ,,,c ,b |";french5tab
+120b;B dur;43r;[sans titre];;;Mandora;;3/4;"(3,,,,d/4 ,b a) (3,,,,c ,b a) (3,,,,a ,b a) | \
+(3,,,,,a ,b a) (3,,,d ,b d) (3,,,c ,b a) |";french5tab
+121a;B dur;43v;Faber;;;Mandora;;3/4;",,a1 | [,b,,d2] [,d,,c1] | [a,,,d3/2] b/ d1 | [ab,,d3/2] b/ [d,,c1] | \
+[b,,a2] [a,,,d1] | [,d,,c1] a [,b,,a] | [,a,,,a1] ,,a [,b,c] |";french5tab
+121b;B dur;43v;[variatio 1];;;Mandora;;3/4;"[,b,,d1] ,,,a ,,,c | [,b,d1] ,,,,d ,,,c | [,b,d1] ,,,,d ,,,c | \
+[,b,d1] ,,,,d ,,,c | [,d,a1] ,,,c/ ,,,a ,,,e1 | \
+[,da1] ,,,a ,,,e ";french5tab
+121c;B dur;43v;[variatio 2];;;Mandora;;3/4;",,,,d/ ,b ,,,a ,b ,,,c ,b | ,,,d/ ,b ,,,,d ,b ,,,c ,b | \
+,,,d/ ,b ,,,,d ,b ,,,c ,b |";french5tab
+121d;B dur;44r;[variatio 3];;;Mandora;;3/4;",,,,d/4 ,b ,b ,b ,,,a ,b ,b ,b ,,,c ,b ,b ,b | \
+,,,d/4 ,b ,b ,b ,,,,d ,b ,b ,b ,,,c ,b ,b ,b |";french5tab
+122;F dur;44v;Boure;;;Mandora;;C;",b/ | ,,,,d/ ,b ,,,,d ,,,,c ,,,,a ,b ,,,,,a ,,,d | \
+,,,c/ ,b ,,,a ,d [ab,,d1] ,b | ,,,,c/ ,d d ,b";french5tab
+123;F dur;44v;[sans titre];;;Mandora;Conc_4920;3/4;",,,,,a1 ,,a ,a | [,,c,a1] ,,c/ (,b ,a) ,,c | ,,,,,a1 ,,a ,a | \
+[,,ca3] | [,,a,,a1] (,,a/ ,,c) ,a ,,a |";french5tab
+124;F dur;45r;Menuet;;;Mandora;Conc_4921;3/4;",,,,,a/ ,a ,a ,,a [a,,,d] ,b | [,d,,c/] ,a ,,a ,b [a,,,d] ,b | \
+[,d,,c/] ,,a [,b,,a] ,,c [,a,,,a] ,,a |";french5tab
+125;F dur;45r;Trio;;;Mandora;Conc_4922;3/4;",,,,,a1 | [,,aa1] [,de] ,,,,,a | [,bc1] [ab] [,d,,c] | \
+[,b,,a1] [,aa,,a] [,,ca] | [,,a,,a2] ,,,,,a1 | [da1] h ,,,,a | \
+[ac1] [f,,e] [d,,c] |";french5tab
+126;F dur;45v;Rigadon;;;Mandora;Conc_4694;3/4;",,,,,a/ ,,a ,,,,c ,,a ,,,a ,,a | ,,,,,a/ ,,a ,,,,c ,,a ,,,a ,,a | \
+,,,,,a/ ,d ,,,,d a ,,,a c | [da,,,a1] ,,,,a ,,,,c |";french5tab
+127;F dur;46r;Quique;;;Mandora;;6/8;",d/ |[,a,,,a3/4] ,,c/4 ,,a/ d1 [,b,,a/] | \
+[,a,,,a3/4] ,,c/4 ,a/ ,,a1 [,,ca/] | \
+[a,,,d3/4] ,d/4 [,b,,a/] ,,c3/4 ,a/4 ,,a1 |";french5tab
+128;F dur;46r;Hauer;;;Mandora;Conc_4826;C;",d/ a | V[d,,,,a1] d V[d,,,,d] ,d | ,a1 ,,c/ ,a ,,a1 [,,ca] | \
+,,,,,a/ ,,a ,,,,a ,,a ,,,,c ,,a [,b,,a] ,,a |";french5tab
+129;B dur;46v;[sans titre];;;Mandora;Conc_4923;3/4;",,,,d/ ,b ,,a ,b ,,,,d ,b | ,,,,c/ ,d ,,e ,d ,,,,c ,d | \
+,,,,d/ a ,,,,c ,d ,,,,a ,b |";french5tab
+130;c moll;46v;Trio;;;Mandora;Conc_4899;3/4;"[,d,a/] a b1 [a,,,a] | ,,,a/ ,,,c ,,,d1 ,,,c | \
+[,d,a/] a b1 [a,,,a] | ,,,a/ ,,,c ,,,d1 ,,,c | \
+[,d,a/] a b1 f |";french5tab
+131;B dur;47r;Quique;;;Mandora;Conc_4924;6/8;",b/ | [,b,,d/] ,,,c ,,a [,b,,d] ,,,c ,,a | \
+[,b,,d/] ,,,c ,,a [,b,,d1] ,,a/ | \
+[,b,d/] ,,c ,b [,b,d] ,,c ,b |";french5tab
+132;F dur;47v;Menuet;;;Mandora;Conc_4925;3/4;"[,,a,,a1] ,,a/ ,,,a ,,c ,,,a | [,a,,,a1] ,a/ ,,a [,b,,a] ,,c | \
+[,d,,c1] ,a/ ,,a [d,,,d1] | [c,,a1] ,,,,d [d,,,c] |";french5tab
+133;F dur;47v;Menuet;;;Mandora;;3/4;",,,,,a/ ,,a ,,,,c ,d ,,,,a ,b | [,a,,,a2] X[,,ca1] | \
+,,,,,a/ ,,a ,,,,d a ,,,,c ,d | [,b,,a2] [,aa,,a1] | \
+,,,a/ ,c ,b ,,c ,,,,,a ,a |";french5tab
+134;F dur;48r;Paisan;;;Mandora;Conc_4926;2;",,,a/ | [,,a,,a/] ,a [,,ce] ,d | [,a,,,a/] ,,c/4 ,a ,,a/ ,,,a | \
+[,,a,,a/] ,a [,,ce] ,d | [,a,,,a3/2] [,d,,c/] | \
+[a,,,d/] ,,a [,d,,c] ,,a |";french5tab
+135;F dur;48v;Menuet;;;Mandora;;3/4;"[daa1] c/ a ,d ,b | [,a,,,a1] [,b,,a] [,d,,c] | \
+[a,,,d1] ,,c ,,a | ,,,e1 ,,,c/ ,,,e ,,,a1 | \
+[,bc,a1] [,aa,,a] [,,ca] |";french5tab
+136;F dur;48v;Aria;;;Mandora;Conc_4927;2/4;",a/4 ,b | [,da,,a/4] ,a ,,c ,,a [a,,,d/] a | \
+[a,,,,a/] ,d z ,,c/4 ,a | ,b/4 ,,c ,,,a ,,c ,,,a/ ,b |";french5tab
+137;F dur;49r;Finale;;;Mandora;;2;",,,,,a/ ,,a ,,a [,,ca] | [,a,,,a/] ,d ,d [,b,a] | \
+[,a,,,a/] [d,,,c] [d,,,d] [c,,a] | \
+[d,,,,a/] ,,,,a ,,,,c [,d,,,a] | [a,,,d/] d d [a,,,d] |";french5tab
+138a;B dur;49v;Sciacona;;Authore Francescho Carlo Bernenbmer;Mandora;;3/4;"[,b,,d1] ,,a [,b,,d] | [,b,,c1] ,,a [,b,,a] | \
+[,b,c1] ,,a [,b,d] | [,,a,,a/] (,d ,b ,a) [,ba,d1] :||: \
+[d,,,d1] ,b [d,,,d] | [d,,,c1] ,b [d,,,a] |";french5tab
+138b;B dur;49v;[Variatio 1];;;Mandora;;3/4;",,,,d/ ,b a ,b ,,,,d a | ,,,,c/ ,b a ,b ,,,,a a | \
+,,,c/ ,b a ,b ,,,d a |";french5tab
+138c;B dur;49v;[Variatio 2];;;Mandora;;3/4;",,,,d/ a ,b ,,,,d ,,,,c ,b | ,,,,a/ a ,b ,,c ,,a ,,,d | \
+,,,c/ a ,b ,,,c ,,,d ,b |";french5tab
+139d;B dur;49v;[Variatio 3];;;Mandora;;3/4;",,,,d/ ,b ,b ,b ,,,,d ,b | ,,,,c/ ,b ,b ,b ,,,,a ,b | \
+,,,c/ ,b ,b ,b ,,,d ,b |";french5tab
+138e;B dur;49v;[Variatio 4];;;Mandora;;3/4;",,,,d/ ,b ,,a a ,d ,b | ,,,,c/ ,d ,,a ,d a [b,,a] | \
+[a,,,d/] ,d a [,a,a] [,b,c] [,d,d] |";french5tab
+138f;B dur;50r;[Variatio 5];;;Mandora;;3/4;"(3,,,,d/ ,b a) (3,,,c ,b a) (3,,a ,b a) | \
+(3,,,,c/ ,b a) (3,,,a ,b a) (3,,a ,b a) |";french5tab
+138g;B dur;50r;[Variatio 6];;;Mandora;;3/4;",,,,d/4 ,b a ,b a ,b a ,b ,,,,d ,b a ,b | \
+,,,,c/4 ,b a ,b a ,b a ,b ,,,,a ,b a ,b |";french5tab
+139;F dur;50r;[sans titre];;;Mandora;;3/4;"[,,a,,a1] ,,,a ,,a | [,,ca1] ,,,a ,,c | [,aa,,a3] | \
+[,aaa,3/2] [,b,,a/] [,d,,c1] | [,bc,a1] [,a,,,a] [,,ca] | \
+[,,a,,a3] | ,d1 ,,,a ,d |";french5tab
+140;C dur;50v;Aria;;;Mandora;;3/4;"[c,,a/] a ,d a ,,,,a ,c | ,,,a1 ,d [ac,,a] | \
+'[c,,a/] a ,d a ,,,,a ,c | ,,,a1 ,d [ac,,a] |";french5tab
+141;C dur;50v;[sans titre];;;Mandora;;3/4;",,,a1 ,d [ac,,a] | ,,,a1 c [ac,,a] | ,,,a/ c [d,,,,a] c a ,d | \
+[,c,,a1] ,c/ ,a ,,c1 | ,,,a1 ,d [ac,,a] |";french5tab
+142;g moll;51r;Jak[l];;;Mandora;;3/4;"[,,c,a1] ,,,c ,,c | [,,bc1] [,,de] [,ab] | ,,,,a/ ,d [,d,a] ,b ,a ,,c | \
+,,b1 ,,,e/ ,,b ,,,c1 | [,b,c1] (,b/ ,a) ,b ,a |";french5tab
+143;B dur;51v;Menuet;;;Mandora;;3/4;"[,b,,d1] [,a,a3/2] ,b/ | ,,,c/ ,b ,a ',,c ,,a1 | \
+[,aa,,a1] [ba,a] [ab,,d] | [,da,,a/] (,b ,a) (,,c ,,a1) | \
+[,aa,,a1] [db,c] [ba,a] |";french5tab
+144;B dur;51v;Menuet;;;Mandora;;3/4;"[,b,,d1] [,a,a3/2] ,,c/ | [,,ac1] (,,,c/ ,,,a) ,,,,d1 | \
+[a,,,d/] b [d,,c1] ([b,,a/] a) | [,d,,,a/] ,b ,a ',,c ,,a1 |";french5tab
+145;g moll;52r;Lieben is eine leichte Sache;;;Mandora;;2;"[ab,,a/] ,,c ,,c [b,,a] | [a,,,d/] [,d,,c] [,b,,a] ,a | \
+[,,bc/] [,,ce] [,ab] [,b,,a/4] ,a | \
+[,b,c/] ,,c/4 ,a ,,c/ ,,,,a :||:";french5tab
+146;F dur;52v;Menuet;;;Mandora;;3/4;"[,,a,,a1] ,a [,d,,c] | [,b,,a1] [,bca] [,aa,,a] | \
+[,,a,,a1] ,b a | [,,,ef1] [,,,ef] ,,a | \
+[dc,c/] a [,d,,a] ,c [,d,a1] |";french5tab
+147;c moll;52v;Trio;;;Mandora;;3/4;"[f,,a1] [,d,d] [,d,a] | [,c,,a1] [,c,,,a] [,dcd] | \
+[a,,,e/] b [d,,c1] [b,,a] | [b,,,a1] a a | \
+[f,,a1] [,d,d] [,d,a] | [,c,,a1] [,c,,,a] [,dcd] |";french5tab
+148;F dur;52v;[sans titre];;;Mandora;;2;",,a/ | [,da,,a/4] ,a ,,c ,,a [,da,,a] ,a ,,c ,,a | \
+'[ab,,d/] [,da,c] ,,a1 | ,,,e/4 ,,a ,,c ,a [,bc,a/] [,aa,,a] | \
+[,,ca3/2] :||:";french5tab
+;;;Parthia 1a;;;;;;;
+149;g moll;53r;Poco Adagio;;;Mandora;;C;"a/ | ,,,,a/ ,,c ,,,a b [a,,,d] ,d/4 a ,b/ a | \
+,,,,c/ ,d ,,b/4 ,a a ,d [,b,,a/] ,b/4 ,a ,,c/ a |";french5tab
+150;g moll;53v;Menuet;;;Mandora;;3/4;"[,b,,a1] ,,c [b,,a] | [a,,,d1] ,,c [b,,a] | [a,,,d1] ,,c [,d,,c] | \
+[,b,,a1] ,b/ ,a ,,c ,a | [,b,,d1] ,b/ ,d a b |";french5tab
+151;g moll;53v;Gavotta;;;Mandora;;C;"a/ | ,,,,a/ f/4 e f/ ,,,,a ,,,a b/4 a b/ [,d,,c] | \
+[a,,,d/] a/4 ,d a/ [,b,,a] [,d,,c] ,d/4 ,b ,d/ [aab] |";french5tab
+152;g moll;54r;Menuet;;;Mandora;;3/4;"[ab,,a1] ,,c [,,bc] | [,,c,a/] ',a ,b1 [ab] | [,d,,c/] [ab] a ,d ,b ,a | \
+[,b,,a1] ',b/ ,a ,,c1 | [b,,a/] a b ,d [a,,,d] ,b |";french5tab
+153;g moll;54v;Aria;;;Mandora;;3/4;"a1 | [,b,,a/] ,d a1 [,,bc] | ,,,,a1 ,,c ,,,c | ,,,,d/ ',,,a ,,,c1 ,,,,,b | \
+,,,,a1 ,,d [b,,a] | [a,,,d1] ,b/ ,d a ,b |";french5tab
+154;g moll;54v;Quique;;;Mandora;;6/8;"a/ | [a,,,a/] ,d a a ,d a [,b,,a] ,d a ,,c1 a/ | \
+[a,,,a/] ,d a a ,d a [,b,,a] ,d a ,,c1 a/ |";french5tab
+155;F dur;55r;Arietta;;;Mandora;;3/4;"[,,a,,a/] ,,c ,a ,b ,d a | [,d,,c1] (,d/ ,b) ,a1 | \
+,,,,a/ ,b (3,,,c ,,a ,b) (3,,,e ,,c ,b) |";french5tab
+156;c moll;55v;Arietta;;;Mandora;;3/4;",,,a/ ,d ,,,d ,d ,,,a ,d | ,,,a/ a ,,,,e a ,,,,a a | \
+,,,a/ b ,,,,d a ,,,,b ,d | [,c,,a/] ,a ,,c ,,a ,,,d ,,,c |";french5tab
+157;c moll;55v;Melancholia;;;Mandora;;2/4;",,c/ | ,,,a/ ,d [ac,,a1] | ,,,a/ b [ac,,a1] | \
+,,,a/ b [d,,,,a/4] b a ,d | [,c,,a/] ,c/4 ,a ,,c1 | \
+,,,,a/ [fg] [fg] z |";french5tab
+158;c moll;56r;Compagnion;;;Mandora;;2;",,c/ | [,d,a/] b [,c,,a] d | [b,,a/] (b/4 a) ,d/ b | \
+[a,,,,a/] a/4 b d b a ,d | ,c/ (,c/4 ,a) ,,c/ |";french5tab
+159;C dur;56v;Menuet amab.;;;Mandora;;3/4;"[,d,a/] a '[a,,,a3/2] ,d/4 a | ,,,a1 [cd] [d,,c] | \
+,,,e/ f [d,,c] c [a,,,,a] ,d | [,c,,a/] ,a ,,c1 [ccc] |";french5tab
+160;c moll;56v;Trio;;;Mandora;;3/4;"[,d,d1] | [,c,c1] ,,,,a [b,c] | [a,a1] ,,,,a [,d,d] | \
+[,c,c1] ,,,,a [,d,,b] | [,cc,a2] [,d,d1] | \
+[,c,c1] ,,,,a [b,c] |";french5tab
+161;C dur;57r;Arietta poco Adagio;;;Mandora;;2;",,c/ | ,,,a/ ,,c ,d c | ,,,,e/ ,,c a [d,,c] | \
+[c,,a/] a/4 c [d,,,,a] c a ,d | ,,,,a/ ,c a ,,a |";french5tab
+;;;Parthia II;;;;;;;
+162;G dur;57v;Allamanda poco Adagio;;;Mandora;;C;",,,,a/ d ,,,,a d ,,,,c d ,,,,d a | \
+,,,a/4 ,,c ,d c ,d ,,c ,,,,d ,,c ,d c ,d ,,c [dda,c] ,d ,a ,,a |";french5tab
+163;F dur;58r;Menuet;;;Mandora;;3/4;"[da,,a1] [,da,c] [,bc,a] | [,aa,,a1] ,,c/ ,a ,,a1 | \
+[a,,,d/] ,b [,d,,c] ,a [,b,,a] ,,c | [,aa,,a1] ,,c/ ,a ,,a1 |";french5tab
+164;F dur;58v;Boure;;;Mandora;;C;",d/ | [,aa,,a/] ,,a [a,,,d] ',b [,d,,c] ,a ,,a [,d,,c] | \
+[,bc,a/] ,,c [,dce] [,bca] [,aa,,a] ,,c/4 ,a ,,a/ [,d,,c] |";french5tab
+165;F dur;59r;Scherzo;;;Mandora;;3/8;",,,,,a/ d [d,,,a] | ,,,,c/ d [d,,,d] | [c,,a/] ',c/4 a c/ | \
+,d1 [ab,,d/] | ,,,,c/ ,d [,bc,a] | [,aa,,a/] ,a/4 ,,c ,,a/ |";french5tab
+166;F dur;59v;Capricio;;;Mandora;;2;"[d,,,,a/] c/4 a ,d/ a/4 c | [d,,,,a/] c/4 a ,d/ a/4 c | \
+[d,,,,a/] c/4 a ,d ,b ,a ,,c |";french5tab
+167;F dur;60v;Quique;;;Mandora;;12/8;"d/ | [d,,,,a/] ,d d [d,,,,a] ,d d [,aa,,a] ,,c ,a ,,a ,,a [a,,,d] | \
+[,d,,c/] ,a ,d [,bc,a] ,,c ,b";french5tab
+;;;Parthia III;;;;;;;
+168;B dur;61r;[sans titre];;;Mandora;;3/4;"(3,,,,d/ ,,a ,b) (3,,,a ,,a ,b) (3,,,c ,,a ,b) | \
+(3,,,,d/ ,,a ,b) (3,,,a ,,a ,b) (3,,,c ,,a ,b) |";french5tab
+169;B dur;61v;Menuet;;;Mandora;;3/4;"[,b,,d1] ,b/ ,b ,b ,b | [,b,,d1] a/ ,b d ,b | \
+[,b,,d1] a/ ,b d ,b | [,aa,,a1] [,aa/] [,aa] [,aa] [,aa] |";french5tab
+170;B dur;62r;Ballo;;;Mandora;Conc_4928;2;"d/ | [a,,,d/] ,d/4 ,b [,aa,,a/] ,,c/4 ,,a | \
+,,,,d/ ,b ,,,,,a ,d | [a,,,d/] ,d/4 a [b,,a] a ,d ,b |";french5tab
+171;B dur;62v;[sans titre];;;Mandora;;3/4;"[ab,,d1] [ab/] ,a [ab1] | [b,,a1] ,d [,,a,,a] | \
+[ab,,d1] [ab/] ,a [ab1] | [b,,a1] ,d [,,a,,a] | \
+[ab,,d1] [ab/] ,a [ab1] |";french5tab
+172;B dur;62v;Paison;;;Mandora;;2;",,a/ | [,ba,d1] [,aa,,a] | [,ba,d/] a/4 ,d ,b/ ,d/4 a | \
+[b,,a/] a ,d ,b | [,aaa/] ,b z ,,,a/4 ,,,c |";french5tab
+173;G dur;63v;Aria;;;Mandora;Conc_4929;3/4;",,,,,a/ ,,,,c ,d d [,d,,b1] | [ab,,d1] ,b [,d,,c] | \
+,,,,,a/ ,,,,c ,d d [,d,,c1] | V[b,,a1] [,a,,,a2] | \
+[,,ca1] [,b,,a] [,a,,,a] |";french5tab
+174;G dur;63v;Quique;;;Mandora;Conc_4930;6/8;"[d,,,,a/] d [d,,,a] [d,,,c] d [d,,,d] | \
+[c,,a/] c/4 a c/ [,dca1] d/ | \
+[ab,,d/] a a [ab,,d] b/4 a ,d ,b |";french5tab
+175;B dur;64r;Bourlesca;;;Mandora;;2;"[,,a,d/] ,b [,ba,d1] | ,,a/ ,b [,ba,d1] | ,,a/ ,b ,b [,d,,,a] | \
+[a,,,d/] ,b [,ba,d1] | [a,,c/] d [d,a1] | [a,,c/] ,b [,ba,d1] |";french5tab
+176;B dur;64v;[sans titre];;;Mandora;Conc_4938;C;"(3[,ba,d/] ,a ,b) ,,,a/ [,aa] [,b,c] ,,,,d ,,,,c ,,,,,a | \
+(3[,ba,d/] ,a ,b) ,,,a/ [,aa] [,b,c] ,,,,d ,,,,c ,,,,,a |";french5tab
+177;B dur;65r;Quique;;;Mandora;;6/8;",,a/ ,,c | V[,b,,d/] ,,a ,b [,b,,d] ,,a ,b | \
+[,b,,d/] ,,a ,b [,b,,d] ,b ,d | [ab,,d/] ,b a [ab,,d] ,b a |";french5tab
+178;G dur;65v;[sans titre];;f. 66r empty;Mandora;;2;"[,da,,a/] [,da,a] [,da,c] a/4 c | [da,,,a/] [,da,a] [,da,c] a/4 c | \
+[dd,,c/] [,da,a] ,,a/4 ,d ,a ,,a | \
+[ab,,d/] [ab,,d] [ab,,d/4] ,b ,a ,,c |";french5tab
+179;c moll;66v;[sans titre];;;Mandora;;2/4;",,,a/4 ,d ,b ,,d ,,c ,,a ,,,d ,,,c | ,,,a/ [bd] [ac] [bd] | \
+,,,a/4 ,d ,b ,,d ,,c ,,a ,,,d ,,,c | ,,,a/ [fg] [df] [bd] |";french5tab
+180;C dur;67v;[sans titre];;;Mandora;;3/4;"[,d,a/] e f1 [d,,,e] | (3[c,,a/] d f) ,d2 | [,,c,e/] ,c a d [cd,a1] | \
+[cd,a1] [acc,a2] | [cd,a1] [cd,a] [,db,c] |";french5tab
+181;C dur;68r;Menuet;;ff. 68v-69v empty;Mandora;;3/4;"[,d,a3/2] a/ ,c ,,,,a | [,d,a3/2] a/ ,c ,,,,a | \
+,d1 c [f,,e] | [f,,e1] [d,,c] [c,,a] | ,,,a1 f c/ ,d |";french5tab
+;;;Parthia IV Ex Eb;;;;;;;
+182;Es dur;70r;Harpeggio;;;Mandora;;C;"[bbc,,a4] | [aba,d4] | [aabc4] | [aba,d4] | [bbc,,a4] | \
+[dbac4] | [fgf,,a4] | [fgf,,a4] | [dbac4] | [bdca4] | [baba4] |";french5tab
+183;Es dur;70r;Andante;;;Mandora;Conc_4931;C;"f1 | V[i,,,,a1] ,g [,g,,a] f/ g | [i,,,,a/] g f ,i [,g,,a1] z/ [i,,h] | \
+,,,i/ l ,,,h i ,,,f g ,,,d f |";french5tab
+184;Es dur;70v;Aria;;;Mandora;;3/4;",d/ | V[b,,,,a1] b/ b b b | [d,,,,a/] b a b ,b b | \
+,,,c/ d b d ,b d |";french5tab
+185;Es dur;70v;Boure;;;Mandora;;C;",b1 | [,,c,,a1] ,,a/ ,,c ,,,d b d1 | [a,,,d1] ,d/ a ,b b ,,,,a ,b | \
+,,,,b ,d ,,,,a ,b ,,,,,c ,,,,a ,,d ,b |";french5tab
+186;Es dur;71v;Menuet;;;Mandora;;3/4;",b1 '[,b,,,a2] | V[,d,,b1] ,d/ ,b ,b V,d | [ab,,d1] a2 | \
+V[b,,,,a1] b/ a a Vb | [d,,c1] d2 | [f,,,,a1] f/ d ,,,,a b |";french5tab
+187;B dur;71v;Trio;;;Mandora;Conc_4932;3/4;"[,ba,d1] ,b/ ,d ,b ,d | [,ba,d1] ,,a ,,,,,c | [,da,c1] ,d/ a ,d a | \
+[,da,c1] ,a ,,a | [db,c1] b/ a ,d ,b |";french5tab
+188;B dur;72r;[sans titre];;;Mandora;Conc_4933;C;"b/ | ,,,,,a/4 ,b b ,b ,,,,a ,b b ,b ,,,,,a ,b b ,b ,,,,a ,b b ,b | \
+,,,,d/4 ,b a ,b ,,,c ,b a ,b";french5tab
+189;Es dur;72v;Quique;;f. 73r fragment of 3 notes;Mandora;Conc_4934;6/8;",b | [,,c,,a/] V,,d ,,c ,,a ,,c [,,cd] | ,,,c/ ,,a ,b ,,,,d1 ,b/ | \
+[b,,,a/] a b ,,,,c ,d d |";french5tab
+;;;Parthia V. Ex G#;;;;;;;
+190;G dur;74v;Allamanda poco All[egr]o;;;Mandora;;C;"a/ | [a,,,a/4] ,c ,d a [,,c,a] ,c a ,,c [c,,a/] [a,,,e] z [ad,,e] | \
+[,d,,c/4] ,a ,c ,d ,,,,,a ,,b ,a ,d";french5tab
+191;G dur;75r;Menuet;;;Mandora;;3/4;",,,,a1 ,c [,d,,c] | (3,,,,e/ ,d a) ,d ,c ,a ,,c | \
+,,,a1 c [a,,,e] | ,,,,c/ ,d a ,d [,c,,a1] |";french5tab
+192;G dur;75v;Scherzo;;;Mandora;;2;"[,c,,a1] [,d,,c] | [ad,,e1] ,,c | [c,,a1] [e,,,,a] | [f,,,,a1] ,,c | \
+[c,,a1] [a,,,e/] f | [,d,,c/] ,,,,,a [,c,,a1] | \
+[c,,a1] [a,,,e/] f | [,d,,c/] ,,,,,a [,c,,a1] |";french5tab
+193;G dur;76r;[Maniera cosi];;;Mandora;;2;"y | (3,,,,c/4 ,,b ,d) (3a ,d ,,b) (3,,,,,a ,,b ,d) (3a ,d ,,b) | \
+(3,,,,a/4 ,,c ,c) (3a ,c ,,c) (3,,,,,a ,,c ,c) (3a ,c ,,c |";french5tab
+194;G dur;76r;Aria e Menuet;;;Mandora;;3/4;"a1 | [a,,,a1] ,c/ ,d a1 | ,,,,a1 ,,c ,c | [,d,,c1] ,a/ ',c ,d1 | \
+,,,,,a1 [,ab] [,c,,a] | ,,,,c/ ,d a ,d [,c,,a1] |";french5tab
+195;G dur;76v;Menuet;;;Mandora;;3/4;"[,,c,a1] ,,c ,,c | [a,,,a/] ,c ,a ,,c [c,,a1] | [a,,,e2] [,d,,c1] | \
+[,c,,a/] ,,c ,,b ,,c [c,,a1] | [a,,,e2] [,d,,c1] |";french5tab
+196;G dur;76v;Quique;;;Mandora;;12/8;",c/ | [,c,,a/] ,a ,c [,d,,c] ,c ,d [ad,,e1] ,,c/ ,,c1 a/ | \
+[c,,a/] a c [e,,,,a] c e [f,,,a1] ,,c/ ,,c1 a/ |";french5tab
+197;G dur;77v;Aria adagio;;;Mandora;;3/4;"[acc,a1] [cd] [ac] | [cdc,a1] [ac] z | [acc,a1] [cd] [ac] | \
+[,de,a1] [,cc] z | [,ab,,a1] [,cc] [,ab] | [,db,c1] [,cc,a] z |";french5tab
+198;G dur;77v;[sans titre];;;Mandora;;3/4;"[,,c,a1] ,,c ,,c | [a,,,a/] ,c ,,c a ,c ,,c | \
+[a,,,a/] ,c ,,c a ,c ,,c | [c,,a1] [a,,,e] [,d,,c] | \
+[c,,a1] [a,,,e] [,d,,c] |";french5tab
+199;C dur;78r;Arietta;;;Mandora;;3/4;",,,a/ ,d ,,c ,d ,,,a ,d | ,,,,a/ a ,c a ,,c a | \
+,,,a/ 'c [d,,,,a] c a ,d | [,c,,a1] ,c/ ,a ,,c1 |";french5tab
+200;G dur;78v;Faber;;;Mandora;Conc_4861;6/8;",,,,,a/ | ,,,,a/ ,,c ,,,,,a ,,,,a ,,c ,,,,,a | \
+,,,,a/ ,,c ,,,,,a ,,,,a1 ,,,,,a/ | \
+,,,,a/ a ,,,,,a ,,,,a a ,,,,,a |";french5tab
+201;G dur;79r;Menuet;;;Mandora;Conc_4935;3/4;"[,,c,a/] ,a ,c1 [,ab,,a] | [,c,,a/] ,d a1 ,,c | \
+,,,a/ c ,,,,e a ,,,,c ,d | [,c,,a/] ,d a1 ,,c | \
+,,,,,a1 [,ab] [,cc] |";french5tab
+202;C dur;79r;Trio;;;Mandora;Conc_4936;3/4;"[,dca1] [,c,,a/] ,d a ,c | ,d1 ,,c ,,,a | [c,,a1] [a,,,a/] c d a | \
+[c,,a1] ,d ,,,a | Xh1 ,,a ,,,,,a | Xf1 ,,,e ,,,a |";french5tab
+203;g moll;79v;[sans titre];;;Mandora;;C;",,,,a3/4 ,,,,c/4 ,,,,d3/4 ,,,a/4 ,,,c1 z/ ,,,,c | \
+,,,,d3/4 ,,,a/4 ,,,c3/4 ,,,a/4 ,,,,d3/4 ,,,,c/4 ,,,,a/ \
+(3,,,a/4 ,,,c ,,,d) |";french5tab
+204;g moll;80r;Menuet;;;Mandora;;3/4;"[ab,,a1] (,d/ ,b) [,a,a] | [,,b,,a1] ,,c/ ,a ,,,c1 | \
+[ab,,a1] f V[h,,,,a] | V[i,,,a1] h/ i f1 | \
+[i,,,a1] [h,,,,a] [i,,,a] |";french5tab
+205;G dur;80v;Menuet;;;Mandora;;3/4;"[,,c,a1] ,,c/ ,,c ,,c ,,c | [,,c,a1] ,c/ ,,c a1 | \
+,,,,e1 [,,ca] X[,,b,,a] | [,,c,a3/2] ,c/ ,a ,d | \
+[,c,,a/] a ,,c ,c ,a [,d,,,a] |";french5tab
+206;G dur;81r;Scherzo;;;Mandora;;2;"a/ | ,,,,e/ a ,,,,a ,c | ,,,,c/ ,d ,,,,,a ,a | \
+[,c,,a/] a [c,,a] ,,c | [,,b,,a/] ,a/4 ,,b ,,,c/ a |";french5tab
+207;G dur;81v;Aria;;;Mandora;Conc_4937;C;",a/4 ,c ,d | [ac,,a1] a [ac,,a] f | [e,,,,a3/2] c/ 'a1 f/ ,c | \
+,,,,c/ ,d ,,,,a ,d [,db1] [,d,,,a] |";french5tab
+208;C dur;81v;Tournée;;ff. 84v-99r empty;Mandora;Conc_4785;C;",,c/ ,a | V[,d,a1] c (d/ c a) ,d | V[,d,a1] ,,,c ,,,e [,d,a] | \
+[ac,,a1] a/ c d c a ,d | [ac,,a1] ,,,,c ,,,,e [a,,,a] |";french5tab
+209;d moll;99v;[sans titre];;ff. 100r-101r empty;Mandora;;3/4;"[,a,,,a1] ,,b ,,,c | [,,,e{,,a}1] [,,c,a] [,abc] | \
+[cd,a1] ,e [,a,,,a] | [,c,,,c1] ,f [,e,e] | ,c1 ,,d ,,e | \
+[,a,,,a1] ,c [,d,a] |";french5tab
+210;G dur;101v;Ihr Söhne kan eüch nicht des Vatters jamer richte[n];;with text;Mandora;;2/4;"[c,,a/4] d | [f{,,a}/] [,d,,c] [a,,,,a] [,d,,a/4] ,c | \
+[,d,a/] ,,,c ,,,e [,d,a] | [acc,e/] ,c ,,c [d,,,a] | \
+(3[c,,a/4] d f) ,d/ z [cd,a] |";french5tab

@@ -1,0 +1,98 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1;;7r;The.x.Commaundement example;;;OT;ConcR77;C;"[aacc2] | [acd,a1] [cdda] | [effc2] | [effc1] [ffh,a2] [ffh,a1] | \
+[effc2] | [cefc2] | [ffh,a1] [ec,de] | [c,def1] [aacc] | \
+[aac,,e2] | [cce,,c2] | [hf,gh2] |"
+2;;7v;Ie ne veux plus a mon mal contentir;Lassus arr. Le Roy?;;OT;;C;"[aa,c2] | [abd1] [aac] | [abd1] [ab/] [,ab/4] [,,de] | \
+[,a,c/] ,,,e ,,,f [,df] | [a,b,d1] [d,bc] | [c,da1] [ab,,d] | \
+,,,f/ ,d ,,f ,,g |"
+3;;8r;Example;;;OT;;C;"[a,,c/] ,,,b ,,,c ,,a | [a,c1] ,,d | [a,d1] ,,c | \
+[c,d/] a c [ea] | [fc/] ,a ,c [ee/4] c | [ef/] f h ,e |"
+4;;11r;Example;;;OT;ConcR78;C;"[,ab,,d/4] ,,a ,,b ,,d ,a ,b ,d ,a | [abb,d/4] ,a ,b ,d c d c a | \
+[,db,c/4] ,,a ,,b ,,d"
+5;;12v;Ce n'est bien ne plaisir;;;OT;;C;",,d1 | [,dff1] [,dde] | [aabc/] ,,d [aabc] ,c | \
+[cdda/] ,c/4 ,a ,,d ,,b ,,a ,,,c | ,,,a1 [cdd/] ,,,a | \
+,,,,a/ [acd] [cdd] ,,,a |"
+6;;16r;Petite fantasie dessus l'accord du Leut.;;Fantasia;OT;;C;",,,,,a2 | ,,,,a1 ,,,c | ,,d1 ,,,,a | ,,,a1 ,,d | ,d1 ,,,a | \
+,,a1 ,d | c1 ,,a | ,a1 c | h1 ,a | ,f1 a |"
+7;;17r;[Study];;;OT;;C;",,,,,a/4 ,,,,,c ,,,,,d ,,,,a | ,,,,c/4 ,,,,e ,,,a ,,,c ,,a ,,b ,a | \
+,c/4 ,d a c d f h f |"
+8;;17v;Passameze;;Passamezzo Pavan;OT;;C;"[abd,a1] ,,,c/ ,a [abd,a1] ,,,c/ ,a | \
+[,,d,a1] ,,,c/ ,a [,bd,a1] [,a,a1] ,,d | \
+[,ab,,d1] ,,,a/ ,,a [,,b,,d] ,,d [,a,a] ,b |"
+9;;18v;Passameze more shorter.;;;OT;;C;"[abd,a1] ,,,c/ ,a [abd,a1] ,,,c/ ,a | \
+[,,d,a1] ,,,c/ ,a [,bd,a] ,a/4 ,b ,d ,b ,a ,,d | \
+[,ab,,d1] ,,,a/ ,,a [,,b,,d]"
+10;;19v;The Paduane.;;Paduan Galliard (with divisions);OT;;3;"[acd,a/] | [acd,a3/4] [acd/4] ,,,c/ | [acd,a3/4] [acd/4] ,,,c/ | \
+[acd,a3/2] | ,,,c1 [acd,a/] | [acd,a3/4] ,d/4 a/ | \
+[,cd,a/] ,d [a,,,a] | [cdda3/4] a/4 ,d/ |"
+11;;20r;Otherwise;;;OT;;3;"[ac,a/] | [acd,a3/4] [acd/4] ,,,c/ | [acd,a3/4] [acd/4] ,,,c/ | \
+[acd,a3/2] | ,,,c1 [acd,a/] | [,cd,a/4] ,a ,c ,d [a,,,a/] | \
+,c/ [,d,,a] a |"
+12;;20v;Passe velours.;;;OT;;3;"[,,d,a3/4] ,a/4 [,c,,a/] | [,daa3/2] | [,daa3/4] a/4 [c,,a/] | \
+[acd,a1] [,dc,c/] | [,cdca3/2] | [,cdca3/2] | \
+[,,d,a3/4] ,a/4 [,c,,a/] | [,dda3/4] a/4 [,dda/] |"
+13;;21r;La tintalore;;;OT;;3;"[,bd,a1] [,dba,d/] | [abb,d1] [abb,d/] | [bbdd1] [bbdd/] | \
+[abb,d3/2] | [,db,c1] [,dba,d/] | [,bd,a3/4] ,a/4 [,,dc/] | \
+,,,,a3/4 ,a/4 [,b,,a/] |[,acc,a1] ,,d/ | ,,,c/ a [,d,c] |"
+14;;21v;La souris;;;OT;;3;",,a/ ,,c | [,,d,a3/4] ,,d/4 ,,,c/ | ,,,,a/ ,,d ,,,c | \
+[,,d,a1] ,,,c/ | [,,d,a3/4] ,a/4 [,,d,a/] | \
+[,,cc,a/] ,,a ,c | ,,,,c/ [,cee1] |"
+15;;22v;La tirantine;;;OT;;3;"[,,d,a3/4] ,a/4 [,c,,a/] | [,dda3/4] a/4 c/ | \
+[cdda3/4] a/4 ,d/ | [acd,a3/2] | [,,d,a3/4] ,a/4 [,c,,a/] | \
+[,dda3/4] a/4 c/ | [cdda3/4] d/4 [c,,a/] | [acd,a3/2] :||:"
+16;;23r;Le petit gentilhomme;;;OT;;3;"[abb,d1] [abb/] | [,dba,d1] [,dba/] | [,bdd1] [,ddd/] | \
+[aacc1] [,,d,a/] | [abb,d3/4] b/4 [a,,,d/] | \
+[,dba,d3/4] a/4 [,d,,,d/] | [,bdd1] [,ddd/] | \
+[aacc1] [,,d,a/] |"
+17;;23v;La volte de Prouence;;;OT;;C;"[,,d,a/4] ,a ,c ,d | [acd,a1] [c,da/] ,d | \
+[da,c/] [c,,a] [acd,a] ,d/4 a | [cdda/] a/4 c [da,c/] [c,,a] |"
+18;;24v;First branle of Malte.;;;OT;;C;"[cdda/] a c d | [fcd,a1] a/ c | [dab,,d1] ,,,a/ ,,,,,c | \
+[dab,,d/] ,,,,a [dab,c] ,,,,e | [cdda1] ,,,a/ a | \
+[,dda/] a c d |"
+19;;24v;Otherwise;;;OT;;C;"[cdda/] ,a/4 ,c ,d a c d | [fc,,a/] ,,d/4 ,a ,c ,d a c | \
+[dab,,d/] ,,,c/4 ,,a ,,b/ ,,,c/4 ,,a |"
+20;;25v;The seconde Branle of Malte.;;;OT;;C;"[,dda/] ,c ,d a | [cdda1] [cdda] | [acd,a1] [,da,c/] ,,c | \
+[,c,,a/] [,,dc] [a,,,a] ,d | [,c,,a/] ,d [,a,,,a] ,,c | \
+[,,d,a1] ,,d/ ,,,c |"
+21;;26r;Otherwise;;;OT;;C;"[,dda/] ,c ,d a | [cdda/] a/4 c d c a c | \
+d/4 c a ,d a ,d ,c ,a |"
+22;;26v;The third Branle of Malte;;;OT;;3;"a/ c | [dabc1] [dcbc/] | [cdda3/4] a/4 ,d/ | [,cd,a3/2] | \
+,,,c/ a c | [da,,,a3/4] f/4 d/ | [cdda3/4] a/4 ,d/ | \
+[,cd,a3/2] |"
+23;;27v;The fowerth Branle of Malte;;;OT;;C;"[,dda/] ,c ,d a | [cdda1] [cd/] ,,d | [acd,a/] ,d ,,,,a [acd] | \
+[,dda1] ,d/ ,,d | [,dda/] ,c ,d a |"
+24;;28v;Pauane si ie m'en voy.;;;OT;;C;"[,bdca2] [,bdca1] [,abc] | [,bdca1] [,dbc] [,dba,d] [,dba] | \
+[abb,d1] ,,,c/ ,a [,b,,d] ,d a b | [abb,d1] d [bbb,d] a |"
+25;;29v;Shorter tyme;;;OT;;C;"[,bdca2] [,bdca1] [,abc,a] | [,bd,a1] ,a/ ,b [,db,,d] ,a ,b ,d | \
+[abb,d1] ,,,c/ ,a [,b,,d] ,d a b |"
+26;;30v;Gaillarde of the precedent Pauane.;;;OT;;3;"[,bdca1] | [,bdca3/2] ,a/ [,bdca1] | [,bdca1] [,dba,d] [,dba] | \
+[abb,d3/2] ,a/ ,b ,d | [abb,d1] [abb] [bbdd] | \
+[abb,d1] ,d/ ,b [,db,c1] |"
+27;;31v;Gaillarde Romanesque.;;;OT;ConcR841;3;"[abb,d3/2] [ab/] ,,b1 | [abb,d1] [abb] [abb,d] | \
+[,db,,d3/2] [,db/] ,,,a1 | [,db,,d1] a [,db,,d] | \
+[,bd,a3/2] ,a/ ,b ,d | [,bd,a1] [,aba,d] [,,da,c] |"
+28;;31v;Otherwise;;;;;3;"[abb,d/] ,a ,b ,d [a,,,d] ,d | [,bb,d/] a ,d ,b [,a,,d] ,,d | \
+[,ab,,d/] ,,a ,,b ,,d [,a,,,d] ,b |"
+29;;32v;Fredon sur la Romanesque;;;OT;;3;",b/ ,d | [abb,d3/2] ,d/ [,bb,d1] | [,,d,d/] ,a ,b ,d [a,,,d] c | \
+[dab,,d/] b/4 a b a ,d ,b ,d ,b ,a ,,d |"
+30;;33v;I'ay meroye mieux dormire seullette;;;OT;ConcR202;3;"[aac,,a1] [aac] [aac,,a] | [aac,,a1] ,,,c/ ,,d [aac,,a1] | \
+[,bd,a/] ,a ,b ,,d [,a,,a] ,b | [,db,,d3/2] [,db/] ,,,a1 | \
+[abb,d1] [abb] [abb,d] |"
+31;;34v;The first Gaillarde Milanoise;;;OT;;3;",d/ ,b ,a | [,,dca3/2] ,b/ ,a ,,d | \
+[,acc,a/] ,,a ,,c ,,d [,a,,,a] ,,c | \
+[,,d,a/] ,a [,b,ca] ,,d ,a ,b |"
+32;;35v;The seconde Gaillard Milanoise;;;OT;;3;",b/ ,d | [abb,d3/2] ,d/ [,bd,a1] | [,dff,d3/2] a/ [bdda1] | \
+[abb,d3/2] ,d/ [,bd,a1] | [,dff,d3/2] a/ [bdda1] | \
+[abb,d/] b d b [a,,a] ,d |"
+33;;36v;The thirde Gaillard Milanoise;;Gaillarda la Reyne d'Ecossa;OT;ConcR833;3;"[dabc1] [cdda] [abb,d] | [,db,c3/2] ,b/ [,aba,d1] | \
+[abb,d3/2] ,d/ [,bd,a1] | [,db,c3/2] ,b/ [,aba,d1] | \
+[abb,d3/2] ,d/ [,bd,a1] | [,dda3/2] ,b/ ,a ,,d |"
+34;;37v;The Fowerth Milano;;Gaillarde la Visdame;OT;ConcR3340;3;"[,ac,,a1] [,bd,a] [,db,c] | [abb,d3/2] ,d/ [,bd,a1] | \
+[,acc,a1] [,bd,a] [,dba,d] | [abb,d3/2] b/ [abb,d1] | \
+[,dba,d3/2] a/ [,dba,d1] | [,bdca3/2] ,d/ [,bdca1] |"
+35;;38v;The fift Milanoise;;Gaillarde Si pour t'aymer;OT;ConcR815;3;"[aabc1] [aab] [f,de] | [dabc3/2] [dab/] [cdda1] | \
+[abb,d1] [,db,c] [,bd,a] | [,aba,d3/2] a/ [,db,c1] | \
+[,bd,a1] [,aba,d] [,,da,c] | [,acc,a3/2] ,b/ [,aba,d1] |"
+36;;39v;Branle de Poictou;;;OT;;3;"[,cd,a3/4] ,d/4 a/ | [acd,a/] [cdda1] | [,da,c1] [aac,,a/] | \
+[,cd,a1] [,c,,a/] | [,,dc/] [,ac,,a] ,,d | [,c,,a1] [,,dc/] | \
+[,cd,a3/4] ,d/4 a/ | [acd,a/] [cdda1] |"

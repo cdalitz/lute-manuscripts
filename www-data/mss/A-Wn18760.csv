@@ -1,0 +1,85 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1;F dur;3r;Ouverture;Herold;Partia Prima;;;C;",,,a/ | [,,,add{,a}2] ,/ ,,,c/ ,,a ,,,a | [,,,c{,,a}1] ,,,,,d \
+,,d [,,'b] | [,,aad{,a}1] ,,,a/ ,c a1 [,,d,,a] | [,aba{d}3/2] \
+(,a/ ,c1) [a,d,,a] | [c,b{a}3/2] e/ Vf1 ['e{,,a}/] ,f | "
+2;F dur;4v;Entrée;Herold;;;;C;"a1 | [ada{,a}3/2] a/ [,'c3/2] (a/4 ,c) | [aVd,,,a2] ,,,a3/2 \
+,,d/ | [,aba{d}3/2] ,a/ [,,dc{,,a}3/2] ,,b/ | [,,'a{,a}2] \
+,,,a3/2 {,,a}/ | [aaa{,,,a}3/2] ,c/ [,'a3/2] ,,d/ | "
+3;F dur;5v;Courrente;Herold;;;;3;",,,a/ | [,,,aVd{,a}3/2] ,,,a/ [,,,c{,,a}1] | [,,a{,a}1] \
+[,,'c{,,,a}2] | V,,d1 {a}/ ,,a ,,b ,,d | [,aba{d}3/2] \
+,,d/ [,,'b] ,,a | [,,,ccd3/2] ,,d/ [,,,aa1] | [,,,c{d}1] \
+[,,,'c{4}3/2] (,,,a/4 ,,,,c) | "
+4;F dur;6r;Sarabande;Herold;;;;3;"h1 [a{,,,a}] ['c{,,a}] | V[e{,a}1] [,,d,,a] [,a,,,b] | \
+,,,,,d/ ,c ,,b ,,d ,,a a | ['a,,c{4}3/2] ,c/ [aVd1] | \
+{,a}1 [a{,,,a}] [,a{a}] | [c{,,a}1] [,c,,,a] ,,d | "
+5;F dur;6v;Gigue;Herold or Losy?;cf. Conc_1724;;;6/4;"c1 | [e{,a}2] [,,d,,a1] [,a,,,,b2] [,c,,,d1] | [ada{,a}2] \
+,,,a1 [ada2] [,,d,,a1] | [,a{d}2] ,,a1 [,,ba{a}2] [,,d,c1] | \
+[,,'aa2] {,a}1 [,,aa2] [,,d,c1] | [a,d,a2] ,,a1 ,,c2 c1 | "
+6;F dur;7r;Eccho;Herold;;;;C;",,d/ ,,b | [,,'a{a}1] [,,b{a}] [,,d,,a] [,a{d}] | [,,d,c{4}1] \
+[,,'b] [,,a{,a}] |:| [c{,,a}1] | V[e{,a}1] (c/ a) [c{,,a}1] \
+,,d | [a,d{,,,a}1] [,,'c] [,cd{4}] |:| "
+7;F dur;8r;Cappriccio Fugato;Herold;;;;C;"[,,,,'d/] ,,,a | [,,,cd/] ,,a [,,b,c] ,,d [,,'a] ,,,a ,,d \
+,,,,c | [,ad,a/] ,c [a,c] c [,c,,,d] ,,d a ,,,,,a | {a}/ \
+'e f ,f"
+8;g moll;9r;Air;Herold;Partita Seconda;;;C;"[,,bVc{a}1] [,,'a/] ,,,c [,aa{,b}3/2] [,a{,a}/] | \
+[c,b{,,a}3/4] c/4 [a,a{,a}3/4] ,b/4 [,aba{d}3/4] ,,d/4 \
+,,b/ [a,,,,a] | V[fa{a}/] [e{,a}] ['c{,,a}] [a{,,,a}] \
+[,b{4}/] ,,a/4 a [,ab{,,,a}/] [,,dc{,,a}/4] ,,b | "
+9;g moll;9v;Gigue;Herold;;;;3;",a2 ,,d1 | [,,'b3/2] ,,a/ ,,,c1 | c2 ['e,,,e1] | \
+[f,,,f2] ,a1 | {a}1 ,,b [,,d,,a] | [,ad,,b2] ,,,c1 | \
+[,,d,,a1] ,,,b [,,bc{a}] | "
+10;g moll;10r;Double;Herold;;;;3;"{a}/ ,,d ,,f ,,,f ,,d ,,,e | ,,,,f/ ,,d ,,,f ,,a {a} ,a | \
+,,,,f/ f 'e ,f ,,,,e e | {a}/ ,a f e ,f ,a | "
+11;g moll;10v;Air;Herold;;;;3;",a/ ,,d | [,,'bc1] [,,aa] [,,,cb] | [,,,'ba1] {,,,a} ,a | \
+[,,d,c1] ,,,b/ ,,d ,,,,a ,a | [,,'b{a}1] ,,,c [,'a/] ,a | \
+V[,bdc,d3/2] ,a/ ,,d ,,b | "
+12;g moll;10v;Double;Herold;;;;3;",a/ ,,d | [,,bc/] ,,d [,a,a] ,,a [,,,cb] ,,d | \
+[,,,ba/] ,,a ,,b ,,d ,a ,,a | [,,d,c/] ,,,c [,,,ee] ,a \
+[,,d,,a] ,a | "
+13;g moll;11r;Gigue;Herold;;;;3;",f2 ,f1 | [,'e2] ,a1 | [,f,f2] [e,,e1] | [f,,,f2] ,,a1 | \
+[,,ff2] ,,f1 | [,,'de2] [,,,ff1] | [,,,ee2] ,,f1 | \
+[,,,ff2] {a}1 | ,,g2 ,,g1 | [,,,e{,a}2] a1 | "
+14;g moll;11v;Gavotte;Herold;;;;C;"[,'f3/2] e/ | f1 ,,,,f/ ,f [,'e,e3/2] ,e/ | V[,f,f3/2] ,a/ \
+V[,bdc,d3/2] ,b/ | [,bd,,a1] {d}/ ,a [,,'d{,a}3/2] ,,,f/4 \
+,,d | ,,,f1 {d} ,f3/2 e/ | "
+15;g moll;12r;Menuette en Rondeau;Herold;;;;3;",,,c/ ,,a (,,b ,,d) ,a ,,d | [,,'b{a}1] ,,,c ,a | \
+c1 ['a,,,,a3/2] ,b/ | [,aba{d}3] | [,,d,,a1] ,,,b ,a | \
+[,,'b{a}3/2] ,,b/ ,,d1 | [,a{,a}1] [,,'d{,,a}3/2] ,a/4 ,,d | "
+16;g moll;12v;Air;Herold;;;;C;"[,'a,,,a/] ,a | V[,bdc,d3/2] ,a/ [,,'d{,a}] ,,d | \
+[,aba{d}3/2] ,,d/ [,,'bc{,,a}1] | V[,,dcb{4}3/2] ,,b/ \
+[,,'a{,,,a}] ,,a | V[,,b{a}1] ,,,c [,'a/] ,a | \
+V[,bdc,d3/2] ,a/ [,,d,,a] {a} | "
+17;g moll;12v;Menuette;Herold;;;;3;"[ki2] [hh1] | V[ki2] [hh1] | [ff1] [hh] [ff] | \
+[ee1] {,,,a} ,,d | V[,,ff2] [,,de1] | [,,ff2] [,,de1] | \
+[,,,ff1] {,,,a} [,,,'ee] | "
+18;g moll;13r;Bourrée;Herold;;;;C;"c/ ,d | [,'b,d1] [,a,a] [,,d,b] [,,b,a] | \
+[,,a,,d1] [,,,c,b] [,,,b,a] [,,,c{a}] | \
+[,,a{,b}1] [,,bv] {,,a} [,,'d] | V,,f1 \
+{,,,a} ,,,,a [c,,,,c/] ,d | "
+19;g moll;13v;Eccho;Herold;;;;6/4;",a/ | [,abc{a}3/2] ,1 ,a/ [,abc{a}3/2] ,1 a/ | \
+[add,,a3/2] ,1 a/ [add,,a3/2] ,1 a/ | [aab{d}3/2] \
+,1 a/ [aab{d}3/2] ,1 a/ | "
+20;g moll;14r;Chaconne;Herold;;;;3;"[,'f1] e | [f{a}1] {,a}/ e f e | [,f{,,a}1] ,,f/ ,f ,,d e | \
+[,'e{,,,a}1] ,,f/ ,e [,,'d1] | ,,,f/ ,f ,,,,a ,,,e ,f ,e | \
+[,f{a}1] :| "
+21;B dur;15r;Allemande sive Air;Herold;Partia Tertia;B d f a d' f';Conc_1460;C;",,b/ | [,,baaa3/2] a/ [aab{,,,a}3/2] a/ | [cbb{,,a}3/4] c/4 \
+'a3/4 ,b/4 [aabaa1] ,,b/ {4} | {,,,a}/ ,d f a [c,b{,,a}1] \
+[a,a{,a}] | ['a,b{a}3/2] ,c/ [aVd1] {,a}/ {,,a} | "
+22;B dur;15v;Menuet 1;Herold;;B d f a d' f';Conc_1461;3;"f2 [a,,,a1] | [c,,,b1] [,b,,,c] [a,a] | [,a,,,a1] ,,b \
+[,'c{a}] | [a{,a}/] ,c a c e {,,a} | ['f{,,,a}2] [a,,,a1] | \
+[c,,,b1] [,b,,,c] [a,a] | "
+23;B dur;15v;Menuet 2;Herold;;B d f a d' f';Conc_1462;3;",a1 [,,'b/] ,,a ,,,c1 | [,,,'ba1] V[,,,c,a] {a} | \
+[,a{,b}/] ,,d [,,'b{a}] ,a ,,,c1 | [,,,b{,,,a}1] ,,,,a \
+,,,,,c | ,,,,,a1 ,a [,,db] | [,,'b{a}3/2] ,,a/ ,,,c1 | "
+24;B dur;16r;Air;Herold;;B d f a d' f';Conc_1463;C;"[,a,a,a/] {c} '{a} {,a} [,b,c{,,a}] {4} [,ab{,,,a}] {,,a} | \
+[,,de{,,a}/] [,,ff] [,,'de3/4] ,,d/4 [,,f,,a/] [a,,,a] \
+[,b,,,c] [,a,,,a] | [,,de{,a}/] {,,a} {,,,a} [,,d,b{4}] \
+[,a,a,a] {c} [,cb{a}] [a,a{,a}] | "
+25;B dur;16v;Sarabande;Herold;;B d f a d' f';;3;"[aab,,a1] [aab3/2] a/ | [aab{,,,a}/] a [aabaa3/2] a/ | \
+[c,b{,,a}/] c [,'ba{,a}3/2] ,a/ | [,a,,,a1] [,abaa3/2] ,a/ | \
+{a}/ ,a [,abc3/2] ,c/ | {4}/ ,c [,cbc3/2] ,c/ | "
+26;B dur;16v;Double;Herold;;B d f a d' f';;3;",,,,,a/ a ,a a ,,b a | {,,,a}/ a ,,,,a ,,b ,a a | \
+{,,a}/ c a {,a} ,,a ,b | ,,,,,a/ ,a ,,,,a ,,,a ,,b ,a | "
+27;B dur;17r;Ciaconne;Herold;p. 18r-21v empty;B d f a d' f';;3;"[,a,,,a1] [,b,,,c] | [a,,,a1] ,,b a | [c,,,Vb2] [,,b{a}1] | \
+[,,d{,,a}1] [,,'a{,a}2] | [,,b,,a1] |:| ,a1 ,,b | \
+[,,d{c}1] ,,,a ,a | [,,'b{a}3/2] ,,b/ [,,d{,a}1] | "

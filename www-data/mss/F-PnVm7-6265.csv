@@ -1,0 +1,225 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1;;2;les sourdines d'armide;;;Th;;3;"(,f3/4 ,g/4) ,f1 | X,,f1 ,,,,a3/4 ,,f/4 V[,,g,a1] | \
+'[,,dd1] ,,,d3/4 ,,d/4 V[,,f,f1] | '[,,cc1] ,,,,,a ,,,,,a | \
+[ab,,a1] {,,,a}3/4 ,d/4 [,b{,,,a}1] |"
+2;;4;Rondeau;;;Th;Conc_5221;6/8;"[ff,,a/] | [,,dd{a}3/4] ,,f/4 '[a,,,,a/] ,,a/4 e [,,d,a/] {,,,a} [ab,,a] | \
+V[bd{,,,a}3/4] ,,,c/4 '[,,,a{,,a}/] [,,,,da{,a}3/4] ,d/4 a/ | \
+[,d{,,a}/] a [bd,,c] '[a,,,d] ,,,,,e/4 ,,,a [,b,,a/] |"
+3;a moll;6;chaconne de Visée;;;Th;Conc_2491;3/4;"{6}/ ,a a c | V[da,,,a1] '[cb{a}] ,a3/4 d/4 | [ab{,a}/] {a} {,a} {,,a} {,,,a} a | \
+,,a/ d '[,e{,,a}3/2] a/ | [aVf,,,a1] ||"
+4;a moll;7;prelude de Visee;;;Th;Conc_5215;none;"{6}1 z/4 (,a ,c ,e) a ,,a V[,,b,,a1] {6} z/4 (,,d ,,b ,,a) a (,,a ,,b) a \
+X[,,f{a}1] {7}"
+5;a moll;8;Allamende de Visee;;;Th;Conc_4584;C;"a/ | [aabcc{6}2] z/ ,e a ,,a | '[da,,,a1] ,,a/ a X,,f1 {,,a} | \
+{,a}1 ,,f/ a X,,d1 {,,,a} | {,,a}1 [,,db] [,,bc] {4} |"
+6;a moll;9;gavotte de Visée;;;Th;Conc_2483;C;"[aa,,,a/] ,,a d ,,d | '[c{a}1] ,,f3/4 ,,g/4 [a,'d{,a}3/2] ,,f/ | \
+[,,f{,,a}1] [,ef] '[,ca] {,,,a}3/4 ,e/4 | \
+[aVf{4}1] [,,ab{5}] [,,bc{6}/] (,,d ,,a ,,b) |"
+7;a moll;10;Le Beau berger;;;Th;Conc_2527;C;"[caabc1] {,,a} | V[,,bcca1] {a}3/4 ,,a/4 [a{,a}1] '[,e{,,a}] | \
+[aVf,,,a1] {6} [cabc] {,,a} | V[,,bcca1] '[,,a{,,,a}3/4] a/4 '[,e{,,a}1] [a{,a}3/4] ,,a/4 | \
+'[,,a{,,a}1] [aa,,,a] ||"
+8;a moll;10;Brunette;;;Th;Conc_5224;C;"a/ [caabc1] {,,a}3/4 ,,a/4 | V[,,bca/] ,,a a ,,a '[,,a,d{,,,a}3/2] a/ | \
+'[,,bc{,,a}3/2] a/ [caabc1] {,,a}3/4 (3,,a/8 ,,b ,,d) | \
+'[,,b,,a1] {,,,a}3/4 ,,a/4 '[,,a{,,a}1] a/ |"
+9a;a moll;11;folies d'espagne;;;Th;Conc_525;3;"[aa,,,a1] [aabcc{6}3/2] ,,a/ | '[,e{,,a}3/2] ,c/ a1 | \
+[aa,,,a1] '[a{6}3/2] a/ | V[c{a}1] [cdaa{7}2] | \
+'[,,b{4}3/4] ,,b/4 [,,bacd3/2] ,,d/ | \
+'[,,a{a}1] {,a}/ ,,a ([,,b{,,a}] ,,a) |"
+_9b;a moll;11;2me couplet;;;Th;;3;"[a,,,,a/] ,a a d 'c a | '[,e{,,a}/] {,a} {,,a} {,,,a} {4} {5} | \
+[a{6}/] ,a a c d a |"
+_9c;a moll;12;3me [couplet];;;Th;;3;"[,,bc,a1] X[,,bc{6}3/2] ,,d/ | '[,,a{,,a}3/2] a/ ,,a1 | \
+[,,bc,a1] '[,,bc{6}3/2] ,,b/ | [,,de{a}1] [,,de{7}2] | \
+[,,ff{4}3/4] ,,f/4 [,,ff,d3/2] ,,g/ | \
+'[,,de{a}1] {,a}/ ,,d {,,a} ,,,e |"
+_9d;a moll;12;4me couplet;;;Th;;3;"[aa,,,a1] a/4 c d/ 'c a | '[,,,b{,,a}/] ,a (,,,b/4 ,,,c) ,,a/ [,,,c{,,a}] ',,,b | \
+V[,,,c,a1] ,,,c/ (,,a/4 ,,b) (,,d ,,b ,,a) a |"
+10;A dur;13;prelude de Visèe;;;Th;Conc_5216;none;"{6}3/2 a/4 (,e ,c ,a) ,,,,c ,,,,a (,,,,,e ,,,,,c ,,,,,a1) {6} \
+[aaccca3/2] a/ X[,,fg{6}3/2] ,,f/ [,,fg,a1] {6}2 \
+[cad,,a1] {6}3/4 a/4 [aaccca1]"
+11;A dur;14;allemande de Visee;;;Th;Conc_4619;C;"a/ | [aaccc{6}2] ,,,,,a/ ,,a 'e f | [,,f,,a1] [,,fg{6}] [,,hh,a] ',,f3/4 ,,,h/4 | \
+[,,fg,a1] {6}/ (,,,h/ ,,,g) ,,a a ,e |"
+12;A dur;15;courante de Visee;;;Th;Conc_4620;2/3;",,f | [,,ff,a1] {6}/ ,,d ',,c ,,a V[,,c,,a1] '[,,a{a}] {,a}3/4 a/4 | \
+'[,e{,,a}3/2] a/ ,,a1 [aa,,,a] 'a3/2 ,e/ | \
+'[,c,,,c3/2] ,,,,c/4 ,c ,,,,,a1"
+13;A dur;16;Sarabande de Visée;;;Th;Conc_4622;3;"z/4 (,a/4 ,c ,e) | [aa,,,a3/4] a/4 '[,a,,,e{6}3/2] ,a/ | \
+[,a,,a{a}1] z/4 ,,,,,e/4 [,a,,,'c{7}] z/4 ([,a{a}/4] ,c ,e) | \
+[aa{,a}3/4] a/4 ,,,,b/ ,c/4 a {5}3/4 ,,c/4 |"
+14;A dur;16;gigue;;;Th;Conc_4623;6/4;"a/ ,,f1 ,,d/ | ',,c1 ,,,,c/ ,,,c ,,c [,,ab] | \
+[a,Vg,e3/4] ,,a/4 [,,c,c/] V[,,d,a1] [,,c,,a/] | \
+'[,,a,c1] ,,,,a/ [a,,,,e3/4] ,e/8 a |"
+15;A dur;17;gavotte;;;Th;Conc_4624;C;"[a,,,,a/] ,e a | '[,e{,,a}1] {,a}3/4 a/4 [,,a{a}1] e3/4 f/4 | \
+'[ea,,,a1] (c/ a) [,,c{6}] ,,a [,,c,,a] ,,d | \
+'[,,a{a}1] [a{,a}3/4] ,,a/4 '[,e{,,a}3/2] a/ |"
+16;;18;prelude de Visée;;;Th;;none;"{,,a}3/2 ,,,,,c/ ,,,,c ,c ,d ,,,c c1 {,,a} z/4 (,,,,c/4 ,c ,d ,,,c c ,,c ,,e) ,,f1 \
+{,,a}1 z/4 (,,f/4 ,,d) (,,,f ,,a)"
+17;e moll;18;allemande de Visée;;;Th;Conc_2538;C;",,f/ | [,,fef{,,a}2] z/ ,,f ',,d ,,b | [,,aac1] {,,a}3/4 ,,i/4 '[,,h{,,,a}1] {4}3/4 ,,f/ | \
+'[,,ee{5}1] {6}/ ,,a ([,,f{7}] ',,d) (,,,f ,,a) |"
+18;e moll;20;courante de Visee;;;Th;Conc_4599;2/3;",,f/ | [,,fe{,,a}3/2] ,,d/ (,,b ,,a) a ,d '[,c,,,a3/2] ,a/ | \
+'[,,,,bc3/2] ,,,,,d/ (,,,,,c ,,,,,a) \
+([ca{a}3/2] d/) ([c{,a}] a) |"
+19;e moll;21;Sarabande de Visée;;;Th;Conc_4600;3;"[,,aa{,,a}3/4] ,,a/4 '[,,aac1] [,,ab{,,a}] | \
+V[,,bcca3/4] {a}/4 [,,cce{,a}3/2] ,,e/ | \
+[,dfe{,,a}3/4] ,,h/4 '[,,eee{5}3/2] ,,f/ | \
+[,,fe{,a}1] [,,fef3/2] ,,,i/4 ,,,k | \
+V[,,e{,,a}3/4] ,,i/4 [,,hh{5}3/2] (,,,k/4 ,,,h) |"
+20a;e moll;22;gigue de Visée;;;Th;Conc_4602;3;",,a1 | '[,d{,,a}3/2] ,c/ a1 | [,,aac1] {,,a} [,,a{,,,a}] | \
+[,,ff{4}1] {5}3/4 h/4 V[,,i{6}1] | '[,,ee{5}2] ,,a1 | \
+[ac,,b1] ,,a/ a ,,,c ,c |"
+21;e moll;23;gavotte de Visée;;;Th;Conc_4603;C;"X[,d,,c/] ,d a ,,a | [ac,,c3/2] a/ [ac,,b1] ,,,a3/4 ,c/4 | \
+V[,d{,,a}1] ',a/ [,,a{,,,a}] [,,f{4}] [,,d{5}] '[,,b{6}] ,,a | \
+V[,,bc,a/] ,,a 'c ,d '[,c,,,c1] {5}3/4 ,d/4 |"
+20b;e moll;24;double de la gigue;;p. 26 vacat;Th;Conc_5217;3;"(,,b/ ,,a) a | {,,a}/ ,d (,f ,d) (,c ,a) | \
+[,,aac1] {,,a}/ ,,b [,,d{,,,a}] ,,a | \
+[,,ff{4}1] {5}3/4 ,,h/4 [,,i{6}3/4] ,,f/4 |"
+22;e moll;27;gavotte de Visée;;;Th;Conc_4603;C;"X[,d,,c/] ,d a ,,a | [ac,,a3/2] a/ [ac,,b1] ,,a3/4 ,c/4 | \
+[,d,,c1] '[,a{,,a}] {,,,a} [,,f{4}] [,,d{5}] '[,,b{6}] c | \
+X[da,,,a/] c 'a ,d '[,c,,,c1] {5}3/4 ,d/4 |"
+23;e moll;27;La monfermeil rondeau;;;Th;Conc_4577;C;",,,,c/ ,c ,,,a a | ,,a1 [,,a{,,a}] [,,a{,,,a}] [,,f{4}] | \
+'[,,e{5}1] ,,a/ {6} ([,,f{7}] ,,d) (,,,f ,,a) | \
+([,,b{6}/] ,,a) a ,d '[,c{5}1] ,,c/ a |"
+24;;28;Les démons d'alceste;;;Th;Conc_5226;C;"[,a,a{4}3/4] d/4 | '[a{,a}1] [ab{,,,a}3/4] ,,d/4 '[,,aa{a}3/4] [,,aa{,a}/4] V[,,bc{,,a}3/4] [,,de{,,,a}/4] | \
+[,,ff{4}1] '[ee,,,d] {4}/ ,,,f/4 f ,,f/ ,,g/4 h |"
+25;;29;gigue de Visée;;;Th;Conc_4612;3;",,,a1 | X[,,ba,d3/2] ,,a/ V,,b1 | [,,d,,c1] ,,,a [,,de{a}] | \
+[,,de{7}3/2] ,,f/ V,,g1 | '[,,f{4}1] ,,,f ,,f | \
+'[a{,a}3/2] a/ ,,a1 | V[,,b{,,a}1] ,,,a [a,,,,d] |"
+26;d moll;30;ouverture, la grotte de Versailles;;;Th;Conc_1880;C;"[,,dcd{,,,a}3/2] ,,,,a/4 ,a V,b3/2 (,,,,c/4 ,,,,a) | \
+[ab{,,,a}3/2] {,,,a}/4 {,,a} {,a}1 {,,,a}3/4 a/4 (,d ,b) | \
+'[,a,,,a1] {6}/ [,a,,,(a/4] [,,,,,c)] \
+[a,,,,e3/2] [,a,,,(c/4] [,,,,,a)] |"
+27;;31;Blaize;;;Th;Conc_2519;C;"[,,,ha/] ,,f ,,g1 | [,,f{a}1] [,,,h{,a}] '[,,,g{,,a}] V[,,,h{,,,a}] | \
+[a{4}1] [,,d{5}] '[,,d{6}3/2] ,,c/ | \
+[,,d{,,,a}1] [,,d,,b] '[,,d,,a3/2] ,,c/ | V[,,d{,,,a}2] || \
+[,b,,a1] [,d,,c] |"
+28;d moll;32;entrée d'apollon;;;Th;Conc_1291;C;"[,,dcd{,,,a}3/2] a/ V[bd,,a1] (b/ a/4) ,d | \
+'[,b{,,,a}1] (,,,,c/ ,,,,a) [ab,,a1] {,,,a}3/4 ,,a/4 | \
+V[,,bcca1] {6}3/4 ,,b/4 '[,c,,a3/2] [,,d,,c/] | \
+[,,f,,e1] a [a,g{,,,a}] {,,a}3/4 ,,f/4 |"
+29;d moll;33;prelude de Visée;;;Th;Conc_5218;none;"{,,,a}3/2 z/4 a ,,a e ,,d1 ,,,,a {,,,a} z/4 ,,,g/4 ,,,h ,,f V,,g1 ,,,,a \
+{,,,a}/ ,,g a ,,i [,,fda1] [a,f,,e]"
+30;d moll;34;courante de Visée;;;Th;Conc_5219;2/3;",,d/ | [,,dcd{,,,a}3] ([d,,a{,,a}/] b) 'b3/2 a/ | \
+[ab{,a}3/2] ,,,,c/ ',,,,a1 [aa,,,e3/4] ,,,,f/4 ',,,,d3/2 ,a/ | \
+V[,b{,,,a}1] (,,,,c/ ,,,,a) ,,,d1 '[,,,c{4}] \
+[,,da{5}3/2] ,,f/ |"
+31;d moll;35;Sarabande de Visée;;;Th;Conc_4571;3;"X[,,d{,,,a}3/4] ,,d/4 [,bdca1] {,,,a}3/4 ,,f/4 | '[e,,,,a1] X[ea{6}2] | \
+[,,gh{,,,a}3/4] ,,g/4 [,hgh{a}1] {7}3/4 ,,i/4 | \
+'[,,ff{4}1] [,,fff3/2] ,,f/ | \
+'[,,d,a3/4] ,,,f/4 [,,aaa{a}3/4] {,a}/4 {,,a}3/4 ,,c/4 |"
+32;d moll;36;gigue de Visée;;;Th;Conc_4589;3;",,,,a1 | [abc1] ,,,,,e/ a ,,,a1 | {,,,a}1 ,,,,a ,,,d | {4}1 ',,,c [,,da{5}] | \
+'[,,c{6}1] a [,,d{,a}] | {,,,a}1 '[,,ba{,,a}3/2] ,,,d/ | \
+'[,,,c{,a}1] ,,,,,a [,b,c,b] |"
+33;;36;gigue gaye de Visée;;;Th;Conc_5356;6/8;"[ab{,,,a}3/2] ,,,,a/ ,a ,b | '[,a{7}/] ,,,,a ,a '[,,,,,e{6}3/4] ,a/4 a/ | \
+'[,b{,,,a}1] ,,,,a/ a ,,d ,,f | \
+[,,g{,,,a}3/4] ,,i/4 ,,g/ (,,f ,,g) [,,d,a] |"
+34;;38;Alemande de Visée;;p.40 vacat;Th;Conc_4578;C;"a/ | [abdc{,,,a}2] z/ a ,,a e | [f,,,a1] ,,,,,a3/4 ,,c/4 V[,,d,,c1] [a,f,,e] | \
+[,,g,a1] ,,,,c3/4 ,,c/4 V[,,d,d1] ,,,a3/4 ,,f/4 | \
+'[,,cc1] [,,cc,a] V,,d {,a}3/4 ,,f/4 |"
+_48;;41;[Allemande de Marais];;[m.19-25] initium p.54;Th;;C;"y/ y y ,,d {,,a} ,,,a/4 ,,d ',,c/ a | \
+[,cdc{,,,a}1] [acdca3/4] ,,d/4 [adf,a1] ,,,,,e/ ,,f | \
+[,,hf{,,,a}/] (,,f/4 ,,h) [,,,h{5}/] ,,i"
+35;;42;Les Sourdines d'armide;;;Th;;3;"{,,,a}1 (,f3/4 ,g/4) ,f1 | X,,g1 ,,,,a3/4 ,,f/4 V[,,g,a1] | \
+'[,,dd1] ,,,d3/4 ,,d/4 [,,f,f1] | '[,,cc1] ,,,,,a ,,,,,a | \
+[,b,,a1] {,,,a}3/4 ,d/4 [,b,,a1] |"
+36;;43;Dieu des enfere;;;Th;;3;"X[,b,,a{,,,a}1] {4}3/4 ,a/4 '[,,,,a{5}1] | \
+[aa{6}1] [ab,,,a/] {a} {,a} ,,,d | '[,,,aa{,,a}1] [,a,a,e] ,,,,,a3/4 a/4 | \
+'[,b{,,,a}2] [,a{6}1] | X[,b,,a{,,,a}3/2] ,a/ ',,,,a1 |"
+37;d moll;44;La furstemberg;;;Th;Conc_2522;C;",b/ ,d | [a,,,a1] [ab] [ac{,,,a}] a | V[b{a}2] [,a,'a{4}] | \
+[a{,a}1] ([,d{a}] ,b) '[,a,,,a1] a | \
+'[,b{,,,a}1] ,,,,c/ ,b ,,,,a1 ,b/ ,d |"
+38;;45;dieu d'amour vénytienne;;;Th;Conc_2524;C;"[,,dc{,,,a}2] [,,d,a] | [ab{,,,a}3] (,,d/ ,,f) | [,,f,,a1] [,,f{a}] '[,,d{,a}] [,,c{,,a}] | \
+V[,,d{,,,a}1] a ([,b,,a/] ,d) a1 | '[,b{,,,a}1] ,,,,a ,b a |"
+39;;46;Alemande de hautemant;;;Th;;C;"a/ | [abdc{,,,a}2] z/ f/ 'd a Vb ,d | a/ ,,,,a [a,,,,d] ,,,,,a V,,,,,b a ,d {a} | \
+,,,,,a/ ,a V,b {,a} {a} ,a V[,b,,,a3/4] (,d/4 ,b ,a) |"
+40;G dur;46;alemande de le moinne;;finis p. 57;Th;Conc_2480;C;"f/ | [fdaa{a}1] [,,de{7}/] (,,f ,,d) ,,,f | \
+'[,,,e{a}3/2] ,,,a/ [aabc1] [,,d,e] | \
+,,,a/ ,,a {a}1 [ac,,a/] (,,,,c ,,,,a) ,,,,,d |"
+41;D dur;48;allemande de Visée;;;Th;Conc_4593;C;"a/ | [acdc{,,,a}3] ,,a3/4 a/4 | [,a,'aa3/2] ,,,a/ [,a,a,e1] ,,,,,a3/4 a/4 | \
+'[,c{,,,a}1] (,,,,c/ ,,,,d) [ac,,a1] {,,,a}3/4 a/4 | \
+[,aa{a}1] {,a}3/4 ,,a/4 '[e{,,a}/] ,,a/4 e [,,d{,,,a}1] |"
+42;D dur;48;courante de Visée;;;Th;Conc_4594;6/8;"a/ | [acdc{,,,a}3/2] a/ ,,a e V[f,,,a1] X[f{,a}] {a}3/4 ,,f/4 | \
+'[ea,,,a3/2] f/ [,,f{a}1] [a{,a}3/4] ,,a/4 \
+'[,d{,,a}3/2] ,,,,e/4 ,d |"
+43;;49;prelude;;;Th;;none;"{,,,a}3/2 z/4 (,,d/4 ,,c ,,a) a (,d ,c ,a) V[,c,,a1] \
+{,,,a}3/2 ,,,,,e/4 ,,,,a ,a ,,,,e ,,,a a ,,a ,,,,,e \
+V[,,daec1] {5}3/4 ,,c/4 '[,,a{,,a}3/2] ,,f/"
+44;D dur;50;sarabande de Visée;;;Th;Conc_4595;3;"[,,hh{,,,a}3/4] ,,h/4 X[,,hha1] {,,,a}3/4 ,,i/4 | \
+'[,,fg,a1] [,,fg{6}3/2] ,,,,,a/ | \
+[ccd,,c3/4] ,,d/4 [a,'d{,a}1] ,,,,a3/4 ,,c/4 | \
+'[,,aa{a}1] [,,aaa{7}] {a}/ (3,,d/4 ,,b ,,a) |"
+45;D dur;50;gigue de Visée;;;Th;Conc_4596;6/4;"[a{,,,a}1] [,,d,a3/2] ,,f/ ,,h1 | '[,,f,,a3/2] ,,h/ ,,i1 [,,h{,,,a}] '[,,f{4}] [,,,h{5}] | \
+'[,,,g{6}1] ,,,,,a [,,,g{a}] V[,,,h{,a}] {,,a}3/4 ,,f/4 [,,g{,,,a}1] | \
+[,,aaa{a}3/2] ,,c/ V,,d1"
+46;D dur;52;chacone d'arlequin;;;Th;Conc_2540;3;"[,,,h{,,,a}1] ,,,h/ ,,f ,,h ,,,h | [,,f{4}1] [aa,,,e] {4}3/4 a/4 | \
+[a{5}1] '[,e,,a3/2] a/ | [aVf{6}1] '[,a,,,a3/2] ,c/ | \
+[,d{,,a}1] [,daac3/2] a/ |"
+47;;53;menuet;;;Th;;3;"[,c,,a{,,,a}2] ,,a1 | (,,,c/ ,,,a) (,c ,a) [,c,,a1] | \
+[,a,a,e1] ',,,,,c [a,,,,a1] | '[,c{,,,a}1] (,,,,c/ ,,,,a) [,,,,c{4}1] | \
+V[,,,,e{,,,a}2] [,,,,f{7}1] | \
+([,,,,e{6}/] ,,,,c) (,,,,,f ,,,,,e) ,,,,a1 |"
+48;;54;alemande de Marais;;"m.1-18, finis p.41; p. 56 vacat";Th;;C;"X[,,l{,,,a}1] '[,,h,a3/4] ,,f/4 ,,h/ ,,,,,a [,,fg] {a} | \
+{,a}/ [e,d,a] [c{a}] '[a{,a}] {,,a} ,,,a/4 ,,d ',,c/ a |"
+_40;;57;[allemande de le moinne];;initium p.46;Th;;C;"y1 | [d{a}1] {7} X,,i {5}3/4 ,,d/4 | [,,ff{4}1] [,,de] [,,bc] [,,aa] | \
+'[a{,,,a}3/2] ,,,,a/ [a,,,,d1] [,,a,,c] | \
+[aab,,a1] (,d/ ,c) ,,,a ,a ,,,c ,c |"
+49;B dur;58;prelude de Visée;;;Th;Conc_5212;none;",,a/4 X,,h3/4 ,,h/4 X[,,h{5}1] ,,,,,c/ ,c c [cc{5}1] \
+z/4 ,,,,,c/4 ,,,,c ,c V,d ,,,c '[,c,,,c1] {5} ,,,,,c/ ,c c ,,c"
+50;b moll;58;allemande de Visée;;;Th;Conc_4625;C;",,h/ | X[,,h{5}3/2] ,,c/ V,,d1 ',,c3/4 ,,a/4 | \
+'[,,,de3/2] ,,,,,e/ V,,,,,f ,,a ',,,,,e3/4 [,,a,,c/4] | \
+[,cc,,b1] {,a}/ ,,,h ,,f ,,,g ,,h ,,c |"
+51;b moll;60;courante de Visée;;;Th;Conc_4626;2/3;"c/ | [cc,,,c1] {5}3/4 ,,c/4 V,,d1 [aa{4}] 'a3/2 ,d/ | \
+'[,c{,,,a}3/2] ,e/ a ,,c '[,e{,,a}3/2] ,,,d/ ,,a ,,c | \
+'[,,,d{,a}1] ,,,,e {,,a} [,c{,,,a}] [ce] [,,cd{4}] |"
+52;b moll;60;sarabande de Visée;;;Th;Conc_4627;3;"[cc,,,c3/4] c/4 X[,,hh{5}3/2] [,,cd/] | V[,,de1] [ccdeec3/2] [,c,,,a/] | \
+V[cd,a{a}1] [cc,a{7}] V[ea,a{a}3/4] ,,d/4 | \
+'[b{,a}1] [bc/] ,,,a ,c ,,,,c | \
+[ac,,b{5}3/4] a/4 [ac,,b3/2] ,,a/ |"
+53;b moll;61;gavotte de Visée;;;Th;Conc_4629;C;"[cc,,,c1] [aa,,,e3/4] ,d/4 | '[,c,,a1] [,cd{,,,a}] '[,,ca{,,a}3/2] ,,a/ | \
+'[,,,d{,a}/] {,,a} {,,,a} {4} {5} ,c c ,,c | \
+V[,,deec1] ,,,,,a3/4 ,,f/4 '[,,f{a}3/2] ,,h/ | [,ghg{,a}2] ||"
+54;b moll;62;gigue de Visée;;p. 63-64 vacuat;Th;Conc_4628;6/4;"[,c,,,c1] [cc{5}] c ,,c | V[,,deec3/2] ,,f/ [,,d,,c1] '[,,c,,a] V,,d ([,,c{a}/] ,,a) | \
+X[,,h{,a}3/2] {,,a}/ [,,h{,,,a}1] '[,,f{4}3/2] ,,,h/ ',,,g1 | \
+V[,,,h{5}3/2] ,,f/ [,,h{6}1] [,,aa{7}] {a}/ ,,d (,,c ,,a) |"
+55;G dur;65;prelude de Visée;;;Th;Conc_5213;none;"{7}3/2 z/4 ,,,,a/4 ,a ,c ,,,a a ,,a d ,,d3/2 \
+z/4 {a}/4 {,a} {,,a} {,,,a} {4} {5} {6} {7}3/2 \
+z/4 ,,,a/4 a ,,a ,,,f f ,,f ,,h V,,i"
+56;F dur;66;courante de Visée;;;Th;Conc_2494;2/3;",,i/ | [,,ih{a}1] {7}3/4 ,,h/4 ,,f1 ([f{a}/] d) '[d{,a}3/2] ,,a/ | \
+[,,aaa{a}3/2] ,,b/ V,,d1 '[a{,a}3/2] ,,a/ ([,,,c{,,a}] ,,,a) | \
+'[,c{,,,a}3/2] (,,,,c/ ,,,,a) {4} X[,e{5}1] ',,,,a3/2 ,,,,a/ |"
+57;G dur;67;gavotte de Visée rondeau;;;Th;Conc_3860;C;"(,,d/ ,,b) (c a) | V[c{a}1] [da{4}] '[ac{,,,a}] ,,,,a3/4 ,,d/4 | \
+[,,a{a}1] [,,aa] [da{4}/] (c a) ,d | '[,c{,,,a}1] V[,d{,,a}3/4] a/4 a3/2 ,d/4 a | \
+[,d{a}1] {7} ||"
+58;G dur;68;muzette de Visée;;;Th;Conc_4616;6/8;"[,,aa{a}3/4] d/4 f/ | '[d{,a}3/2] [,,aa{a}3/4] d/4 ,,a/ | \
+'[a{,,,a}1] ,d/ '[,c,,a1] [,d,,c/] | [a,,,e3/4] ,a/4 ,,,,a/ [,,aa{a}3/4] d/4 ,,a/ | \
+'[a{,,,a}3/2] [,,aa{a}3/4] ,,b/4 ,,d/ |"
+59;g moll;70;La converssassion allemande de Visée;;;Th;Conc_2516;C;",,,a/ | [,,,aab{a}1] {7}2 X,d3/4 a/4 | V[bd,a1] ',c/ a ,d b ,,,c ,,b | \
+[,,dda{a}1] ,,,d/ ,,d [,,dc{,a}1] {,,a}3/4 ,,i/4 | \
+'[,,h{,,,a}1] ,,,h3/4 [,,h,h/4] X[,,i,i3/2] ,,,f/ |"
+60;g moll;72;gigue de Visée;;;Th;Conc_4608;6/4;"X[,,i{7}3/2] ,,h/ ,,i1 ,,d ,,e (,,d/ ,,b) | \
+[,,dd3/2] ,,,c/ ,,,d1 [,,ea] '[,,bc] [,,d,e] | \
+'[b,,a3/2] [a,,,e/] V[b,,a1] '[,c,,a] V[,d,,b] [a,,,,d] |"
+61;g moll;73;prelude de Visée;;;Th;Conc_5214;none;",,,,a/4 X[,d,a3/4] [ac/4] V[bd{7}3/2] [ac/] V[bd3/4] [,,bc/4] [,,dd{a}1] {7}2 \
+,,e/4 ,,d) d ,,,d (,f ,d) {,,,a}3/4 ,,,,e/4 ,d1 {4}3/4 a/4 ,,,,a3/4 ,,,,a/4 \
+X,d3/4 {6}/4 {7}3/4 ,b/4 [,bdaac1]"
+62;g moll;74;gigue de Visée;;;Th;Conc_4598;6/8;",,d/ | '[b{7}3/4] a/4 ,,,a/ [,,d{a}] {,a} [,,i{,,a}] | \
+'[,,h{,,,a}3/4] ,,i/4 ,,l/ ,,,h {4} {,,,a} | \
+{5}/ ,,,h ,,i {6} ,,,f ,,h |"
+63;g moll;75;gavotte de Visée;;;Th;Conc_4609;C;"[,d,a1] [a,,,e] | V[b,,a1] ([b{a}/] d) '[a,,,,d1] ,d/ a | \
+'[,c{,,,a}1] (,,,,c/ ,,,,a) d1 '[ac,,a] | \
+V[bd{a}1] (d/ b) '[a{,a}1] [,d{,,a}] | [,cdc{,,,a}2] ||"
+64;G dur;76;Les Sylvains;;p. 77-79 vacuat;Th;Conc_2496;C;"[,,d{7}1] | '[,,a{a}2] '[a{,,,a}] | V[,d{7}2] {a}1 [,,,,a{,a}1] | \
+[,d{,,a}1] [a{,a}] '[,,a{a}] V[,,b,,a] | \
+[,,d,,c1] ,,,,,d [a,,,a] [,,d{,,,a}] | '[,,a{a}2] '[a{,,,a}] |"
+65;;80;chaconne de galatée;;;Th;Conc_5222;3;"{6}1 '[,,ccca3/2] ,,d/ | V[,,f{a}1] '[ca] {a}3/4 ,,f/4 | \
+[aa{,a}1] [ac,,b3/2] ,,a/ | '[,,bc{,,a}3/2] ,c/ [,a,,c1] | \
+{6}1 '[,,ccca3/2] ,,d/ | V[,,f{a}1] '[ca1] {a}3/4 ,,f/4 |"
+66;d moll;82;Les matelots de marais;;;Th;Conc_2525;6/4;"[,,,,aVf{,,,a}2] a1 [ab,,a2] ,d1 | X[,b,,a{,,,a}3] '[,,,ac] | \
+[ab{,,,a}2] [,d,,c1] '[,b,,a2] [,a,,,e1] | V[,b{,,,a}2] ,,,,c1 ',,,,a2 ,,,,,e1 | \
+[,,,,aVf{,,,a}2] a1 [ab,,a2] [,d,,c] | \
+X[,b,,a{,,,a}3] '[,,,ac] |"
+67;;83;heureux [q]ui peut plaire de Mr de Lully;;p. 84 vacuat;Th;;3;"[ab,,a1] | V[bd{a}3/2] ,f/ '[,d,,,d1] | V[,f,,d1] [,f{,a}] ([,b,,,b/] ,d) | \
+'[,,,ac{a}3/2] b/ '[,a,,,a1] | V[,b,c{,,,a}2] [,bd,a1] | \
+[,,da1] ',,b ,,,,c3/4 ,,b/4 | [,,bcd2] [db{,a}1] |"
+;;;Barocklaute;baroque lute;;;;;
+68;a moll;85;[La belle homicide];Gaultier;;;Conc_8;3/4;"e/ ,c ,d | '[,c,,,a1] ,,a3/2 ,e/ | [c,,c1] ,,,a/ ,,a e e | \
+'[d,d,c1] {,,a}3/2 e/ | [e,,,,a1] ,,,e/ ,,d ,c ,e |"
+69;a moll;86;[Courante de du But];Dubut;;;Conc_157;3/4;",c1 | [,ca,,a3/2] ,c/ ,e c | Ve1 ,,,c ',,,a/ e | \
+'[d,,,c1] ,c [ec,,,d] | ,,,,a1 [e,c,c3/2] d/ | \
+V[e,,,,a1] ,,a/ g Vh1 |"

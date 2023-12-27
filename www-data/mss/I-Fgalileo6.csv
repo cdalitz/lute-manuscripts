@@ -1,0 +1,898 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+;Parte prima;;Libro d'intauolatura di liuto, nel quale si contengono i passemezzi, le romanesche, i saltarelli, et le gagliarde et altre cose ariose composte in diuersi tempi da Vincentio Galilei;;;;;;;
+1;;1;Passemezo Primo;Vincentio Galilei;;OT;;C;"[aabc1] ,,,,,a a c | \
+[da,c1] c/ a [ca,b1] ,,d | \
+[aabc1] ,,,,,a [aab] ,,,,,c | \
+[aab,,d1] ,,,,a [,ab,c] ,,,,e | \
+[,ddef1] f ,,a/ d c a |";italian7tab
+2;;2;sopra il medesimo;Vincentio Galilei;ne segue un altro á 256;OT;;C;"[aabc2] ,,,,,a1 c | \
+[da,c2] [ca,b] | \
+[aabc2] ,,,,,a1 ,,,,,c | \
+[aab,,d1] ,,,,a [,ab,c] ,,,,e | \
+[,ddef2] f | \
+[e,,a1] d c a | \
+[cdda1] a ,d/ ,c ,a ,c |";italian7tab
+3;;4;Romanesca prima;Vincentio Galilei;;OT;ConcR2705;3;"[,ab3/2] ,c/ ,d1 a [,db] ,c/ ,a | \
+[,,de1] ,d f [cd] ,,d ,a | \
+[d,,c1] ,,b [c,da] [,df,c] [a,,cd] ,,d/ c |";italian7tab
+4;;4;sopra la medesima;Vincentio Galilei;;OT;;3;"[aabc1] ,,,,,a/ c [d,,c] ,a | \
+[c,,b/] ,,d [aabc] ,,d ,a ,c | \
+[cdda/] ,,a/4 ,,b ,,d/ f ,,a d | \
+c/ a [c,da]";italian7tab
+5;;5;sopra la medesima;Vincentio Galilei;;OT;;3;"[aabc3/4] c/4 d/ a [ca,b] ,,d | \
+[,abc/] h [a,,f] ,,d [d,f] ,c | \
+[cdda3/4] ,,b/4 ,,d/ ,a ,,d/4 ,,b ,,a ,,,c |";italian7tab
+6;;7;sopra la medesima;Vincentio Galilei;ne segue un altra á 111;OT;;3;"[aabc3/4] c/4 d/ a [f,de] ,e | \
+[dffc3/4] f/4 [h,,f/] ,,,h ,,f ,,h | \
+[fhi,f3/4] ,,h/4 ,,f/ ,,,h/4 ,,,f ,,,,k/ ,,,,h |";italian7tab
+7;;9;Saltarello primo;Vincentio Galilei;sono in tutto 21 modi diversi;OT;;3;"[aac,,a1] ,,,c/ ,,a ,,c [c,d] | \
+[ea,c/] c a ,,,a [a,,,e] ,,e | \
+[,ef/] ,c ,e a c ,,d | \
+[aac1] [acd] [,ede] |";italian7tab
+8;;10;Passemezzo secondo;Vincentio Galilei;;OT;;C;"[bbcd1] ,,,,,b/ d | \
+[eb,d/] d/4 b [db,c/] ,,e | \
+[bbcd/] ,e/4 ,d ,b ,,e ,,c ,,b | \
+[bbcd/4] ,e ,b ,d ,e b d e |";italian7tab
+9;;12;Romanesca seconda;Vincentio Galilei;;OT;;3;"[bbcd1] ,,,,,b/ d [eb,d1] | \
+[db,c1] [bbcd/] ,,e [eb] ,d | \
+[deeb1] ,d/ ,b ,,e ,,c | \
+,,b/ ,,,d [deeb] e g d |";italian7tab
+10;;13;Saltarello secondo;Vincentio Galilei;sono in tutto diciotto modi diversi;OT;;3;"[bbd,,b1] ,,,d/ ,d ,b ,,e | \
+,,d/ ,,b [bbdd] ,,,c [b,,a] ,a | \
+[abb,d/] ,d a [b,,a] [dbbc] ,,d | \
+,,e/ ,,b [fb,d]";italian7tab
+11;;14;Passemezzo terzo;Vincentio Galilei;;OT;;C;"[ccde1] ,,,,,c/ e | \
+[fc,e/] e/4 c [ec,d/] ,a | \
+[ccde/] ,,c [f,d,,c] [,a,,,e] | \
+[ec,,a/] ,,,,c [c,,,e] ,,,b | \
+[aacc/] ,d/4 ,c ,a ,,d ,,c ,,a |";italian7tab
+12;;15;Romanesca terza;Vincentio Galilei;;OT;;3;"[ac,,a1] ,,d/ ,d ,c ,a | \
+[acd1] [aac] [,ede] | \
+[aacc1] ,,,,,a/ ,,d ,,c ,,a | \
+[aacc/] ,d ,c ,a ,,d ,,c |";italian7tab
+13;;16;sopra la medesima;Vincentio Galilei;;OT;ConcR2706;3;"[,,de1] ,c f | \
+[ea1] ,c [ce] | \
+[ef1] ,,,c [,ac] | \
+[,cd1] [,a,c] [a,c] | \
+[c,d1] ,a [ac] | \
+[,,cc1] [c,aa] ,a | \
+[bc,,e1] [e,,d] [fca] |";italian7tab
+14;;17;Saltarello terzo;Vincentio Galilei;sono in tutto diciotto maniere diverse;OT;;3;"[cce,,c1] ,,,e/ ,f ,e ,c | \
+[cef,c/] ,,,,e ,,,,g [,cde] [,cab] ,b | \
+[,ccde/] ,e b c [ec,d] ,a | \
+[ccee1] [,cc,e/] c [bc1] |";italian7tab
+15;;18;Passemezzo quarto;Vincentio Galilei;;OT;;C;"[ddef/] ,g/4 ,f ,d ,,g ,,e ,,d | \
+[,def/] d [fc,e] ,,g | \
+[ddef/] ,,,d/4 ,,,,g ,,,,f ,,,,d ,,,,,g ,,,,,f | \
+[dde,,d/4] ,,,,,f ,,,,,g ,,,,d";italian7tab
+16;;20;Romanesca quarta;Vincentio Galilei;;OT;;3;"[bde,b3/2] [bde/] ,,e1 | \
+[bde,b/] ,,,,a [bde,b] ,,,,d ,,,a ,,,c | \
+[bbdd1] ,,,,,b/ ,d ,b ,,e | \
+[bbdd/] ,e ,d ,b ,,e ,,d |";italian7tab
+17;;21;Saltarello quarto;Vincentio Galilei;sono in tutto 17 maniere diverse;OT;;3;"[,ab,,d1] ,d/ ,b [,ab] ,c | \
+[,dde1] [,dbc] ,c | \
+[,dda1] ,b/ ,a [,,dcd] ,,b | \
+[,,bac1] [,bb,a] ,,a | \
+[da,a,d1] c/ a ,d ,b |";italian7tab
+18;;22;Passemezzo quinto;Vincentio Galilei;;OT;;C;"[eefg3/4] g/4 h/ [g,ef] | \
+[,efg3/4] g/8 e [,ee,g/] d | \
+[eefg/] ,h/4 ,g ,e ,,h ,,f ,,e | \
+[eef,,e/4] ,,,,,g ,,,,,h ,,,,e ,,,,g ,,,,i ,,,e ,,,g |";italian7tab
+19;;24;Romanesca quinta;Vincentio Galilei;;OT;;3;"[ce,,c1] ,,f/ ,f ,e ,c | \
+[cef1] [cce] [bac] | \
+[ccee1] ,,,,,c/ ,,f ,,e ,,c | \
+[ccee/] ,f ,e ,c ,,f ,,e | \
+[e,f,ge1] ,,,g1/ g [hef,,e1] |";italian7tab
+20;;25;Saltarello quinto;Vincentio Galilei;sono in tutto 17 maniere diverse;OT;;3;"[,egg,e1] e/ g [ie,g1] | \
+[ge,f/] ,,h [eb,d] ,,e ,b ,d | \
+[deeb/] ,,,d ,,b ,,c ,,e ,b | \
+[bcc,e/] ,e b/4 d [eb,c/]";italian7tab
+21;;26;Passemezzo sesto;Vincentio Galilei;;OT;;C;"[abd,a1] ,,d/ ,d | \
+[abd,a1] [,a,c,e] | \
+[abd,a1] ,,d/ d | \
+[c,,a/] a ,d ,b | \
+[,ab,,d1] ,,,a/ ,,d | \
+,a/ ,c ,d ,b |";italian7tab
+22;;27;sopra il medesimo;Vincentio Galilei;;OT;;C;"[abd,a3/4] b/4 a/ ,d | \
+[,b,ca/] ,,d [,a,c] ,,c | \
+[abd,a/] ,,a/4 ,,c ,,d ,a ,b ,d | \
+[a,,,a/4] ,b ,d a b a ,d ,b |";italian7tab
+23;;29;sopra il medesimo;Vincentio Galilei;;OT;;C;"[abd,a3/4] b/4 a/ [,d,d] | \
+[,b,c/] ,a/4 ,,,a [,,d,d/] [,,c,c] | \
+[abd,a/4] ,,c ,,d ,a ,b ,d a b | \
+[abd,a/] ,d/4 a b a ,d ,b |";italian7tab
+24;;31;sopra il medesimo;Vincentio Galilei;;OT;;C;"[abd,a3/2] b/ | \
+a/ ,d ,b ,a | \
+,,d/ ,a [,b,,a] ,,,,c | \
+[a,,,d/] ,,,a [,b,c] ,,,e | \
+[,dff/] d c a | \
+[,d,,c/] ,b [,a,a] ,,d |";italian7tab
+25;;32;sopra il medesimo;Vincentio Galilei;ne segue un altro a 236 et 114;OT;;C;"[abd,a3/4] ,d/4 ,b ,a ,,d ,,c | \
+,,d/4 ,a ,b ,,d [,a,c/] [a,c] | \
+[,bdca/4] ,d ,b ,a [a,d] ,,c ,,d ,a |";italian7tab
+26;;34;Romanesca sesta;Vincentio Galilei;;OT;;3;"[abb,d3/2] c/ d1 | \
+c1 [a,,,d] ,d/ ,b | \
+[,ab,,d3/2] ,c/ ,d1 | \
+a1 [,d,,,d] ,b/ ,a | \
+[,bd,a/] ,,c ,,d ,a ,b1 | \
+[,acc1] [,,dd] [,,da] |";italian7tab
+27;;35;sopra la medesima;Vincentio Galilei;;OT;;3;"[abb,d/] c d f d/4 c a ,d | \
+,b/4 ,a ,,d ,,b ,,d ,a ,b ,d a c d f | \
+[hd,f/] f h d [li,k] i |";italian7tab
+28;;37;sopra la medesima;Vincentio Galilei;;OT;;3;"[abb,d1] ,,,c/ ,d ,b ,a | \
+[abb,d3/4] c/4 d/ [,b,a] [,a,c] [,,de] | \
+[,dff1] ,,,,,d/ ,,g ,,f ,,d | \
+[,dff/] ,,,e [,d,c] ,,,a [,d,,d] ,,,,c |";italian7tab
+29;;38;sopra la medesima;Vincentio Galilei;;OT;;3;"[abb,d3/2] c/ d1 | \
+b1 [a,,,d] ,d/ ,b | \
+[,,ff1] ,,,,,d ,d | \
+[,,de1] [,bbc] [,aaa] | \
+[,,,cd1] [a,d] [,,,ac] | \
+[,db1] [,b,ca] [,,de] | \
+[,acc1]";italian7tab
+30;;39;sopra la medesima;Vincentio Galilei;ne segue un altra a 268;OT;;3;"[abb,d3/] c/ [d,,c] [f,a] | \
+[d,b/] [c,d] [a,b,d] [,,aa] [,,bc] [,,de] | \
+[,dff/] ,,d [,,f,,d] [,c,,a] [,d,,c] ,,b | \
+,,a/ ,,,c [,a,a,d] ,,,,a ,,,,c ,,,,,d |";italian7tab
+31;;40;Saltarello sesto;Vincentio Galilei;;OT;;3;"[acd,a1] ,,d/ ,d ,c1 | \
+[aacc1] [a,de] ,e | \
+[aacc1] ,c [,a,a/] ,,d | \
+[a,d,e/] ,,,,c/4 ,,,,a [,,,,ca/] ,,c ,,d/4 ,,c ,,a ,,c |";italian7tab
+32;;41;Passemezzo settimo;Vincentio Galilei;;OT;;C;"[bce,b3/2] c/ | \
+b/ ,e ,c ,b | \
+,,e/ ,b [,c,,b] ,,,,d | \
+[b,,,e/] ,,,b [,c,d] ,,b | \
+[,egg/] e d ,g | \
+[,e,,d/] ,c [,b,b] ,,e |";italian7tab
+33;;43;Romanesca settima;Vincentio Galilei;;OT;;3;"[bcc,e1] e/ d [b,c] ,e | \
+,c/ ,b [,c,de] ,,,b ,,,d ,,,f | \
+[,egg1] ,,,f/ ,,,d ,,,,g ,,,,e | \
+,,,,d/ ,,,,,g [,egg,e] ,,h ,e ,,g |";italian7tab
+34;;44;Saltarello settimo;Vincentio Galilei;;OT;;3;"[,dedb1] b/ ,e ,d ,,e | \
+[bbd1] [b,ef] a | \
+[bbdd1] ,e/ ,d [,b,b] ,,e | \
+,,d/ ,,b [bbd,,b] ,,e ,b ,,d |";italian7tab
+35;;45;Passemezzo ottavo;Vincentio Galilei;;OT;;C;"[,da,c3/4] [,c,c/4] [,a,a/] ,,e/4 ,,,,e | \
+[,aaac/] ,c/4 ,,,,b [,da,c/] [a,,ce] | \
+[cd,ac/] [,,,ce] [,,,ac] [a,,,eg] | \
+[,da,c/] ,,,c/4 d [cda/] [aac/4] ,d |";italian7tab
+36;;46;sopra il medesimo;Vincentio Galilei;ne segue un altra a 290;OT;;C;"[,da,c3/2] ,c/ | \
+,a/ ,,e ,a ,c | \
+[,da,c/] a c ,,,,e | \
+[c,,a/] ,,,c [,da] ,,c | \
+[acd1] ,,,,a/ f | \
+[ea/] c [a,c] ,d |";italian7tab
+37;;48;Romanesca ottava;Vincentio Galilei;;OT;;3;"[c,da1] ,d/ a c1 | \
+[a,d,e1] [,dd,c] ,,c | \
+[acd,a1] ,,d/ ,d ,c ,a | \
+[acd,a1] c/ a ,d ,c | \
+[,da,c/] ,c ,a ,,e ,a ,c |";italian7tab
+38;;49;sopra la medesima;Vincentio Galilei;;OT;;3;"[c,da1] ,d/ a c1 | \
+[a,d,e1] [,da,c] [,ac] | \
+[acd,a/] ,,d a ,d ,c ,a | \
+[acd,a3/4] ,a/4 ,,d/ ,d a ,d/4 ,c |";italian7tab
+39;;50;sopra la medesima;Vincentio Galilei;;OT;;3;"[cd1] [fc] [ea] | \
+[c,def1] [acd,e] [,dcac] | \
+[,,dca1] [fc] [a,d] | \
+,c1 [,,,ca] [a,d,e] | \
+[,da,c1] [,ac] [,cd] | \
+[f,a1] [ea,c] [b,c] | \
+[ccee1] ,,,,,c [,c,e] |";italian7tab
+40;;51;sopra la medesima;Vincentio Galilei;ne segue un altra a 265;OT;;3;"[c,da/] ,a/4 ,c ,d/ a c e | \
+[f,a/] e [c,,a] ,,,c [,da] ,,c | \
+[acd/] ,,c/4 ,,a ,,,c/ ,,,a [,,d,e] ,,,,c |";italian7tab
+41;;52;Saltarello ottavo;Vincentio Galilei;;OT;;3;"[,aabc1] c/ a ,e ,c | \
+[,ea,c/] ,c ,a ,,,,a [,a,,,e] ,,,d | \
+[,cee,c1] ,,,c/ ,,,b ,,,,e ,,,,c | \
+[c,e,ec/] ,,c [,c,e] ,,,c [c,,,g] ,,,,e |";italian7tab
+42;;53;Passemezzo nono;Vincentio Galilei;;OT;;C;"[deg,d1] ,,g/ ,d | \
+,e/ ,,g [ddff] ,g | \
+[deg,d/] ,d ,,g ,d | \
+[,e,,d1] ,g d f | \
+[gd,d,g1] f/ d | \
+[,g,f/] ,e [,d,d] ,,g |";italian7tab
+43;;55;Romanesca nona;Vincentio Galilei;;OT;;3;"[d,eb1] ,e/ b [deeb1] | \
+[b,ea1] [,eb,d] ,,d | \
+[bde,b1] ,,e/ ,e ,d ,b | \
+[bde,b1] d/ b ,e ,d | \
+[,eb,d/] ,,,d ,,b ,,d [,dedb] ,e |";italian7tab
+44;;56;sopra la medesima;Vincentio Galilei;;OT;;3;"[d,eb1] ,e/ b [deeb1] | \
+[,ge,f1] [,eb,d] ,,d | \
+[bde,b1] ,,e/ ,e ,d ,b | \
+[bde,b/] d b ,d ,e b | \
+[,eb,d/] ,d ,b ,,f ,b ,,,,b |";italian7tab
+45;;57;Saltarello nono;Vincentio Galilei;;OT;;3;"[abb,d1] ,,,c/ ,d ,b ,,e | \
+[bbdd1] ,,,,,b/ d [fb,d] ,,,e | \
+[ddff1] [,g,,,d/] ,f [,d,d] ,,g | \
+,,f/ ,,d [ddff] ,,g ,d ,,f |";italian7tab
+46;;58;Passemezzo decimo;Vincentio Galilei;;OT;;C;"[a,c,e1] ,c/ ,e | \
+a/ c e c | \
+[acc,e/4] ,e ,c ,b ,c ,e a c | \
+[ec,ce/4] ,,,b ,,,c ,,a ,,c ,,e ,a ,c |";italian7tab
+47;;60;Romanesca decima;Vincentio Galilei;;OT;;3;"[aacc1] ,,,,,a/ c [ea,c1] | \
+[ca,b1] [acc,e] ,,e | \
+[,efec1] c/ ,f ,e ,c | \
+[cef,c1] e/ c ,f ,e | \
+[acc,e/] ,e ,c [eb] ,,e [cb] |";italian7tab
+48;;61;Saltarello decimo;Vincentio Galilei;;OT;;3;"[,ghge/] ,h e ,,,,g ,,,,i ,,,f | \
+[eegg1] [,,e,g/] ,,,g [,ie1] | \
+[eegg1] ,h/ ,g [,e,e] ,,h | \
+,,g/ ,,e [eegg] ,,h ,e ,,g |";italian7tab
+49;;62;Passemezzo undecimo;Vincentio Galilei;;OT;;C;"[b,da3/4] d/4 f/ g | \
+f/ d b a | \
+[b,da/4] a ,d ,c ,d a b de | \
+f/4 ,,,c ,,,d ,,b ,,d ,a [db] [bd] |";italian7tab
+50;;64;sopra il medesimo;Vincentio Galilei;;OT;;C;"[bdda/] d f g | \
+f/ d b a | \
+[bdda/4] a ,d ,c ,d a b d | \
+f/4 d b a d b a ,d |";italian7tab
+51;;66;Romanesca undecima;Vincentio Galilei;;OT;;3;"[,,dd1] ,b b | \
+[d,bc1] [,,da] [ba] | \
+[abb,d1] d [ab] | \
+[b,d1] [dabc] [ac] | \
+[bdda1] f [,,,,df] | \
+[dfg,d1] [fd,df] [e,f] | \
+[fc,ca1] [a,d] ,c |";italian7tab
+52;;67;Saltarello undecimo;Vincentio Galilei;;OT;;3;"[,dda1] c/ a ,d ,b | \
+[,ab,,d1] ,,,a/ ,c [,dc,c1] | \
+[acd,a3/4] ,d/4 ,c/ ,a ,,d ,,b | \
+[,,da,c1] [,aba,d] [,cdca] | \
+[,ddef3/4] a/4 c/ a";italian7tab
+53;;68;Passemezzo dodicesimo;Vincentio Galilei;;OT;;C;"[heeg1] ,e/ ,g | \
+,h/ e g e | \
+[heeg/] ,g ,e ,,h | \
+[,e,e/] ,,,g [,he] ,,g | \
+[,ghge/] e ,g ,h | \
+e/ g e ,h |";italian7tab
+54;;69;Romanesco dodicesima;Vincentio Galilei;;OT;;3;"[ccee3/2] e/ [gc,e1] | \
+[ec,d1] [c,eb/] ,,c ,,e ,b | \
+[bcc,e1] e/ g e c | \
+b/ ,e [bdd,e] ,,,,d ,,,,b ,,,,,e |";italian7tab
+55;;71;Saltarello dodicesimo et ultimo;Vincentio Galilei;;OT;;3;"[deeb/] e d b ,e ,c | \
+[,bcb,e/] ,,e ,b ,d [,eb,d] ,,d | \
+[,cedb/] ,e b d [e,,,d] d | \
+[b,c/] ,e [,,edb]";italian7tab
+56;;72;Romanesca undecima con cento parti;Vincentio Galilei;;OT;;3;"[bbd,,b1] ,,,d/ ,,b [,bd1] | \
+[,bbc1] [bbda] ,a | \
+[abb,d1] ,,,c/ ,d ,b ,a | \
+[,,de/] ,a [abb,d] b d a | \
+[b,da3/4] d/4 b/ a ,d a |";italian7tab
+57;;111;sopra la medesima Romanesca;Vincentio Galilei;;OT;;3;"[dab,,d3/2] [dab/] ,,,a1 | \
+[dab,,d/] ,,,,,c [dab,,d] ,,,,a [dab,c] ,,,,e | \
+[cdda/] d c a ,d a | \
+[cdda/] ,,,c ,,a ,,b ,,d ,,a |";italian7tab
+58;;112;sopra il medesimo passemezzo 11°;Vincentio Galilei;;OT;;C;"[b,da1] ,d/ a | \
+b/ d f d | \
+[bdda/4] a ,d ,c ,d a b d | \
+[f,,a/4] ,,,c ,,,d ,,b ,,d ,a ,b ,d |";italian7tab
+59;;114;Passemezzo 6°;Vincentio Galilei;;OT;;C;"[abd,a3/4] ,,c/4 ,,d/ ,a [,b,,a] ,,d [a,,,,e] ,d | \
+[,bdca/] ,,,,c ,,,,d ,,,a [,b,c] [a,,,d] [,d,,c] [,b,,a] | \
+[,aba,d/] d c a [,db] ,b";italian7tab
+60;;119;La Matriciana;Vincentio Galilei;;OT;;3;"z2 [aacc1] | \
+[aacc1] ,,,,,a/ c [ea,c1] | \
+c/ a [ca,b] ,,d ,,a1 | \
+[aacc3/2] ,,d/ ,,c ,,a | \
+[aac,,a1] ,,,c [ea,,,a] | \
+[fc,ca3/2] e/ [ccd,,c1] |";italian7tab
+61a;;120;Sopra l'aria del gazzella, con XII parti;Vincentio Galilei;;OT;;3;"[aacc2] [aacc1] | \
+,,a1 [aac,,a] ,,,c | \
+[acd,a/] ,,c ,,d ,a [ac1] | \
+[,ab1] [,,de] [a,bc] | \
+[cdda/] ,c ,d a [c,da1] | \
+[f,a1] [dabc/] ,,,,,a [a,,,,d] ,,,,a |";italian7tab
+61b;;121;Seconda parte;Vincentio Galilei;;OT;;3;"[aac,,a1] ,,,c [aac] | \
+,,,a1 [a,d,e] ,,,,c | \
+[acd,a/] ,a ,,d ,,c ,,d ,a | \
+[,c,,,d/] ,d [a,,,,c] ,c [,d,,,a] a | \
+[cdda/] ,c ,d a";italian7tab
+61c;;122;Terza parte;Vincentio Galilei;;OT;;3;"[aacc3/2] c/ e1 | \
+,,,,,a/ c a ,,,a [a,,,e] ,,,,c | \
+[acd,a/] f e c a ,d | \
+[,c,,a/] ,a ,,d ,,b ,,a ,,,c |";italian7tab
+61d;;123;Quarta parte;Vincentio Galilei;;OT;;3;"[ffgh/] ,h e f h e | \
+[h,,a/] f [e,,ce] c [a,c,c] ,d | \
+[acd,a/] f e c [a,c] ,d | \
+[,c,,,d/] ,a";italian7tab
+61e;;124;Quinta parte;Vincentio Galilei;;OT;;3;"[,acc/] e a c [e,,,,a] ,,c | \
+,,,c/ ,,a [aacc] ,,,a ,,,,e ,,,,c | \
+[,cd,a/] f c e [fc] ,,d | \
+,,a/ ,,c [a,d,a] ,,,,,d ,,,,,c ,,,,,a |";italian7tab
+61f;;125;Sesta parte;Vincentio Galilei;;OT;;3;"[aacc/] ,d/4 ,c ,a ,,d ,,c ,,a [,acc/] a | \
+[ca,b/] ,,d [e,cc] [a,,a] [c,d,e] [ea,ac] | \
+[fc,ca/] e/4 c a ,d ,c ,a";italian7tab
+61g;;126;Settima parte;Vincentio Galilei;;OT;;3;"[aacc3/2] ,c/ ,a ,,d | \
+,,c/ ,,a [aacc] ,,,,e ,,,a ,,,c | \
+[acd,a3/2] ,d/ ,c ,a | \
+,,d/ ,a [acd,a] ,,,,,c ,,,,,d ,,,,a |";italian7tab
+61h;;127;Ottava parte;Vincentio Galilei;;OT;;3;"[e,fc/] ,f ,e ,c [,a,,,a] ,,d | \
+,,c/ ,,a [effc] ,,,a [,,,ce] ,,,,c | \
+[fc,ca/] ,,d ,,c ,,a ,,,c ,,,a | \
+[f,,,e/] ,,,,c ,,,,a ,,,,,d ,,,,,c ,,,,,a |";italian7tab
+61i;;128;Nona parte;Vincentio Galilei;;OT;;3;"[aac,,a/] c e ,,,c [ca,b] ,,d | \
+[aacc/] ,,a ,,c ,,,a [,,,ce] ,,,,c | \
+[fc,ca/] h k [fh] [,ffc] e | \
+[fcd,a/] ,a ,c [,a,,,d] [,,d,,c] [d,,,,a] |";italian7tab
+61j;;129;Decima parte;Vincentio Galilei;;OT;;3;"[aacc/] ,c ,a ,,d [c,c] ,,a | \
+[ea,c/] ,,,e ,,,c ,,,a [,,,ce] ,,,,c | \
+[fc,ca/] e/4 c a ,d ,c ,a ,,d ,,c ,,a ,,c |";italian7tab
+61k;;130;Undecima parte;Vincentio Galilei;;OT;;3;"[aacc/] c e ,,a [,,c,,a] ,,a | \
+[,a,c/] c a ,,,a [a,d,e] ,,,,c | \
+[,cdca/] ,d [a,d] ,,,a ,,,c ,d | \
+[,c,,a/] ,,,a [a,d,e]";italian7tab
+61l;;131;Duodecima parte et ultima;Vincentio Galilei;;OT;;3;"[aacc/] e a e [ca,b] ,,d | \
+[aa,c/] ,,c [e,,c] ,,,a [ac,,e] ,,,,c | \
+[,cd,a/] f [ea] c [a,c] ,d | \
+[,c,,a/] ,a [a,d]";italian7tab
+;Parte seconda;;nella quale si contengono altri Passemezzi, et Romanesche;;;;;;;
+62;;133;Introito in materia del primo passemezo;Vincentio Galilei;;OT;;C;"[aac,,a/] ,,,c [aac] [,,de] | \
+[,acc/] [a,,,,a] [ca,b] ,,d | \
+[eac,,a/] ,,c [aac] [,ede] | \
+[aacc/] ,,,a [acd,e] ,,,,c | \
+[ac,,a/] ,,d [ac] [,ac] |";italian7tab
+63;;133;sopra il medesimo;Vincentio Galilei;;OT;;C;"[aac,,a1] ,,,c/ ,,d | \
+,a/ ,c [ca] ,,d | \
+[eac,,a/] ,,a ,,,c ,,a | \
+[ea,c,a/] c [a,,,,e] ,d | \
+[acd,a/] ,a ,,d ,a |";italian7tab
+64;;135;sopra il medesimo;Vincentio Galilei;ne segue n'altro a 264;OT;;C;"[aac,,a1] ,,,c/ ,c | \
+[,a,b/] ,,d ,,c ,,a | \
+[a,c,ca/] ,,,,e ,,,,c ,,,,a | \
+[aa,c,e/] ,,,a ,,,,e ,,,,c | \
+[acd,a/] f e c |";italian7tab
+65;;137;in materia della prima Romanesca;Vincentio Galilei;è scritto il suo saltarello à 9;OT;;3;"[aac,,a1] ,,,c/ ,c ,a ,,d | \
+,,c/ ,,a [aacc] ,,,a [,,,ce] ,,,,c | \
+[acd,a/] f e c [a,c] ,d | \
+[,c,,a/] ,a [acd]";italian7tab
+66;;138;in materia del secondo passemezo;Vincentio Galilei;;OT;;C;"[bbd,,b1] ,,,d/ d | \
+[fb,d/] d/4 b [db,c/] ,,e | \
+[bbdd/] ,,e ,,d ,,b | \
+[bbdd/] ,,,b [b,,a] ,,,,d | \
+[bde,b/] ,,b/4 ,,d ,,e ,b ,d ,e |";italian7tab
+67;;140;in materia della seconda romanesca;Vincentio Galilei;è scritto il suo saltarello a carta 13;OT;;3;"[bbd,,b1] ,,,d/ ,d [,b,c] ,,e | \
+[,,d,d/] ,,b [b,dd,b] ,,,b ,,,,f ,,,,d | \
+[bde,b1] ,,d/ ,,b ,,,d ,,,b | \
+[,,e,f/] ,,,,d [bd,,b] ,,,,d [,,e,f] ,,,c |";italian7tab
+68;;141;in materia del passemezo 3°;Vincentio Galilei;;OT;;C;"[cce,,c1] ,,,e/ ,,f | \
+,c/ ,e [,c,d] ,,f | \
+[ccee/4] ,,c ,,,e ,,c ,,e ,,f ,c ,e | \
+[,c,,,c/4] ,,f ,,e ,,c ,,,e ,,,c ,,,,g ,,,,e |";italian7tab
+69;;143;in materia della romanesca 3a;Vincentio Galilei;è scritto il suo saltarello à 17;OT;;3;"[cce,,c] ,,,e/ ,,f ,c ,e | \
+[,c,d/] ,,f [ccd,,c] ,,c ,,,e ,,,c | \
+[ca,bc1] ,e/ ,c [,a,b] ,c | \
+[,ea,c/] ,,,,e [,a,b] ,,,c [,ea] ,,c |";italian7tab
+70;;145;in materia del Passemezzo 4°;Vincentio Galilei;;OT;;C;"[,aba,d3/4] ,b/4 ,d/ a | \
+[,db/] ,b ,d/4 ,b ,a ,,d | \
+[,aba,d/4] ,,d ,,b ,,a ,,,c ,,a ,,b ,,d | \
+[,aba,d/4] ,b ,d ,b";italian7tab
+71;;147;in materia della Romanesca 4°;Vincentio Galilei;è scritto il suo saltarello à 21;OT;;3;"[,aba,d3/2] ,b/ [,d,,c1] | \
+[a,,,d1] [,db,c] ,b/ ,d | \
+[abb,d3/2] c/ [d,,c1] | \
+[b,da1] [abb,d] ,d/ ,b | \
+[,aba,d3/2] ,b/ [,d,,c] ,,b | \
+[,,da,c1] [,dbc,a/] ,c";italian7tab
+72;;148;in materia del Passemezzo 5°;Vincentio Galilei;;OT;;C;"[eeg,,e3/4] ,g/4 ,e ,,h ,,g ,,e | \
+[,egg/] [e,,,,e] [ge,f] ,,h | \
+[,egg/] [e,,,,e] ,e ,g | \
+[eegg/] ,,,e [e,,,i] ,,,,g | \
+[egc,e/] ,,e/4 ,,g";italian7tab
+73;;150;in materia della Romanesca 5a;Vincentio Galilei;è scritto il suo saltarello à 25;OT;;3;"[eeg,,e1] ,i/ ,g [,e,f] ,,h | \
+,,g/ ,,e [eegg] ,,,e ,,,,i ,,,,g | \
+[egh,e1] ,,g/ ,,e ,,,g ,,,e | \
+,,,,i/ ,,,,g [egh,e] ,,,,g ,,,,i ,,,f |";italian7tab
+74;;151;in materia della Passemezo 6°;Vincentio Galilei;;OT;;C;"[acd,a1] ,,d/ ,a | \
+,c/ ,d a c | \
+[a,,,a/] ,d ,c ,a | \
+[a,d,e/] ,,b ,,a ,,,c | \
+[cdda/] ,a/4 ,c ,d a c e |";italian7tab
+75;;153;sopra il medesimo;Vincentio Galilei;ne segue un altro à 262;OT;;C;"[acd,a1] ,,d/ ,d | \
+a/ c a ,d | \
+[acd,a/] ,a ,,d ,a | \
+[,c,,a/] ,d a ,c | \
+[cdda/] ,c ,d a |";italian7tab
+76;;155;in materia della Romanesca 6a;Vincentio Galilei;;OT;;3;"[acd,a1] ,,d/ ,d a c | \
+[a,,,a/] ,d ,c ,a ,,d ,,b | \
+[,ddef1] f/ d c a | \
+,d/ a [c,da] ,,,c [,da] ,,c |";italian7tab
+77;;156;sopra la medesima;Vincentio Galilei;è scritto il suo saltarello à 40;OT;;3;"[acd,a1] ,,d/ ,d ,c ,a | \
+[acd,a1] [,da,c] [a,d,e] | \
+[cdda1] ,,d/ d c a | \
+[cdda1] [a,d,e] [,dc,c] | \
+[acd,a1] ,,d/ ,d ,c1 |";italian7tab
+78;;158;in materia del Passemezzo 7°;Vincentio Galilei;;OT;;C;"[bde,b/] ,,d/4 ,,b ,,,d ,,,b ,,,a ,,,,d | \
+[bde,b/] ,b/4 ,d [,eb,d/] ,d/4 ,b | \
+[bde,b/] ,,b/4 ,,d ,,e ,b ,d ,e |";italian7tab
+79;;160;in materia della Romanesca 7a;Vincentio Galilei;è scritto il suo saltarello à 44;OT;;3;"[bde,b1] b/ ,e ,d ,b | \
+,,e/ ,b [,dedb] ,e b ,d | \
+[eeb1] ,d/ ,b ,,e ,,c | \
+,,b/ ,,,d [d,,b] ,,,d [,eb] ,,d |";italian7tab
+80;;161;in materia del Passemezzo 8°;Vincentio Galilei;;OT;;C;"[,ea,c/] ,a/4 ,c ,e a c e | \
+[ca,b/] e/4 c [aac/] c/4 a | \
+[,ea,c/4] ,c ,a ,c ,e a c e |";italian7tab
+81;;163;in materia della Romanesca 8a;Vincentio Galilei;è scritto il suo saltarello à 52;OT;;3;"[,aabc1] c/ a ,e ,c | \
+[,ea,c/] ,c ,a ,,,,a [a,,,,e] ,,,,,a | \
+[ea,c,a/] ,,a ,,c c a ,,a | \
+[,,cc,a/] ,,d ,a ,c ,e a |";italian7tab
+82;;164;in materia del Passemezzo 9°;Vincentio Galilei;;OT;;C;"[,fgfd3/4] ,g/4 d/ f | \
+[d,bc/] b/4 a [b,da/] ,a | \
+[,fgfd/4] ,g d f g f d ,g | \
+[dfg,d/4] ,g ,f ,d";italian7tab
+83;;166;in materia della Romanesca 9a;Vincentio Galilei;è scritto il suo saltarello à 57;OT;;3;"[abb,d1] d/ b a ,d | \
+[a,bcd/] ,,,a ,,,,d ,,,,b [,b,,a] ,,,,,d | \
+[bbd,,b/] d [f,,d] d [b,d] a | \
+,d/ a [bbd,,b] ,,,,,d [b,,,a] ,,,,c |";italian7tab
+84;;168;in materia del Passemezzo X°;Vincentio Galilei;;OT;;C;"[,ghge/] ,,e/4 ,,g ,,h ,e ,g ,h | \
+[e,h/] [gh] [he,g] [e,g/4] ,h | \
+[,ghge/] ,,g/4 ,,e ,,,g ,,,e ,,,,i ,,,,g |";italian7tab
+85;;170;in materia della Romanesca Xa;Vincentio Galilei;è scritto il suo saltarello à 61;OT;;3;"[,ghge1] e/ ,h ,g ,e | \
+[,ghge/] k e g h e | \
+[ghhe/] h g e ,h e | \
+[ggge/] ,,,g ,,e ,,g ,,h ,e |";italian7tab
+86;;171;in materia del Passemezo XI°;Vincentio Galilei;ne segue n'altro a 259;OT;;C;"[cdda/] ,a/4 ,c ,d/ a | \
+[cd/] d/4 f [da/] ,c | \
+[cdda/] ,a/4 ,c ,d a c d | \
+[f,a/4] d c a";italian7tab
+87;;173;in materia della Romanesca XIa;Vincentio Galilei;è scritto il suo saltarello a 67;OT;;3;"[,ddef1] ,c/ ,a [c,d] ,,b | \
+,,a/ ,,,c [c,,a] ,,,,d [,d,,c] ,,,,a | \
+[da,a,d/] c/4 a ,d ,b ,a ,,d ,,b ,,a ,,,c ,,,e |";italian7tab
+88;;175;in materia della medesima;Vincentio Galilei;;OT;;3;"[cdda3/2] d/ [f,a1] | \
+,,b1 [c,da] ,a | \
+[abb,d3/2] c/ [d,,c1] | \
+,,d1 [da] ,c | \
+[cdda/] d [f,a] d [c,d] ,,b | \
+[,da/] ,,,,d [,,,ac]";italian7tab
+89;;176;in materia del Passemezzo XII° et ultimo;Vincentio Galilei;;OT;;C;"[deeb3/4] ,d/4 ,b/ ,d | \
+[,eb/] [g,,f] [eb,d] ,d | \
+[deeb/4] ,d ,b ,d ,e b d e | \
+[ge,f/4] e d ,g";italian7tab
+90;;177;in materia della Romanesca XIIa et ultima;Vincentio Galilei;è scritto il suo saltarello a 71;OT;;3;"[deeb1] ,d/ ,b ,,e ,,c | \
+,,b/ ,,,d [deeb] b ,e ,c | \
+[eeg,,e1] i/ g e ,i | \
+,g/ ,i [eeg,,e] ,,,,,g ,,,,,i ,,,,f |";italian7tab
+;Parte terza et ultima;;nella quale si contengono tutte le sue Gagliarde;;;;;;;
+91;;181;Calliope Gagliarda 1a;Vincentio Galilei;;OT;;3;"[cdda/] d [f,a1] [da,c] | \
+[cdda3/2] a/ ,d1 | \
+[f,de/] ,d [ca,c1] [acd,a] | \
+[cdda3/2] a/ ,d1 | \
+[cdda/] d [f,a1] [hd,f] | \
+[da,c/] a c d";italian7tab
+92;;182;Talia 2a;Vincentio Galilei;;OT;;3;"[,daac1] [,aba,d] [,cdca] | \
+[,ddef1] f/ d [cdda1] | \
+[a,d,e1] [,aa,c/] ,c [,dc1] | \
+[,cdca1] f [da,c/] ,c | \
+[cdda1] [a,d,e] [,dc,c] | \
+[,cdca1] [cdd,,c] [aab,,d/] ,d |";italian7tab
+93;;183;Euterpe 3a;Vincentio Galilei;;OT;;3;"[,ddef1] [,da,c] [a,d,e] | \
+[cdda/] d c a ,d a | \
+[c,da1] [a,d,e] [,dc,c] | \
+[acd,a/] ,d ,c ,a ,,d ,,b | \
+[f,de1] [da,c] [a,d,e] |";italian7tab
+94;;184;Erato 4a;Vincentio Galilei;;OT;;3;"[cdda/] d [f,a1] [hd,f] | \
+[f,de/] d c a ,d a | \
+[c,da/] f [d,,c] c [a,,,e] d | \
+[cdda/] ,c ,d a c/4 a c d |";italian7tab
+95;;185;Melpomene 5a;Vincentio Galilei;;OT;;3;"[fdaa1] [fdaa] [hd,f,d] | \
+[fdaa/] d c a ,d a | \
+[cdda/] a/4 c [da,c1] [a,d,e] | \
+[cdda/] d f d c a |";italian7tab
+96;;187;Clio 6a;Vincentio Galilei;;OT;;3;"[,dfec1] [,dff,d] [acd,a] | \
+[cdda/] d c a ,d a | \
+[cdda1] [a,d,e] [,dc,c] | \
+[cd,a/] ,d ,c ,a ,,d ,a | \
+[ac,,a1] [,a,,,e] [,ed,,c] |";italian7tab
+97;;188;Terpsicore 7a;Vincentio Galilei;;OT;;3;"[fdaa1] [fc,ca] [dabc] | \
+[cdda/] a c d [cdda1] | \
+[a,d,e1] [,da,c] [,cdca] | \
+[,aba,d/] ,c [,df] [cd] [,ab] [,,de] | \
+[,ab/] [,,de] [cab,,d]";italian7tab
+98;;189;Polymnia 8a;Vincentio Galilei;;OT;;3;",d1 [c,,a] [f,de] | \
+[acd1] [df,c] [,dff] | \
+[c,da1] [acd] [,df] | \
+[a,d/] ,d ,c ,a [acd] ,,b | \
+[fc,ca1] [a,d,e] [dabc] | \
+[,da,c1] [cdda] [,cd,a/] a |";italian7tab
+99;;190;Urania 9a;Vincentio Galilei;;OT;;3;"z2 [cdda1] | \
+[acd,a/] ,d ,c ,a ,,d1 | \
+[,,da,c1] [,aba,d] [,cdca] | \
+[,ddef/] ,c ,d a c d | \
+[fdaa1] [fc,ca] [da,c] |";italian7tab
+100;;190;Tiresia 10a;Vincentio Galilei;;OT;;3;"z1 z1 ,a/ ,c | \
+,d1 [add] [fc] | \
+[cdda3/2] ,,,c/ [,cde] ,,c | \
+[acfd1] [aadc/] ,,c ,,d/4 ,,c ,,a ,,c | \
+[acd,a3/2] ,,,,c/ ,,,,e ,,,a |";italian7tab
+101;;191;Clorinda 11a;Vincentio Galilei;;OT;;3;"[,cdca1] [,daac] [a,d,e] | \
+[cfda/] ,d a [c,,,e] [d,,,c] c | \
+[a,,,,d/] ,d [add,a] ,c ,d/4 ,c ,a ,c | \
+[,dda1] ,c/ ,a ,,d ,,b |";italian7tab
+102;;192;Arianna 12;Vincentio Galilei;;OT;;3;"[cdda3/2] ,,,c/ [ccde] ,,,c | \
+[cdda1] [add,a/] ,c ,d/4 ,c ,a ,c | \
+[,ddef3/2] [a,,,e/] [cdf,c] ,,,,a | \
+[ddf,,d/] ,,,,a [,d,,c] ,,,,e [cdfa] ,,,,c |";italian7tab
+103;;193;Cloride 13;Vincentio Galilei;;OT;;3;"[,dfec1] [,dff,d] [,cdca] | \
+[,ddef/] f [d,,c] ,c [,,da] [cd] | \
+[a,d/] [,c,,a] [a,b,c] ,,a [,d,c] ,,,a | \
+[,cdca/] f [,a,c] [df] [,,da] [cd] |";italian7tab
+104;;194;Aretusa 14;Vincentio Galilei;;OT;;3;"z2 [ccde1] | \
+[ccde1] ,,,,,c/ f [eccd1] | \
+[ccde1] [,cc,e/] c [bc1] | \
+[ccee/] ,,c ,,e ,a ,c ,,,c | \
+[cdda1] [a,d,e] [,da,c] | \
+[,ca,b1] [,da,c] ,,,,,d/ ,c |";italian7tab
+105;;195;Fillide 15;Vincentio Galilei;;OT;;3;"[cdda/] ,,,c ,,a ,,c [acd1] | \
+[,dda/] a c d [fc,,a1] | \
+[hd,f1] [f,de] [da,c] | \
+[cdda/] ,,b ,,d ,,b ,,a ,,,c |";italian7tab
+106;;195;Artemisia 16;Vincentio Galilei;;OT;;3;"[cdda3/2] d/ [f,a1] | \
+[cdda1] [da,c] [a,d,e] | \
+[cdda/] d c a ,d a | \
+[cdda/] d [f,a1] [hd,f] | \
+[da,c/] h i h f d |";italian7tab
+107;;196;Amaltea 17;Vincentio Galilei;;OT;;3;"[cdda3/2] ,,b/ [c,def1] | \
+[cda,c1] [aacc] [acd,a] | \
+[,ddef/] a c a ,d ,c | \
+[,aba,d/] ,,d ,a ,,a ,,,c ,,,a | \
+[,cdca/] ,,,,c ,,,,e";italian7tab
+108;;197;Siringa 18;Vincentio Galilei;;OT;;3;"z2 [ccee1] | \
+[ccee/] ,,c ,,e ,a [cce] ,,,c | \
+[caab1] [aacc] [ccee] | \
+[,ea,c/] ,c ,e a c a | \
+[,ea,c/] ,c ,a ,,,,a [a,,,,e] ,,,,,c |";italian7tab
+109;;198;Dicilla 19;Vincentio Galilei;;OT;;3;"[c,def1] [,dfec] [ddf,,c] | \
+[cdda/] d f h [fhi,f1] | \
+[dffc1] [c,f,c/] ,c [,ef1] | \
+[aac/] ,d/4 ,c ,a ,,d ,,c ,,a [aacc/] ,,,,,a |";italian7tab
+110;;199;Doride 20;Vincentio Galilei;;OT;;3;"z1 z1 [aabc1] | \
+[abb,d3/2] ,d/ [,bbcd1] | \
+[,aba,d1] [,ddff] ,,,e | \
+[,dff,d3/2] ,,g/ ,,f ,,d | \
+[,dff1] ,,,,,d [ddff] | \
+[cdda1] [dabc] ,,,,d/ c |";italian7tab
+111;;200;Progne 21;Vincentio Galilei;;OT;;3;"[aabc1] [ca,b] [ea,c] | \
+[fc,ca3/4] h/4 f/ [da] [c,d] [a,b] | \
+[cdda3/4] ,,,c/4 ,,a/ [c,c] ,,d ,a | \
+[acd,a/] ,,,,c ,,,,e [,,da] ,,,c ,,a |";italian7tab
+112;;201;Caparissa 22;Vincentio Galilei;;OT;;3;"z1 z1 [aacc1] | \
+[aacc1] ,,,,,a/ ,c ,a ,,d | \
+,,c/ ,,a [aacc] ,,,a ,,,,e ,,,,c | \
+[acd,a1] ,,c/ ,,a ,,,c ,,,a | \
+[a,,,d/] ,,,,c ,,,,a";italian7tab
+113;;202;Corinna 23;Vincentio Galilei;;OT;;3;"z1 z1 [aacc1] | \
+[aacc1] ,,,,,a/ c [ea,c] ,,d | \
+[aacc1] [ca,b/] ,,d [ea,c1] | \
+[fc,,a/] ,,,,c ,,,,e ,,,a [e,,c] ,a | \
+[c,,b/] ,,d [,acc]";italian7tab
+114;;203;Amadriade 24;Vincentio Galilei;;OT;;3;"[effc1] [ceeb] [aacc] | \
+[,efec/] ,c ,e ,f c e | \
+[ghhe1] [hhf,g] [effc] | \
+[ccee/] ,a ,c ,,c ,,e ,,,c | \
+[ca,b1] [ea,c] [bcc,e] |";italian7tab
+115;;204;Amaranta 25;Vincentio Galilei;;OT;;3;"[aacc1] [acd,a] [,ea,c] | \
+[aac,,a1] [ea,c] [ca,b/] ,,d | \
+[,acc1] [a,c,e/] ,c [ccd,,c1] | \
+[,ea,c1] h [ea,c/] ,,d | \
+[ca,b1] [,acc/] c [a,,,,a1] |";italian7tab
+116;;205;Amarilli 26;Vincentio Galilei;;OT;;3;"[aacc1] [ca,b] [ea,c] | \
+[fc,ca/] ,,,,c ,,,,e ,,,b [ea,c] ,,,,,a | \
+,,,,,e/ ,,,,a [ca,bc] ,,,,e ,,,b ,,,c | \
+[ccee1] ,,,,,c/ ,,c [cce] ,,,c |";italian7tab
+117;;206;Rodopea 27;Vincentio Galilei;;OT;;3;"[ea,c,a1] [ca,bc] [aacc] | \
+[,ea,c/] a c e [fc,,a] ,,,,c | \
+,,,,e/ ,,,a [ea,c] ,,a ,,c ,,e | \
+[cef1] ,,,,c/ h ,a f |";italian7tab
+118;;206;Clitia 28;Vincentio Galilei;;OT;;3;"[aac,,a1] [e,,c] [a,,,e] | \
+[ca,b/] e [f,a1] [ea,c/] ,,a | \
+[,ac,,a1] [,cd/] c [a,,,a1] | \
+[,ea,c/] ,c ,e a c e | \
+[fc,ca/] ,,,,c ,,,,e ,,,a ,,,c ,,a |";italian7tab
+119;;207;Cintia 29;Vincentio Galilei;;OT;;3;"z1 z1 [ca,bc1] | \
+[ca,bc/] a ,e ,c [,ea,c1] | \
+[aacc,e1] [acd,a] [,ea,c] | \
+[aac,,a/] c e f [h,,gh1] | \
+[ea,c,a1] [fc,ca] [ca,bc] | \
+[ea,c,a1] [,cd,,c/] c";italian7tab
+120;;208;Carintia 30;Vincentio Galilei;;OT;;3;"[cdda1] [ddff] [fcaa] | \
+[hd,f,d1] ,,f/ ,,,f [fdaa1] | \
+,d/ ,,a [dabc1] ,c/ ,,b | \
+[cdda/] ,c ,d a c d | \
+[fdaa/] ,,,c ,,,a ,,,,d";italian7tab
+121;;209;Morauia 31;Vincentio Galilei;;OT;;3;"[aabc3/4] c/4 d/ c/4 a [ca,b/] ,,d | \
+[aabc1] ,,,,,a/ c [d,,c] ,,,a | \
+[abb,d/] ,a ,a ,,d/4 ,,b [,,d,f/] ,,,e | \
+[,dff,d/] ,,d ,,f ,,g [,dff1] |";italian7tab
+122;;210;Stiria 32;Vincentio Galilei;;OT;;3;"[ddff1] [ddda] c | \
+[ddff3/2] ,,d/ [,df1] | \
+[dd,f,d1] [fd,ff] ,,,e | \
+[hd,f,d3/2] i/ [li,kl1] | \
+[if,h1] [hiif/] ,,,h ,,f ,,h | \
+[fhi,f3/2] h/ f1 |";italian7tab
+123;;211;Ecco 33;Vincentio Galilei;;OT;;3;",,d1 ,,d ,a | \
+[,cd1] [,c,,a] [,df] | \
+[ac,,a1] [,c,,a] [,d,,c] | \
+[ac,,e1] ,c/ ,,,a [,a,c1] | \
+[,d,,c1] [cdda] [a,,c] | \
+[,da1] [,cd] [aacc] |";italian7tab
+124;;212;Altea 34;Vincentio Galilei;;OT;;3;"[acd,a3/2] c/ a1 | \
+[,cdca1] [,daac] [a,d,e] | \
+[cdda/] d c a ,d ,c | \
+[,a,a/] ,,d ,,c ,,a ,,,c ,,,a | \
+[a,d,ef/] ,,,,c ,,,,e";italian7tab
+125;;213;Alchimilla 35;Vincentio Galilei;;OT;;3;"[cdf,c1] [cdda] [da,c] | \
+[f,de/] ,,,c ,,,a ,,,,e ,,,,c ,,,,a | \
+[hd,f,d/] ,,,,a ,,,,c ,,,,e [fdaa1] | \
+[fdde1] [dd,c1/] ,c ,d/4 ,c ,a ,c |";italian7tab
+126;;214;Galatea 36;Vincentio Galilei;;OT;;3;"[acd,a/] ,,c ,,d ,a [acd1] | \
+[aacc/] ,,,b ,,,c ,,a [,ac,,a1] | \
+[a,d,e1] [c,da] [aacc] | \
+[,acd,a/] ,,,,c ,,,,e ,,,a ,,,c ,,,e | \
+[,,,ca/] ,,d ,c";italian7tab
+127;;216;Dianira 37;Vincentio Galilei;;OT;;3;"[,dddf1] [bdda] [dfg,d] | \
+[fggd/] ,,,,,d ,,,,a ,,,,c [dfg,d1] | \
+[bdda1] [,db,b/] ,,,d [d,,c] ,,,a | \
+[fc,ca/] d/4 b a ,d ,c ,a ,,d ,a";italian7tab
+128;;217;Astrea 38;Vincentio Galilei;;OT;;3;"[,dda1] b [dfg,d] | \
+[fb,d,b1] ,b/ ,,d [dfg,d1] | \
+[bdda1] [,de,b/] a b d | \
+[fc,ca1] d/ b a ,d | \
+[acd1] [,dddf] [abb,d] |";italian7tab
+129;;218;Acoro 39;Vincentio Galilei;;OT;;3;"[,aba,d/] ,b ,d1 [abb,d] | \
+[d,,,d/] ,,g ,,f ,,d [,dff1] | \
+d/ [,,de] [dbbc1] [ca,a] | \
+[abb,d/] c d c a ,d |";italian7tab
+130;;219;Andromeda 40;Vincentio Galilei;;OT;;3;"[,dff1] [,abc] [,dde] | \
+[,dff/] ,,g ,,f [,,de] [,,bc] [,,aa] | \
+[a,b,d/] ,d ,b ,a [,,def1] | \
+[ddb,c1] [abb,d] [cdda] | \
+[ddf,,d/] f h f d c |";italian7tab
+131;;220;Arimaspe 41;Vincentio Galilei;;OT;;3;"[aacc1] [acd,a] [,efec] | \
+[aac,,a1] [ea,c] [ca,b/] ,,a | \
+[aacc1] [,efec/] ,,d [,ccce1] | \
+[,egg,e/] ,,h ,,g ,,e [,egg,e1] | \
+e/ g [hf,g,e] g/4 e [ge,fg/] ,,h |";italian7tab
+132;;221;Agrippina 42;Vincentio Galilei;;OT;;3;"[ddef1] [fd,df] [fc,ca] | \
+[c,da/] d c a ,d a | \
+[cdda/] a/4 c [ddef1] [gd,f] | \
+[fggd/] g f d ,g d |";italian7tab
+133;;222;Ortigia 43;Vincentio Galilei;;OT;;3;"[ccde1] [ccde] [ea,c] | \
+[fc,e,c/] ,,,,,e ,,,,a ,,,,c [ec,ce1] | \
+[c,da1] [a,d,e] [,ddef] | \
+[acd,a/] ,d ,c ,a ,,de ,a | \
+[acd,a/] ,,,,c ,,,,e";italian7tab
+134;;223;Clitofonte 44;Vincentio Galilei;;OT;;3;"[ddef1] [ddef] [ddef] | \
+[bdda/] ,,,,d ,,,a ,,,c [bbdd] ,e | \
+[bd,,b/] ,,e [bbed] ,,d ,,e/4 ,,d ,,b ,,d | \
+[bde,b/] ,,d ,,e";italian7tab
+135;;224;Euridice 45;Vincentio Galilei;;OT;;3;"[cdda1] [cdf,c] [ba,,,e] | \
+[cce,,c/] ,,c ,,e ,,f [,cee] ,,,c | \
+[ca,a/] ,,d [cdf,c1] [ea,c/] c/4 e | \
+[fc,ca/] ,,,,c ,,,,e ,,,a [ea,c1] |";italian7tab
+136;;225;Aghatirsi 46;Vincentio Galilei;;OT;;3;"[ccde1] [ccc,e] [bc] | \
+[ccde1] ,,,,,c/ ,,c ,,d e | \
+[fc,e1] [,,,cca/] e f/4 e c e | \
+[fc,ca1] e/ c e/4 c a ,d |";italian7tab
+137;;226;Egeria 47;Vincentio Galilei;;OT;;3;"[,aaac1] [,da,c] [a,d,e] | \
+[cdda/] e [f,a] c [da,c] c | \
+[a,b/] ,d [acd] [,da] [,,,ca] ,c | \
+[,ddef/] f c ,d ,a ,c |";italian7tab
+138;;227;Antigone 48;Vincentio Galilei;;OT;;3;"[,dfec1] [,dfec] [,dfec] | \
+[,cde,c/] ,,,,,a ,,,,,c ,,,,,e [,cdca] ,a/4 ,c | \
+[,ddef/] ,c/4 ,d [a,,c,f/] ,,,,e/4 ,,,,c [,,,ce/] ,,b | \
+[,ddef/] ,c ,d";italian7tab
+139;;228;Salmace 49;Vincentio Galilei;;OT;;3;"[,aabc1] ,,c [,,ece] | \
+[,aacc1] ,,,b/ ,,,,e [,aabc1] | \
+,,c1 [,cdca] [,ed,,c] | \
+[aad,,a1] ,,c/ ,,a [,acc1] | \
+[ea,c1] [ca,b] [ea,c] | \
+[,,,ce1] [c,e/] a [,ea,c1] |";italian7tab
+140;;229;Tiresia 50;Vincentio Galilei;;OT;;3;"[ea,c1] [ca,b] [aacc] | \
+[,ea,c/] a c ,,,,a ,,,,,e ,,,,,c | \
+[ea,c,a/] ,,,,,c ,,,,,e ,,,,a [ca,bc] ,,,,e | \
+,,,b/ ,,,c [ccee] ,,f ,c ,,e |";italian7tab
+141;;230;(sans titre) 51;Vincentio Galilei;;OT;;3;"[bdda1] [bdda] [bdda] | \
+[abb,d/] ,a ,b ,d [abb,d1] | \
+[bdda1] [,d,ab/] ,,,c ,,,d ,,b | \
+[,cdca/] ,d ,c ,a [acd1] | \
+[fb,d1] [fb,d] [fb,d] |";italian7tab
+142;;231;(sans titre, 52);Vincentio Galilei;;OT;;3;"[abb,d1] [abd,a] [bbd,,b] | \
+[abb,d/] ,,,a ,,,c ,,,e [,dff,d1] | \
+[,bdca1] [,adc,a/] ,,c ,,d/4 ,,c ,,a ,,c | \
+[,,dca/] ,a ,b ,a ,,d ,,b |";italian7tab
+143;;232;fiordiligi 53;Vincentio Galilei;;OT;;3;"a1 a a | \
+[ca/] a c e [ca1] | \
+[ea1] [fc/] ,a ,c ,e | \
+[ea,c/] ,,a [,,c,,a] ,,d [ea,,,a] ,,,,,c | \
+,,,,,e/ ,,,,a [cda,c]";italian7tab
+144;;233;Aretusa (54);Vincentio Galilei;;OT;;3;"z2 [ccde1] | \
+[ccde1] ,,,,,c/ f [eccd1] | \
+[ccde1] [,cc,e/] c [bc1] | \
+[ccee/] ,,c ,,e ,a ,c ,,,c | \
+[c,da1] [a,d,e] [,da,c] | \
+[,ca,b/] ,a/4 ,c [,da,c1]";italian7tab
+145;;234;(sans titre) 55;Vincentio Galilei;;OT;;3;"[aabc1] [da,c] [fdaa] | \
+[hd,f,d/] ,,,,a ,,,,c ,,,,e [fdaa1] | \
+[da,c/] c [abb,d] d [c,d] a | \
+[,ea,c/] a c ,,,c ,,a [a,c/4] ,d |";italian7tab
+146;;235;(sans titre) 56;Vincentio Galilei;;OT;;3;"[aabc/] c d f [hd,f1] | \
+[fdaa1] ,,a [da,c] | \
+[c,da1] ,a [aabc] | \
+[,ea,c/] a c d [f,,,a1] | \
+[da1] [c,b] [a,d] |";italian7tab
+147;;236;Passemezzo sesto con parti;Vincentio Galilei;;OT;;C;"[abd,a3/2] ,d/ | \
+,b/ ,a ,,d ,,c | \
+[,bd/] ,,,,a ,,,,d ,,,a | \
+,,,c/ ,,b ,a ,b | \
+[,dff/] d f h | \
+f/ d a c |";italian7tab
+148;;240;Passemezzo 8;Vincentio Galilei;;OT;;C;"[,da,c1] ,a/ ,c ,d a c a | \
+[,da,c/] ,c ,a ,,e [,a,a] ,,,c ,,a ,,c | \
+[acd,a/] f e c [a,c] ,d ,c ,a |";italian7tab
+;;;Gagliarde et arie di diuersi;;;;;;;
+149;;243;Lanfredina 1;Vincentio Galilei;;OT;ConcR1414;3;"[ca/] ,,d ,,c ,,a [bac1] | \
+[ccfe1] ,,e/ a [,daac1] | \
+[,cdca1] [aa,c,d/] ,d [,c,c] ,a | \
+[,cee,c1] ,,,e/ ,a/4 ,c [,daac1] |";italian7tab
+150;;243;Bordoccia 2;Vincentio Galilei;;OT;ConcR1409;3;"[aacc1] [,ea,c] [a,d,e] | \
+[cdda/] a c d [cdda1] | \
+[a,c,e1] [acd,a] [,ea,c] | \
+[aac,,a3/2] [aac/] ,,,c1 :||: \
+,a/ ,c [,d,,c] ,c ,d [a,,,e] |";italian7tab
+151;;243;Courant;Vincentio Galilei;;OT;;none;"z2 [,dda/] [,dda2] [,cdca1] [,da,c2] [a,d,e1] [cddda2] ,,d1 \
+[cd2] f1 [fd,a3/2] d/ c1 [aa,c3/2] c/ d1 [cd,a2]";italian7tab
+152;;244;(sans titre) 3;Vincentio Galilei;;OT;ConcR1432;3;"[,aabc1] [,acc,a] [,ce,ec] | \
+[,aabc1] ,,,,c/ ,c [,da,c1] | \
+,c/ ,a [,,deec1] [,a,c,e] | \
+[,cdca3/2] ,a/ ,,d1 | \
+[acd,a1] [acd/] [acd,a1] c/ | \
+[,efec/] ,f c [d,f]";italian7tab
+153;;244;La Caccia 4;Vincentio Galilei;;OT;ConcR1416;3;"z2 [aacc1] | \
+[,ea,c1] ,,a [,a,c,e] | \
+[,c,ca1] ,,d [,ea,c] | \
+[aacc1] ,,,,,a/ c [da,c1] | \
+[cdda1] [abb,d/] d [c,d] a | \
+[,ea,c1] [aab,,d] [,cdca/] ,e |";italian7tab
+154;;245;La Gherza 5;Vincentio Galilei;;OT;;3;"[,aabc1] [,acc,a] [,,eeec] | \
+[,aabc1] [c,,a/] ,,a [a,cc] ,,e | \
+,a/ ,,,a [,ce,ec] ,,f c ,,e | \
+[,ea,c/] c/4 a c a ,e ,c [,ea,c/] ,c |";italian7tab
+155;;245;(sans titre) 6;Vincentio Galilei;;OT;ConcR1413;3;"[,da,c1] [,cdca] [,a,c,e] | \
+[,cee,c3/2] [,cee/] ,,,e1 | \
+[fc,e,c1] [effc] [ca,a] | \
+[bcc,e/] c e ,a ,,d c | \
+[ca/] ,,d [,cc,e] c [bc1] |";italian7tab
+156;;246;(sans titre) 7;Vincentio Galilei;;OT;ConcR1413;3;"[,da,c1] [,ca,a] [,a,d,e] | \
+[,ce,ec2] ,,,e1 | \
+[f,de1] [ea,c] [ccde] | \
+[bcc,e1] c/ e [fc,e,c1] | \
+e/ c [bcc,e1] ,,a/ ,,c | \
+[cce,,c2] ,,,e1 |";italian7tab
+157;;246;La cesarina 8;Vincentio Galilei;;OT;ConcR990;3;"z/ [,,,ce/] [,,aa1] [,,c,c] | \
+[,,dca3/2] ,a/ ,c ,,d | \
+[,,dca/] ,a [,c,ca1] [,ed,,c] | \
+[aac,,a3/2] ,,d/ ,,c ,,a | \
+[aacc1] ,,,,,a/ ,d [,c,ca] [,a,a,e] |";italian7tab
+158;;247;Morirò 9;Vincentio Galilei;;OT;;3;"z2 c1 d | \
+[f,,a1] ,,a/ ,,b [c,da1] | \
+[a,b,e/] [,da,c] [add,a1] ,c/ ,,b | \
+[,daa1] ,,,,f/ ,,b ,,a ,,,c | \
+[,,aa1] ,,,,f/ a c d |";italian7tab
+159;;247;L'imperiale 10;Vincentio Galilei;;OT;;3;"[,ddef1] [,dff,d] [,cdca] | \
+[cdda3/2] d/ c1 | \
+[a,,,,d/] ,d [,cd,a1] [,aa,c] | \
+[,cee,c2] ,,,e1 | \
+[ccde/] e [fcde1] [ea,c] | \
+[ccde1] ,,,,,c/ f [ea,c,a1] |";italian7tab
+160;;248;Saltarello;Vincentio Galilei;;OT;;3;"[,dda1] f [da] | \
+[c,d1] [a,b] [,da] | \
+[,cd/] ,d a ,,b ,,a ,c | \
+,d/ ,,,c/4 ,,,a [,,,ca/] ,c/4 ,a [,cd1] | \
+[,d,a1] ,,d ,a/ ,,d |";italian7tab
+161;;249;Ruggieri;Vincentio Galilei;;OT;Conc_3638;C;"z1 [,acc1] [,acc] [,acc] | \
+[,cde1] [,ede] [a,dc] ,,c/ ,,a | \
+[a,cc1] [,,cc] [,,ab] [,acc] | \
+[,a,ce1] [,,ece] [,aabc] ,,,,c | \
+[,aa1] [cef,c] [cef,c] [cef,c] |";italian7tab
+162;;250;L'Agostina 11;Vincentio Galilei;;OT;;3;"z1 z1 ,a/ ,c | \
+[,daac1] [,daac/] [,daac1] [a,d,e/] | \
+[cdda1] [cdda/] [cdda1] [dcbc/] | \
+[cdda/] a/4 ,,b ,,a ,d [,d,c] ,,,a [,c,ca] a ,d ,c |";italian7tab
+163;;250;(sans titre) 12;Vincentio Galilei;;OT;ConcR1417;3;"z3/2 ,a/ ,c/4 ,a ,c ,e | \
+[aac,,a3/2] [aac/] ,,,c1 | \
+,e/ a [cef,c1] ,f/ c | \
+[ea,c,a/] c e a c e |";italian7tab
+164;;251;(sans titre) 13;Vincentio Galilei;;OT;;3;"z1 z1 [,da,c1] | \
+[,cee2] [,aab1] | \
+[,acc2] [,cee1] | \
+[,aa,c1] ,c [,da,c] | \
+[,c,ca1] [,a,a,d] [,c,c/] ,a | \
+[,ce,,c1] ,a/ ,c [,da,c] ,,c |";italian7tab
+165;;251;(sans titre) 14;Vincentio Galilei;;OT;ConcR1429;3;"z/ [,c,,a/] [,d,,c1] [a,d,e] | \
+[ca,a1] [,da,c] [a,d,e/] [ca,a] | \
+[da,c3/4] [c,,a/4] [a,b1] [,da] | \
+[acd1] c/ ,,d [a,b1] | \
+[,da/] ,,,c/4 ,,,a [,ddca1] ,c | \
+[,dda2] ,,d1 |";italian7tab
+166;;252;(sans titre) 15;Vincentio Galilei;;OT;;3;"z3/2 ,,,c/ ,,a ,,c | \
+,,d/ ,a [acd,a1] [aac,,a] | \
+[acd,a3/2] ,,a/ ,,c ,,e | \
+,a/ ,c [,aaac1] [,cee,c] | \
+[,aa,c3/2] ,,e/ ,a ,c |";italian7tab
+167;;252;La corambona 16;Vincentio Galilei;;OT;ConcR1385;3;"z1 z1 ,,c/4 ,,a ,,c ,,e | \
+[,aa,c3/4] ,,e/4 ,a/ [,aa,c3/4] ,,e/4 ,a/ | \
+[,cee,c/] ,,f ,c ,,e ,,f ,c | \
+[,da,c/] ,c ,d a [c,,a1] |";italian7tab
+168;;253;(sans titre) 17;Vincentio Galilei;;OT;ConcR1417;3;"z1 z1 ,c/ ,e | \
+[aac,,a3/2] ,,d/ ,,c ,,a | \
+[aac,,a3/2] ,e/ a1 | \
+[ca,bc3/2] a/ c1 | \
+[ea,c,a3/2] f/ [ea,c,a1] | \
+c/ a [,ea,c] [,c,,b]";italian7tab
+169;;253;(sans titre) 18;Vincentio Galilei;;OT;ConcR1581;3;"c/ d [fdaa1] [hd,f] | \
+[fdaa3/2] d/ [c,da1] | \
+[a,b/] [,da] [add1] ,c | \
+[cdda3] | \
+c/ d [fdaa/4] d f/ [hd,f/4] f h/ |";italian7tab
+170;;254;(sans titre) 19;Vincentio Galilei;;OT;;3;"z1 z/ ,b/4 ,d [ab,,d/] [ab] | \
+[ab,,d3/4] [ab/4] ,,,c/ a/4 c [db,,d/] [db] | \
+[db,,d3/4] [db/4] ,,,d/ ,b/4 ,d [ab,,d] c d a |";italian7tab
+171;;254;(sans titre) 20;Vincentio Galilei;;OT;;3;"z2 [,da,c1] | \
+[,da,c2] [,da,c1] | \
+[,da,c2] [acd,a1] | \
+[cdda2] ,,d1 | \
+[cdda2] [da,c1] | \
+[cdda/] a ,d ,c [,ab] ,c | \
+,d/ ,,a [,ddca1] ,c |";italian7tab
+172;;254;(sans titre) 21;Vincentio Galilei;;OT;ConcR2424;3;"[abd,a1] [abd] f | \
+[da,c/] c a d [c,,a1] | \
+[a,,,d1] [,d,,c] [,b,,a] | \
+[aac,,a1] ,,,c/ a [,d,,c1] | \
+[,b,,a1] [,a,,,d] [,,d,,c] | \
+[aac,,a/] ,,,c ,,a";italian7tab
+173;;255;Viua Don Giouanni 22;Vincentio Galilei;;OT;ConcR1415;3;",,,c/ ,,a ,,b ,,d [,a,,,a] ,,,,,c | \
+,,,,,d/ ,,,,a [,aa,c] ,c ,d a | \
+[cd,,c/] a ,d ,c [,da] ,,c | \
+,,d/ ,a [acd,a] ,,,,c ,,,,e ,,,a |";italian7tab
+174;;255;La Moresca;Vincentio Galilei;;OT;ConcR1428;C;"[,daa,,d/] ,c ,d a | \
+[c,da,,d3/4] d/4 [c,da/] a/4 ,d | \
+[acd/] [,da] [,ab] [,cd] | \
+[,daa,,d1] [,ca] :||: \
+[,daa,,d/4] ,c ,d a c d f d |";italian7tab
+175;;255;Gagliarda 23;Vincentio Galilei;;OT;ConcR1133;3;"[aabc1] ,,,,,a/ d c a | \
+[,ea,c1] ,,,,,,a/ ,a ,c ,e | \
+[aab,,a/] c d ,c ,d a | \
+[c,da/] d f [,df] [ab] c |";italian7tab
+176;;256;Passemezzo 1;Vincentio Galilei;ne segue un altro a 266;OT;;C;"[aabc1] ,,,,,a/ c [da,c] c/4 a [ca,b/] ,,d | \
+[aab,,a/] ,,a ,,,c ,,a [aabc] ,,d ,a ,c | \
+[,ddef/] f ,,a/4 d c a";italian7tab
+177;;257;Gagliarda;Vincentio Galilei;;OT;;3;"[ef,h,e1] [hf,gh] [fcde] | \
+[ec,ce1] ,,c/ [c,,a] [aa,c] ,e | \
+[acd,a/] ,,c [,,fec] ,e ,f/4 ,e ,c ,e | \
+[aa,c,a/] ,,a [,,cc] [c,d] [ea] [f,a] |";italian7tab
+178;;258;Passamezzo 11;Vincentio Galilei;;OT;;C;"[bdda3/4] d/4 f/ [d,e] [bdda] a ,d ,c | \
+[,dddf/4] ,c ,d a b d f d [b,,a] ,,,c ,,,d ,,b ,,d ,a ,b ,d |";italian7tab
+179;;262;sans titre;Vincentio Galilei;;OT;;C;"[acd,a/] ,,a/4 ,,c ,,d ,a ,c ,,d [,a,c] ,,d \
+,,c ,,a [aad,,a] ,,c ,,d/8 ,,c ,,a ,,c | \
+[acd,a/4] f e c [a,c] ,d ,c ,a [,cdca] \
+,,c ,,d ,a [,c,c] ,d a ,c |";italian7tab
+180;;264;sans titre;Vincentio Galilei;;OT;;C;"[aac,,a1] ,,,c/ ,,d ,a ,c [,a,b] ,,d | \
+[aac,,a/] ,,d ,,c ,,a [,a,c] ,,,a [a,,,e] ,,,,c | \
+ [,cdca/] f e c [a,,,e] ,d [,c,c] ,a |";italian7tab
+181;;266;sans titre;Vincentio Galilei;;OT;;C;"[aab,,a3/4] ,b/4 ,a ,,d ,,b ,,a | \
+,,,c/8 ,,,b ,,,c ,,a ,,b/4 ,,,c [,aacc/] ,,,b/4 ,,d | \
+[,abc,a/4] d c a [,d,,,c] ,c [,a,a] ,,d |";italian7tab
+182;;267;Aria franzesa;Vincentio Galilei;;OT;;C;"[,aaac1] [,daac] [aa,c,d] | \
+[c,e,ec3/2] e/ [c,d,dc1] | \
+[,aaac/] ,,e [,aaac] ,c [,d,c,d] a | \
+[c,d,dc3/2] e/ [c,d,dc1] :||: \
+[ccde1] [ccde] [eccd] |";italian7tab
+183;;268;sans titre;Vincentio Galilei;;OT;;3;"[abb,d3/4] c/4 d/ a ,b ,a | \
+,,d/ ,a [ab] ,,,,d ,,,,c ,,,,a | \
+[,aba,d3/4] ,d/4 ,d/ a ,d/4 ,b,a ,,d | \
+[,ab/] ,,d ,,b ,,a ,,,c ,,,a |";italian7tab
+184;;269;Gag.da;Vincentio Galilei;;OT;ConcR548;3;"[,dda/] a b1 [acd,a] | \
+[,dd,,,a1] ,,,,a ,,,a | \
+[dd,f/] f g1 [fd,e] | \
+[ddef1] ,,,,,d [dde] | \
+[a,,,d/] [,d,,c] [,b,,a] [,a,,,d] [,,d,,b] [,,b,,a] |";italian7tab
+185;;270;sans titre;Vincentio Galilei;p. 272 empty;OT;;C;"c2 ,a1 ,f | \
+,d1 ,a [,df/] ,c ,d a | \
+[c,a/] a [ca] e [f,d1] ,,a/ e | \
+[c,d/] ,,c [c,d] ,a [ac1] [c,d] |";italian7tab

@@ -1,0 +1,122 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;117;Spagnoletto;;;OT;Conc_4501;C;"[,aa,c1] | [,da,c1] ,c/ ,d [acd,a1] ,d/ a | \
+[cd,a1] c ,d [c,,a] | [a,,,e1] [,d,,c] [ad,,a] ,c | \
+[,daa,,a2] ,,a1 :||:";italian7tab
+2;;120;Villanico;;;OT;ConcR1903;C;",d/ a | [cd,a1] c [a,,,e] [,d,,c] | [,cd,a3/2] ,a/ ,,d1 [,,d,,c] | \
+[,a,,,d1] [,c,,a] [,d,,c] ,a | [,cd,a2] ,,d1 ,d/ a |";italian7tab
+3;;124;Barrera;;;OT;ConcR1092;C;"[cd,a/] c c c c [cd,a1] [f,,,a] | [cd,a2] ,d | \
+[cd,a/] c c c c [cd,a1] [f,,,a] | [cd,a2] [cd,a1] [acd,a] | \
+[cd,a1] a/ ,d [,cd,a2] |";italian7tab
+4;;129;Brando;;;OT;ConcR1904;C;"f/ d | [cd,a3/2] a/ c1 [c,,,c3/2] a/ ,d1 | \
+[,cd,a2] ,,d1 ,a/ ,c | [,daa3/2] a/ c1 [c,,,c3/2] a/ ,d1 |";italian7tab
+5;;135;Pauaniglia;;;OT;ConcR1902;C;"[ab,,d1] d [c,,,a] a | [,ea,c2] ,,,,,e1 ,a | \
+[,cd,a2] [,ea,c] | [aacc2] ,,,,,a1 c | \
+[aa,c1] ,c ,d a | [cd,a2] ,d1 f |";italian7tab
+6;;138;Gratioso;;;OT;ConcR1905;3;"[,caa,2] ,,,,c [,db,,d] | [,cd,a4] [,daa2] | \
+[,d,,,c2] [,a,,,d] [,c,,a] | [,daa,,a4] ,,,a2 | \
+[hd,f4] [hd,d2] | [fd,a4] [ea,c2] | [fc,,a2] [cd,,c] ,e | \
+[aac,,a6] |";italian7tab
+7;;142;Torneo amoroso;;;OT;ConcR1895;C;"[a,cc2] [f,de1] [f,de] | [ea,c2] [ea,c] | [fd,a1] f [c,,a] f | \
+[dabc2] [dabc] | [cd,a/] a c d f1 [da] |";italian7tab
+8;;147;Bianco fiore;;;OT;ConcR1893;3;"[,daa1] ,c ,d a c d | [f,,a3] c1 d f | \
+[h,,f2] [f,,e] [d,,c] | [cd,a3] a1 c2 | \
+[,da,c1] ,c ,d a c d |";italian7tab
+9;;150;Cesarino;;;OT;ConcR1906;3;",a/ ,c | [,da,c3/2] ,c/ ,d1 | [a,,,e3/2] ,d/ a1 | \
+[cd,a2] z3 f/ e | [c,,a3/2] d/ c1 | [a,,,e3/2] c/ a1 | \
+[,ea,c2] ,a1 :||:";italian7tab
+10;;154;Brando di Cales;;;OT;ConcR1907;C;"[,,d,a1] ,,b ,,d ,a | [,b,,a1] ,a [,b,,,b] ,d | \
+[aab,,a2] [,df1] [,ba] | [,acc1] ,,,a ,,,,d ,,,,c | \
+[,,d,a1] ,,b ,,d ,a |";italian7tab
+11;;159;Pauaniglia;;;OT;;C;"[,aa,c1] ,c ,d ,a | [,cd,a3] ,d1 | [,cd,a2] [,cd,a] | \
+[,aa,c3] ,c1 | ,d1 ,a ,c ,d | [acd,a3] c1 | a1 ,d [,c,,c] ,a |";italian7tab
+12;;163;La Cortesia;;;OT;ConcR1891;C;"[,da,c3/2] ,c/ [,d,,c1] [,cd,a] | [cd,a2] ,d1 f | \
+[d,,c1] [c,,a] [acd,a/] c d a | [cd,a2] [,daa,,a] :||:";italian7tab
+13;;167;Brando detto la Biscia;;;OT;ConcR1894;C;"[aa,c1] ,e a c | [acd,a2] [,ea,c] | [aac,,a4] | \
+[aac,,a2] [,acc] | [,cd,a4] | [,ea,c2] ,c1 ,e | \
+[aac,,a4] | ,,,c2 :||:";italian7tab
+14;;172;Bassa Gioiosa;;;OT;ConcR1898;C;"[fd,a3/2] c/ d1 f | [h,,f3/2] f/ d1 [c,,a] | \
+[ab,,d1] d [c,,,a] a | [,ea,c2] [,aa,c] | \
+[,da,c3/2] ,c/ ,d ,c ,d a |";italian7tab
+15;;176;Bassa delle Ninfe;;;OT;;C;"[aa,c1] ,e a c | [ea,c2] [a,,,,a] | [aa,c1] ,e a c | \
+[ea,c2] [a,,,,a] | [fc,,a2] [fc,,a] | [ea,c3] h1 | \
+f1 e c e |";italian7tab
+16;;180;Amor Felice;;;OT;;C;"[aabc2] [aabc/] d c a | [,ea,c2] [,aa,c1] d | \
+[c,,a1] [,d,,c] [a,,,d] [c,,a] | [dab,,d2] [dab,,d] | \
+[cd,a3/2] a/ c a c d |";italian7tab
+17;;183;Ballo dett' Alta Visconte;;;OT;ConcR1899;3;"[aa,c3/2] c/ e e [f,,,a2] | [cd,a2] ,,d ,,,,,,a | \
+[cd,a3/2] d/ f1 f [d,,c2] | [cd,a4] ,,,,,,a2 | \
+[,ab,,d3/2] ,c/ d1 [d,,c] [acd,a2] |";italian7tab
+18;;187;Alemana d'Amore;;;OT;;C;"[fd,a3/2] h/ f1 [f,,a] | [da,c3/2] c/ a1 [d,,c] | \
+[cd,a1] [aa,c] [abd,a] [,ea,c] | \
+[aac,,a1] b [a,,,d] [,d,a/] ,b | \
+[,acc1] [,,d,a] [aad,,a] ,,c |";italian7tab
+19;;191;Galleria d'Amore;;;OT;ConcR1892;C;"[,,d,a3/2] a/ c a c d | [aac,,a2] [a,,,,a1] f/ d | \
+[cd,a1] [aa,c] [aaa,c] ,e | [aac,,a2] ,,,c1 :||:";italian7tab
+20;;196;Tordiglione;;;OT;;C;"[ab,,d3/2] ,d/ ,b ,d a1 | [,db,,d1] ,a [,bd,a3/2] a/ | \
+,,d/ ,b ,a ,,d [aac,,a1] ,,,c | [ab,,d3/2] ,d/ ,b ,d a1 |";italian7tab
+21;;202;Canario;;;OT;ConcR481;3;"[,daa3/2] a/ c1 | [,daa3/2] a/ c1 | [db,,d2] [cd,a1] | \
+[acd,a2] [,daa,,a1] | [cd,a3/2] d/ f1 | [cd,a3/2] d/ f1 | \
+[db,,d2] [cd,a1] | [acd,a2] ,d1 |";italian7tab
+22;;206;Bassa Imperiale;;;OT;ConcR1558;C;"[fc,,a1] | [cd,a3/2] a/ ,d1 [f,,,a] | [cd,a3/2] a/ ,d3/2 f/ | \
+[h,,f1] [f,,e] [d,,c] [c,,a] | [acd,a2] z1 ,b/ ,d | \
+[,b,,d3/2] ,d/ [,b,,a] ,d a c |";italian7tab
+23;;210;Laura gentile;;;OT;ConcR1890;C;"[bb,d2] [bb,d1] b | [bb,d2] ,,,d1 [f,,d] | \
+[d,,c1] [b,,a] [a,,,d] [,d,,c] | [ab,,d2] ,,,,d1 ,d | \
+[db,,d3/2] b/ a b d a |";italian7tab
+24;;214;Alta Mendozza;;Jump in page counting 215 -> 211;OT;;3;"[fd,a2] [fd,a] [da,c] | [cd,a4] ,d2 | \
+[fd,a2] [fd,a] [da,c] | [cd,a4] ,d2 | \
+[fd,a4] [d,ac2] | [cd,a3] a1 [,d,a2] | \
+[acd,a3] [,da1] [,c,c2] | [,daa4] ,,,,,,a2 :||:";italian7tab
+25;;216;Adda Felice;;;OT;ConcR1908;C;"[fd,a3] h1 | [fd,a2] [da,c] | [cd,a3] d1 | \
+[c,,a2] [d,,c] | [c,,a2] [a,,,d] | [,d,,c2] [,b,,a] | \
+[,ab,,d2] ,,,a | [,ab,,d1] ,,,,,c ,,,,,a ,,,,,c |";italian7tab
+26;;219;Il Bizzarro;;;OT;ConcR1896;C;"[cdda2] | [acd,a1] ,d a c | [dab,,d2] [da1] h | \
+[f,,,a1] d c a | [cd,a2] [ca,,c1] ,e | [acd,a1] ,d a c |";italian7tab
+27;;224;So ben mi chi hà buon tempo;;;OT;ConcR956;C;",,d1 | [,,d,a1] [,a,,,e] [,b,,a] [,d,,,c] | \
+[aac,,a2] ,,,c1 ,,d | [,,d,a1] [,a,,,e] [,b,,a] [,d,,,c] | \
+[aac,,a2] ,,,c1 c | [d,,c2] [f,,a] | [h,,f3/2] ,,,f/ f1 d |";italian7tab
+28;;228;Pastor leggiadro;;;OT;ConcR1900;C;"[acd,a1] | [acd,a1] [acd,a] [cd,a] [cd,a,,a] | \
+[acd,a1] ,c ,,d [,cd,a] | [,db,,d1] [,cd,a] [,ad,,a] [,ac,,a] | \
+[,cd,a3] :||: ,a/ ,c | [,db,,d2] [,cd,a] |";italian7tab
+29;;231;Alto Somaglia;;;OT;;C;"[aacc1] a/ c a ,d ,c ,a | [,cd,a1] [f,,a] f/ d c a | \
+[,ea,c1] a [a,a,c] ,e | [aac,,a4] :||:";italian7tab
+30;;236;Bigarà;;;OT;ConcR1909;C;"[,daa1] | [,dff1] [,,de] [,dff] [acd,a] | \
+[,daa1] ,a/ ,c ,d1 [cd,a] | [acd,a1] ,d [,c,,a] [,d,,,,a] | \
+[acd,a2] [,daa,,a] :||:";italian7tab
+31;;240;Leggiadra Marina;;;OT;ConcR1910;C;"[aabc/] ,d a c [d,,c1] [dc] | [cdda2] [cdd,,,a1] a/ ,d | \
+[,cd,a1] [,aa,c] [,aa,,c] [,,e,,c] | [,aabc2] ,,,,c1 :||:";italian7tab
+32;;244;Fedeltà d'Amore;;;OT;ConcR1901;C;"h1 | [h,,f1] f [d,,c] c | [acd,a2] ,,,c1 c/ d | \
+[f,,a1] d [c,,c] a | [ca,,c3/2] a/ ,e1 h | \
+[h,,f1] f [d,,c] c |";italian7tab
+33;;247;Leggiadra Gioiosa;;;OT;ConcR1911;C;"f1 | [f,,a3/2] d/ [c,,a1] a/ ,d | \
+[,cd,a3/2] ,a/ ,,d1 f | [f,,a1] f [h,,f] [f,,e] | \
+[da,c2] [a,,,d/] c d a |";italian7tab
+34;;252;Nobiltà d'Amore;;;OT;;C;"f1 | [c,,a1] d [f,,a] h | [f,,a2] [c,,a1] [d,,,c] | \
+[f,,,a1] f [f,,a] d/ c | [acd,a2] [cd,a1] ,,,,,,a | \
+[cd,,,c1] ,,,,,d/ ,d";italian7tab
+35;;255;Bizzarria d'Amore;;;OT;;C;"f1 | [f,,a1] c d f | [h,,f3/2] f/ d1 h | \
+[f,,a1] d [c,,c] a | [cd,a2] z1 [cd,a1] | \
+[a,,,e1] ,c [,d,,c] ,a |";italian7tab
+36;;261;Battaglia;;;OT;;3;"[,cd,a3/2] ,d/ ,c1 | [acd,a3/2] c/ a1 | \
+[,cd,a3/2] ,d/ ,c1 | [,,d,,a4] :||: \
+[,cd,a/4] ,a ,c ,d c1 c | [acd,a3/2] ,d/ a1 |";italian7tab
+37;;266;Corrente;;;OT;;3;"c/ d | [fd,a3] h1 f2 | [da,c3] f1 d2 | \
+[cd,a2] [,d,a1] f/ d | [cd,a3] a1 [,d,,c2] | \
+[,cd,a3] ,a1 [,c,,a2] | [,daa2] ,,d1 :||:";italian7tab
+38;;269;La Nizzarda;;;OT;ConcR1912;C;"[,d,a1] a | [cd,a3] a1 c2 | [da,c3] f1 d2 | \
+[cd2] ,,,,,,a [,daa1] a | [cd,a3] a1 c2 | \
+[da,c3] f1 d2 | [cd,a2] ,,,,,,a :||:";italian7tab
+39;;272;Austria Felice;;;OT;ConcR1897;C;"[aa,c1] ,e a c | [aac,,a2] [,ea,c] | [aac,,a2] ,,,c1 a | \
+[,cd,a2] [,ea,c] | [aac,,a2] ,,,c | [aa,c1] ,e a c | \
+[aa,c2] [,ea,c] |";italian7tab
+40;;276;L'Entrata;;;OT;ConcR1913;C;",a/ ,c | [,d,,c1] ,d [acd,a] [acd,a] | \
+[cd,a1] ,d/ a [c,,a1] a/ ,d | [c,,a1] ,a [,a,,,c] ,,e | \
+[,a,,c1] ,,c/ ,,d";italian7tab
+41;;280;Catena d'Amore;;;OT;;3;"[da,c1] c d f [d,,c2] | [cc,a1] a c f [c,,,c2] | \
+[a,,,d1] ,e a c [a,,,a2] | [,ea,c1] ,c ,e a [,e,,c2] |";italian7tab
+42;;284;Caccia d'Amore;;;OT;;C;"[dab,,d1] | [a,,,d1] [d,,c] [dd,a] c | \
+[dab,,d2] ,,,a1 [ddff] | [ab,,d1] [da,,c] [db,,d] [c,,a] | \
+[ab,,d2] z1 [ddff/] d | [cd,a1] [cd,a] [aa,c] [aab,,a] |";italian7tab
+43;;295;Brando;;;OT;;C;"[,dff1] | [,ddf1] ,,,e ,,,f ,a | ,d1 ,,,a ,,,f ,a | \
+[ab,,d1] a [,dda] ,b | [,acc1] ,,,,,a [,,d,a2] | \
+[,,de1] [,ab] [,bd] ,,,,a |";italian7tab

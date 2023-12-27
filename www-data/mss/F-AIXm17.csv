@@ -1,0 +1,413 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+0a;;6;[Quand je voy ce bel oeil;;;;ConcR746;;
+0b;;10;[Vous me juriez bergère];;;OT;ConcR343;;
+1;d moll;97r;Enfarinez bien vostre teste …;;Les Enfarinés;;Conc_1;C;"[,aaaa1] [,,dcc/] ,,b [,,aaVd1] [,aa,a] | \
+V[,c,,,e1] [a,a,a] [,'c,,,a] [,a,,,Vb] | \
+[aVda{,a}1] [,'c{a}/] ,a [,,da,a1] a/ ,,,,,b | \
+['a,,,,d3/2] ,c/ a1 {,a} | \
+[,cdc,d1] {4}/ ,c [,cdc1] [a,d,,a] | "
+2;a moll;97v;Sarabande de Gautier ton commun;Bocquet;#143;;Conc_2;3;"[,cde1] e3/4 ,,,c/4 [,,,'a/] e | \
+,,,,c3/4 e/4 'c/ ,,c V,,d c | \
+,,,,a/ ,,d a (,,c/4 ,,a ,,c3/4) c/4 | \
+{4}1 ,c/ ,,,c V,,,e ,c | \
+,,,,,c/ ,,,e ,a ,,,e [,,,'c] ,a | "
+3;a moll;97v;Courante de Gautier, commun;V.Gaultier;Les Larmes de Boisset (#144);;Conc_3;3;"[,,a,cd1] [,,a,ac3/2] ,,,d/ | \
+[,,a,,a1] ,c/ ,,,,,a {b} ,,c | \
+,,,,,a/ ,,,,c ,,d {a} {,a} ,a | \
+{,,a}/ ,c ,,,,c1 [,,cd/] ,,c | \
+[,,de1] [,,ce{,,a}3/2] [,,,'d/] | "
+4;F dur;98r;Sarabande, commun [+ Double de la 2 partie];;Nuit agréable;;Conc_4;3;"[,,'a1] [,,aa{,a}3/2] ,,a/ | \
+V[,,ba{d}1] [,,ba] [,,ba] | \
+[,,aa{,a}1] [,,,ccd{4}3/2] ,,d/ | \
+[,,aad1] {,a}2 | \
+[,,'a1] [,,aa{,a}3/2] ,,a/ | \
+[,,bc{a}3/2] ,,a/ [,,,c,d1] | \
+[,,d{,a}1] [,,'c{a}3/2] ,,d/ | "
+5;d moll;98r;le Retour du Cardinal;;;;;3;",a/ | \
+[,aaaa1] e [ed{,a}] | \
+e/ {a}1 e/ 'c a | \
+[,'ca,,e1] ,,,,a/ a ,,,,c c | \
+,,,,d/ e ,,,,,d ,c ,,,,a a | \
+[,'c,,,a3/2] ,a/ [,aa,a1] | \
+{,,,a}2 ::"
+6;F dur;98v;Courante, commun;G.Pinel or Bocquet;#148;;Conc_5;3;"a1 | \
+[add{,a}3/2] e/ c a | \
+[,'cd1] a [,'a{a}/] ,,d/4 ,a | \
+,,d1 {4}/ ,,d [,,'b] ,,a | \
+[,,bc{a}1] [,,'bc3/2] ,,a/ | \
+[,,aaVd{,a}1] ,,,,,d/ ,a ,c a | "
+7;F dur;98v;Sarabande, commun;Pinel;;;Conc_6;3;"[,,ded{,a}1] [,,de/] ,,d {,,a}1 | \
+[,,,'c,d3/2] ,,a/4 ,,,c ,,a1 | \
+[,,,aa{,,,a}1] [,'daaa3/2] ,d/ | \
+[,c,,,a3/2] ,a/ ,,d1 | \
+[,aba{d}1] [,,aba/] ,a ,,d ,,b | \
+[,,'aaa3/2] a/ [c,,,c1] | "
+8;a moll;100r;Contrepartie de la Courante du fuillet precedent;V.Gaultier;Contrepartie of Les Larmes de Boisset;;Conc_7;3;"e1 ['da] ,c | \
+[a,d1] ,,a/ ,,,,c ,a ,,,d | \
+[,,d,,a1] ,c/ ,c [,'a,,a] ,,d | \
+[,,'c,c1] {,,a} [,'a] | \
+[,,d,,a1] {,,a} [,,'c/] ,,a/4 ,,,d | \
+,,a1 ,,,,,a/ ,c [,'a1] | "
+9;a moll;100r;Courante, commun;V.Gaultier or D.Gaultier / Ch.Mouton;La Belle Homicide;;Conc_8;3;"e/ ,c ,d | \
+[,c,,,a1] ,,a3/2 ,e/ | \
+[c,,c1] [e,aa3/2] e/ | \
+['d,,,c1] {,,a}3/2 e/ | \
+[e,,,,a1] ,,,e/ ,,d ,c ,e | \
+[c{,,a}1] ,,d [,a{,a}] | "
+10;F dur;100v;Allemande, commun;Bocquet;;;Conc_9;C;",,d/4 ,a ,c | \
+[adda{,a}1] [add] ,,,a/ a [,'c,c3/4] ,a/4 | \
+[,,de1] ,,b/ ,a [,,'bc3/2] (,,a/4 ,,b) | \
+[,,'aa1] [,,'b/] (,,a/4 ,,b ,,d1) ,,,,d | "
+11;C dur;100v;L'Artus;;Gavotte;;Conc_5170;C;"[,'c{4}/] ,a | \
+,,d1 ,,,,,a {a} [,'c{,a}3/4] a/4 | \
+[c{,,a}1] ,c [,cd,,a] e/ c | \
+[,e,,a1] [c,c] [,'c,a3/2] ,e/ | \
+c1 {a} ,,,,a c ::"
+12;D dur;101r;Courante;D.Gaultier;#154;;Conc_10;3;",e/ ,c ,,e | \
+[,af3/2] ,,,e/ ,,c ,,,c | \
+[,,a,e1] ,a ,,,,c/ ,,e | \
+,a1 {,,,a}/ e ,,,,a1 | \
+[c,c1] [c,a{,,,a}3/2] ,e/ | \
+[,c,,,a1] ,,a/ ,a ,c ,,c | \
+[,ce1] ,,,,e [,ac] | "
+13;F dur;101r;Borée de La Pierre, ton commun;;;;;3;",,,a1 ,,a ,,,a | \
+{,a}1 [,,dcc] [,,aad] | \
+,,,a1 {,a} a | \
+,,b3/4 ,a/4 c1 ,,,,c3/4 a/4 | \
+c1 ,,,,,d3/4 ,c/4 ,,d1 | \
+{4}1 a/ ['a,,,a1] c/ | "
+14;a moll;101v;Allemande de Berance, ton commun dont la contrepartie est au fuillet 115;;;;Conc_4189;C;"e/4 | \
+[ecdeca3/2] e/ [c,,,,c] ,,f ,d c | \
+[,,c{4}/] ,,,,,d ,,a ,c [,a,,,c] ,,,e [,a,d3/4] ,c/4 | \
+[,,da/] ,,,,c ,,c ,,,,a [,,a,,d] (,,,,,c/4 ,,,,,a) \
+[,,,'d,c{,,a}/] ,,a/4 ,,,d | "
+15;d moll;101v;Courante, ton commun;V.Gaultier;#157 - PAN 4.116;NAO;Conc_11;3;"e/ | \
+[eda{,,,a}3/2] c/ 'a c | \
+,a/ ,,,,a e ,,,,,e ,,a c | \
+['a,,,a3/2] ,c/4 a ,a1 | \
+[kaa{,,,a}1] ,,,,a [kaa] | \
+[h,,,,a1] ['g,a/] h e1 | \
+,d/ e ['cc1] ,a/ a | "
+16;d moll;102r;Sarabande, ton com.;Pinel;;;Conc_12;3;"['aaaaa1] c e | \
+[,ce,,e3/2] a/ [,aaaa1] | \
+[,abaab1] ,c [a,,,,'a] | \
+[,'c{a}3/2] a/ [aVda{,a}1] | \
+[,,aad1] ,,c [,,dcc] | \
+[,,,ccd3/2] ,,a/ [,,bca{a}1] | \
+[,,,'a{,,,a}1] ,,,c [,,a,,d] | "
+17;d moll;102r;Allemande, ton commun;;;;;C;"e1 | \
+[eaaaa3/2] e/ 'c e ['a,,,a] ,c/4 a | \
+,c/ ,,,,,a [,'c] {a} [,,a{,a}] ,a [,,e{,,a}] ,a | \
+[,aaa{,,,a}1] [,ca,,e] ([a,,,a/4] c) e/ ['d{,,a}3/4] e/4 | "
+18;F dur;102v;Courante, ton commun;;La Royale;;Conc_13;3;"e1 | \
+[edd{,a}1] [,a,,,b] ,c | \
+[a,,,,a1] ['c{a}3/2] ,d/ | \
+[,'c{4}3/2] a/ [c,,,,d1] | \
+([e,,,a1] [e{,a}3/2]) f/ | \
+[c{4}3/2] a/ [,c,,,d1] | \
+[,d,,a/] ,,,,c [,a,,d3/2] ,a/ | "
+19;C dur;102v;Allemande;;;;;C;"c/ | \
+['ccdcc{4}3/2] e/ [c,c] ,a ,d c | \
+[,'cd3/4] ,,c/4 [,da1] ,,c/ c ,,d ,c | \
+,,,c1 [,'a/] [,,,'a] ,,,,c ,,d ,,,,a ,,,,,d | "
+20;d moll;103r;Courante, ton com.;Vincent;;;Conc_2033;3;"e3/4 e/4 | \
+[eaaaa1] ,,,c/ c ['a,a3/4] ,c/4 | \
+[,ab1] [,c,c3/2] ,a/ | \
+[,,ee3/2] [,aaa1] [,c,,c/] | \
+[,d,,a3/2] [,,aa1] ,,c/ | \
+V[,,d,,a3/2] ,,,,c/ [,,d,d1] | \
+[,a,,,b/] ,,d [,,'bc3/2] ,,a/ | "
+21;d moll;103r;Diminution;;de la courante précédente;;Conc_2033;3;",c/ a c | \
+,,,,a/ e ,,,a/4 ,,,c c/ ['a,a] ,c | \
+[,ab/] c [c,,c] ,d [,'c] ,a | \
+[,,ee/] ,,,c ,,,a ,a ,,,,c ,d | "
+22;d moll;103v;Courante de Gaut. Ton Com.;;;;Conc_15;3;"#e3/2 ,a/ ,,e ,c | \
+,a/ a ,,a c 'a ,,,,a | \
+,,,,c/ ,c ,,,a ,,a ,a ,,,c | \
+[,,,'a/] ,a ,,,,,a ,,,,c ,a ,,e | \
+[,aaa{,,,a}1] ,,,,a2 | "
+23;a moll;103v;Courante de Gautier, ton commun;D.Gaultier;;;Conc_16;3;"c1 | \
+[,c,,,a1] ,,a2 | \
+[,,c{b}1] ,,,,c3/2 ,,c/ | \
+[,,d,,a1] ,,a [,,'c/] [,,'d] | \
+[,a,,,c1] {a}3/2 ,c/ | \
+[,cdc{4}3] | \
+[,,aa{,a}1] ,a [,,'e{,,a}/] ,a/4 ,,e | "
+24;A dur;104r-1;Courante de Gautier, sur le nouueau Becarre;Gautier or Du But;;;Conc_17;3;"[,,'e/] ,a | \
+V,c1 ,,a ,e/ ,,a | \
+[,ecd1] [,'c3/2] ,a/ | \
+[,,ee1] ,a/ ,,,,a [,,cdc1] | \
+,,,e/ ,,e [,,'c{,,a}3/2] ,,,e/4 ,,c | \
+,,,e1 ,,,,,a3/2 ,,,d/ | "
+25;A dur;104r-2;Diminution;;;;Conc_17;3;"[,,'e/] ,a | \
+V,c/ ,,a ,e ,c ,e ,,a | \
+,,,d/ ,e ,c ,,,e ,,e ,,c | \
+,,e/ ,,,e ,a ,,,e [,,,'d] ,,,,e | \
+,,,,c/ ,,e [,,'c{,,a}3/2] ,"
+26;A dur;104v;Courante de Gautier, nouueau Becarre;V.Gaultier or D.Gaultier;;;Conc_18;3;",c/ ,,f | \
+[,,'e1] ,,,e [,c,d] | \
+[,c,ee3/2] ,a/ ,,,,c ,,e | \
+[,,'c{,,a}3/2] ,,,e/ [,,,'d] ,,,,a | \
+[,,a,,e1] ,c [,e,,,c/] d | \
+[e,,,,a3/2] ,a/ ,,e a | "
+27;A dur;104v;Courante, nouueau Becarre;;;;Conc_19;3;"e/ 'd ,e | \
+[,'c,,,a1] ,,a2 | \
+[,c,d1] [,'a] ,,,e/ ,,e | \
+[,,c{,,a}3/2] ,,e/ ,a ,,,d | \
+,,,e/ ,,e ,c1 ,,,d/ ,,c | \
+[,e,,e1] {,a}/ d e1 | "
+28;A dur;105r;diminution;;;;Conc_232;3;"e/ d ,e | \
+[,c,,,a1] ,,a/ ,e [,'c] ,a | \
+,c/ ,,,e ,,,d ,a ,,,e ,,e | \
+[,,'c{,,a}/] ,,a ,,c ,,e ,a ,,,d | \
+,,,e/ ,,e ,c ,,,e"
+29;A dur;105r;Courãte de Gautier, Becarre;D.Gaultier;;;Conc_20;3;",,a1 | \
+[,,aVe3/2] ,,,,e/ ,,,,c ,,,,a | \
+[,c,,,e1] {a} [,,e,,a] | \
+[,,'c{,,a}3/2] ,,,e/ [,,,'d] ,,,,c | \
+[,,a,e1] [,,'cd3/2] ,,e/ | \
+[,,ee1] ,,,,,a2 | \
+[,c,,,e1] e/ ,,,,a [d,,,c1] | "
+30;A dur;105v;Gigue de Gautier, nouueau Becarre;D.Gaultier;;;Conc_21;C;",,a/ | \
+[,,ae3/2] ,,c/ V,,e ,,,e ,,e ,a | \
+[,c,,,a/] ,c [,e{a}] d [e{,a}] e ,,,,a ,e | \
+[,c,,,e/] ,c e3/4 ,c/4 [,e,,a/] ,,,,,c d [e,,,,a] | "
+31;f# moll;105v;Courante, Becarre;V.Gaultier or D.Gaultier;"""Cleopatre Amante"" (Rhetorique) or ""pour la Reine de Suede"" (Milleran)";;Conc_22;3;",,e/ ,,,d ,,c | \
+[,,aVe1] {,a}/ ,,e ,,,e ,e | \
+[,e,d1] [,'c3/2] ,a/ | \
+[,,ee3/2] ,a/ [,c,d1] | \
+[,eee1] ,,,g [,gf] | \
+[e,e,e1] {,a} d/ ,,c | "
+32;A dur;106r;Prelude, au mesme ton;Gaultier;#174;;Conc_23;none;",c3/2 d/ Ve1 ,,e d3/2 ,,c/ [,ea1] ,,,d [,'d] [,e,,e] {,a}2 \
+[,'c/] ,a ,,e1 ,,,e [,,'c] [,,,'d2] [,,a,e1] \
+{,a}/ ,,c ,,e ,,,,c"
+33;A dur;106r;autre prelude, sur le mesme ton;D.Gaultier;#175;;Conc_24;none;",,,,,a ,,,e ,,e ,c (,c ,,e) ,c {a} ,,,d ,,c ,c [,'a] \
+,,,,,a ,,,e ,,e ,a {,,a} [,,'c] ,,,e [,,,,cc] d [,,,,'a]"
+34;A dur;106v;Sarabande, nouueau Becarre;Gaultier;#176;;Conc_25;3;"[ece,,a1] [ece/] [ece] {,,a}1 | \
+[dcc1] [dcc/] [dcc] [e{,a}1] | \
+[,e,,e1] [,'c,d3/2] ,a/ | \
+[,,ee3/2] ,,e/ [,,cd1] | \
+[,,ee1] ,,,,e [,,e,c] | \
+[,a,,e{,,,a}3/2] ,a/ {,,a}1 | "
+35;A dur;106v;Courante, nouueau Becarre;Gaultier;;;Conc_26;3;",,a1 | \
+[,,aVe3/2] ,c/ ,,e ,,,d | \
+,,,,e/ ,,a ,,,,c3/2 (,,c/4 ,,,d) | \
+[,,ee1] ,,,,,a3/2 {a}/ | \
+{,a}/ ,,e ,,a1 ,,,,e/ ,a | \
+,,,,,e/ (,c ,a1) e/ 'c | "
+36;A dur;106v;Tricotte nouueau, Becarre;;;;;C;"[,c,,,a1] [,,'e] | \
+[,e,,a1] [,c,,,e] [,ca3/2] ,,f/ | \
+[,,'ee1] [,a,,e] [,'a,d3/2] ,,e/ | \
+[,,'e,,a1] ,,,e [,c,,,a] [,,'e] | \
+[,e,,a1] [,c,,,e] [,ca3/2] ,,f/ | \
+[,,ee1] [,a,,e] [,'a,d3/2] ,,d/ | "
+37;A dur;107r;Redouble du tricoté;;;;;C;"[,c,,,a3/4] ,,f/4 [,,'e3/4] ,c/4 | \
+,,,,a/ ,e ,,,,,e ,c ,,a ,e [,'c3/4] ,,f/4 | \
+,,,e/ ,,e ,,,,e ,a ,,,d ,a ,,c ,c | \
+,,,,,a/ ,,e ,,,e1"
+38;f# moll;107r;Sarabande, Becarre;;;;;3;"[,,aVe{,a}1] [,,,'d/] ,,a ,,,,e ,,e | \
+[,,e,c3/2] ,,e/ ,a ,c | \
+[,ee,a1] [,ec3/2] d/ | \
+[,'d{4}1] ,,e2 | \
+[,ea{,a}1] {a}/ ,,c [,'a] ,c | \
+[,c,,,a1] [,,e,e]"
+39;f# moll;107r;Sarabande, Becarre;;;;;3;"[,eee{,a}1] [,eee/] [,ee] ,,,,e1 | \
+[,ee1] [,ee/] [,ee] ,e1 | \
+[,e,d1] [,'c3/2] ,a/ | \
+[,,ee1] ,,,,e [,,,'c] | \
+,,,,a/ ,,e [,,'c3/2] ,,e/ | \
+,,,,,c/ ,,a ,a ,,,d/4 ,,a ,,,d/ ,c | "
+40;f# moll;107v;Allemande Becarre;;;;;C;",e3/2 [,'d/] ,e ,,e ,a ,,c | \
+[,,ee/] ,,,,e1 ,,,,d/ ,,,,e [,,,,'c] ,,,,a [,,'c] | \
+[,,a,,e/] ,,,d [,,a,e] ,,a [,,,'d{4}] ,,,,,c \
+[,,,b,a] [,,,,d{a}] | "
+41;f# moll;107v;Courante Becarre;;;;;3;",,e/ ,,,d ,,c | \
+[,,ae1] ,,,,e3/2 ,e/ | \
+[,e,e{,a}1] [,'cc{a}3/2] ,,f/ | \
+[,,ee,a3/2] ,,c/ ,,e ,,,e | \
+[,,cd1] ,,,,e [,,,,'d/] ,,e | \
+[,,'a{,a}3/2] ,,a/ [,,c{a}1] | "
+42;f# moll;108r;Courante, Becarre;;;;;3;",e/ ,,e ,,f | \
+[,,e{,a}1] ,,,,e3/2 ,,,,c/ | \
+,,,,a/ ,,e [,,'c3/2] ,,c/ | \
+[,,ed,e3/2] ,,,d/ [,,a,d1] | \
+[,,,d'd{4}3/2] ,,,b/ [,,,ba{,,,a}1] | \
+,,,,a/ ,e [,'c] ,,,,,e [,a,,,c1] |"
+43;f# moll;108r;Allemande de du But, Becarre;Du But, Pierre;;;Conc_28;C;"[,,e{,a}3/2] ,,c/ ,,e ,,,e [,,,'d] ,,,,e | \
+,,,,,e/ [,,,de] [,,,,'d] ,,,,,c ,,,,,a ,,,,e \
+[,,,de{a}] [,,,,'d] | \
+[,,a{,a}/] ,,,,e ,,e ,a [c,,c] ,,e [,ee,a] ,,c | "
+44;A dur;108v;Allemande, Becarre;D.Gaultier;"""Le Tombeau de Blancrocher""";;Conc_29;C;"[,cee,a3/2] ,c/4 ,,e ,c/ ,,,e [,ccd3/4] ,a/4 | \
+[,,ee/] ,,,,,a1 [,,,'d/] [,aa,e] ,a [,c,,'c3/4] ,,e/4 | \
+[,ef,a/] {,,,a}1 ,c/ ,e ,,,,,e [,e,,,'c] e | "
+45;A dur;108v;Prelude Becarre;;;;Conc_4283;none;",,,,,a/ ,,a ,,c ,,e ,a [,'a1] ,,e/4 ,a ,c ,,,,,a ,c {a} \
+,,c ,c {,a} ,,a ,e d e {,,a} ,c 'd ,e ,c {,,,a} {4}"
+46;A dur;109r;Allemande, en Becarre;D.Gaultier;;;Conc_30;C;"[,ca3/2] ,e/ ,,e ,a [,c,d] V,,c | \
+[,,ee/] ,,,,,a1 ,a/ [,,ee] ,,a [,,cd3/4] ,,e/4 | \
+[,,a,e/] ,,,d ,,a [,,,,'c] ,,,,a ,,c [,,'a,,e/] ,,,d/4 ,,a | "
+47;A dur;109r;Courante, en Becarre ou ton vniuersel;V.Gaultier (Dubut?);La Pleureuse Courante;;Conc_31;3;"[,ce1] [,a'c] [,,ee] | \
+[,,cdc3/2] [,,,,'a/] [,,a,,e1] | \
+(,,,,,c/ ,,,,,a) [,,a,,c{,,a}1] [,,,'d/] ,,a/4 ,,,d | \
+[,,ae,a3/2] ,c/ [,'a] ,,e/4 ,a | \
+[,,ee1] {a} {,a}/ ,b | "
+48;A dur;109v;Allemande, ton vniuersel, ou Becarre;V.Gaultier;;;Conc_32;C;"[,,e,dc1] [,,,,ea/] {a} ,,,d/4 ,,,,e ,,c/ ,,,,d | \
+[,,a{,a}/] ,,,,e ,,c ,,a {4}/ ,,,,,e/4 ,,,,e ,,,d/ ,,,,d | \
+,,,,e/ {,a} b/4 ,d b/ [e,e] [d,c3/4] [,e,e/4] | "
+49;A dur;109v;gigue mesme ton;V.Gaultier;;;Conc_33;C;",,e3/2 ,a/ ,c ,,,e [,,'c] ,,,d | \
+[,,aVe/] ,c ,,e ,c [,ef3/2] ,,c/ | \
+[,ce1] e/ ,a ['dc1] ,,,,c | \
+[#e,,,,a3/2] ,,e/ ,c ,,e ,,a ,c | "
+50;f# moll;110r;Tombeau de la famme de Mr Gautier, mesme ton;D.Gaultier;;;Conc_34;C;"[,ea{,a}3/2] ,a/4 ,,e ,a/ {,a} [,,'c] ,,,d | \
+[,,ee/] {a}1 ([,,,,'c/4] ,,,,a) ,,,,,e/ ,,,d ,,a {,a} | \
+[,,aee1] ,a/ {,a} ,,,g ,,,,,e ,,,,e ,,,f | \
+,,,g1 ,,,,,c/ ,,,,e ,,c"
+51;f# moll;110r;Caprice de gautier, mesme ton;D.Gaultier;;;Conc_35;3;",e1 ,,,e ,,,d/ ,d | \
+[,e,,e1] {,a}/ ,,e [,,'c1] | \
+,,,,,e/ ,,a [,,'c1] {4}/ ,,,d | \
+[,,ad{,a}1] ,,,,e ,c/ ,,d | \
+[,,ee,a1] [,,'cd{,,a}3/2] ,,,e/4 ,,c | \
+,,,e1 ,,,,,a ,c | "
+52;f# moll;110v;Rondeau de gautier, mesme ton;D.Gaultier;;;Conc_36;3;"[,,e{,a}3/2] ,e/ [,'c{a}3/4] ,a/4 | \
+[,,e,,a3/2] e/ [,c,,,e1] | \
+,,a/ ,e [,ecd{4}3/2] ,d/ | \
+[,e{,a}2] ,e/ ,g | \
+e1 ,,e ,,f/ g | \
+[,ce1] ,e d/ ,,c | "
+53;d moll;110v;Borée, quelle hure est il, Bécarre enrume;D.Gaultier;Ballet Royal 1674;;Conc_37;3;",c/ [aa,,a3/2] | \
+['b,,,c1] [d,,,,a3/2] e/ | \
+d1 ,c [aa,,a] | \
+['b,,,c1] [da,,,a2] :: \
+d1 [d,,,,a] b | \
+[a,,,a1] ,c [,a,a] | \
+,,e1 [,a{a}] ,c | "
+54;d moll;111r;Prelude sur le ton commun;;;;Conc_1799;none;",a/ ,,a ,,,a ,a {,,,a} ,,,,a ,,,a ,,a ,a [,'c3/2] (a/ ,a1) e \
+,,,,a ,,,,,e e ,,a ,c c e/ [,'c] a ,a f e ,,,,,d ,,,,,b"
+55;F dur;111r;Autre prelude, ton commun;;;;;none;"{,a}/ ,,,,,a ,,,,d ,,,e ,,d {,a} ,,,a ,,d ,d1 e/ {,,a} \
+,,,,c ,a c ,,d ,,,,a ,,d a [,,'b] c ,,,,,d [,,'b]"
+56;a moll;111v;Prelude, ton commun;;;;;none;",c/ [,cde1] ,,,e/ [,,,'d1] ,c/ [,cde1] [,,,'c/] ,,,,d ,,a \
+,a [,,,,'c3/2] ,,,,a/ ,,,,c ,,,d ,,c ,c ,,,e ,,d ,c {,,a} \
+,,,e ,,c [,,,'d1]"
+57;a moll;111v;Courante du v g. ton commun;D.Gaultier;#199;;Conc_38;3;",,d1 | \
+[,,d,,a1] ,,,e ,c | \
+[,c{a}1] {,a}/ ,,a ,c ,a | \
+{,,a}/ ,c [,'a] ,,d/4 ,a ,c/ ,,a | \
+,,,d/ ,,a ,,c ,a ,,,e ,,d | \
+[,,'c'c1] {,,a}3/2 [,,,,'a/] | "
+58;a moll;112r;Courante du vieux Gautier, ton commun;D.Gaultier;#200;;Conc_39;3;",,d/ ,a ,c | \
+a1 ,,,a [c,,,c] | \
+[ed,a3/2] ,,,,a/ ,,,,,d [,,,,,'b] | \
+[a,,,,a1] [,,da3/2] ,,d/ | \
+[,a,,,b/] ,,d [,,'b{a}3/2] ,,a/4 ,,b | \
+,,a1 {,a}/ ,,,c ,,,,,d ,,,a | "
+59;a moll;112r;Courante du vieux Gautier, ton commun;D.Gaultier;#201;;Conc_40;3;"e1 | \
+['dc1] ,a ,c | \
+[e,d1] ,,,e [c,c/] a | \
+[,cd3/2] ,c/ [,'a,c1] | \
+[,,de1] [,,cec3/2] ,,,d/ | \
+[,,de3/2] ,,,,,a/ [,a,,,c1] | \
+[,c,,,d1] [,'a,,a3/2] ,,d/ | \
+[,,'c,c1] [,,aaVd3/2] ,a/ | "
+60;g moll;112v;Courant la Royale, la 9e au B de la 5e, le reste ton commun;;Artus;;Conc_41;3;",,,e1 | \
+[,,,ea{a}3/2] ,,a/ [,,bc1] | \
+[,,aa{,a}1] [,,bc{,,a}3/2] ,,d/ | \
+[,a,a,b3/2] ,c/ [a,,,a1] | \
+[,a,,c1] [cb,,,d3/2] e/ | \
+[ba1] ,,,,a {,,,a} | \
+[c,,,,b/] ,,,,,a [fa{a}3/2] e/ | "
+61;g moll;112v;Borée mesme ton, la 9e au B de la 5e;Hudson;La Princesse;;Conc_42;C;"[,,'b/] ,,a | \
+[,,,c{a}1] [c,,,b/] ,,,,a [,cb,,,d1] e3/4 b/4 | \
+[c{a}1] ,,,,a ,,,c c/ e | \
+f1 [a,b] ['a,a3/2] ,b/ | \
+,a/ ,,,c ,,b ,,,a ,,,,b ,,,c ,,d [,,a,a] | "
+62;B dur;113r;Courante ton commun hormis que la 6e est au B de la 3e et la 9e au B de la 5e;;;;;3;"a3/4 a/4 | \
+[aabaaa3/2] ,b/ [,'a] ,,d | \
+[,a,,a/] V[,,,,b] [,,'d{,a}3/2] ,,,f/4 ,,d | \
+,,,f1 ,,,,,a ,,,,a | \
+[,,ba3/2] ,a/ ,,d ,,b | \
+[,,'aa1] [,,bc] [,,de] | \
+[,aff1] "
+63;F dur;113r;Allemande du du But, ton commun;Du But;;;Conc_43;C;",,d1 [,,'b3/2] ,,d/ | \
+[,,'aa1] [,,'bc] [,,de] | \
+,,,a1 [,,ff] ,,,,a | \
+[,,d,d1] ,,b [,,'aa2] | \
+{,a}1 ,d [,'c{a}2] | \
+,a/ ,,,,,a [,,'d] | \
+,,,a/ ,a ,,,c | "
+64;d moll;113v;Sarabande de Pinel, ton commun;Pinel;;;Conc_44;3;"['aaa{,,,a}/] ,c [,aaaa1] e3/4 e/4 | \
+[ec,,,e3/2] c/ ['aaaaa] ,c | \
+a3/4 c/4 ['ca{a}3/2] a/ | \
+[,ce,,a3/2] ,a/ [,aaaa1] | \
+[,aaa{,,,a}3/2] ,c/ [aaaaa1] | "
+65;g moll;113v;Pantalon, la Cascauillane, ton commun excepté la 9e au B de la 5e;;Branle de Mantoue (#207);;Conc_45;C;",,,b/4 [,,,c{a}3/4] ,,a/4 ,,b3/4 ,,d/4 | \
+[,abc1] [,abc] [,'b,,,d1] ,b/ a | \
+[,abaab1] ,a/4 [,,d{,a}3/4] ,,b/4 ,,d3/4 ,a/4 [,,'b{a}3/4] | \
+,,,c/4 ,,d3/4 ,,b/4 [,,a{,,,a}3/4] ,,,c/4 ,,a3/4 \
+,,,b/4 V,,,c3/4 | \
+{a}2 ::"
+66;F dur;114r;Sarabande ton Commun;;;;;3;",,,a1 [,,#d3/2] ,a/4 ,,d | \
+,a1 {d}3/2 ,a/ | \
+{4}1 [,,,'c3/2] ,,,,d/4 ,,,c | \
+,,,,d1 {,a}2 | \
+,,,a1 [,,#d3/2] c/4 ,d | \
+c1 ,,,,c c | \
+{,a}1 'e3/2 ,f/4 e | \
+,f1 {4}2 ::"
+67;F dur;114r;Allemande de Gautier ton commun;D.Gaultier;#209;;Conc_46;C;"[,,,aVd{,a}3/2] ,,,c/ [,,'a] ,,,a [,,#b] ,,,c | \
+,,,e/4 ,,d ,,,,d1 ,a/4 ,c a/ ,,,,a [c,,,c] ,,d | \
+[e,,a/] {,a} a ,,d [,a,a] ,,,,a [,c,,,d] a | "
+68;g moll;114v;Gigue ton commun;;;;;C;"[aVd2] ,a1 [cb/] ,,d | \
+[,ef3/2] ,,d/ [c,,f1] [e,,e] | \
+[f,,c1] [a,,e/] a [,a,f1] [,,'da/] ,a | \
+[,,bc3/2] [,,,'a/] ,,,,b ,,a ,,d ,,,c | "
+69;g moll;114v;Courante par Mr Gayté, ton commun;;;;;3;"c1 | \
+[cabc{a}3] | \
+a1 ['a,,,,a3/2] ,b/ | \
+[,ab{d}3/2] ,,d/ ,a1 | \
+([,,aa{,a}/] ,,b) [,,'b{a}3/2] ,,,c/4 ,,a | \
+,,,c3/2 ,,a/ [,,b,a1] | \
+[,,d{,a}1] [,,'b{a}3/2] ,,d/ | "
+70;a moll;115r;Sarabande de mr Gautier ton commun;Gaultier;#212;;;3;"[ecde,a1] [ecde] [,,,'c/] ,,,a | \
+[c,,,c1] ,c [,'c] | \
+a1 ['aaaaa3/2] c/ | \
+[,c,,,d1] {4} [,'c] | \
+{a}1 ,,,c/ ,,c ,a ,c | \
+[,,d,,a3/2] ,,,,d/ [,,,,'c1] | "
+71;F dur;115r;Sarabande;;Madame Françoise (#213);;Conc_284;3;"[,,'a/] ,,b [,,d,,d] [,,'d{,a}3/2] | \
+,,d/4 ,,f/ [,,b{d}1] ,,d/ [,,'a{,a}1] | \
+[,,,c{4}3/2] ,,,a1 :: \
+[,,a{,a}/4] ,,b ,,d ,a [,,'b3/4] ,,a/4 \
+[,,,c{,,a}1] ,,b/4 [,,'a3/4] | "
+72;G dur;115r;La boree de Baptiste;Lully;;;Conc_48;C;",a1 | \
+[,,c{a}1] ,,,c ,,a [,,,'ba{,,,a}] | \
+V,,,c2 V[,,d,,a3/2] ,a/ | \
+[,,c{,,a}1] ,c [,'c,,,a3/2] b/ | \
+[,'b,,,c3] ,c1 | \
+b1 [c{a}] [,,,'b,c3/2] ,,,b/ | "
+73;a moll;115v;Contrepartie / de la courante / quy est au fuillet 103 verso sur la 6e marquee;;;;Conc_4188;3;",,a1 | \
+[,,a,ca3/2] ,,c/ ,,d ,c | \
+[,c,d/] ,,,,c e ,,d ,,c d | \
+V[e,,,,a1] ,,a/ ,c e ,,d | \
+[c,c1] {a}/ ,c [,'a] ,,d/4 ,a | \
+[,,d{4}1] ,a ,c | "
+74;a moll;115v;Contrepartie de l'Allemande de Berance quy est au fuillet 101 verso;Berance;;;Conc_4190;C;",c1 | \
+[,c,e,a3/2] ,,f/4 ,,d [,a,,,c/] ,,c/4 ,,d ,a/ ,,c | \
+[,,d{4}/] ,,,c [,,,,cd] ,,a [,a,,,c] ,,,e [,a,d] ,c | \
+[,,de,a/] ,,,,c ,,,c ,,,,a [,,a,,d] (,,,,,c/4 ,,,,,a) \
+[,cc,c/] ,a | "
+75;B dur;116r;Bourée de Baptiste par mr Trouche, ton commun;Lully;;;Conc_48;C;"a/ | \
+[,aba{d}1] [,,ba{a}] [,,'b{,a}3/2] ,,a/ | \
+[,,ba{d}2] [,'b{a}3/2] ,,a/ | \
+[,ab3/2] c/ [c,,,b1] [e,d] | \
+['b,,,a1] {,,,a}2 [cabc{a}1] | \
+[cabc/] e Vf1 [,acc3/2] ,a/ | "
+76;F dur;116r;Borée de Lapierre par mr Trouche;;;;;C;",,d/ | \
+[add{,a}1] c V[e,,a] ['c{a}/] a | \
+[,'c,,,a1] a [c{a}] [,,d,,a] | \
+[,a,,,b1] [,,d,,a] [,,'b{a}] ,,d | \
+[,,aaa{,,,a}1] [,,aaa] [,,aaa] a | \
+[,abaa{d}1] [,ab] [,ab] c/ a | "
+77;d moll;116v;La superbe au ton des Archanges;V.Gaultier;;;Conc_49;3;"a/4 Vc3/4 e/4 | \
+V[f,,,,a1] ,,a a3/4 ,b/4 | \
+[,'a,,,a1] ,,a/ ,,a [c{,,a}3/4] c/4 | \
+,,,,b3/4 c/4 ,,a3/4 a/4 ,,c3/4 ,b/4 | \
+[,'a,,,a2] [a,aa3/4] a/4 | "

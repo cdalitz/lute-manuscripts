@@ -1,0 +1,436 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;1;Preludio de l'Autore;;;OT;;C;"z2 [fdaa,,a1] d | [cdda1] a [,dff] ,,,e | \
+[da,c1] c a [,d/] ,c | [,ab1] [,cd] [,df] [ac] | \
+[cd1] ,,,a [,,de] [,,bc] |";italian7tab
+2;;2;Fantasia de l'Autore;;;OT;;C;"f2 f1 f | c2 d | f2 h | f1 d c a | [cd1] d [fd] [cd] | \
+[da2] ,c1 d | [cd1] f ,f d |";italian7tab
+3;;4;Gagliarda Prima;;;OT;;3;"[,da,c3/2] a/ [c,,a3/2] f/ [ddf,,d3/2] h/ | \
+[fdaa2] ,,,,,,a1 d [cdda2] | \
+[acd,a2] [,aa,c/] ,c ,d1 [,c,,a] [,a,,c] | \
+[cce,,c2] ,,,e1 ,,f ,,e2 |";italian7tab
+4;;4;Gagliarda detta Tamburin;;;OT;ConcR1123;3;"[fc,,a3/2] d/ [cdda2] [hd,f,d] | \
+[fda,,,a2] ,,,,a ,,,a | \
+[dd,,c3/2] c/ [ab,,d2] [f,,,a3/2] d/ | \
+[cdd,,,a2] ,,,,a ,,,a | \
+[,dd,,c3/2] ,c/ [,ab,,d2] [a,,,,a3/2] ,d/ |";italian7tab
+5;;6;Leggiadre Ninfe del Marenzio a 6;;;OT;;C;",,i1 [fh] [ffh] [fhi] | \
+[hi,f/] ,,,h ,,f ,,h [fhi1] ,,,h | \
+[dfg3/2] [dfg/] [dfg1] [cd] | \
+[acd/] ,d ,c ,a [acd] ,,b ,,a ,,,c |";italian7tab
+6;;7;Candide perle del Bicci nel medesimo Libro;;;OT;ConcR1945;C;"[fhi,f4] | [fhi,f2] [fhi,f] | \
+[fhi,f4] | [hiif4] | [fhi,f4] | \
+[fhhh1] [,fh] [,fh] [,hi] | \
+[df,c/] [cd] [dff] [fh] [hif,h2] ,,h | \
+[hhik/] ,,h [,,ik] ,,l";italian7tab
+7;;8; Quando mirai. Horatio Vecchi;;;OT;ConcR1524;C;",,,,c1 ,,,,c/ ,,,,e [,,aa1] ,,a/ ,,b | \
+[cdd1] [cd,a/] [,df] [fh,a1] [fh,h,,a] | \
+[ddf,,d1] [ddf] [cdd,,,a] [cdf] | \
+[aab,,a1] d c a [,efec2] :||:";italian7tab
+8;;9;Di pianti e di sospir. Di Iuliano Paratico;;;OT;ConcR1946;C;",,,a1 [fh] [fh,a3/2] [cd,a/] | \
+[da,c1] ,c/ [d,,c] [cd,a3] | \
+[ac,,a1] [ac,,a] [,d,,,d] | \
+[ac,,a2] [ac,,a] | ,,,,,,f1 [hi] ,,,f [fh,h/] [df] | \
+[df1] [ddb] [a,d] ,c | [,d,a2] :||:";italian7tab
+9;;9;Ahi chi mi tien il core. Di Gio. Giacomo Gastoldi;;;OT;ConcR2780;C;"[d,,c2] ,a1 [c,,a/] [a,,,d] | \
+[c,,a1] ,,d/ ,,b ,,d1 [,ef,c] | \
+[ab,c/] ,a ,a ,,,a ,,,,d ,,,d | \
+[,ef,c2] [a,,,c] | [ca,b2] [d,,c] | \
+,a1 [d,,c] [c,,a] ,,d |";italian7tab
+10;;9;Come faro cor mio. Di Antonio Mortaro;;;OT;;C;"[ce,,c2] [ce,,c1] [ce,,c] | \
+[ce,,c2] [af,,d] | [ce,,c2] [,i,,h] | \
+h2 [,f,a1] [,f,,d] | [,e,,c2] [ff1] d | \
+[c,,,c1] ,e/ ,c ,e2 | [af,,,aa1] ,a :||:";italian7tab
+11;;10;Fantasia in modo di Canzon Francesa del Guami;;;OT;;C;",a2 ,a1 ,a | [a,d/] ,,b ,,d ,a [a,d1] [a,,c] | \
+[,db/] ,c ,d a [,da1] [,cd] | \
+[,abc1] a [,a,c/] c [da,c1] |";italian7tab
+12;;12;Vn'altra Fantasia del detto;;;OT;ConcR2362;C;",a2 ,a1 ,a | ,d2 a | [c,a1] ,c [c,a] [c,a] | \
+[a,d1] f [ea] c | [ac1] ,,d ,c c | \
+[da1] c c ,,d |";italian7tab
+13;;14;Iouisans canzon Francesa di Adriano;;;OT;;C;",,,,c2 ,,a | [,,a,c2] [,ac,,a1] ,,d | \
+[,,fec1] ,c [,d,e] ,,c | \
+[,cde/] ,a/4 ,c ,d/ ,c [,ac] ,,d ,a ,c | \
+[,dfec/] ,,,,a ,,,,c ,,,,e";italian7tab
+14;;16;Gagliarda terza dell'autore;;;OT;;3;"[,d,,c3/2] a/ [cdda2] [cdd] | \
+[acd,a3] c1 [acd,a2] | \
+[,dfec2] [,daac1] [,aba,d2] [,aaac1] | \
+[,ceeec3/2] ,,c/ ,,,e1 c f [ec,c] | \
+[c,,a1] ,a [,,hge] ,g/ ,e ,g2 |";italian7tab
+15;;17;Gagliarda Quarta;;;OT;;3;"[aac,,a3/2] ,d/ [,cdca2] [,aaac] | \
+[,cee,c3] ,h1 ,e ,g | \
+,h1 ,,,,g ,,,,e ,g/ ,e ,g2 | \
+[cce,,c3] c1 a ,d | \
+[acd,a2] a1 [da,c2] [da,,,a1] |";italian7tab
+16;;18;Nasce la pena mia del Striggio con Passaggi;;;OT;ConcR989;C;",a2 ,,,,c1 ,a | [,aa1] ,,,,c [,d,,c] ,,a | \
+,,,a/ ,c [,d,,c] a [ca,ac] ,,,,a ,,,,c ,,,,e | \
+[,,aa/] ,d [c,,,c] e [f,deec] ,,,c ,,,e ,,c |";italian7tab
+17;;21;Balletto Francese;;;OT;Conc_4501;3;",a1 [,af] ,c | [,df3/2] a/ ,d1 | \
+,,,f1 [,df] [acd] | [cd,a2] ,,d1 | \
+c/ e f1 [c,,a] | [acd,a2] [,,d,,c1] | \
+[,aba,d/] ,c ,d ,a [,c,,a1] |";italian7tab
+18;;22;Balletto Alemano;;;OT;ConcR976;C;"c/ d | [fdaa1] c [da,c] [f,,e] | \
+[hd,f1] ,,,,,d/ f c2 | \
+[f,,a/] ,d a c [da,c1] [a,,,e] | \
+[c,,a1] a/ c ,d1 f |";italian7tab
+19;;22;Volta Francese;;;OT;ConcR941;3;"[a,d/] ,d ,b1 [,acc] | [,,dd3/2] ,a/ [,,bc1] | \
+[,,da3/2] ,a/ [,b,,d1] | [ddf,,d2] [deg,d1] | \
+,f/ ,d ,,g ,d ,f ,g | [dfg2] [ddf1] |";italian7tab
+20;;23;Volta seconda Francese;;;OT;;3;",d1 [ab] [c,d] | [d,b1] ,a [cd] | \
+[bd,a1] d/ b [a,d,d1] | \
+[,d,,c1] ,,c [,cd,a] | \
+,,,c1 [,d,a/] a b ,d | \
+[a,,,d3/2] ,,,,c/ [,b,,a1] |";italian7tab
+21;;23;Volta terza Francese;;;OT;;3;",a/ ,c | [,dda1] ,d [acd,a] | [cdd,,,a3/2] a/ [,d,a1] | \
+[fda,,,a3/2] d/ c1 | [f,,a3/2] d/ c1 | \
+[acd,a1] [cdd,,,a/] a ,d1 | [acd,a1] ,d/ ,c [,a,c1] |";italian7tab
+22;;23;Volta quarta Francese;;;OT;;3;"a/ c d1 a | h2 [fh1] | [df2] [cd1] | \
+[ab1] ,d/ ,b ,a ,c | ,,d1 [aac] ,d | \
+[,bd3/2] ,a/ ,b ,d | a1 [,ef2] |";italian7tab
+23;;24;Ballo Alemano;;;OT;;C;"[caa,c1] c/ a1 [,daac] [cde,c] | \
+[,aba,d1] [,ab,,a] [,,de,c] f | \
+[dab,,a3/2] c/ [acd,a1] f | \
+[cdd,,,a1] ,,,a/ a [,da,c] ,c ,a ,,d |";italian7tab
+24;;25;Ballo secondo Alemano;;;OT;;C;"[aabc2] [aabc1] [aabc] | \
+[,da,c1] ,,,,a/ ,c [,ab,,d2] | \
+[aab,,a1] ,,,c/ c d1 [a,,,e] | \
+[cdda1] ,,a/ a [,d,,c2] | \
+[ddf,,d1] ,,,f/ f d1 [c,,a] |";italian7tab
+25;;25;Ballo 3. Alemano;;;OT;;C;"[,daa,,a2] [,aba,d1] [,cdca] | \
+[,dda,,a1] a/ ,d1 [,,d,,c] | \
+[,aba,d/] ,c [,da,c1] [add,a] ,c | \
+[,ddef1] ,,,,,,a/ ,,,f ,,,e1 ,,,,f | \
+[,,aa,,a1] ,d [,ab,,d] [,cdca] |";italian7tab
+26;;26;Ballo 4. Alemano;;;OT;ConcR1560;C;"[fda,,,a2] [fdaa1] [dabc] | \
+[cdda3/2] d/ c1 [hh,f,d] | \
+[fda,,,a2] [da,c,a1] c/ a | \
+[caa,c2] [caa1] ,,,,c :||: \
+[fdaa2] [faa1] [cdda] | \
+[dab,,d2] [dab1] [cdda] |";italian7tab
+27;;26;Toccata de l'Autore;;;OT;;C;"[aab,,a2] ,,,c1 c | d1 ,,,c [,aab] c | \
+[aabc1] ,b [,,aa] ,a | \
+[abd,d1] ,,b/ ,,,,c [f,,,a1] ,,a | \
+[h,ff,d1] f/ h [ffg,,f1] ,i |";italian7tab
+28;;26;In te Domine speraui, a 6 voci, di Claudio da Correggio;;;OT;ConcR557;C;"a4 | [aa,c2] a | [da,c2] [,a,c] | \
+[ddf2] c1 a | [ccf2] [,df1] ,a | [acd2] [c,de] | \
+[da,c2] ,c | [cdf2] h | [,c,e2] [f,,e] |";italian7tab
+29;;28;Padouana;;;OT;ConcR3582;3;"[aabc2] | [aabc/] c d1 [caaa] [a,bcd] [,efec2] | \
+[a,dcd2] [f,,,a3/2] ,,,,c/ ,,,,d/4 ,,,,c ,,,,d \
+,,,,c ,,,,d ,,,,c ,,,,d ,,,a | \
+[a,,c1] ,,,,,a [hffgha4] |";italian7tab
+30;;30;Liquide perle a 5 del Marenzio, con il suo contraponto;;;OT;ConcR1483;C;"a1 a/ a c2 | [ef1] ,f/ ,f [fh2] | \
+[e,,c1] [,f,c/] ,,,c [fca1] ,d | \
+[,acc1] [a,,c/] ,,,c [,cde1] ,d | \
+[,ac1] ,,,c [,,d,e] [,,da/] ,,d |";italian7tab
+31;;31;Contrapunto sopra Liquide perle per sonare insieme;;;OT;;C;",,,c1 ,,d ,d/ ,c ,a ,d | \
+,c1 ,,,,e ,,,e/ ,,,c ,,,a ,,,e | \
+,,,c1 h f/ e c f | \
+e/4 a ,d ,c ,a h f d";italian7tab
+32;;33;Bariera balletto con tutte le sue repliche;;;OT;ConcR1092;C;"[cdda1] c/ c [cdda1] f | \
+[cdda3/2] a/ ,d1 ,,,,,,a | \
+[cdda/] c c c [cdda1] f | \
+[cdd,,,a1] ,d ,,,a [da,c] |";italian7tab
+33;;38;Toccata Seconda dell'Autore;;;OT;;C;"[,aaac3/2] ,c/ ,d a c e | \
+[fc,e,c1] e/ c [ac,ca] ,,d ,,,,a ,,,,,e | \
+,,,,a/ ,,,,c ,,,,e ,,,a [aacc] ,,d [,a,a] [,cd,e] |";italian7tab
+34;;39;Fantasia Seconda dell'Autore;;;OT;;C;",a4 | ,a2 ,c | ,d2 ,a | c2 ,,a/ d c a | \
+[,da/] a ,d ,c [,ac] ,c ,d ,a | \
+[,cd/] ,a/4 ,c ,d a";italian7tab
+35a;;41;Pass'e mezo per # duro;;;OT;;C;"z2 [,efdec2] | [,efec3/2] ,f/ ,e1 ,,,,c | \
+[,ca,b1] [,efec] [a,cce] ,,e | \
+[,efec1] ,,c [,c,,a] ,,a | \
+[,ac,,e1] a/ ,,,,a [,,a,c1] ,e | \
+[aac,,a1] ,,,c/ c e1 ,,,c |";italian7tab
+35b;;41;Seconda Parte;;;OT;;C;"[,e,,c1] ,,f/ ,f c1 [ef] | \
+[ce1] ,a [a,c] ,,e | [,ef1] ,,c [,ce] ,,,e | \
+[,ac1] ,,,c ,,d ,,,b | [,,cc1] h k ,,h |";italian7tab
+35c;;42;Terza Parte;;;OT;;C;"[,ea,c1] h c c | ,e1 ,a [c,a/] a [,ea] a | \
+[c,,b1] ,,,,c ,,a/ ,,,c ,,,b ,,,c | \
+[,ea/] a ,e ,c ,a ,,d ,,c ,,a |";italian7tab
+36a;;42;Gagliarda del Pass'e mezo;;;OT;;3;",e1 a | [ca,bc3] a1 ,e ,c | \
+[,a2] [,cdca] [,aabc] | [,acc,a2] a1 c e ,,,c | \
+,,,,c1 [ca] [a,,,e] ,,e/ ,,c ,,e2 |";italian7tab
+36b;;42;Seconda Parte;;;OT;;3;"[ca,bc3] a1 ,e ,c | [,aabc3] ,,d1 ,,c ,,a | \
+[aac,,a2] ,,,c1 a h f | [ea,c3/2] c/ a1 ,,,,,a ,,,,,e ,,,,a | \
+[,aabc3] ,c1 [,ea,c2] |";italian7tab
+36c;;43;Terza Parte;;;OT;;3;"[,aabc3] ,,,c1 ,,,b ,,,,e | \
+,,,,c1 ,a [,,,c,e] ,,,,a ,c [,aa,c] | \
+[aac,,a2] ,,,,c1 ,,,c ,,,,e ,,,b | \
+[,,cc1] ,a [,,ab] [,,,ce] ,,d [,c,,a] |";italian7tab
+37;;43;Gagliarda Seconda;;;OT;;3;"[,dddf2] [,dedb] [a,bcd] | \
+[bbd,,b2] ,,,d1 ,f b d | \
+f1 ,,,d [db,c] ,,,,d [,dda] b | \
+[abd,a1] ,,,c ,,d ,d [,b,,a] [,aba,d] |";italian7tab
+38;;44;Gagliarda Sesta;;;OT;;3;"[,dda,,a3/2] a/ [,dda2] [a,d,e3/2] ,,b/ | \
+[,dddf3/2] ,e/ ,d1 ,,,,d [,dedb] ,,d | \
+[a,b1] [b,,d] [dbbcd] ,,,d ,,,,d [dbb,c] | \
+[fbdd1] ,,,,,b ,,,,a ,,,,,d ,,,,,b2 |";italian7tab
+39;;45;Gagliarda Settima;;;OT;;3;"[b,d1] [a,b] [,d,d2] [,c,c] | \
+[,dda3] f1 [b,,a] d | \
+[f,,,d2] [f,,,c1] e/ c e2 | \
+[ffh,,f3] h1 [if,h2] | \
+[hfffh4] [fggd2] | [dfgdc3] f1 [gd,f,d2] |";italian7tab
+40;;46;Canzon Frances Alermifault à Cinque Voci di Adriano per suonar à due Liutti vnisoni. Liutto primo;;;OT;;C;",a2 ,a1 ,,d | ,,b1 ,,a [,abc] ,,,,,a | \
+,,,c1 [aa] [,cd] ,d | [,c,e1] ,a [,cd] ,,,c | \
+[,,da1] ,,,,e [,a,,c] ,,d | \
+[,,bc/4] ,,a ,,b ,,d ,,b/ ,,d";italian7tab
+41;;49;Secondo Liutto;;;OT;;C;"h2 h1 f | d/ f d c a/4 ,,d ,a ,c ,d a c d | \
+f/4 ,d ,c ,d ,c ,a ,,d ,,b ,,a/";italian7tab
+42;;52;Non hebbe tante foglie primauera giamai;;;OT;;C;"z1 [,abc1] [,abc3/2] [,cbc/] | \
+[,dda1] [,df,c] [,c,e] ,,e | \
+[,aa,c2] [,,bc1] [,,ab] | \
+[,abc1] [,daa/] ,,,,e [,df,c1] ,,d/ ,,,f | \
+,,,d1 [,,da,c] [,,b,,d] [,,,ca] |";italian7tab
+43;;52;Non ued'hoggi'l mio sole Splender. Del Giouanelli;;;OT;;C;"z1 [cd,a1] [cd,a] [cd,a] | \
+[ac,,a1] [,df,c] [a,,,a] ,c | \
+[cd,,,,a4] | \
+[,a,,,d1] [,a,,,d/] [,c,,a] [,d,,c1] [,df,,d/] ,f | \
+[c,e,,c1] [,df] ,c ,,e | [,a,,c2] :||:";italian7tab
+44;;53;Mi parto ahi forte ria. Del Giouanelli;;;OT;;C;"z2 [ce,,c1] [df,,,a2] | \
+[ce,,c4] | z2 [cd,a4] [ac,,a1] [,df,c] | \
+[,ce,,c2] [,ce,,c1] [,ce,,c] | \
+[,df,c3/2] [,df,c/] [,df,c1] [,c,ca] | \
+[,df,,d1] [,dd,,c] [a,c,,a] [,,c,,a] | \
+[c,e,,c1] [,df] ,c ,,e | [,a,,c1] :||:";italian7tab
+45;;53;Se di dolor io potessi morire. Di Giulio Renaldi à Cinque Voci;;;OT;;C;"[,df2] ,d | [acd2] [aab] | [c,ee2] [,d,ac] | \
+[,c,ca2] [,a,c,d] | [,,ee,c1] [ccde3/2] [ccde/] [caaa1] | \
+[acc,e1] [,cee] [,dfec2] | \
+[,cee1] [c,e,ec3/2] [c,e,,c/] [aa,,cd1] |";italian7tab
+46;;55;In Deo sperauit cor meum di Claudio da Correggio à Sei Voci;;;OT;;C;",,,,c4 | ,,a4 | ,,a2 ,,c | [,,d,,c3] ,,c1 | \
+[,,a,c2] ,,,c1 ,,,a | [,,b,c2] ,,,,e | \
+[,,aa2] [,,a,c1] [,,c,e] | [,aac1] ,,,c [,,aa] ,,,,e | \
+[,aaac2] [,c,,eg] | [,da,c2] [,,c,c] |";italian7tab
+47;;56;Hodie completi sunt dies à Quattro di Andrea Gabrielli;;;OT;;C;",,,a4 | ,,,a4 | ,,,c4 | ,,,e | [,c,a4] | [,dff3] ,,,e1 | \
+[a,bc2] ,,,c1 ,,b | [c,da/] ,a ,,d ,,b ,,a ,,b ,,a ,,,c | \
+[,df,fd/] ,,,,h ,,,e ,,,,h";italian7tab
+48;;58;Padoana Seconda;;;OT;;3;"z4 [cdda2] | [cdda4] [hd,f,d2] | [fhihf2] [,ff,h] ,,,g | \
+[fcd,a/] ,a ,c ,,d ,a ,c1 ,,d | \
+,,,,a1 a/ ,c ,d ,c ,a ,,d ,a";italian7tab
+49;;60;Padoana Terza;;;OT;;3;"z4 [cdda2] | [cdda3] d1 c2 | [dabc2] [ab,,d] ,,d | \
+[cef,c3] [cef1] ,,,e2 | ,,,,c4 [aacc2] | \
+[acd,a2] ,,,c1 [,da] ,c2 | \
+[dda1] ,c [,acc] ,,d [aad,,a] ,,c |";italian7tab
+50;;61;Fantasia in modo di Canzon Francese dell'Autore;;;OT;;C;"f2 f1 f | [hd1] h [cd] [fd] | [df1] ,f ,a [cd] | \
+[acd/] ,d ,c ,d [a,d1] [ccd] | [,df1] [d,f] [f,a] [,cd] |";italian7tab
+51;;62;Di Gio. Gabrielli Fantasia in modo di Canzon Francese;;;OT;;C;",,d2 ,,d1 ,,d | ,d2 ,c | [,a,a2] [,,da1] ,,,a | \
+[,dff2] [,dde1] ,d | [da,c1] ,c [cd,a] ,a | \
+[acd/] ,d a ,c [,df] a c ,d |";italian7tab
+52;;64;Vn'altra di Paolo Tusti;;;OT;;C;",,,a1 ,,,,a ,,,a ,,,c | ,,a/ ,,,c ,,a ,,b ,,d ,,a ,,b ,,,c | \
+[,d,e1] ,,d ,d [a,b] | [c,,a/] a c d f [c,d] [da] [ac] |";italian7tab
+53;;67;Branle Francese duble;;;OT;;3;"[,,b,,a/] ,,a ,,b ,,d ,,b1 | \
+,,,c1 ,,d ,,,,a | [,,a,,,a1] ,,b/ ,,a ,,,c ,,a | \
+[,,,a,,a/] ,,,,e ,,,a ,,,c ,,,a1 | \
+[,,b,,a/] ,,a ,,b ,,d ,,b ,,a |";italian7tab
+54;;67;Branle Secondo;;;OT;;3;"[,,aa,,a3/2] ,,b/ [,,da,,a1] | \
+[,,da,,a3/2] ,,b/ ,,a1 | [,,,a,,a1] ,,d ,,,,a | \
+[,,a,,,a1] ,,,c/ ,,a ,,,a1 | \
+[,,a,,,a/] ,,,c ,,,a ,,,c ,,a ,,b | \
+[,,da,,a3/2] ,,b/ ,,a ,,,c |";italian7tab
+55;;68;Branle Terzo;;;OT;;3;"[,,da,,a1] ,,,d/ ,,b ,,d ,,,d | \
+[,,b,,a1] ,,,c/ ,,,d ,,b ,,,c | \
+[,,,da,a1] ,,,a/ ,,,c ,,,d ,,,a | \
+[,,,ca/] ,,,a ,,,c ,,,d ,,,c1 |";italian7tab
+56;;68;Branle Simple Francese;;;OT;;3;"[,,,a,,a1] ,,,,e ,,,a [,,,ca] | \
+[,,,d,,a3/2] ,,,c/ ,,,a1 ,,,d | \
+[,,,ca1] ,,d [,,bcd] ,,d | \
+[,,,d,,a3/2] ,,,f/ [,,,ca1] ,,,d | \
+[,,,a,,a1] ,,,c/ ,,,a ,,,,e1 ,,,,a |";italian7tab
+57;;69;Gagliarda dell'Autore Ottaua;;;OT;;3;"z3 a1 b d | [fbd,,b3] d1 [bde,b3] | \
+[abb,d1] [,ddd] ,b [,a,a] ,,d | \
+[aacc2] ,,,,,a1 ,a [,dd,,b] ,b | \
+[,a,,,,a1] ,,d [aac,,a2] ,,,c1 ,d |";italian7tab
+58;;70;Chi farà fede, à Cinque del Striggio accomodato à modo di Viola bastarda per suonar in Concerto con Liutto grande;;;OT;ConcR1057;C;"[,dda4] | [,dda2] [,dda] | \
+[,dff2] ,,,,,d1 ,,d | \
+[,dff1] ,,g [,dff] ,,,e | \
+[f,dca1] ,c/ ,d ,c1 ,a | \
+[fc,ca/] ,,d/4 ,a ,c/ ,,d ,f1 ,,,,a |";italian7tab
+59;;74;Mandatum nouum do uobis, à 5, voci di Pietro Vinci;;;OT;;C;"[,ghge] | [ccee4] ,,,e2 [cce,,c] | \
+[cefec4] [effc,a2] [eff,,a] | \
+[ffh,hf4] [effc,a] | z4 [,ghge4] | \
+[ccee4] ,,,e2 [cce,,c] | \
+[cefec4] [effc,a2] [eff,,a] | \
+[ffh,hf4] [effc,a] |";italian7tab
+60a;;75;Domine Deus, di Annibale Padoano, à 6 voci, Prima parte;;;OT;;C;",,,,c2 ,,,,e1 | ,,,a1 ,,,c ,,,e4 ,,,c2 | \
+[,a,c2] ,,b1 ,c | ,d1 a [c,a2] | \
+,,d2 a | [a,d2] [dab] | ,,,c1 ,c [cdf,c] ,f |";italian7tab
+60b;;76;Exaudi Seconda Parte;;;OT;;C;",,,c4 | ,,b3 ,,a1 | ,,b1 ,,,c ,,d2 | \
+,,b2 ,,,c | ,a1 ,,a ,,b ,,,c | \
+[,da1] ,,,,c ,,b ,c | ,d1 ,a [a,a] ,,,c | \
+[,,a,c2] [,db] | [c,aa2] ,a1 [a,,,e] |";italian7tab
+61;;77;La uelenosa uista e'l fiero sguardo Di Oratio Scaletta à Tre;;;OT;;C;",a2 [c,a/] e f e | [c,f/] ,c [,df] ,c [,df,c1] [,cd/] [,ac] | \
+[,cde/] ,,c [,,de] ,,c [cc,e1] [,d,,c] | \
+[fc,e1] [ec,c/] [cc,a] [ac,,e1]";italian7tab
+62;;78;Qual piu crudel martire. Del medesimo;;;OT;;C;"[,i,,h2] h | [,h,a2] [f,d,,c] | \
+[,a,,,d2] [da,,,d] | [dc,,a2] [cd] | a2 ,c | \
+[,d,,,,a2] [,h,a1] f | [fh,a1] [hi,,,h] [df,,d] [d,,c] | \
+[fh,a1] ,i2 ,h1 | [d,,,,d1] :||:";italian7tab
+64;;78;Canzon del Mascara la Vilachiara, ouer fantasia;;;OT;;C;",,,,c2 ,,,a1 ,,,c | ,,a1 ,,a [,ab2] | \
+,d1 [a,a/] ,,,c [c,,a1] c | [d,b1] ,,d [ca/] ,c ,d ,a | \
+[ab/] ,,d/4 ,a ,b ,d";italian7tab
+66;;80;Gagliarda Decima;;;OT;;3;"[da,c2] [bd,a] [a,d,e] | [,dda3] ,,,c1 ,,,a2 | \
+[fg,d2] [db,c] [bdda] | [abd,a3] ,d1 ,b2 | \
+[if,h2] [ha,f] [fd,d] | [effc3] [a,,,e1] [c,,a] e | \
+[f,dd2] [fa,c] [e,,,,a] |";italian7tab
+68a;;81;Erano i capei d'oro di Gio. Maria Nanino à Cinque voci;;;OT;;C;"[,efec2] [,efec1] | [,efec2] [acd,a3/2] ,d/ | \
+,c/4 ,a ,,d ,a ,c ,d a c [ddf,,d/] ,,,,a ,,,,c ,,,,e | \
+[cdda1] ,,,,e [cd,,c] ,,f |";italian7tab
+68b;;82;Seconda Parte Non era l'andar suo;;;OT;;C;",,,,c2 ,,,c | ,,,b2 [,,,cca1] ,,b | \
+[,,abc2] [,,,cce] | [,,,,ef1] [,,,cd] [,,abc2] | \
+[,,cc,a2] [,,dca1] [,,,ca/] ,,b | \
+[,,a,c1] ,,,b/ ,,,c ,,,b ,,,,e ,,,b1 |";italian7tab
+69;;83;Amorosa Fenice di Gio. Maria Cauaccio, à 5 voci;;;OT;;C;"[aacc3] [abd,a1] | [a,dcd2] [,efec1] [acd,a] | \
+[cdda/] ,a ,d1 [a,d,a] ,c | z1 [cdda1] [cdda] ,,f/ ,,d | \
+[dabc/] ,,,a [ab,,d] c [d,,c] a";italian7tab
+70;;84;Ballo Alemano quinto dell'Autore;;;OT;;C;"z3 [,dff1] | [,dff1] [,dff] [aabc] d | \
+[caab3/2] d/ c1 [aabc] | [,efec1] [a,dcd] [,,fec] ,e | \
+[aac,,a1] ,,,,c ,,,a d | [cef1] ,,,,c/ ,c ,e ,f c1 |";italian7tab
+71;;84;Ballo Alemano Sesto;;;OT;;C;"[cdf,c2] [cce,,c] | [cdf,c2] ,d1 ,c/ ,d | \
+[aab,,a1] [cdd,,,a] [dab,,a] ,c | \
+[cdd,,,a2] [dab,,d/] c a ,d | \
+[aab,,a1] [,dd,,c] [,ab,,d] [,cdca] |";italian7tab
+72;;85;Donna la bella mano, à 5 voci di Arcangelo da Bergamo;;;OT;;C;"[,a,c2] [,c,,a1] [,cd] | [,da1] [,cd] [aacc2] | \
+[acd,a1] [,cd] [,da] [,cd] | [hf,gh2] [f,d,e1] [fc,e] | \
+[e,fc1] [ef] [acd,a] [ccd] | [,ac,c1] [aac] [,,fe] ,e |";italian7tab
+73;;86;O bella Ninfa mia à Cinque Voci, di Gianetto Palestina;;;OT;;C;",,d2 [ac] | [cd,a3/2] [cd,a/] [,cd,a1] [cd,a] | \
+[acd,a1] ,,b/ ,,a [c,ca] ,,,a [fc,,ef] d | \
+[c,da,,a1] [c,,a,,a] [,ddef,a] [,d,ef,a] | \
+[a,dcef2] [,cdcef1] [,c,cef] |";italian7tab
+74;;86;Se dal soaue, & amoroso sguardo, à 5 voci, di Gio. Andrea Dragone;;;OT;;C;",a2 ,a1 ,a | [c,d2] [cd1] c | [ac2] [f,d] | [da2] [ac] | \
+[cd3/2] [ac/] [,cd] [,df] [ac1] | \
+,,,e/ [,df] [,df] ,c/4 ,a [,cee1] ,,,e |";italian7tab
+75;;87;Pass'e mezo Paganina;;;OT;ConcR1585;C;"z2 [,aabc1] [,aab] | [,aabc2] [,aab1] ,,,c | \
+[,aab1] [,,de] [,,cc] [,,ab] | [aacc1] ,,,,,a ,,,c ,,d | \
+[aacc2] [,cdca1] [,cdc] | [,cdca1] ,,d/ ,a ,c ,d [a,,,a1] |";italian7tab
+76;;88;Gagliarda della Paganina;;;OT;ConcR1586;3;"z4 ,a2 | [,aabc4] [,aab2] | [,aabc3] ,,d1 ,,c ,,a | \
+[aac,,a4] [aad2] | [aac,,a3] ,d1 ,c ,a | \
+[,cdca2] ,,d1 ,a [,cdca2] | \
+[,daac2] [,daa1] [,cdca2] [,a,c,d1] |";italian7tab
+77;;89;Fantasia Seconda in modo di Canzon Francese dell'Autore;;;OT;;C;",d2 ,d1 ,d | c1 f c d | [f,d1] a [c,d] ,,d | \
+[da1] [cd] ,a [ac] | [cd1] ,,d a ,,c | \
+[,cd1] [,da] ,,b [,cd] |";italian7tab
+78;;91;Fantasia come di sopra di Vicenzo Bellauer;;;OT;;C;",,,a1 ,,d [,,aa] [,,bc] | \
+[,,de1] [,,,a,,a] [,,,,cd] [,,,,ea] | \
+[,,,a,,a1] [fd] [cd] [df] | \
+[fh1] [,,ia] [,ab] [,c,c] | \
+[,d,a1] [fc,ca] [cdaa] [e,,,c] |";italian7tab
+79;;92;Ballo Alemano Settimo;;;OT;;C;"z2 [,,b,,a1] [,,d,,c] | [,aba,d2] [,,da,c] | \
+[,,bc,a2] ,,,c1 ,,b | [,,dea1] [,aba,d] [,b,,a] [,ba,a] | \
+[,aba,d3/2] ,,d/ [,,b,,a1] [,a,,,d] | \
+[,,def1] [,,ba,d] [,,bcd] [,,aa] |";italian7tab
+80;;92;Ballo Alemano Ottauo;;;OT;;C;"[aacc3/2] ,d/ [,cd1] ,,,,a | \
+[cdda3/2] a/ [,da1] ,,,,c | \
+[aacc3/2] c/ a1 ,,,,,a/ ,d | \
+[,cdca3/2] ,a/ ,,d1 ,,,,a | \
+[aacc3/2] ,,,a/ [ac,,e1] ,,,,a |";italian7tab
+81;;93;Fantasia Terza dell'Autore;;;OT;;C;",,c3 ,,c1 | ,,a2 ,,,c | [,ca2] ,,d1 ,c | \
+[,ac1] ,,,c [,,de] ,,,a | \
+,a/ ,,,c ,,,a ,,,,e [,d,,c1] ,,a/ ,,c | \
+[,cd/] ,,,e ,,d ,,,a";italian7tab
+82;;95;Preambulo de l'Autore;;;OT;;C;"[fd,df2] [,,dce1] d | [bdda1] [a,e/] ,d [a,,,d1] ,,d | \
+[,dd,b1] ,,b/ ,,,d [,dd,b1] ,,b | \
+[,bd,a/] ,a ,b ,d [aa1] ,,,,,d | \
+[bbd,,b1] ,,,d [db,,d] ,,,c |";italian7tab
+83;;95;Cuorrente F[r]ancese;;;OT;;3;"[b,,a2] [d,,c1] | [f,,d3/2] g/ a1 | [dfg,d3/2] ,g/ d1 | \
+[b,a1] ,,,,d a | [,d,,b1] ,,,,a ,c | \
+[,d,,b3/2] a/ [b,,a1] | [dfg,d3/2] f/ d1 |";italian7tab
+84;;96;Corrente Secondo;;;OT;;3;"z2 [c,,a1] | [a,c,e3/2] ,d/ [,cd,a1] | \
+[,da,c3/2] ,,c/ a1 | [,cd,a1] a/ c a ,d | \
+[,cd3/2] [,d,e/] [,acc1] | [,,de2] [,,c,e1] | \
+[,,de1] [,acc2] |";italian7tab
+85;;96;Corrente Terzo;;;OT;;3;"z2 ,,d1 | [,dda,,a3/2] a/ ,d1 | \
+[acd,a3/2] ,d/ a1 | [cdd,,,a2] ,,,a1 | \
+[c,,,c1] [a,,,d] ,d | [,cd,a2] [,d,,c1] | \
+[a,,,e1] [cdda2] | [acd,a3] | \
+[,dd,,,a2] [acd,a1] |";italian7tab
+86;;97;Corrente Quarto;;;OT;;3;"z2 f1 | [f,,a3/2] d/ [bdd,,,a1] | \
+[aab,,d3/2] ,d/ [,cdca1] | \
+[,d,ab2] ,,,d1 | [,dedb3/2] ,d/ [,b,,a1] | \
+[,def,d3/2] ,f/ [,gddf1] | \
+[dfg,d3/2] f/ [g,,f1] | [fggd2] ,g1 |";italian7tab
+87a;;97;Cara la vita mia. Di Giaches Vvert A 5;;;OT;;C;"[hiif4] | [hiif2] [fhia] | [dffc2] [cef,c] | \
+[aab,,a1] ,,,c/ ,,a [,ab1] ,,,c | \
+[,efec2] ,,f1 ,,,e | \
+[,,ffc1] ,,,e/ ,,,f [,efe1] ,,d | \
+[aabc/] c d c";italian7tab
+87b;;97;Seconda Parte;;;OT;;C;"[hefe,h4] | [cefec2] [cefec] | \
+[dffc2] [acdca] | [cdda/] d f d [c,,,,,a] a ,d ,c | \
+[ddf,fd/] ,,g ,,f ,,d ,,,f ,,,e ,,,c ,,,a |";italian7tab
+88;;99;Gagliarda de l'autore nona;;;OT;;3;"[aabc2] d [ab] | [cef2] [ce1] [cef2] [cef1] | \
+[aabc2] [,,,cd] ,,d | [,aabc3] ,,,c1 ,,,b2 | \
+[,aa,c2] [,d,,c] [cd,a] | [cdd,,,a3] f1 [ddf,,d] [cdda] |";italian7tab
+89;;100;Canzon Francese, Gofred. A 5. Incerto;;;OT;;C;",a2 ,a1 ,a | [cd,,c1] ,,f/ ,c [cd,,c] ,f [cd,,c] e | \
+[fc,e/] ,,,c ,,,e ,,c [,,de] ,a ,c ,,d | [ea,c/4] ,c ,a ,,d";italian7tab
+90;;102;Beatus homo qui inuenit sapientiam. A cinque voci. Di Cipriano;;;OT;;C;",,,,c4 | ,,,a4 | ,,,a2 ,,,c | ,,a4 | [,a,,c2] ,,b | \
+,d2 ,,a | [,db2] a | [c,a2] ,,,a | [,aa2] [,d,,c] | \
+[,,de2] ,c1 ,,,c | [c,da2] [,a,a] | [bc,,e2] [f,a] |";italian7tab
+91;;104;Gagliarda vndecima;;;OT;;3;"[acc,e2] [ccde] [effc] | \
+[ffhh1] ,,,,a ,,,,e ,,,b [ea,c] ,,,,,a | \
+,,,,,e1 ,,,,a [cdf,c] ,,,,,,a ,,,,,,d ,,,,,a | \
+[cce,,c1] ,,,d/ ,,c ,,e1 ,,f [,ce] [,df,c] |";italian7tab
+92;;105;Gagliarda 12. Del S. Agostino Verroa da Bergamo composta;;;OT;;3;"h3/2 f/ [ef2] [cd] | [bc2] ,,,,e1 ,c ,e b | \
+[ca3/2] ,,d/ [c,c2] [bc] | [c,a2] ,,,,c1 ,,,,a [,,,b,e2] | \
+,a1 [,,d,,c] [,,c,,a] ,,,c [,,aa2] |";italian7tab
+93;;106;Ballo Polaco;;;OT;;C;"[caabc2] [aabc1] [caabc] | [da,c,a1] c/ a [caabc2] | \
+[aa,c1] ,a/ ,,,a ,,,,e ,,,,c [a,e,e1] | \
+[,efec3/2] ,f/ ,e ,c ,e1 | [aab,,a2] [,cde,c] |";italian7tab
+94;;106;Non mi toglia il ben mio a quattro voci, Di Marco Antonio Ingegnero;;;OT;ConcR1196;C;",,,c2 a | [,,d,e2] [,c,e] | [a,cc2] [,,d,e] | \
+[,da,c2] [,cd,a] | [,acc1] ,,,c [,cd,e] [,,de] | \
+,c1 [,,cc] ,a [,,ab] | [a,cc1] ,,c [,cd,a] ,c |";italian7tab
+95;;107;Contraponto dell'Auttore;;;OT;;C;",,,c/ h e c a ,a ,,c ,,a | \
+,,,c/ a ,c ,a ,,d k h f | \
+e/4 a ,d ,c ,a ,,d ,,c ,,a";italian7tab
+96a;;110;Pass'e mezo vltimo;;;OT;;C;"z2 ,,b1 ,,d | [,aba,d2] ,,b1 [,,d,d] ,,,,c ,,b ,,,,a ,,a | \
+[,aba,d1] ,d [,ab] [,d,d] ,,,c ,b ,,,a ,a | \
+[abb,d1] d a [fg]";italian7tab
+96b;;111;Seconda parte;;;OT;;C;"[,aba,d1] ,d ,a/ ,b ,d ,b [,aba,d1] [,d,,c] [a,,,d] [cdda] | \
+[ddf,,d1] l h/ i l i h1 [f,,d] [d,,c] [b,,a] |";italian7tab
+96c;;111;Terza Parte;;;OT;;C;"[ddff1] c/ a ,d ,b ,a ,,d ,,b ,,a ,,,c ,,a ,,b ,,d ,a ,b | \
+,d/ ,b ,a ,d ,,b ,,,c ,,,,d ,,b";italian7tab
+97a;;112;Gagliarda del Pass'e mezo;;;OT;;3;"z4 ,a1 ,b | [,dba,d3] ,b1 [,a,,,d2] | \
+,,b2 [da,,,d4] | [abb,d3] ,d1 ,b2 | \
+,,,,d2 [,,dd,b4] | [,aba,d3] ,d1 a c | \
+d2 [acd,a3] d1 |";italian7tab
+97b;;112;2. parte;;;OT;;3;"[,aba,d2] ,,,,c1 ,d2 [,b,,a1] | \
+[,ab,,d2] ,,,a1 d2 [b,,a1] | \
+[abb,d3] ,,,a1 ,,,c ,,,e | \
+,,,f1 ,,,,d [,,def] ,,,f ,,,,,,a ,,,e | \
+[,aba,d3] ,,d1 ,a ,c |";italian7tab
+97c;;112;3. parte;;;OT;;3;"[,dba,d3] ,b/ ,a ,,d ,,b ,,a ,,,c | \
+,,,a2 [dab,,d3] b1 | [abb,d3] ,,d/ ,a ,b ,d a b | \
+a2 [,d,,c] [,b,,a] |";italian7tab
+97d;;112;Represe;;;OT;;3;"[ddff2] ,,,,,d1 f h2 | \
+[fdaa2] [dabc] ,c | [cdda2] ,,b1 ,,a ,,,c | \
+,,,a1 [a,d,d] [,d,,c] ,,b [abd,a] c | \
+[ddf,,d3/2] ,,d/ ,,,f1 [,,de] [,ab] [,cd] |";italian7tab
+98;;114;Vn giorno passeggiando Io me ne gia. Di Angelo Barbato;;;OT;;C;"z1 [abd1] [abd3/2] [ab/] | \
+[,dff1] [,bd] [,acc2] | \
+[,acc2] [,bd1] [,ab/] [,,de] | \
+[ca,c1] c/ a [,dff1] [,,de/] [,,bc] | \
+[b,da1] a/ ,d [,bdd1] [,d,,c/] ,,,a |";italian7tab
+99;;115;L'amata Ninfa mia. Di Gio Maria Nanino;;;OT;;C;"[acd2] [acd3] | [f,de1] [da,c] [cd] | \
+[cd,a2] [cd,a1] [fh,a] | \
+[fh,a1] ,,,a/ [hi] [fh,a1] [df,c] | \
+[ce,,c3] [df,c1] | [fca1] [cd,a] [a,d] ,c | [,d,a2] :||:";italian7tab
+100;;115;Torneo Amoroso balletto italiano;;;OT;;C;"[aabc2] [aabc1] [aabc] | \
+[,dbac1] ,c [,aba,d] ,a | \
+[acd,a3/2] c/ [da,c1] [acd,a] | \
+[cdda3/2] a/ [,daac2] | \
+[ddf,,d3/2] f/ d1 [cdda] | [aabc/] ,d a c";italian7tab
+101;;117;Balletto Alemano vltimo;;;OT;;C;"[cdda/] a c d f h f1 | \
+[fdaa1] ,,,,,,a ,,,a [ha,f] | \
+[fdaa1] [ha,f] f/ d c a | \
+[cdda1] a/ c ,d1 ,,,a |";italian7tab
+102;;117;Canzone a Otto Voci de l'Auttore per suonar a 4. Liutti ouero fantasia;;Liuto corista del Primo Coro. Incomincia insieme con il suo Liutto Tenore che segue;OT;;C;"[da,c2] [da,c1] [da,c] | \
+[ca,,c1] [aabc] [,ea,c2] | \
+[aab,,a2] z2 | z4 | [da,c2] [da,c1] [da,c] | \
+[ca,,c1] [aabc] [,efec/] ,f [f,e] ,e | [aab,,a2] z2 | z4 |";italian7tab
+103;;119;Segue il Liutto Tenore del Primo Coro cioè accordato vna quarta piu basso del Corista;;;OT;;C;"[abd,a2] [abd,a1] [abd,a1] | [aabc1] [abd,a] [aacc] ,,,,,a | \
+[bd,a2] z2 | z4 | [abd,a3/2] ,,,,c/ [abd,a] ,,,,c [abd,d] ,,,a | \
+[aabc1] [abd,a] [aacc] ,,,,,a | [abd,a2] z2 | z4 |";italian7tab
+104;;121;Segueno i doi Liuti del Secondo Coro in risposta.;;Liutto Corista del Secondo Coro aspetta due battute;OT;;C;"Z2 | [da,c2] [da,c1] [ca,d] | \
+[ca,,c1] [aabc] [,efec/] ,f [f,e] ,e | \
+[aab,,a2] z2 | z4 | \
+[hf,fh3/2] [if,h/] [hiif3/2] [hi,f/] | \
+[fh,,f1] ,,i/ ,f ,h ,i f ,h |";italian7tab
+105;;122;Segue il Liutto cordato a la quarta Basso;;Liutto Tenore del Secondo Coro aspetta due battute;OT;;C;"Z2 | [bd,a3/2] ,,,,c/ [abd,a] ,,,,c [abd,d] ,,,a | \
+[aabc1] [bd,a] [aacc] ,,,,,a | \
+[bd,a2] z2 | z4 | [abd,a3/2] [,d,a/] [,bb,d1] [,bbcd] | \
+[,aba,d1] ,d [,dff] ,,,,,d |";italian7tab

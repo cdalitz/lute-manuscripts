@@ -1,0 +1,1028 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1;c moll;4r;(#1) [Prelude];;;1a;;C;"{,,,a}1 ,,,,a/ ,,,c ,,d ,a ,b ,,d | \
+a1 ,,,,a [,abdc] ,a | \
+,,d1 a ,,,,,a [aabc] | \
+,,,a1 ,,,,d ',,,,c/ ,d ,,b d | "
+2;c moll;4v;(#2) [prelude];;;1a;;C;"{,,,a} ,,,,a ,,,c ,,d ,a ,b ,,d a ,,,,a [abdca] \
+,,,,,d ,,,,,c ,,,,,a {a} {,a} [,bbcd] ,d a ,b d | "
+3;g moll;4v;(#3) [prelude];;;1a;;C;"{,,,a}/4 ,,,,a ,,,c ,,d ,a ,b a ,,,,a [abdc] c | \
+,,,,,a/8 ,,c [ef] ,,,a ,,,,d f ,,,,,a ,,,h h ,,,g ,,,,a \
+[ifh] [h,f] [,fg] f"
+4;F dur;5r;(#4) [prelude];;;1a;;C;"{a}/4 ,,,a ,,d ,d a b ,,,,d ,,,,b ,,,,a ,,,,,d [d,ff] ,f f | \
+{a} d b ,,d a ,,b ,,,d ,d a ,,,,a ,,,c ,,d ,a ,b ,,,,,d ,,,,,b"
+5;g moll;5v;(#5) [prelude];;;1a;;C;"{,,,a} ,,,,a [,,dc] ,a ,c ,d a c e a f \
+,,,,,a ,,,c [ef] ,,,a [ff,,d] h ,,,h [hf,g] ,f ,,,h [ffg] \
+,,,f ,,,d [ffd] f"
+6;a moll;5v;(#6) [prelude];;;1a;;C;"f/ {,,,a} ,d ,c d [b,,a] ,,d a ,,b ,,,,a ,,,d ,d ,,,c ,,d ,b \
+{,,,a} ,,,,d ,,b ,,,d [,,ea] ,,,,,d ,,,c ,,,a ,,,d"
+7;a moll;6r;(#7) [prelude];;;1a;;C;"{a}/ ,,,a [,dd] a b {a} ,,,a [bdd] a ,d ,,,,a [abdc] \
+,,,,,d ,,,,,b ,,,,,a ,,,c [da] ,,,,,b [dab,,d] ,c"
+8;F dur;6v;(#8) [prelude];;;1a;;C;"{a}/ ,,,a [,dd] a b ,d d b a ,d [add,a] ,c ,,b [,dd{a}] \
+a c ,d [fd,a] d [cd] d [ab] c [,da]"
+9;F dur;6v;(#9) [prelude];;;1a;;C;"{a}/ ,,,a ,,d ,d a b ,d a ,,,,d ,d a ,d ,,,,b ,d a ,d \
+,,,,,d ,d a d ,,,,a ,,,c ,,d ,d a ,d"
+10;B dur;7r;(#10) [prelude];;;1a;ConcR2372;C;"[ddff/] f h [f,,e] ,d h ,,,,,a ,,,c [aab] c d ,,,a ,,,,d \
+a ,,d f {a} ,,,a [,dd] a c ,,,,d ,,,,c ,d ,,b d"
+11;d moll;7r;[Prelude];;;2;Conc_3990;none;",a {,,,a} ,,,,a ,,,a ,,a ,a ,c a ,a e ,,,,a \
+,,,,,e ,c e c ['aaaaa{...a}] ,c a ,a ,,,,,d ',,,,,b ,a a"
+12;D dur;7v;Praelude;;PAN 1.094;3;;C;",a ,,,,a ,,,c ,,d ,a {,,,a} {,,a} {,a} ,,,,a \
+,,,c ,,d ,a ,,b ,a | \
+[,,aa{a}] ,a ,c a {,,a} ,,a b ,,c"
+13;D dur;8r;Courent;;PAN 4.025;3;Conc_5200;3;",a1 | \
+[,adca3] | \
+[,cc,a3/2] a/ b d | \
+a1 ,,,,,c ,,,,e | \
+[aaae1] ,,,,,a [faa{a}] | \
+[d{,a}1] a [faa{a}] | \
+[b{,,a}1] [a{,,,a}3/2] ,c/4 a | \
+,c1 ,,,,,a ,,,c | \
+[,cc2] :||:"
+14;g moll;8r;Chanzon;Guedron;Enfin ces beaux yeux - PAN 4.011;4a;Conc_287;C;",a1 | \
+[,aaa{a}1] ,,,,a [,aaa] | \
+[,aaa2] [,bca,d/] ,a | \
+[,,cc{,a}1] ,,,,d [,,cc] | \
+,a1 [,aaddb3/2] ,,c/ | \
+,,a1 ,,,a [,,,c{a}] | \
+,,a1 [,,c,d3/2] ,,a/4 ,,c | \
+,,a1 ,,,,,b ,,,,d | "
+15;g moll;8v;[Courante];;PAN 4.325;4a;;3;",,,a1 | \
+[,,,aa{a}3/2] ,,,d/ ,,,c ,,,a | \
+,,,,e1 {,,,a} ,,,,a | \
+,,,h3/2 ,,,f/ ,,,d ,,,c | \
+[,,,d{a}1] ,,,f ,,c | \
+[,,c{,a}3/2] ,,f/ ,,e ,,f | \
+,,h1 {a} {,,a} | \
+{,,,a}2 ,"
+16;G dur;9r;[Courante];;PAN 4.006;5;Conc_3477;3;"e3/4 f/4 [h{a}1] | \
+,f1 ,e3/2 ,f/ | \
+,h1 {,,,a}/ h f h | \
+e1 {a}/ e [c{,a}] e | \
+[a{,,a}3/2] ,,,,c/ ,,,,a ,,,,c | \
+[,c,,,d1] a [,a,,,c] | "
+17;G dur;9v;[Courante];;PAN 4.326;5;;3;"h1 | \
+[haa{a}3/2] a/ c1 | \
+e1 [ce,,a3/2] a/4 c | \
+[a{a}1] ,,,,a ,,,a | \
+[aaa3/2] h/ f h | \
+[eaaa1] {a} {,a} | \
+{,,a}1 h [g,,,,a] | "
+18;d moll;10v;Cour:;;PAN 4.327;6;;3;"e/ c/4 e | \
+[a,,,a3/2] ,c/4 a ,a1 | \
+[,c,c1] ,,d [,,c,,a] | \
+,a1 {,,,a}/ ,,,c ,,,,f ,,,c | \
+[a,,,d1] ,,,,a ,,,,d/ ,,,a | \
+,,,c1 {,a}/ ,,,a ,,,c ,,a | "
+19;G dur;11v;Courante;;Allemande - PAN 3.130;5;;C;"[,adc2] [,c,,,d/] ,,,,,c ,,,,,a ,e | \
+[af{a}1] [c{,a}3/2] a/ c1 | \
+[e{,,a}1] ,f e3/2 g/ | \
+[h{,,,a}/] c e ,f c ,e a ,c | "
+20;D dur;12r;Cour:;;;7;Conc_2722;3;",a1 | \
+[,aaaa1] {,,a}/ ,c ,e ,a | \
+{,,,a}3/2 ,e/ ,c ,,a | \
+,a1 {,,,a} ,,,,a | \
+[,aaa2] a1 | \
+[f,f,,a3/2] h/ f1 | \
+[d{a}1] ,,a ,a | "
+21;D dur;12v;Sarabande;;PAN 5.242;3;;3;"[a,,,a1] ,a d | \
+[dcc,,a2] {,,a}1 | \
+[bca3/2] d/ a1 | \
+[,a,,,c1] ,,a {a} | \
+,c1 ,a [,,c,,a] | \
+[,,,c{,a}2] ,a1 | \
+{a}1 [,c,,,a3/2] ,,d/4 ,c | "
+22;h moll;13r;Cour:;;PAN 4.258;3;ConcR1078;3;"a1 | \
+[aaae3/2] a/ c d | \
+[f,,a1] [dccc3/2] b/ | \
+[a,,,a1] ,,,c [aad] | \
+,,c/ ,a ,c a ,a ,,,e | \
+,,c1 ,,,d a | "
+23;c moll;13v;Sarabande;;;1a;;3;"{,,,a}1 | \
+[,bdc2] {a}1 | \
+[,dda1] a {,,,a} | \
+[,bdc2] ,,,,,a1 | \
+,b1 [,a{a}3/2] ,b/ | \
+[,,d{,a}3/2] a/ [,,a{,,a}1] | \
+,d1 [,bdc{,,,a}3/2] ,b/ | \
+,a1 ,,,,,a ,,,c | \
+[aac2] "
+24;c moll;14v;[Saraband];;#24 Ballet de la Reyne;1a;Conc_1744;3;"{,,,a}1 | \
+[,bdc2] {a}1 | \
+[,ddd2] {,,,a}1 | \
+[,bdc2] ,,,,,a1 | \
+[,acc2] {,a}1 | \
+[abb2] {a}1 | \
+[,dda2] {,,,a}1 | \
+[,bdc1] [,a,,,a3/2] ,,d/4 ,a | "
+25;F dur;15v;[Saraband];;Marion pleure;1b;Conc_1050;3;"{a}1 | \
+[,aa2] {a}1 | \
+[,,aa3] | \
+[,,b,,a/] ,,a/4 ,,b ,,,c1 {a} | \
+[,,aa2] {,a}1 | \
+,,,c1 {a} ,,,e | \
+[,,,c{,a}2] {,,a}1 | \
+,,,a1 {,a} {a} | "
+26;g moll;16r;Sarab;;PAN 5.072;4a;Conc_2623;3;"[daaa1] [daaa] {,,,a} | \
+[da/] c d [a{,,a}] ,,,,b ,,,a | \
+[ab1] [aba] ,,,,,b | \
+,a1 ,,c ,d | \
+,,,,,d1 [,baa] [,,a] | \
+,a1 {,,,a} ,,,,a | "
+27;D dur;16r;Cour.;;Privé des deux beaux yeux - PAN 4.049;3;Conc_1052;3;"a1 | \
+[aadca3] | \
+[,c,,,a/] ,e ,c3/2 ,a/4 ,,c | \
+,a1 ,,,,,c ,,,,e | \
+[,aae3/2] ,a/ [,c,,,a] a | \
+[baa{a}1] ,,,a/ d b a | \
+b1 [a,,,a3/2] ,c/4 a | \
+,c1 ,,,,,a ,,,,c | "
+28;G dur;16v;[Allemande];;PAN 3.131;5;;C;"[,'aaa2] [,a,ce3/2] ,,,f/ | \
+,,a/ {a} ,,,a ,,b ,a ,,a [,c,f] ,e | \
+,,a/ a ,,,c ,,,a [c,,,e] e [a,,,c3/4] c/4 | "
+29;G dur;17r;[Allemande];;PAN 3.132;5;;C;"[,aaa{a}3/2] ,a/ [,,dc{,}3/4] ,,b/4 ,,a/ ,,b | \
+[,,aa{a}/] [,,,ac] [,,,ca] ,,a ,,b ,,,,,d ,,a ,,,c/4 ,,a | \
+,,,c/ {,,,a} ,,,,a ,,,,,d ,,,,,c ,,,,a [,,,,ca] ,,,,e | "
+30;G dur;17v;Cour:;;PAN 4.062;5;Conc_5201;3;"f1 | \
+[ea{a}1] f [h{,a}] | \
+[a{,,a}1] f e | \
+[ef{,,,a}1] ,e/ c ,,,f ,a | \
+,,a/ a {a}1 [,,b,,a] | \
+[,a,,,c1] ,,,a a | \
+[,c,,,d1] ,,,a ,,,c | "
+31;d moll;19r;Cour:;;PAN 4.328;6;Conc_4345;3;",,d/4 ,c a e | \
+e1 [ecc1] c | \
+[aad1] e [c,,a3/2] a/ [,cec1] ,d/ ,,d | \
+,c1 [,,cc] ,,,a | \
+[,a,,d1] [,cd,c] ,,c | \
+[aadca1] ,,d/ ,c a c | "
+32;d moll;19r;Chanson 'Ebend[ie]';;;2;Conc_4345;3;",a/ ,c a c | \
+e1 [ece3/2] c/ | \
+[aaf1] e [c,,c3/2] a/ [,cee1] ,d/ ,a | \
+,c1 [,,ee] ,,,c | \
+[,a,,d1] [,cf,c] ,,e | \
+[aafea1] ,a/ ,c a c | "
+33;h moll;19v;Sara:;;Je sais Philis qu'en ces bas lieux - PAN 13.112;3;Conc_4494;3;",,,,,c1 [,aaae2] | \
+{,a}1 [,,cde2] | \
+,,,,,a1 [,cccc2] | \
+{,,a}1 [bcaac2] | \
+,,,,,c1 [aaaee2] | \
+{a}1 [faaa] e | \
+f1 [e{,a}] ,e :||:"
+34;g moll;20r;Prelud;;PAN 1.095;8a;;none;"{a} ,,,,a ,,,a ,,a ,a c a c ,b a ,a ,b a (,d ,b ,a) ,,c ,a \
+,,a ,,c ,a ,,a ,,,c ,,a ,,,a"
+35;g moll;20v;Sara:;;PAN 5.243;4a;;3;"[afa{a}2] ,,,,,d1 | \
+[,e{,,,a}3/2] a/ {a}1 | \
+[daaa2] ,,,,b1 | \
+[c,c,d3/2] d/ ,,,,,b1 | \
+[,aad2] {a}1 | \
+[,b,,,d1] ,,,a ,,,c | \
+[,,,d{,,,a}1] ,a {,,a} | "
+36;g moll;21r;Sarabande;Johann Schop;#36 Amor hält einzig zum süßesten Possen - PAN 5.245;8b;Conc_1745;3;"[,,,aa{a}1] [,,,ce] [,,,df] | \
+[,,c,,d3/2] ,a/ [,bc1] | \
+[,aaddb2] [,,cc{4}/] [,,aa] | \
+[,,,'c{,,,a}3/2] ,,,a/ ,,,,e1 | \
+,,,a1 {a} ,,,,a | \
+[,,aa3] | \
+[,,aa{a}1] [,,cc] [,aa] | "
+37;g moll;21v;Praelud;;PAN 1.096;8a;;none;"{a}1 ,,,,a ,,,a ,,a ,a c c/ ,a ,,a {a} ,,,,,a ,,,,,b ,a c \
+,,,,,d ,,,,a ,,,a Vc e f1 {,,,a} ,a f ,c ,,,,a ,e ,,c ,,a ,a"
+38;g moll;22r;Allemd;;PAN 3.133;8a;;C;",a1 | \
+[,aaaf3/2] ,a/ [,aeca/4] [,,e(y] ,,c ,,a ,,,c ,,a ,,c [,a,y)] | \
+[,,a{a}/] ,,,a f3/4 f/4 [e,,,ee/] ,a f3/4 [c,,,b/4] | \
+['b,,,a/] ,a [c,a,b3/4] c/4 [aa,,,b/] ,,,a [,b,a,d3/4] a/4 | "
+39;c moll;22v;Courante;;;1a;;3;"a1 | \
+[abdca1] [aa,,,e] ,d | \
+[,b,,a1] ,,d [bdd{a}] | \
+[a,d,e3/2] ,d/ ,b ,a | \
+[,,de,b1] ,d [,cba,a] | \
+[,ddd1] {a} [,ddd] | \
+[,bdca1] [,a,,,a3/2] ,b/ | \
+,,d1 ,,,,,b [,,dd] | "
+40;d moll;23r;Sarab;;;2;Conc_3991;3;",,a/ {,,,a} ,,a | \
+[,,aa1] [,,aaa/] [,,aa] ,,,,,e ,,a | \
+[,,aaa1] [,,aaa/] [,,aaa] ,,,,,d ,,a | \
+',,,,,b/ ,,a ,,,c ,,a ,,,,,a ,,a | \
+[,,aad1] [,,aad/] ,,d {a} ,,d | "
+41;c moll;23v;[Courante];;;1a;;3;"a/ b | \
+[a,,,a1] ,,,c [,bd] | \
+[,ddd{a}3/2] ,f/ ,d ,,g | \
+,,f1 ,,,,,a/ ,,,,f ,,,,d ,,d | \
+,,,,f/ ,,,,d [,,c,,a3/4] ,,,,d/4 ,,,,c ,,,,d ,,,,c \
+,,,,a ,,,,c ,,,,a | \
+,,d1 [,,b,c] ,,,d | \
+[,,,cd1] [,,,a,d3/2] ,,,,d/4 ,,,a | "
+42;c moll;24r;[Courante];R.Saman;#42;1a;Conc_4347;3;"a1 | \
+[,abbcd3] | \
+[,dba,d2] a/ ,d | \
+,b1 ,,,,d {,a} | \
+[,bbc2] d1 | \
+[dff,d3/2] f/ d1 | \
+[gf,f1] d [,fg,d] | \
+[df1] ,f ,g | "
+43;c moll;24v;[Courante];V.Gaultier;#43 - PAN 4.116;1a;Conc_11;3;"a1 | \
+[abd{,,,a}3/2] ,d/ ,b ,a | \
+[,,dca1] [a,,,,e] ,,,c/ ,d | \
+[,b,,a3/2] ,a/4 ,b ,,d1 | \
+[ffg{,,,a}1] h f | \
+[d,,,,a3/2] c/4 d ,f1 | \
+,,g/ ,f [,df1] [,bd] | "
+44;c moll;25v;Cour:;Ballard;#44;1a;Conc_1746 (#44);3;"a1 ,b ,,d | \
+a1 ,,c/ ,,d ,a ,b | \
+,d/ ,b [,a,c3/2] ,,d/4 ,a | \
+,,d1 ,,,,a ,a/ ,b | \
+,,d1 [,,b,c] ,,,d | \
+[,,,cd1] {,a} ,,,a/ ,,,,d | "
+45;c moll;26v;[Courante];Gaultier or Ballard;#45;1a;Conc_1747;3;"a1 | \
+[,bdc{,,,a}1] ,,,,a ,,,c | \
+[,,d{a}1] ,,,d/ ,b ,a ,,d | \
+[,,c,,a1] ,,,,c ,,,c | \
+[aacc2] d1 | \
+[dfg{,a}1] ,,,,d ,,,f | \
+[f,g,,f1] ,,,,h ,,,h | "
+46;c moll;27v;[Courante];;;1a;;3;",,,c/ ,,a ,,c | \
+[,,dca3] | \
+[,a,,,e1] ,,,c ,,,a | \
+[,b,ca3/2] ,a/4 ,b ,,d1 | \
+[a,,,d1] [,dba,d] a | \
+[,bbc{,a}3/2] ,d/ a b | \
+d1 [b,d{a}] ,a | "
+47;c moll;28v;[Courante];Gaultier;#47;1a;Conc_4348;3;"a1 | \
+[abd,a3/2] {,,,a}/ b a | \
+[a,dd3/2] ,d/ ,b ,d | \
+a1 ,,,,a ,,,,c | \
+[,,d,d/] ,,,a [,a,c3/2] ,,d/4 ,a | \
+,b1 ,,,,a [,d,,c] | \
+[a,d,a3/2] ,d/ ,b ,d | "
+48;c moll;29v;Cor:;;#48 Volte;1a;Conc_1748;3;"a1 [,bd] [,df] | \
+[a,c3/2] ,d/ [,bd1] | \
+[,d,a1] [,a,,,a3/2] ,,d/4 ,a | \
+,,d1 {,,,a}/ f c e | \
+f1 ,,,,a [i,,h] | \
+[h,,,,a1] ,f ,,i | "
+49;d moll;30r;[Courante];;;2;;3;"e/ c e | \
+[aaaa1] {,,,a}/ e {,,a} c | \
+{,a}/ e ['c{a}3/2] a/ | \
+,c1 ,,,,,a/ ,a ,,e {a} | \
+{,a}/ ,a {,,a} ,a c ,,e | "
+50;c moll;30v;Ball:;Per Brahe;#50 From Ballet de la Reine, 1606;1a;Conc_1749;C;"[abd,a2] [aa,c,e3/2] ,d/ | \
+[,b,,a1] ,a/ ,,d [f{a}1] [e,,,,a] | \
+[f,,,a1] {,,,a} [acd,a] [c,,a/] ,,,,d | \
+[,d,,c/] ,,,,a [d,,,,d] b [a,,,d1] [,dba,d/] a | "
+51;c moll;31r;[Courante];;;1a;ConcR430;3;"a1 | \
+[,abd2] ,,b1 | \
+,,,d1 a/ ,d ,b ,d | \
+a1 ,,,c ,,,,,a | \
+,,,c2 a1 | \
+[,b,,a3/2] ,a/ ,b1 | \
+,d1 ,,,d/ ,,,c ,,,a ,,,,d | "
+52;c moll;31v;All:;Guedron;#52 Je rencontrai l'autre jour;1a;Conc_4492;C;"[,bdca1] [,bdca] | \
+[,bdc{,,,a}1] ,a/ ,,d [,,c,,a] ,,,c ,,d1 | \
+[,,dc{,,,a}1] ,,,,a/ ,a [,b{,,,a}] ,,d [,d{,,a}] [,,bd] | \
+[a{,a}/] ,,b [,d{a}] a [,b,,a] ,d [,a,,,a1] | "
+53;c moll;32r;Cor:;Gaultier;#53;1a;Conc_3452;3;",,d1 | \
+[,,dc{,,,a}3] | \
+[,,cc1] ,,,,,a {a} | \
+[,,d{,a}1] [,a{,,a}/] ,b ,d a | \
+[,b{a}1] ,,d ,b | \
+[,b,,a1] ,,,,c ,,,,d | \
+[,db1] ,,,,,d/ a b d | "
+54;c moll;32v;Co:;De Moy;#54;1a;Conc_1750;3;",,d/ ,a ,b ,d | \
+[ab,,d3/2] b/ a1 | \
+[a,,,d1] [,db,,d3/2] a/4 ,d | \
+,b1 {,a} ,,,,d | \
+[,bbc1] ,b/ ,d a b | \
+d1 ,,,c/ b d1 | "
+55;d moll;33r;[Allemande];;;2;;C;"a1 | \
+[aaaaa1] {,,,a}/ c e{a} c3/4 a/4 | \
+,c/ [,,,,,a{b}] ,,a ,,,c ,,,a ,,a [,,c,c{,a}3/4] ,,e/4 | \
+,a/ ,,,,a ,,a ,,f/4 ,c a/ ,,,,,c [c,,,,c] a | "
+56;c moll;33v;Cor:;Ballard?;;1a;Conc_1751;3;"a1 | \
+[ab,,d3/2] b/ a1 | \
+[,db,,d1] ,a/ ,b ,d a | \
+,b1 {,a} ,,,,d | \
+[,bbc2] d1 | \
+[dfg,d3/2] f/ d1 | \
+[badd1] ,,,,d a | "
+57;c moll;34v;Co:;Despond;#57;1a;Conc_1752;3;"f1 | \
+[ffgh3/2] h/ [d,,c1] | \
+[f,,d1] [b,,a3/2] a/4 b | \
+[a,,,a1] ,,b/ b [,d,d] a | \
+[,b,c1] [,,d,d] [i,,h] | \
+[h,,,h1] ,,,d [ff] | "
+58;c moll;35r;Cor:;Boyer;Sa beauté extreme;1a;Conc_278;3;",,c1 | \
+[,,dc{,,,a}3/2] ,a/ ,,d1 | \
+[,,c,,a1] ,,,c ,,d | \
+[,,dc{,,,a}3/2] ,a/ ,b ,d | \
+[,a,,,a1] ,,,c [,b,,d] | \
+[,b,d1] ,d [a,,c] | \
+[b,,a1] ,a [a,,,d] | "
+59;c moll;35v;Ballet;Bataille;#59 Ma bergère non légère;1a;Conc_1753;C;",b/ ,d | \
+[a,,,d/] ,b a b [d,,,,a1] [f{a}/] h | \
+i1 {,a}/ g [f,,d1] d/ ,g | \
+[,f,,d/] ,f [d,,,d] ,,g [,,f,,d] ,,,f ,,g1 | "
+60;c moll;35v;Canz:;Boyer;;1a;;C;",,,c1 | \
+,,d/ ,a ,b a ,d ,b [,db,,d1] [,ab] | \
+[,b,,a/] ,d a ,,,,a [ghffc1] ,e | \
+[aacc,a1] ,,,c [aac] d/ a/4 ,d | "
+61;c moll;36r;Canzon;de Belleville;Courante sur Bien qu'un cruel martyre;1a;Conc_1754;3;",,,c1 | \
+,,d1 ,,,,a [,a,,,e] | \
+[,bdca1] ,,,,,d [,dd,,b] | \
+[ab,,,a1] ,a/ ,,d ,,c ,d | \
+[abd1] ,,,,a f | \
+[da,c1] ,,,,d [a,d] | \
+[a,b1] ,,,,c [,ea] | "
+62;c moll;36v;sans titre;Guedron;#62 Belle qui m'avez blessé;1a;Conc_1755;C;"[,,dca1] {,,,a}/ ,a ,b ,,d [a,,,,e1] | \
+[abdca2] [,db,c2] | \
+[a,,,d1] b/ d [,b,c1] [,a,,,d] | \
+[,bb{,a}1] a/ b [d,,c1] [f,,d] | "
+63;c moll;37r;sans titre;;La Courante Sarabande;1a;Conc_1756;3;",,d/4 ,a ,c ,d | \
+[acd,a3/2] c/ a1 | \
+[,c,,a1] ,,d [a,,,,e] | \
+[acd,a2] {,,,a}1 | \
+[cdda1] a/ c ,d a | \
+[,cdca1] {,,,a} ,,,,a | "
+64;g moll;37v;Cour:;;PAN 4.329 From Ballet de la Reine, 1606;4b;Conc_4350;3;",a1 | \
+[,aaddb3/2] ,,e/ [,,'c{,a}] ,a | \
+[,,a{a}1] [,,,'ca3/2] ,,,a/ | \
+[,,,,'e{,,,a}1] ,,,a [,,,'c{4}] | \
+[,,a{5}1] ,,c [,,'c,,a/] ,,a | \
+[,,,'c{,a}1] ,,e ',,c | "
+65;c moll;37v;sans titre;;#65 Hahnchen mein - PAN 13.145;8b;Conc_1757;3;"[cb{4}1] [,bc] [aa{,,,a}] | \
+[cb{,,a}2] c1 | \
+[dd{,a}1] {a} [a,c{b}] | \
+[caba2] {a}1 :: \
+[cb{,,a}1] h [g{,,,a}] | \
+[g{,,,a}3/2] {,,a}/ [,f{,,a}] {,a} | "
+66;g moll;38r;eben die;;Courante PAN 4.329;4b;Conc_4350;3;"k1 | \
+[kihh{5}3/2] k/ ['h,k{,a}] k | \
+[,i{a}1] [,'h,,a3/2] ,,k/ | \
+[,,i{,,,a}1] ,,k [,h{4}] | \
+[,i{5}1] h [h,,,,a/] ,i | \
+[,'h{,a}1] k 'h | \
+[,i{a}1] ,,,,a ',h | "
+67;g moll;38r;fragment;;;4b;;3;"[,abc1] [ca{a}] [aa] | \
+[,bc,,,d2] {4}1 | \
+[,bc{b}1] [dd{,a}] [cb] | \
+[aa,,,b2] {5}1 | \
+[cb{,,a}1] [aa{,,,a}] [,bc{4}] | \
+[,ab{a}3/2] ,b/ [,,c{b}1] | "
+68;C dur;38v;Bergamasca;;#67;1b;Conc_45;C;"[acd,a1] [c,,,,c/] e [fc,,,c1] ,,d | \
+[,aa{,,a}/] ,c ,d a [,c{,,,a}1] ,,d | \
+[,daa{a}/] a c e [f{,a}] ,,d ,a ,c | "
+69;c moll;38v;Sarab;;PAN 5.200 - cf. Conc_2604;8c;;3;"[cba{,,a}1] [cba] [cba] | \
+[,ba{,,a}1] [aa] [cb] | \
+[d{,a}1] f ['cb{,,a}] | \
+[aa{5}3/2] ,b/ [,ba{,,a}1] | \
+[,ba{,,a}1] [aa] [bc] | \
+[,,ca{4}1] [,ab] [,bc] | \
+[aa{5}1] [cb] [,bc{4}] | "
+70;C dur;39r;Canarie;;;1b;ConcR481;3;",a/ ,c | \
+[,,da{,a}3/2] ,a/ ,c1 | \
+[,d{a}3/2] a/ [,c,,a1] | \
+,a1 ,,,,,a ,,d | \
+[,,dc{,,,a}3/2] ,a/ ,c1 | \
+{,,a}1 [,dd] [a,c] | \
+{,a}1 [,cd] {a} | "
+71;C dur;39v;Cour;;;1b;;3;"a1 | \
+[acd,a3/2] c/ a1 | \
+,c1 ,,,a ,,,c | \
+[,,d,e1] ,,,a [,,cc] | \
+[,,dc{,,,a}2] [a,,,,e1] | \
+[c,,,,c2] [e,,,,a1] | \
+[f,,,a1] [e,,c2] | \
+[ccd,,c2] [a,,,,e1] | "
+72;d moll;39v;sans titre;;#71 Hahnchen mein;2;Conc_1757;3;"[ed{,,,a}1] [aa] [cc{,,a}] | \
+[ec{,a}2] e1 | \
+[ff{a}1] ,,,,,a [ca,,b] | \
+[ece,,a3] | \
+[,h{,a}1] k [i{,,a}] | \
+[k{,,,a}3/2] {,,a}/ [,h{,a}/] {a} | \
+[f1] [bb{,,,a}/] [ff] [gg{,,a}] [hg] | "
+73;C dur;40r;Cor:;Mercure d'Orléans or Louis de Moy;#72;1b;Conc_1758;3;",c1 | \
+[,cdca3/2] ,d/ a1 | \
+[c,,a1] [e,,c3/2] c/4 e | \
+f1 ,,,,a ,,,,c | \
+,,,,e1 e [c,,a] | \
+[aac,,a1] ,,,c ,,,a | \
+[a,d,e1] [,da,c] ,,c | \
+[ccd,,c1] ,,,,,a {a} | "
+74;C dur;40v;Corant;Lespine;variant of 'Courant Confess';1b;Conc_3466;3;",,,c1 | \
+[,,dca1] {,,,a} [,,dc] | \
+[,acc,a1] ,,,e/ ,c ,d a | \
+[,c,,a1] {,,,a} ,,,,a | \
+[,cd2] ,d1 | \
+[,da,c1] [a,c] [,cdca] | \
+[,a,,,e1] [,c,,,c] ,,d | "
+75;F dur;41r;[Prelude];;;2;Conc_3996;none;"a {,a} ,,,,d ,,,a ,,a ,d a a c {,a} {,,a} ,,,,c ,,,c ,,d ,c c \
+(,,b ,,a) ,,b ,,d ,,,c ,,a ,,,,c ,,,a"
+76;a moll;41v;Courante La Vignione;;Courante la Vignonne;1b;Conc_273;3;",c1 | \
+[,cdca1] {,,,a} [,a{,,a}] | \
+[,,d{,a}1] [,,c,e3/2] ,,a/4 ,,c | \
+,,a1 ,,,,,c [,ca,,b] | \
+{,,a}1 [,da,c1] ,c/ ,a | \
+,c1 ,,,,,c c | \
+,g1 ,,,,i [,h,,g] | "
+77;C dur;42v;[Courante];;#76 Neufième Courante de la Reine;1b;Conc_1760;3;",c1 | \
+[,cdca3/2] ,d/ [a,,,e1] | \
+[,,def3/2] ,,,,e/ [,aa,c1] | \
+[,ad,a3/2] ,a/4 ,c ,,d1 | \
+[,a,,,e3/2] ,c/ [,dd,,c1] | \
+[a,,,,a1] ,,,c [c,,b] | \
+[e,,c1] [ce,,c] ,,,,a | "
+78;a moll;44r;[Prelude];;;2;Conc_4351;none;"""10""{,,,a} ,,,,a ,,,a ,,a X,c a ""3"",,,,a ""4"",,,,,d \
+,c ,,a a ""3"",,,,a ,,,a ,,a ,a a ""4"",,,,,d ""5"",,,,,b \
+,a ,,,a ,,,c ,a"
+79;C dur;44v;Ballet;Lespine;#78 Ballet;1b;Conc_1761;C;",,,c1 | \
+[,,dca1] {,,,a} [,a,,,a/] ,c ,d a | \
+[,cdca1] {,,,a} [af] ,,d/ ,a | \
+[,c,,,c/] ,e [a,,,,e] e [c,,,c] a [aacc] ,e | "
+80;d moll;45v;Sarab;;;2;;3;"[eaaaa1] 'e3/2 ,f/4 e | \
+,f1 {a}/ c [a,,,,a] ,c | \
+,,,,,b/ ,a [,'c{,a}3/2] ,a/ | \
+[,,e,,a1] ,,,c/ ,,a ,,,a ,a | \
+[,aaaa1] [,,dcc3/2] ,,d/ | "
+81;d moll;46r;Allem;Gumprecht;#80;2;Conc_413;C;",,a1 | \
+""10""[,,aaa{,,,a}/] X,,c/4 ,,e ,a/ ,c ""3""[Xaaaa{,,,a}/] \
+,c/4 a ,a3/4 e/4 | \
+""8""[eda{,a}1] ""7""{a}/ c ""6"",,,,,a/4 c [aa/] ""7""{a}/4 ,d ,c/ | "
+82;d moll;46v;Sarab de Gumpregt;Gumprecht;#81;2;Conc_1762;3;"[,,,a{,,,a}1] (,,,c/ ,,,a/4 ,,,c) [,,a{,,a}1] | \
+[,,Xa{,a}3/2] ,,,c/4 ,,a ,,,a1 | \
+{a}/ ,a [,abc3/2] ,a/ | \
+X,,e1 ,,,,,a ,,,,c | \
+[,aaa{,,,a}1] [,aaa/] [,aa] [,,d{,,a}] ,,b | "
+83;d moll;46v;[Prelude];;continued on 47r (bottom);2;;none;"{,,,a} ,,,,a ,,,a ,,a ,a ,c a ,a e ,,e c 'a ,c a ,,f ,a a \
+,,d ,a ,,b c ,,a ,,,c a ,,a a ',c"
+84;d moll;47r;Prael;;;2;Conc_3467;none;",a {,,,a} ,,,,a ,,,a ,,a ,a ,,,,c ,,,,d ,,,a ,,a ,a \
+,,,,c ,,,c ,,d ,a ,,,,a ,,,a ,,b ,,,,,d ,,,,c ,,a ',,,,,b"
+85;F dur;47v;Co:;Gaultier or Du But;#84;1b;Conc_1763;3;",,a1 | \
+[,,aa{a}3/2] ,,b/ ,,d1 | \
+[,,dc{,a}1] ,,b [,,a{a}] | \
+[,,,e{,,,a}1] ,,,c ,,,,a | \
+[,,aa1] {a} ,,d | \
+[,dde1] {a} [,c,,,a/] ,a | \
+[,,d,,c1] ,,,a [,,b,,d/] ,,,,a | "
+86;F dur;48v;Cor:;Gaultier;#85;1b;Conc_1764;3;",,d1 | \
+[,,de{a}2] ,,,,f1 | \
+[,,de2] ,d1 | \
+[,dd{a}1] ,,,a a/ ,d | \
+[,cd1] [,da1] ,,,c/ ,,,a | \
+[a,d,e1] ,,,,,f ,,,,,d | \
+[c,,,,c1] [,c,,,a] [,d{a}] | "
+87;a moll;48v;Mein Lied, Erbarm dich mein;;#86 Psalme 51;2;;C;"[,,a,,a2] [,,ae{,,,a}2] [,,,,c{,,a}1] ,,,d | \
+[,,a,,a/] ,,,,,d ,,,,a ,,,,c ,,,,d ,,d [,a,,c] ,c \
+[,da,a2] [,c,,,d2] | \
+[,ad{a}2] ,,c [,,dccd2] {4} :: [,,d,,d2] [,,d,,d2] | "
+88;F dur;49r;Co:;;;1b;Conc_5202;3;",d1 | \
+[,da{a}3/2] ,,,a/ ,,,,e ,,,,c | \
+,,,,a1 ,,,c [acd/] ,,,,,d | \
+[ccd,,c3/2] e/ f1 | \
+[,df,,d1] ,f [cd] | \
+[acd{,,,a}3/2] c/ a ,d | "
+89;e moll;49r;Mein Lied, Ach helff Herr Ich Verderbe;;#88;2;;C;"{,,,a}2 [,a,,a2] [e,,,c1] ,,,c [,c,e2] | \
+[c,,,c1] [a,,,a] [,c,e,a2] [,a,,a2] ,,,e1 ,,a | \
+[,c,d2] [,,de] [,,c,a] [,,c,c] | \
+[,,aeca4] :: ,,,e2 ,c2 | "
+90;F dur;49v;[Ballet];Fuhrmann;;1b;Conc_4352;C;"f2 | \
+[f{a}3/2] h/ ,,,f3/2 f/ | \
+[f,,a2] {a}1 d/ c | \
+[a,,,a1] [,d,,,c/] a [c,,,,d] ,d [a,,,a1] | \
+[,d,a2] {a} | \
+[,dd2] ::"
+91;;49v;Erstanden ist der heilig Christ;;#90 ;9a;Conc_1765;3;"k1 | \
+[k{,,,a}2] k1 | \
+[i,,,,a2] i1 | \
+[k{,,,a}2] [f{a}1] | \
+[da{,a}2] [ggf,,a1] | \
+[f{,,a}1] d [f{,,a}] | \
+,,,,,a2 [g,,,,a1] | \
+[f{,,a}1] d [f,,,,a] | "
+92;a moll;50r;[Courante];;;1b;;3;"c/ d | \
+f1 ,,,a [fa,,e] | \
+[,da,c2] [df,,e1] | \
+[cdda3/2] c/ [a,,,a] c | \
+[,da,c1] ,,,,a [aa,,,d] | \
+[cd,,,c1] [da,,,a] ,c | \
+{a}1 [cdd] a/ ,d | "
+93;F dur;50v;Volte;M. Galilei;#92;1b;Conc_1766;3;",d1 | \
+c1 ,d [df] | \
+[fh1] ,,,a [hi] | \
+[fh3/2] ,,d/ ,,b1 | \
+[,,a{a}1] [f,,c{,a}] d | \
+[c{a}1] ,a [a{,a}] | \
+,,d1 [,da{,,a}] ,,c | "
+94;d moll;51v;Sarab;;;2;Conc_3992;3;"[aaaaa1] 'c e | \
+['aaa{,,,a}3/2] ,c/4 a ,a1 | \
+[kaaaa3/2] k/ [h,,,,a1] | \
+['g{,,a}3/2] ,h/4 g ,h1 | \
+['e{,a}1] f h | \
+[hf{,,a}3/2] f/ ['e{,a}1] | \
+[aa,,,b1] c {,a}/ e | "
+95;d moll;52r;Allem;;;2;Conc_5203;C;"[,,aaa{a}3/2] ,,a/ [,,aece1] ',,,c3/4 ,,a/4 | \
+[,,,aa{,,,a}/] ,,a ',,c ,,e ,a ',c a 'c | \
+e/ ,,,,d ',,,,c ,,,,a [ec,,,e] c ['aaaaa] ,c/4 a | "
+96;d moll;52v;Courante;Pinel;#95;2;Conc_1767;3;",c/ a c | \
+[eaa{,,,a}1] [eaa] e | \
+[eca,,e1] [eca/] e c e | \
+[a,,,a1] {,,,a}/ ,c ,a ,,e | \
+,a1 ,,a3/2 ,,c/ | \
+[,,dca1] ,,,,d/ ,a ,,d ,a | "
+97;d moll;53r;Sarab;Mercure;#96;2;Conc_1768;3;"""3""[eaaaa1] [eaaa/] e ""3"",,,,a e | \
+""3#"",,,,,e/ e ,c c ""3"",,,,a a | \
+""1""[aaaa1] [aaa/] a ""6"",,,,,a ,,d | \
+""2"",,,,c/ ,,d ""1"",,,,d ,a ""5"",,,,,b ,,b | "
+98;a moll;53v;Pavana spaniola;;;1c;Conc_4405;C;",,d1 | \
+[,dda1] a/ b d b a ,d | \
+[,cdca3/2] ,a/ ,c ,,d [,a,,,d1] | \
+[,c,,,c1] ,d [a,,,,a] ,c | \
+[,dda{a}1] ,,,a/ a b1 [a,,c] | "
+99;a moll;54r;sans titre;D.Gaultier;La Pastoralle;2;Conc_898;C;"[,cde3/2] ,a/ ,,d ,,,e ',,c [,,,(d] | \
+[,,ae)1] ,,,,,a/ ,,c ,,d ,,,e ',,,c3/4 ,,,a/4 | \
+[,c,,c/] {,,a} ',c3/4 ,e/4 c/ ,,d [e,c] ,,a | "
+100;f moll;54v;Chanzon;;#99 La Robinette (Ballet de Robinette, 1611);1c;Conc_1770;C;"[bdd{a}2] [acd{,,,a}1] a | \
+[,dd{a}1] a/ ,d [,c,,a1] ,,d | \
+[,db,,d1] ,d/ ,,,,,b [a,,,,a1] [a,d,e] | \
+[,,da{a}2] ,,,,a1 ,,,a :: ,d/ a | "
+101;f moll;55r;sans titre;Gaultier;#100 Courante;1c;Conc_1771;3;"b1 | \
+[bdd{a}3/2] d/ b a | \
+,d1 [,c,,a3/2] ,a/4 ,c | \
+,d3/2 ,,,,b/ ,,,,a ,,,,,d | \
+,,,,,b1 [,bc] ,,d | \
+[a,d1] [b,d/] ,,,d [d,,c1] | "
+102;f moll;55v;La Princesse;;;1c;ConcR421;3;",d1 | \
+[,dda2] [,cdca1] | \
+[,da{a}3/2] a/ b d | \
+[acd1] {,,,a} ,,,,a | \
+[acd2] [b,,,,b1] | \
+[bbdd2] d1 | \
+[f,,d1] ,,,,d/ g [f,,d1] | "
+103;a moll;56v;sans titre;;9th lowered 1/2;1c;ConcR1067;3;"f1 | \
+[fgd{a}1] ,,,a [a,d,e] | \
+[b,da1] ,,,,d [dd,,b] | \
+[fg,,a1] ,f d | \
+[,gda3/2] d/ f1 | \
+[db,c1] ,,e [bbdd] | \
+[,c,a1] [bb] [da] | "
+104;f moll;57v;sans titre;;;1c;;3;"f1 | \
+[bdd{a}1] ,,,a [,dd] | \
+[dde,,d3/2] b/ [a,,,a] b | \
+,d3/2 ,,,,b/ ,,,,a ,,,,,d | \
+,,,,,b1 [,bd] b/ d | \
+f3/2 ,,,d/ ,,,c ,,,a | \
+,,,,d1 [df]"
+105;f moll;58v;sans titre;Gaultier;#104 Courante;1c;Conc_4348;3;"f1 | \
+[fgia3/2] g/ f1 | \
+[fde1] d3/2 ,g/4 d | \
+f1 ,,,a ,,,c | \
+[,d,d/] ,,b [a,d3/2] ,d/4 a | \
+b1 ,,,a [d,,c] | \
+[fd,a3/2] d/ [b,,a] d | "
+106;g moll;59v;[Saraband];;PAN 5.148;8a;Conc_1659;3;"[aaa,,b1] [aaa] [aaa] | \
+[caa{a}3/2] e/ [f,,a1] | \
+{,,,a}/ f [e,,,a3/2] ,f/4 e | \
+,f1 {,,a} [,e,a] | \
+f1 {,a}/ f e ,f | "
+107;d moll;60r;Courante;Pinel;#106;11;Conc_1767;3;",c/ a c | \
+[eaaaa{,,,a}1] e e | \
+[eca{,,a}1] [eca/] e c e | \
+[aaaaa1] {,,,a}/ ,c ,a ,,e | \
+,a1 ,,a3/2 ,,c/ | "
+108;d moll;60v;Auf der Viol praeludium;;;12;;C;",,,a/ ,a ,c ,e a c d f | \
+f/ (,f ,e ,g) ,e (f f f) | \
+d/ ,f d ,d ,b a f ,a | "
+109;d moll;61r;[Pavan];;;12;;C;"[,ae{a}1] ,c/ ,d a1 c/ a | \
+{4}/ (,e ,c ,a) Xh2 | \
+[,,,a{7}/] ,,,c ,,a ,,c ,a b [,d{,a}] ,a | \
+{,,,a}/ (a c a) [,ee{4}3/2] {5}/ | "
+110;d moll;61v;[Almaine];;;12;;C;"[daaa{a}2] c1 a | \
+[Xhaaaaa{8}3] a1 | \
+{4}1 [,ee] ,c ,a | \
+Xc3 ,,c1 | \
+[,,aa{,,,a}1] d c a | \
+f1 ,,,d ,,,c ,,,a | "
+111;d moll;62v;Hahnchen mein;;#110;2;Conc_1757;3;"""10""[ed{,,,a}1] ['aaa] ""9""[cc{,,a}] | \
+""8""V[ed{,a}2] e1 | \
+""7""[ff{a}1] ""6"",,,,,a ""5""[ca,,,b] | \
+""1""[ec,,,a1] ""6""[ece,,a2] | \
+""8""[,g{,a}1] k ""9""[i{,,a}] | \
+""10""[k{,,,a}3/2] ""9""{,,a}/ ""8""[,g{,a}] ""7""{a} | "
+112;D dur;62v;[Ballet];;PAN 12.047;3;;C;"d1 | \
+""3""['de,,a3/2] ""10""{,,,a}/ d ""7""[b{a}] ""8""{,a} ""9""[,a{,,a}] ,c | \
+""10""[aa{,,,a}1] ""4"",,,a [,,dc3/2] ,c/ | \
+[,ccc1] ""6"",,,,,a/ ,c ""10""[a{,,,a}] a ""9""[c{,,a}] d | "
+113;D dur;63r;[Aria];;PAN 12.048;3;Conc_4354;C;"a1 | \
+[aadc{,,,a}3/2] [bc{,,a}/] [de{,a}1] [,'aa{a}/] ,c | \
+[aa,,a/] [aa] [,cc,,a] ,a [,adca2] {,,,a}/ [,ad] | \
+[,,cc,a/] [,aa] [,cc] [aa] [aadc1] {,,,a}/ [aa] | "
+114;D dur;63v;Auf der Viol;;;14;Conc_4355;C;"{a}/16 [aa] [aa] [bc] [de] ""3""y ""3""y ""2""y ""1""y [de] ""7""[bc] \
+[aa] ""6""[,ce] ,,a ""7""[aa] ""8""y | \
+""9""[ba/] ,,e [aaaaa/16] ""3""y ""4""y ""5""y ""6""y [aa] [,ce] [,ac] | "
+115;D dur;63v;sans titre;;[Haenchen Mein] end on p.64r bottom;14;;3;"""5""[aa1] [,ac] ""4""[,ca] | \
+""3""[aaaaa2] a1 | \
+""9""[bc1] ""8""[aa] ""7""[,cc] | \
+""8""[aee2] [,,ea1] | \
+""3""[ea2] ""5""f/ ""4""[ee] | \
+""5""f3/2 ""4""y/ ""3"",e ""2""y | "
+116;D dur;64r;Aria;;;14;Conc_4354;C;"a1 | \
+""3""[aaaaa3/2] ""2""b/ ""1""[de1] ""5""[,ac/] ,c | \
+""3""[aaaaa/] [aa] ""6""[,ce/] ,a [,aaaa1] ""10""y/2 [,aa] | \
+[,,ed/] [,ac] [,ca] [aa] [aaaaa1] ""10""y/ [aa] | "
+117;d moll;64v;Sarab Gumprecht;Gumprecht;#116;12;Conc_1762;3;"""8""[,,aa1] ,,c/ ,,a/4 ,,c ""7"",a1 | \
+""6""[,aa3/2] ,,c/4 ,a ,,a1 | \
+""5""y/ a [abc3/2] a/ | \
+[,ee,,a1] ""4""y ,,,c | \
+""8""[aaaaa1] [aaa/] [aa] ""7"",d ,b | "
+118;d moll;64v;Prelude;;end on p. 65r bottom;12;Conc_4351;none;"""8""y ,,,a ,,a ,a a c d ""1""y ""2""y ,,,,e c ,a a \
+""1""y ,,,a ,,a ,a a d ""2""y ""3""y a ,,a ,,c a"
+119;d moll;65r;Allem:;Gumprecht;#118;12;Conc_413;C;",a1 | \
+""8""[,aaa/] ,c/4 ,e a/ c [daaa] c/4 d a3/4 h/4 | \
+""6""[hia1] ""5""y/ f ""4""y/4 f d/ ""5""y/4 d c/ | \
+""6""d/ ""7""a3/4 ,f/4 ,e/ ""8"",f,a [,baa] ,,,c | "
+120;g moll;65v;[Gaillarde];;;1a;;3;"[aabcca1] c/ d [f{,,,a}1] | \
+[ce1] {,,a} [ce] | \
+[,aabc/] ,c ,d a [,c,,,c] ,d | \
+[,af1] {,,a} [,af] | \
+[,abacd3/2] ,c/ [,d,,,c] [aaccca] | "
+121;g moll;66r;Gaillarde;;;1d;;6/4;"[,acc,a2] ,,d1 ,,b [,,aa{a}2] | \
+[,,,cd3] ,,,a1 [,,,cd] [,,aa] | \
+[,,b{,,a}1] [,,da{a}] ,a ,b ,d/ ,b ,a ,,d | \
+[,aba,d2] {4} [,aba] | "
+122;g moll;66v;Gaillarde;;;1a;;6/4;"[aabc3] c1 d2 | \
+[ca,b2] [aabc] ,,,,,a1 ,d | \
+[,b,c1] ,a [,a,a2] [a,,,d1] ,,d | \
+[,aabc2] {,a} [,aab] | "
+123;g moll;67v;Corente;Gaultier;#122;1a;Conc_3507;3;",a1 | \
+[,ab,,a1] {a} {,a} | \
+[,a,c{,,a}1] ,,,b ,,d | \
+[,abc1] ,,,,,a ,,,c | \
+[aab2] ,a/ ,c | \
+,e/ a ,,,,,a1 {a} | \
+[a{,a}/] c d1 c/ a | "
+124;D dur;68r;Jesu, mein Geistes Heil;;#123;14;Conc_1772;3/8;"""3""[de1] [ff/] ""4""[hh] ""5""[ih1] | \
+""5""[aa1] ""6""y/ ""7""[bc] ""8""[de1] | \
+""5""[aa1] [bc/] ""6""[de] ""7""[ff1] | \
+""7""[,ac1] ""8""y/ ""9""[,ce] ""10""[aa1] | \
+""6""[,ce1] [aa/] ""7""[bc] ""8""[da1] | "
+125;g moll;68v;Corante;Gaultier;#124;1a;Conc_1773;3;",,b1 ,,,c [,,de] | \
+[,aff1] ,,,,,d/ ,,g ,,f1 | \
+[,,da{a}3/2] ,a/ ,,b ,,d | \
+[,,a,c2] {,,a}1 | \
+,a3/2 ,c/ ,e ,a | \
+[af1] ,,,,,a d | "
+126;g moll;69r;Sarab;;PAN 5.011;8a;Conc_1774;3;"[,,aaa{a}1] [,,aaa] [,,aaa] | \
+[,,,'c{,a}1] ,,a [,,,a{,,a}] | \
+,,,,,b1 ,,a ,,,,,d | \
+[,,,'c{,,,a}3/2] ,,,a/ {a}1 :: \
+V[,faa{a}1] [,faa] [,faa] | \
+{a}/ (,f ,d) ,,f ,a ,,a | "
+127;g moll;69v;Ballet;R.Johnson;#126 Kits Almande (Jundentanz) - PAN 3.134;1d;Conc_1775;C;",,f1 | \
+[,f,,,a1] [,h{,,a}] [,i,,,a] [f{a}] | \
+[hi{4}3/2] f/ ,i f [h{4}1] | \
+[f{a}1] [,i,,,a] [,h{,,a}] [,f{,a}] | \
+[,,k{,,a}1] ,,f {,,a} [,i,,,a] | \
+[,,f{,,,a}3/2] ,,h/ ,,i ,,f ,i f | "
+128;C dur;70v;Allemande;;;10;;C;",,a/ ,a | \
+[aaaaa1] {4}/ {,,,a} [a{,,a}] {,a} [,'a{a}3/4] ,,a/8 ,a | \
+,,a1 {5}/ ,a a ,,a ,a ,,a | \
+[,'a{a}/] ,,a/4 ,a ,,,a/ ,,a/4 ,a a/ {4} [,a{,,,a}] ,,a | "
+129;C dur;71r;Courante;;PAN 4.330;10;;3;",,a/4 ,,,a ,,a | \
+['a{4}3/2] ,a/4 a ,a1 | \
+[a{,a}1] [,'a{a}3/2] ,,a/4 ,a | \
+,,a1 {4}/ a ,a ,,a | \
+[,a{a}1] ,,,a {4}/ ,a | \
+a/ ,,a [,'a{,,,a}3/2] ,,a/4 ,a | "
+130;B dur;71v;[Ballet];;#129 Gaultier: Ballet du Grand Turc;1d;Conc_1776;C;"[,dff3/2] ,b/ [,a,,,d] ,,b [abb,d1] | \
+[,dff1] a/ c [d,,c1] [fd,a] | \
+[h,,f1] [i{,,a}/] h [f{,a}] ,i [,f{a}] ,i | \
+[,i{4}1] f/ d [cd,a1] a/ ,d | "
+131;C dur;72r;Sarabande;;PAN 5.244;10;;3;"[aaa,a1] {4} [a,a] | \
+[,'a{a}3/2] ,,a/4 ,a a1 | \
+[,,,,aa{,a}1] ,,,a ,,a | \
+[,'a{a}3/2] ,,a/4 ,a ,,a1 | \
+[a{4}1] [,a{,,,a}] [,,a{,,a}/] ,,,a | \
+[,,,,aa{,a}1] {,,a}/ ,,,a ,,a1 | "
+132;B dur;72v;Corante;;La Royale;1d;Conc_1666;3;"d1 | \
+[ddfffd3] | \
+[cdd{a}1] ,,,c/ d [f,,e1] | \
+[,dff3/2] ,b/ [,a,,c] ,,d | \
+,a/ ,,,,d [,,dff1] ,,,e | \
+[,aba,d1] [,,bc,a] ,b | \
+[,bd,,c3/2] ,d/ [,a,,,d] ,b | "
+133;d moll;73r;Gigue;V.Gaultier;"""La Poste"" or ""L'Estourdie""";2;Conc_62;C;"[,af3/2] ,,e/ ,a ,,a ,,b ,,,c | \
+[,,ae/] {,,,a} ,a3/4 ,c/4 [a,,,a3/4] ,,,,,d/4 \
+[c,,,,b3/4] ,,,,c/4 | \
+V[e,,,,a/] ,,a Vc/ a/4 c e/ ,c a ,a | \
+[,'c,,,a/] ,,a ,d [,c,c] ,,a ,,,,c [,'a,a] ,,,,a | "
+134;B dur;73v;sans titre;Gaultier?;#133 Courante de Gautier;1d;Conc_1777;3;",a1 | \
+[,aba,d3/2] ,b/ ,a1 | \
+[,,ff1] ,,d ,,,e | \
+[,,ff1] ,,,,,d ,d | \
+[,dd,c1] [,bb,d3/2] ,a/ | \
+[,,def1] {a} f | \
+[,f,,e1] ,,d f/ d | "
+135a;h moll;74v;Adieu de gothier;D.Gaultier;;1c;Conc_4357;3;",d1 | \
+[,deffd3/2] ,e/ ,d1 | \
+[,d,,,c1] [,,da] ,b/ ,d | \
+[,,e,,d1] ,,,,f ,,,f | \
+[dde2] b1 | \
+[bdedb1] {,,a} [bde] | \
+{,a}1 [ed] ,,b | "
+135b;h moll;75v;Secunda Pars;;With preceding piece;1c;Conc_4358;3;",e/ ,d ,,g | \
+[,,e,,d1] ,,,,f ,,,f | \
+[,dd,,c3/2] ,b/ [,,e,,d] ,b | \
+[,,d{a}1] ,,,a ,,,,d | \
+[,d,,b1] d [cbd,a] | \
+[ddef,d3] | \
+{,a}1 [deg] f | "
+136;g moll;76r;Sarabande Johann Schop (crossed out);Johann Schop;#136 Amor hält einzig zum süßesten Possen - PAN 5.245;8a;Conc_1745;3;"[,,,aa{a}3/2] [,,,ce/] [,,,df1] | \
+[,,cdbd3/2] ,a/ [,bc,,d1] | \
+[,aadb1] [,,cc,d{,a}] [,,aa{a}] | \
+[,,,c{,,,a}3/2] ,,,a/4 ,,,,e [,,,a{a}1] | \
+[,,aa{a}3/2] [,,cc/] [,aad1] | \
+[,cc,,d3/2] [aa/] [cc1] | "
+137;D dur;76r;Alemand;;Ballet - PAN 12.008;3;Conc_5204;C;"[,adca2] [,cd,,a1] ,,c/ a | \
+,a/ [,,d,a] [,,c,c] ,,a [,,,ec] [d,,,a] b a | \
+f/ ,,,a [d,,,e1] [baaa/] ,,,,,a ,,,,,c ,,,,,e | "
+138;D dur;76v;Alemand;R.Mesangeau;Courante - PAN 4.004;3;Conc_281;C;",a1 | \
+[,adca1] {,,,a}/ ,c a ,a | \
+d1 ,,,,e [f,,a] | \
+[d,,,a1] {,,,a} f/ h | \
+i1 {a} [f,,a] | \
+[faa2] d1 | \
+[c{,,a}1] ,,,,c ,,,,a | "
+139;g moll;76v;Corant;R.Mesangeau;PAN 4.331;8a;Conc_282;3;"c1 | \
+[caaa1] {a}/ ,,a ,,c ,a | \
+,,,,,d1 [,bca] a | \
+[,a,,,b1] ,,a f | \
+[faaa1] {a}/ f [e,,,,d] ,f | \
+[,e,,a1] {,,,a}/ ,a ,c a | "
+140;g moll;77r;Co:;Merville;#140 Courante - PAN 4.024;8a;Conc_350;3;"c1 | \
+[caaa1] {a} [caa] | \
+[e,,,a1] ,f [ee] | \
+[faa1] {a} e | \
+[c,,,,d1] a [cc] | \
+e1 {,a} c | \
+[a,,d1] ,a ,c/ a | "
+141;d moll;77v;Preambel;;#141;2;;none;",,,,a {,,,a} ,,,,c ,,,a ,,,,a ,,,a ,,,c ,,a ,,c ,,e ,a \
+,,,,a ,c a ,a c ,c [ed] ,,,,a ,,,,,e e ,c c [aaaaa]"
+142;d moll;78r;Allemand;Vincent or Pinel;;2;Conc_312;C;",,a1 | \
+[,,aaa{,,,a}3/2] (,,c/4 ,,e) [,a,,a/] ,c [,,e,,a] {a} | \
+[,aaa{,a}1] (a/4 c e/) [c{a}] a V[,ce,,a3/4] ,,a/4 | \
+[,aaa{,,,a}/] e ,a ,c [ed] ,,d c ,,b | "
+143;d moll;78v;Courent;;;2;;3;"""10""[e{,,,a}1] | \
+[eaaaa3] | \
+""8"",,,a/ ,a ""7"",,,c ,d ,c ,a | \
+[,,ee1] ""6"",,,,,a3/2 ,a/ | \
+""5""[,abaab1] ""6"",,,,,a ""7""[,'cb{a}3/4] a/4 | \
+""8""[aVd{,a}1] ""3"",,,,a ""5""[ca,,,b/] ,,d | "
+144;d moll;79r;Sarab:;;;2;;3;"[aaaa{,,,a}3/2] [aaaa/] ,,,,,a1 | \
+,c1 ,a {,a} | \
+[edaa3/2] [edaa/] {4}1 | \
+[cd1] ',c {a} | \
+f1 ,a ',c3/4 e/8 c a ,c | \
+[a{,,,a}3/2] c/ e1 | "
+145;a moll;79v;[Volte];M.Galilei;;1b;Conc_1778;3;",c1 | \
+[,cde3/2] ,,,d/ ,,,e1 | \
+[,,cd1] ,c ,a | \
+[,,deec1] [,,c,,a] [,,a{a}] | \
+[,,cd{,a}1] ,,,,e ,,,d | \
+[cce2] e1 | \
+[f,a1] ,c [e,,c] | \
+[cc,a1] ,a3/2 ,,d/4 ,a | "
+146;B dur;80r;Allemande;S.Yves;The Queen's Masque;15;Conc_855;C;",,,f1 | \
+[,,afa3/2] ,d/ [,dca3/2] ,d/ | \
+[cb/] c a3/4 ,b/4 [,aa3/2] ,b/ | \
+,,,,a/ ,d ,b3/4 ,a/4 [,,ca1] ,d | \
+[ccc/] [ed] [cc3/4] ,d/4 [,dca2] ::"
+147;a moll;80v;[Volte];;;1b;;3;",c/ ,a ,,d ,a ,,c ,,,d | \
+[,,ae3/2] ,,,,,c/ ,,,,,e ,,,,a | \
+[,,c,c/] ,,a [,,,de1] {,a} | \
+[,,a,f1] {,,a}/ ,,c {,a} ,,,c | \
+[,,d,a/] ,,,,,c [,a,e,e1] ,,,d | "
+148;a moll;81r;[Volte/Courante];H. de Lenclos / Ch. de Lespine;;1b;Conc_274;3;"[,cde1] c [e,,d] | \
+[f,,e1] e/ f h f | \
+[e,,,e1] ,h [eg] | \
+c1 ,,,,,c2 | \
+[,,ae1] ,,c ,,,d | \
+[,,de3/2] ,d/ [,c,c1] | "
+149;g moll;81v;Chancon;;#149 Schoonste Herderin - PAN 13.146;8a;Conc_5205;C;"[c{a}1] c [c,,a] c | \
+[cc,,,d1] [cc] [ed{,a}2] | \
+[,d,,a1] ,d [,d{,,,a}] ,d | \
+[aa,,,b1] a [aaa2] | \
+[,aa,,b1] ,,c/ ,a [,bc,,d] a [,a,,a1] | "
+150;d moll;81v;Allem:;;end on p. 82r bottom;2;;C;"e1 | \
+""10""[eaaaa1] 'c/ (e/4 c a) ,c a/ ""3""[,aVf3/2] ""4"",,d/ | \
+""5"",,b/4 c ""6""[a,a/] ""7""[,'c,c3/2] ,a/4 ,,,e ,,e/ ""6"",,,,,a1 \
+""8""[,,ac{,a}/] | "
+151;g moll;82r;[Saraband];;PAN 5.148;8a;Conc_1659;C;"[aaad,b1] [aaad/] [aaa] ['c{a}] e [f,,a1] | \
+{,,a}/ f ['e,,,a] ,f e ',f {,,,a} ,,,a | \
+h1 f/ e ,f a ,f ,,a | "
+152;g moll;82v;Sarab;;PAN 5.013;8a;Conc_351;3;"[caaa{a}1] [caaa] [caaa] | \
+[a,,,a3/2] ,b/ ,a1 | \
+[,baa,d3/2] ,d/ [,a,,,b1] | \
+[,,'c{,a}1] ,,,c ,,a | \
+[,,a,,b3/2] ,,c/ ,a1 | \
+[,,'a{a}1] ,,,c ,,,a | \
+,a3/2 ,c/ [,d,a1] | "
+153;g moll;82v;Sarab;;PAN 5.012;8a;Conc_348;3;"[,,aa{a}1] [,,aa] [,,aa] | \
+[,,,c{,a}3/2] ,,a/ {,,a}1 | \
+,,c1 ,a [,,a{a}] | \
+[,,,c{,,,a}3/2] ,,,,e/ ,,,a1 :: \
+[,faa{a}1] [,faa] [,faa] | \
+[,'d,,,a3/2] ,,f/ ,a1 | "
+154;g moll;82v;Sarab;;PAN 5.014;8a;Conc_349;3;"[,aaddb1] [,aadd] [,aadd] | \
+[,,c{a}3/2] ,a/ {a}1 | \
+,,,a1 [,,,'c{,,,a}] ,,a | \
+[,,c{,a}1] ,,,e ,,a :: \
+[aaaddb1] [aaad] [aaad] | \
+[,b,,,d3/2] ,d/ ,a1 | "
+155;B dur;83r;La Marina;;#155 Die Meierin - PAN 13.101;8a;Conc_1661;C;"[,aaddb1] [,aadd] [,,c{,a}] ,a | \
+[,,a{a}/] ,,c [,,,c{,a}1] ,,,d [,,,a{,,a}/] [,,,,d{,,,a}] | \
+,,a1 [,,a{,,a}] [,,c{,a}] ,a | \
+,,c3/2 ,,,c/ ,,a1 ,,,,,b ::"
+156;g moll;83r;Also sein wir schon geschieden;;#156 PAN 13.147;8b;;C;"[,,,'a{a}1] ,,,a/ ,,,c [,,aa{a}1] {,a} | \
+[,,'c{,,a}3/2] ,,a/4 ,,c [,aac{,,a}1] ,a | \
+[,,,a{a}1] ,,,a/ ,,,c [,,'a{a}1] {,a} | \
+[,,'c{,,a}3/2] ,a/ [,aec{,,,a}2] ::"
+157;D dur;83v;Courant;;;9a;ConcR516;3;"a1 | \
+[aaaaa3/2] b/ a1 | \
+[,c,,,a1] ,e [,a{a}/] {,a} | \
+[,c{,,a}1] [aaa{,,,a}3/2] b/ | \
+d/ {,,a} [d{,a}1] [b{a}/] a | \
+[,ca1] ,,,,,a {a} | \
+[d{,a}1] ,a f | "
+158;D dur;84r;Auf der Viol;;Courante;14;ConcR1068;3;"a1 | \
+[aaaaa3/2] b/ a1 | \
+[,cad1] ,e [,acb/] ,,,a | \
+[,ca1] [aaaaa3/2] b/ | \
+d/ ,,,,c [daaa1] [bacb/] a | \
+[,ca/] ,,,,,a ,,,d1 ,,,b | "
+159;D dur;84v;Auf der Viol;;Courante;14;Conc_2722;3;",a1 | \
+[,aaaa1] ,,,,a/ ,c ,e ,a | \
+,,,,,a3/2 ,e/ ,c ,,a | \
+,a1 ,,,,a ,,a | \
+[,aaa2] a1 | \
+[fffff3/2] h/ f1 | \
+[daaa1] ,,a ,a | "
+160;D dur;85v;Cour:;;;9a;Conc_5206;3;",,a1 ,,c/ ,,e | \
+[,a{,,,a}3/2] ,c/ ,a1 | \
+[,c,,,a1] ,,a d/ b | \
+a1 {,,,a} ,,,,a | \
+[aaaa2] [,c{4}1] | \
+[,a{,,,a}1] f [,f{,,a}] | "
+161;g moll;86r;Cour:;;PAN 4.332;4a;;3;",,,,a3/2 ,,,,c/4 ,,,,e | \
+,,,a1 {a}/ ,,,c ,,a ,,c | \
+,a1 [,,,a{,,a}3/2] ,,,c/4 ,,a | \
+,,,c1 {,,,a}/ ,,,a ,,,,e ,,,,c | \
+,,,,a3/2 ,,,,,d/ ,,,,,b ,,,,,a | \
+{a}1 [a,,a] [,d,c/] ,b | "
+162;g moll;86v;Cour:;;PAN 4.333;4a;;3;",,a1 | \
+[,,aa{a}3/2] ,,c/ ,,a1 | \
+[,,,c{,a}1] [,,aa{,,a}2] | \
+{,a}1 ,,,,d ,,,d | \
+,,c1 ,,,c3/2 ,b/ | \
+,a1 ,,,,,b ,,,,d | \
+[,aad2] ,,c1 | \
+[,a,d1] ,,,c [,c,a] | "
+163;G dur;86v;[Courante];;PAN 4.334 - End on p. 87r bottom;5;;3;"a1 | \
+[aaa{a}3/2] c/ e1 | \
+[ce{,,,a}1] ,a ,,b | \
+[,,a{,,a}1] [,,b{,a}3/2] ,,a/4 ,,b | \
+[,,a{a}1] ,,,a3/2 ,a/ | \
+[,,cc,a2] a1 | \
+[,ed1] a3/2 ,e/4 a | "
+164;G dur;87r;[Courante];;PAN 4.335;5;;3;",a1 | \
+[af3/2] c/ e ,c | \
+,e/ c ,,d e c1 | \
+[af1] ,,,a ,,,c/ ,,,e | \
+,,,f1 ,c [,ea/] ,f | \
+c1 ,,,c/ ,f ,e ,c | "
+165;C dur;87v;Cour:;;;9b;;3;",,a1 | \
+[,aaa{,,a}3/2] ,c/ ,a1 | \
+[,c{,,,a}3/2] a/ b ,c | \
+a1 {,,a} ,,,,a | \
+[aaa2] a/ b | \
+[daaa{a}3] | \
+[b{,a}3/2] d/ [a{,,a}1] | "
+166;D dur;88r;Prael:;;;9a;;none;"{,,,a} ,,,,a ,,,a ,,a ,a ,c a ,a b ,c d ,e ,,f ,e d ,a ,,e ,c \
+d ,a ,,e a ,,,,,a ,c {a}"
+167a;g moll;88v;Cantus;;La bourrée SPan ON124 / 89r - SPan ON124 / 88v;1f;Conc_4359;C;",b1 | \
+[,,d,a1] ,,,c ,,d ,a/ ,b | \
+[,d,,,d1] ,,b ,,,,d [,,b,c] | \
+[,,d,a/] ,,c ,,d ,a ,,d ,a ,b ,,d | \
+,a1 ,,,c ,,,,,a2 ::"
+168;F dur;88v;Praelud;;;2;Conc_3996;none;"a {,a} ,,,,d ,,,a ,,a ,d a c e {,a} {,,a} ,,,,c ,,,c ,,d ,c \
+c (,,b ,,a) ,,b ,,d ,,,c ,,a ,,,,c ,,,a"
+167b;g moll;89r;Bassus (upside down);;La bourrée SPan ON124 / 89r - SPan ON124 / 88v;1g;Conc_4360;C;",a2 | \
+[aabc1] ,,,,,a [aab] ,c | \
+[cdda1] {a} [cdd] ,,,a | \
+[aabc1] ,,,,,a ,,,,,d ,,,,a | \
+[,aabc1] {,,a} ,,,,c ,,,,,a | \
+[aabc1] ,,,,,a [aabc] ,c | "
+169;F dur;89v;[Courante];;;2;;3;",,,a1 | \
+[,,,ada1] {,a}/ ,,,c ,,a1 | \
+[,,,cd{4}1]',,,,c ,,d | \
+[,,ba{,,,a}1] [,,'bc{,,a}3/2] ,,d/ | \
+[,,ac{a}1] ',,,a3/2 ,,d/ | \
+[,,d,,a1] [,ab{a}3/2] ,c/ | \
+[a{,a}1] ,,,a/ c e1 | "
+170;F dur;89v;[Saraband];;;2;;3;"[,,aa{,a}1] ,,,,d/ ,,b [,,d,c1] | \
+[,ad,a1] [,ab] c | \
+[,cb{4}1] ,,a/ a ,,,c c | \
+[e,,a1] {,a}2 | \
+[f{a}/] ,,,,d ,,,,c f {,a} e | "
+167v;B dur;90r;Tenor (upside down);;;1h;Conc_4361;3;",a1 | \
+[,ab,,d1] ,b ,d | \
+[,bdca1] ,,d1 ,a/ ,b | \
+[,d,,c1] ,,,,d [,d,a/] ,b | \
+[,a,c1] ,,b [,dde] | \
+[,aff1] ,,,,,d d | \
+[f,,e1] ,d [ddf,,d] | "
+171a;F dur;90v;Cantus;;La Vallette;1b;Conc_4362;3;",d1 | \
+[,dda{a}1] a [,c,,a] | \
+[,a,,,a1] ,,,c ,,,a | \
+[a,d,e1] ,,,a/ c [a,,c1] | \
+[,cdca1] ,,d f | \
+[f{a}3/2] g/ f1 | \
+[dab,,d1] [cdd{a}2] | "
+171b;F dur;91r;Tenor sur la Vallette (upside down);;#174;1h;Conc_4363;3;",a1 | \
+[,ab,,d2] [,dda1] | \
+[abd,a1] ,d ,b | \
+[,dd,,c1] ,,,,,d [,adca] | \
+[,dda{a}1] ,,,a [,dda] | \
+[,ab,,d1] ,b ,d | \
+[ab,,d1] c [dab,,d] | "
+172;D dur;91v;Prelude;;;9a;;none;"""3""[,aaaa1] ,c ""3""[ae,,a] b ""10""[de{,,,a}] ""9""{,,a} ""8""[de{a}] \
+""7""[bc{a}/] a ""6""[,ca,,a1] ,,c [,,ed] ,a [,ced] ,,,b \
+""1""[daaa] ""2""[bc,,c] ""3""[,ef,a] ,f [,ef] ,,e"
+173;B dur;91v;Allem;;PAN 3.135;8a;;C;"a1 | \
+[aaad1] 'c/ c ,b ,a ,,c e | \
+f/ ,,a ,,e ,,f ,d a [Xff1] | \
+[aae/] ,,a ,d ,b ,d [,a,d/] ,,c/4 ,a | "
+174;B dur;92r;[Courante];;PAN 4.336;8a;;3;",,a1 | \
+[,,a,,b1] ,,,,d [,,ad] | \
+,,d1 {,a}/ ,d [,b,c] a | \
+[,a,d3/2] ,,c/4 ,a ,,a1 | \
+[,a,,,b1] ,,,,,d/ ,b [a,,,a1] | \
+[c,a1] ,,,,b/ ,,c [a,,c,b1] | \
+[,baa1] ,,,,c/ a [,a,d1] | "
+175;D dur;92r;Ballet;;#178;9c;;C;"{,,,a}1 {,,a} [,aa{,a}] [,,c{a}/] ,c | \
+[,,e,,a3/2] ,,a/ [,,c{a}] ,a [,,e,,a] ,c | \
+[,afa{,,,a}3/2] ,c/ [,e{,,,a}] d [c{,,a}] f | \
+[d{,a}3/2] ,,a/ [,,c{a}] ,,e [,a{,a}] ,c | "
+176;d moll;92v;[Allemande];;PAN 3.136;6;;C;",a1 | \
+[,aeca3/2] V,e/ a {a} ,c3/4 ,a/4 | \
+,,d/ ,,,,,a ,,,,c3/4 ,a/4 ,c/ ,,,c ,d ,c | \
+,,,d/ ,a a (,,,d/4 ,,,c ,,,a/) ,d ,c3/4 ,f/4 | "
+177;a moll;93r;Praelud;;;2;;none;"c e ,c ,,d ,a ,c ,,,e ',,,d ,,c ,c ,a ,,,e ,,d ,,,,,a \
+,,,,,c ,,,,,e ',,,,a ,,,,c {,,a} ,,,,c ',,,d ,,a ,,c"
+178;a moll;93v;Allemand;F.Dufault;;2;Conc_1187;C;",,a1 | \
+[,,aeca3/2] (',,c/8 ,,a ,,c ,,d/) [,,d,,d] ,,,,a/ \
+,,d ',,c ,,a | \
+[,,,dc/] {,,a} ,c/ (,d/4 ,c ,a) [,,de/] ,,,,a [,,'c,c/] \
+,,,e/4 ,,c | "
+179;a moll;94r;Cour:;;;2;;3;",a1 | \
+[,,aeca3] | \
+{a}/ ,,c ,,,e ,,d [,a,d] ,c | \
+[,,dec1] ,,,,,a2 | \
+[e,a1] [c,c] ,,d/ c | \
+['a,,,a1] ,,a/ a [,'c,,,c] ,a | \
+[,cd,,c1] [,'a{a}3/2] ,,d/4 ,a | "
+180;a moll;94r;Sarabanda;;;2;;3;"[,,deca1] ,a [,c{a}] | \
+[,'a{,a}3/2] ,,d/4 ,a [,c{,,a}1] | \
+[,cdc{4}1] [,cdc] [,a{,,,a}/] ,,d | \
+[,,'c{,,a}3/2] ,,a/4 ,,,d [,,a,,a1] | \
+[ecd,,a1] [ecd] [ecd] | \
+[ca,,,c3/2] ,d/ ',c ,a | "
+181;a moll;94v;Gigue;D.Gaultier;#184 Allemande / Echo;2;Conc_381;C;"e3/2 d/ e ,d ',c ,a | \
+[,cd/] ,,,e ,a [,c,d] [,,de] ,,c/4 ,d ',a3/4 ,,d/4 | \
+,,c/ ,,,,c ,c [,e,,a] [c,,,c] ',,,,a [e,,,,d] c | "
+182;a moll;95r;Courent MS;Strobel;;2;Conc_1437;3;",c1 | \
+[,cde1] ,,,,,a/ ,d ,a ,c | \
+,,d1 {b}/ ,,c ,,,,c ,a | \
+[,,d,,a1] [,,'c{,,a}3/2] ,,a/4 ,,,d | \
+,,a1 ,,,,,a/ e [c,,,,c] a | \
+[,c,,,d1] {4}/ h [g{,,,a}] e | "
+183;a moll;95v;[Saraband];;;2;;3;"[,cde3/2] ,c/ [,ccd1] | \
+[,ccc3/2] ,,,,c/ [,aa,d1] | \
+[,,dcc3/2] ,a/ [,,caa1] | \
+[,,'a,cd3/2] ,,a/ [,,,'d,c1] | \
+[,,aeca3/2] ,,a/ [,,c,c{,b}1] | \
+[,,d,,a3/2] {a}/ [,a{,a}1] | "
+184;a moll;95v;[Gigue, fragment];;;2;Conc_1835;C;"e3/2 ,c/ ,,d3/4 ,,,e/4 ,,c3/4 [,,,('d/4] | \
+[,,ae)/] ,,,,,a ,,d3/4 ,a/4 ,c/ {a} [,'a{,a}] ,,d/4 ,a | \
+,c/ {,,a}/4 ,e c3/4 {4}/4 ,c3/4 e/4 a/ {,,,a} | \
+[,cd{,,a}3/4] {,a}/4 [,ad{a}/] ',,c [,,d,,a3/4] \
+[,a,,,c/4] [,c,,,d/] {4} | "
+;;;Keyboard Tablature;;;;;;
+185;???;97r;Saraband;;;;;;
+186;???;97v;Cour:;;;;;;
+187;F dur;98r;Courant;;PAN 4.006;;Conc_3477;;
+188;C dur;98v;Eben die aus einem andern Claue;;PAN 4.006;;Conc_3477;;
+189;???;99r;Sarab;Johann Schop;#192 Amor hält einzig zum süßesten Possen;;Conc_1745;;
+190;???;99r;Amor hält einzig zum süßesten Possen;Johann Schop;#193;;;;
+191;???;99v;Courante;;#194;;;;
+192;???;99v;Passage;;#195;;;;
+193;???;100r;Allemande;;#196;;Conc_4355;;
+194;???;100v;Jesu, mein Geistes Heil;;#197;;Conc_1772;;
+195;???;100v;Passage;;#198;;;;
+196;???;101r;Ihr Bächlein die ihr schnell und unaufhörlich rint;;#199;;;;
+197;???;101v;Seuffzen;;#200;;;;

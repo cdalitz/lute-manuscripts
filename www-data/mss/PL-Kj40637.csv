@@ -1,0 +1,79 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+;;Sätze für zwei Lauten;;;;;;;
+1;B dur;1v;Allemande de Mercure. La 1. Partie;Mercure;;;Conc_318;C;"a/4 a | \
+[aaba,a1] ,,,,a/ ,,,a [aab] f/4 f #e3/4 ,f/4 | \
+'a/ a/4 ,f a/ ,,g/4 a [,,#f/] a/4 ,,f [a,#d3/4] ,,,f/4 | "
+2;B dur;2r;Allemande de Mercure. La 2. Partie;Mercure;;;Conc_319;C;"[,'a/4] ,a | \
+[,abaaa1] ,,,,a/ ,,,a [,ab] a/4 c [#a3/4] ,b/4 | \
+[,aba,a/] ,,,a [,ab] ,,,,,c [,,baa] [,,#b] \
+[,,a,,c/] ,,,,,a/4 ,,b | "
+3;B dur;2v;Gigue de Mercure. La 1. Partie;Mercure;;;Conc_1232;3;",a1 | \
+[,abaaa2] ,b1 | \
+[,#b2] ,a1 | \
+[,,#d{,a}2] ,,,f1 | \
+[,,,#e1] a ,,g | \
+[,,#f2] [,,ff1] | \
+,,,a1 ,,d ,,b | \
+,,,c1 ,,b ,a | "
+4;B dur;2v;Gavotte de Gumprecht. La 1. Partie;Gumprecht;;;Conc_1486;C;"V,,b1 a/ ,a c1 ,,,c/ c | \
+[aba1] ,,,a ,,,f/ ,,d ,a ,,,,,a | \
+V[fa{a}3/2] f/ [#e{,a}3/4] ,f/4 e1 | \
+[#c{4}3/2] a/ [aVda{,a}2] ::"
+5;B dur;3r;Gigue de Mercure. La 2. Partie;Mercure;;;Conc_1233;3;",,b1 | \
+[,,baaa2] ,,d1 | \
+[,,#d3/2] ,,,f/4 ,,d ,,,f1 | \
+[,,#aa{,a}2] ,,b1 | \
+,,d3/2 ,a/ ,,d1 | \
+[,,baaa2] ,,b1 | \
+[,,#aa1] a ,b | \
+[,aba3/2] ,,d/ ,,b1 | "
+6;B dur;3r;Gavotte de Gumprecht. La 2. Partie;Gumprecht;;;Conc_1487;C;"[,abaaa1] ,,b ,a [,,b,a{a}] | \
+[,,da{c}1] {,a}/ ,,d [,abaaa1] {5}/ ,,b | \
+[,abaaa1] ,c [a,d{c}] [a,,,,a] | \
+[,#c{4}3/2] a/ [aVda{,a}2] ::"
+7;B dur;3v;Sarabande de Gumprecht. La 1. Partie;Gumprecht;;;Conc_1488;3;",,b1 a/ ,a ,b c | \
+[#aa,,,a3/2] ,b/4 a ,a1 | \
+[,,da{c}1] ,a/ ,,d [,,b,c{a}] ,,d | \
+[,,#aa{,a}3/2] ,,,c/4 ,,a ,,,a/ {,,a} | \
+[,,baa{,,,a}1] [,,baa/] [,,baa] [,,#b{4}3/4] ,,a/4 | "
+8;C dur;3v;Allemande de Gumprecht. La 1. Partie;Gumprecht;;;Conc_309;C;"c1 | \
+[ccd{4}3/2] (,d/4 ,c ,a) [,,d,,a3/4] ,c/4 [,#a3/4] ,,d/4 | \
+[,,c{a}/] ,,,c [,,,#a3/4] ,,,,c/8 ,,,a ,,,,c/ ,,d [,ad] [,,#c] | \
+[,cd/] ,,,,,d [,,#d3/4] ,,d/4 [,,dba1] V[,,bca] | "
+9;B dur;4r;[Sarabande de Gumprecht] La 2. Partie;Gumprecht;;;Conc_1489;3;"[,abaaa1] [,aba] V[,bd] | \
+[,#a,,,a3/2] ,,d/ [,ab1] | \
+[,,da{5}3/2] ,a/ [,,b,c{a}1] | \
+[,,aaVd{,a}3/2] ,,,c/ ,,,a {,,a} | \
+[,,,a{,,,a}1] ,,,a/ ,,,c [,,,,b{4}1] | \
+[,,,,aa{4}1] ,,b [,,#a3/4] ,,,c/4 | "
+10;C dur;4r;[Allemande de Gumprecht] La 2. Partie;Gumprecht;;;Conc_1491;C;",c1 | \
+[,cdc{4}3/2] ,,d/4 ,a [,c,,,a/] ,,d [,,#c] ,,a | \
+[,a{a}/] ,,c [,,aa{,a}3/4] (,,d/8 ,,c ,,a) [,,,c{,,a}3/4] \
+,,,c/4 [,,aa{,,a}/] ,,c | \
+[,,dcc{4}3/4] ,,d/4 ,,a/ [,,,#c] [,,,b{,,,a}3/4] ,,,b/4 \
+[,,,#c3/4] ,,,,e/8 ,,,c | "
+11;C dur;4v;Courente de Gumprecht. La 1. Partie;Gumprecht;;;Conc_1492;3;",c1 | \
+[,cdc{4}3/2] ,a/ ,c ,e | \
+[cc,,,d1] [,,,,,'c] ,a/ d | \
+[e,d,,a3/2] d/ e g | \
+[h,a{,,a}1] #g2 | \
+[e{,a}1] ,,,a3/2 ,,,c/ | \
+,,a/ a [,cde3/2] a/ | "
+12;C dur;4v;Sarabande de Gumprecht. La 1. Partie;Gumprecht;;;Conc_1494;3;"[ccd1] Ve [aaVf] | \
+[aac3/2] e/ #c a | \
+[,cd3/4] ,,c/4 ,,a/ ,c [a,,a] ,c | \
+[,,cc1] {a}/ ,c [,#a] {,a} | \
+[,,dcc{,,a}1] [,,dcc/] [,,dc] [,,#c] ,,d | "
+13;C dur;5r;Courente de Gumprecht. La 2. Partie;Gumprecht;;;Conc_1493;3;",,d1 | \
+[,,dc{4}3/2] ,,c/ ,,d ,a | \
+[,c,,,d1] [,a,c,c3/2] ,a/ | \
+[,cd,,a3/2] ,c/ ,e c | \
+V[e,,,,a1] [#c,d{,,a}3/2] c/ | \
+[aVdaa{,a}1] [,,aa] ,,c/ ,,,c | \
+,,,e/ ,,d ,,,,,a ,,,e ,,d ,a | "
+14;C dur;5r;[Sarabande de Gumprecht] La 2. Partie;Gumprecht;;;Conc_1495;3;"[,cdc,d3/2] ,c/ [,a,,a1] | \
+[,a,c,c3/2] ,d/ [,#c] ,a | \
+[,,d,,d/] ,,,,,c [,,d,,a1] {,a} | \
+[,,cca{a}3/2] ,,d/ [,,#c] {,a} | \
+[,,,c{,,a}1] ,,,,,d ,,,c/ ,,a | \
+[,,,aVd{,a}3/2] ,,,a/ [,,,c{,,a}1] | "

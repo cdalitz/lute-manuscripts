@@ -1,0 +1,93 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;A2r;1. Primo Recercar;;;OT;ConcR2466;C;"X,y ,c3/2 ,f/ ,d1 ,c | ,a1 ,,d/ ,,c [f,d] [Xy,c] ,,d ,a | \
+[fc/] ,e [dXf1] c/ ,d ,d c | a1 [fc] [,d,a/] d c [ac] |";italian7tab
+2;;A2v;2. Secondo Recercar;;;OT;ConcR515;C;",,c2 ,,,c1 ,,a | ,,c/ ,,,c ,,a ,,c [a,d] [Xy,c] ,,d ,a | \
+[c1] [ca] e [ac] | f1 ,e [ef/] ,d [fc] ,a |";italian7tab
+3;;A3v;4. Dvo;;;OT;ConcR2468;C;"X,y ,a2 ,a1 ,a | ,d1 ,a/ ,c ,d ,a/4 ,c ,d a c e | \
+[f,a1] c/ e [f,a] e/4 c a ,d ,c ,a |";italian7tab
+4;;A4r;3. Terzo Recercar;;;OT;;C;",f2 ,f1 ,f | [,bd1] ,,d/ ,a [,bd] ,d [a,d1] | \
+,,,a/ ,d [,d,a] ,,,c ,,a ,,c [,bd1] | \
+,a1 ,,b [,,de/] [,a,Xy] ,c ,e |";italian7tab
+5;;B1r;5. Con lei fuss'io;;;OT;ConcR1185;C;"[,aaacXy2] [,aaac1] [,aaac] | \
+[,abXy,d1] ,,,a/ ,c [,d,ef] [,,d,Xy] ,d ,,,e | \
+[Xy,dca/] ,d ,c ,a c1 [,ddef] | \
+[,d,Xy/] [,ddef] [,dfec1] [acd,a] [cdda] |";italian7tab
+6;;B1v;6. Avpres de vovs;;;OT;;C;"X,,y [ffd,a2] [ffh,a1] [ffh,a] | \
+[efXyc1] ,,f [ea,c/] ,,d ,a ,c | \
+[cdXy,c/] [,f,,Xy] c e [f,a] h [fc] ,,a | [,cd/] e c a";italian7tab
+7;;B2v;7. Non lo so madonna io;;;OT;;C;"[cdda2] | [c,def1] [fd,ef] [ddf,,d] [ddf,,d] | \
+[cXyda1] ,d/ a [cd,,a1] [daXyac/] [c,,,Xy] | \
+[abb,d1] [a,Xyd,a] [aaa,c] [,ea,c] | \
+[aa,c,a1] [abXy,a/] ,a [ab] ,,d [c,da1] |";italian7tab
+8;;B3r;8. Pass'e mezo;;;OT;ConcR2441;C;"X,,,y [,bd,a1] | [,bd,a1] ,,,c/ [,,c,Xy] ,,d ,a ,b ,d | \
+[,bXyca1] ,,d/ ,a ,b [,Xy,,c] [,,d,d1] X,,,,y | \
+[,df,Xyf1] ,,,f/ [,,g,,Xy] ,,f ,,d ,,f ,,g |";italian7tab
+9;;B3v;9. La sua padoana;;;OT;ConcR2442;C;"X,y [abd,a/] | [abd,a1] [abd/] [,,Xy,a] [abd] [db,c] \
+[abd,a1] [abd/] [,,Xy,a/4] ,a ,b ,d [abd,a/] [,ab,,d1] \
+[,,,a,Xy/] [,ab1] [,,d,,c/] [,a,a,d] [,c,,,Xy] [,d,a,d] \
+[,d,a,d] a [,d,a,d]";italian7tab
+10;;B3v;10. Il suo saltarello;;;OT;ConcR2443;3;"X,,y [bd,a1] ,,,c/ [,d,Xy] ,b ,a | \
+[,bXyca1] ,,d/ ,a [,bXy,a] ,,d | \
+[,ab,,d1] [,,,a,Xy/] ,,a ,,b ,,d | \
+[,a,a,d/][,,d,,Xy] ,a ,c ,d a |";italian7tab
+11;;B4r;11. Le forze dercvlle;;;OT;ConcR1249;C;"[abd,a/] [,aXy] ,b ,d [abd,a1] [abd,a] | \
+[,ab,,d1] [,,,a,Xy/] ,,a ,,b ,,d [,a,a,d1] | \
+[,b,ca1] [,a,a,d/] ,,,,,a ,,,,,b [,,d,,Xy] ,,c ,,a |";italian7tab
+12;;B4v;12. Lodesana;;;OT;ConcR1751;C;"[acd,a1] | [acd,a1] ,,,c/ [,d,Xy] ,c ,a | \
+[,cdca1] [,da,c/] [,a,,Xy] ,c ,d | \
+[acd,a/] ,,a/4 ,,c ,,d ,a ,c ,d a ,d ,c ,a |";italian7tab
+13;;C1r;13. Meza notte;;;OT;ConcR2444;3;"X,,y [,,d,a/] ,a [,bd,a1] [,db,c] | \
+[,bd,a/] ,d ,b ,a ,,d ,,c | \
+[,,d,,b1] [aad,,a/] ,,c/4 ,,a ,,d ,,c ,,d/8 ,,c ,,a ,,c |";italian7tab
+14;;C1v;14. La cara cossa;;;OT;ConcR202;3;"[aacXy,a1] ,,,c/ ,,d ,,c ,,a | \
+[aac,,a/] ,,d ,,c ,,a [aac,,a1] | \
+[,,d,a/] ,,c ,,d ,a [,b,,a] X,,,y ,,d | \
+[,abXy,d/] ,,,a [,ab] ,,,,,c [,a,a,d1] |";italian7tab
+15;;C2r;15. El bvrato;;;OT;ConcR1454;3;"[acd,a1] [acd] [acd,a] | \
+[acd,a1] [acd/] ,,,,a [c,da1] | \
+[a,d,e1] [,da,c/] [,c,,Xy] ,a ,,d | \
+[aacc/] ,,d ,,c ,,a [aacc1] | \
+[acd,a1] [acd] [acd,a] |";italian7tab
+16;;C2v;16. Ave santissima;;;OT;;C;"a2 d | d1 a/ c d f/4 d c a c/8 a c d | \
+[ca,Xy/] ,,e ,a ,c ,d1 [,Xyf/] ,c |";italian7tab
+17;;D1r;17. Santo Ercvlano;;;OT;ConcR1595;3;"X,,,y [acd,a/] ,,,c [,d,Xy] [acd,a1] [acd,a/] [c,da1] [a,d,e/] \
+[c,da/] [f,de1] [,,,Xyf/] [f,fc1] [e,,Xy/] [fc,ca1] [fc,c/] \
+[fc,ca1] X,,,y/ ,d [acd,a] ,d [acd,a]";italian7tab
+18;;D1v;18. Cest grand pitie;;;OT;ConcR1667;3;"z2 [abd,a1] | [,dedb2] [,bdd,b1] | \
+[,bdXy,b1] ,,,d/ ,,b [bbd,,b1] | \
+[Xybb,d/] [b,,,Xy] a ,d [abb,d1] | \
+[b,dXy,b1] ,,,d [bbd,,b] | \
+[bbd,,b/] ,,,,,a [bbd,,b] [,,Xy,,d] [bbd,a] ,,,,c |";italian7tab
+19;;D2r;19. Recercar;;;OT;ConcR2467;C;"Xy c2 c1 c | [c,f/] [a,Xy] ,d ,c [,df1] [,df] | \
+[a,b/] [c,Xy] d a [c,d] [a,Xy] ,d ,c | \
+[,df,c/] [,c,,Xy] ,d a [,df,c1] [,df,c] |";italian7tab
+20;;D2v;20. Il me suffit;;;OT;;C;"X,,,y2 [,aa,c1] | [,efec1] [,efec] [a,bcd/] [,,a,Xy] ,,b ,,d | \
+[,efec1] [ddf,,d] [ddda] [cdda] | \
+[dab,,d/] ,,a ,,b ,,d ,,f1 [ddf,,d] | \
+[cdda1] [aabc] [bcXy,a/] [Xya] ,b f |";italian7tab
+21;;D3r;21. Par ton regard;;;OT;ConcR1457;C;"[Xyf,Xy2] [aa,c1] [aa,c] | \
+[cXyda1] ,d [abd,a/] [,aXy] [ab] ,,d | \
+[,efec1] [,efec] [aabc/] ,c [cXyda] ,d | \
+[ddff1] [dabc/] ,c [ddda] c/4 a d c";italian7tab
+22;;D3v;22. Le dvr travail;;;OT;ConcR1666;C;"[cdda2] [cdXya1] ,,f | [da,c/] ,,,b ,,,c c [acXy,a] ,,d ,a ,c | \
+[cd,a1] [c,da] [f,Xyef] ,,d/ d | \
+[c,daXy1] X,,,y [Xy,dce/] a [,d,ef] ,,,,e [,daac] ,,c |";italian7tab
+23;;D4v;24. Recercar;;;OT;;C;"[d,,Xy2] a1 d/ f | d/ c a1 ,e [ab,Xy] | \
+,,d/ ,e [ab] c d ,a [c,d1] | \
+[a,c1] ,,d/ ,d ,c [,ac] [a,d] ,a |";italian7tab
+24;;E1r;24. Torza;;;OT;ConcR1451;C;"[acd,a1] | [acd,a1] ,,,c/ [,d,Xy] ,c ,a | \
+[,acd,a1] [,da,c/] [,a,Xy] ,c ,d | \
+[acd,a/] ,,a/4 ,,c ,,d ,a ,c ,d a ,d ,c ,a |";italian7tab
+25;;E1v;25. O s'io potessi donna;;;OT;ConcR868;C;"[hd,f,d2] [hd,f,d1] [hd,f,d] | \
+[fd,Xy,f1] ,,,e/ f [da,c1] [ca,bc] | \
+[a,,cd/] [,,b,Xy] [a,d1] [,efec] [c,,,Xy] | \
+[d,b1] [,aXy/] a [c,fe1] ,,e/ [a,Xy] | \
+[,df1] [,cde] [,dde] [aabc] |";italian7tab
+26;;E2v;26. Tant que vivrai;;;OT;ConcR854;C;"X,,y [f,de2] [f,de1] [da,c] | \
+[c,da1] ,d/ a [c,Xy] d [c,da1] | \
+[a,d,e1] [f,de] [f,fc] [e,Xy] | \
+[fc,,a/] ,a [Xyc] e f ,,d [Xya] ,c |";italian7tab
+27;;E3v;27. Pongente dardo;;;OT;ConcR1605;C;"[,ddef2] [,dfec1] [,dfec] | \
+[aabc/] ,,d ,a [,c,Xy] [cdda1] [ddf,,d] | \
+[,Xy,f1] [cdda] [aabc] [,efec] | \
+[a,,cd/] ,,b [a,d,Xy1] [,efec/] ,c [,e,Xy] a |";italian7tab

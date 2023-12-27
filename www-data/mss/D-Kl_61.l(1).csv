@@ -1,0 +1,149 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;1r;Mascarade;;;D A d f a d';;C;"[,d{b}1] ,d/ ,d [,d{b}1] [a{a}/] c | \
+[d{,a}1] ,,a [d{,a}] [c{,a}/] a | \
+[,c{b}1] {6}/ ,d [ab{,,,a}1] [,dc{,,a}/] ,b | \
+[,a{6}1] [,,a{b}/] {a} [d{,a}3/2] [c{,,a}/] |";french5tab
+2;;1v;Masquè;;;D A d f a d';;C;"[,aaa{8}1] [,a{8}/] {7}/4 ,,c [,,a{6}1] [a{8}/] c | \
+[,e{4}3/2] a/ [af{,a}2] {8} | \
+[d{8}1] d/ {7}/4 c [a{6}/] {5} [,a{4}] {,,,a} |";french5tab
+3;;1v;[sans titre];;;D A d f a d';;3;"[,aa{,a}] ,a [a{8}] | [aaa{,a}1] {,a}/ a [,d{a}] ,c | \
+[,a{b}1] ,a [a{,a}] | [,e{4}1] ,a [a{5}/] c | \
+[d{6}(] f [c{,,a}3/2] d/ |";french5tab
+4;;2r;Libertas;;;D A d f a d';;3;"f2 | [c{,a}2] d [f{,,,a}] | [,dec{4}2] ,d ,d | \
+[ac{5}2] [cd] [da3/2] ,c/ | [cd{,a}2] {9} ,,c | \
+,d2 {8} ,c1 ,a |";french5tab
+5;;2v;[sans titre];W[alter]R[owe];;D A d f a d';Conc_312;C;",a1 | [,aaa{8}3/2] (3,a/4 ,c ,e) [a{,a}/] c [e{4}] {5} | \
+[aaa{6}1] h3/4 h/4 [f{5}/] d [c{4}3/4] a/4 | \
+[aa{8}/] h ,f ,h";french5tab
+6;;2v;[Sarabande?];W[alter]R[owe];;D A d f a d';;3;",,a1 ,,,a ,a | [aaa{8}3/2] c/ d1 | [c{,,a}1] d [a{,,,a}] | \
+[,e{4}3/2] ,c/4 ,e ,a1 | [,a{6}1] ,,a ,d | \
+[,dc{7}2] [aaa{8}] ,e1 a |";french5tab
+7;;3r;[Allemande];;;D A d f a d';;C;"[aaaa{8}3/2] ,d/4 ,b ,a/ ,b ,,a ,,c | ,a/ ,,,a a c [daaa{8}1] {7} | \
+[daa{6}3/2] c/4 a ,d/ a ,a ,b |";french5tab
+8;;3v;[Allemande];;;D A d f a d';;C;"[aaaa3/2] c/ d a [c{,,a}] ,,c | [,,a{,a}/] a [,,,c{4}] ,e [a{8}] ,,,a d3/4 f/4 | \
+h/ ,a [fc] ,e [df3/4] ,f/4 ,d/ ,a |";french5tab
+9;;3v;Allemande;;;D A d f a d';Conc_1069;C;"[,aaa{,a}1] {8}/ ,,c ,a ,,,c ,,a ,,c | \
+,a/ ,,,a {8} (,c/4 ,e) a/ c [df] [fh] | \
+[hi/] {8} [fh] [df] [fe{4}1] [df] |";french5tab
+10;;4v;Sarab: Gautier;;;D A d f a d';Conc_3490;3;"[aaaa1] [aaaa] [aa] | [aa/] a {7} ,d ,,c ,b | \
+[,aa{6}3/2] ,,,d/4 ,,c ,a3/4 ,a/4 | \
+[,,c{7}1] ,,,a ,,,,e/ ,a |";french5tab
+11;;4v;Sarab Gautier;;;D A d f a d';Conc_2015;3;"[af{5}1] [af] [,d{a}] | [,aa3/2] ,a/ ,c1 | ,e1 a [a{4}3/4] ,e/4 | \
+a1 {8}2 | [d{,a}1] {a}/ d c3/4 a/4 | ,d1 {4}/ a c ,d |";french5tab
+12;;5r;[Allemande];;;D A d f a d';;C;"[,de{6}3/2] [,bc/] [,aa] {5} {4} {,,,a} | \
+{,,a}/ [,aa] [,,ca3/4] ,,,d/4 [,,ad1] {a} | \
+{,a}/ ,a [,b{,,a}] ,d [a{,,,a}] ,b d1 |";french5tab
+13;;5v;[Courante];;;D A d f a d';;3;",d/ ,b | [,a{6}1] ,,a ,d | [a{,,,a}1] [c{,,a}3/2] a/4 c | \
+[daa{6}3/2] ,d/ a1 | [a{,,,a}1] [,d{,,a}3/2] ,,f/ | \
+[,a{,a}2] [,b{,,,a}1] | [,b{5}1] [,a{,a}3/2] ,,c/ |";french5tab
+14;;5v;[Allemande];;1653;D A d f a d';;C;"{6}1 ,,a ,d d | [c{,,a}1] ,d [{,,,a}/] {4} {5} c | \
+[daa{6}1] ,a/ ,b ,d1 {7}/ {6} | {5}1 ,,c/ ,a ,b1 {8}/ {7} |";french5tab
+15;;6v;[Allemande];;;D A d f a d';;C;"{,a}1 ,,a [,,c{a}] {,,a}/ ,a | [,,a{,a}] ,,,a {,,,a} ,,g | \
+[,,g{4}1] {6}/ ,,f [,,h{5}1] ,,k | \
+{7}1 ,b/ ,d [,a{6}] ,,a [,a{,a}] ,b |";french5tab
+16;;7r;[Courante];;;D A d f a d';;3;",a1 | [,,c{a}1] {,,a} ,a | [,,a{,a}1] ,,,a {,,a} | \
+[abaa{,,,a}3/2] c/ a1 | [,e{4}1] [,a{,,,a}] {5} | \
+[,,i{6}1] ,,h ,,g | [,,g{7}3/2] ,,h/ ,,g ,,h |";french5tab
+17;;7v;[Courante];;;D A d f a d';;3;",,c1 | [,,c{,,a}1] ,a [,b{,a}] | [,a{,,a}1] [,a{,,,a}3/2] ,,c/ | \
+[,a{4}3/2] ,,,c/ ,,,d ,,,a | ,,,,e1 ,,,,a {5} | \
+{6}1 ,d/ a ,d1 |";french5tab
+18;;7v;Gigue de M. B.;;;D A d f a d';Conc_3458;C;"d/ a d f h a [fc] ,e | ,f/ d [cf{4}] ,e [a{,,,a}] ,,c ,a ,b | \
+[,d{4}/] ,,a a {5} [,d{4}] a [,b{5}] c |";french5tab
+19;;8r;Gigue;;;D A d f a d';Conc_5352;3;"[ahh{8}2] {4}1 | {,a}1 ,a ,,c | ,,a3/2 ,,,c/4 ,,a ,,,a1 | \
+,a1 {6} [,c{5}] | [,e{4}1] ,a h | ,h1 f ,e | [d{,a}1] a {8} |";french5tab
+20;;8v;Sarabande Pinelle;;;D A d f a d';Conc_4218;3;"[,aaa{,a}1] [,aaa3/2] {,,a}/ | [,b{,,,a}1] [,baa] {4} | \
+[,ba{5}1] ,,c ,b3/4 ,a/4 | [,aa{6}1] ,,,,d/ ,a [,aad1] | \
+[,,ccd{7}1] [,,ccd3/2] ,a/ | [,aaa{8}1] [,aaa] ,c |";french5tab
+21;;9r;[Prelude];;;D A d f a d';;C;"[aaaa{{,a}3] [,bc1] | [,aa1] [,,cc] [,,aa] {,,,a} | \
+{4}1 {5}/ [,,cc] [,aa{6}1] [df] | [cd1] [ab] [,de] z1 | \
+{a}3 {,a}/ [ac] |";french5tab
+22;;9r;[La Sisonne];;;D A d f a d';;C;",a1 | [a{,a}1] [,e{4}] [a{,a}] [c{,,a}] | [d{6}3] f/ d | \
+[c{5}1] a [c{4}] ,e | [a{,a}1] {4} {8} :||: (3c/ d f) | \
+[h{8}1] {7} [h{6}] {5} |";french5tab
+23;;9v;Almand Joh: Jen[kins]:;;;D A d f a d';;C;"{4}/ [,a(e1] ,,e/ [,,d)1] {a}3/4 {,a}/4 | {,,a}/ ,a {,,,a} ,,d {4}1 (,a/ ,c | \
+,d/ a c) {5} {6}3/4 c/4 a/ c |";french5tab
+24;;9v;Coranto Joh: Jen[kins]:;;;D A d f a d';;3;"h/ ,h | h3/2 ,a/ ,d a | ,c1 ,a [c,,,f/] {7} | \
+c3/2 a/ [,d{4}] a | {8}/ ,d [,c{7}3/2] ,a/ | \
+[,aeca{4}1] {10}2 |";french5tab
+25;;10r;The parangon / d[ietrich]: S[toeffken];;;D A d f a d';;3;"a/ c ,c | [,de1] {4}/ ,,c ,,e ,,,c | ,,,d/ ,,c ,a {b} [,c{,a}3/4] ,a/4 | \
+[,,d{a}3/2] {,a}/ {a} {,,,a} |";french5tab
+26;;10v;Sarab: D[ietrich]: S[toeffken]:;;;D A d f a d';;3;"[c{4}1] c {,,,a} | {,,a}/ c {d}1 a | {4}/ ,d {7}1 ,c | \
+{6}/ ,a {i}1 ,,c | {8}/4 (,,a ,,c/ ,,a ,,c) ,,e {,,a} |";french5tab
+27;;10v;Courente Joh: Jen[kins]:;;;D A d f a d';;3;"c/ e f | [ha3/2] ,c/ ,d a | c/ ,d ,c1 ,a | c1 a3/2 c/ | \
+(d1 {4}/ d) c a | c3/2 {5}/ {6} {7} |";french5tab
+28;;11r;Courante;;;D A d f a d';;3;",a/4 ,c ,d a | c1 ,d ,a | c1 a3/2 ,d/ | [ac3] | \
+[,de1] {4}/ {,,,a} {,,a} {,a} | {a}/ ,d [,cd1] {7} |";french5tab
+29;;11v;1. Allemande d[ietrich]: s[toeffken]:;;;D A d f a d';;C;"[,caaa{,,,a}3/2] ,b/ ,c ,,a ,c {g} | {,a}/ ,c a {d} [bc{,,,a}3/2] a/ | \
+,c/ ,a/4 ,,b ,,a/ {4}/4 {5} {6}/ d f {e} |";french5tab
+30;;11v;2. Courante Jo: Jen[kin]:;;;D A d f a d';Conc_5353;3;"{,,,a}1 | [,caaa3/2] a/ b d | b1 [a{4}2] | [,c{5}3/2] b/ a ,c | \
+[,b{6}3/2] a/ b d | a1 [,c{5}] a | [b{3}1] a3/2 b/ |";french5tab
+31;;12r;3. [Courante];;;D A d f a d';Conc_5354;3;",,a/ ,,c ,,e | ,,f1 {,a} {,,,a} | f1 d3/2 b/ | [a{4}1] ,,,f {6} | \
+[aba3] | z3/2 (,,c/ ,,e ,c) | ,c1 ,,c2 |";french5tab
+32;;12r;4. Aria D[ietrich]: S[toeffken]:;;;D A d f a d';;C;",c/ a | [b{,,,a}1] [d{,,a}] [f{,a}] | [fe{d}3/2] g/ f d | \
+[b{,,,a}1] ,c f | [,ba{6}3/2] d/ f a | [b{,,,a}3/2] d/ f g |";french5tab
+33;;12v;5. Courente D[ietrich]: S[toeffken]:;;;D A d f a d';;3;",,a/ | [,caaa1] {k}2 | [,cb1] [,aa3/2] [,,bc/] | \
+[,,a{,,,a}3/2] ,,b/ ,,a ,,,c | ,,,a1 ,,,c ,,,e | \
+[,,aec{d}1] ,,,c3/2 ,,,a/ | [,,,aa{,,,a}3/2] ,,a/ ,,c ,a |";french5tab
+34;;12v;6. Sarab: Mr Joung;;;D A d f a d';;3;"{,,,a}1 | ,c2 {6}1 | ,b2 ,,,f1 | b2 {,,,a}1 | a2 [,a{6}1] | \
+[,c{5}3/2] a/ b1 | [b{4}1] a2 | [baa{,a}3] {8}2 || {,a}1 | \
+f2 {,,a}1 |";french5tab
+35;;13r;Allemande;;;D A d f a d';Conc_169;C;",,a/ | [,,add{6}3/2] ,,c/ ,a ,,a ,b ,,c | \
+[,de{6}/] ,,a ,,,c ,,a [,,,a{a}] a/4 ,d ,c/ ,,a | \
+[,dcc{,,a}/] {9} c d [fd] ,b ,a d |";french5tab
+36;;13v;[fragment];;"see f.15r (1); f.14r vacat";D A d f a d';Conc_5;3;"a | [afaa{,a}3/2] e/ c a | [,e{4}/] a [,c{7}3/2] ,a/4 ,c | \
+[,ad{4}1] {10}/ ,,d ,,b ,,a | y y y";french5tab
+37;F dur;15r;[Courente];;;;Conc_5;3;"a | [ada{,a}3/2] e/ c a | [,c,,,d/] a [,a{a}3/2] ,,d/4 ,a | \
+,,d1 {4}/ ,,d ,,b ,,a | {a}/ ,,b [,,b,c3/2] ,,a/ | [,aad3] |";
+38;;15r;Su la tiorba;;"Crossed out; continues on f.14v and f.16r";Th;Conc_5;3;",,b | [,,bac{,,,a}3/2] ,,f/ ,,d ,,b | [,,a{a}/] ,,b [,,cc{,,,a}3/2] ,,,a/4 ,,,c | \
+,,,a1 {a}/ (,d ,b ,a) | {,,,a}/ ,b [,b,,,c3/2] ,a/ | \
+[,a,,,d1] {4} |";
+39;;15v;Sarabande;;;D A d f a d';Conc_131;3;"a/ a [aaaa{8}3/2] ,d/ | [,c{5}1] ,c [,d{4}] | [a{,,,a}1] [,e{4}3/2] ,e/ | \
+[af1] {8}2 | [d{8}/] {7} [,d{6}3/2] ,d/ | [ab1] {,,,a}2 |";french5tab
+40;;16r;Courente du luth mis sul la tiorba;;"Crossed out; f. 16v vacat";Th;;3;",,f/ | [,,ff,a1] {13}2 | [,,d{,,,a}/] d c3/2 a/ | [,e{,,a}1] ,a3/2 a/ | \
+[aa,,,a1] [c{a}3/2] d/ | [dab{e}] ,d/ ',b1 | \
+[,a,,,d1] 'a3/2 ,d/ |";
+41;;17r;Allem mise sur le Bariton le 29 april 1670;;Dubuisson (PL- Wlm Ms. R 221 / 43v;D A d f a d';;C;"a/ | [afaa3/2] ,e/ ,f ,a ,c ,,a/4 ,,b | \
+[,ad/] ,,,a a h [ef] [ef] [ce] [ac] | \
+[ca{4}1] c/ e {,,,a} c [ccc3/4] a/4 |";french5tab
+42;;17r;Courente;;Dubuisson (PL- Wlm Ms. R 221 / 34r;D A d f a d';;3;"h/ | h1 {8}/ f e f | c1 {4}/ e [ca3/4] a/4 | \
+a3/2 {,,,a}/ {4} {5} | {6}3/2 a/ ,e a |";french5tab
+43;;17v;Gigue St[oeffken];;;D A d f a d';;3;"h1 |[e{,a}3/2] c/ a1 | [,e{4}1] c ,a | [af{,a}1] ,,,a {8} | \
+[af3/2] ,a/ ,c ,,b | ,,a1 {,a}3/2 ,,a/ | \
+,,b1 {,,,a}3/2 ,,c/ |";french5tab
+44;;18r;Gigue;;Dubuisson (PL- Wlm Ms. R 221 / 31r;D A d f a d';;C;"[af1] e3/4 f/4 h3/4 ,a/4 [fc{5}3/4] [ce{4}/4] | \
+[ef3/4] [,,,a{8}/4] [,,a{6}3/4] [,,b{5}/4] [,ad{4}3/4] ,,,,a/4 [,,,fc3/4] [,,,ce/4] | \
+[,,,af3/4] {8}/4 {6}3/4 {5}/4 {4}3/4 e/4 c3/4 a/4 |";french5tab
+45;;18r;Gavotte;;;D A d f a d';;C;"[h{,a}1] a [c{,,a}] ,e | [a{,,,a}1] c/ a [,e{4}1] ,a | \
+[a{5}1] ,c [c{7}/] f [e{8}3/4] c/4 | c2 {4}1 {10} ||";french5tab
+46;;18v;[Sarabande?];;Start missing;D A d f a d';Conc_546;3;"y | [,a{6}3/2] a/ ,,a c | e1 {8}/ c a ,e | [,c{7}1] [,c{6}3/2] ,b/ | \
+,c3/2 {,,,a}/ {4}1 | {5}1 ,c3/2 ,c/ | ,e3/2 {4}/ {5}1 |";french5tab
+47;;18v;Sarab:;;Dubuisson (PL- Wlm Ms. R 221 / 35r;D A d f a d';;3;"[af{,a}1] e a3/4 h/4 | h3/2 ,a/ a1 | [,e{4}1] [,e{6}] {5}3/4 c/4 | \
+[c{4}3/2] a/ a1 | h1 [e{,a}3/2] f/ | [c{4}3/2] c/ e1 |";french5tab
+48;;18v;Ballet;;Dubuisson (PL- Wlm Ms. R 221 / 36r;D A d f a d';;C;"a/ | [afaa{8}3/2] e/ [ef3/] f/ | [h{,,a}/] h f h [ef{,a}1] [c{4}3/4] e/4 | \
+[a{,,,a}/] a [,e{6}] a [,c{5}1] [c{7}3/4] c/4 |";french5tab
+49;;19r;Gavotte;;;D A d f a d';;C;"[a{8}1] e [h{6}] [a{5}] | [,e{4}3/2] ,c/ [,c{7}1] c | \
+[,e{4}1] e c [e{8}/] ,c | [,cc{7}3/2] ,a/ a2 | {4} {10} ||";french5tab
+50;;19r;Gavotte;;Lully: Les Plaisirs de l'Ile enchantée (1664): LWV 22/21;D A d f a d';;C;"[e{,a}3/2] f/ [c{4}1] h | [a{,,,a}3/2] c/ [,e{4}1] [,e{e}/] {5} | \
+[aaa{6}3/2] ,a/ ([,c{5}] ,e) a1 | [aa{4}3/2] ,e/ [aaaa{8}2] ||";french5tab
+51;;19v;Allem den 21 april 1669;;Crossed out;D A d f a d';;C;"[eaaa3/2] {8}/ [ca{4}] ,e [,cb{5}] a | [,e{4}1] f/ ,a [a{,a}1] [c{,,a}] | \
+[eaaa{,a}/] a h [,,,c{,a}/4] [,,,a{,a}] [,,,,e{,,a}/] [ca] f f |";french5tab
+52;;20r;Allem 21 april [1]669;;;D A d f a d';;C;"[eaaa{8}3/2] {8}/ [c{4}] ,e [,c{5}] a | \
+[,e{4}1] f/ ,e [a{,,,a}1] [c{,,c}] | \
+[eaaa{,a}/] a h {a}/4 {a} {,,a}/ [ca] f f |";french5tab
+53;;20v;Allemande;;;D A d f a d';;C;"a/ | [aaaa{8}2] z/ d c d | a/ ,a ,,c ,a ,,a {,a} {,,a} {,a} | \
+{,,,a}/ ,,a ,,,c ,,a ,,,a ,a ,,c a |";french5tab
+54;;20v;Courante;;;D A d f a d';;3;",b/ ,a ,,c | [,,aa1] [,,aa] [,,,ce] | [,,aa1] ,,,,,a ,a | \
+[a{,a}/] c d a h f | d/ c d ,a c ,a |";french5tab
+55;;21r;Gigue;;;D A d f a d';;3;",,,,a2 ,,,,a1 | ,,,a2 ,,,c1 | ,,a2 ,,,a1 | ,a2 ,,c1 | \
+[,aa2] ,a1 | a1 ,,,c c | [daaa2] a1 | a2 f1 | d1 ,a [ccc] |";french5tab
+56;;21v;Sarab: Spagnole;;Folies?;D A d f a d';;3;"[,aaa{,a}1] [,aaa{8}3/2] [a,c/] | [,ee1] {4} {5} | \
+[a{6}1] [c{7}3/2] c/ | [d{8}1] [daaa2] | \
+[f{7}1] [d{8}3/2] f/ | [c{9}1] [c{,,a}3/2] d/ | \
+[ab{,,,a}1] [ab{5}3/2] c/ |";french5tab
+57;;21v;Courante;;;D A d f a d';;3;",a/ ,c ,d | a1 ,a ,,a | ,,,a3/2 ,,,c/ ,,a ,,c | \
+,a1 ,,a ,,,a | ,,,,,a3/2 ,,,,a/ ,,,,c ,,,,d | \
+,,,a/ ,,,c ,,a ,,c ,a ,c |";french5tab
+58;;22r;Allem;;;D A d f a d';;C;"[aaaaa{a}{8}3/2] ,e/ a c d a | [haaa/] {8}1 ,a3/4 ,a/4 \
+[,aad/] [,,,c{4}/4] ,,,d ,,c ,,e ,,,a ,,,d |";french5tab
+59;;23r;Tombeau de M. Messangior;;;D A d f a d';Conc_5355;C;"[af{,a}3/2] ,f/4 ,f [,e{4}/] ,a f d/4 c | d/ {,a} ,,a [,,c{a}] ,a a ,d | \
+[,b{5}3/2] ,d/ ,b ,a ,,c ,,a |";french5tab

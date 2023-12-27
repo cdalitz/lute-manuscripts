@@ -1,0 +1,132 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1;c moll;262;Allemande.;S. L. Weiss;;;Conc_639;C,1/4;",,,c/ | \
+[,,,cb{4}3/2] ,,,c/ V[,,,dd1] (,,,c/ ,,,a) | \
+[,,,cd{4}1] ,,,,,d/ ,,,,b ,,,c1 [,,,,,'b/] ,,,c | \
+{b}1 ,,,c/ ,,d [,,,'a1] ,,d/ ,a | \
+[,,'c{a}1] ,,,c c [,,,'a] | "
+2;c moll;263;Courrante.;S. L. Weiss;;;Conc_1017;3,1/4;",,,c/ ,,a ,,c | \
+,,,,,d/ ,,d ,,,c ,,d (,a ,b) | \
+,,,,,d/ ,a ,,,a ,,,,,d [,,,,,'c] ,,,,,a | \
+,,,,,c/ ,a ,,,c (,,,,d [,,,,'b]) ,,,,a | \
+{4}/"
+3;c moll;264;Sarabande.;S. L. Weiss;;;Conc_1018;3,1/4;"[,,dcb{4}3/4] ,,d// | \
+[,,da{,,,a}/] (,,c// ,,a) [,,caa/] a [aa,,,c] a | \
+[a,,c,d/] (,b// ,a) [,bdc{4}/] c [,,bcb] ,,b | \
+[,,b,,d{,a}/] (,,,d// ,,,c) [,,,dd/] a [,,,ddb{,,,a}] ,,,d | "
+4;c moll;265;Gavotte.;S. L. Weiss;;;Conc_1019;C,1/4;",,,c1 ,,d/ ,a | \
+[,,'c{a}1] [,b,,,d] [,a,,,c/] d (['c{a}] a) | \
+([,b{4}/] ,a) ,,d c ,,d d ,,b c | \
+,,,d/ a ,,,c ,b ,,,a ,a ,,,,b ,b | "
+5;c moll;266;Gig;S. L. Weiss;;;Conc_1020;6/8,1/4;"c/ | \
+,b/ c ,a ,b c ,,d | \
+,a/ a (,,d ,,c) c 'a | \
+,,d/ ,b ,,b ,,,d ,b ,,,c | \
+,,,,d/ ,a ,,,,a ,,,,b ,,d ,,,a | \
+{a}/"
+6;c moll;269;Allem.;S. L. Weiss;;;Conc_640;C,1/4;"h/ | \
+[hfg{4}1] ,,,h/ ,,f ,,g h ,,i k | \
+['g{a}1] ,,,,f/ ,,,,h ,,,g ,g [,'f] a | \
+[,,g{4}1] ,,,h/ ,,f ,,g h ,,,h f | \
+['d{,a}1]"
+7;c moll;270;Gavotte.;S. L. Weiss;;;Conc_1021;2/4,1/4;"[,,d{4}/] ,b c ,,d | \
+[,,'ca{,,,a}1] [,,d{,,a}] | \
+[ab{,,,a}] [,bc{a}/] (,a | \
+[,b,c{4}1]) ,a/ ,,d | \
+,b/ ,,,c ,,,d a | \
+,a/ ,,,a ,,,c ,b | \
+,,d/ ,,,,b ,,,,d ,a | "
+8;c moll;270;Rondeau.;S. L. Weiss;;;Conc_1022;C,1/4;"c1 | \
+d1 (c a) | \
+c2 [,bd1] | \
+[aa1] [,bd] [,ac] | \
+[,bd2] [,,cc1] | \
+[,,d(d1] [,,,c)] [,a,,a] | \
+[,,'cc{a}1] {,a} [,,dc{,,a}] | \
+[a,d{,,,a}1] ,b [,ac] | \
+[,b{4}1] ,,d ,,,c | "
+9;c moll;272;Sarabande.;S. L. Weiss;;;Conc_1023;3,1/4;"[,,bc{,,a}1] ,,d/ ,a [,'a,d{,a}1] | \
+[,bb{a}/] ,d// c [aab{,,,a}1] #d | \
+([d,b{,,,a}/] c) ([c,b{,,a}] a) [a,d{6}] ,b | \
+[,'b,a{5}1] [,ab2] | \
+{5}/ ,,f// f ,,,h/ ,,g// ,h ,,f ,h f ,,f | "
+10;c moll;273;Menuet.;S. L. Weiss;;;Conc_1024;3,1/4;"[,,,cb{4}1] ,,,,,d/ ,,,,b ,,,c ,,,,b | \
+[,,d,b{4}1] [,,da{,,,a}/] (,,c ,,a) ,,d | \
+[,,ca{,,,a}1] ,,,,a/ ,,,a ,,c ,,,a | \
+[,a,a{,,,a}1] [,a,c{,,a}/] (,,d ,,c) ,a | \
+[,,dc{,,a}1] ,,,,b/ ,,,c ,,d ,,,c | "
+11;c moll;274;Rigaudon.;S. L. Weiss;;;Conc_1025;C,1/4;"[,,,cb{4}1] ,,d | \
+[,,'c{a}1] ,,,c/ {,a} [,,,c{,,a}1] [,b{4}] | \
+[,'a{a}1] ,,,c/ {,a} [c,d{,,a}1] (,d/ ,b) | \
+[d,d{,a}/] (c a) ,b [,'a,a1] a/ ,,d | \
+[,,'c{a}1]"
+12;c moll;275;Angloise.;S. L. Weiss;;;Conc_1026;2/4,1/4;"[,,bc{,,a}/] (,b// ,a) V[,b{,,a}/] ,a// ,,d | \
+[,,'b{,,a}/] ,,d// ,,,d [,,,'c{,,a}/] (,,,,d// ,,,,b) | \
+[,,bc{,,a}/] (,b// ,a) V[,b{,,a}/] ,a// ,,d | \
+[,,'b{,,a}/] ,,d// ,,,d [,,,'c{,,a}/] (,,,,d// ,,,,b)"
+13,1;c moll;278;Ouverture. Largo.;S. L. Weiss;;;Conc_664;C,1/4;",,d/ | \
+[,,dcb{4}3/2] ,,d// ,a ,b c3/4 ,,d// [,'b/] ,a// ,,d | \
+[ddd{4}1] {4}// {,,,a} {,,a} {,a} {b}3/4 d// ['a,d/] c// d | \
+[,,'cc{a}3/4] {,a}// [,,dc{,,a}/]> [,a{,,,a}] [,b{4}/]"
+13,2;c moll;278;Allegro;S. L. Weiss;;;Conc_665;3/4,1/4;"{4}1 ,,d ,,d | c1 c/ (,d ,b ,a) | \
+V[,b1] [,bd,,d] [,bd,,d] | \
+[,adc1] ,,c/ (,,,,d ,,,,b ,,,,a) | \
+,,,,b/ (,,c ,,d) c (,,c ,,d) | "
+14;c moll;280;Cour: assai moderato.;S. L. Weiss;;;Conc_3127;3/4,1/4;"l/ k ,l | \
+,k/ k ,,l a ,,g ,a | \
+[,,g{4}/] ,f ,,,h ,f (h f) | \
+[,g{,a}/] (h a) ,g ,,f a | \
+[,,,'g{a}1]> ,,,,f [,,,,h{,a}] ,,,g | "
+15;c moll;282;Bourrée;S. L. Weiss;;;Conc_1027;C,1/4;",f1 | \
+h1 'g h [,f,g] | \
+[,'g,h1] ,f [,f,g/] a ,,g ,a | \
+[,,g{4}/] a ,a ,,g ,,,h1 ,f | \
+[,g{,a}/] a ,,h a ,g a ,,h a | "
+16;Eb dur;284;Siciliana.;S. L. Weiss;;;Conc_3128;6/8,1/4;",,b/ | \
+[,,bc{,,a}3/4] ,,d// ,,b/ [,bbc] ,d// c 'c d | \
+[,a,d{,a}3/4] ,b// ,a/ [,a,d{d}] {5} a | \
+[a,,d{,,,a}/] (,b// ,a) (,,d ,,b) ([,,,d{,,a}] ,,,c) \
+,,,d ,,b/8 ,a a/4 ,,,d | "
+17;c moll;285;Men:;S. L. Weiss;;;Conc_1028;3/4,1/4;",,d1 ,b {4} | \
+c1 [c{,,a}/] ,d ([,b{a}] ,a) | \
+[,b,,,d/] ,,d ,,,c ,,d ,,,,b ,,,c | \
+{4}/ c ,b c ,,d c | \
+[d,d{,a}1] 'a1> c | "
+18;c moll;286;Presto;S. L. Weiss;;;Conc_1029;C,1/4;"{4}/ ,,d// ,a ,b/ ,b// a c/ ,b ,,d [,,'c{a}] | \
+,,,,,d// ,,d ,,,c ,,d ,,,,b ,,,c ,,,,,d ,,,,b {4}/ c ,b ,,d | \
+d1"
+19;Eb dur;288;Prelude;S. L. Weiss;;;Conc_3129;C,1/4;",,,,b// | \
+[,,,,b{,,a}///] (,,,,d ,,,,b ,,,,a) ,,,,b3/8 \
+,,,c/// [,,,c{,,a}] (,,,d ,,,c ,,,a) ,,,c3/8 \
+,,b/// [,,b{,,a}] (,,d ,,b ,,a) ,,b3/8 ,,b/// \
+{,,,a} ,,,,a ,,,a ,,b ,a a"
+20;Eb dur;289;Allemande;S. L. Weiss;;;Conc_645;C,1/4;"[,bbc{,,a}1] c/ d ['a,b{,,,a}1] f | \
+[f,g{4}/] d// ,f (d/ [fd{,,,a}]) ['c{,,a}3/4] ,d// [,'b1] | \
+h1 [hf{,,a}] [h,i{,,,a}/] f// ,g [,'f/] a | f1 [fd{,,,a}]"
+21;Eb dur;290;Courr:;S. L. Weiss;;;Conc_1030;3,1/4;"f/ ,g f | \
+[,f{,,a}/] f ,g f [,,i{,,,a}] f | \
+[,f{,,a}/] ,g ([a{,,,a}] c) [,b{4}] a | \
+[,a{5}1] (,,d/ ,,b) [,bb{a}1] | \
+[a{,,,a}/] ,b (a c) (d a) | "
+22;Eb dur;292;Rigaudon;S. L. Weiss;;;Conc_1031;2/4,1/4;"[,,bc{,,a}/] ,,d// ,a ,b/ [,b,c{,,a}] | \
+[,b,d{,a}/] ,a #d1 | \
+[d{,a}/] ,,,d [,,,d{,,a}] d | \
+[d{,,,a}/] ,,,d [,,,da{5}] d | \
+[,,,d{,,a}/] (,,,c// ,,,a) [,,,cb1] | \
+[,,,cb{,,a}/] ,,d {,,,a} ,,b | "
+23;Eb dur;293;Sarab:;S. L. Weiss;;;Conc_1032;3,1/4;"f/ | \
+[ffg{,,a}/] h ['fd{,,,a}] d [,f{5}] d | \
+['c,b{,,a}3/4] ,d// [,bbc1] ,f/ d | \
+[f{a}/] (d// ,f) [,dd,,a/] (,,g// ,,f) [,,g{6}/] h// ,,g | "
+24;Eb dur;294;Gavotte.;S. L. Weiss;;;Conc_1033;C,1/4;",,b1 ,b | \
+[,,bc{a}/] {,a} [,b{,,a}1] ,,b a | \
+[,,ba{,,,a}/] {4} [a{5}1] ,,b/ d (c a) | \
+[c,b{,,a}/] {,,,a} {,,a}1 [a,,d{,a}/] {,,a} {,a}1 | \
+[,bb{a}/] {,a} {a} c"
+25;Eb dur;295;Menuet.;S. L. Weiss;;;Conc_1034;3,1/4;"[ff{,,a}1] (,f/ ,g//) f ,f/ ,g// f | \
+[(h(g{4}1] [f)f)] [hg] | \
+['dd{,,,a}1] (,d/ ,f//) d (,d/ ,f//) d | \
+[(f(f{5}1] [d)d)] [ff] | [cb{4}1]"
+26;Eb dur;296;Allegro assai.;S. L. Weiss;;;Conc_1035;C,1/4;"f1 | \
+[h{,,a}/] ,g f ,f h ,g f ,f | \
+[h{,,a}/] ,g f ,f [,g{,a}] a ([f{,,,a}] d) | \
+[,f{,,a}/] d (a c) ,b1 'a | "

@@ -1,0 +1,45 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;1r;Contrapunto;;;OT;;3/2;"a2 ,d1 ,c ,a ,,d ,,c ,,a ,,,c ,,,a ,,,,e ,,,,c | \
+,,,,a1 ,,d ,,c ,,a ,,,c ,,,a ,,,,e ,,,,c \
+,,,,a ,,,,c ,,,,e ,,,a |";italian7tab
+2;;3r;Toccata;;;OT;;C;"[,aaac4] [,dfec] | [,aba,d2] [,abc,a1] ,,,,,c ,,,,,d ,,,,a [,aaac2] | \
+[ccde,c4] [,aba,d] | [,dfef{d}4] [,cdca] | [,da,,c4] [,aba,d] |";italian7tab
+3;;3v;Fantasia;;;OT;;C;",,,c2 ,,,c1 ,,,c | ,,,f3/2 ,,,e/ ,,,c1 ,,,b | \
+X,,,c1 ,a ,a ,a | X,b1 ,,,,a/ ,a [,,d,d1] [,,c,c] | \
+X[,,d,a1] a a a |";italian7tab
+4;;4v;Fantasia;;;OT;;C;"[cdda4] [cdda2] [cdda] | [acd,a2] [,d,ec] [,cde,c3] ,c1 | \
+,c2 [,dde{d}] [,aba,d1] ,c [,daa{d}] ,a | \
+[,cdca1] ,d [aab,,a/] d c a |";italian7tab
+5;;6v;Toccata;;;OT;;C;"[,aaac4] [,dfec] | [,dff,d2] [,dde{d}] | [,cdca3/2] ,,,b/ ,,,c/4 ,,,b ,,,c ,,,b ,,,c ,,,b ,,,c ,,,e | \
+[aaXb,,a/] ,,d ,a ,c";italian7tab
+6;;7v;[fantasia];;;OT;;C;",,,,c3 ,,,,e1 ,,,,f ,,,,c ,,,,h2 | \
+,,,,f2 ,,,,e [,,a,f] ,,,,c1 ,,c | \
+[,,d,,c1] ,,a [,,f,f2] [,,d,e1] ,,,e ,,c ,,,d |";italian7tab
+7;;9r;Romanesca in contrapunto;;;OT;;none;"c2 ,d1 a c e f h f c a ,d | \
+a1 ,,d ,,,,a ,,,,c ,,,,e ,,,a ,,,c ,,,e ,,,c ,,d ,a ,c |";italian7tab
+8;;13v;[gagliarda];;;OT;;3/2;"[aacc2] | [aacc2] ,,,,,a1 [a,,a] [a,,,e] [a,,,c] | \
+[acd,a2] [,cd1] ,,,,c ,,,,e ,,,b | \
+[aacc] ,,,,,a/ ,,d ,,c1 [,ea,c] [aa,,e] ,,e |";italian7tab
+9;;14v;[fantasia];;;OT;;C;"X[eccce4] {c}2 [c,d] | [a,ccXe2] [,ea] [a,cce1] ,,,,c/ ,,,,e ,,,,c1 ,,,,a | \
+[,a,c,e2] [,cdca] [,,cc,a1] ,a/ ,,d ,a1 [,c,a/] ,,,,e |";italian7tab
+10;;16r;[fantasia];;;OT;;C;"[,aaaXc4] {a}2 [,c,c] | [,dfec1] ,,,,a/ ,,,,c ,,,,a ,,,,c ,,,,a1 ,,,,,e [,,de,c2] ,c | \
+[,abaXc1] ,,a/ ,,b ,,a ,,,c ,,a1 ,,,,a [,a,,cd]";italian7tab
+11;;18r;Fantasia;;;OT;;C;",,f6 ,,f2 | ,,d2 ,,a ,,f ,c | [cd2] ,c1 ,,f ,,e2 [c,Xf] | \
+,d2 ,a1 ,,f [cd2] [ec1] ,a |";italian7tab
+12;;19v;Fantasia;;;OT;;C;",,,c2 ,,,c1 ,,,c | ,,,f2 ,,,e | X,,,c1 ,a [,a,b] [,a,c] | \
+[,d,,Xc1] X,,f ,c ,,e | [,af1] ,,,f [,,de] [,ac] |";italian7tab
+13;;22r;Fantasia in Canzon Franzese;;;OT;;C;",,f2 ,,a1 ,,c | ,,d1 ,,d/ ,,d ,,d1 ,,d | ,,c1 [,,ee] [,,fc] [,,d,e/] ,,c | \
+[,,a,f1] ,,,,f/ ,,,,f ,,,,f1 ,,,,f/ ,c |";italian7tab
+14;;24v;Romanesca del Sig.r Caualiere;;;OT;;3/2;"[cdda4] [cdda] [cdda] | [acd,a4] ,d2 [acd,a4] c2 | \
+[,dfcXc3] ,c1 ,d ,f Xc2 [,afXf1] a/ ,d a2 | \
+[ccXee2] X,,,,,c1 ,f";italian7tab
+15;;28v;[gagliarda];;;OT;;3/2;"[fd,e{d}1] | [da,c,a3/2] ,c/ [cdd,,c1] [adb,,d2] [acdca1] | \
+[cdda{d}2] ,,,a1 ,,d2 ,c/ ,d | \
+[a,bcd2] [,d,,c1] [,aba,d] [,cdca2] | \
+[,dde{d}2] ,,,,f1 ,,,e2 [,d,e{d}1] |";italian7tab
+16a;;29v;Vestiva i colli;;continued on ff 30v, 31v;OT;ConcR861;C;",a2 ,a1 ,a | a1 ,,,c ,,,c [a,,c] | [,dXf1] ,a ,d [ac] | \
+X[cd1] [,a,,c] [,d,,c] [,d,,c] | [ac,c1] c [da] ,,,c |";italian7tab
+16b;;30r;Contrapunto;;"to Vestiva i colli; continued on ff. 31r, 32r";OT;ConcR2357;C;",a2 ,a1 ,a | ,f1 ,,,c ,,,c ,,,c | ,a/ ,,b ,,,c ,,a ,,b ,,d ,a ,c | \
+,d1 ,,,,c ,,,,c ,,,,c |";italian7tab
+17;;32v;Gagliarda polacha;;ff. 33r-33v empty;OT;ConcR478;3/2;"[cef3/2] ,f/ c1 [cef] [cef] [cef] | [cef2] {8}1 f d c | \
+[df,c3/2] c/ d1 [c,a] [a,b] ,,d | [cef2] {8}1 ,f ,e2 |";italian7tab

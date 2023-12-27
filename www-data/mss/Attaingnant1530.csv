@@ -1,0 +1,194 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1;;1v;La magdalena. Basse dance. P.B.;;;OT;;C;"[,dda1] ,,d [,d,a/] ,c ,d a | [c,da2] [c,d1] ,,,a | \
+[da,,,d3/2] c/ [ac,,a1] [,df] | [,cd,a1] ,d/ ,c [,abc] ,c ,d a"
+2;;1v;(recoupe);;;OT;;3;",a/ ,,d ,a ,c [,d,,c] a | [c,da/] ,,c ,,d ,a [ac,,a1] | \
+[,d,ac1] [,,,ca/] ,c ,d/4 ,c ,a ,c |"
+3;;2r;(Tordion);;;OT;;3;"[,a,,c/] ,c ,d [a,,,a] ,d ,c | [,a,,c1] ,a/ [,ca] ,d a | \
+[c,,a/] a ,d [,d,a] [a,,,a] ,c |"
+4;;2v;Puisque deux cueurs. Basse dance. P.B.;;;OT;;3;"[,d,a1] [,c,,a] [,a,c] | [,,d,a/] ,a ,c ,a ,,d ,,b | \
+[,a,,,a/] ,,d ,,b ,,a ,,d ,,c | [,,d,a2] ,,d1 | \
+[,,aa/] ,,,c ,,a ,,b ,,d ,a |"
+5;;3r;Basse dance. P.B.;;;OT;ConcR2003;3;"[da,c1] [db,,d] [c,da] | [ab,,a1] ,d/ ,b [,abc1] | \
+[a,d,a1] [,,a,c] ,e | [a,,c1] ,a ,,,c | \
+[,,d,a/] ,a ,b ,d a ,d |"
+6;;3v;La brosse. Basse dance. P.B.;;;OT;ConcR2005;C;"[aa,c2] [aa1] ,,,c | [,b,,a1] ,,d a ,,,,a | \
+[,d,a/] ,c ,d a [,d,a] ,b ,a ,,d | \
+[,,bc/] ,,a ,,b ,,d [,a,c] ,b [,d,a] ,a |"
+7;;4r;(recoupe);;;OT;;3;"[,,d,a/] ,,c ,,d ,a ,b ,d | [a,,,a/] ,,,,,d ,,,,a ,,,,c ,,,a | \
+[a,,c/] ,,,a ,,,c ,,a ,,b ,,d |"
+8;;4r;(Tordion);;;OT;;3;"a1 ,,,c ,,,,d a [,d,a] [,a,c] | \
+[,d,a/] ,b ,a ,,d [,,bc] ,,d ,a ,b [,a,c1] [,,d,a] |"
+9;;4v;Le cueur est bon. Basse dance;;;OT;;none;"[,,d,a1] ,,b ,,,c [,a,a,d3/2] [,a,a/] ,,,,,d1 [,d,a] \
+[,b,,a/] ,a/4 ,b ,a/ ,,d [a,,,d3/2] ,,a/ ,,b ,,d \
+[a,,,d] b a ,d"
+10;;5r;Lespoir. B.S.;;Branle simple;OT;;none;"[a,,c1] ,,,,,a/ a [,ea,c1] [a,bd] [c,da/] ,d a c \
+[da,,,d1] [c,,,a/] a [,ea,c] a c ,c a1 ,,,c [,abc]"
+11;;5v;Foues basse dance;;;OT;;none;,,,,a/4 ,a ,c ,d ,c/ ,d a ,c ,,,a/4 ,c ,d a ,d/ ,c [,a,c] ,d
+12;;6r;La roque. P.B.;;;OT;ConcR2006;3;"[,,,ca1] ,,d/ ,,c ,,d ,a | [,c,,a1] ,,d [,,,ca] | \
+[,c,,a1] ,,d [,,,ca] | [,d,a1] [,a,c] ,,,,,a | \
+[a,,c/] ,d ,c ,a ,c ,d |"
+13;;6v;Basse dance. Le corps sen va. P.B.;;;OT;;3;"[a,,c1] [,dd] ,,,d/ ,,d | [aa,c/] ,,d ,a ,b ,a1 | \
+[aa,c/] c d c a ,d | [ab,,a/] ,a ,b ,d ,b1 |"
+14;;7r;Tous mes amys. Basse dance. P.B.;;;OT;;3;"[,d,a] ,,b [,da] | [a,,c/] ,,,a ,,,c ,,a ,,b ,,,c | \
+[a,d1] ,,b [a,d] | [c,,a/] a c d c1 |"
+15;;7v;Subiectum;;;staff;;;
+16;;8r;Sansserre. Basse dance;;;OT;;none;"a/4 ,d a b a/ ,d [a,,c] ,d ,b ,a [,b,,a/4] ,a ,b ,d ,b/ ,b \
+,a [,,da1] ,a/4 ,,d ,a ,b"
+17;;8v;Cueur angoisseur. Basse dance. P.B.;;;OT;;none;"[aa,c1] [,da,c] [,cd,a] [,abc] ,,,,,a [,abc] ,c/ ,a \
+[,,c,,c] ,a ,c/4 ,a ,c ,,c ,a1 ,,,,c/ ,,a [,abc] ,,a ,,b"
+18;;9r;Basse dance. S.roch;;;OT;ConcR2006;none;"[,,d,a/] ,,c ,,d ,,c ,,d ,a [,c,,a1] ,,d ,,,c \
+[,c,,a/] ,a/4 ,c ,,d/ ,a ,c ,,d [,d,a1] [,a,,,a2]"
+19;;9v;Recoupe;;;OT;;none;"[,c,,a/] ,d a1 [,d,a] [,c,,a3/2] ,d/ [,a,,,a1] [,c,,a/] \
+,d/4 ,c ,d ,c ,a ,c [,a,,,a1] [,c,,a/] ,a ,c ,d"
+20;;10r;Tordion;;;OT;;none;"[,,d,a1] [,a,c] ,d/4 ,c ,a ,c [,,d,a1] ,,d/ ,a ,c ,a ,d ,c \
+[,a,c1] ,c ,,,,a/ ,,c ,,d ,a [,,c,,a1] [,,d,a]"
+21;;10v;Basse dance de lespine;;;OT;;none;"[ab1] ,,,,d a [,d,a] ,a2 [d,,c1] a/4 ,d a c a c d a \
+c1 ,d ,,,a [ab] ,,,,d/ a ,b a"
+22;;11r;Recoupe;;;OT;;none;",,,c1 ,,b/ ,,a ,,b/4 ,,a ,,b ,,d [,a,,,d/] ,,d ,a ,b ,a \
+,,d ,,d/4 ,a ,b ,d [a,,c/] ,a ,,,,,a a"
+23;;11v;Tordion;;;OT;;none;",b/ ,d a1 [,d,,c] [,b,,a3/2] ,a/ ,b ,a ,d ,b ,a ,,d ,b ,a \
+[,b,,a] ,a ,b ,d ,b ,a"
+24;;11v;Basse dance;;La brosse;OT;ConcR2005;none;",,d/ ,a ,b ,d [a,,c2] ,,,,,a1 a ,b ,,d ,,,,a a [,d,a] \
+,c/ ,d a ,d ,c ,d [,ab1] ,,,,,d"
+25;;12v;Recoupe;;;OT;;none;"[a,,c1] [a,,,,a] [a,,,d] ,,,a/4 ,c ,d a ,c a ,b/ [,a,,,a] \
+,,d [,d,a] ,b ,b ,a ,,d/4 ,a ,,c/ [,,d,a3/2] ,a/"
+26;;13r;Tordion;;;OT;;none;",a/ ,c [,d,a1] [,c,,a] [,a,,,a3/2] ,,d/ [,,c,,a1] ,a/ ,,d \
+,,c ,,d ,a ,,d [,c,,a3/2] ,a/ [,,d,a1]"
+27;;13v;Basse dance;;;OT;;none;",,d/ ,a ,c ,d [ac1] ,,,,a ,,,,a c [ac] [,df] ,c/ ,d ,a1 \
+[,c,,a] ,,a/ ,,c ,,d ,a ,c ,d [,cd1] ,,,,a"
+28;;14r;Recoupe;;;OT;;none;"[a,,,,a/] ,d ,b ,a ,,d ,,c ,,d/4 ,,c ,,d ,a ,,d/ ,,c [,,d,a1] \
+[,ab] [,bd] ,a/4 ,b ,d a b a"
+29;;14v;Tordion;;;OT;;none;"[,c,,a3/2] ,a/ ,c ,d a1 [,d,a] [,c,,a] [,a,,,a3/2] ,,d/ \
+,a1 ,d/ ,c ,a ,c ,,d1 [,c,,a/] ,a ,c ,d ,c ,d"
+30;;15r;Branle gay;;;OT;;none;"[,d,a3/4] a/4 ,d/ ,,,a ,c ,a [,,d,a3/4] ,a/4 ,,d/ ,,,,a \
+,,d ,,,,a [,b,,a3/4] ,a/4 ,b/ ,,,,a ,b ,,,,a [,a,c1]"
+31;;15v;Branle gay;;;OT;;none;"[,d,a/] ,a ,c1 [,,d,a3/4] ,a/4 ,,d/ ,,,,,a ,a ,,d [,c,,a] \
+,,d [,d,a] ,a ,c ,,,,,a ,,,,a/4 ,,c ,,d3/4 ,a/4"
+32;;16r;Branle;;;OT;;none;"[,,d,a1] ,,d [,b,,a] ,d/4 ,b ,a ,b ,d/ ,a ,b ,d [a,,c1] \
+,,,,,a/ d [c,,,a] a ,c/4 a c/ [a,,c1]"
+33;;16v;Branle gay. Cest mon amy;;;OT;;none;"[a,,c3/4] ,d/4 a/ ,,,c [b,,a1] [,d,,c/] [a,,,d1] [,b,,a] \
+[,b,,a/] ,d/4 ,c ,d a ,d/ ,,,a [a,,,d1] ,d/4 ,b ,a ,b ,,d/"
+34;;17r;Branle;;;OT;;none;"[a,,,,a/] ,d a c d a [f,,,a1] [d,,c] [c,,a] [a,,c] \
+,,,,,a/ d c a ,e/4 a c d c1 [a,,c]"
+35;;17v;Branle gay;;;OT;;none;"[,,d,a1] ,a/ [,b,,a1] ,,d/ [,a,,,d2] ,,d/4 ,,b ,,a ,,b ,,,c/ \
+[,,d,a1] [,a,,,d/] ,d/4 ,b ,a ,b ,,d/ [,a,,,d] \
+,,d ,a [,,,c,a2] :||:"
+36;;18r;Branle gay;;;OT;;none;"[,b,,a3/4] ,d/4 ,b/ [,,d,a3/4] ,a/4 ,b/ [,d,a3/4] a/4 \
+,b/ [,a,c] ,,d ,b ,,,,a ,b ,,d [,a,c] ,,,,,a/4 ,,a ,,b ,,d"
+37;;18v;Haulberroys;;;OT;;none;"[a,,c1] ,,,,a [a,,c] ,d/ a b a ,d ,b [,a,c1] ,a/ ,c ,d a \
+,d1 ,,,,a ,b [,a,c2] [,,d,a]"
+38;;19r;Haulberroys;;;OT;;none;",,d1 a a/ ,d ,c ,a ,,d ,,c ,,d ,a [,d,a1] [,c,,a] \
+,c/ ,d a c a ,d ,c ,a ,,d ,,c"
+39;;19r;B. Poictou;;;OT;;none;",,d/ a1 [,d,a] ,c/ ,,,,a ,a ,,d [,d,a1] ,c/ ,,,,a a1 [,d,a] \
+[,c,,a/] ,,d/4 ,,c ,,d ,,c ,,d ,a [,c,,a2] :||:"
+40;;19v;Branle Poictou;;;OT;;none;"[,a,,,d1] [,c,,a/] [,d,a/4] a ,d/ ,,,a ,c ,a [,,d,a1] \
+[a,,c/] ,,,,,a d1 [c,,,a/4] a ,d/ [,a,,,d1] \
+[,c,,a/] ,d/4 ,c ,d a"
+41;;19v;B. Poictou;;;OT;;none;"[a,,c1] ,d/ [,c,,a1] ,,d/ [a,,c1] ,d/ [,c,,a1] c/ ,,,a a ,d \
+a/4 ,d ,c ,a ,,d/ [a,,c1] ,d/ [,c,,a]"
+42;;20r;B. Poictou;;;OT;;none;"[a,,c1] [,c,,a/] a/4 ,d ,c ,d ,a/ ,,,,,a ,c1 [,,d,a3/4] ,a/4 \
+,,d/ ,,,,,a ,a ,,d [,d,a1] [,c,,a/]"
+43;;20v;Branle;;;OT;;none;"[a,,,a2] [,d,a1] [,a,,,a] d/ c d a c1 [,d,a] a/ ,d a/4 ,d ,c ,a \
+,c1 [,a,,a] a/ ,d a ,c"
+44;;21r;Branle Nicolas mon beau frere;;;OT;ConcR2004;none;"[,b,,a1] ,b/ ,,,,a [,b,,a1] [,d,a/] ,b ,a ,,d ,b ,a [,,d,a1] \
+,a/ ,,d [,,c,,a] ,,a ,,c ,,d [,b,,a]"
+45;;21v;Gaillarde;;;OT;;none;"[b,,a/] a ,d1 ,d/ ,b ,a ,b ,d1 [a,,,d] ,,d/ ,a ,b ,d \
+[a,,,d1] ,,b [a,,,d] ,d/ ,c ,d a ,d1"
+46;;21v;B. Poictou;;;OT;;none;"c/ [a,,c1] ,d/ [,c,,a3/4] ,d/4 ,a/ [,,d,a1] ,,d/ \
+[,,d,a1] ,,d/ ,,,,a ,a ,c ,d ,c c [a,,c1]"
+47;;22r;Gaillarde;;;OT;;3;"[da,,,d3/2] [da/] ,,,,,d1 | [c,,a1] ,,d [a,bc] | \
+,,,,a1 [a,a,c] ,c | [a,,c,a3/2] ,,,b/ ,,,c ,,a | \
+[da,,,d1] d ,a | [c,da/] a c d [a,bc1] |"
+48;;22v;Branle gay;;;OT;;none;"[a,,c1] [c,,a/] a ,d a ,c ,d [a,,c1] [c,,a/] a [,d,a1] [,c,,a] \
+[a,,c/] ,d/4 a c/ a ,d/4 ,c ,d a"
+49;;22v;B. allez dire a c. danboyse;;;OT;;none;"[,a,,,d1] [,c,,a/] [,d,a1] ,c/ ,,,,a ,a ,,d ,a/4 ,,d ,,c ,,a \
+,,c/ [,a,,,d1] ,d/4 ,c ,d ,a ,c/ ,,,,a"
+50;;23r;Branle gay;;;OT;;none;"a/ c [da1] [c,d] [a,b] ,d/ a ,b1 [,a,c] [,,d,a] ,a/ ,c \
+[,d,a1] [,d,,a/] ,c/4 ,a ,d/ ,c [,d,a1] ,,d"
+51;;23v;Saulterelle;;;OT;;3;"[f,aa3/2] d/ c1 | a1 [,daa] ,c | [,ab,,d3/2] [,ab/] ,,,a1 | \
+[,ab,,d1] d c | [ab,,d1] ,,d/ ,a ,b ,d | [ab,,d1] [,da,c] ,,c |"
+52;;24r;Gaillarde;;;OT;;3;"[da,,,d3/2] ,,,a/ ,,,,,d1 | [da1] ,,,a ,,,,,d | \
+[c,da3/2] a/ c d | [c,,a1] ,,d ,,,a | [a,bc3/2] ,,d/ ,,b1 | \
+,,,c1 a ,,b |"
+53;;24v;Branle. Sil est a ma poste;;;OT;;none;",,d1 a ,,,c d [c,,a] [,d,,c] a/ ,e a c d c d/4 c a c [a,,c2] \
+,,d1 a [a,,c/] ,d d1"
+54;;25r;Pauane;;;OT;;C;"[ac,,a/] ,a ,c ,d a ,d ,c ,a | [ac,,a1] ,,d ,,,,a c/ a | \
+[c,,a/] d c a ,d ,c ,a ,,d |"
+55;;25v;Basse dance Patience;;;OT;;none;"[,,d,a1] [,,d,a] ,,,,,a [,,d,a3/2] ,,d/ ,,,,a1 ,,d/ ,,b ,,a ,,,c \
+,,a ,,b [,,aa3/2] ,,,c/ ,,a ,,b [,,,c,a1] ,,a/ ,,,c ,,a ,,b"
+56;;25v;Recoupe;;;OT;;none;"[,c,,a1] [,c,,a] ,,,,,a [,c,,a] ,,d/ ,a ,c ,d [a,,,a] ,d/4 a \
+,d/ ,c ,a ,,d [,ac,,a3/2] ,,a/ ,,c ,,d [,c,,a1]"
+57;;26r;Tordion;;;OT;;none;",b/ ,d a1 [,d,,c] [,b,,a3/2] ,a/ ,b ,a ,d ,b ,a ,,d ,b ,a \
+,,,,a ,a ,b ,d ,b ,a ,b ,d"
+58;;26v;Pauane;;Bel fiore;OT;ConcR2007;C;"[f,aa2] [f,aa1] d | [c,aa1] a [,daa] ,c | [,ab,,d2] [,ab1] ,,,a | \
+,,,,,d1 [,ab] d c | [ab,,d3/2] ,,b/ ,,d ,a ,b ,d | \
+,,,,d1 [ab] [,da,c] ,,c |"
+59;;27v;Basse dance. Beure frais;;;OT;;none;"a/ c d1 a ,b ,,d ,,,,a ,d/4 ,c ,d a ,d/ ,b ,a ,,d ,,b1 ,,,c \
+,,,,,a ,b/ ,a"
+60;;27v;Recoupe;;;OT;;none;"[a,,,,a/] ,d ,b ,a ,,d ,,c ,,d1 ,,,,,a [,,d,a] [,ab] [,bd] \
+[,a,,,d] ,d/4 ,b ,a ,b ,a/ ,,d ,a ,,d"
+61;;28r;Tordion;;;OT;;none;"[,c,,a3/2] ,a/ ,c ,d a1 [,d,a] [,c,,a] [,a,,,a3/2] ,,d/ \
+,a1 ,d/ ,c ,a ,c ,,d1 [,c,,a/] ,a ,c ,d ,c ,d"
+62;;28v;Pauane;;Regina?;OT;;3;"[,d,a1] | [,c,ca3/2] ,a/ ,c ,d | [,c,ca1] [,da] [,ac] | \
+[,cd1] [,df] [a,b,d3/2] ,,a/ ,,b ,,d ,,b1 | \
+[a,b,d/] ,d a c [da,,,d1] |"
+63;;29r;Sauterelle;;;OT;;none;"[,d,a1] [,c,ca3/2] ,a/ ,c ,d [,c,ca1] ,d/ ,a ,b ,d [a,b,d3/2] \
+,,a/ ,,b ,,d [a,,,d1] ,,b [,d,a] [,c,,a] ,,,c [,d,,c]"
+64;;29v;Gaillarde;;;OT;ConcR2008;3;"[c,da1] | [c,da3/2] a/ c1 | ,,,a/ ,c ,d a c d | \
+[c,da3/2] a/ c1 | ,,,a/ ,c ,d a c1 | [d,,,,d1] ,a [c,,a] |"
+65;;30r;Pauane;;;OT;;3;"[c,,a1] | [c,,a3/2] f/ d1 | [c,d1] [a,b] [,d,a] | \
+[,c,,a1] ,,d/ ,a ,c ,d | [,c,,a1] ,,d [c,,a] | \
+[c,,a/] a c d f d |"
+66;;30v;Gaillarde;;;OT;;3;"[,c,,a1] [,d,a] a | [b,da3/2] a/ b d | [b,da1] [a,,,d] [,d,a] | \
+[,c,,a1] ,,d [b,da3/2] a/ [,d,,b1] [,c,,a] | \
+[,d,a3/2] ,d/ ,,,a1 |"
+67;;30v;Gaillarde;;;OT;;3;",d/ ,c ,d a ,d1 | [,b,,a1] ,a ,,d | [a,,c3/2] ,d/ a1 | \
+,d/ ,b ,a ,b ,,d1 | ,,,a/ ,c ,d a ,d1 |"
+68;;31r;Gaillarde;;;OT;;3;"[,a,,,a3/2] ,c/ ,a1 | ,,c1 ,,d ,a | [ac,,a3/2] ,a/ ,c1 | \
+[,a,,,a/] ,,d ,,c ,,a ,,c ,,d | [,,,,a/] ,,d ,a ,c ,a1 |"
+69;;31v;Basse dance. Verdurant;;;OT;;none;"[,,b,,d1] ,,b ,,,,,d [,,b,,d3/2] ,,b/ ,,,,,d1 ,,d/ \
+,,b ,,a ,,,c ,,b ,,a [,,b,,d3/2] ,,a/ ,,b ,,a \
+,,d ,,b ,,a ,,b ,,d ,a"
+70;;31v;Recoupe;;;OT;;none;"[a,,,,a/] ,d ,b ,a ,,d ,,c ,,d1 ,,,,,a [,,d,a] [,ab] [,bd] [,a,,,d] \
+,d/ ,b ,a ,b ,a ,,d ,a ,,d [a,,,,a] ,d ,b ,a ,,d ,,c"
+71;;32r;Tordion;;;OT;;none;"[,c,,a3/2] ,a/ ,c ,d a1 [,d,a] [,c,,a] [,a,,,a3/2] ,,d/ \
+,a1 ,d/ ,c ,a ,c ,,d1 [,c,,a/] ,a ,c ,d ,c ,d"
+72;;32v;Gaillarde;;;OT;;none;"[da,,,d2] [da1] ,,,,,d [c,da2] [a,bc1] ,,,,a [a,a,c] ,e \
+[a,,c,a3/2] ,,a/ ,,b ,,d [da,,d1] ,a ,,,,,d [c,da3/2] d/ \
+[a,bc1] ,,,,a [a,a,c] ,e"
+73;;33r;Pauane;;;OT;;C;",b/4 ,a ,b ,d | [a,,,a3/4] ,d/4 a/ ,d | [,b,,a/] ,a ,,d ,,b | \
+[,,aa1] ,,a/ ,,,a | [,,aa1] ,,a/4 ,,,c ,,a ,,b |"
+74;;33v;Gaillarde. P.B.;;;OT;;3;"[a,cc1] | [ac,,a1] ,a/ ,,d [,acc1] | [a,d,a1] [,ea,c/] ,,,,a ,,,,c [,ea] | \
+[aa,c1] ,,,,,a [aa,c] | [a,c,,a/] ,,a ,,c ,,d [aa,c1] |"
+75;;34r;Subiectum;;;Staff;;;
+76;;34v;Balle;;;OT;;C;",d/ | [,c,,a/4] ,a ,c ,d ,c/ ,,,,a | \
+[,d,a/] ,c/4 ,a ,c ,a ,c ,d | [a,b,d1] [a,b/] ,,,,d |"
+77;;35r;Pauane. P.B.;;;OT;;C;"a1 ,,,c/ ,d/4 ,b | ,a/ ,,d ,a ,b [,d,a/] ,a | \
+[,bd1] ,,,,a/ ,b | [,a,c1] ,a/4 ,,d ,a ,b |"
+78;;35v;Gaillarde. P.B.;;;OT;ConcR2009;3;"[,c,da1] | [,cd,a/] ,a ,c ,d ,c ,d | [ac,,a1] [,da,c] [,cd,a] | \
+[,acc/] ,,a ,,c ,,d [,acc1] | [a,d,a/] ,,c ,,d ,,a [a,c,,a1] |
+"
+79;;36r;Subiectum;;;Staff;ConcR3521;;
+80;;36v;Pauane. P.B.;;;OT;;C;"[,d,a1] | [,c,,a1] ,d/4 ,c ,a ,c | [,d,a/] ,a ,c ,d | \
+[a,b,d/] c d c | [a,,,a/] ,d ,c ,a | [,c,,a1] [,d,,c] |"
+81;;37r;Pauane. Blondeau;;;OT;;C;"[d,,c1] | [d,,,d1] [b,,a] | [a,,,a1] ,d/ ,b | [,a,c1] ,,,a | \
+[a,,,d/] ,,,a ,,,c ,,a | [,db/] ,c ,d ,a | [,bd/] ,a ,b ,,d |"
+82;;37v;Gaillarde. P.B.;;;OT;;3;"[,cd,a1] | [,cd,a/] ,a ,c ,d ,c ,d | [a,c,a1] [,da,c/] ,c ,d ,a | \
+[,cd,a/] ,a ,c ,d [,cd,a1] | [,,d,a1] [,a,c/] ,,d ,a ,c |"
+83;;37v;Subiectum;;;Staff;;;
+84;;38r;Gaillarde;;;OT;;3;"[,,d,a1] | [,da,c/] ,,,,a ,,,,c ,,a [a,d,a1] | \
+[cd,a/] ,c ,d ,a [ac,,a1] | [,da,c/] ,,,,a ,,,,c ,,,,d [,daa1] | \
+[,db,,d/] ,,,,a ,,,,c ,,,,e [,,def1] |"
+85;;38r;Subiectum;;;Staff;;;
+86;;38v;Pauane. P.B.;;;OT;;C;"a1 ,,,c/ ,d/4 ,b | ,a/4 ,,a ,a ,b [,d,a/] ,a | \
+[,bd1] ,,,,a/ ,b | [,a,c1] ,a/4 ,,d ,a ,b |"
+87;;39r;Gaillarde;;;OT;ConcR2009;3;"[,cd,a1] | [,cd,a/] ,a ,c ,d ,c ,d | [ac,,a1] [,da,c] [,cd,a] | \
+[,acc/] ,,a ,,c ,,d [,acc1] | [a,d,a/] ,,c ,,d ,,a [a,c,,a1] |"
+88;;39v;Gaillarde. P.B.;;Venendo / Vegnando da bologna;OT;ConcR1461;3;",,,a1 | [c,da2] [c,da1] | [,da,c1] [a,bc] [c,da] | \
+[da,,,d2] [da1] | [da,,,d/] ,,,,a ,,,,c ,,,,e [c,da1] | \
+[a,bc/] ,,a ,,b ,,d [a,b,d1] |"
+89;;40r;Subiectum;;;Staff;;;
+90;;40v;La Rote de Rode;;;OT;;C;"[cd,a1] | [ac,,a/] ,a ,c ,d | [ac,,a1] [cd,a] | \
+[ac,,a/] ,a ,c ,d | ,c3/2 ,,,,a/ | [cd,a1] ,c/ ,d | \
+a/ ,d ,c ,a | [ac,,a2] :||:"
+91;;40v;Subiectum;;;Staff;;;

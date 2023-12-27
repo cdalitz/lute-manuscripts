@@ -1,0 +1,26 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+;;;Trio Ex C / A / Gallichona Prima / Gallichona Seconda / Con Violonzello - Dal Sigre Camerlohr;;;;;;
+;;;Gallichona Prima - Dal Sigre Camerlohr;;;;;;
+1;C dur;2r;Andante;;;Mandora;;C;"Z2 | [f,,a3/8] d/8 c3/8 a/8 ,d/4 ,c [,a,a] ,,c [,a,,,d/] [,,ca] z/ [,d,a/] | \
+[,c,,a3/8] a/8 [,d,a3/8] c/8 [a,,,a/4] d [c,,a] \
+f '[c,,,a/] [ec,,a] z1 |"
+2;C dur;2v;Allegro;;;Mandora;;2/4;"[,d,a/] f ,d [,c,,,a] | [,d,e/] f ,d [,c,,,a] | [,d,e/] (a/4 c d/) [a,,,a] | \
+[c,,a/4] ,d [a,,,a] ,c V[,d,a1] |"
+3;C dur;3v;Menuet;;;Mandora;;3/4;"('[c,,a/] a) ,d1 [,c,,a] | V[,d,a2] ,,c1 | ,,,e/ ,,a (,,c ,,a) ,,,e ,,,c | \
+',,,a2 c/ f | ,,,,a1 ,,,,a (3a/ c d) |"
+4;C dur;3v;Trio;;;Mandora;;3/4;"[,a,,c1] (c/ a) ,d ,c | '[,a,,c2] ,,,,b/ ,,,,,e | \
+,,,,,c1 ,,,,,d ,,,,,d | ',,,,,c2 ,,d/ ,c | ,,,e1 ,,d/ ,a ,c1 |"
+5;C dur;4r;Allegro;;;Mandora;;3/8;",,,a/ ,d ,d | ,d/ ,,,a ,,,a | [f,,a/] (d/4 c a) ,d | \
+[a,a/] [,d,e] z/ | ,,,,a/ ,,c ,,c | ,,c/ ,,,,a ,,,,a |"
+;;;Gallichona Seconda - Dal Sigre Camerlohr;;;;;;
+6;C dur;5r;Andante;;;Mandora;;C;"[f,,a3/8] d/8 c3/8 a/8 ,d/4 ,c [,a,,,c] ,,c [,a,,,d/] [,,c,,c] z/ [,d,,,c/] | \
+[,c,,a3/8] a/8 [,d,,,c/4] c [a,,,e] d [c,,a] f \
+'[c,,,a/] [ac,,a] z1 |"
+7;C dur;5v;Allegro;;;Mandora;;2/4;"Z4 | [,,c,a/] a ,,c [,,b,,a] | [,,c,a/] a ,,c [,,b,,a] | \
+[,,c,a/] (,a/4 ,c) ,d/ [,a,,,a] |"
+8;C dur;6v;Menuet;;;Mandora;;3/4;",,,a1 ,,,e ,,c | ,,,a3/2 ,d/ ,c ,a | ,,c/ ,a (,,c ,,a) ,,,e ,,,c | \
+',,,a2 (3,d/ a c) | '[a,,,a2] (d/ a) |"
+9;C dur;6v;Trio;;;Mandora;;3/4;"[,d,,c/] ,c ',a1 ,a | [,d,,c1] ,a/ ,c ,d a | c1 ,d ,a | \
+',,d3/2 ,,b/ ,,,e1 | [a,,,,d1] ,,,,,c ,,,,,a |"
+10;C dur;7r;Allegro;;ff.8r-10r Staff (Basso al Trio Del Camerlohr);Mandora;;3/8;",,,a/ ,d ,d | ,d/ ,,,a ,,,a | z/ z/ [,,c,,c/] | [,a,,,d/] [,,c,,c] z/ | \
+,,,,a/ ,,c ,,c | ,,c/ ,,,,a ,,,,a |"

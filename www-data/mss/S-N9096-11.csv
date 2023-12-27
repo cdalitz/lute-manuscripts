@@ -1,0 +1,44 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1;G dur;3r;Sarabande;;;2a;Conc_1050;3/4;"[,,aa1] [,,aa] {a} | \
+X[,,aa2] ,,,,,a | \
+[,,bc1] [,,bc] {a} | \
+X[,,aa2] {,,,a}1 | \
+[,,,ca1] [,,,ca] {,,,a} | \
+X[,,,ca2] {,,,a}1 | \
+{,,a}1 {,a} {a} | \
+X[,,,ca{,,,a}] {a} |"
+2;G dur;3v;[Balet de Lespine];;Au le 26 Jan: 1640;2a;Conc_4457;C;",,a/ | \
+X[,,aa{a}3/2] ,,,c/ [,,,c{,,,a}] ,,a ,,b ,a | \
+X[,,aa{a}1] ,,,a/ [,,aa] X,a ,,b | \
+X[,,aa{a}/] ,,,a X,c ,a [,,cc] ,a [,c,,,a] ,,a/4 ,,c |"
+3;G dur;5r;[Courante de Lespine];;;2a;Conc_4458;3/4;",a1 | \
+X[baa{a}3/2] d/ f1 | \
+X[b,,a1] ,a b | \
+X[baa{a}2] [,ad1] | \
+,c1 X[,,bc,a3/2] ,a/ | \
+X[,,aa{a}1] ,,,a [,ad] | \
+,c1 X[,,c,,a3/2] ,,a/4 ,,c | \
+,a1 {,,,a}2 |"
+4;G dur;6r;[Balet de Lespine];;;2a;Conc_4459;3/4;"b/ | \
+X[baa{a}3/2] d/ X[aa{,,,a}] ,a ,c a | \
+X[baa{a}/] d f ,,,a Xd ,f | \
+X[aa{,,,a}/] a/4 b d1 ,,,,,c/4 ,a ,,,,,e ,c ,,,,a a X[,c,,,a] ,,a/4 ,,c |"
+5;d moll;6v;[Sarabande de Lespine];;;3b;Conc_4460;3/4;"[,adca1] [,ad{,,,a}] ,c | \
+X[,,cc,a3/2] ,,,d/ [,,dc{,,,a}1] | \
+[,,bc,a1] [,,bc] ,,d | \
+{a}/4 ,,,,a ,,,a ,,,c ,,,d3/2 ,,b/ | \
+{,a}1 [,,bc,a] [,,bc] | \
+,d1 [,a,,,b] {a} |"
+6;D dur;7v;Courante de Monsieur;;;2a;Conc_323;3/4;"d/ | \
+[d{,,,a}1] ,c/ [,e,,a] X,c ,a | \
+X[,,cc,a3/2] ,,d/ ,,c1 | \
+,,,c1 ,,d ,,c | \
+[,ad,a1] {,,,a}/ ,c a b | \
+d1 X[b{,,a}2] | \
+X[aa{,,,a}3] |"
+7;D dur;8v;[Courante de la reine d'Angleterre];;;2a;Conc_5118;3/4;",a1 [,ad{,,,a}] X,,c3/4 ,,a/4 | \
+[,,,c,a2] [,ad1] | \
+[,ad,,c1] [,c,,,e3/2] ,c/ | \
+X[aa,,a1] {,,,a} b | \
+[bc{,,a}1] [aa{,,,a}] ,c/ a | \
+,c1 ,,,,,a/ ,c a c |"

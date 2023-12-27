@@ -1,0 +1,497 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+;;;[Libro Primo];;;;;;;
+1;;1r;1 Courant;;;Staff;;;;
+2;;1r;2 Sonata Adagio;;;Staff;;;;
+3;;1v;3 Allemanda;;;Staff;;;;
+4;;1v;4 Courant;;;Staff;;;;
+5;;2r;5 Saraband;;;Staff;;;;
+6;;2v;6 Vivace;;;Staff;;;;
+7;;2v;7 Allegro;;;Staff;;;;
+8;;3r;8 Ouverture;;;Staff;;;;
+9;;3v;9 Chaconne;;;Staff;;;;
+10;;3v;10 Chaconne Galatèe;;;Staff;;;;
+11;;3v;11 Menuet;;;Staff;;;;
+12;;4r;12 Passacaille;;;Staff;;;;
+13;;4r;13 Coeur de Sybille;;;Staff;;;;
+14;;4v;14 Saraband;;;Staff;;;;
+15;;4v;15 Aria;;;Staff;;;;
+16;;4v;16 Gavott;;;Staff;;;;
+17;;4v;17 Air;;;Staff;;;;
+18;;5r;18 Chaconne;;;Staff;;;;
+19;;5r;19 Folie d'Espagne;;;Staff;;;;
+20;;5v;20 Air;;;Staff;;;;
+21;;5v;21 Passacaille Persee;;;Staff;;;;
+22;;6v;22 Aria;;;Staff;;;;
+23;;6v;23 Gig;;;Staff;;;;
+24;;7r;24 Gavott;;;Staff;;;;
+25;;7r;25 La Chasse d'HirschHolm;;;Staff;;;;
+26;;7v;26 Bouree;;;Staff;;;;
+27;;7v;27 Menuet;;;Staff;;;;
+28;;8r;28 La Chasse d' Jägers Borg;;;Staff;;;;
+29;;8v;29 Bourée;;;Staff;;;;
+30;;8v;30 Menuet;;;Staff;;;;
+31;;9r;31 Menuet;;;Staff;;;;
+32;;9r;32 Chaconne;;;Staff;;;;
+33;;9v;33 Prelude en Tempo di Corente;;;Staff;;;;
+34;;9v;34 Menuet;;;Staff;;;;
+35;;9v;35 Chaconne;;;Staff;;;;
+36;;10r;36 Menuet;;;Staff;;;;
+37;;10v;37 Allemande;;;Staff;;;;
+38;;10v;38 Menuet;;;Staff;;;;
+39;;10v;39 Menuet;;;Staff;;;;
+40;;11r;40 Sonata;;;Staff;;;;
+41;;11r;41 Vivace;;;Staff;;;;
+42;;11v;42 Allegro;;;Staff;;;;
+43;;12r;43 Ouverture;;;Staff;;;;
+44;;12v;44 Allemand;;;Staff;;;;
+45;;12v;45 Courant;;;Staff;;;;
+46;;12v;46 Saraband;;;Staff;;;;
+47;;13r;47 Gavott;;;Staff;;;;
+48;;13r;48 Gig;;;Staff;;;;
+49;;13v;49 Sonata adagio;;;Staff;;;;
+50;;13v;50 Allemand;;;Staff;;;;
+51;;14v;51 Courant;;;Staff;;;;
+52;;15r;52 Gavott;;;Staff;;;;
+53;;15r;53 Gig;;;Staff;;;;
+54;;15v;54 Sonata;;;Staff;;;;
+55;;15v;55 Allemanda;;;Staff;;;;
+56;;15v;56 Courant;;;Staff;;;;
+57;;16r;57 Saraband;;;Staff;;;;
+58;;16v;58 Gavott;;;Staff;;;;
+59;;16v;59 Ouverture;;;Staff;;;;
+60;;17v;60 Air;;;Staff;;;;
+61;;17v;61 Bouree;;;Staff;;;;
+62;;18r;62 Menuet;;;Staff;;;;
+63;;18r;63 Gig;;;Staff;;;;
+64;;18v;64 Air;;;Staff;;;;
+65;;18v;65 Air;;;Staff;;;;
+66;;18v;66 Bourèe;;;Staff;;;;
+;;;Libro Secondo;;;;;;;
+67;;19r;1 Sonata;;;Staff;;;;
+68;;19v;2 Allemand;;;Staff;;;;
+69;;20r;3 Gavott;;;Staff;;;;
+70;;20r;4 Aria;;;Staff;;;;
+71;;20v;5 Gig;;;Staff;;;;
+72;;21r;6 Menuet;;;Staff;;;;
+73;;21r;7 Menuet;;;Staff;;;;
+74;;21r;8 Menuet;;;Staff;;;;
+75;;21v;9 Vivace;;;Staff;;;;
+76;;22r;10 Menuet;;;Staff;;;;
+77;;22r;11 Aria;;;Staff;;;;
+78;;22r;12 Gig;;;Staff;;;;
+79;;22r;13 Menuet;;;Staff;;;;
+80;;22v;14 Menuet;;;Staff;;;;
+81;;22v;15 Sonata Vivace;;;Staff;;;;
+82;;23r;16 Allemande;;;Staff;;;;
+83;;23v;17 Courant;;;Staff;;;;
+84;;23v;18 Gig;;;Staff;;;;
+85;;24v;19 Aria;;;Staff;;;;
+86;;24v;20 Fantasia en Menuet;;;Staff;;;;
+87;;24v;21 Ouverture;;;Staff;;;;
+88;;25r;22 Bourée;;;Staff;;;;
+89;;25r;23 Menuet;;;Staff;;;;
+90;;25v;24 Marsch;;;Staff;;;;
+91;;25v;25 Vivace;;;Staff;;;;
+92;;26r;26 Menuet;;;Staff;;;;
+93;;26r;27 Saraband;;;Staff;;;;
+94;;26v;28 Saraband;;;Staff;;;;
+95;;26v;29 Gavott;;;Staff;;;;
+96;;27r;30 Allemanda;;;Staff;;;;
+97;;27v;31 Courante;;;Staff;;;;
+98;;27v;32 Saraband;;f. 28r vacat;Staff;;;;
+99;;28v;35 Allemanda;;;Staff;;;;
+100;;28v;36 Saraband;;;Staff;;;;
+101;;28v;37 Gavott;;;Staff;;;;
+102;;29r;38 Gig;;;Staff;;;;
+103;;29v;39 Allemanda;;;Staff;;;;
+104;;29v;40 Courant;;;Staff;;;;
+105;;29v;41 Saraband;;;Staff;;;;
+106;;30r;42 Gavott;;;Staff;;;;
+107;;30r;43 Bourée;;;Staff;;;;
+108;;30r;44 Menuet;;;Staff;;;;
+109;;30v;45 Aria;;;Staff;;;;
+110;;30v;46 Menuet;;;Staff;;;;
+111;;30v;47 Gig;;;Staff;;;;
+112;;31r;48 Menuet;;;Staff;;;;
+113;;31r;49 Courant;;;Staff;;;;
+114;;31v;55 Allemanda;;;Staff;;;;
+115;;31v;56 Courant;;;Staff;;;;
+116;;32r;57 Saraband;;;Staff;;;;
+117;;32r;58 Menuet;;;Staff;;;;
+118;;32r;59 Gig;;;Staff;;;;
+119;;32v;60 Preludio;;;Staff;;;;
+120;;32v;61 Aria;;;Staff;;;;
+121;;32v;62 Aria;;;Staff;;;;
+122;;32v;63 Menuet;;;Staff;;;;
+123;;33r;64 Allemanda;;;Staff;;;;
+124;;33r;65 Courant;;;Staff;;;;
+125;;33v;66 Saraband;;;Staff;;;;
+126;;33v;67 Bourée;;;Staff;;;;
+127;;33v;68 Menuet;;;Staff;;;;
+128;;34r;69 Allemanda;;;Staff;;;;
+129;;34v;70 Courant;;;Staff;;;;
+130;;34v;71 Aria;;;Staff;;;;
+131;;35r;72 Menuet;;;Staff;;;;
+132;;35r;73 Gig;;f. 35v-36r vacant;Staff;;;;
+133;;36v;50 Rondeau;;;Staff;;;;
+134;;36v;51 Menuet;;;Staff;;;;
+135;;36v;52 Menuet;;;Staff;;;;
+136;;37r;53 Bourée;;;Staff;;;;
+137;;37r;54 Gig;;f. 37v vacat;Staff;;;;
+;;;Libro Tertio;;;;;;;
+138;;38r;1 Preludium;;;Staff;;;;
+139;;38r;2 Aria;;;Staff;;;;
+140;;38r;3 Saraband;;;Staff;;;;
+141;;38r;4 Aria Que mon Martire;;;Staff;;;;
+142;;38v;5 Saraband;;;Staff;;;;
+143;;38v;6 Air;;;Staff;;;;
+144;;38v;7 A:;;;Staff;;;;
+145;;39r;8 Saraband;;;Staff;;;;
+146;;39r;9 Air;;;Staff;;;;
+147;;39r;10 Aimable Vainqueur;;;Staff;;;;
+148;;39v;11 Saraband;;;Staff;;;;
+149;;39v;12 Air;;;Staff;;;;
+150;;39v;13 Air;;;Staff;;;;
+151;;39v;14 Aria;;;Staff;;;;
+152;;40r;15 Belles fleurs;;;Staff;;;;
+153;;40v;16 Ouverture;;;Staff;;;;
+154;;41r;17 Gig;;;Staff;;;;
+155;;41r;18 Air en Menuet;;;Staff;;;;
+156;;41v;19 Aria;;;Staff;;;;
+157;;41v;20 Aria;;;Staff;;;;
+158;;41v;21 Courant Gautier;;;Staff;;;;
+159;;42r;22 Gavott;;;Staff;;;;
+160;;42r;23 Air d' Lulli;;;Staff;;;;
+161;;42v;24 Saraband;;;Staff;;;;
+162;;42v;25 Menuet;;;Staff;;;;
+163;;42v;26 Gavott;;;Staff;;;;
+164;;43r;27 Aria;;;Staff;;;;
+165;;43r;28 Rondeau;;;Staff;;;;
+166;;43r;29 Menuet;;;Staff;;;;
+167;;43v;30 Prelud;;;Staff;;;;
+168;;43v;31 Allemanda;;;Staff;;;;
+169;;44r;32 Courant;;;Staff;;;;
+170;;44r;33 Saraband;;;Staff;;;;
+171;;44v;34 Menuet;;;Staff;;;;
+172;;44v;35 Gig;;;Staff;;;;
+173;;44v;36 Courant;;;Staff;;;;
+174;;45r;37 Menuet;;;Staff;;;;
+175;;45v;38 Prelud;;;Guitar;;none;,,,a ,,a ,,,a ,,a [,,aac1];french5tab
+176;;46r;39 Sonata;;;Guitar;;3/4;"[,aa1] [,b,,d/] ,a (,b ,a) | '[,,ca2] ,,a1 | [,aa1] ([,b,,d/] ,a) (,,c ,,a) | \
+',,,e2 ,,a1 | [,aa1] ,a/ ,,c ,a ,,c |";french5tab
+177;;46r;40 Allegro;;;Guitar;;2/4;",a/ | ,a/ ,,a ,,a ,a | ,a/ ,,,a ,,,,c ,a | ,a/ ,,a ,,a ,a | \
+,a/ ,,a ,,,,c ,a | [,aa/] (,,c/4 ,,a) ,,c/ ,,c |";french5tab
+178;;46v;41 Menuet;;;Guitar;;3/4;",,a1 ,a ,b | [,da1] ,b/ ,d ,a1 | ,,a1 ,a ,b | [,da1] ,b/ ,d ,a1 | \
+[,b,,d1] ,a ,,a | [a,,,d1] [,da] ,a |";french5tab
+179;;46v;42 Gig;;;Guitar;;6/8;",a/ | [,aa/] ,,c ,a [,aa] ,,c ,a | ,,a/ ,,c ,a z/ z/ ,a | \
+[,aa/] ,,c ,a [,aa] ,,c ,a |";french5tab
+180;;47r;43 Sonata;;;Guitar;;3/4;"[,c,,a1] [,cca3/2] ,d/ | '[,a,c2] [,,c,a1] | [,c,,a1] (3,d/ ,a ,d) (3,a ,c ,,c) | \
+'[,,bc2] [,,c,a1] | [,c,,a1] ,c ,,,a/ ,d |";french5tab
+181;;47v;44 Allegro;;;Guitar;;2/4;"[,cc,a1] [,d,a] | [,c,,a/] ,,c/4 ,a ,c/ [,d,a] | \
+[,c,,a/] ,,c/4 ,a ,c/ ,d | [,c,,a/4] ,d a/ ,d ,c | \
+[,c,,a/] ,a/4 ,,c [,a,c/] ,,b |";french5tab
+182;;47v;45 Menuet;;;Guitar;;3/4;"[,c,,a/] ,,c ,c | [,c,,a/] ,,c/4 ,a ,c/ | [,d,a/] a c | \
+',,b1 ,,,c/ | [,c,,a/] ,,c/4 ,a ,c/ | [,d,a/] ,a/4 ,c ,d/ |";french5tab
+183;;48r;46 Sonata Adagio;;;Guitar;;C;"[ab,,d3/4] b/4 d/ b a3/4 ,,,a/4 ,,,c/ [a,,,d] | \
+[b,,d3/4] a/4 ,d/ ,b [,aa3/4] ,,,,a/4 ,,,,c/ ,a | \
+[,b,,d3/4] ,a/4 ,,c/ ,,a";french5tab
+184;;48v;47 Allegro;;;Guitar;;2/4;"a/ | [a,,,d/] ,,,c ,,,c a| [,aa/] ,d d ,a | [,b,,d/] a d ,b | \
+'[,aa3/2] ,a/ | [a,,,d/] ,,,c ,,,c a |";french5tab
+185;;48v;48 Largo;;;Guitar;;3/4;"[ab,,d1] (3a/ b ,d) (3a b ,d) | [a,,,d1] (,,,,d/ ,,,c ,,,,d) (3,,,,d ,,,c ,,,,d) | \
+'[,aa1] (3,a/ ,b ,,c) (3,a ,b ,,c) |";french5tab
+186;;49r;49 Allegro;;;Guitar;;2/4;"a/ | [a,,,d/] ,b/4 ,d a/ ,b/4 ,d | [a,,,d/] ,,,c ,,,c a | \
+[a,,,d/] ,b/4 ,d a/ ,d/4 ,b | [,aa/4] ,,c ,a ,b ,a/ a |";french5tab
+187;;49r;50 Menuet;;;Guitar;;3/8;"[a,,,d/] (,d/4 ,b) ,d a | ([b,,d/] a) d | ([b,,d/] a) d | \
+[b,,d/] a/4 ,d ,b ,d | [,aa/] ',a ,,a |";french5tab
+188;;49v;51 Allemanda;;;Staff;;;;
+189;;49v;52 Courant;;;Staff;;;;
+190;;49v;53 Saraband;;;Staff;;;;
+191;;50r;54 Gavott;;;Staff;;;;
+192;;50r;55 Menuet;;;Staff;;;;
+193;;50v;56 Sonata Adagio;;;Staff;;;;
+194;;50v;57 Gavott;;;Staff;;;;
+195;;51r;58 Saraband;;;Staff;;;;
+196;;51r;59 Gig;;;Staff;;;;
+197;;51v;60 Menuet;;;Staff;;;;
+198;;51v;61 Prelud;;;Guitar;;C;",,,,a/ f d b a ,d ,b ,a | ,b/ ,,,,a ,,,,d ,,,c ,,,,a ,,c ,b ,,c | \
+,,,a/ b ,a b ,,a b a ,d |";french5tab
+199;;52r;62 Menuet;;;Staff;;;;
+200;;52r;63 Gavott;;;Staff;;;;
+201;;52r;64 Menuet;;;Staff;;;;
+202;;53r;65 Prelud;;;Guitar;;C;"[dca3/2] d/ ,,a d c a | ,d/ ,b ,a ,,c ,,a a ,d ,b | \
+,a/ ,,c ,,a ,,,e ,,a/4 ,a ,d ,a ,,a ,a ,d ,a";french5tab
+203;;53v;66 Allemanda;;;Staff;;;;
+204;;53v;67 Courant;;;Staff;;;;
+205;;54r;68 Saraband;;;Staff;;;;
+206;;54r;69 Bourée;;;Staff;;;;
+207;;54v;70 Menuet;;;Staff;;;;
+208;;54v;71 Bourée;;;Staff;;;;
+209;;54v;72 Gig;;;Staff;;;;
+210;;55r;73 Prelud;;;Guitar;;C;",d/ | [,dca3/2] ,,c/4 ,a ,c ,d a c d f d c a | \
+[c,,a/4] ,d ,d ,d [h,a] f d c";french5tab
+;;;;;Sonata;;;;;
+211;;55v;74 Adagio;;;Guitar;;C;"c/ | [c,,a3/4] a/4 ,d/ a [,cc,a] ,,a ,,,e c | \
+[,aa/4] ,c c d ',c3/4 ,a/4 [,,c,a/] ,,,,c ,,,,a ,,a |";french5tab
+212;;55v;75 Allegro;;;Guitar;;2/4;"c/ | [c,,a/4] a c d c/ c | [,c,,a/4] ,a ,c ,d ,c/ ,c | \
+[,d,a/4] ,c ,d a c/ a/4 ,d | [,c,,a] ,a ,,c ,a ,c/ ,d |";french5tab
+213;;56r;76 Saraband;;;Guitar;;3/4;"[c,,a1] 'c3/2 d/ | [f,,a3/2] d/ c1 | c1 (3a/ c ,d) (3,c ,d ,a) | \
+[,,c,a3/2] ,a/ ,c1 | [,d,a1] ,c [,c,,a] |";french5tab
+214;;56v;77 Menuet;;;Guitar;;3/8;"[,d,a/4] a c/ ,,,e | [,d,a/4] a c/ ,,,e | [,d,a/4] a c/ d | \
+'[,c,,a1] ,d/ | [,d,a/4] a c/ ,,,e |";french5tab
+215;;56v;78 Gig;;;Guitar;;6/8;"c/ | [c,,a/] a c ([,c,,a/] ,a) ,,c | [,d,a/] a c c1 c/ | \
+([c,,a/] a) ,d [,ca] d ,a |";french5tab
+;;;;;Sonata;;;;;
+216;;57r;79 Adagio;;;Staff;;;;
+217;;57v;80 Aria;;;Staff;;;;
+218;;57v;81 Menuet;;;Staff;;;;
+219;;57v;82 Bourée;;;Staff;;;;
+220;;58r;83 Gig;;;Staff;;;;
+221;;58v;84 [sans titre];;;Staff;;;;
+;;;;;Sonata;;;;;
+222;;58v;85 Adagio;;;Guitar;;C;"[c,,a/] ,d/4 a [c,,a/] [a,a/4] ,d [,c,,a] ,a ,c/ z/ c/ | \
+([d,a/4] c) a ,d '[,c,,a3/4] ,d/4 [,d,a/] \
+,,,a/4 ,,,c ,,,e/ ,,,a |";french5tab
+223;;59r;86 Allegro;;;Guitar;;2/4;",,c/ ,,a ,,,e ,,,c | [,,ca1] ,a3/4 ,c/4 | [,d,a3/4] ,a/4 ,c/ ,d | \
+'[,c,,a1] ,c | [,aa3/4] ,,c/4 ,a/ ,,b | \
+[,,ca3/4] ,a/4 [,c,,a/] ,d |";french5tab
+224;;59v;87 Adagio;;;Guitar;;C;",d/4 a | [c,,a/] c [c,,a] a/4 ,d [,cc,a/] ,c ,,,,a ,d/4 a | \
+[c,,a/] c [c,,a] a/4 ,d [,c,,a/] [,d,a/4] a '[,c,,a3/4] ,d/4 |";french5tab
+225;;60r;88 Allegro;;;Guitar;;3/8;",,,a/ c/4 a c/ | ,,,,a/ ,c/4 ,a ,c/ | ,,,a/ ,d/4 ,c ,d/ | \
+,,,,a/ ,c/4 ,a ,c/ | ,,,a/ c/4 a c/ |";french5tab
+226;;60v;89 Menuet;;;Guitar;;3/8;"[c,,a/] ,,,e c | '[a,,,a/] ,d/4 a ,c/ | [c,,a/] ,,,e d | \
+[f,,a/] d/4 f c/ | [,c,a/] (c/4 a) c/ | \
+[,c,,a/] a/4 ,d [a,,,e1] |";french5tab
+;;;;;Sonata;;;;;
+227;;60v;90 Adagio;;;Guitar;;C;",a/ | [,aa3/4] ,a/4 ,b/ ,d [,aa3/4] ,,,,a/4 ,,,,c/ [,aa] | \
+[,b,,d/] ,d/4 a [,,ce3/4] ,,a/4 ,,,e3/4 ,,,c/4 ,,,e/ [,a,a] |";french5tab
+228;;61v;91 Allegro;;;Guitar;;2/4;",,a/ ,,a ,d d | [c,,a/] a ,d d | [,aa/] ,,c/4 ,,a ,,c/ ,,a/4 ,,,e | \
+,,a/ ,,,,a ,,,,c [,b,,d] |";french5tab
+229;;62v;92 Saraband;;;Guitar;;3/4;"[,aa/] ,,,,a ',a1 ,,a/ ,b | '[,aa2] ,a1 | \
+[,,c,a/] (,a/4 ,b) [,a,a1] ,,c | ',,a3/2 ,,c/ ,a1 | \
+,a/ ,,,,a [,a,,c1] ,,,,d/ a |";french5tab
+230;;63r;93 Menuet;;;Guitar;;3/4;"[,aa/] ,,a/4 ,,c ,a/ | [,aa/] ,,a/4 ,,c ,a/ | \
+,,a/4 ,,c ,a/ ,b | ',,,e1 ,,a/ | ,,a/4 ,,c ,a/ ,b |";french5tab
+231;;63v;94 Adagio;;;Staff;;;;
+232;;64r;95 Aria Vivace;;;Staff;;;;
+233;;64r;96 Menuet;;;Staff;;;;
+234;;64v;97 Bourée;;;Staff;;;;
+235;;64v;98 Menuet;;;Staff;;;;
+236;;65r;99 Vivace;;;Staff;;;;
+237;;65v;100 Sonata;;;Staff;;;;
+238;;65v;101 Allegro;;;Staff;;;;
+239;;66r;102 Gavott;;;Staff;;;;
+240;;66r;103 alternativ;;;Staff;;;;
+241;;66v;Menuet;;;Staff;;;;
+;;;Libro Quarto;;;;;;;
+242;;67r;1 Wer nur denn lieben Gott;;;Staff;;;;
+243;;67r;2 O Gott, du frommer Gott;;;Staff;;;;
+244;;67r;3 freu dich sehr;;;Staff;;;;
+245;;67v;4 Auff auff zu Gottes Lob;;;Staff;;;;
+246;;67v;5 Sollt ich meinem Gott nicht singen;;;Staff;;;;
+247;;68r;6 Immanuel;;;Staff;;;;
+248;;68r;7 Wach auff mein Hertz und singe;;;Staff;;;;
+249;;68r;8 Wenn wir inn högsten nöthen sein;;;Staff;;;;
+250;;68v;8 Wenn wir inn högsten nöthen sein;;;Staff;;;;
+251;;68v;9 Werde munter main Gemüthe;;;Staff;;;;
+252;;68v;10 Waß mein Gott will;;;Staff;;;;
+253;;68v;11 Ach Gott und Herr;;;Staff;;;;
+254;;69r;12 O Lamm Gottes;;;Staff;;;;
+255;;69r;13 Herr Jesu Christ du höchstes Guht;;;Staff;;;;
+256;;69v;14 Wo soll ich fliehen;;;Staff;;;;
+257;;69v;15 Von Gott will ich nicht laßen;;;Staff;;;;
+258;;69v;16 mein Vater;;;Staff;;;;
+259;;70r;17 Mein Vater;;;Staff;;;;
+260;;70r;18 O Ewigkeit;;;Staff;;;;
+261;;70v;19 Nun danket alle Gott;;;Staff;;;;
+262;;70v;20 Nun ruhen;;;Staff;;;;
+263;;70v;21 O wir armen Sünder;;;Staff;;;;
+264;;71r;22 O Traurigkeit;;;Staff;;;;
+265;;71r;23 Hertzlich thut mich;;;Staff;;;;
+266;;71v;24 Gelobet;;;Staff;;;;
+267;;71v;25 Vom Himmel;;;Staff;;;;
+268;;71v;26 Jesu meine Freude;;;Staff;;;;
+269;;72r;27 Komst du, mein Jesu, vom Himmel;;;Staff;;;;
+270;;72r;28 du Geist des Herrn;;;Staff;;;;
+271;;72r;29 Seelen bräutigam Jesu;;;Staff;;;;
+272;;72v;30 Wo wiltu hin weils abend ist;;;Staff;;;;
+273;;72v;31 Meine Seele wiltu ruhn;;;Staff;;;;
+274;;72v;32 Jesu o du Trost der Seelen;;;Staff;;;;
+275;;73r;33 Gott wills machen;;;Staff;;;;
+276;;73r;34 Liebster Jesu Trost der Hertzen;;;Staff;;;;
+277;;73v;35 Wie wohl ist mir o Freundt der Seelen;;f-74r-75r vacant;Staff;;;;
+278;;75v;Cantabile;;;Staff;;;;
+279;;75v;Vivace;;;Staff;;;;
+280;;76r;Menuet;;;Staff;;;;
+281;;76r;Buon Gusto;;;Staff;;;;
+282;;76v;Adagio;;;Staff;;;;
+283;;77v;Presto;;;Staff;;;;
+284;;78v;Moderati;;;Staff;;;;
+285;;79r;Bourèe;;;Staff;;;;
+286;;79r;Menuet;;;Staff;;;;
+287;;79v;Adagio;;;Staff;;;;
+288;;79v;Vivace;;;Staff;;;;
+289;;80r;a Tempo;;;Staff;;;;
+290;;80v;Bourèe;;;Staff;;;;
+291;;80v;Menuet;;;Staff;;;;
+292;;81r;Adagio;;;Staff;;;;
+293;;81v;[sans titre];;;Staff;;;;
+294;;81v;Bourèe;;;Staff;;;;
+295;;82r;Menuet;;;Staff;;;;
+296;;82r;Vite;;;Staff;;;;
+297;;82v;Vivace;;;Staff;;;;
+298;;83r;Allegro;;;Staff;;;;
+299;;83v;a Tempo;;;Staff;;;;
+300;;83v;Menuet;;;Staff;;;;
+301;;;;;Sonata;;;;;
+302;;84r;Adagio;;;Guitar;;C;"[c,,a3/2] (d/4 c) [c,,a3/2] (d/4 c) | \
+[d,a/4] c a ,d '[,c,,a3/2] ,d/4 [,d,a/] ,,,a ,,,,e ,,,,c | \
+[,cc,a3/2] (,d/4 ,c) [,cc,a3/2] ,d/4 ,c |";french5tab
+303;;84v;Allegro;;;Guitar;;2/4;"[c,,a1] ,c | [,d,,c/] ,c/4 ,a [,c,,a/] a | Vc1 ,c | \
+[,d,a/] ,c/4 ,a [,c,,a/] ,d | [a,,,a/] ,d/4 ,c [,d,a/] ,c |";french5tab
+304;;85r;Pastorello;;;Guitar;;6/8;"z2 z2 | ,d1 a/ ,d1 a/ | [c,,a3/4] d/4 c/ [c,,a3/4] a/4 ,d/ | \
+[,cc,a1] ,,,,a/ [,,c,,a1] ,d/ | \
+[a,,c3/4] c/4 a/ a3/4 ,d/4 [,c,,a/] |";french5tab
+;;;;;Sonata;;;;;
+305;;85v;[sans titre];;;Guitar;;3/4;"[,cc,a/] ,,,,a ,,,,a [,cc,a] ,,,,a ,,,,e/4 ,,,,c | \
+[,cc,a/] ,,,,a ,,,,a [,cc,a] ,,,,a ,,,,e/4 ,,,,c | \
+[,cc,a1] ,,,,a2 | [,cc,a1] ,c/ ,d ,c ,d |";french5tab
+306;;85v;Allegro;;;Guitar;;2/8;"[,c,,a/] ,d | [,c,,a3/4] ,a/4 ,,c/ ,d | [,c,,a3/4] ,a/4 ,,c/ ,d | \
+[,c,,a3/3] ,a/4 ,,c1 | [,c,,a/4] ,a (3,,c ,a ,c) |";french5tab
+307;;86v;Allegro;;;Guitar;;3/4;",,,,a1 ,,,a2 | ,,,c2 ,,,,a1 | [a,,,a1] ([c,,a/] a) c a | \
+',d2 ,c1 | [,c,,a/] ,a ,c1 (,d/ ,c) | [,a,c/] ,,c ,a1 ,c/ ,a |";french5tab
+308;;86v;Menuet;;;Guitar;;3/8;"[,,c,a/4] ,a ,c/ ,d | [,c,,a/4] ,,,,c ,,,,a/ ,c | \
+[,,c,a/4] ,a ,c/ ,d | [,c,,a/4] ,,,,c ,,,,a/ ,c | \
+[,c,,a/] ,c/4 ,a ,,c/ |";french5tab
+309;;87v;1 Aria;;;Guitar;;C;"[,,c,a1] a/ ,d V[,b,,a1] [,a,c] | ,,,,a/ ,b ,,,,c ,d ,,,,d/ a ,,c1 | \
+,,,a/ b ,,,,d a ,,,,c ,d ,,,,a ,b |";french5tab
+310;;87v;2 Polonese;;;Guitar;;3/4;"[a,,,a1] ,,c/ a ,,c a | [b,,a/] a b a ,d ,b | \
+[,da1] ,,a/ ,d ,,a ,d | [a,,,d/] ,d a ,d ,b ,a |";french5tab
+311;;87v;3 Menuet;;;Guitar;;3/8;"[a,,,a1] f e | [f,,,a1] ,,c [,a,c] | ,,,,a/ ,b ,,a ,a ,,,d ,,c | \
+[a,,c/] ,d a b a1 | [a,,,a1] f e |";french5tab
+312;;88r;4 Gavott;;;Guitar;;C;"[,,c,a1] [,abc] [,b,,a] a | [,d,,c1] ,b/ ,a [,b,,a] ,a ,,c1 | \
+[a,,,d1] f/ d [b,,a] a ,d a | ',d3/2 a/ [aa,c2] :||:";french5tab
+313;;88v;5 Menuet;;;Guitar;;3/4;"[f,,,a1] f/ e f1 | [,,c,d2] [,a,c1] | [,b,,a/] ,a ,,c ,a ,b ,d | \
+[a,,c/] ,d a b a1 | [f,,,a1] f/ e f1 |";french5tab
+314;;88v;6 Bourèe;;;Guitar;;C;"a1 | [a,,,a1] (f/ e) f1 [a,,c] | V[,b,,a1] ,a/ ,b ,,c1 [a,,,d] | \
+[b,,a/] a ,d ,b ,a ,b ,a ,,c |";french5tab
+315;;89r;7 Polonese;;;Guitar;;3/4;"[,,c,a1] (3,b/ ,a ,,c) [f,,d1] | [d,,c/] b a1 a | \
+[,b,,a/] ,a ,,c ,a ,b ,d | [a,,c/] a ,d a1 ,,,c :||:";french5tab
+316;;89r;8 Menuet;;;Guitar;;3/4;"[,,c,a1] ,b/ ,d [a,,,d1] | [,b,,a1] ,a/ ,b ,,c1 | \
+[b,,a/] a ,d ,b ,a ,,c | ',,b1 ,,,c ,,,c | [,cc1] ,,b ,a |";french5tab
+317;;89v;9 Gig;;;Guitar;;6/8;"a/ | [a,,,a/] ,,c a a ,,c a | [b,,a/] ,,c b b ,,c b | \
+[a,a/] ,d ,b [,a,a] ,b ,,c |";french5tab
+318;;89v;10 Aria;;;Guitar;;C;"[,ba,d1] [,a,a] [,ba,d] [,da] | [a,,,d3/4] a/4 ,d/ ,b [,aa] ,,c ,,a ,,,d | \
+[a,,c/] ,b [f,,d] ,b [,aa] ,,,d [,b,c] [,d,d] |";french5tab
+319;;90r;11 Polonese;;;Guitar;;3/4;"[db1] a/ ,d a ,b | [db1] a/ ,d a ,b | [db,c/] d [f,,d1] [db,c] | \
+[db,c/] d [f,,d1] [db,c] |";french5tab
+320;;90v;12 March;;;Guitar;;C;"d | [d,,c/] b a b d1 [f,,d] | [d,,c/] b a b d1 [f,,d] | \
+[d,,c1] b/ a [b,,a1] a/ ,d |";french5tab
+321;;90v;13 Menuet;;f.92r as f. 91r (crossed out) - f. 91v vacat;Guitar;;3/4;"[,b,,d/] ,a ,b ,d a b | [d,,c1] ,b d | ,,,d/ f ,,,c d ,,,a b | \
+[ab,,d2] [,da1] |";french5tab
+322;;92v;14 Aria;;;Guitar;;3/4;"[ab,,d1] ',d3/2 ,b/ | [d,a1] ,,a [,b,c/] ,a | ,,,d/ ,,c ,,a ,a ,,,,a ,b | \
+[,da/] ,b ,a ,,c ,,a1 |";french5tab
+323;;92v;15 Menuet;;;Guitar;;3/4;"[db1] f d | [b,,a1] a/ b d1 | [a,,,d1] b/ ,a [,da] b | \
+'[a,,,d1] ,d/ a b1 | [a,,,d/] d (3d f d) (3d f d) |";french5tab
+324;;93v;16 Aria;;;Guitar;;C;"[ab,,d1] a/ ,d/4 ,b [,da1] a/ b | [d,,c1] [b,,d/] a [,da1] ,d | \
+[a,,c1] [,aa] [,b,,a] [,d,d/] a | '[,da3/2] ,b/ ,b1 ,,,,d :||:";french5tab
+325;;94r;17 Menuet;;;Guitar;;3/4;"[,b,,d1] ,b/ ,a ,b1 | [,da1] ,d/ ,b ,d1 | [a,,,d1] b/ a ,d ,b | \
+[,da1] ,,a ,,a | [,b,,d1] ,b/ ,a ,b1 |";french5tab
+326;;94r;18 Gig;;;Guitar;;6/8;",,a/ | [,b,,d/] ,d ,b ,b ,d ,b | [,b,c1] ,,a/ ',,a1 ,,a/ | \
+[,d,a/] a ,d ,d a ,d | [,da1] ,,a/ ',,a1 ,d/ |";french5tab
+327;;95v;19 [Pas]torelle;;;Guitar;;3/4;",b/ ,,d | ',,c3/2 ,,a/ ,,,d1 | ,,,d2 [,,ac1] | \
+,,,d/ ,,c ,,,c ,,a ,,,a ,,,d | [,ba,d2] ,b1 | \
+[b,,,a1] ,b [,da] | [,,cd3/2] ,,d/ ,b1 |";french5tab
+328;;95v;20 Marsch;;;Guitar;;C;",,c/ ,,d | [,b,d1] [,ba/] ,b [,b,,a1] [,da] | \
+,b/ ,,,d ,,d ,,c ,,a ,,,d1 b/ | \
+,,,,d/ a ,,,a b ,,,c d ,,,d f |";french5tab
+329;;96v;21 Menuet;;;Guitar;;3/4;"[b,,d1] f [a,,,d] | [b,,a1] a/ ,d ,b1 | ,,,,b/ ,d ,,,,a ,b ,,a ,,d | \
+'[,,cd2] [,,a,d1] | ,,,d/ f ,,,c d ,,,a b |";french5tab
+330;;96v;22 Menuet;;;Guitar;;3/4;",b1 | ,,c1 ,,,d [,da] | ,b1 ,,,,d b | ,,,,b/ ,d ,,,,a ,b ,,a ,,d | \
+,,c1 ,,,d b | ,,,,b/ ,d ,,,,a ,b ,,a ,,d | ,,c1 ,,,d [,,a,d] |";french5tab
+331;;96v bis;23 Allemande;;;Guitar;;C;",b1 | [,bc,a2] [,abc] | V[,b,,a1] [a,a] [f,,d/] ,d ',d3/4 a/4 | \
+[aa,c3/2] b/ [a,,,d] ,d ,b ,a | \
+V[,b,a1] [,a,a/] ,,c '[,,ac1] ,,c/ ,,b |";french5tab
+332;;97v;24 Menuet;;;Guitar;;3/4;"[a,,,a/] ,d ,b1 [,a,c] | [,b,,a/] ',a ,,c1 [,,bc] | \
+[,,c,d1] [,a,a] [,,bc] | [,,c,a/] ,,b ,,c ,a ,,c1 | \
+[a,,,a/] ,d ,b1 [,a,c] |";french5tab
+333;;98r;25 Menuet;;;Guitar;;3/4;"[fd,a1] ,d [a,,,a] | [bd,a1] a/ b ,d1 | ,,a/ ,,d ,,,d f ,,,c d | \
+[bd,a1] ,,,a [a,,,a] | [,,c,a1] d/ b d1 |";french5tab
+334;;98v;26 Bourèe;;;Guitar;;C;",d/ ,c | [,d,a1] f/ d [f,,d1] [d,,b] | [b,,a1] a/ b ,d1 [f,,d] | \
+[d,,c1] b/ a [b,,a1] a/ ,d |";french5tab
+335;;98v;27 Menuet;;;Guitar;;3/4;"[,,ca1] ,d [a,,,a] | [bd,a1] ,,a [a,,,a] | [,d,a1] d/ b a ,d | \
+'[,c,,a1] ,,c ,,c | [,,cd1] ,d [,b,,a] | ,,d1 ,,,c [,,cd] |";french5tab
+336;;99r;28 Le Carillon;;;Guitar;;3/4;"[,d,a/] ,,c ,d b a ,d | [a,,,a/] ,,c a d b a | \
+[,d,a/] ,c ,d b [a,a] ,d |";french5tab
+337;;99v;29 Marsch;;;Guitar;;C;"[b,,d1] [a,a3/4] ,d/4 [,bc,a1] (,,d/ ,,c) | \
+[,da1] [,ba,d3/4] ,,d/4 [,,cd1] ,,a/ ,,,d | \
+[,,cd/] ,b [,,ac] ,b [,,cd] ,b [,,ac] ,b |";french5tab
+338;;100r;30 Aria;;;Guitar;;C;"[f,,d1] d/ b [d,,c1] ,b | [bd,a/] f [d,a] b [a,,,d1] ,b | \
+[b,,,a1] [,b,d] [,d,,b] [,b,d/] ,d | \
+,,d/ ,d [,b,d] ,,d [,,cd1] ,,,d |";french5tab
+339;;100v;31 Aria;;;Guitar;;C;"[,b,d/] b ,b1 ,b | [,b,c/] b ,b1 ,b | [f,,d1] f/ d [d,,a] b | \
+[ab,,d1] ,d/ a ,b1 | ,,,,b/ ,d ,,d f f1 |";french5tab
+;;;Libro Quinto;;;;;;;
+;;;;;Sonata;;;;;
+340;;101r;Adagio;;;Guitar;;3/2;"z2 [,aa] [,,ca] | [,aa4] [,a,,c2] | [,b,,d1] ,a '[,,c,a3] ,,a1 | \
+,,a4 [,aa2] | [,b,,d2] ,a ,d | [a,,,a2] ,d ,,a | \
+[,b,,d2] ,a ,d |";french5tab
+341;;101v;Allegro;;;Guitar;;2/4;"z2 | d/ ,,a ,a ,d | [d,a/] c/4 a ,d/ a | '[c,,a3/2] ,a/ | \
+[,a,,c/] ,,,e ,,a ,a | [,b,,d/] ,a z/ ,a |";french5tab
+342;;102v;Gig;;;Guitar;;6/8;"z/ | z1 z/ z1 ,d/ | [,aa/] ,b ,d ,,a ,,c ,a | \
+[,b,,d/] ,,c ,b ,a ,,a ,,c | ,,,e/ ,,a ,,c ,,a ,,c ,a |";french5tab
+;;;;;Sonata;;;;;
+343;;103v;Vivace;;;Staff;;;;
+344;;104r;Adagio;;;Staff;;;;
+345;;104r;Menuet;;;Staff;;;;
+;;;;;Sonata 3;;;;;
+346;;104v;Vivace;;;Staff;;;;
+347;;105r;Adagio;;;Staff;;;;
+348a;;105r;[Tempo di Gavotte - crossed out];;;Staff;;;;
+348b;;105v;Tempo di Gavotte;;;Staff;;;;
+;;;;;Sonata 4;;;;;
+349;;106r;adagio;;;Guitar;;C;"[c,,a3/4] a/4 ,d/ a [,cc,a] ,,,,a ,,,e | \
+,,a3/4 ,,c/4 ,a/ ,,a [,,cca1] ,,,,a3/4 c/4 | \
+[de,a3/4] c/4 a/ ,d [,c,,a3/4] ,a/4 ,,c/ ,a |";french5tab
+350;;106v;Allegro;;;Guitar;;2/4;"z/ | z1 z/ ,,c | [,d,a/] ,,c ,d a | [c,,a/] a/4 ,d ,c/ ,a | \
+[,,c,a3/2] ,a/ | [,c,,a/] a f ,c |";french5tab
+351;;106v;Marciata;;;Guitar;;C;"[c,,a/] f/4 d c/ a/4 ,d | [,c,,a/4] ,a ,c ,d [,c,,a/] ,c/4 ,d | \
+[,c,,a/] a/4 ,d ,c/ ,c |";french5tab
+352;;107r;Gig;;;Guitar;;6/8;",,c/ | [,d,,a/] ,c ,d [,,c,a1] ,d/ | a1 ,,c/ z/ z/ a/ | \
+([c,,,a/] a) ,d [c,,,a] d f | '[a,,,a3/2] [,d,,a1] c/ |";french5tab
+;;;;;Sonata 5;;;;;
+353;;107v;Largo;;;Staff;;;;
+354;;107v;Courente allegro;;;Staff;;;;
+355;;108v;Saraband;;;Staff;;;;
+356;;108v;Menuet;;;Staff;;;;
+;;;;;Sonata 6;;;;;
+357;;109r;Allemande;;;Staff;;;;
+358;;109r;Courant;;;Staff;;;;
+359;;109v;Sarab;;;Staff;;;;
+360;;109v;Gavott;;;Staff;;;;
+361;;110r;Menuet;;;Staff;;;;
+362;;110v;Sonata;;;Staff;;;;
+363;;111r;Sarab;;;Staff;;;;
+364;;111r;Bourèe;;;Staff;;;;
+365;;111v;Menuet;;;Staff;;;;
+;;;;;Sonata;;;;;
+366;;112r;[sans titre];;;Staff;;;;
+367;;112v;Adagio;;;Staff;;;;
+368;;112v;Vivace;;;Staff;;;;
+369;;113r;Menuet;;;Staff;;;;
+370;;113v;Simphonie;;;Staff;;;;
+371;;113v;Gavott;;;Staff;;;;
+372;;114r;Sarab;;;Staff;;;;
+373;;114r;Bourèe;;;Staff;;;;
+374;;114v;Simphonie;;;Staff;;;;
+375;;114v;Rigodon;;;Staff;;;;
+376;;115r;Saraband;;;Staff;;;;
+377;;115r;Gavott;;;Staff;;;;
+378;;115v;Simphonie;;;Staff;;;;
+379;;115v;Allegro;;;Staff;;;;
+380;;116r;Menuet;;;Staff;;;;
+381;;116v;Preludio;;;Guitar;;C;",,,,a/4 f ,,f f ,,,,a f ,,f f ,,,,a f ,,f f ,,,,a f ,,f f | \
+,,,c/4 e ,a e ,,,c e ,a e";french5tab
+382;;117v;Allegro;;;Staff;;;;
+383;;118v;Cantabile Adagio;;;Staff;;;;
+384;;119r;Aria Allegro;;7 bars - see next;Staff;;;;
+385;;119v;Aria Allegro;;f. 120v vacat;Staff;;;;

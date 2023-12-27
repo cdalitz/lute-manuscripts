@@ -1,0 +1,132 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;for Mandora;1r;sans titre;;;;;C;"[,'e,a3/2] ,c/ [,a,Ve1] a |\
+['a,,,e3/2] ,f/ [,'e,a3/2] ,f/ |\
+a/ ,f ',e1 V[,f,c/] a [,e,a] ,f |\
+[,'c,,a3/2] (,a/4 ,,e) ,a1 ,,a :|";french5tab
+2;for Mandora;1v;sans titre;;;;Conc_1050;3;"[,eaa1] [,eaa] [,eaa] |\
+[,'eaa3/2] ,c/ ,a1 |\
+,a/ ,c ,e ,f a1 |\
+[,'e,a2] ,c1 |\
+,,a1 ,c ,,,,a |\
+',c3/2 ,a/4 ,c [,e,a1] |";french5tab
+3;for Mandora;2r;sans titre;Gaultier;Privé de deux beaux yeux;;;3;",e1 |\
+[,eaa3/2] ,f/ ,e1 |\
+,,a1 ',c3/2 (,a/4 ,,e) |\
+,a1 ,,,a ,,a |\
+,a3/2 ,c/ ,c ,e |\
+,f1 (,,,c/ ,a ,f ,e) |";french5tab
+4;for Mandora;2v;sans titre;;prelude?;;;none;",,,a1 ,,,,a2 (,,,a/8 ,,,c ,,,e ,,,d) ,,a1 ,,,a2 (,,a/4 ,,c ,,e)\
+(,a ,c ,e ,f) a3/2 ,f/ ',e1 ,,,a ',c3/2 ,a/ V,c1";french5tab
+5;for Mandora;3v;sans titre;;;;;C;"a/ |\
+[aa,a3/2] c/ [,fcc3/2] a/ |\
+[,eaa2] (,a/8 ,c ,e ,f) a1 |\
+[,a,,c1] [,c,,e] [,'e,a3/2] ,c/ |\
+[,'ca3] [a,,e1] |\
+[cc,'c3/2] c/ V[f,,a1] [h,,,a/] f |";french5tab
+6;for Mandora;4v;sans titre;;;;;C;"[,eaa1] [,eaa/] ,c ,e ,f a1 |\
+[,f,c/] a [,'e,a] ,c [,ca3/2] ,c/ |\
+[,c,g/] ,c [,ca] ,c [,c,,a] [,c,f] V[,e,e1] |";french5tab
+7;for Mandora;5v;sans titre;;;;;C;"[,'e,a3/2] ,c/ ,e ,f [a,,e1] |\
+[,a,,c1] [,,'e,a/] ,a [,c,f1] [,,ae] |\
+[,ac,c2] [,c,,e/] ,e [,f,,c] a |\
+[,aaa4] ||";french5tab
+8;for Mandora;6v;sans titre;;;;;3;"[,aaa1] [,aaa] [,'a,,c/] ,c |\
+[,eaa1] [,eaa] [,'e,,c/] ,f |\
+[a,,,a1] [ace] [a,,,e/] ,f |\
+[,'e,a1] [,ef] [,e,,c/] ,c |";french5tab
+9;for Mandora;7v;sans titre;;;;;3;",a/ ,a |\
+[,aaa2] [,c,,,a1] |\
+V[,eaa2] [,'e,,a/] ,f |\
+[ac,,a3/2] [c,,f/] ['a,,e1] |\
+[,aaa1] [,aaa] [,'ce,a] |\
+V[,eaa2] || [,'e,a/] ,f |\
+a1 ,,,,e/ c [a,,e1] |";french5tab
+10;for Mandora;8v;sans titre;;;;;3;",,a1 |\
+[,a,a3/2] ,c/ V,d1 |\
+[,'c,f2] ,a1 |\
+[,,'e,a3] |\
+,,a3 |\
+[,d,a3/2] ,f/ ,d1 |\
+[,f,,d3/2] ,f/ ,,,,b1 |\
+[ace,a3] |\
+c2 || a1 |\
+[a,,a3/2] ,f/ a1 |";french5tab
+11;d moll;51r;sans titre;;upside down;;;3;"[aaa{,,,a}2] c1 |\
+[eaaaa2] e1 |\
+[f{a}1] [h{,,a}3/2] f/ |\
+['e{,a}3] |\
+[c{,,a}1] Ve3/2 c/ |\
+[aaa{,,,a}1] 'c3/2 ,d/ |\
+[,'c{a}3/2] ,c/ [,,'e,,a1] |\
+[,aaaa3] ||";
+12;F dur;52r;sans titre;;upside down;;;C;"[,,dad1] [,,dad] [add{,a}] [add] |\
+[c{,,a}/] e f h ['e{,a}2] |\
+{,,,a}/ e ['c{a}] ,d [,'c,,,a1] a |\
+[ca,,,b2] ['cc,,,d3/2] a/ |\
+[add{,a}2] ||";
+13;d moll;53r;sans titre;;upside down;;;C;",1 ,,a [,a,,a] [,,'e,,a] |\
+[,a{,a}1] [,c{,,a}] [aaa{,,,a}2] |\
+[aaa/] e c ,d [,'c{a}1] ,a |\
+,c1 [,,'e,,a] [,a,,a] {,,,a} |\
+,a1 ,,a [,a,,a] [,,'e,,a] |";
+14;F dur;54r;sans titre;;upside down;;;C;"[,,,ad1] ,,b/ ,,,,c [,,aaVd1] [,ab] |\
+[,,de{,a}1] {a}/ ,c V[,daa{,a}1] {,,,a}/ c |\
+Ve1 [c{a}/] e ['a,,,,a1] [,c,,,d/] {a} |\
+',,c3/2 ,,d/ X[,,d{4}2] ||";
+15;d moll;55r;sans titre;;upside down;;Conc_92;C;"[,a,,a/] ,c a c e1 [,c,,,e] |\
+[a,,,a3/2] ,c/4 a ,c1 ,,,,,a |\
+[,,a{,a}/] ,,c ,,d ,,a [,a{,,,a}] ,c ,a ,,d |\
+[,,'c{,,a}3/2] ,,a/4 ,,,d ,,a1 ,,,,,a ||";
+16;d moll;56r;sans titre;;upside down;;Conc_4062;3;",,a1 |\
+[,a,,a3/2] ,c/ ,d1 |\
+[,'c{a}2] ,a1 |\
+[,,'e,,a3] |\
+,,,e3 |\
+[a,,,a3/2] c/ a1 |\
+['c,,,,d3/2] a/ [c{d}1] |\
+[eca,,a3] |\
+[eca2] ||";
+17;F dur;57r;sans titre;;upside down;;Conc_5266;3;",,a1 |\
+[,,aad3/2] ,,b/ [,,a{,a}1] |\
+[,,,'c{4}3/2] ,,,a/ ,,,,c1 |\
+[,,,aVdd{,a}2] ,,,,,d1 |\
+[,,,ad2] a1 |\
+[aVd,,a3/2] c/ a1 |\
+[,'c,,,d3/2] ,a/ [,,d,,a1] |";
+18;d moll;56v;sans titre;;upside down;;;C;"[,a,,a1] [,,'e,,a] [,aa{,a}2] |\
+[,'c{,,a}2] [a{,,,a}1] [,c,,,e] |\
+[,a,,a1] [,,e,c] [,a,,d/] ,,,,c ,,,,a ,d |\
+[,'c,,,d2] [add{,a}] ||\
+[aaa{,,,a}1] [aaa] ([aaa/]c e1) |\
+['c{,,a}3/2] {,,,a}/ [c{4}2] |";
+19;d moll;58r;sans titre;;upside down;;;3;",,d1 |\
+[a,,,,a2] [c{a}1] |\
+[e{,a}3/2] f/ e1 |\
+['c{4}3/2] ,d/ ',c1 |\
+[a{,a}2] ,,d1 |\
+[a,,,,a2] [c{a}1] |\
+['e{,a}3/2] f/ [h{,,a}1] |";
+20;c moll?;57v;sans titre;;upside down;;;C;",1 c ['c{4}3/2] a/ |\
+[,c,,,d1] {,a} [eda2] |\
+[c{4}1] ||\
+c1 [,c{4}] ,,d |\
+,a1 ,c {a}/ ,c ',a ,c |\
+[,d,,a1] c/ a [,c{4}] ,d ',c ,a |";
+21;g moll;59r;sans titre;;upside down;;;C;",/ |\
+[,,b{a}/] ,,d [,,a{,a}] ,,b [,,,db3/2] ,,b/ |\
+[,,'a,,d1] [,,,c,b] [,,,'b,a] {,,,a} |\
+[a,,,a/] c ['a,,,,a] ,b [,'a{d}] ,,d [,,b{a}] ,,d |";
+22;d moll;60r;sans titre;;upside down;;;C;"[a{,,,a}/] |\
+[c{,,a}1] a/ c [e{,a}/] f ['e,,a] ,f |\
+[a,,,a/] ,,,,,d [ca{d}1] [eac,,a3/2] || e/ |\
+[e,,,,a/] c ['a,,,a] ,c ,a ,,e ,a ,c |";
+23;F dur;61r;sans titre;;upside down;;;C;",1 , [,,,,d{,a}] , , |\
+,1 {a} [,,aa] {a}/ ,a |\
+[,,d,,a2] [,a{a}1] [,,d{4}/] ,,b |\
+{,,,a}1 ,,,a [,d,,a/] ,c ,a ,,d |\
+[,,'c{a}1] ,,,c [c{,,a}/] e c ,d |";
+24;for Mandora;61v;sans titre;;;;;C;",,,,a ,,,a ,,,e ,,a ,a ,e a f k |\
+[,eaa1] [,eaa] [,'eaa/] ,f a1 |\
+[,'eaa3/2] ,c/ V,e1 ,a |\
+[,eaa1] [,eaa] [,'eaa/] ,f a1 |\
+[,eaa2]";french5tab

@@ -1,0 +1,35 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;1;gallante in soprano;;;OT;;3;"[bdd,,a1] ,,,a/ f d b | [ab,,d1] [ab] [da,c] | [bdd1] ,,,,,a/ b a ,d | \
+[acd,a1] ,,,c [acd] | [bdd,a1] ,,,a/ f d b |";italian7tab
+2;;1;bergamasco;;;OT;;C|;"[acd,a1] [acd,a] | [cdda1] ,,d | [acd,a] [,da,c] | \
+[acd,a1] ,,d | [acd,a1] [,da,c] | [acd,a1] ,,d | \
+[acd,a1] ,,c | [acd,a2] | [acd,a1] ,d/ a |";italian7tab
+3;;2;Roggiero;;;OT;Conc_3638;C|;",d/ a | [cdd,,,a1] [cdd] | [da,c1] [acd,a] | [,dd,,,a1] ,,,,a | \
+,,,a1 a/ c | [da,c1] [c,,a] | [a,,,d1] [,da,c] | \
+[acd,a1] ,,,c | [acd1] ,,c/ ,,d |";italian7tab
+4;;2;una ricercada;;;OT;;C;"[cdda/4] a ,d ,c ,d a c d [f,,a] c d f [d,,c] a c d | \
+[cdda/4] ,d a c";italian7tab
+5;;4;Chiarizana di mezo;;;OT;;C|;"[aacc,a1] ,a/ ,a | [aacc,a1] [,,d,,c] | [aacc,a1] ,,,a | \
+,,,,e1 ,,,,c | [acd,a1] a/ a | [acd,a/] c [a,,a] ,d |";italian7tab
+6;;5;bergamasco;;;OT;;C|;"[fdaa1] [cdda] | [dab,,d1] [dab,,d] | [acdca1] [acdca] | \
+[cdd,,,a1] ,,,a | [cdda1] a/ ,d | [acdca1] [,da,c] | \
+[,a,,,d1] [,c,,a] | [,dda,,a1] ,,,,,,a |";italian7tab
+7;;6;spagnoleto;;;OT;Conc_4501;3;",a/ ,c/4 | [,da,c/] [,da1] | [acd,a1] [,cd/] | [add,,,a1] [cdd/] | \
+[c,,a/] a/4 ,d | [acdca1] [,da,c/] | [acd,a1] ,d/4 a/ | \
+[cdd,,,a1] ,,,a/ |";italian7tab
+8;;7;sans titre;;;OT;;C|;"[,dd,,,a/] ,c ,d a | [cdda1] ,d | [ab,,d2] | [ab,,d1] [ab] | \
+[,dd,,,a/] ,c ,d a | [b,,a1] [,d,,b] | [acd,a2] | \
+[acd,a1] [acd] |";italian7tab
+9;;8;Alegrezo da More;;;OT;ConcR1882;3;"f/4 d/ | [cdda3/4] a/4 c/ | ,d/ a c | [dbb,d1] [dbb/] | \
+[dbb,d/] f d | [cdda3/4] a/4 c/ | [,da,c3/4] a/4 ,d/ |";italian7tab
+10;;9;Gentileza da More;;;OT;ConcR1870;3;"[fddd1] [dabc/] | [cdda3/4] a/4 [cdda/] | [aabc3/4] c/4 [dabc/] | \
+[cdda1] [cdd/] | [acd,a3/4] ,d/4 ,c/ | [acdca3/4] ,d/4 a/ | \
+[cdd,,,a1] [cdd/] |";italian7tab
+11;;10;Rugiero baletto;;;OT;Conc_3638;C|;",d/ a | [cdda1] [cdd] | [,ab,,d1] [acd,a] | [,dd,,,a1] ,,,,a | \
+,,,a1 f/ d | [cdda1] [acd,a] | [aacc,a/] ,d ,c ,a | \
+[acd,a1] [acd/] ,d |";italian7tab
+12;;10;SPAGNIOLETTO;;;OT;Conc_4501;3;",a/ ,c | [,da,c3/4] ,c/4 ,d/ | [a,,,e3/4] ,d/4 a/ | [cdda1] ,,,,a/ | \
+,,,a3/4 c/4 d/ | [fdda3/4] d/4 c/ | [acd,a3/4] ,d/4 a/ |";italian7tab
+13;;12;sans titre;;pp. 13-14 empty;OT;ConcR548;3;"[,dda,,a1] a [bcda/] [acd,a] | [,dda,,a1] ,,,,a ,,,a | \
+[ddef,d1] f g/ [fdaa] | [dab,,d1] ,,,a [dab] | \
+[a,,,d/] [,d,,c] [,b,,a] [,a,,,d] [,,d,,b] ,,,,,a |";italian7tab

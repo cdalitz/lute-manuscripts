@@ -1,0 +1,243 @@
+Piece Nr;Key;Page nr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+;;;Many new concordances taken from Pietro Prosser's thesis (1996);;;;;;
+;;;[Sonata] No. I Gallichone solo Del Sig.r Brescianello;;;;;;
+1;C dur;1;Preludio;;;Mandora;Conc_4775;C;"[cdca4] | [fhha3] (c/8 d f d c d f) | [acc,a4] | \
+[dcc,a2] (a/8 c d) (,c ,d ,f) ,,c (,a ,c ,d) a |"
+2;C dur;2;Allegro;;;Mandora;Conc_4952;12/8;"f/ | [,d,a1] ,d/ [,d,,e] ,d [,d,,c] ,d [,d,,,c] ,d | \
+([a,,,a/] c) d ([d,,,a] c) a ([c,,a] d) f ([f,,a] d) c |"
+3;C dur;6;Andante;;;Mandora;Conc_4953;2/4;",,,a/ | ,,a/4 ,,,e (,,,c ,,,a) ,,a ,,,e (,,,c ,,,a) | \
+(3,,a/4 ,,c ,,e) (,,e/ ,,c) [,d,a] | \
+([,c,,a/4] ,d) (a c) (d f) h ,i |"
+4;C dur;8;Menuet;;;Mandora;Conc_4954;3/4;"V[,d,a1] (,,c/ ,,a) ,,,e ,,,c | ',,,a1 ,,,a ,,,a | \
+V[,d,a1] (,,c/ ,,a) ,,,e ,,,c | (,,,c2 ,,,a1) | \
+(3'[c,,a/] a c) [d,,c1] ,,,,a |"
+5;c moll;9;Trio;;;Mandora;Conc_4955;3/4;"[b,,a2] [a,,,d1] | [,d,,b1] ,c ,d | [ac,,a1] b d | \
+'[b,,a2] [a,,,d1] | ,,,,b1 ,d [,b,,a] | \
+[,,d,,d1] [,,c,,b] [,,a,,a] |"
+6;C dur;10;Allegro;;p. 12 empty;Mandora;Conc_4956;2/4;",,c/ | [,d,a/] [,d,c] [,d,e] [,d,c] | [,d,a/] ,,,e ,,,,a f | \
+V[,d,a/] ,,,e ,,,,a f | V[,d,a1] l | '[k,,,a/] h 'f d |"
+;;;[Sonata] No. II Gallichone solo Del Sig.r Brescianello;;;;;;
+7;G dur;14;Allegro;;;Mandora;Conc_4957;C;"a1 | [f,,,a1] [a,,,c] [a,,,e] [a,,,c] | [f,,,a1] [a,,,c] [a,,,e] [a,,,a] | \
+([c,,a/] a) (,d ,c) [,d,,,a1] a | [,c,,a1] ,,c z1 ,,,c1 |"
+8;G dur;16;Andante;;;Mandora;Conc_4958;2/4;",,c/ | '[,c,,a/] ,a/4 ,,c [a,,,,e/] [,,b,,a] | \
+[,,c,,c/] V,,c1 [,,c,e/] | [,a,a/4] (,c ,d) [,d,,c/] ,,,,,a ,d | \
+[,d,,a/4] (,c ,a) V,c1 [,,c,e/] |"
+9;G dur;18;Gigue;;p. 20 empty;Mandora;Conc_4959;6/8;"[,,c,a3/4] ,a/4 ,,c/ [,,c,,e] ,a ,,c | \
+[,,c,,c3/4] ,a/4 ,,c/ [,,c,e1] (,a/8 ,c ,d) a | \
+[cd,a3/4] a/4 c/ [aa,,,e] c [,d,,,a] |"
+;;;[Sonata] No. III Gallichone solo Del Sig.r Brescianello;;;;;;
+10;B dur;22;Allegro;;;Mandora;Conc_4960;2/4;"[,ba,d1] [,ba,d] | [,ba,d1] ,b/4 a ,d a | [,ba,d1] [,ba,d] | \
+,b/ ,,,,d ,,,c ,,a | [ab,,d1] [ab,,d] | \
+[ab,,d1] (a/4 d) (b d) |"
+11;g moll;24;Adagio;;;Mandora;Conc_4961;3/4;"[,,c,a/] ,,b ,,c/4 (,a ,b/) ,a/4 (,b ,d/) | \
+[,b,,a/] ,a (,b/4 ,d) a/ ,d/4 a b/ | \
+'[a,,,a/] (,d/4 ,b) [,a,a] ,b ,d) (a b1) |"
+12;B dur;26;Gigue;;p. 28 empty;Mandora;Conc_4962;12/8;"[,b,,d/] ,,a ,,,c ,,,,d ,,,c ,,a [,ba,d1] [,ba,d/] [,ba,d1] [,ba,d/] | \
+[a,,,d/] ,b ,,a ,,,c ,,a ,b [ab,,d1] \
+[ab,,d/] [ab,,d1] [ab,,d/] |"
+;;;[Sonata] No. IV Gallichone solo Del Sig.r Brescianello;;;;;;
+13;F dur;30;Allegro;;;Mandora;Conc_4963;C;"[,,a,,a/] ,a ,d d [c,,a] ,d a c | V[d,,,,a1] ,,,,a ,,,,c/ ,d d ,d | \
+[a,,,d1] [,d,,c/] a X[,b,,a1] ,,,a |"
+14;f moll;34;Adagio;;;Mandora;Conc_4964;6/8;"[ddd,,a3/4] f/4 [d,,,a/] [ddd,b3/4] f/4 [d,,,a/] | \
+[ddd,,a3/4] ,d/4 ,,d/ X,,a3/2 | \
+[fhha3/4] g/4 f/ [fhha3/4] g/4 i/ | \
+'[g,,,,a3/4] f/4 g/ [gi,,,a3/2] |"
+15;F dur;36;Menuet;;;Mandora;Conc_4965;3/4;"[,d,,,a1] d h | [f,,a3/4] ,c/4 V,d2 | '[,b,,a1] ,a [,,ca] | \
+[,a,,,a3/4] ,,,e/4 ,,a1 ,,,,,a | ,,,,a/ ,,c ,c a ,c ,,c |"
+16;f moll;37;Trio;;;Mandora;Conc_4966;3/4;",,,,,a/ ,,d ,d1 ,d | ,,,,,a/ ,,f ,e1 ,e | \
+,,,e/ ,d f ,d ,,f ,d | ([,,f,,a/] ,,d) (,,c ,,d) ,,a1 |"
+17;F dur;38;Allegro;;p. 40 empty;Mandora;Conc_4967;2/4;"[dde,,a1] [dde,,a] | [dde,,a/] [,de] [,de] [,de] | \
+[dde,,a/] [,de] [,de] [,de] | [ih,a1] [hi,,,a] | \
+,,,a/4 ,h i ,h [hi,,,a1] | [h,,,,a/] ,i ,,a h |"
+;;;[Sonata] No. V Gallichone solo Del Sig.r Brescianello;;;;;;
+18;B dur;42;Aria;;;Mandora;Conc_4968;C;"(d/4 b a b) | '[a,,,d3/2] a/ [,d,,c1] (d/8 b a) (,d ,b ,d ,a) | \
+[,bc,a1] ,,,,,a/ ,,,d ,,,c ,,a ,b a |"
+19;B dur;44;Allegro;;;Mandora;Conc_4969;2/4;"d/ | '[a,,,d/] d [,d,,c] d | ([,b,,a/4] ,a) (,b ,d) ,b/ [,b,c] | \
+([,d,,,a/4] ,b ,a) (,,c ,,a/) d | '[a,,,d/] ,d/4 a ,b/ [d,,c] |"
+20;B dur;46;Menuet;;;Mandora;Conc_4970;3/4;"(3[,b,,d/4] ,a ,b) ,b1 [,b,a] | [,b,c/] ,d a b Vd1 | \
+[f,,d1] ([d,,,,a/] b a) ,d | '[a,,,d1] ,d/ a ,b1 |"
+21;g moll;47;Trio;;;Mandora;Conc_4971;3/4;"[abc,a1] ,,c [,,c,c] | [,,c,d/] ,a ,b ,d a1 | \
+V[b,,a1] [a,,c/] ,d ,b ,a | V[,b,,a1] (,a/ ,b) ,,c1 | \
+,,,c1 ,,c V,b |"
+22;B dur;48;Gigue;;follow 2 empty unnumbered pages;Mandora;Conc_4972;6/8;"(,,a/4 ,,c) ,a | [,b,,d/] ,,a ,b [a,,,d] ,b a | \
+[ab,,d/] d/4 b a d X,b1 [,,ac/] | \
+[,,cd/] ,a [,b,c] [,d,a/4] a (b a) (,d ,b) |"
+;;;[Sonata] No. VI Gallichone solo Del Sig.r Brescianello;;;;;;
+23;G dur;52;Entrèe;;;Mandora;Conc_4973;C;"a1 | [f,a1] ,,c ,,c [,a,,,a] | '[,c,,a1] ,a/ ,c ,,c1 [a,,,e] | \
+,,,a/4 c c ,,,,e a a ,,,,c ,d ,d ,,,,a ,c ,c |"
+24;G dur;53;Menuet;;;Mandora;Conc_4974;3/4;"[,,c,a1] ,c a | ([f,,,a/] a) ,c ,,c [c,,a1] | [a,,,e1] [,d,,c] [,c,,a] | \
+'[,a,,,a1] ,,,,,c ,,,,,e | \
+V[,c,,a1] [a,,,e] (3[,d,,,a/4] ,c ,a) |"
+25;G dur;54;Scherzo;;;Mandora;Conc_4975;2/4;",,c/ | [,c,,a/] ,,c a ,c | [,d,,c1] [,ab,,a] | \
+[,c,,a/] [,,c,e] [,a,a] [,,b,,a] | V[,,c,a1] y/ [,c,,a] | \
+[,a,,,a/] ,c ,d [,c,,a] |"
+26;g moll;55;Aria;;segue Finale I;Mandora;Conc_4945;3/4;"[,,c,a3/4] ,b/4 a1 [,,b,c] | [,,c,d1] ,,,c2 | \
+,,,a/ b [a,,,,e] ,d [,b,,,a] ,a | ('[,b,,a/] ,a) ,,c1 ,,,,c | \
+,,,,d/ a f d b a |"
+27;g moll;56;Finale II;;;Mandora;Conc_4977;2/4;"(,,c/4 ,,b) | [,,c,a/] ,b '[,a,,,a1] | [,b,,a/] a f (,,c/4 ,,b) | \
+[,,c,a/] ,b '[,a,,,a1] | [,b,,a/] a f f |"
+28;G dur;57;Finale I;;p. 58 empty;Mandora;Conc_4976;2/4;"(f/4 e) | [f,,,a/] a [cd,a1] | [cd,a/] [ac,,a] y (f/4 e) | \
+[f,,,a/] ,c [,db,c1] | [,db,c/] [,cc,a] y ,,c/4 ,,b |"
+;;;[Sonata] No. VII Gallichone solo Del Sig.r Brescianello;;;;;;
+29;C dur;60;Allegro;;;Mandora;Conc_4978;2/4;"[,d,a1] [ff,,e] | V[,d,,c1] y/ [,d,e] | [a,a/] [c,,e] [d,,c] ,,,,a | \
+'[c,,a1] [,c,,a3/4] e/4 | [f,,,e/] ,f [,d,,c] ,,,,,a | \
+'[,c,,a1] [,a,,,d3/4] ,c/4 |"
+30;a moll;62;Andante;;;Mandora;Conc_4979;2/4;"[cd,,c/] [cd,,c] X[cc,,a] [cc,,a] | h3/8 g/8 h/4 k 'g/ ,,e/4 ,,c | \
+,,,a/4 ,h h ,h ,,,,,a d ,,,c ,,,a |"
+31;C dur;64;Allegro;;p. 65 empty;Mandora;Conc_4980;2/4;",,,a/ c f ,,,,a | ,,,,c/ ,d c ,,,,,c | ,,,,,d/ a ,,,,a ,c | \
+,d/ ,,c ,,,a1 | c/ ,,,a ,,,,c c | a/ ,,,,e ,,,,a a |"
+;;;[Sonata] No. VIII Gallichone solo Del Sig.r Brescianello;;;;;;
+32;G dur;67;Entrèe;;;Mandora;Conc_1727;C;"(a/ c) | V[f,,,a1] [,,c,a] [,,c,a] [,,c,a] | [,,c,,c1] [,,c,,c] [,,c,e] [,,c,e] | \
+[,aca1] [,aca] [,,b,,a/] ,a a ,d | \
+'[,c,,a1] ,a/ ,c ,,c1 [ac,,a] |"
+33;G dur;68;Menuet;;;Mandora;Conc_1728;3/4;"([,c,,a/] ,d) a1 [c,a] | [ac,,a1] f '[e,,,,a] | \
+([f,,,a/] a) ([c,,a] a) ,d1 | '[,a,,,a1] ,,,,,c ,,,,,e | \
+[,c,,a/] a [,a,,,e] a [,,c,,c] a |"
+34;G dur;69;Gavotta;;;Mandora;Conc_1730;2/4;"([f,,,a/] e) ([f,,,,a] e) | ([f,,,a/] a) [c,,a] ,d | \
+[,,b,,a/] ,a a ,d | ([,c,,a/] ,a) ,c ,,c | ,,,a/ c ,,,,e a |"
+35;G dur;70;Gigue;;;Mandora;Conc_1731;6/8;"a/ | [f,,,a1] a/ [,c,,a1] a/ | [,,c,a/] [,a,a] [,,b,,a] V[,,c,a1] [ac/] | \
+V[c,,a/] ,d ,c '[,a,a] (,d/4 ,c ,a/) |"
+;;;[Sonata] No. IX Gallichone solo Del Sig.r Brescianello;;;;;;
+36;B dur;72;Allegro;;;Mandora;Conc_4863;2/4;",b/ | [d,,,c/] [d,,,a] [d,,,c] [d,,,,a] | \
+'[a,,,d/] ,d/4 a (,b ,d) (a b) | \
+,,,,c/4 d ,,,,a d ,,,,c d ,,,,,a d |"
+37;g moll;74;Adagio;;;Mandora;Conc_4981;3/4;"[ab,,a3/4] b/4 [a,,,a3/4] b/4 [a,,,a3/4] b/4 | \
+X[a,,,a2] (3f/ e f) | X[f,,,a2] (b/8 a) (,d ,b ,d ,a) |"
+38;B dur;74;Allegro;;;Mandora;Conc_4982;3/4;"(i/ h) i d b d | a/ (,b ,a ,b) ,,a1 | (,b ,a) ,b ,,a ,,,d ,,a | \
+,,,c/ ,b ,,a ,,,c ,,,,d1 | [a,,,d/] ,b ,,a ,b a d |"
+39;B dur;76;Menuet;;;Mandora;Conc_4983;3/4;"(3a/ b d) ,b1 [,b,c] | ([,d,d/] ,a) [,d,c2] | \
+[,,a,,a1] b/ ,d a ,a | ,b/ ,,a ,,,c ,,a ,,,,d1 |"
+40;g moll;77;Trio;;;Mandora;Conc_4984;3/4;"V[,,c,a1] (f/ e) (f a) | ([b,,a/] a) Vb2 | \
+(3,,,,,b/ ,a a) h/ ,d (,b ,a) | ([,b,,a/] ,a) (,,c ,,b) V,,c1 |"
+41;B dur;78;Gigue;;p. 80 empty, followed by two other empty page;Mandora;Conc_4985;6/8;"([,b,,d/] ,a) ,b ([,b,,c] ,a) ,b | ([,b,,a/] ,a) ,b ([,b,c] ,a) ,b | \
+([,d,d/] ,a) ,,a [,,a,,a] ,a ,d |"
+;;;[Sonata] No. X Gallichone solo Del Sig.r Brescianello;;;;;;
+42;F dur;82;Entrée;;;Mandora;Conc_4986;C;",d/ a | V[d,,,,a1] [,,a,a] [,,a,c] (3[a,,,,a/4] c d) | \
+'[c,,a1] ,,,c ,,,e 'c/ d | \
+(3[c,,a/4] d f) [,d,c1] [,d,e] (3[f,,a/4] h i) |"
+43;F dur;83;Menuet;;;Mandora;Conc_4987;3/4;"X[h,,,,a2] (3[f,,a/4] h i) | '[h,,,,a1] ,a ,,a | \
+[,i,,,a1] Vh '[f,,a] | V[h,,,,a1] ,a ,,a | \
+,,,,c/ ,d d1 X[b,,,,a] |"
+44;F dur;84;Allegro;;;Mandora;Conc_4988;2/4;",,a/ | [,d,e/] [,d,c] [,d,e] [a,,a] | V[d,,,,a/] [,,a,a] [,,a,c] [d,,,,a] | \
+([f,,a/4] d) (c a) (,d ,b ,a) ,,c |"
+45;F dur;86;Menuet;;;Mandora;Conc_4989;3/4;"[d,,,,a1] Xd2 | [f,,a1] ,d ,d | [f,,a1] Xf2 | V[h,,,,a1] ,,a ,,a | \
+[h,,,,a1] Xh2 | [i,,,a1] (i/ h) i1 | V[h,,,,a1] (h/ f) h1 |"
+46;f moll;87;Trio;;;Mandora;Conc_4990;3/4;"[,,a,,a/] ,,d ,d1 d | '[c,,a3] | [,,d,,a/] ,d d1 g | '[f,,a3] | \
+Vg1 ,,,f/ g ,,,,e g | 'f1 ,,,d/ f ,,,,a ,c |"
+47;F dur;88;Allegro Finale Capricio;;;Mandora;Conc_4991;3/4;"[,,a,,a/] ,a/4 (,,c ,,a/) ,,a [,,ae] ,,a | \
+[,,ac/] ,a/4 (,c ,a/) ,,a [,,a,c] ,,a | \
+[da,,,a/] (c/4 a) ,d/ ,b [,a,a] ,,c |"
+;;;[Sonata] No. XI Gallichone solo Del Sig.r Brescianello;;;;;;
+48;c moll;90;Allegro;;;Mandora;Conc_4992;2/4;",,c/ | ,d/ ,c ,d [a,,,a] | [b,,a/] [a,,,e] [b,,a] [d,,c] | \
+[f,,d/] d/4 b [a,,,,a/] ,d | [ac,,a/] ,,,,c ,,,,e [ac,,a] |"
+49;c moll;92;Andante;;;Mandora;Conc_4993;C;"(3f/4 ,g ,,h) | [fgha1] ,,,c ,,,d ([g,a/8] f) (d b) (a b d b a b) | \
+X[,c,,a1] ,,,,,a ,,,d/ ,d (a b) |"
+50;c moll;93;Menuet;;;Mandora;Conc_4994;3/4;"[,d,a1] b c | d1 e f | ,,,,a/ ,c a (g f1) | '[b,,a1] (a/ b) ,d1 | \
+g1 ,,,,f/ g ,,,,e g |"
+51;c moll;94;Finale Allegro;;p. 96 empty;Mandora;Conc_4995;2/4;"[fgha/] (g/4 f) [dc,c/] 'a/4 ,d | [,c,,a/4] a (f d) [c,,a] a) (,d ,b) | \
+[,,d,,a/4] ,d (d b) [a,,,d] ,d ,b ,,d |"
+;;;[Sonata] No. XII Gallichone solo Del Sig.r Brescianello;;;;;;
+52;C dur;97;Entrée Andante;;;Mandora;Conc_4996;C;",,c/8 (,a ,c ,d) a | V[c,,a3/2] a/ (c a) [f,,,a] ,c | \
+V[,d,,c1] ,,,,a/ ,,,,,a ,,,e1 [fh,a] | \
+,,,,,a/4 h ,i h ,,,,,a h ,i h"
+53;C dur;98;Allegro;;;Mandora;Conc_4997;3/4;"(3[f,,a/4] h f) (3[f,,a] h f) (3[f,,a] h f) | \
+'[f,,a1] (d/ c) ([a,,,,a] c) | '[,c,,a1] (,c/ ,d) a1 |"
+54;C dur;98;Menuet;;;Mandora;Conc_4998;3/4;"[f,,a1] [f,,,e] [f,,,a] | '[c,,a1] (a/ c) ,d1 | \
+,,,a/ f ,,,,e f ,,,,a f | '[c,,a1] (a/ c) ,d1 |"
+55;C dur;99;Gavotta;;;Mandora;Conc_4999;C;"[,,ca1] ,d '[,c,,a] ,a/ ,,c | [,d,a/4] (a c) ([a,,,a] c d) '[c,,a1] ,d | \
+,,,,c/ d ,,,,a c ,,,,,a h ,,,e f |"
+56;C dur;100;Gigue;;;Mandora;Conc_5000;6/8;",,c/4 ,a | V[,d,a/] ,,c ,d [,d,a] ,,c ,d | \
+[,d,a/] ,,c ,,,e ,,,a1 ,,c/8 (,a ,c ,d) a | \
+[c,,a/] ,d c [c,,a] ,d c |"
+;;;[Sonata] No. XIII Gallichone solo Del Sig.r Brescianello;;;;;;
+57;F dur;102;Aria;;;Mandora;Conc_5001;C;"(,a/4 ,b ,d) | [,,a,,a1] d [d,,,c] [f,,,d] | \
+'[c,,a1] [d,,,,a] y (3,a/4 ,b ,d) | \
+,,,,,a1 h [h,,,,a] [i,,,a] |"
+58;F dur;102;Menuet;;;Mandora;Conc_5002;3/4;",,,,,a/ (l h1) ,i | ,,,,,a1 [c,,,a] [d,,,c] | \
+,,,,,a/ (l h1) ,i | ,,,,,a1 [c,,,a] [d,,,c] | \
+(3,,,,,a/ h ,i) a1 ,d |"
+59;d moll;103;Trio;;;Mandora;Conc_5003;3/4;,,,c/4 a a/ ,,,e a a ,,a a a | ,,c/4 a a/ ,,e a a ,,f a a |
+60;F dur;104;Cantabile;;;Mandora;Conc_5004;2/4;",,,,,a/ ,,e ,d d | ([d,,a1] c) | ,,,a/ ,h f (3f/4 h i) | \
+([i,,,,a1] h) | ,,,,,a/ ,i h (3h/4 i l) |"
+61;F dur;106;Fuga;;p. 108 empty;Mandora;Conc_5005;6/8;"d1 ,,a/ ,a ,,c ,,a | ,d1 ,,,a/ ,,,e ,,,c ,,,a | \
+([,b,c/] ,a) ,b ([,b,e] ,a) ,b | \
+'[,a,,,a1] ,,,,a/ ,,,,c ,,,,a ,,,,,a |"
+;;;[Sonata] No. XIV Gallichone solo Del Sig.r Brescianello;;;;;;
+62;G dur;109;Entrée Marche;;;Mandora;Conc_5006;2/4;"[,,c,a/] [,,c,a3/8] [,,c,a/8] [,,c,a/] f | \
+'[a,,,a3/8] ,c/8 V[d,,,a3/8] ,a/8 V[,c,,a/] f | \
+'[a,,,a/4] a/8 ,c V[,d,,,a/4] ,d/8 ,a \
+V[,c,,a/4] ,c/8 ,,c '[,a,,,a/4] ,a/8 ,,b |"
+63;G dur;110;Capricio;;;Mandora;Conc_5007;3/4;",,,,a/ ,,c ,c a ,,,,a f | ([e,,,,a/8] f h f e) (,h ,f/4 ,h) e V[f,,,f] | \
+[c,,a/] (3c/4 d f) ,d/ (3,d/4 a c)"
+64;G dur;110;Gavotta;;;Mandora;Conc_5008;C;"[,,c,a1] f '[e,,,,a2] | [c,,a1] (3c/4 a ,d) [ad,,e2] | \
+[,d,,c1] (3[,d,,,a/4] ,c ,a) [,c,,a1] [,,c,e] | \
+'[,a,a1] ([,,c,,a/] ,,b) V[,,c,a2] |"
+65;G dur;111;Menuet;;;Mandora;Conc_5009;3/4;",,,,a/ ,c ,,,,c ,d ,,,,e a | [,d,,c1] (3[,a,,,a/4] ,c ,d) [,c,,a1] | \
+,,,,,a1 ,,,,c/ ,d ,,,,a ,c | '[,a,,,a1] (,,c/ ,,b) [,,c,a1] |"
+66;G dur;112;Gigue;;;Mandora;Conc_5010;6/8;"a/ | [f,,,a1] [a,b/] [,cc1] [,,bc/] | [,,c,e1] [,a,,,e/] [,c,,a1] [,d,,c/] | \
+[a,,,e3/4] c/4 a/ [,d,,c] a [,c,,a] | \
+'[,ab,,a1] ,,,,,c/ ,,,,,e1 [aab,,a/] |"
+;;;[Sonata] No. XV Gallichone solo Del Sig.r Brescianello;;;;;;
+67;g moll;114;Allegro;;;Mandora;Conc_5011;C;"y/ [,,c,a/] [,,c,a] [,,c,a] [,,c,a] [,,c,a] ,,c/4 (,a ,b ,d) | \
+a/ [a,,,,d] [a,,,,d] [a,,,,d] [a,,,,d] [a,,,,d] a/4 c (e a) |"
+68;g moll;116;Menuet;;;Mandora;Conc_4860;3/4;"[fffa1] ,f ,f | [fff,a1] ,f ,f | ([b,,a/] a) (,d ,b) ,a ,,c | \
+[,,b,,a1] ,,c ,,,,a | [fff,a1] ,f ,f | [fff,a1] ,f ,f |"
+69;G dur;117;Trio;;;Mandora;Conc_4849;3/4;",,,,a/ ,,c ,c ,,c a ,,c | [c,,a1] [a,,,e] [,d,,c] | \
+'[,c,,a1] ,a [,,ca] | '[,,b,,a1] ,,c/ ,a ,,,c1 |"
+70;g moll;118;Bourée;;;Mandora;Conc_5012;C;"a1 | [,,c,a1] V,,c [b,,a] [a,,,d] | [,,c,a1] V,,c ,,,c [,ab,,a] | \
+V[,b,,a1] ,a/ ,,c [,d,,c1] (,b/ ,a) | \
+[ab,,d1] [,d,a] '[,a,c] ,b |"
+71;g moll;119;Menuet;;;Mandora;Conc_5013;3/4;"[,,c,a1] V,b/ ,d a1 | V[b,,a1] [ab] [ab,,d] | \
+([,d,,c/] ,a) [,b,,a] ,,c [,a,a] ,,b | ,,,c1 a/ ,d a1 |"
+72;g moll;120;Gigue;;p. 122 and 2 unnumbered pages empty;Mandora;Conc_5014;6/8;"([,,c,a/] ,,b) ,,c (,b ,a) ,b | [a,,,a/] ,d a (f e) f | \
+([i,,,a/] h) i ([h,,a] i) ,l |"
+;;;[Sonata] No. XVI Gallichone solo Del Sig.r Brescianello;;;;;;
+73;d moll;123;Entrée;;;Mandora;Conc_5015;2/4;"[aaa,,a/] ,a [,a,b/4] (,,c ,,a) ,,,e | '[,,a,,a/] ,,,e/4 ,,a ,,,c ,a ,c ,e | \
+[aaa,,a/] a/4 ,e (3a c d) ([c,,,a/4] a) |"
+74;d moll;124;Menuet;;;Mandora;Conc_5016;3/4;",,,,,a/ ,,a ,a a ,,,,c ,e | [ae,,,d1] ,a [a,,,,a] | \
+,,,b/ c ,a c ,,,,b c | V[d,a,,,a1] d 'a/ ,e |"
+75;d moll;125;Siciliana;;;Mandora;Conc_5017;6/8;"[aaa,,a3/4] c/4 a/ [haa,,a] 'd 'a | [,e,,c3/4] a/4 c/ ,a ,,,e ,,,,c | \
+[,,cb3/4] ,a/4 ,,c/ [c,,b] ',e ',a |"
+76;d moll;126;Gigue;;;Mandora;Conc_5018;6/8;",,,,,a/ ,a a (d c a) | V[c,,b3/2] a | \
+,,,,c/ ,e c (f d c) | V[d,,,,a3/2] a | \
+,,,,,a/ (h f) (d c a) |"
+;;;[Sonata] No. XVII Gallichone solo Del Sig.r Brescianello;;;;;;
+77;Es dur;128;Aria;;;Mandora;Conc_5019;C;",b1 | [bbc,,a3/2] b/ [a,d,,c] b ,d a | \
+[bbc,a1] ,,,,a/ ,,,,,c ,,,,,a1 f | \
+(3[d,,c/4] b a) (3a ,c ,b) (3,b ,,d ,,c) [,,d,d1] |"
+78;Es dur;130;Bourée;;;Mandora;Conc_5020;C;",b1 | '[,,c,,a1] (,,c/ ,,d) ,b1 b | \
+'[a,,,d1] ,d/ a ,b1 [b,,,a/] ,b | \
+,,,,b/ ,d ,,,,a ,b ,,,,,c ,,d [,b,,d1] |"
+79;Es dur;131;Menuet;;;Mandora;Conc_5021;3/4;"[,b,,,a1] b f | '[d,,,d1] (b/ a) [b,,,,a1] | \
+,,,,b/ ,d ,,,,a ,b ,,,,,c ,,d | '[,,c,,a1] ,,a/ ,,c ,,,d1 |"
+80;c moll;131;Trio;;;Mandora;Conc_5022;3/4;"[fg,a1] [fg,a] [fg,a] | [fg,a1] (d/ b a) ,d | \
+([b,a/] a) ,d1 '[,c,,a] | V[,d,a3/2] ,,c/ ,a ,c | \
+V[,d,a3/2] ,,c/ ,d a |"
+81;Es dur;132;Rigaudon;;;Mandora;Conc_5023;C;"[fg1] | [fg,,,a2] '[d,,,d] | ([b,,,,a/] a) b1 'b ,b | \
+[,bc,,a2] '[,,d,d] | ([,,c,,a/] ,,a) ,,c1 ',,c [,b,,a] | \
+[,d,,b1] Vb b [,d,,b] |"
+82;Es dur;133;Menuet;;;Mandora;Conc_5024;3/4;"[,bc,,a1] b b | ([b,,,,a/] a) b1 'b | [,bc,,a1] f f | \
+([f,,,,a/] d) f1 'f | ([,,c,,a/] ,,d) [,bc1] [,bc] |"
+83;Es dur;134;Gigue;;;Mandora;Conc_5025;6/8;",b/ | [bbc,,a3/2] [,bc] | (,,c/ ,,a) ,,c ,,,d1 ,b/ | \
+[b,,,,a/] ,b b [d,,c] ,b d | ([f,,,,a/] d) f b1 [f,,,,a/] |"
+;;;[Sonata] No. XVIII Gallichone solo Del Sig.r Brescianello;;;;;;
+84;Es dur;136;Aria;;;Mandora;Conc_5026;C;",b1 | [bbc,,a1] ,b [,b,,d/] b (3,b/4 ,,d ,,c) | \
+X[,,c,,a1] ,,,,,a/ ,,,,,c ,,,,a1 ,b | \
+[,d,,b/] b [b,,,b] ,d [,d,,b] b [b,,,b] ,d |"
+85;Es dur;137;Bourée;;;Mandora;Conc_4950;C;",b1 | ',,c1 ,,a/ ,,c ,,,d1 (3a/4 b d) | \
+'[a,,,d1] ,d/ a ,b1 [b,,,a/] ,b | \
+,,,,b/ ,d ,,,,a ,b ,,,,,c ,,d ,b1 |"
+86;Es dur;138;Menuet;;;Mandora;Conc_5027;3/4;"[,b,,,a1] X,b2 | ,,,,b1 (,d/ ,b) ,d1 | [ab,,d1] 'a (',b/ ,d) | \
+V[b,,,,a1] (b/ a) b1 | [d,,c1] Xd2 | \
+V[f,,,,a1] (f/ d) ,,,,a b |"
+87;Es dur;139;Rigaudon;;;Mandora;Conc_5028;C;",b1 | [bbc,,a2] [,bac] | '[,,c,,a1] (,,a/ ,,c) ,,,d1 ,b | \
+V[b,,,,a1] (b/ a) b1 [d,,c] | [f,,d1] (f/ d) f1 [,b,,a] |"
+88;Es dur;140;Menuet;;;Mandora;Conc_5029;3/4;"V[,g,,,a1] (i/ g) i1 | V[,g,,,a2] [,b,,a1] | \
+[,d,,b1] V,d '[a,,,d/4] ,d a/ | V[b,,,,a3/2] f/ ,,,d f | \
+,,,c/ d ,,,a b ,,,,d a |"
+89;c moll;141;Trio;;;Mandora;Conc_5030;3/4;"[b,,a1] Xb2 | ,,,,e/ a (f e) f1 | '[b,,a1] [a,,,d] [,d,,b] | \
+'[,c,,a1] ,d/ a ,,c1 | [b,,a1] Xb2 | [ab,,d1] ,,b ,,c |"
+90;Es dur;142;Menuet;;;Mandora;Conc_5031;3/4;"(,b/ ,d) a | [bc,,a1] b/ b b b | ([d,,,,a/] b) (a b) ,b b | \
+,,,c/ (d b) d ,b d |"
+91;Es dur;143;Gigue;;;Mandora;Conc_5032;6/8;",b/ | ([,,c,,a/] ,,a) ,,c (,,a ,,c) ,,,d | \
+,,,c/ ,,a ,b ,,,,d1 a/ | ([b,,a/] a) b ,,,,c ,d d |"

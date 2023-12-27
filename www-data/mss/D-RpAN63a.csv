@@ -1,0 +1,58 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+;;;All taken from Pietro Prosser's thesis (1996);Alles Pietro Prossers Thesis entnommen;;;;;
+1;;1;sans titre;;;Mandora;;2/4;"[,c,,a/] [,cc] [,cc,a] ([,d,a/4] ,a) | \
+[,,c,,a/] (,a/4 ,c) ([,d,a] ,a) [,,c,,a] ,,b | y y y"
+2;;1;E Cosa rare;;;Mandora;;3/4;"[,cc,a1] ,c ,c | [,db,,a1] [,db] [,db] | \
+[ac,,a1] [ac] f | y y y"
+3;;1;sans titre;;;Mandora;;3/4;"[cd,a2] f1 | [cd,a2] f1 | ([dc,,a/] a) f1 d | [c,,a1] ,d ,d | \
+y y y"
+4;;2;Allegro;;;Mandora;Conc_5049;C;",,,,,a/ (b a) ,d ,b ,,d (,,c ,,a) | \
+,,,d1 (,,,c/ ,,,a) ,,,,d ,,,,b ,,,,a ,,,,,c |"
+5;;3;Hanﬂwurst. Allemand;;;Mandora;Conc_5050;3/8;[,dc,,a1] (,,c/4 ,,d) | [,bd,,a/] ,,c ,,,d | y y y
+6;;3;Trio [Die Lisel mit][cancelled];;;Mandora;Conc_5051;3/8;[,d,a/] ,,c b | [,d,a/] b f | y y y y y
+7;;4;Arlequin;;;Mandora;Conc_5052;2/4;[,bc,,a] [,dd,,a] | [,bc,,a/] [,bc] [,bc,,a] ,,,a/4 b | y y y
+8;;4;Trio;;;Mandora;Conc_5053;3/4;V[,d,a/] ,,c ,,,d ,,,a | V[,d,a/] ,,c ,,,d ,,,a | y y y
+9;;5;Columbina;;;Mandora;Conc_5054;3/4;"(f/ g) | ([i,,,,a/] a) V[b,,,,a1] (f/ g) | \
+([i,,,,a/] a) Vb1 [bb,,a] | y y y"
+10;;5;Trio;;;Mandora;Conc_5055;3/4;"[f,,,a/] ,c | V[,d,a1] ,d [a,,,a/] ,c | \
+V[,d,a1] V,d [f,,,a/] ,c | y y y"
+11;;6;Der Petterl mit dem Bock;;;Mandora;Conc_5056;3/8;([b,,,,a/4] a) (d a) Vb/ | ([b,,,,a/4] a) (d a) Vb/ | y y y
+12;;6;Die Lisel mit der Leier;;;Mandora;Conc_5057;2/4;[,g,,,a/] ,i f g | [i,,,,a1] f/ ,g | y y y y y
+;;;Ballet mit Hanﬂw. u Col.;;;;;;
+13;;7;Hanﬂwurst;;;Mandora;Conc_5058;3/8;[,,c,,a/] ,b ,,c | [,,d,,a/] ,d ,,d | y y y y y
+14;;7;Columbina Solo;;;Mandora;Conc_5059;3/8;V[,d,a/] b ,d | Vf1 ,,,,a/ | y y y y y y
+15;;8;Men.;;;Mandora;Conc_5040;3/4;[,d,a1] a c | ,d1 a c | y y y y y y
+16;;8;Men.;;;Mandora;Conc_5040;3/4;[,d,a1] a c | [,d,a1] a c | y y y y y
+17;;8;Men.;;;Mandora;;3/4;",,,a1 | [,,a,,a1] ,a ([,a,,,a/] ,d) | \
+([,d,,a/] ,b) ,,c1 ,,,a | y y y"
+18;;9;Trio;;;Mandora;;3/4;"(,a/ ,d) | ([,d,,a/] ,b) ,b ,,c [,,ca] ,b | \
+[,a,,,a1] ,,a (,a/ ,d) | y y y"
+19;;9;Aria;;;Mandora;;3/4;[,aa,,a1] [,aa] [,aa] | [,bc,,a1] [,aa] [,bc] | y y y
+20;;10;Aria;;;Mandora;;2/4;V,,c/ | [,d,a1] [ac,,a] | [cd,a/] [da] ,,,,a [ac] | y y y
+21;;10;Allegretto;;;Mandora;;2/4;V,d/ | [,d,a/] c [c,,a] f | [f,,,a1] [ac,,a] | y y y
+22;;11;Trio;;;Mandora;;2/4;b/ | [b,,a/] a [,d,,a] ,c | V[,d,a/] ,,,,a ,,,a b | y y y
+23;;11;Balletto;;;Mandora;Conc_5042;2/4;V[,,c,a/] ,,c [cab,a] [cab] | [,cc,a/] [,dd] [,,c,a1] | y y y
+24;;12;Men.;;;Mandora;;3/4;[f,,,a3/2] a/ f a | [k,,,a1] f a | y y y
+25;;12;Trio;;;Mandora;;3/4;"""f""[cd1] ""p"",,,a ,,,a | ""f""[fh1] ""p"",,,a ,,,a | y y y"
+26;;13;Tanz;;;Mandora;;3/8;[ac,,a/] (a/4 c a/) | ([f,,,a/] a) a | y y y y y
+27;;13;Trio;;;Mandora;;3/8;[cd,a1] [cd/] | [cd,a1] [cd/] | y y y y y
+28;;14;Menueto;;;Mandora;;3/4;"([f,,,a/] a) [a,,,a] ,c [,c,,a] ,,c | \
+([,,c,,a/] ,,b) ,,b1 ,,,,,a | y y y"
+29;;14;Trio;;;Mandora;;3/4;[,d,a/] a c1 d | X[f,,a2] h1 | y y y
+30;;15;Tanz;;;Mandora;;3/8;[,,ca/] (,,c/4 ,,e ,,c/) | ([,d,a/] ,c) ,d | y y y
+31;;15;Trio;;;Mandora;;3/8;[ac,,a3/4] c/4 a/ | V[f,,,a1] a/ | y y y
+32;;16;Men;;;Mandora;;3/4;[,d,a/] (,c ,d) a c ,d | [a,,,a1] ,c ,,c | y y y
+33;;16;Trio;;;Mandora;;3/4;V[,d,a1] c c | [aa,,,d1] Vd Vd | y y y
+34;;17;Tanz;;;Mandora;;3/8;V,,c/ | [,d,a1] ,d/ | ([,d,a/] ,c) ,d | y y y
+35;;17;Tanz;;;Mandora;;3/8;[ac,,a/] (a/4 c a/) | V[f,,,a1] ,c/ | y y y
+36;;18;Allegretto;;one tone lower;Mandora;Conc_5060;6/8;"V,,d/ | [,d,a/] ,c ,d '[a,,,a] ,d a | [cd,a3/2] [ac,,a1] d/ | \
+y y y"
+37;;18;sans titre;;one tone higher;Mandora;Conc_5060;6/8;",a/ | [aa,,,a/] ,e a '[ca] a c | '[ea,,,a3/2] [ce,,c1] f/ | \
+y y y"
+38;;19;Angloise;;;Mandora;;2/4;[,d,a/4] a c ,d | '[,c,,a/] ,,c [,c,,a] ,,c | y y y
+39;;19;Contr.D.;;;Mandora;;2/4;"[,,c,a/] ,c/4 ,,c [,ab,,a/] [,ab] | \
+[,,c,a/] ,c/4 ,,c [,ab,,a/] [,ab] | y y y"
+40;;20;Menuet;;;Mandora;;3/4;V,,c1 | [,d,a1] ,c ,d | [ac,,a1] ,d a | y y y
+41;;20;Menuet;;;Mandora;;3/4;Vf1 | [ac,,a2] ,c/ a | [,d,,c1] ,d [,d,,,a] | y y y
+42;;20;Aria;;;Mandora;;2/4;"a/ ,d | '[,c,,a/] ,c ([f,,,a/4] a) ,d ,c | \
+[,cc,,a/] [,ab,,a] ,,,,,a [,d,a/4] c | y y y"

@@ -1,0 +1,187 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;1r;[Gailliard];;;cittern;;3;"[daa3/2] c/ d f | [gaa1] f d | [fdf3/2] g/ f d | [fdf1] ,d2 | \
+[dad3/2] ,,c/ ,,a1 | [,aad1] ,,,b/ ,,d ,,c ,,a |";french4tab
+2;;1r;[Gailliard];;;cittern;;3;"[cacd3/2] d/ [cacd1] | ,,,d1 ,,,b/ ,,d ,,c ,,a | [cacd3/2] d/ [cacd1] | \
+,d/ ,b ,,,d ,,,b ,,d1 | [dad/] ,b d b [dbab1] |";french4tab
+3;;1r;[Gailliard];;;cittern;;3;"d/ f [gaa] ,d ,f g | [ffh1] [feh2] | [gfa/] i l ,h ,i l | \
+[iil1] [ihl2] | [lil1] m/ l [ifi1] |";french4tab
+4;;1v;Marigold Galliard;;;cittern;ConcR765;3;"[cac3/2] [dad/] ,,a1 | [cac3/2] ,,,b/ [dad1] | [fdf1] ,d/ g [daa1] | \
+[cac2] ,,,d1 | [fdh1] [lil] [ihl] | [gfa1] ,,b [feh] |";french4tab
+5;;1v;Mr. Birds Galliarde;;;cittern;ConR174;3;"[daa1] [gaa] [feh] | [dad1] ,,a [cac] | [dad1] [ieh] [gfa] | \
+[fdh3/2] ,,f/ [lfdd1] | [icc1] [fe] [gfa] | \
+[fdhd1] ,a/ g [fhf] d |";french4tab
+6;;2r;Sprignals pauen;;;cittern;;C;"[dbab/] ,,,b [dbab] ,a [dbab] ,,,b d f | [gea/] ,,c [bad] d [ed] ,,f [db] ,,f | \
+d/ ,,d ,a d";french4tab
+7;;2r;Walter Erles pauen;;End on f. 3r bottom;cittern;ConcR3535;C;"[daaa3/2] f/ [haaa1] [ifff] | [feg/] ,a/4 h f ,f ,e ,c [feh/] ,a [hf] [ih] | \
+[lka3/4] n/4 [lk/] [ih]";french4tab
+8;;2v;Passmeas[ures] A. Holb.;;;cittern;ConcR3095;C;"d/ f | [gaa3/4] ,f/4 ,e/ ,c [feg/] ,f f ,e | \
+[daa/] f/8 d c d f/ ,e [fga] [ih] [li] [nl] |";french4tab
+9;;3v;A Fancy Dedicate to the Lo. Borough. A: Holb.;;;cittern;ConcR3157;C;",a2 ,c/ ,e ,f ,c | ,e1 ,a ,c ,e | ,f2 ,,a/ ,e/4 ,c ,a/ c | \
+[,ec/] ,,e [,cf] ,,c [,ae]";french4tab
+10;;4r;Mr Heysis Galliard;;;cittern;;3;"[daaa3/2] ,a/ ,b ,d | ,f1 ,,a/ ,a ,b ,d | z1 ,,d/ ,,b ,b ,d | \
+,b/ ,,,d ,,,b ,,,d [dbbb] ,d |";french4tab
+11;;4r;Robinsons Fancy;;See f. 23v (1, var);cittern;;C;"l1 l/ l l1 o/ n | [la1] ,a/ [ia/4] g [fd1] [fd/] ,c | \
+[ga1] [da/] ,,f/4 ,,d [cac1] [fac] |";french4tab
+12;;4v;Pipers Galliard Jo Dowland. Tho. Robinson;;;cittern;ConcR61;3;"[daa1] g m | [lfa1] ,i ,o | [gna1] ,,d/ g [fb] d | \
+[ca3/4] d/4 f/ ,,f ,,e d | [dbab/] ,,d [dac] ,,a [cac1] |";french4tab
+13;;4v;Ye Old hunt is up;;;cittern;;3;"[daaa1] f/ [haa3/4] k/4 l/ | [daa1] f/ [haa3/4] k/4 l/ | \
+[ih1] [hf/] [fe1] [dc/] | [cac1] a/ [ca3/4] d/4 f/ |";french4tab
+14;;5r;My lo Boroughs Galliard;;;cittern;ConcR109;3;"[ifh1] [ifh] h | [ifff1] i/ [gf] [ed1] | [dbd1] ,,b/ d b | \
+[daaa1] [daaa2] || [,bab1] [badd] [dbd] | [eddb1] ,b/ d b ,b |";french4tab
+15;;5v;Go from my window;;;cittern;ConcR42;C;"[daaa1] [daaa/] f [hfh1] [feh] | [daaa1] ,a ,,a h | \
+[fcc1] f/ ,,e ,,f f [ece1] | [fccc1] ,c ,,c2 |";french4tab
+16;;5v;Willsons Wylde;;;cittern;ConcR32;3;"[daaa1] ,a/ ,,e ,,a ,,f | ,,e ,,c ,,a [cac1] [cac/] | \
+[daaa1] ,a/ ,,e ,,a ,,c | [cac/] a c [daaa3/2] ||";french4tab
+17;;6r;Sick Sick;;;cittern;ConcR313;C;"[,aaa1] [daaa] [cac3/4] d/4 f/ ,e | [haaa/] l ,k [ih] [haaa1] [nln] | \
+[laaa3/4] i/4 h/ f/4 h i/ ,h [cac] ,,,d |";french4tab
+18;;6r;Grimstock;;;cittern;ConcR323;3;"[daaa1] ,a/ [daaa1] ,a/ | [acab/] c [daaa] [cac1] ,,,d/ | \
+[daaa1] ,a/ ,,,a ,,,b ,,,d | ,,,b/ ,,,d ,,,a [cac1] ,,,d/ |";french4tab
+19;;6v;Mr phs toy;;Muscodin;cittern;ConcR349;C;"[gddd1] [fdf/] d/4 f [gddd/] ,,d1 [dbd/] | \
+[badd/] [,bab] ,a ,,,b ,a X,,d3/2 || \
+[gddd/] f/4 d [fdf] g d f [gddd/] ,,d1 [dbd/] |";french4tab
+20;;6v;Prety Nancy;;;cittern;;C|;",a/ | [daa/] ,a ,,,a ,a | [feg3/2] [feh/] | [daaa/] [cac] [daaa] [fe] | \
+[hfk3/2] [hkh/] | [feh/] f [haa] d | [feh/] ,e ,,h a/4 c |";french4tab
+21;;6v;Conceipte Rob Ascue;;;cittern;;C|;"[haa/4] i l/ [ih] [hf] | [lhgi1] [feh] | [haa/4] i l/ [nl] [pn] | \
+[gaa1] #d | [haa/4] i l/ [ih] [hki] |";french4tab
+22;;7r;A Gigge;;;cittern;;C|;"[daaa/] [acab] [bac] ,,,d | [daaa/] [acab] [daaa1] | \
+[daaa/4] a [acab] d b ,,c ,a b | [daaa/4] a ,,,b f [daaa1] ||";french4tab
+23;;7v;The Olde Meddly;;;cittern;;C;"[fdcd2] [fdcd1] [fdcd] | [fcc3/4] ,,,d/4 ,,,c/ ,,e [fccc1] [fdcd] | \
+[gaa1] [fdf] [dcf/] ,d [ddf] ,c | \
+[fdf3/4] g/4 f/ d [fdf1] [fdf] |";french4tab
+24;;8r;[Gailliard];;;cittern;ConcR3540;3;"[lhhh3/2] f/ [gfa1] | [feh3/2] ,a/ [gfh] i | [lhhh3/2] f/ [gfa1] | \
+[feh1] ,a2 | [kik/] i [gfi] ,,h [ifh] [gf] |";french4tab
+25;;8r;[Nowells Galliard];;;cittern;;3;"[lka1] [ifff] [feh] | [hfh3/2] f/ [hfa] i | [lkn1] [ifff/] h [feh1] | \
+[daaa/] a/4 c d c a c [daaa1] |";french4tab
+26;;8v;lullaby;;;cittern;ConcR679;3;"[laaa2] [ifff1] | ,f1 [ffh] [fe] | [hfa1] ,a/ a/4 c d/8 c d c d c a c | \
+d/ ,,a ,a h f d |";french4tab
+27;;8v;[A Ground];;;cittern;;C;"[daaa3/4] c/4 d/ f [hfh] ,f i ,h | \
+[lka/] k/4 l [ifff/] [hf] [feh] h/4 i l ,,a ,a k |";french4tab
+28;;9r;Allmayne. Ant: Ho[lb];;;cittern;ConcR1239;C|;"l1 | [nln/] p q1 | [pnp1] [nl] | [lkn1] ,a | ,,a3/2 [ih/] | \
+[hfh/] i [lkn1] | [ihff1] [hf] | [feh1] ,a | ,,h3/2 h/ |";french4tab
+29;;9v;Tres Choses;;;cittern;;3;"[daaa3/2] f/ h i | l1 [ih] [hf] | [feh1] ,a/ h f ,f | \
+[feh1] ,a h | [ifff2] [hfa] [ffh1] [feh] |";french4tab
+30;;10v;[The ]Quadro[ Pauen];;;cittern;;C|;"a/ c | [daaa3/2] ,,a/4 ,,c | ,,,a/4 ,,,b ,,,d a [cac] d ,,,b c | \
+[daaa/] ,d/4 ,c ,a ,,,b ,,,a ,,,c |";french4tab
+31;;12r;Galliard. Ant:Hol[b];;;cittern;ConcR3538;3;"[accb1] [acba] ,a | [accb3/2] ,a/ [accb] c | [dcaa1] [fdf/] ,c [fd] ,a | \
+[ece3/2] f/ h1 | [irr1] [fdh] [hp/] ,,,g |";french4tab
+32;;12r;Galliarde Mr Ro: Knolles;;;cittern;;3;"[daa3/2] d/ [cac1] | [daaa1] ,a2 | [daaa3/2] d/ [feh1] | \
+[hfa1] ,a2 | [haa3/2] ,f/ [ihl1] | [lka3/2] ,k/ [nff1] | \
+[lkn3/2] ,,l/ [ihe1] |";french4tab
+33;;12v;y Queenes Galliard;;;cittern;ConcR3539;3;"b/ d | [fdh3/2] d/ [bacd1] | [daaa/] b [accc] ,a ,c1 | \
+[cac1] ,a/ d c a | [cac1] ,a b/ d |";french4tab
+34;;13r;Holburnes Allmayne;;;cittern;ConcR3542;C;"[daaa1] [daaa/] f h1 [feh] | [hfaa1] [ih] [lkn] o | \
+[nln1] [lkn] [ifff] [hfh] | [feh2] [feh1] [hfh] | \
+[ihl3/2] l/ [ihl1] [hfh] |";french4tab
+35;;13v;Passemeasures Pauen / Anth: Holburne;;"cont'd on f.15r; ff.14r-14v missing";cittern;;C;"d/ f | [gaa3/2] f/ [daa] g f/4 d [feh/] | \
+[dad3/2] ,,c/ ,,a ,,,d ,,,b/4 ,,d ,,c ,,a |";french4tab
+36;;15v;Fantasia. Anth: holburne;;;cittern;;C;"d2 d1 f | h1 i l ,a/ i/4 h | [fa1] ,c/ d [fe1] [hf] | \
+[ih1] [la] ,,a/ i [hf] [fe] |";french4tab
+37;;16r;An Allmaine. Ant: Ho[lb];;;cittern;;C;"[daaa1] ,,a/ f [hfa1] [ih] | [lka1] [nl] [on/] ,l ,k o | \
+[nlk1] q [pnp] n | [lka/] ,h ,k ,l [lka1] q |";french4tab
+38;;16v;[Passemeasures Pavan. A. Holborne];;;cittern;;C;"d/ f | [gaaa3/4] ,f/4 ,e/ ,c [feh] ,f f ,e | \
+[daaa/] f/8 d c d f/ ,e [gfa] [ih] [li] [nl] |";french4tab
+39;;17r;Passemeasures Pauen. Anth: Holburne;;;cittern;;C|;"d/ f | [gfa/] ,d/4 ,f ,a/ ,d | [gba/] ,a g/4 ,,f ,,d ,,c | \
+[,aa/] [d,d] [ba] [bac] | [dad/] [fdc] [gda] ,c |";french4tab
+40;;17v;Quadren Pauen. Robt Pryme;;;cittern;;C|;"d/ f | [hfa3/4] f/4 h/ [ih] | [lka/] [nl] [lk] [ih] | \
+[hfh1] [daaa] | [fdf/] i [hfh] ,,,g |";french4tab
+41;;18r;My Lord Burrou[gh's] Galliard;;;cittern;ConcR109;3;"[ifi1] [ifh] [hfh] | [ifff1] ,f/ g [edf1] | [daa1] ,,b/ d [bab1] | \
+[daaa3/2] d/ [daaa1] | [daaa1] [dbab] ,d/ d |";french4tab
+42;;18v;[Quadro Pavan];;;cittern;;C;"a/ c | [daaa/] c/4 a ,a/ ,,a/4 ,,c | ,,,a/4 ,,,b ,,,d a [cac] d a c | \
+[daaa/] c/8 a ,a/4 a/8 c";french4tab
+43;;19r;Callino Robinson;;;cittern;;3;"[daaa3/2] f/ [haaa1] | [haaa3/2] i/ [haaa1] | [ifff2] [ifff1] | \
+[haaa3/2] f/ [daaa1] | [fccc2] [fccc1] | [fccc3/2] h/ [fccc1] | \
+[ece3/2] f/ [ece1] |";french4tab
+44;;19r;[Staines Morris] T.R[obinson];;;cittern;ConcR3096;C;"[feh1] l [haa] [khk] | [la1] i/ h [feh1] [haaa] | \
+[ifff3/2] h/ [feh1] [daa/] b | [accc/] ,a [accc1] [cac2] :||:";french4tab
+45;;19v;Primero;;;cittern;ConcR101;C;"[laaa2] [laaa1] [laaa] | [hfa3/4] f/4 h/ [ih] [lkna] i [hfaa1] | \
+[nff3/2] [la/] [ic] ,e [hf] ,,a | [fa/] c/4 a c/ ,,f";french4tab
+46;;20r;Mask. T.R[obinson];;;cittern;Conc_4408;C;"[daaa1] [daaa/] d [daaa1] [feh] | [haaa3/2] i/ [haaa1] | \
+[laaa1] [laaa/] l [laaa1] [ifff] | [haaa3/2] i/ [haaa1] | \
+[haaa1] [haaa/] h [haaa1] [haaa] |";french4tab
+47;;20v;An allmane;;;cittern;;C;"[daaa3/2] d/ c1 a | [cac3] ,,f1 | [dae1] [daaa] [dac] [cac] | \
+[daaa3] l1 | [haaa/] i [la1] [ifff/] ,,,h [hfaa1] |";french4tab
+48;;20v;Tinternell;;;cittern;;C;"b/ d | [fdf1] [fdf] [dcf] [ba] | [accc3/4] ,d/4 ,c/ ,a [,ccc1] [ac] | \
+[bad/] d b ,,c [gaa] ,c/4 ,a ,d/ ,c |";french4tab
+49;;21r;Medley;;;cittern;;C;"[fdh2] [fdh1] [fdh] | [fccc2] [fccc1] [fdh] | [gaaa/] ,c [fdf1] [ddf] [dcf] | \
+[fdf3/2] ,c/ ,a1 [fa] | [ifff3/2] g/ [fdf1] [dcf] |";french4tab
+50;;21v;Passemesures Robinson;;;cittern;;C;"d1 ,a/ f [gaa] ,f [fe] ,,h | [gf/] i [lia] ,,c [dad] [cf] [ba] [dc] | \
+[fd/] g i ,f ,h [gf] [fd] [dc] |";french4tab
+51;;21v;[A Toy] T R[obinson];;;cittern;ConcR369;3;"[feh/] l [khk] [lhhh] ,h [haaa] | [dcaa/] a [fccc] [cacd] ,,,d1 :||: \
+[dcf/] i [haa] [ifff] ,f n |";french4tab
+52;;22r;Galliard T.R[obinson];;;cittern;;3;"[lin3/2] ,l/ [lin1] | [lhl1] [gfi] [if] | [lhhh1] ,,h2 | \
+[lil1] [ifff] [feh] | [gaa3/2] i/ [gf1] | [fd1] [db/] g f d |";french4tab
+53;;22r;[The Hunt's Up] T:R[obinson];;;cittern;;3;"[daaa1] [daaa] [feh] | [haaa3/2] i/ [laaa1] | [daaa/] f h d [dac] c | \
+[daaa/] f h i [kaaa] [kl] |";french4tab
+54;;22v;Galliard delight;;;cittern;Conc_4441;3;"d/ f | [lia3/2] ,l/ [lia1] | [lll1] [gfi] i | [lhhh3/2] i/ [gaa1] | \
+[ihl3/2] l/ [gf/] i | [lhhh3/2] i/ [gaa1] |";french4tab
+55;;22v;[Goodnight];;;cittern;;3;"[daa1] ,,c [daa] | [dcf3/2] f/ [hae1] | [icc1] [ha/] f ,c e | \
+[fccc3/2] h/ [fccc1] | [icc1] ,,a/ h [fef] d |";french4tab
+56;;23r;How can the Tree;;;cittern;;none;"[daa2] [gaa3/2] f/ [dad1] b/ ,,c [daa1] [feh] [gaa3/4] i/4 f/ d \
+[feh1] ,a ,a | [feh1] [feh] [fccc] [feh] f/ ,,f";french4tab
+57;;23r;Complainte J. Dowlands;;;cittern;;C;"[daaa1] [daa/] [cac] [dada3/2] [feh/] | [gaa/] ,,d [fdf] [dad] [cac] ,a ,,c1 | \
+[daaa/4] c d f g i [feh/] [daa3/2] f/ |";french4tab
+58;;23r;How will;;;cittern;;3;"[haaa3/4] f/4 d/ [feh] ,e ,a | [haaa3/4] i/4 l/ ,a l [ifff] | \
+[haaa3/4] i/4 l/ [feh] ,e ,a |";french4tab
+59;;23v;Fansie;;See f. 4r (2, var);cittern;;C;"l1 l/ l o1 o/ n | [la1] ,a/ [ia/4] g [fd1] [fd/] ,c | \
+[ga1] [,a/] ,,f/4 ,,d [facd1] ,,,c/ d |";french4tab
+60;;23v;Callino;;;cittern;;3;"[,cab/] d1 [dcab1] [dcab/] | [fdf3/4] g/4 [fdf/] [dcab1] [dcab/] | \
+[,acd/] b1 [bacd1] [bacd/] | \
+[accc3/4] ,a/4 [,ccc/] [cac1] [cac/] |";french4tab
+61;;23v;Rogero;;;cittern;;C;"d/ f | [haaa1] [haaa] [ifff] [ifff] | [haaa3/2] i/ [haaa1] l | \
+[ifff1] [haaa] [feh] [daaa] | [cac3/2] d/ [cac1] c/ d |";french4tab
+62;;24r;Monsiers Allmane;;;cittern;ConcR48;C;"[daaa3/2] d/ [daaa1] c/ a | [cac3/2] d/ [cac1] ,,f | \
+[dae1] [daa] [dac] [cac] | [daaa1] d [daaa3/2] l/ |";french4tab
+63;;24r;The Shininge Sonne;;;cittern;;C;"[daaa1] [daaa/] b [,bab] ,d [dbd1] | [dac1] [cac/] ,,,b [daaa1] [gaa] | \
+,,f/ [fd] ,,d [ba] ,,f [db] [fdf] ,,,e |";french4tab
+64;;24r;My Lo. of Oxfords Short Allmayne;;;cittern;;C;",b/ ,d | [dbd1] [dbd] [bad] [dbab] | [daaa3/2] ,b/ [daaa1] [daaa] | \
+[dbab1] [dbab] [bad] [bad] | [dbd3/2] e/ [dbd1] g/ e |";french4tab
+65;;24v;Parsons In no[m]i[n]e. for consorte;;;cittern;;C;"[,acd2] [,acd1] [,acd] | [bacd1] [bacd] b [cacd] | \
+[feh1] [feh] [feh] [daa] | [feh2] z1 [feh] | \
+[feh1] [feh] [feh] [daa] |";french4tab
+66;;25r;Tertiana;;;cittern;;3;"[cac/] | [cdc3/2] [cd/] [cac1] | [cac1] [cac] [cac] | \
+[cac3/2] d/ c a | [cac1] [cac] b/ d | [fdf3/2] f/ [fdf1] |";french4tab
+67;;25r;Green Sleeues;;;cittern;;C;"[bab3/4] ,d/4 [dbd/] ,d/4 ,b [bad/] ,a ,,d1 | \
+[,bab/] ,,,b [,bab] ,,,a/4 ,,,b [,aaa/] ,,,a ,,a1 | \
+[,bab3/4] ,d/4 [dbd/] ,d/4 ,b";french4tab
+68;;25r;Tarltons Willy;;;cittern;ConcR231;3;"[daaa/] | [gaaa3/4] f/4 [daa/] [ifff3/4] g/4 [fdf/] | \
+[dbd3/4] b/4 [,bab/] [daaa1] [ihl/] | \
+[lkaa1] [daaa/] [gfaa3/4] i/4 [feh/] |";french4tab
+69;;25v;Galliard Jhon Inuenta;;;cittern;Conc_4441;3;",f/ ,h | [lia3/2] ,l/ [lia1] | [lkl1] [ifa] a | [lhhh3/2] e/ [gf1] | \
+[feh2] [dbab1] | [dbab3/2] ,d/ [dbab1] | [dad1] [,fcb] ,e |";french4tab
+70;;26r;A Pauen;;;cittern;;C;"[daa3/2] f/ [gaa1] [fdf] | [dbd1] [bab] [mff/] ,h/4 ,f ,e/ ,h | \
+[lal3/4] ,,c/4 ,,d/ ,,f ,a [db] [bd] [acab] |";french4tab
+71;;26r;The sp[anish] pauen;;end on f. 25v bottom;cittern;Conc_4405;C;"[daa3/4] f/4 [gaa/] [fdf] [dad] a [bac] [daa] | \
+[fdf/] ,d ,,f [ihb] [ihb] [lil] [ihb] [gddd] | \
+[fdf3/4] g/4 [ihb/] ,i/4 ,h";french4tab
+72;;26v;Passemeasures [pavan];;;cittern;;C;"l1 ,,a/ e g ,a f ,,f | ,,d/ [da] ,,a ,,c [dad] ,,f ,a ,c | \
+[fd/] i ,,f g";french4tab
+73;;27v;Dowlands Pauen;;;cittern;;C;"[daaa3/2] f/ [gaa] f/4 d [lhhh1] | \
+[,aai/] i [gaa] f/4 d [ffh/] ,e/4 ,,,f [feh/] ,,f | \
+[dae3/4] ,,,d/4 ,b ,,,b ,b b";french4tab
+74;;28r;Galliarde J. Dowl;;;cittern;;3;"[gaa1] | [feh3/2] f/ [feh1] | [gfa1] [bad] [gfa] | \
+[feh3/2] d/ [cac1] | [daa3/2] ,,c/ [dad] ,,a | \
+[fdf3/4] g/4 i/ f [gfa] d |";french4tab
+75;;28r;Galliard. J:Dowl;;f. 28 vacuat;cittern;ConcR83;3;"[daa1] g m | [laai3/2] m/ i g | [gaa1] ,,d/ g [fbf] d | \
+[cac3/4] d/4 c/ ,,,b [,ad] d |";french4tab
+76;;29r;Saltarello de la milanessa;;upside down;cittern;ConcR3559;C|;"[lia1] | [lia3/2] m/ | l/ i g f | [daa/] f/4 g f/ d | \
+[fdf1] ,a/ ,c | ,d/ ,f [fdf] g |";italiantab
+77;;29v;Saltarello nouo;;upside down;cittern;ConcR3560;C|;"h/ i | [lhhh1] [ifff] | [haa/4] f h i h/ f | ,f1 f/ h | \
+[ifff/] h f d | [c,ac3/4] a/4 c d f h |";italiantab
+78;;30r;Padouauna de la Milanessa;;upside down;cittern;ConcR3561;C|;"[liai] | [liai3/2] m/ | l/ i g f | [gfa/] i/4 l m/ l | \
+i/ g f d | [fdf/] ,a/4 ,c ,d d f g |";italiantab
+79;;31r;Chi passa;;;cittern;ConcR178;3;",a/ a | [cac3/2] d/ c a | [cac3/2] ,,d/ ,,c ,,a | \
+[cac1] ,a/ d c a | [cac/] d f c d f |";french4tab
+80;;31v;Mrs Whyte;;;cittern;Conc_4420;C;"[,aaa1] [,aaa/] ,a [daaa1] [daaa/] d | [feh/] h [ih] l [haaa1] f/ d | \
+[cac/] d [hfh] f [daaa2] ||";french4tab
+81;;32r;What if a day or a night or an hower;;;cittern;Conc_4421;C;"[daa/] c/4 d [feh/] ,f/4 ,h [iff/] i/4 g [feh1] | \
+[gfa/] f/4 g [ihl/] ,i/4 ,l \
+[lddd/] [lddd] [ihl] [gfa] [feh] ,,f [daa2] ||";french4tab
+82;;32v;The queenes Allmaine;;;cittern;Conc_4438;C|;"[daaa/] d [cac] [daa] | [feh3/4] d/4 c a ,a/ | \
+[acab/4] c d ,,d ,,c ,,a [cac/] [daaa] ,a ,,a1 ||";french4tab
+83;;32v;P[re]ludium;;;cittern;;none;[daaa/] [daaa] | [daaa/] a/8 c d a c d f d f d f d f d f d c a;french4tab
+84;;33r;Dobsons Allmayne;;;cittern;;C|;"[gfa/] | [feh/] [gfa] [dbf] f | [cac3/4] d/4 [fe/] [gff] | \
+[ifff/] [gfa] [feh] [dad/4] ,,b | [cac/] [cac1] [gfa/] ||";french4tab
+85;;33v;Souches March;;;cittern;ConcR289;C;"[dcab1] [ifff] [acab3/4] ,d/4 [dcab1] | [ifff/] [dff] [fdf] [dcf] [acab] d [iln1] | \
+[daaa3/4] f/4 h i l/ [bacd3/4] d/4 f h i/ |";french4tab
+86;;34r;sans titre;;ff.35r-35v vacuat;cittern;;C|;"[dc/] [fe] [hf] d | [hf/] [ih] [lk] h | [laa/] i/4 h [feh/] [haa] | \
+[dcf/] [fccc] [cac] ,,,d | [ca/] ,,f/4 ,,e [cac/] [dae] |";french4tab

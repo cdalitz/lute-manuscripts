@@ -1,0 +1,184 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1a;;A2r;Passo e mezzo anticho primo;;p.1;OT;;C;"[aabc/] c | [dabc1] ,,,,,a/ c [aabc] ,e [aabc] c | \
+[dabc/] ,,a ,,b ,,d [dabc] ,c ,d a | \
+[cdda/] a ,d a [cdda]";italian7tab
+1b;;A2r;Seconda parte;;p.1;OT;;C;"[aabc/] c | [dabc1] ,,,,,a/ c [aabc] ,e a c | \
+[da,c,a/] ,,a ,,b ,,d [,a,c] ,c ,d a | \
+[cdda/] ,,,c ,,a ,,b ,,d";italian7tab
+1c;;A2v;Terza parte;;p.2;OT;;C;"[aabc/] c | [dabc/] c a ,e [aabc] c d f | \
+[hf,f,a/] [,e,e] [a,,c3/4] [c,,b/4] [da,c] \
+,,d ,,b ,,a ,,b ,,d ,a ,c |";italian7tab
+1d;;A2v;Quarta pte;;p.2;OT;;C;"[,,,c,a/] ,,a | \
+[aab,,a/] ,,,c [aab,,a] [,,d,,c] [,a,,,d] \
+[,b,,a] [,a,,,d] [,,d,,c] | \
+[aab,,a/] ,,,c/4 ,,a ,,b ,,a ,,b ,,d ,a ,,d ,a ,c ,d ,c ,d a |";italian7tab
+2a;;A3r;Padouana del detto;;p.3;OT;;3;"[aabc/] c [dabc] ,,,,,a [dab] ,,,c a c | \
+[da,c,a3/4] ,,a/4 ,,b/ ,,d ,a ,c \
+[cdda1] [cdd/] ,,,a [cdd] ,,,c | \
+[cdda/] a ,d ,b [,a,a] ,,d";italian7tab
+2b;;A3r;Seconda pte;;p.3;OT;;3;"[aabc/] c [da,c,a3/4] c/4 a/ ,e [aabc] c | \
+[da,c,a/] ,,,,,c [d,,,,d] ,,,,a [,d,,c] [a,,,e] \
+[cdda3/4] ,,,c/4 ,,a/ ,,b ,,d ,a |";italian7tab
+2c;;A3v;Terza pte;;p.4;OT;;3;"[aabc/] c [dabc] f [hf,f,a] [,e,e] [a,,c] [c,,b] | \
+[da,c,a/4] ,,d ,,b ,,a ,,,c ,,a ,,b ,,d ,a ,,d ,a ,c [cdda/]";italian7tab
+2d;;A3v ;Quarta pte;;p.4;OT;;3;"[aa,c,a/] ,,a [aab,,a/4] ,,a ,,b ,,d ,a ,b ,d a ,d ,b ,a ,,d | \
+[aab,,a/4] ,,,,,c ,,,,,d ,,,,a ,,,,c ,,,,e ,,,a ,,,c ,,,e";italian7tab
+3a;;A4r;Saltarel del detto;;p.5;OT;;3;"[aab,,a3/2] [aab/] ,,,c1 [aab,,a/] ,d a d c a | \
+[cdda/] ,c ,d a c d [cdda] a ,d ,b [,a,a] ,,d |";italian7tab
+3b;;A4v;Seconda pte;;p.6;OT;;3;"[aab,,a1] [aab3/2] ,,,c/ [aab,,a1] ,,a/ ,,b ,,d ,a ,c | \
+[cdda3/4] ,b/4 ,a/ ,,d ,,b ,,a ,,,c [cdda] a ,d ,b [,a,a] ,,,d |";italian7tab
+3c;;A4v;Terza pte;;p.6;OT;;3;"[aab,,a3/2] [aab/] ,,,c1 [aab,,a/4] ,,d ,,b \
+,,a ,,,c ,,a ,,b ,,d ,a ,c ,d a | \
+[cdda/] d f d c a [cdda] a ,d ,b [,a,a] ,,d |";italian7tab
+3d;;A4v;Quarta pte;;p.6;OT;;3;"[aabc3/2] [,,de/] [,ab] [abd] [,ab] [,ede] \
+[aabc] [,c,ca] [,d,ac] [a,dce] | \
+[cdda/] [dcbc] [fdaa] h [fdaa] [,,ff] [,dde] \
+[dcbc] [cdda] c/4 a d c a c |";italian7tab
+3e;;B1r;Quinta pte;;p.7;OT;;3;"[aab,,a/] ,,a ,,,c ,,a [aab,,a] ,,d ,a ,,d \
+,,,c/4 ,,a ,,b ,,d ,a ,c ,d ,a | \
+[cdda/4] ,,,c ,,a ,,b ,,d ,a ,b ,d";italian7tab
+4a;;B1v;Passo e mezzo moderno;;p.8;OT;;C;"[aac,,a1] | [aac,,a/] ,,d ,a ,c [,a,b] ,,d ,,c ,,a | \
+[aac,,a/] ,,,c [aac,,a] [,,d,,c] [aac,,a3/4] ,d/4 ,c/ ,a | \
+[acd,a1] [acd/] [,d,,c] [a,,,e] [c,,a] [a,,,e] [,d,,c] |";italian7tab
+4b;;B1v;Seconda pte;;p.8;OT;;C;"[aa,c,a/] c | [ea,c,a/] f [hf,g,a] ,,,h ,,f ,,,h ,,,g [fede] | \
+[effc/] ,e/4 ,c ,a ,,d ,,c ,,a [ea,c] f e c a ,d ,c ,a |";italian7tab
+4c;;B2r;Terza pte;;p.9;OT;;C;"[hf,gh1] [hf,gh] [,,hh] [,ffg] [fede] | \
+[effc1] ,,,,c [a,d,e] [,,,eg] | \
+[hf,gh1] [kf,h] [hf,g] [fc,e/] [ce] | \
+[effc/] f h f [effc] c f e |";italian7tab
+5a;;B2v;Padouana del detto;;p.10;OT;;3;"[aac,,a/] | [aac,,a/] ,,,c [aac] ,,,,,a [aac] [,,d,,c] | \
+[aac,,a3/4] ,,a/4 [aac,,a/] ,,,a [a,,,e] [,d,,c] | \
+[acd,a/] ,,,c [acd] ,,,,a [acd] [,dc,c] | \
+[acd,a3/4] ,d/4 [acd,a/]";italian7tab
+5b;;B3r;Seconda pte;;p.11;OT;;3;"[aac,,a/] c | [e,ac,a3/4] f/4 [hf,g,a/] ,,,h ,f ,,h | \
+[hf,g,a/] [fede] [effc] ,,,a [f,,,e] [ed,,c] | \
+[fc,ca/] d/4 c a ,d ,c ,a";italian7tab
+5c;;B3r;Terza pte;;p.11;OT;;3;"[hf,gh1] | [hf,gh/] [,,hh] [,,fg] h [fcbe] ,e | \
+[effc/4] c e f h f e c a ,d ,c ,a |";italian7tab
+6a;;B3v;Saltarel del detto;;p.12;OT;;3;"[aac,,a3/2] [aac/] ,,,c1 [aac,,a/] [,,d,,c] [aac,,a] ,d ,c ,a | \
+[acd,a/] ,a ,c ,d [acd,a1] [,a,c,e/] \
+,,,,,a [,,d,,c] ,c [,a,b] ,,d |";italian7tab
+6b;;B3v;Seconda pte;;p.12;OT;;3;"[ea,c,a3/2] [ea/] ,,,c1 [ea,c,a/] c [ea,c,a] a c e | \
+[fc,ca/] e c ,f c e [fc,ca] e f c e f |";italian7tab
+6c;;B4r;Terza pte;;p.13;OT;;3;"[hf,gh/] ,,,h ,,f ,,h ,,f ,,,h ,,,g ,,,e \
+[hf,gh] ,,,h [hf,hh] ,,,g | \
+[kf,h,f/] [ac] [cd] [ea] [f,,e] [f,,g] [kf,h,f] h f k h f |";italian7tab
+7a;;B4v;Passo e mezzo detto il Gorzanis;;p.14;OT;;C;"[cdda1] | [cdda1] [cdda/] ,,,c [cdda] [a,,,d] [,d,,c] [,b,,a] | \
+[da,a,d/] ,,,,,c ,,,,,d ,,,,a [da,a,c1] [abb,d/] ,a | \
+[c,da1] [,dbac/] ,,a [a,b,d] ,b [,c,da1] |";italian7tab
+7b;;C1r;Seconda pte;;p.15;OT;;C;"[cdda1] | [cdda1] [cdda/] a [adda] [a,,,d] [,ab,c] [,ba,a] | \
+[dab,,d/] b/ a ,d ,b ,a ,,d [dab,,d1] [abb,d] | \
+[,,def/] [fdaa] [dabc] ,c [ddda]";italian7tab
+8;;C1v;Saltarel del detto;;p.16;OT;;3;"[cdda/] | [cdda3/4] d/4 [cdda/] [a,,,d] [,db,c] [,ba,a] | \
+[dab,,d/] ,,,a [dab] [dab,,d1] [abb,d/] | \
+[,,def/] [fdaa] [dabc] ,c [ddda] c | [dab/] b/4 a ,d ,b";italian7tab
+9;;C2r;Saltarel del detto;;p.17;OT;;3;"[cdda1] | [cdda1] ,,d/ d [cdda1] [a,d,d] [,db,c] [,ba,a] | \
+[,ab,,d1] ,,,a/ ,,a ,,b ,,d [,ab,,d1] ,,,a [dabc] | \
+[cdda1] [fdaa] [dabc/] ,,d ,a ,c";italian7tab
+10;;C3r;Passo e mezo detto o Perfida che sei;;p. 19;OT;;C;"[ca,bc1] [ca,b/] ,,,,c [ca,bc] d c a | \
+[ca,bc/] ,,b [,,a,a] ,,,c [ca,bc3/4] ,,,c/4 [ca,bc1] | \
+[aa,c,a/] d c a [ca,bc3/4] ,,,c/4 [ca,bc1] |";italian7tab
+11;;C3v;Padouana del detto;;p. 20;OT;;3;"[ca,bc1] [ca,b/] ,,,,c [ca,b] [da,c,a] | \
+[ca,bc/] a ,d ,b [,a,b] ,,d | \
+[aabc1] [abd,a] [,ea,c] | \
+[aac,,a/] ,,,c [aac] ,,,,,a [aac] ,,,c |";italian7tab
+12;;C3v;Saltarel del detto;;p. 20;OT;;3;"[ca,bc1] | \
+[ca,bc1] [,,,bc/] d c a [ca,bc1] [aa,c,a/] d [c,,,a] a | \
+[ca,bc3/4] ,,b/4 ,,a/ ,,,d ,,,b ,,,,e [ca,bc1] [,,,bc/] a d c |";italian7tab
+13;;C4r;Passo e mezzo detto il Todeschin;;p. 21;OT;;C;"[ddf,,d1] [ddf/] ,,,,,d [ddf,,d] ,,,,a [,d,,c] [a,,,e] | \
+[cdda3/4] ,,b/4 [,da/] [dc,c] [cdda1] [fdaa] | \
+[fdbc1] [dabc] [ca,bc/] ,,b [aa,cd] ,,b [a,dcd1] |";italian7tab
+14;;D1r;Padouana del detto;;p. 23;OT;;3;"[ddf,,d1] [ddf,,d3/4] ,,g/4 [ddf,,d/] | \
+[cdda1] [cdd/] [cdda1] [ddf,,d/] | \
+[cdda3/4] a/4 [cdda/] [acd,a/4] ,e a ,c ,e a | \
+[,efec/4] ,f c ,f ,e ,c";italian7tab
+15;;D1v;Saltarel del detto;;p. 24;OT;;3;"[dab,,d3/2] [dab/] ,,,a1 [dab,,d/4] [,,d,,c] \
+[,a,,,d] [,c,,a] [,d,,c] [a,,,e] | \
+[cdda/4] ,,b [,da] [,c,c] [cdda] d \
+[fdaa1] [dabc/] ,c [da,ac] c |";italian7tab
+16;;D3r;Passo e mezzo della cara cosa;;p. 27;OT;;C;"[,efec3/4] ,f/4 c/ d c ,f ,e ,c | \
+[,efec/] ,f c/4 ,f ,e ,c [,efec/] \
+,f/4 ,e ,f ,e ,f/8 ,e ,c ,e |";italian7tab
+17;;D4r;Padouana del detto;;p. 29;OT;;3;"[,efec3/4] ,f/4 c/ ,f ,e ,c [cef,c] ,,,e [cef] ,,,,c ,f [cef,c] | \
+[aabc/4] ,,a ,,,c ,,a ,,b ,,d ,a ,c ,d a c d [cdda/]";italian7tab
+18a;;E1r;Saltarel del detto;;p. 31;OT;;3;"[a,bc3/4] h/4 f/ d c a [ca,bc3/4] ,,b/4 [,,a,a/] ,,,c [ca,bc1] | \
+[aab,,a/] [,,d,,c] [,a,,,d] [,c,,a] [,d,,c] [a,,,e] \
+[cdda3/4] ,,b/4 ,,a/ ,,,c [c,def1] |";italian7tab
+18b;;E1v;Seconda pte;;p. 32;OT;;3;"[,efec1] ,,,e/ ,f ,e ,c [,e,,c] ,,f ,,,e ,f [,efec1] | \
+[aab,,a1] ,,,c/4 ,,a ,,b ,,d ,a ,c ,d a [cdda] a ,d ,c ,d";italian7tab
+19;;E2r;Passo e mezzo della Pigna;;p. 33;OT;;C;"[dab,,d1] | \
+[cdda3/4] ,,,c/4 ,,a/ ,,b [cdda3/4] d/4 [fdaa/] ,,,e | \
+[dabc/] ,c [cdda] ,,a [aabc] d [cbd,a] [a,b/4] [,,dc] | \
+[,efec1] [,efec/] [,dff,d] [,bdca] [,abac]";italian7tab
+20;;E3r;Padouana del detto;;p. 35;OT;;3;"[dab,,d/] | [fd,ef3/4] [,,ff/4] [,,de] [d,bc] \
+[cdda/] d/4 [fdaa/] [dabc/4] c a ,d ,c ,a \
+[acd,a/] ,,,c/4 ,d a |";italian7tab
+21;;E3v;Saltarel del detto;;p. 36;OT;;3;"[dab,,d1] | [cdda3/4] d/4 [fdaa1] [dabc] \
+[ca,bc/] ,,b [aa,cd/4] ,,d ,,b ,,a ,,,c ,,a ,,b ,,d | \
+[aaa,c/] ,e/4 ,c ,a ,c ,e";italian7tab
+22;;E4r;Passo e mezzo detto caro sier homo;;p. 37;OT;;C;"[cdda3/4] d/4 c/ a [cdda1] [aabc/] ,,,,a | \
+[,ea,c/] ,a/4 ,c ,e a c a [,ea,c1] [ddf,,d] | \
+[cdfa3/4] d/4 [fdaa1] [dabc/] c [abd,a] ,,b |";italian7tab
+23;;E4v;Saltarel del detto;;p. 38;OT;;3;"[cdda1] ,d/ d c a [cdda1] [aabc/] ,,d ,a ,c | \
+[,ea,c/] ,a/4 ,e a c a c a ,e ,c";italian7tab
+24;;F1v;Passo e mezzo bellissimo;;p. 40;OT;;C;"[aabc/] c | [ea,c,a/] c [aa,,,d] d [cb,,a] a [aaa,c] ,e | \
+[aa,c,a/] ,,a [,,bc] [,,de] [,ab] [,c,c] [,da] [a,b] | \
+[cdda/] [,,de] [,ab] [,c,c]";italian7tab
+25;;F2r;Passo e mezzo bellissimo sopra i soprani;;p. 41;OT;;C;"[,,d,a/] ,a | \
+[abdca/] ,,,,c [,,d,d] ,,,a [aacc] [,,d,d] ,,,a [aacc] | \
+[abdca/] [,a,a] [,,d,d] [,,c,c] [abdca] [dabc/4] ,c [ddda/] c |";italian7tab
+26a;;F2v;Passo e mezzo bellissimo sopra i contralti;;p. 42;OT;;C;"[,dda/] a | [cdda3/4] a/4 ,d/ ,c [,dda] a b d | \
+[f,dd/] ,,,,f [da,c] ,b [bdda] d/4 b a ,d ,b ,a |";italian7tab
+26b;;F3r;Seconda pte;;p. 43;OT;;C;"f/ d | \
+[bdda/] ,,d/4 ,,b ,,d ,,b ,,,d ,,,c [bdda/] f/4 d f d b a | \
+[bdda/4] a ,d ,c ,d a b d";italian7tab
+26c;;F3v;Terza pte;;p. 44;OT;;C;"f/ h | i/ h f ,i f d b a | \
+[bdda/] a ,d ,c ,d a b d | f/ ,c ,d a";italian7tab
+27a;;F4r;Saltarel del detto;;p. 45;OT;;3;"[bdda1] ,d/ ,c ,d a [b,,a] ,,,c ,,,d ,,b ,,d ,a | \
+[abb,d/] ,a ,b ,d a b [db,cd] b a ,d ,b ,,e |";italian7tab
+27b;;F4v;Seconda pte;;p. 46;OT;;3;"[bdda3/4] a/4 c/ d f d [bdda] f/4 d b a d b a ,d ,b ,a | \
+[abb,d/4] ,a ,b ,d a b d";italian7tab
+28a;;F4v;Passo e mezzo bellissimo sopra il quarto tono;;p. 46;OT;;C;"[,aaac/] ,c | \
+[,daac/] a [ca,ac] [da,c,a] [ca,ac] a [,daac] [,ca,b] | \
+[,aaac/] [d,bc,a] [ca,ac] [aab] [,daac] [,a,a] [,,d,e] [,dc,c] | \
+[acd,a/] ,,,c [acd,a] [,db,c]";italian7tab
+28b;;G1r;Seconda pte;;p. 47;OT;;C;"[,aaac/] ,,c | \
+[,daac/] ,a/4 ,c ,d a c d c a ,d ,c ,a ,,e ,,c ,,e | \
+[,aaa,c/] c/4 a ,d ,c ,a ,,e [,aaac/]";italian7tab
+29a;;G1v;La barca del mio Amore;;p. 48;OT;ConcR1450;3;"[aab,,a1] | \
+[aab,,a1] ,,,c/ ,,a ,,,,,a/4 ,,a ,,b ,,d ,a ,c ,d a \
+[cdda/] [a,,,d] [,db,c] [cbd,a] | \
+[da,a,d1] ,,,a/ ,,a ,,b/4 ,,a ,,b ,,d";italian7tab
+29b;;G2r;Seconda pte;;p. 49;OT;;3;"[aab,,a/] | [aab,,a/] b/4 a ,d ,b ,a ,,d ,,b ,,a ,,b ,,d \
+,a ,c ,d a [c,,a] a ,d ,b ,a ,,d ,,b ,,a |";italian7tab
+30;;G2v;Saltarel detto il Philipin;;p. 50;OT;;3;"[,efec1] [aabc/] ,c [cdda1] | \
+[ddf,,d/] ,,d ,,f/4 ,,d ,,f ,,g \
+[ddf,,d1] [,efec] [aabc/] ,c [cdda1] | \
+[ddf,,d/4] ,,d ,,f ,,g ,d ,,g ,,f ,,d";italian7tab
+31;;G3v;Bal Todesco;;p. 52;OT;;C;"[,efec1] [aabc] [,efec] [aabc/] ,c [cdda1] | \
+[ddf,,d1] ,,,f/ ,,d [ddf,,d1] [dfg,d] [cdda] [db,c/] ,a | \
+[d,da/] ,,b [cdda1] [dab,,d/] b/4 a ,d ,b ,a";italian7tab
+32;;G3v;La sua padoana;;p. 52;OT;;3;"[,efec/] [aabc1] [,efec/] | \
+[aabc/] ,c [cdda] [ddf,,d1] [ddf/] | \
+[ddf,,d/] ,,,f [hd,f,d] [fd,ef] ,,f [dabc] | \
+,c/ [ddda] c [dab,,d] b/4 a ,d ,b |";italian7tab
+33;;G4r;Padoana detta chi Passa per questa strada;;p. 53;OT;ConcR178;3;"[ca,bc1] | [ca,bc1] [ca,b/] ,,,,c [ca,b] ,,,c | \
+[ca,bc3/4] ,,,c/4 ,,a/ ,,,b ,,,c ,,a | \
+[aab,,a/] [,,d,,c] [,a,,,d] [,c,,a] [aaa,c] ,e | \
+[aac,,a/] ,,,c [aac] ,,,,,a [aac] ,,,c |";italian7tab
+34;;G4v;Recercar i de j Gor;;p. 54;OT;;C;",a2 ,a/ ,,b ,,d ,a | ,b2 ,b1 ,a | \
+,,d1 ,,b [,,a,c/] ,,,c ,,a ,,b | \
+[,,a,c/] ,,,,,d ,,,,a ,,,,c [,,,cd1] ,,b | \
+,,,,d1 [,,b,c] [,,a,a/] ,,,c [,,b,,d1] |";italian7tab
+35;;H1r;Recercar ii de j Gor;;p. 55;OT;;C;"h2 h1 d | f1 h [df2] | [df/] c f d [ca1] d | \
+[da1] ,,b [c,d] ,a | [ab1] ,b/ [,df] [a,d] c [d,b1] |";italian7tab
+36;;H2r;Recercar iii de j Gor;;p. 56;OT;;C;"[a,,c3/2] ,,a/ [a,c] ,,d/4 ,,c ,,d ,,c ,,a ,,c | \
+[a,d1] c ,,c [a,a/] ,,,c | \
+[a,a/] ,e/4 ,c ,e a ,c ,e [aa,c1] h |";italian7tab
+37;;H2v;Recercar iiij de j Cor;;p. 58;OT;;C;"h2 a1 h | ,a/ f d c [a,,c1] [ca] | \
+d/ ,,d ,,b ,,a [d,,c1] [c,a] | \
+[a,b1] ,,d/ a [,ef1] c/ ,,d |";italian7tab
+38;;H3v;Se pur ti guardo;;p. 60;OT;ConcR195;C;"[,ddef2] [,dff,d1] [,ddef] | \
+[,cdca/] ,a/4 ,c [,ddef3/2] [cdda/] [cdda] [cdda] | \
+[acd,a/] ,a/4 ,c [cdda/] a/4 c [,dff,d3/2] [,dff,d/] | \
+[,dff,d1] [,dff,d] [,cdca/]";italian7tab

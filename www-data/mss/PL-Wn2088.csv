@@ -1,0 +1,231 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;1r;Pargamasco;;;Mandora;;C;"[acdaa1] [acdaa] [cd] [cd] | [a,,a/] c a ',d [,cda1] ,,,,a | \
+,c/ ,d a ,c [,dc] [cd] [,ac] [,,dc] |";french5tab
+2;;1v;Pavane;;;Mandora;;C;",,d/ ,a | [,cdaa1] [,cdaa] [,cdaa] ,a/ ,,d | [,acac1] [,acac] [,acac] [a,,a/] ,d | \
+,c/ ,a ,d ,c ,a ,,d ,,c ,a |";french5tab
+3;;2r;Tanjicz;;;Mandora;;3;"[acdaa1] a/ ,d a c | [acdaa1] a/ ,d a c | ,d1 ,d/ ,c ,d a | \
+,c/ ,a [,cda1] ,,,,a :||:";french5tab
+4;;2v;Werde munter mein gmüte;;crossed out;Mandora;;C;"[,cdaa3] ,d1 | [,cdaa2] [,cdaa] | [,dc2] [,dc] | [,aca2] [,aca] | \
+[,cda3] ,d1 | [acdaa2] ,d1 [,cda] | [,a,a3] ,,c1 | \
+[,,da2] ,,,,a :||:";french5tab
+5;;3r;Nun danket alle Gott;;crossed out;Mandora;;C;"[acdaa2] [acdaa1] [acdaa] | [cd1] c3/4 a/4 [acda1] ,,,,a | \
+[acdaa1] [,dc] [,cd] [,ac] | [,cda/] ,d ,a2 ,,,a1 | \
+[,,da2] ,,,,a :||:";french5tab
+6;;3v;Tanjicz;;;Mandora;;3/4;"[acdaa1] [cd] d/ a | f1 [acda] ,,,,a | [cd1] a/ c a ,d | \
+,c/ ,a [,cda1] ,,,,a :||: [,cda1] ,c/ ,d a c |";french5tab
+7;;4r;Marche;;;Mandora;;C;"[a,,,a/] c a ,d [,cd1] [,ac] | [,,dc1] ,,,,f/ ,a ,,c ,,a ,,,a1 | \
+[,,dc1] [,ac] [,cd] [,ac] | [,cd] [,ea] [aaca] ,,,,c |";french5tab
+8;;4v;Men:;;crossed;Mandora;;3/4;",c/ ,d [acda1] ,,,,a | a2 ,,,,a1 | [cd1] d/ c a ,d | \
+a/ ,d ,c ,a ,,d1 | ,c/ ,d [acda1] ,,,,a |";french5tab
+9;;5r;Tanjicz;;crossed;Mandora;;3/4;",,,a/ ,,a/4 ,,c [,,dc1] [,ac] | [,cda/] ,,,,a [,ac1] [a,,a] | \
+,,d/ ,,d/4 ,,c [,,ac1] ,d/ a | ,c/ ',a [,cda1] ,,,,a |";french5tab
+10;;5v;Men:;;;Mandora;;3/4;",,,,a1 ,,,,d [,,,aa] | [,,da1] [,cd] a | [,cd1] ,d/ ,c ,a ,,d | \
+,a/ ,,d ,,c ,,a ,,,a1 | ,,,,a1 ,,,,d [,,,aa] |";french5tab
+11;;6r;Tanjicz;;;Mandora;;3/4;",c1 ,d [acdaa2] [,aca] | [,cda1] ,a [,,dc2] [,,ca] | \
+[,,dc2] ,a1 ,c ,d a | ,c1 ',a [,cda2] ,,,,a :||:";french5tab
+12;;6v;Tanjicz;;;Mandora;;3/4;"[acdaa1] [acdaa] c/ ,c | [,da1] [,da] a/ ,a | [,cd1] ,c/ a ,d ,c | \
+,a/ ,,c [,,da1] ,,,,a :||:";french5tab
+13;;6v;Tanjicz;;;Mandora;;3/4;"[,bda/] ,a/4 ,,d [,ac1] ,,,a | [,bd/] ,a/4 ,,d [,ac1] ,,,a | \
+[,bd/] ,d/4 'a b/ a ,d ,b | [,a,a3/4] ',,d/4 [,,da1] ,,,,a :||:";french5tab
+14;;7r;Men:;;;Mandora;;3/4;",,d/ ',a [,bd1] ,a/ ,,d | [,aca1] a ,,,a | ,,d/ ,a [,bd1] ,a/ ,,d | \
+[,aca1] a ,,,a | ,b/ ,d [ab1] ,d/ ,b |";french5tab
+15;;7v;Tanjicz;;crossed;Mandora;;3/4;"[,cda/] ,a/4 ,,d [,aca1] ,,,a | ,,d/ ,,c/4 ,,a [,,ca1] ,,,a | \
+[,,dc/] ,a/4 ,c ,d/ ,c ,d a | ,c/ ,,a [,cda1] ,,,,a |";french5tab
+16;;8r;Men;;crossed;Mandora;;3/4;",,d/ ,c a ,c ,,d ,c | [,ac1] ,,,a ,,,a | ,,d/ ,c a ,c ,,d ,c | \
+[,ac1] ,,,a ,,,a | a/ c d a c d |";french5tab
+17;;8v;Tanjicz;;;Mandora;;3/4;"[,,daa/] ,a ,b ,a ,b ,d | [abda/] ,d ,b ,a ,b ,d | \
+[abda/] ,d ,b ,a ,b ,d | [aaca1] ,,,a2 :||:";french5tab
+18;;8v;Tanjicz;;;Mandora;;3/4;"[,aba1] [,,dc] ,,b/ ,,d | ,,b3/4 ,,a/4 ,,,a2 | [aaba1] [cd/] a ,d a | \
+[,cd/] ,,d [,aac1] ,,,,c :||: ,d1 ,d/ ,b ,d a |";french5tab
+19;;9r;Tanjicz;;;Mandora;;3/4;",,d/ ,,c/4 ,,a ,,,a1 [,,dc] | ,,c/ ,,d [,aca1] ,c/ ,d | \
+,a/ X,,c [,,da1] ,,,,a :||: ,c/ ,d [acda1] [acda] |";french5tab
+20;;9v;Tanjicz;;crossed;Mandora;;3/4;"[,,daa/] a a ,d ,b ,a | [,,daa/] a a ,d ,b ,a | \
+[,,dca/] 'a [bd] a ,d ,b | ,a/ ,,c [,,da1] ,,,,a :||:";french5tab
+21;;10r;Tanjicz;;crossed;Mandora;;3/4;"[,cda/] ,a/4 ,,d [,aca1] ,,,a | ,,d/ ,a [,cda1] [,da] | \
+[,cda/] ,a ,,d ,,c ,,a ,,c ,,,a | [,,da1] ,,,,a2 :||:";french5tab
+22;;10v;Tanjicz;;;Mandora;;3/4;"f1 f/ d f a | [cd1] c/ a c ,c | ,d/ ,c ,d c a ,d | \
+,c/ ,a [,cda1] ,,,,a :||:";french5tab
+23;;10v;Tanjicz;;crossed;Mandora;;3/4;"[,,da/] ,,,,a [,,daa1] ,,c/ ,,d | [,ac/] ,,,a ,,,a2 | \
+[,ca/] ,,,,a [,cda1] a | [,dc/] [,cd] [,aca1] ,,,,c :||:";french5tab
+24;;11r;Entree;;crossed;Mandora;;C;"[,,daa3/2] ,,,a/ [,,daa3/2] ,a/ | [,cda3/2] ,a/ [,cda3/2] ,d/ | \
+[acd3/2] a/ [acd1] ,d/ ,c | [,aca3/2] ,a/ [,aca3/2] ,c/ | \
+[,da3/2] ,d/ [,da3/2] a/ |";french5tab
+25;;11v;Ich bin ja Herr in deiner Macht;;crossed out;Mandora;;C;"[,,daa2] ,,d/ ,a [,c,a] ,a | [,,dc1] [,,dc] [,a,a3/2] ,a/ | \
+[,cda1] ,,,,a2 [acdaa1] | [,dc1] [,cd] [,a,a] [,,dc] |";french5tab
+26;;12r;Men:;;;Mandora;;3/4;"[,,daa1] ,,,a ,,d/ ,a | [,,ca1] ,,,a [,,dc] | [,aca1] [,cda] [,da] | \
+[,cd/] ,a ,c ,d [,cda1] | [,,daa1] ,,,a ,,d/ ,a |";french5tab
+27;;12v;Tanjicz;;crossed;Mandora;;3/4;"[aaca1] d/ c a ,d | a/ ,a [,aca1] ,,,,c | ,,c/ ,,a ,,,a ,,a ,,c ,,d | \
+[,aac/] ,,,,c [,aac1] ,,,,c :||:";french5tab
+28;;12v;Tanjicz;;crossed;Mandora;;3/4;"a/ ,d ,c ,a ,c ,d | [acda1] [,,da2] | ,a/ ,,d ,,c ,,a ,,c ,,d | \
+[,aca1] ,,,a2 :||: ,,d/ ,a ,c ,d ,c ,a |";french5tab
+29;;13r;Tanjicz;;crossed;Mandora;;3/4;"a/ ,,d c ,,d a ,,d | [,cd/] a [,c,a1] ,,,,a | \
+a/ ,,,a ,,a ,,c ,,d ,a | ,,c3/2 ,,d/ [,,daa1] |";french5tab
+30;;13v;Men:;;crossed;Mandora;;3/4;"[aaca1] [,aca] [acaa] | [aaca1] [,aca] [a,ca] | \
+,,,a/ ,,a [,,ca1] [,,dc] | [,,ca1] ,,,a [aaca] | \
+,d/ a [cd1] d | [c,c1] [,aca] [,cd] |";french5tab
+31;;14r;Tanjicz;;;Mandora;;2;"[acda2] [acda1] [acda] | [,,daa2] ,,,,a1 ,c/ ,d | \
+[acda1] ,d/ a [cd1] a/ ,d | [acda3/2] c/ [acda1] ,d/ ,c |";french5tab
+32;;14v;Tanjicz;;;Mandora;;3/4;"[,cda1] ,d/ a ,d ,c | [,aca1] ,c/ ,d ,c ,a | ,,d/ ,,c [,,dc1] [,ac] | \
+[,ca1] ,,,,a2 | [,cda1] ,d/ a ,d ,c |";french5tab
+33;;15r;Tanjicz;;unfinished / crossed;Mandora;;3/4;"[aacac/] [aacac] [aacac1] [,da] | a/ ,d/4 ,c ,a1 ,,,,c | \
+,,c/ ,,a ,,,a ,,a ,,c ,,d | ,a/ ,d [,aac1] ,,,,c :||:";french5tab
+34;;15v;Men:;;;Mandora;;3/4;",,,a1 [,,da] [,,ca] | [,,daa2] [,aca1] | [,bda1] ,d/ ,b ,d a | \
+,b2 [,aca1] | ,,,a1 ,,,a/ ,,,a ,,,a ,,,a | ,,,a2 [,,da1] |";french5tab
+35;;16r;Warum  betrübstu dich meine Seele (?);;crossed out;Mandora;;C;"[,,daa1] [,,da] ,,b ,a/ ,b | [abd1] ,b [ac,c] [,bd] | \
+[,,da1] [,bda] d [,dc] | [,,dc/] ,a ,c1 [dedc/] ,,,,f ,,b1 |";french5tab
+36;;16v;Marche;;faint reading;Mandora;;2;",,d/ ,,c ,,d ,a [,,daa1] [,aca] | ,c/ ,a ,c ,d ,c ,d [acdaa1] | \
+[,,daa1] ,a/ ,c ,d ,c ,a ,,d |";french5tab
+37;;17r;Men:;;;Mandora;;3/4;",c/ ,d [acdaa1] [acdaa] | [acda2] ,,,,a1 | [fcdaa1] [acdaa] [acdaa] | \
+[acda2] ,,,,a1 | ,c/ ,d [acda1] [acda] | \
+[acda1] [,,da] [,aca] |";french5tab
+38;;17v;Men:;;;Mandora;;3/4;"[,,daa1] ,c a | ,c3/2 ,a/ [,,dc1] | [,a,,f1] [,,ca] ,,,,c | \
+,,d/ ,,c ,,d ,a ,,d1 | [,,daa1] ,c a | ,c3/2 ,a/ [,,dc1] |";french5tab
+39;;18r;Men:;;;Mandora;;3/4;"[,,daa1] ,,,a ,,,a | [,,daa1] ,,,a ,,,a | [,bda1] ,,d/ ,a ,b ,d | \
+[abb1] ,,,a ,,,,d | [ad1] ,d a/ ,d |";french5tab
+40;;18v;[illeg.];;crossed out - tab illeggible;Mandora;;;;french5tab
+41;;19r;Tanjicz;;crossed;Mandora;;3/4;",,,a/ ,,a/4 ,,c [,,dc1] [,ac] | [,bd/] ,a/4 ,,d [,ac1] a | \
+[,bd/] ,a ,,d ,b ,a ,,d | ,a/ ,,d ,,c ,,a ,,c ,,,a |";french5tab
+42;;19v;Men:;;;Mandora;;3/4;"[,abd1] a [cd] | c/ d c a [cd1] | c/ d f d c a | \
+[,cd3/2] ,a/ ,a1 | [,abd1] a [cd] |";french5tab
+43;;20r;[illeg.];;crossed out;Mandora;;C;"[,,daa1] [,,da/] ,,,,f [,,ba1] [,bd] | ,a/ ,b [,,db1] ,a3/2 ,,c/ | \
+[,,da1] ,,,,a [,,daa] ,a | [,bd1] ,d/ a [,bd1] ,d/ a/4 b |";french5tab
+44;;20v;Lobt Gott ihr Chirst. All zu gleich;;crossed out;Mandora;;C;"[,,daa2] [acdaa1] [acdaa] | [acdaa1] [acdaa] [cd] [aa/] ,d | \
+[,cd1] [,ac] [,cd/] ,d  a ,,d | [,da1] a [aaca] !fermata! |";french5tab
+45;;21r;So wünsch ich nun ein gute nacht;;crossed out;Mandora;;C;"[,,dca2] [,,dc1] [,aca] | ,c1 ,,d/ ,a [,cd] ,,c [,da1] | \
+[aacac3] [acdaa1] | [cd1] ,c [aaca] ,c/ ,,d | \
+[aaca2] [,aca1] ,,,,c :||:";french5tab
+46;;21r;Es … tantz;;;Mandora;;3/4;",,,a1 [,,daa/] ',a [,bda1] | ,a/ ,,d [,aca1] ,,,a | ,,,a1 ,,,a [,,daa] | \
+,a1 [,bda/] ,d a ,b | [ab1] a/ b d b |";french5tab
+47;;21v;Marsche;;;Mandora;;C;"[acda1] [aaca] [acda] ,c1 | ,d/ a a ,d [,cd1] [,ac] | \
+[,cda1] [,cda/] [,cda] [,cd1] ,a/ ,,d | \
+[,aca1] [,acac/] [,aca] [,aca1] ,,,,c :||:";french5tab
+48;;22r;Wie schön leucht der Morgen Stern;;crossed out;Mandora;;C;"[acdaa2] [,cda1] [,,daa] | [acda2] [acdaa] | [cd2] c | \
+[acda2] ,,,,a | [acda2] [cd1] d | f2 d1 f | [cd3] ,d1 | \
+[aaca2] [,cda] |";french5tab
+49;;22v;Men:;;;Mandora;;3/4;"a/ c a ,d ,c ,a | [,,dc1] [,ac] [,cd] | ,d1 a [,cd] | \
+,a/ ,,d ,a ,c [,aca1] |";french5tab
+50;;23r;Gelobet seystu Jesu Christ;;crossed out;Mandora;;C;"[,,daa2] [,,daa1] [,,daa] | ,a1 ,,d [,cd/] ,d [a,,a1] | \
+[,ddc1] ,,,,f [,cd] [acda] | [cd1] a/ ,d ,c ,,,,f ,a ,,c |";french5tab
+51;;23v;Air;;;Mandora;;C;",,,a/ | [,,dc/] ,a [,cd] ,d/4 a ,c/ ,a/4 ,,d ,a/ [,,ca] | \
+,,d/ [,,ac] ,,,,f ,,,,c ,a ,,c ,,,a ,,,,d |";french5tab
+52;;24r;Mars (?);;;Mandora;;C;"[,,ca/] | ,,d1 ,,,a [,,dc] [,ac] | [,cd/] ,d [,c,a] ,a ,,d ,a ,c ,d | \
+a/ ,,c [,,ac] [,da] a ,,c [,,ac] [,da] |";french5tab
+53;;24v;Tanjicz;;;Mandora;;3/4;"[,,daa1] [,,d,a] [,,dc] | ,a/ ,,d [,,ca] ,,a ,,c ,,,a | \
+[,,da2] ,,,,a1 :||: [,,daa1] [,,,dc] ,a/ ,c | [,ddc1] ,,,,f2 |";french5tab
+54;;24v;Tanjicz;;;Mandora;;3/2;"[,cd1] ,d a c a ,d | [,cd2] [,ac] ,,,a | [,cd1] a ,d a c ,d | \
+a1 c [aaca2] ,,,,c |";french5tab
+55;;25r;Tanjicz;;;Mandora;;3/4;"[,,daa1] ,,c/ ,,a ,,c ,,,a | ,,d/ a [,db2] | [,bda1] ,a/ ,,d ,a ,,c | \
+[,,da2] ,,,,a1 :||: ,b/ a ,,b1 [,bda] |";french5tab
+56;;25v;Tanjicz;;crossed;Mandora;;3/4;"[,,daa1] ,,d/ ,,c ,,d ,a | [,cda1] ,c/ ,a ,c ,,d | \
+[,aca1] [,cda] ,,,,a | [aaca1] a/ ,d a c |";french5tab
+57;;26r;Tanjicz;;;Mandora;;3/4;",,,a/ ,,a/4 ,,c [,,dc1] [,aca] | [,cd/] ,d [acda1] ,,,,a | \
+[acda/] [,cda] [cd] a ,d ,c | ,a/ ,,d [,aca1] ,,,a :||:";french5tab
+58;;26r;Tanjicz;;;Mandora;;3;"a/ c d c d f | c/ ,d [aaca1] ,,,a :||: a/ b [abdaa1] [,db] | \
+,b/ ,a [,bda1] [,db] |";french5tab
+59;;26v;Tanjicz;;crossed;Mandora;;3;",,,a1 ,,a ,,b ,,a ,,b ,,,a | [,ab1] ,c/ ,d a1 c [,da2] | \
+[a,,a2] [,c,,a] [cd] | [,da1] ,c ,a ,,d ,,b ,,a :||:";french5tab
+60;;26v;Ponlude;;;Mandora;;C;"[acdaa1] [acdaa] [cd] [cd] | [cd1] a/ ,d a ,,,a ,,a ,,c | \
+,,d/ ,a ,c ,d a c d a |";french5tab
+61;;27r;Men:;;;Mandora;;3/4;"a1 ,c a | ,,d1 ,,,a ,,,,a | [,a,a/] ,c ,d ,c ,d a | \
+,c/ ,a ,c ,d [,cd1] | a1 ,c a |";french5tab
+62;;27v;Sanabam;;Sarabande?;Mandora;;3/4;"[,abd1] ,,,,c a | [aa3/2] ,d/ a1 | a/ c [da1] [,db] | \
+[,d,,c/] a ,d ,b [,ab1] | [,,dc1] ,,d [,aa] |";french5tab
+63;;28r;Tanjicz;;;Mandora;;3/4;",,,a/ ,,a/4 ,,c [,,da1] [,aca] | ,c/ ,,d [acda2] | ,c/ ,,d [acda2] | \
+,c/ ,,d ,d a ,d ,c | [,aca1] ,,,,c2 :||:";french5tab
+64;;28v;Tanjicz;;;Mandora;;3/4;"[,,ca1] ,,c/ ,,d ,a ,c | ,,a/ ,,,a ,,,,g ,,,,d ,,,,c1 | \
+[,,ca/] ,,a/4 ,,c ,,d/ ,,a ,,c ,,d | \
+,,a3/4 ,,,a/4 ,,,a1 ,,,,c :||:";french5tab
+65;;29r;Aira;;;Mandora;;C;"a1 | [ab/] ,d ,b ,a [,bd1] [,db] | [ab/] ,d ,b ,a [,,db1] [,a,,f] | \
+[,,ca2] ,,d1 [,a,,f] | [,,ca3/2] ,,,a/ [,,daa1] [,aca] |";french5tab
+66;;29v;Men:;;;Mandora;;3/4;"a1 [,aca2] | [,bd1] ,,,,a ,a | a1 [,aca2] | [,bd1] ,,,,a ,a | \
+[,ab/] ,a ,,d3/2 ,a/ | ,a3/2 ,,d/ ,,b ,,a |";french5tab
+67;;30r;Men:;;;Mandora;;3/4;",,,,d/ ,,,,f ,,,a1 ,,,a | ,,,a2 ,,,,a1 | ,,a/ ,,c ,,d1 ,a | \
+,,c3/2 ,,a/ ,,,a1 | ,,d/ ,,,a ,,,,d ,,,a ,,d ,,,a |";french5tab
+68;;30v;Men:;;;Mandora;;3/4;",,d/ ,a ,b ,d a1 | [,,ca1] ,,,,c ,,d | ,a1 ,b ,d | \
+,a/ ,,d ,,c ,,a ,,,a1 | [ab1] b/ a ,d ,b |";french5tab
+69;;31r;Tanjicz;;;Mandora;;3/4;"[,,daa/] [,,daa] [,,daa1] [,da] | [,aca/] [,aca] [,aca1] [,cda] | \
+[,,daa/] [,,daa] [,,daa1] [,da] | [,acd1] [,cda] ,,,,a :||: \
+,,d/ ,,c ,,a1 ,a/ ,,d |";french5tab
+70;;31v;Air;;crossed;Mandora;;C;"[,cdaa1] ,a/ ,,d [,,ca1] ,,d/ ,a | [,,ca3/2] ,,d/ [,,da1] ,,,,a | \
+[,cd1] ,a/ ,,d [,ac1] ,,,a/ a | a2 ,,,a/ a ,a ,c |";french5tab
+71;;32r;Tanjicz;;;Mandora;;3/4;",,,a/ ,,d ,,c1 [,,db] | ,a/ ,b ,a1 [,,daa] | ,d/ a ,b ,a ,b ,d | \
+,a/ ,,d [,ac1] ,,,a :||:";french5tab
+72;;32v;Tanjicz;;;Mandora;;C;"[,,daa1] a/ ,d [,bda1] [,aca] | [,bda1] [,ddb] [aaca] ,,,,a | \
+[bd1] [abda] [,db] ,b/ ,a | ,b3/2 ,a/ [,,da1] ,,,,a :||:";french5tab
+73;;33r;Men:;;;Mandora;;3/4;"[acda1] f [acda] | [acda1] f [acda] | ,c/ ,d [acda1] [cd] | \
+[acda2] [acda1] | ,,d/ ,a [,cda1] [,aca] | \
+,,d/ ,a [,cda1] [,aca] |";french5tab
+74;;33v;Tanjicz;;;Mandora;;3/4;"[,cda/] ,,,,a [,,dc1] [,a,,f] | [,,ca/] ,,a/4 ,,,a [,,daa/] ,,c ,,d ,a | \
+[,cda/] ,,,,a [,,dc1] [,a,,f] | \
+[,,ca/] ,,a/4 ,,,a [,,da1] ,,,,a :||:";french5tab
+75;;34r;Gige;;;Mandora;;3;",,,a/ | ,,,a/ ,,,,d ,,,a ,,,a ,,,,d ,,,a | ,,,a/ ,,,,d ,,,a ,,,a1 ,,d/ | \
+,,d/ ,,,a ,,d ,,d ,,,a ,,d | ,,d/ ,,,a ,,d ,,d1 [,ac/] |";french5tab
+76;;34v;Tanjicz;;;Mandora;;3/4;"[,cda/] ,d [,c,a] ,a ,c ,,d | [,aca/] ,c [,dd1] ,,,,f | \
+[,cda1] ,c/ a ,d ,c | [,ac/] ,,,a ,,,a2 |";french5tab
+77;;35r;Runda;;crossed;Mandora;;2;",,d/ ,a | [,cdaa1] [,cdaa] [,cdaa] [,cdaa] | [,cdaa2] [,cda1] [,aca] | \
+[,cda1] [,,cda] [,cda] [,da] | [aaca3] ,,c/ ,,d | \
+[,aca1] [,aca] [,aca] [,aca] |";french5tab
+78;;35r;Tanjicz;;;Mandora;;3/4;"[aaca3/4] c/4 d/ c/4 a [,da1] | [aaca/] ,d/4 ,c ,a/ ,,d ,,c ,,,a | \
+[aaca3/4] c/4 d/ c/4 a [,da1] |";french5tab
+79;;35v;Air;;;Mandora;;C;"[a,,a/] | ,c3/4 ,a/4 [,cd/] ,a/4 ,,d [,,ca/] [,,dc] [,ac] [,cd] | \
+[,d,,c/] [aaca] ,c ,a/4 ,,d [,,da1] ,,,,a/ :||:";french5tab
+80;;35v;[In su?];;;Mandora;;3/4;",,,a2 ,a1 | [c,b3/2] ,,a/ [,,bd1] | ,,d1 ,,b [,,ac] | \
+[,,bd1] ,,,a [,ab] | [aaba3/2] c/ d1 | [cd2] ,a1 | \
+d3/2 c/ [ab1] |";french5tab
+81;;36v;Engltantz;;;Mandora;;C;"[,,daa1] [,ac] [,bd] ,d/ ,b | ,a1 ,,d [aaca] ,,,,c | \
+[,,daa1] [,ac] [,bd] ,d/ ,b | ,a1 ,,d [,,ca] ,,,a |";french5tab
+82;;37r;[?Meine?] Sünde;;crossed out;Mandora;;C;",,d1 ,a | [,cda1] ,,,,a [,dc] [,da] | [aacac1] [aaca2] a1 | \
+a3/2 ,d/ [,cda1] ,,,,a | [,dc1] a/ ,d [,cd1] ,a/ ,,,a |";french5tab
+83;;37v;Tanjicz;;;Mandora;;3;"[,,daa/] ,,d/4 ,a [,bd1] [,ac] | [,bd3/4] ,d/4 [ab1] ,d | \
+[da/] a f ,a ,b ,d | ,b/ ,a [,bd1] ,,,,d :||:";french5tab
+84;;37v;Paspe;;;Mandora;;3/4;",,d1 | [,bda1] ,,,,a [,db] | [ab1] ,d/ a [bd1] | \
+[ab1] ,d/ a b ,d | a/ ,d ,b ,a ,,d ,a |";french5tab
+85;;38v;[illeg.];;crossed out;Mandora;;C;"[,,daa2] ,,d/ ,a [,bd1] | [,ab/] ,,d [,,ba1] [,,db] ,,,,f/ ,a | \
+[,bd1] [,ab/] ,,,,d ,,d3/2 ,,a/ | H[,,bd3] [,aca1] |";french5tab
+86;;39r;Christus, der un seelig macht;;crossed out;Mandora;;C;"[abdaa1] [aac] [ab] [,d,,c] | [,db1] [,bd] [,a,a] !fermata!y | \
+[,,daa/] ,,,,f [,,ca] ,,,,f ,,d ,,,,c [,ab] [ca] | \
+[,db1] [ab] [,d,d] [,ba] |";french5tab
+87;;39v;Tanjicz;;;Mandora;;3/4;"[abdaa1] [abdaa] [abdaa] | [bd1] b/ d b a | [,db1] [,db2] | \
+,d1 ,d/ ,b ,d ,a | [abbad1] ,d/ a ,d ,b |";french5tab
+88;;40r;Tanjicz;;;Mandora;;3;"[,cda/] ,a [,,dc1] [,,ca] | ,,d/ ,,c/4 ,,a ,,,a2 | \
+[,,daa/] ,a/4 ,c ,d/ ,c ,d a | ,c/ ,a [,cda1] ,,,,a |";french5tab
+89;;40v;Engltantz;;;Mandora;;2;"[abda1] | [,bda1] ,d [abda] [,,da] | [,,ca1] [,,dc] [,aca] [,bda] | \
+,d1 ,b/ ,d [,aca1] [aaca] | [,bda1] ,a/ ,b [,,daa1] [abda] |";french5tab
+90;;41r;Czos?;;;Mandora;;3/4;"[,bda1] ,d/ a b d [abba1] ,,,,d2 | [abba1] ,d/ a ,d ,b | \
+,a/ ,,c [,,da1] ,,,,a :||:";french5tab
+91;;41v;Men:;;;Mandora;;2;",a/ ,,d ,,c ,,a ,,,a1 [,aca] | [aaca3] [,aca1] | [aaca1] [,aca] [aaca] [cd] | \
+d/ c d f [ca1] [,aca] | [aaca1] [,aca] [aaca] [cd] |";french5tab
+92;;42r;[illeg.];;crossed out;Mandora;;C;"[,,daa2] [,,d,a1] [,bda] | [,bda1] ,d [,ada] !fermata!y | \
+[abb2] ,b1 ,d | [,bd1] [,b,,a] H,a2 | [,aca2] ,b1 ,d |";french5tab
+93;;42v;Boure?;;;Mandora;;2;"[,cda1] | ,a3/2 ,,d/ [,aca1] [,aca] | ,,d/ ,,c ,,d ,a [,,daa1] [,cda] | \
+,a3/2 ,,d/ [,aca1] [,,ca] | [,,da1] ,,,,a2 :||:";french5tab
+94;;43r;Tanjicz;;;Mandora;;3/4;"[,,daa/] ,a [,bda] ,a ,b ,d | ,a/ ,,d [,aca1] ,,,a/ [ab,ad] | \
+[,db/] a [,bda] ,a [,bd,a] ,d | ,a/ ,,d [,aca1] ,,,a :||:";french5tab
+95;;43v;Rigodon;;crossed;Mandora;;2;"[,,daa2] [,cda] | [,aca3] ,c1 | [,da1] [,cda] [,aca] [,,dc] | \
+,a/ ,,d ,,c ,,a ,,,a1 ,,,a | [,,da2] [,cda] | [,aca3] ,c1 |";french5tab
+96;;44r;Air;;;Mandora;;C;"[,,d,a1] [,bda] [,aca] [aaca] | [,bda1] ,a/ ,,d ,,c ,,a ,,,a | \
+[,,daa1] [,bda] [,aca] [aaca] | ,b3/2 ,a/ [,,da1] ,,,,a :||:";french5tab
+97;;44v;Men:;;;Mandora;;3/4;",,d/ ,,c ,,d ,a ,,d ,a | [,cda1] [,,da] [,,da] | [acd,a1] [,,da] [,,da] | \
+[fcda1] [,,daa] [,,da] | ,,d/ ,,c ,,d ,a ,,d ,a |";french5tab
+98;;45r;Bourrée;;;Mandora;;2;",c/ ,d | [acda1] [acda] [acda] [cd] | a/ ,d ,c ,a [,,da1] ,a/ ,c | \
+,d1 [,da] [,da] [,cda] | ,a/ ,d ,a ,c [,aca1]";french5tab
+99;;45v;Nun last uns Gott den Herrn;;crossed out;Mandora;;C;",,d1 | [,cdca1] [,,da/] ,,c ,,a ,,c [,,dc1] | \
+[,a,a3/2] ,,d/ [,,,aa1] [,,dc] | \
+[,a,a1] [,aa/] ,,d ,,c ,,a ,,,a1 |";french5tab
+100;;45v;Amallen Cocin?;;;Mandora;;3/4;",a1 | ,,c3/2 ,,a/ ,,,a1 | ,,,a2 [,,aac1] | [,,ca1] ,,d/ ,,c ,,a ,,,a | \
+[,aac1] ,,,,c [,a,c] | a1 [,aca] [,cd] | \
+[,,ca3/2] ,,d/ [,ac1] |";french5tab
+101;;46v;[… der Tage?];;crossed out;Mandora;;C;"[adda2] [,,daa1] [,aca] | [,bda1] [,bda] [,db] [,,dac] | \
+[a,,a1] [da] [ce] [,ab/] ,,,,a | \
+[aa3/2] [,da/] H[aaca1] [a,,a] |";french5tab
+102;;46v;Straff uns nicht in deim Zorn;;crossed;Mandora;;C;"[,cda1] ,c3/4 ,d/4 [acda1] ,,,,a | [,,dc1] [,ac] [,cdc] H,,,,a | \
+[cd1] [da] f ,f/ ,d | ,a3/2 ,,d/ [,,da1] ,,,,a :||:";french5tab
+103;;47r;Tanjicz;;;Mandora;;3/4;"[,cdaa1] ,c/ ,a ,c ,d | [acdaa1] a/ c a ,d | \
+[,cdaa1] ,c/ ,a ,c ,d | a1 [,cda] ,,,a :||:";french5tab
+104;;47v;[illeg.];;crossed out;Mandora;;C;"[,,,aa2] [,,,ad1] [,,,ba] | [,ad1] ,,d/ ,a ,,d1 [,c,,a] | \
+[,,dc3] ,,d1 | [ac1] [a,,,d] [,d,,f] ,,d | \
+[,ab/] ,c ,d ,,a ,,,a [,ca,a1] |";french5tab
+105;;48r;[illeg.];;crossed out;Mandora;;C;"[,abd2] [,bnad1] [,db/] a | [,dd1] ,,,,f [,db] ,,,,d | \
+,,d3/2 ,,,,f/ [,abd],,d ,,b ,,a | [da1] ,,,a ,,a ,,d |";french5tab
+106;;48v;Men:;;followed by torn off pages;Mandora;;3/4;"[,,daa/] ,a [,bd1] ,a/ ,,d | ,,c1 ,,,a ,,d | ,a1 ,,c ,,,a | \
+[,,daa/] ,,c ,,d ,a ,,d1 | [,,daa/] ,a [,bd1] ,a/ ,,d |";french5tab

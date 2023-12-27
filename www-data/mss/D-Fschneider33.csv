@@ -1,0 +1,112 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;F dur;1r;Prelude du ton F (G A K = Kalivoda);;;;;3;"[edd{,a}] [ccd{,,a}] [aad{,,,a}] [aac{a}] 'a ,,,h/4 ,a ,,h a \
+V[,h] g Vh {4}/> ,,,,,d ,,,,,b (,,,,,d/ ,,,,,b) [aVdd,,a1]> a \
+[abd,,a] ,,,,,a ,,d ,b a (,b ,a) ,,d ,a";
+2;F dur;1v;Partie du ton naturelle F - Entrée;;;;;2;"[,,ded{,a}2] [,aVda] | [,,'aa{,,,a}3] ,/ [,,a{d}/] | [,a,a{b}1]> \
+,a [,,'d{,,a}1]> ,,b | [,,'a{,a}2] ,,,a | [,,ded{,a}2] \
+[aVda{,,,a}] | [,'ac{a}3] ,/ [,a{,a}/] | V[c,d{,,a}1]> c \
+['a,a{,a}1]> ,c | [,'ac{a}1]> ,,,,,a {a}1 {,a} | ";
+3;F dur;2v;Rondeau;;;;;3;"(,,a/ ,,b) | [,,d{,a}1] (,,d/ ,,b) [,,d,,a1] | ([,a,a,b1] ,c) \
+a | [,,d{,a}1] ,a/ ,,d ([,,b{d}] ,,a) | [,,,'c{4}2] ,,d1 | \
+[a,,,,a1] [,'c] [,a,,,b] | [,,d,,a1] [,,'b] [,,a{d}] | ";
+4;F dur;3v;Gavotte;;;;;2;"[,,,'a{,a}/] ,,,c ,,a [,,b{a}] | V[,,d,,a1] [,,'a{,a}] \
+[,ad,,b1] ,,,,,d/ ,c | [,ad,,,a1] {a}/ ,c [,'a{b}1] [,,d,,d/] \
+,,b | [,,'a,a/] ,,,c [,,a,,d] [,,b,,b] [,,d,,a] ,a [,,'b{d}] \
+,,a | ";
+5;F dur;4v;Menuet;;;;;3;"[aVd,a1] [,'a2] | [,,'de{,a}1]> ,a ,,d1 | [,,b{d}1] (,,d/ \
+,,b) [,,'a,,d] ,,,c | [,,a{,a}/] ,,,c ,,a ,,b ,,a1 | [ad,,a1] \
+[,'a2] | [,,'de{,a}1] ,a ,,d1 | ";
+6;F dur;5v;Chaconne;;;;;3;"[,,aad1] {,a} [,,aad] | [,,,ccd1] [,,dcc] (,,d/ ,,b) | \
+[,,'aaa{,,,a}1] {,,a} [,,a{,a}1] | ,,,,,b/ ,,,c [,,,'c{4}1] \
+(,,a/ ,,b) | [,,aad{,a}1] [,,aa] ,,a | [,,,ccd1] [,,dcc] \
+(,,d/ ,,b) | ";
+7;g moll;8v;Prelude du ton G;;;;;2;",,,,f1> ,,a ,,,f ,,a ,,,,f ,,a ,,,f ,,d ,a ,,,,f [,,,,'e1]> \
+,b [,'a/]> ,,d ,a (,,d ,,b ,,a) ,,,c (,,a ,,c ,,d) ,a {a}3/2";
+8;g moll;9v;Allemande;;;;;C;",a/ | [,abc{a}3/2] ,c/4 b Vc/ ['a,,,,a/4] ,b {d} ,a ,,,a/ \
+,,,c/4 ,a (,b ,a) | ,,,,,a/4 ,,d ,,,b ,,,,c ,,,b/ (,a/8 ,,d) \
+,a/4 ,,d [,,'b{a}/] ,,,,,a/4 ,,a ,,,,,b ,,,c ,,,,,d ,,a | ";
+9;g moll;10v;Courante;;;;;3;",b/ ,a ,,d | [,,'b{a}1]> ,,a ,,,c1 | [,,,'ba1] [,,,cb] \
+[,,ac,d] | [,,,'ba1]> ,,,c ,,a1 | [,,,c,b1] [,,ac,d] [,,,'ba] \
+ | V[,,,c{a}1]> ,,a ,,b ,,,c | ,,,,,a/ ,,d [,,,'a1]> ,,,,b | ";
+10;g moll;11v;Sarab;;;;;3;"[,ab{a}1] c e/ f | ['e,,,e1] ,a e | V[f{a}1] ,,,,,a/ a ,,d \
+,b | [,'a{d}1]> ,,d (,,b ,,a) | [,,,cb1] ,,d ,,,,,d | ";
+11;g moll;12v;Gavotte;;;;;C;"[,abc1] [,aab/] ,,d [,,'b{a}] ,,a ,,,c1 | [,,,'ba1] ,,,,a/ \
+,,,,,d [,,,c,'b] ,,,,,a {a}1 | [,,a{,b}1] ,a/ ,,d [,,'b{a}1]> \
+,,b | [,,da,a1] a/ ,b [,a{d}] ,,d ,,b1 | ";
+12;g moll;13v;Menuet;;;;;3;"[,,bc{a}1]> ,,d ,,b1 | [,,'a,,a1] [,,,c,b2] | [,,a,,d1] \
+[,,,'ba] ,a | [,,'b{a}1]> ,,a ,,,c1 | [,,d,,a1] 'a1> ,b | \
+[,'a{d}1]> ,b a1 | V[c{,,a}1] [,,'da{,a}1]> ,,a | V[,,b{d}1] \
+,,,,a [,,ba] :| ";
+13;g moll;14v;Gigue;pp. 15v-16 empty;;;;6/8;"c1 ,a/ V[,b1] ,,d/ | ,a1 ,,a/ V[,,bc1] ,,,,a/ | ,,,,b/> ,,,c \
+,,,,,d/ ,,,,a/> ,,,b ,,,,,a/ | V[,,,,,b/]> ,,,c {a}/ \
+[,,a{,b}/]> ,,b ,,d/ | ";
+14;C dur;16v;Allemande;;;;;C;",,d/ | [,,dcc{4}1] [,'a/] ,,d/4 ,a V[,c,,,d/] {4} c [ca,,,c] | \
+[cc,,,d/] [c,,,a] [c,,,c] [e,,,,d/4] c ['aa,,a/] ,,,,,d \
+[aa,,,c/] [c{a}/4] ,a | ";
+15;C dur;17v;Courante;;;;;3;",,,c/ ,,a ,,c | V[,,d1] {4}/ ,,,c ,,,,c ,,a | ,,,,a/ ,,,a \
+,,,,,c ,,,,a ,,,c ,,,,d | [,,,,'cd1] ,,,,,c/ ,,,c ,,a ,,c | \
+V[,,d,,a/] ,,,c ,,,b ,a ,,a ,,d | ";
+16;C dur;18v;Bourée;;;;;2;"c/ a | V[,cd1] (,c/ ,a) V[,cd1] (,,d/4 ,,c ,,a/) | ,,,c/ ,a \
+(,,,c ,,,a) ,,,,c1 ,,,c/ ,,d | [,,a,d1] ,,,,c ,,,,e/ ,,a ,a \
+,,d | ";
+17;C dur;19v;Sarab;;;;;3;"[,cd,,a1] [,cd{a}] V[ed{,a}] | ['cc{,,a}1] [cc{,,,a}] \
+([cc,,,e/] e) | ['aa,,a/] ,c ,a (h ['g{,,,a}]) ,h | \
+[,'g{,,a}1] ,,h1> {,,,a} | [,cd{4}/] {,,,a} {,,a} c ,,d e | ";
+18;C dur;20v;Menuet;;;;;3;"[,cd{4}/] a (c1 e) | ['c,,,,c3/2] ,d/4 c ,d1 | [,c{4}1] (,d/ \
+,c) [,a{,a}] ,,d | [,,'c{a}1] (,,a/ ,,c) ,,,c1 | ([c{,,a}/] \
+a) c1 ,,d | ";
+19;C dur;21v;Sarab;;;;;3;"{4}/ ,c [,cdccd1] (,d/ ,c) | [,'a,,,c/] ,a [c,c1]> ,,c | \
+V[,,d,,a/] ,,,,c [,aa,e1]> ,,d | [,,'c{a}/] ,,a ,,,c3/2 \
+(,,,e/4 ,,,c ,,,a) | [ccdcc/] ,a [,,'d{,,a}1]> ,,b | ";
+20;C dur;22v;Gigue;;;;;12/8;",,d/ | [,,dcc{4}1] (,d/4 ,c ,a/) ,c/ ,,d ,c c ,c c h1 \
+{,,,a}/ | ['c{,,a}/]> ,,d c/ V[e{,a}1] ([,d{a}/4] ,c) \
+V[,d,,,a1] [c,,,,c/] V[,c,,,d/]> a ,c/ | ";
+21;C dur;23v;Courante;;;;;3;"(c/ a) ,c/4 a | ,c1 {4} [,'a/] ,,d/4 ,a | [,,d,,a/] ,,,,c \
+V[,,,,d] ,,a ,a ,,d | [,,'cc{a}1]> [,,,'a] (,,,,c ,,,,a) | \
+[,,d,,d1] [,a,,,c] [,c{a}] | ";
+22;F dur;24v;Pastorelle;;;;Conc_3600;C;",,d/ | [,,de{,a}/] a [a,a] [c,b] [,'c{4}] ,,d ,,d [a{,,,a}] | \
+V[c{,,a}/] (3,d/4 ,c ,a) ,,d/ [c{4}] [e,d{,a}1]> e | ([e{,a}/] \
+c) ([c{,,a}] a) ([,d{,,,a}] ,c) [,c{4}] [a{,,,a}] | ";
+23;F dur;25v;Gigue;;;;Conc_3601;6/8;"[ad{,a}1] c/ (e c) a | [c,d{,,a}3/2] h1 ,,h/ | ([a{,,,a}/] c) \
+e ([c,,,,c] e) a | [,'c{4}3/2] ,,d1 ,h/4 f | V[h,,,,a1] h/ \
+([h,,,a] f) ,h | ";
+24;d moll;26v;Menuet;;;;;3;"([,aa,a2] [,ca,,e1]) | [ac,,a1] [,'a] [e{,a}] | [,a{a}1] \
+[,,a,,a/] (,,,c ,,,a) ,,,,c | [,,,,d{,,,a}1] (,,,,c/ ,,,,d) \
+,,,,a1 | [a,,,a/] (,c ,a) ,,d (,,b ,,a) | ";
+25;d moll;27r;Menuet;pp. 27v-29r empty;;;;3;"[,aa,a1] {,,,a} [e,,,,d] | [,a{d}1] [,'a,,,a/]> ,,e [,a{a}1] | \
+[ea{,a}1] (c/ a) ([,c{a}] ,a) | [,,e,,a1] (,,c/ ,,e) ,,a {a} | \
+[,aa{,a}1] ([,,d{a}/] ,,b) [,,'a,,a] ,,,c | ";
+26;d moll;29v;Gigue;;;;Conc_4061;6/8;",,a/ | [,aa,a3/2] [ec,,,e] | ['a,,,a1] ,a/ ,,a1 [,,e,,a/] | \
+,,,,d/ ,,a ,a ,,,e ,,e ,c | ([,a,,d/] ,c) [,a,,a] ,,,,,e \
+,c ,,,,,a | ([,d,,a/] ,c) ,d ([,a{,,,a}] ,c) ,d | ";
+27;d moll;30v;Sarab;;;;Conc_4060;3;"[,aaa{,,,a}/] ,a [,,ec{,,a}3/2] (,,e/4 ,,,f) | [,ae{,a}/] (,a \
+[,ca,,e1]) (,d/4 ,c ,a ,c) | [acaaa/] a [aab{a}1] (,d/ ,c) | \
+[,cb{a}/] ,c [,ca{,a}1] [,'a] | ";
+28;d moll;31v;Gavotte;;;;;2;",a1 (,d/ ,c) | [,'a,,a1] [ea,,d/] ,,,,c [ea,,a1] [,ec,,,e/] \
+c | ['a,,,a/] ,c/4 a ,a1 [ka{,,,a}1] ['h{,,a}/] ,i | \
+[,'h{,a}1] V[,i/] h [,,,c{4}1] [,'c/] a/4 ,c | [aVd1] {,a} :| ";
+29;d moll;32r;Menuet;p. 32v empty;;;Conc_4059;3;"[,a,,a2] ,,a1 | [ec,,,e1] (e/ c) (,d ,c) | V[,d,,a1] \
+([c{a}/] a) (,c ,a) | ,,,,,a/ ,,e (,,,e ,,,c) (,,,,d ,,,,c) | \
+,,,,,a1 [,aa] [,ca,,e] | [,da,,a3] | ";
+30;d moll;33r;Prelude du ton D ordinaire;;;;;C;",,,,a/ ,,a ,a ,,,,,e ,,a ,c ,,,,a ,c a ,,,,,d ,,a ,c {d} \
+,,a ,a {a} ,,b ,c ,,,,,a ,,,c ,,e";
+31;d moll;33v;Allemande;Weichenberger?;on Weichenberg CD (Satoh);;Conc_3508;2;",a/ | [,aaa{,,,a}3/2] (,,a/4 ,,c ,,e) ,a/ ,,e ,a [,'c/4] \
+a/8 ,c | [a,,,a/] ,,,,,e ,,,,a [,,,,'c] V[,,,,d] a ,,,c ,c | ";
+32;d moll;34v;Courante;Weichenberger?;on Weichenberg CD (Satoh);;Conc_2236;3;"(,,a/4 ,,c ,,e) | ,,,,a/ ,a ,,a ,d [,'c] ,a | ,,,,,e/ ,c ,,a \
+e c e | ['aa,,a1]> a [,c,,,d] a | {d}/ ,a {a} ,a (,c ,a) | ";
+33;d moll;35v;Air;;;;;C;"[eaa{,,,a}1] ['a,a,,e/] ,c/4 a [,'a,,a1] [,'da] | [,,dcc1]> \
+,,b [,,'a,d1] {,a}/ (e/4 c a) | V[c{,,a}/]> ,,c V[,,e/] e \
+['aaa{,,,a}1]> [c,b] | ";
+34;d moll;36v;Bourée;Weichenberger? - p. 37v empty;on Weichenberg CD (Satoh);;Conc_3509;2;",,a1 | ,a1 [e,,,,a/] c ['a,,,a1] [,c,,c] | [,a,,d1] [,c,c] \
+,,,e/ ,,e (,,,e ,,,c) | ,,,,d/ ,a (,,,,d/4 ,,,,c ,,,,a/) \
+,,,,,e ,c ,,,,a a | ";
+35;d moll?;38r;Prelude du Ton ….;;;;;C;"[,aa,a1]> ,a [aa,,a1]> a [,ca,,e1]> ,c [ec,,,e1]> e [ea{d}1]> \
+e c1> c [c,e,,a1]> c [a,,Vf,a1]> a [a,b{a}1]> a [,cb{a}1]> \
+,c [,'aa{,a}1]> ,a [cce{,,a}1]";
+36;;38v;Allemande;;;Mandora;;C;"[V:L5c] ,f1 ,,f1> ,f [,'d/] ,,e V[,f/] ,,e/4 ,d | ,,f/ ,,,,a/4 ,,f \
+[,,'e/] ,,,,,a ,,,d/4 ,,c ,,,c ,,c [,'dca/] [,'a/4] ,,c | ";french5tab
+37;;39v;Courante;;;Mandora;;3;"[V:L5c] ,f/ | ,f1 ,,,,a1> ,,b | ,,c/ ,b ,a ,d [,b,,a] a | ,,,,c/ ,,b \
+,d (,b [,a,a]) ,,c | ,,b/ a (,,,c ,,,a) ,,,,d ,,c | ";french5tab
+38;;40v;Bourée;;;Mandora;;2;"[V:L5c] ,,c/ ,a | V[,b1] ,,,,a/ ,,,,c ,,,,d a ,b a | ([b,,a/] a) \
+(,d ,b) ([,b,c] ,a) ,,b a | ,,,d/ ,,c ,a ,b [,'d,a1] \
+[,'a/] ,,c | ";french5tab

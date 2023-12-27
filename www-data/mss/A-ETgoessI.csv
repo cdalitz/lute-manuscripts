@@ -1,0 +1,508 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1;g moll;1v;Prél. p. du Faut;F.Dufault;;;Conc_1153;none;"[,abc/] {a}1 [,abc2] [,,'a3/4] ,,,c/4 {,,,a}1 ,,,,,f ,,,,e \
+,,,e ,a1 [,,,,,'d/] {a} ,,,,,b1 ,a ,,,c {,b} ,,,,,a ,,d ,,,,a"
+2;g moll;2v;Prél. p. du Faut;F.Dufault;;;Conc_1154;none;"[,abc{a}1] [cabc2] {,,,a}1 ,,,,a ,,,c ,,a ,a e1 ,,,,e/ \
+,,,,c ,,,,e3/2 ,a/ e3/2 f/ h1 {a}/4 ,h f ,f ,h1 [,eh{,,,a}2]"
+3;g moll;3v;Prél. p. du Faut;F.Dufault;;;Conc_1155;none;",,b/ ,,,c3/2 ,,,,a/ ,,b1 {a} ,,,,a ,,,c ,,b3/2 ,,,,e/4 ,,,,c \
+,,,,e3/4 ,,,c/4 ,,a1 ,,,,,d [,,,,,'b3/2] ,,,,a/ ,,,c1 \
+,,,,,d {c} ,,,,,d ,,,,e"
+4;g moll;4v;P. par du Faut;F.Dufault;;;Conc_1156;none;",a/ c1 {a} ,,,,a ,,,c ,,b ,a c3/2 e/ f3/2 ,,,,,f {,,,a}1 \
+,,,,e ,a e ,,d {a}3/2 c/ ,a1 ,,b [,,d,,a] a1 ,,,a"
+5;g moll;5v;Prél. p. du Faut;F.Dufault;;;Conc_1157;none;",a/ ,,b3/2 ,,,c/ ,a1 {a} ,,,,a ,,,c1 ,,b/ ,a3/2 ,,,,,a/ \
+,,,,,b1 ,,,c {,b}3/2 ,,,,a/ ,,a3/2 ,,b/ ,,d1 ,,a"
+6;a moll;9v;Prél. p. du Faut;F.Dufault;;;Conc_1158;none;",,d/ ,,,e3/2 ,,,,c/ ,,d1 ,,,,,a ,,,,c ,,,e ,,d2 [,,'d3] \
+,,d/ {,,a} ,,c ,,,d ,,,,c ,c3/2 ,,,,,f/ ,,,,,d1 ,c ,,,e ,e"
+7;a moll;10v;Prél. p. du Faut;F.Dufault;;;Conc_1159;none;"[,,ae2] ,,,,,a1 ,,,,c [,,,'d2] ,,,,a1 ,,,,,d ,,a ,,,,,c \
+,,c ,,,,,a ,,d ,,,e ,c [,,,'d2] ,,,,e/ {,,a}1 ,,,d ,,c ,c3/2"
+8;a moll;11v;Prél. du Faut;F.Dufault;;;Conc_1160;none;"[,cde/] ,,,,,a1 ,,,,c ,,,e ,,d ,c3/2 ,,f/ {,,a}1 ,,,,c3/2 \
+,,,d/ ,,c1 ,,,,,f [,,,,,'c] {4}1 ,,,,,d ,,a ,,,,c {,,,a}3/2"
+9;a moll;12v;Prél. p. du Faut;F.Dufault;;;Conc_1161;none;",c/ e1 ,,,,,a ,,,,c ,,,e ,,d ,c e3/2 g/ h3/2 ,,,,h/ ,,,,g1 \
+,,h g ,,f ,,,e1 ,,d ,c e3/2 ,,,c/"
+10;a moll;13v;Prél. p. du Faut;F.Dufault;;;Conc_1162;none;"e/ ,c3/2 ,,a/ e3/2 ,,,,,a/ ,c1 'c2 c1 ,,,e3/2 a/ ,,,e1 \
+,,,,c [,,,'c] ,c3/2 ,,,c/ [,,,a,a1] ,a ,,,,c3/2"
+11;A dur;14v;sans titre;V.Gaultier;;;Conc_1163;3;",c1 | \
+[,c,e1] [,,'e3/2] ,,e/ | \
+[,ac1] [,'ac3/2] ,,,e/ | \
+[,a,d1] [,,'c1] [,'c/] ,a | \
+[,,ee1] [,,cdc3/2] ,,e/ | \
+[,,a,e3/2] ,,,,,e/ [,,,,ef1] | \
+,,c1 [,,c,ce3/2] ,,,f/ | "
+12;a moll;15v;Cour: Gault.;V.Gaultier or D.Gaultier / Mouton;La Belle Homicide;;Conc_8;3;"e/ ,c ,d | \
+[,'c,,,a1] ,,a3/2 ,e/ | \
+[c,,c1] ,,,a/ ,,a e3/4 e/4 | \
+['d,,,c1] {,,a}3/2 e/ | \
+[e,,,,a1] ,,,e/ ,,d ,c ,e | "
+13;a moll;16v;Cour. du Vx Gault.;V.Gaultier;Les Larmes de Boisset;;Conc_3;3;"[,,a,cd1] ,,,,,c/ ,,,,a [,,'a] ,,,d | \
+,,a/ ,,,,,a ,c ,,,,,a {b} ,,c | \
+,,,,,a/ ,,,,c ,,d {a} [,a{,a}] ,a | \
+{,,a}/ ,c ,,,,c1 [,,cd/] ,,c | "
+14;f# moll;17v;Allemande;;;;;C;",e/ | \
+[,eee/{,a}] ,,,,e1 [,'g/] e/4 ,g e/ ,,,g ,,e | \
+,,,g/ [,,,'e] ,,,,g ,,,,e ,e {,a}1 ,,e/ | \
+{,,a}/ {,,,a}/4 ,,e ,e/ ,,,g3/4 ,e/4 [,d,d{4}/] ,,,,,e1 | "
+15;f# moll;18v;Gigue Gotier;Gaultier;;;Conc_27;C;"[,eee{,a}3/2] ,g/ ,h ,,e ,,f ,,,g | \
+[,,ee/] ,,,,e ,,,,g ,,,,e ,,,,d/4 ,,e ,,,d/ [,,'c] ,,e | \
+[,,a,e/] 'd e [,,c] [,ce] [,,'c] [,e,e] ,,,d | "
+16;f# moll;19v;A: But Favorite;Du But;Allemande Favorite;;;C;"[,eee{,a}3/2] [,'c/4] ,a ,,e/ ,,,,e/4 ,,e ,a/ [,,'c/4] ,a | \
+,,e/ {4}/4 ,b [,d,,,e/] ,,,,,c [,,,,,'a] [,ee] [de{a}] [,'d] | \
+[e{,a}/] [,e,,e3/2] [da{,a}/] [e,e] [eac] 'd | "
+17;f# moll;20v;T.F.;Du Fresneau;Allemande Le Tombeau;;Conc_1164;C;",,e/ ,,e | \
+[,,eee1] {,a}/ ,,,g/4 ,,e [,,,,'g/] ,,,e/4 ,,,,g ,,,e/ ,,,,e | \
+[,,edd1] {4}3/4 ,,d/4 [,,'a/] ,,,d [,,a,e] ,a | \
+,,,,c/4 ,,f ,c ,,e [,e,,a1] {,,,a}/ [,,,,'c] ,,,,e ,e | "
+18;f# moll;21v;A. Fresn;Du Fresneau;Allemande;;;C;",,e/ | \
+[,,eee{,a}3/2] [,,'c/] ,,e ,,,,e ,,,,d/4 ,,,d ,,e ,,c | \
+[,,'a,e/] ,,,d/4 ,,a [,,,d,e] ,,a ,,,d ,,,,e [,,,,'d{4}/] \
+,,,,,c ,,,,,a/4 ,,,,e ,,,d ,,a | "
+19;A dur;22v;C. Fresn;Du Fresneau;Courante;;Conc_1165;3;"e1 ,a1 ,,e/ ,c | \
+,,f/ ,e [,,'e1] [,,'c/] ,a | \
+e/ d [e,a1] ,,,,,a/ ,c | \
+,,e/ ,e ,,,,,c/ ,a ,,,,e1 | \
+,,,d/ ,,c ,c [,,,,'c] ,,,e ,,e | "
+20;A dur;23v;S: Fresneau;Du Fresneau;Sarabande;;;3;",,a/ | \
+[,,aeca1] [,,aec3/2] ,,c/4 ,,,e | \
+[,,dc{,,a}1] [,,,dc3/2] ,,,,a/ | \
+[,,a,,e1] [,,'c,c{a}3/2] ,,c/ | \
+[,,e,,a1] [,,eec3/2] ,,,c/ | \
+[,a,,e1] {,,,a}3/2 ,a/ | "
+21;f# moll;24v;Les Larmes de Fresneau;Du Fresneau;;;;C;",,a/ | [,,aee{,a}3/2] [,,'cd/] [,,ee] ,,,,e [,,e,d] \
+,,,d/4 ,,c | \
+[,,aee/] ,,,,,c ,,,,,e/4 ,,,,d ,,,,e ,,a [,,,'d{4}/] \
+,,,,e/4 ,,,d [,,,,e{,a}/] [,,,'d] ,,a/4 ,,,d | "
+22;f# moll;25v;Prélude par du But;Du But;;;Conc_1167;none;"{,a} ,,,,e ,,,d ,,a ,,,,e [,,,,'d] ,,e ,,,d ,,c {,a} [,,'a] \
+,,,,,e ,,,d ,,,,,c [,,,,,'a] ,,,,e {a} [,,,,'d] ,,c {,a} \
+,,,,a ,,a {,,a} ,,,,,e ,,a ,c"
+23;f# moll;26v;Allem.;;;;;C;",,e/ | \
+[,,eee{a}2] [,,edd{4}1] ,,e/4 ,,,g/8 ,,e | \
+[,,,'d/] V,,,,e {,a} ,,e [,,#edd1] {4}/ ,,,g | \
+[,,,'eee1] ,,,,g/ ,,a [,,c,e{a}] V,,e [,,'a{,a}1] | "
+24;f# moll;27v;Cour. d'Aymon;Emond;Courante Le Beuf;;Conc_1168;3;",e1 | \
+[,eee{,a}1] ,,,,e [,'g/] e/4 ,g | \
+e/ ,,,g ,,e3/4 ,,,g/4 [,,,'e3/4] ,,,,g/4 | \
+,,,,e/ ,e {,a}1 i/ ,,,,g | \
+V,,,,g/ i ['g,,g1] ,,e/ e | "
+25;f# moll;28v;Cour. d'Aymon;Emond;;;;3;",e1 | \
+[,e{,a}1] ,,,,e3/2 ,e/ | \
+[,'c{a}3/4] ,a/4 [,,'e,,a/] ,a/4 ,,e ,a/ ,,,,,c | \
+,,,,,e1 ,,a/ ,,,d [,,,'ba1] | \
+,,c/ ,,c {4} ,,e ,,,,,e [,,'a] | "
+26;f# moll;29v;Sarab.;Gaultier;#26;;Conc_1169;3;"[,,aee{,a}1] [,,aee/] [,,aee] {4}1 | \
+[,,,d,e3/2] ,c/ ,,,,c1 | \
+[,a,,e1] ,,,d [,,ee,a] | \
+[,,'cd{,,a}3/2] ,,,e/4 ,,c [,,,e,a1] | \
+,,e3/2 ,,,e/ [,,'cd1] | \
+[,,ee1] {,a} ,b | "
+27;f# moll;30v;La Chevre du Vx Gaut: Canaries;V.Gaultier;;;Conc_214;3;",e1 | \
+[,'d{4}2] ,,a1 | \
+,,,d3/2 ,e/ ,,,,e1 | \
+d3/2 ,,,,d/ ,,e1 | \
+{4}3/2 ,,,,e/ [,,,'d1] | \
+,,a3/2 ,,,,,e/ ,,,,,f1 | \
+,,,,e3/2 ,,c/ ,,,d1 | \
+,,e3/2 {4}/ ,,,,,e1 | "
+28;f# moll;31v;Pavane;;;;;C;",,,,e1 {,a}/ ,,,d ,,a ,,,,e ,,e [,,'c] | \
+,,e/ {,a}1 d/ ,e {,a} ,e d | \
+e/ ,,,,e ,e ,,,,g [,,he] ,e ,,,g ,,f | \
+[,,eg{,a}1] ,,,e/ ,,g [,cee{4}1] [,aab{,,,a}1] | "
+29;f# moll;32v;Cour.;D.Gaultier;Courante 'Le Triomphe';;Conc_753;3;",,e1 | \
+[,,ee{,a}3/2] ,,c/ ,,e ,,,d | \
+,,,e/ {4} [,,,'d] ,,a/4 ,,,d ,,a/ ,,,,d | \
+,,,,e1 {,a}3/2 ,,,d/ | \
+,,,e/ ,,c ,,e ,,,,c ,,,,a ,,c | "
+30;f# moll;33v;Sarab.;D.Gaultier;;;Conc_754;3;"[,e{,a}1] [,'g/] e/4 ,g e1 | \
+[,'c{4}1] ,,a [,'c/] ,a/4 ,c | \
+[,e{,,,a}3/2] ,c/ [,'a] ,,e | \
+[,,'c{,,a}3/2] ,,,e/4 ,,c [,,,e,a1] | \
+[,,ee1] [,,ee/] [,,ee] [,,'c{a}1] | "
+31;f# moll;34v;Gigue;;;;Conc_1170;3;",e1 d/ | \
+[,'d3/4] ,,e/4 [,,'c/] | \
+[,,ae3/4] ,,,e/4 ,,,,d/ | \
+[,,,ee3/4] {,a}/4 ,,e/ | \
+[,'a3/4] ,,e/4 ,a/ | \
+[,,cd3/4] [,'c/4] ,a/ | \
+[,,ee3/4] ,,,,,a/4 ,c/ | \
+[,c,d{,,a}3/4] ,,c/4 ,,e/ | "
+32;f# moll;35v;Allem.;;;;;C;",,,e/ | \
+[,,,ee{,a}3/2] ,,,e/ [,,,d,e] ,,,,d ,,e3/4 [,,'c/4] | \
+[,,,ee/] {,a}1 ,,,d/ ,,a ,,,,,c ,,,d3/4 ,,,,e/4 | \
+[,,,,'d{4}/] ,,,,,e ,,,,e3/4 ,,,d/4 ,,,e/ {,a} \
+[,,,'d3/4] ,,,e/4 | "
+33;f# moll;36v;Cour:;Gaultier;;;Conc_751;3;",,,d/ ,,a ,,c | \
+,,e1 ,,,e/ ,a ,c ,,,d | \
+[,e,,e1] ,,,,a [d,,,,c/] ,e | \
+[,'d,,,e1] {4}3/2 (b/4 ,d) | \
+[b{,a}1] [,,ee3/2] ,b/ | \
+[,ccd{a}3/2] ,e/ [,'c] ,a | "
+34;f# moll;37v;Le Double;Gaultier;;;Conc_752;3;",,,d/ ,,a ,,c | \
+,,e1 ,,,,e/ ,a ,,e ,,,,c | \
+[,a,,a/] ,c ,e ,,,,,e ,,,,,c ,e | \
+[,d,,,e1] {4}/ ,,c ,,a ,,,d | \
+,,a1 {,a}/ ,,c ,,e ,b | "
+35;f# moll;38v;Cour:;;;;;3;",,e1 | \
+[,,ee{,a}3/2] ,,e/ ,,c ,,,d | \
+[,,,ee1] [,,,'d{4}3/2] ,,,,d/ | \
+[,,,ee1] {,a} {a} | \
+,,,,,a/ ,,,e [,,,'d,c3/2] ,,,,e/ | \
+[,,,,de1] ,,,,,c [,,,,ea] | \
+[,,,d{a}1] [,,'a{,a}3/2] ,,,d/4 ,,a | "
+36;f# moll;39v;C. Fresnaux;Du Fresneau;;;;3;",,e/ | \
+[,,ee1] {a}/ c ,c ,e | \
+[,'d,,,e1] ,,,,,c [,e,,,a] | \
+[de{a}1] [,'d3/2] d/ | \
+{,a}/ e ,,,,e1 ['d,,d/] ,e | \
+,,,e/ ,c ,,e1 ,e/ [,'c] | "
+37;f# moll;40v;Allem: du But;Dufault;;;Conc_1171;C;",,,,e3/2 [,,,,'d/] ,,,,e ,,,,,e ,,,,e ,,,d | \
+,,a/ {,a} ,,e ,,c ,,e ,,,e [,,'cd] ,,,,d | \
+[,,a,e/] {,a} ,,e ,a [,,e,c] [,,e,a] [,,'c] [,,a,,e] | "
+38;f# moll;41v;Cour. du Vx Gault.;V.Gaultier;;;Conc_1172;3;",,e1 | \
+[,,e{,a}1] ,,,e [,,,'d/] ,,a/4 ,,,d | \
+,,a1 ,,,,e3/2 ,,,d/ | \
+[,,,,'d{4}1] ,,,,,e1 [,,,,,'c/] (,,,,,a/4 ,,,,,c | \
+,,,,,e1) {a}3/2 [,,,,,'c/] | "
+39;f# moll;42v;Sarab. du Vx Gault.;V.Gaultier;;;Conc_1173;3;"{,a}1 [,,,eee] [,,ee] {,a} [,eeee3/2] ,e/ | \
+{4}1 [,ced] [,ced] ,,,,,a [,,ee2] | \
+{,,a}1 [,,cdc] [,,cdc] | \
+{,a}1 [,,'a,ee3/2] ,,c/ | \
+[,,,'d{4}1] [,,a,,e/] ,,,,,c [,,,,ea1] | "
+40;f# moll;43v;Allem.;;;;;C;"[,,ee{,a}1] ,,e3/4 {,,a}/4 [,e{,,,a}/] ,,,,,e ,,,,,c3/4 ,e/4 | \
+[,d{4}3/4] ,,e/4 ,,c/ ,,,d [,,,ee] ,,,e [,,,d,c3/4] ,,,,e/4 | \
+[,,,,de/] ,,,,,c [,,,,ea1] [,,c{a}/] ,,,,e [,,,,'d3/4] ,,c/4 | "
+41;f# moll;44v;Cour.;;;;;3;",,,e/4 [,,,'d/] ,,,,d/4 | \
+[,,a,e1] {,a}/ ,,,e [,,,'dd1] | \
+,,,,e/ ,,,d ,,a ,,,,c ,,,,a [,,'c] | \
+,,e1 {4}/ b/4 ,a b/ ,,,d | \
+,,,b/ ,,a b e [d,,a] ,d | "
+42;f# moll;45v;Cour.;;;;Conc_4013;3;",,e1 | \
+[,,e,e1] {,a} [,,cd] | \
+[,,ee1] [,,c,c3/2] ,,,,a/ | \
+[,,a,,e1] ,c [,a,,,c] | \
+,,,,,a1 [,,ee3/2] ,,c/ | \
+[,,cd{,,a}3/2] ,,e/ [,a{,,,a}1] | \
+[,c{4}1] [,,'a3/2] ,e/ | \
+[,e{,,,a}1] ,,,,e ,,,d | "
+43;f# moll;46v;Allem.;D.Gaultier;;;Conc_1175;C;",e3/2 d/ ,d ,,e e d | \
+[,ef/] ,,,e ,,h ,e ,,f ,,,g/4 ,,f ,,,e/ ,,,,g | \
+,,,,e/ ,,e ,,,d [,,,gg] [,,e,d] ,,,,,e ,,a ,,,d | "
+44;f# moll;47v;Cour. de Mr. de Fresneau;Du Fresneau;;;;3;",,e1 | \
+[,,eee{,a}3/2] ,,c/ [,,'a] ,,,d | \
+[,,a#e,a1] [,,,'d,c3/2] ,,,,e/ | \
+[,,,,'de1] {4}3/2 ,,,,,c/ | \
+,,,,,a/ ,,,,e ,,,d ,,a [,,c{a}] ,,,d | \
+[,,'a{,a}3/2] ,,c/ ,,e ,a | "
+45;f# moll;48v;Sarab. de Mr. de Fresneau;Du But or Du Fresneau;;;Conc_3947;3;"[,e{,a}1] 'd [ee] | \
+['d{4}3/2] ,e/4 d [,e{,,,a}1] | \
+[,e,,a1] ,,,,c ,,,,e/ ,e | \
+[,'ccd3/2] ,a/ [,,ee1] | \
+[,,eeca1] ,a ,c | \
+[,,'c,d{a}3/2] ,,a/ [,,a{,a}1] | "
+46;f# moll;48v;sans titre;V.Gautier or D.Gaultier;Cleopatre Amante;;Conc_22;3;",,e/ ,,,d ,,c | \
+[,,aVe1] {,a}/ ,,e ,,,e ,e | \
+[,ecd1] [,'cc3/2] ,a/ | \
+[,,ee3/2] ,a/ [,c,d1] | \
+[,eee1] ,,,g [,ef] | \
+[eeeee1] {,a}1 'd/ ,,c | "
+47;f# moll;49v;Gig;D.Gaultier;;;Conc_1177;C;"i3/2 g/ 'e ,e d e | \
+[gef1] ,,,g/ ,g [e,e] ,c d [,,'c] | \
+[,ea1] [e,c/] ,,a [g,,d] ,e d [,'d] | "
+48;f# moll;50v;A B.;Du But;Allemande;;;C;",,e1 | \
+[,,eee{,a}1] ,e/ [,'c,d/4] ,a [,,ee/] ,,,,,e ,,,,d/4 ,,,d \
+,,e ,,c | \
+[,,'a,e/] {,a} [,,aee] [,,,'d/8] (,,a ,,,d) ,,a/ [,,,,'c] \
+,,,,a/4 ,,,b ,,d ,,,d | "
+49;f# moll;51v;Cour.;Gautier;;;Conc_4018;3;",,e/ ,,c ,,e | \
+[,,,ee1] {,a} [,,'c3/4] ,,a/4 | \
+,,,d/ ,,,,e ,,,,e ,,,d ,,a ,,c | \
+,,e1 ,,,,,e [,,,,,'c/] ,,,,,e | \
+,,,,,a/ ,,e ,,c ,b ,c {a} | "
+50;f# moll;52v;S. du But;Du But;;;;3;"{,a}1 | \
+[,,aee1] [,,ae] {,a} [,,aee3/2] ,,a/ {,,,a}1 | \
+[,,eec1] [,,,'d] ,,,,,a | \
+[,,eec3/2] ,,e/ ,,,,,c ,b | \
+[,c,,,e1] [,ee,a] ,,c/ ,e | \
+[,'d,,,e1] {4} ,e/ d | "
+51;f# moll;53v;Allem. de Mr. de Fresneau;Du Fresneau;;;Conc_1178;C;",,,d/ ,,a ,,c | \
+[,,e{,a}1] ,,,,e/ ,,e/4 ,,,,e ,,,,d ,,e ,,,d/ [,,'c] [,,#e] | \
+,,,,e/4 ,,,d ,,a ,,,,c [,,c,a/] ,,,,,c ,,,,,e/4 ,,,,e \
+[,,,'d] ,,,,e [,,,,e{,a}/] ,,e/4 ,a | "
+52;f# moll;54v;C. du But;;;;;3;",,e1 ,,,,e [,,,'dd] | \
+[,,aee3/2] ,,,,c/ [,,,,'a] ,,c | \
+[,,e,,e1] {4} [,,,'d/] ,,,,e | \
+[,,,,'d1] ,,,,,c ,,,,,a/ ,,,,e | \
+[,,,de{a}1] [,,,,'d] [,,a{,a}/] ,,a | "
+53;f# moll;55v;C. du But;Du But or Gaultier;;;Conc_1179;3;",,a/ [,,,'d] ,,a | \
+,,,,e1 ,,e [,,,,'d/] ,,,,e | \
+{4}1 ,,e ,,,,d/ ,,c | \
+[,,aee1] ,,,,,e/ ,,,,e ,,,d ,,,,d | \
+[,,,,e{,a}1] ,e [,'cc{a}/] ,a | "
+54;f# moll;56v;C. G.;Du But, Pierre;;;Conc_1180;3;"V,,,,e3/2 ,,,,,c/ V,,,,,e1 | \
+{,a}1 ,,,e1 [,,,'d/] ,,a/4 ,,,d | \
+,,a1 ,,,,,a1 [,,,d,c/] ,,,,e | \
+[,,,,'de1] {4}/ ,,,d ,,a ,,,,,c | \
+,,,,,a/ ,,e ,a ,,e [,,'c{a}1] | "
+55;f# moll;57v;S. G.;;;;;3;"[,eee{,a}1] [,'g/] e/4 ,g e1 | \
+{4}/ e 'd ,e [,e{,,,a}1] | \
+[,cee,a1] [,cee/] ,c ,e1 | \
+,,,,,c/ ,,,e ,a [,,,'d] [,,e{,a}1] | "
+56;f# moll;58v;Pr. Fresn.;Du Fresneau;Prelude;;;none;",,a/ [,,,'d] ,,,,e ,,e {4} ,,,,,e ,,,,d ,,,d ,,e \
+[,,'c] ,,e {,a} ,,,,e ,,,d ,,a ,,c ,,e ,a {,,a} ,,e"
+57;f# moll;59v;sans titre;D.Gautier;;;Conc_34;C;"[,ea{,a}3/2] (,a/4 ,,e) ,a/ {,a} [,,'c3/4] ,,,d/4 | \
+[,,ee/] {,a}1 (,,,,c/4 ,,,,a) ,,,,,e/ ,,,d ,,a {,a} | \
+[,,aee1] ,a3/4 {,a}/4 ,,,g3/4 ,,,,,e/4 ,,,,e3/4 ,,,f/4 | "
+58;f# moll;60v;P. Strobel;Valentin Strobel;;;;none;",e/ [,'d] V,e ,,e ,a ,,c V,,e/ ,,,,e ,,,d ,,c ,,,,d ,,,,e \
+,,,d/ ,,a {,a} ,,c ,,,d ,,,e ,,d/ ,,,,d ,,,,e"
+59;f# moll;61v;sans titre;D.Gaultier;;;Conc_35;3;"[,'e1] ,,,e1 ,,,d/ ,d | \
+[,e,,e1] {,a}/ ,,e [,,'c1] | \
+[,,a,,e3/2] ,,c/ [,,,d{4}1] | \
+[,,ae{,a}1] ,,,,e [,,cd] | \
+[,,ee,a1] [,,'cd{,,a}3/2] ,,,e/4 ,,c | "
+60;f# moll;62v;[sarabande];Gaultier (#60);#60;;Conc_1169;3;"[,,aee{,a}1] [,,aee/] [,,aee] {4}1 | \
+[,,,'d,e3/2] ,c/ ,,,,,c1 | \
+[,a,,e1] ,,,d [,,ee,a] | \
+[,,'cd{,,a}3/2] ,,,e/4 ,,c [,,,e,a1] | \
+,,e3/2 ,,,e/ [,,cd1] | \
+[,,ee1] {,a} ,b | "
+61;A dur;63v;Prelude;;;;;none;",,,,,a1 [,cee] {,,a} ,c [,ccdc] ,,,,a ,,,,,e ,c ,,a c \
+{,,,a} ,e [,eaea] [,'c] ,a ,,,,,a ,,e [,,eec] {a} \
+{,a} ,c e"
+62;A dur;64v;Allem.;;;;;C;"e/ | \
+[ece,,a3/2] e/ 'd ,e [,ce] ,e | \
+[,bc/] ,,a [,ccd] [,a,,e] ,,e [,,edc] ,,c ,,,,a | \
+[,,a,,e/] ,a [,ae,,c] ,,,,,a {a} [,cc] [,ee{,a}] d | "
+63;A dur;65v;Cour.;D.Gaultier;;;Conc_20;3;",,a1 | \
+[,,ae3/2] ,,,,e/ [,,,,'c] ,,,,a | \
+[,c,,,e1] {a} ,,,,,a/ ,,e | \
+[,,'c{,,a}3/2] ,,,e/ ,,,d ,,,,c | \
+[,,a,e1] [,,cd3/2] ,,c/ | \
+[,,ee1] ,,,,,a2 | "
+64;A dur;66v;Cour.;Gautier?;;;Conc_1181;3;"e1 | \
+[eca,,a3/2] ,c/ ,e ,,e | \
+[,a,,,c1] {a}3/2 ,c/ | \
+[,,e,,a1] ,,,,c ,,,e | \
+[,,ee3/2] ,c/ ,e d | \
+e1 ,,,,e ,,,,c | \
+[,e,,a1] [g{,,,a}3/2] e/ | "
+65;A dur;67v;Sarab.;;;;;3;"[ece1] [ece] [ece] | \
+['d,c3/2] ,e/ [,ce1] | \
+,,,e/ ,,e ,c ,e ,,,d ,c | \
+[,'a3/2] ,,e/4 ,a [,,e,,a1] | \
+{a}/ ,,c ,,,,c ,,e {,a} ,,a | "
+66;A dur;68v;Prelude du But;Du But;;;;none;",,,,,a1 ,,,e/ ,,c {,,a} ,,,d ,,,,a1 ,,,,,e ,,a {a} ,c ,,,d \
+,,c ,a ,,,,,a ,,e ,,,e ,e [d{a}] {,a} e ,,,,e ,,g e"
+67;A dur;69v;Gig d'Aymond;Emond ;;;Conc_234;C;",c3/2 ,,f/ [,,'e] ,,,e [,ac] ,,,d | \
+[,,ee/] ,,e ,,,,c [,,c,a] [,,a,,e] ,,,,a [,,,d,c] ,,,,c | \
+[,,a,,e/] ,,,,,c ,,,,,a ,,a [,,,ba] ,,,,,c ,,,d [,,a,,a] | "
+68;A dur;70v;Cour. du V. Gault.;Du But, Pierre;;;Conc_1182;3;",c/ [,'a] ,,e/4 ,a | \
+,,e1 ,,,e/ ,,e [,,'c] ,,,d | \
+[,,ae1] [,,,'dc] ,,,,,f | \
+,,,,,e/ ,,a [,,,,,'c] ,,,,,a [,,c{a}] ,a | \
+,,,,,a/ ,,e ,,,e ,c e ,,,,a | "
+69;A dur;71v;C. de Gault.;V.Gaultier or D.Gaultier;;;Conc_18;3;",c/ ,,f | \
+[,,'e1] ,,,e ,,,d/ ,c | \
+,,,,e/ ,,,e ,c ,a ,,,,c ,,e | \
+[,,'c{,,a}/] ,,a ,,,d3/2 ,,,,a/ | \
+[,a,,,e3/2] ,c/ [,e,,,c] d | "
+70;A dur;72v;S. G.;Gaultier;;;Conc_25;3;"[ece,,a1] [ece/] e {,,a}1 | \
+[dcc1] [dcc/] [dcc] [e{,a}1] | \
+[,e,e1] [,'c,d3/2] ,a/ | \
+[,,'ee3/2] ,,e/ [,,'cd1] | \
+[,,ee1] ,,,,e [,,,,'c/] ,,e | \
+{,,,a}/ ,,,,e [,'a] ,a {,,a} | "
+71;A dur;73v;Prelude;;;;;none;"[,cee] ,,,,,a ,,,e ,,c ,,e ,a ,c {a} ,,,,c ,,,d ,,c ,c ,,,,a \
+,,,,,e ,c ,,,,a ,e ,,,,c ,,,,e ,,a ,a ,,e {a}"
+72;A dur;74v;Allem.;;;;;C;"e/ | \
+[ece1] [d,c/] ,a ,,,e ,c [,'a] ,,e/4 ,a | \
+,c/ ,,,,,a ,,a {a} {,a} ,c [,'a] ,,e/4 ,a | \
+,,e/ ,a [,,'c] {,,a}3/2"
+73;A dur;75v;Cour.;;;;;3;",,e/ [,,'c] ,a | \
+,,,e/ ,,e ,,,,,a1 [,,'c{a}] | \
+{,a}/ ,,e ,,,e ,a {,,a} ,c | \
+[,eae{,,,a}3/2] d/ e e | \
+['d{,,a}3/2] ,e/ ,c ,a | "
+74;A dur;76v;Sarab.;;;;;3;"[,,a,,a/] ,,a [,,aec1] [,,aec] | \
+{,,a}/ ,,c [,,cdc1] ,,e | \
+{,a}/ ,,c [,,'a] ,,,d ,,a {,,a} | \
+{,,,a}/ ,,e [,,'c3/2] ,,e/ | \
+[,,edd{4}1] ,,,,,e2 | "
+75;A dur;77v;Prel.;;;;;none;",c/ ,e d e ,,a ['d,c] ,e ,,e ,c ,,a ,e ,,c ,a ,,,d \
+[,'a] ,,e/4 [,,'c/] ,c ,,,,,a ,,e"
+76;A dur;78v;Allem.;D.Gaultier;"""Le Tombeau de Blancrocher""";;Conc_29;C;",c/ | \
+[,cee,a3/2] [,'a/4] ,,e/8 ,a ,c/ ,,,e [,ccd3/4] ,,f/4 | \
+[,,'ee1] ,,,,,a/ [,,,'d] [,aa,e1] ,,,,c/4 ,,c c ,,e | \
+[,eefa1] {,,,a}3/4 [,'c/4] ,e/ ,,,,,e [,e,,,c3/4] d/4 | "
+77;A dur;79v;C. de Gault.;Gautier or Dubut;;;Conc_17;3;"[,,'e/] ,a | \
+,c1 ,,,e ,e/ ,,,e | \
+[,ecd1] [,'c3/2] ,a/ | \
+[,,ee1] ,a/ ,,,,a [,,cdc1] | \
+[,,ee1] [,,'c{,,a}3/2] ,,,e/4 ,,c | \
+,,,e1 ,,,,,a3/2 ,,,d/ | "
+78;A dur;80r;Le Double;Gautier or Dubut;;;Conc_17;3;"[,,'e/] ,a | \
+,c/ ,,a ,e ,c ,e ,,a | \
+,,,d/ ,e ,c ,,,e ,,e ,,c | \
+,,e/ ,,,e ,a ,,,e [,,,'d] ,,,,e | \
+,,,,c/ ,,e [,,'c{,,a}3/2] ,,,e/4 ,,c | "
+79;A dur;80v;Cour. du But;Du But or Gaultier;;;;3;"(,,,,,a/4 ,,,,,c ,,,,,e/) (,,,,a | \
+,,,,c1) ,,,,,a ,,,,,c/ ,,,d | \
+[,,a,,e3/2] ,,a/ ,,,,a ,,c | \
+,,,,c/ ,,e ,,,,e ,,a ,a ,,e | \
+[,,'cd3/2] ,c/ ,,,e ,,e | "
+80;A dur;81v;Cour d'Emond;Emond;;;Conc_4099;3;"[,'c3/4] ,a/4 | \
+,,e/ ,,,e ,,,,c ,,e [,,'c] ,,,d | \
+[,,a,e/] ,,c ,,e ,,,,c ,,,,a ,a | \
+[,c,,,e1] ,e/ ,,,,a ,,,,,c d | \
+,,,,,e/ ,c e ,,,,a ,,,,c d | "
+81;A dur;82v;Sarab. Gault.;Du But or Gautier;Sarabande;;Conc_1183;3;",c/ [,c,,,a] ,c | \
+V[,cee3/2] ,e/ ,e ,e | \
+[,eeee1] [,'g/] e/4 ,g e/ ,g | \
+[,ghg{,,a}3/2] e/ {,,,a} g | \
+[,cee{4}3/2] ,e/ ,,,,,c d | "
+82;A dur;83v;L'Espagnolette;Vieux Gaultier or Du But;Sarabande 'L'Espagnolette';;Conc_1184;3;",c/ [,cee3/4] ,c/4 | \
+[,ccd1] [,ccd/] ,c ,,,c ,a | \
+[,a,ee1] [,a,ee/] ,a ,,,,c ,a | \
+[,,eec1] [,,eec/] ,c [,ccd{,,a}] ,,,e | \
+[,,,'dc3/2] ,a/ [,,e,,a] ,,e | | "
+83;f# moll;84v;Allemande G.;Gaultier;;;Conc_4017;C;",c/4 [,'a3/4] ,,e/4 ,a | \
+,,e3/4 {,a}/4 ,,e/ {,,a} [,ea{,,,a}3/4] ,,,,,e/4 \
+[,,,,,'c3/4] d/4 | \
+[,'d{4}3/4] ,,e/4 [,,'c3/4] ,,,e/4 ,,c ,,,e \
+,,,,,a [,,,'d,'c3/4] ,,,,e/4 | "
+84;f# moll;85v;Cour. G.;D.Gaultier;Courante 'Le Triomphe';;Conc_753;3;",,e1 | \
+[,,ee{,a}3/2] ,,c/ ,,e ,,,d | \
+,,,e/ {4} [,,,'d] ,,a/4 ,,,d ,,a/ ,,,,d | \
+V,,,,e1 {,a}3/2 ,,,d/ | \
+V,,,e/ ,,c ,,e ,,,,c ,,,,a ,,c | "
+85;f# moll;86v;S. G.;D.Gaultier;Sarabande or Volte;;Conc_1185;3;"e1 ,,e ,c | \
+[,ef3/2] ,g/ e1 | \
+[eac1] 'd3/2 ,e/ | \
+[,'de3/2] ,,c/ [,,'a] ,e | \
+[,ecd1] [,'c3/2] ,a/ | \
+[,,ee3/2] ,c/ [,,cd1] | "
+86;f moll;87v;Prel.;;;;;none;"{,a}/ ,,,,d ,,,d ,,d {,,a} ,,,,b ,,,c ,,d ,,,,,c ,,,,,d \
+[,,,,'c] ,,,a [,,,c{4}] ,,,d [,b{c}] [,d,,,a] ,,e [,,,'a] \
+[,,,c{4}] ,,,,c ,,,c ,,d [,,'b]"
+87;f moll;88v;Allem.;;;;;C;"['ddd{,a}3/2] {a}/ {b} [ad] [,'b] ,a | \
+{a}/ [,bb] {,a} [,ba] ,,,,,a [,,ea] ,,d ,b | \
+{c}/ [,,da] [,,'b] ,,a [,,ba1] [,,,'c/] ,,,a | "
+88;f moll;89v;Cour.;;;;;3;",f/ ,g f | \
+h1 {,a}3/2 h/ | \
+[hfh{4}3/2] f/ 'd ,f | \
+d1 ['ed3/2] f/ | \
+[fde1] ,,b/ d 'c a | \
+,,d/ ,d ,c ,,b ,,,d a | "
+89;f moll;90v;Cour.;;;;;3;"d/ 'c ,c | \
+a1 ,,,a/ ,d [,b,c] ,a | \
+[,,dd3/2] ,,,,a/ ,,,,b ,,,c | \
+,,b/ ,,d [,,e,,a1] ,,,,c/ ,,,d | \
+[,,,a,d1] [,,'b{,,a}3/2] ,,,d/4 ,,b | "
+90;f moll;91v;S.;;A ces cinq pieces faut hausser la six.me d'un demi ton, et baisser la 9.e;;;3;"[,,,ad1] ,,,d3/2 ,,b/ | \
+,,,,b/ ,,d ,,,c ,,a ,,,,,a ,,b | \
+[,,badd3/2] ,,,c/ {,a} ,,,d | \
+[,,,'c{4}3/2] ,,,,c/ ,,,a1 | \
+[,,,dd3/2] ,,a/ {,,a} ,,b | "
+91;f moll;92v;"Allem. sur la Mort du
+ Roy d'Angl. p. Bouquet";Charles Bocquet;;;;C;"[,,dd{,a}3/2] ,,d/8 [,,'b,a] ,,a [,,,cb3/4] ,,,c/4 \
+[,,,d,d3/4] {b}/4 | \
+[,,b,b{a}3/4] {,a}/4 [,,dc{,,a}/] [,,'b] [,d,d{,a}3/2] \
+c/8 ,d c | \
+[,'b{4}/] ,,d c [ca,,,b] {b} [ad] [c,d{a}] [,,'c] | "
+92;f moll;93v;Cour. de Bouq:;Bocquet;Ces 2 pieces son sur le ton ordinaire - pp. 94v-95r empty;;Conc_1186;3;",,,,c/4 ,,,a/ ,,,c/4 | \
+{,a}3/4 ,,,d/4 [,,,dd3/2] ,,a/ | \
+[,,'b,c{a}3/2] ,,d/ {,a} ,,d | \
+,,e3/2 ,,,c/ ,,,d ,,d | \
+[,,bdb1] ,,,c3/2 ,a/ | \
+[,bdd1] [,bdd] ,d3/4 ,d/4 | "
+93;B dur;95v;Prel.;;;;;none;",,b/ ,,,a ,,,,a ,,b3/2 ,,b/ ,,b1 ,,,,,b ,,b ,,,a ,,,,a ,,,a \
+,,b3/2 ,,,a/ ,,,c1 ,,b [,,,'a3/2] ,,,,b/ ,,,,a ,,,a ,,b ,a a \
+,,,,,b ,,d ,,,,,a"
+94;B dur;96v;Prel.;;;;Conc_910;none;",,,,,b1 ,,,,a ,,,a ,,b ,a [,'b] a/4 ,b a/ ,a c {,,a} {,a} \
+,,,,d ,,,a ,,a ,d a [,'b] a ,,,,,b ,,,,a ,,,a ,,b ,a ,,,c \
+,,,,,a ,,,c ,,d"
+95;B dur;97v;Allem.;;;;Conc_755;C;",a/ | \
+[,abaab3/2] ,,,,,d/4 ,b [a,,,a/] ,,,,b/4 ,a [,,'da3/4] ,,b/4 | \
+[,,baab1] [,ab/] [,bd] [aa] ,,,,,b [a,d,,a] ,b | \
+[ab{d}/] ,a f e/4 ,f [ef{,a}/] [,'d] f3/4 f/4 | "
+96;B dur;98v;Cour.;Vieux Gaultier;;;Conc_66;3;",a1 | \
+[,abaa{d}1] [,'b] [aa] | \
+,,b1 [,,de] [,ab] | \
+[,,da1] {,a}/ ,,f [,,'d] {,,a} | \
+{,,,a}/ ,,,a ,,,c {,,a} {,a} ,,a | \
+[,,baab3/2] ,,d/ ,a ,,,,,a | "
+97;B dur;99v;Sar.;Mercure ;;;Conc_902;3;"[,,baa{d}1] [,,baa] ,,d | \
+[,,'a{,a}3/2] ,,,c/4 ,,a ,,,a1 | \
+[,,,c{,,a}1] ,,b ,b/ a | \
+[,'a{d}3/2] ,,d/4 ,a ,,b1 | \
+[,,aad1] [,,aa] [,,baa] | \
+[,,d,,a3/2] ,,d/ [,a,,,b1] | "
+98;B dur;100r;Cour.;;;;;3;",,,a/ ,,,c ,,a | \
+[,,baab3/2] ,,d/ ,,b ,,d | \
+[,,'a{,a}1] ,,,a1 a/ ,b | \
+,a1 [,b,,,c/] ,a [,,'d{,a}3/4] ,,,f/8 ,,d | \
+,,,f1 ,,,,,b ,,,,a | "
+99;B dur;100v;Prel.;;;;;none;",,b/ ,a a ,,b [,,'a] a ,,,c ,,b ,b ,,,c [,,,'a] ,,a ,b \
+,,,a ,,b ,a ,,f [,,'d] ,,,f {,a} ,,,f ,,d"
+100;B dur;101v;Prel.;;;;;none;"[aabaab] ,,d ,a ,,d [,,'b{,a}] ,,,a ,,d ,a ,b ,,d ,,,,,b \
+,,,,a ,,,a ,,b ,a a ,,,c [,,,'c] {,a} ,,,,d (,,a ,,b ,,d)"
+101;B dur;102v;Allem. du Faut;Dufault;;;Conc_1187;C;",,b/ | \
+[,,baab1] ,,,,a [,,baa] [,,,e,d/] ,,,c | \
+[,,,aa1] ,,,f/ [,,,'e] [,,,cb] ,,d ,a ,,b | \
+[,,'a{,a}/] ,b [,aa] ,b [adba1] [,,'a/] ,b | "
+102;B dur;103v;Cour.;;;;;3;"c/ 'a ,b | \
+[,a{d}1] [,,'baa3/2] a/ | \
+[a,,,,a1] [,,'d,d3/2] ,b/ | \
+[,a,,,b1] [,abaa1] [,'b/] a | \
+[a{,,,a}1] f3/2 [h{,,a}/] | \
+['e{,a}3/2] a/ c e | "
+103;B dur;104v;Sarab.;;;;;3;"[,,baa{d}1] [,'aba3/2] ,b/ | \
+[,d,,,a1] ,,d [,a,,,b] | \
+[,,b{a}1] [,,'d{4}3/2] ,,,f/ | | \
+[,,,'e{,a}1] ,,,,d/ ,,b [,,baa{,,,a}] ,,,d | \
+[,,,cb{,,a}/] ,,,c [,,,'a{,a}3/2] ,,,,b/ | "
+104;B dur;105v;Prel. de Merc.;;;;;none;",,b ,,b ,,,,,b ,,b ,,,,a ,,,a ,,b ,a ,,d ,a ,,b ,b ,,d \
+,,,,,b a ,,,,a a ,,,a ,,b ,a a ,,,,,b ,,,,a ,,,a ,,b"
+105;B dur;106v;Prel.;;;;;none;"{d} ,,,,a ,,,a ,,b ,a ,a ,,b ,,,a ,a ,,,,,d [,'b/] a/4 ,b a/ \
+,,,,a [fdfa] ,,,,,d f ,d ,,f f {,,a} ,,,,b ,,b c"
+106;B dur;107v;All. Merc.;Mercure ;;;Conc_319;C;",a/4 ,a | \
+[,abaab1] ,,,,a/ ,,,a [,aba] a/4 c a3/4 ,b/4 | \
+[,ab,,b/] [,ab] ,,,,,d [,,b,a] ,,b/4 ,,d [,,'a,,d/] \
+,,,,,b/4 ,,b | "
+107;B dur;108v;Cour. de Merc.;Mercure ;;;Conc_1188;3;",,a/ ,,b ,,d | \
+[,abaab3] | \
+{a}/ ,b ,,,,,a a ,,,,,b ,a | \
+[,,'da{,a}3/2] ,,b/ [,,'a] ,,,c | \
+[,,,aa1] ,,,a/ [,,,'a] ,,,c ,,,a | "
+108;B dur;109v;Sarab.;;pp. 110v-113r empty;;;3;"[,aba{d}1] [,'b] a3/4 a/4 | \
+[aVd,,a3/2] ,b/ [,a,,,b] ,a | \
+[,abaa1] [fdf{d}3/2] f/ | \
+['e{,a}1] ,d3/2 ,b/ | \
+[,a,a{d}1] [,'abaa3/2] ,,d/ | \
+[,,bcb1] {,,a} [,d{,,,a}] | "
+109;C dur;113v;Gig du But;Dubut;;;Conc_435;C;",c/4 ,,d3/4 a/4 | \
+c3/2 ,,,c/ ,,a3/2 ,,c/ | \
+[,,de3/2] ,,,c/ [,,,'a3/2] ,a/ | \
+,c3/2 ,,,,c/ ,,,a3/2 ,,,,a/ | \
+,,,c3/2 ,,,,,d/ [,,,c,c3/2] ,,,,d/ | \
+[,,,,cd3/2] ,,a/ ,,,c3/2 ,,,,,c/ | "
+110;C dur;114v;Sar.;Pinel or LeMoyne;pp. 115v-120r empty;;Conc_1190;3;"[c,,,,d3/4] c/4 [ccdc3/2] c/ | \
+{,a}3/4 e/4 [edda3/4] g/ | \
+[h,,,,a1] ['ga{a}3/2] {,a}/ | \
+[hf{,,a}1] [h,h{4}3/2] f/ | \
+[e{,a}1] ['ed,,,a3/2] c/ | \
+[a{d}1] [#fa{a}3/2] f/ | "
+111;A dur;120v;C. Gautier;V.Gaultier;;;Conc_1163;3;"[,c1] | \
+ [,c,e1] ,,e3/2 ,,e/ | \
+[,ac1] [,'ac3/2] ,,,e/ | \
+[,a,'d1] ,,c1 [,'c3/4] ,a/4 | \
+[,,ee1] [,,cdc3/2] ,,e/ | \
+[,,a,e3/2] ,,,,e/ [,,,,ef1] | "
+112;a moll;121v;Alle.;V.Gaultier or D.Gaultier;Le Tombeau de L'Enclos;;Conc_143;C;"e1 ,c3/4 c/4 ,d/ ,,,e [,'c3/4] ,a/4 | \
+[,cd/] ,,,,,a [,cde1] [,,,'c] ,a/ ,,,a | \
+[,c,dc1] {,,a}/ ,c/4 ,a ,c/ ,,,e ,a ,,d | "
+113;a moll;122v;sans titre;Courante Gautier;;;Conc_3948;3;",,,e/ ,,c ,,,d | \
+[,,aVe3/2] ,c/ [,'a] ,,d/4 ,a | \
+,c/ ,,,e ,,,d ,c ,a ,,c | \
+[,,de1] ,,,,,a/ ,,c ,,d ,a | \
+,c/ ,,a ,c ,e ,,c c | "
+114;a moll;123v;sans titre;V.Gaultier;Les Larmes de Boisset (pp. 124v-128v empty);;Conc_3;3;",,a/ | \
+[,,a,cd1] ,,,,,c/ ,,,,a ,,a ,,,d | \
+,,,,,a/ ,,a ,c [,,,,,'a] {b} ,,c | \
+,,,,,a/ ,,,,c ,,d {a} {,a} ,a | \
+[,c{,,a}1] ,,,,c [,,cd/] ,,c | "

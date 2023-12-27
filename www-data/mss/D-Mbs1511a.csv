@@ -1,0 +1,203 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;2r;Passa e mezo Anticho primo;;;OT;;C;"z1 [aab,,a1] [aab,,a/] ,,a ,,b ,,d | \
+,a/ ,,d ,,b ,,a [aab,,a] ,,a ,,b ,,d | \
+,a/ ,c ,d a [cdda] a ,d ,c |";italian7tab
+2;;2v;Salltarello del ditto;;;OT;;3;"[aab,,a3/2] [aab/] ,,,c1 | \
+[aab,,a/] ,,d ,a ,c ,d a | \
+[cdda/] a ,d ,c ,d a | \
+[cdda1] [cdd] [fdaa] | \
+[dabc/] c a c [dabc1] |";italian7tab
+3;;3r;Passa e meza Moderno primo;;;OT;;C;"z1 [aac,,a1] [aac,,a/] ,e a c | \
+[ea,c,a/] f e c [da,c,a/] c/4 a ,d ,c ,a ,,d | \
+[aac,,a3/4] [,d,,c/4] [,c,,a/] [,a,,,e]";italian7tab
+4;;4v;Salltarello dell ditto;;;OT;;3;"[aac,,a/] ,,a ,,c ,,d ,a ,,d | \
+,,c/ ,,a [aac,,a] ,,,a ,,,,e ,,,,c | \
+[acd,a/] ,a ,c ,d a ,d | \
+[acd,a/] a ,d ,c ,a ,,d |";italian7tab
+5;;5r;Passa e mezo Antico secondo;;;OT;;C;"z1 [bbc,,b1] [bbc,,b/] ,,b ,,c ,,e | \
+,b/ ,,e ,,c ,,a [bbc,,b] ,,b ,,c ,,e | \
+[bbc,,b/] ,,e ,b ,d [deeb1] [deeb/] ,,,,b |";italian7tab
+6;;6r;Salltarello dell ditto;;;OT;;3;"[bbc,,b/] ,,b ,,c ,,e ,b ,,e | \
+[bbc,,b/] ,,e ,b ,d ,e b | \
+[deeb/] ,,,,b ,,,,d ,,,a ,,,b ,,,d | \
+[deeb/] e [deeb] ,,,,d ,,,a [,,bc] |";italian7tab
+7;;6v;Passa e mezo Moderno secondo;;;OT;;C;"z1 [bbd,,b1] [bbd,,b/] ,,b ,,d ,,e | \
+,b/ ,,e ,,d ,,b [bbd,,b/] ,e/4 ,d ,b ,,e ,,d ,,b | \
+[bbd,,b/4] ,,b ,,d ,,e ,b ,,d ,,e ,b";italian7tab
+8;;7v;Salltarello del ditto;;;OT;;3;"[bbd,,b3/2] ,,b/ ,,,d ,,b | \
+[bbd,,b/] ,,e [,b,,,b] ,,d [,,e,,b] ,b | \
+[bde,b/] ,b ,,e ,,d ,,e ,b | \
+[bde,b/] d/4 b d b";italian7tab
+9;;8r;Passa e mezo Antico terzo;;;OT;;C;"z1 [,,a,,c/] ,,c [,,d,,c] ,a ,c ,d | \
+[c,,,c/] ,a ,,d ,,c [fcd,,c] e c ,f | \
+[ccd,,c/] ,e ,f c [ea,c,a] c a ,e |";italian7tab
+10;;8v;Salltarello del ditto;;;OT;;3;"[,,d,,c/] ,,c ,,a ,,,d ,,a ,,c | \
+[fcd,,c/] e c ,e ,f c | \
+[ea,c,a/] c a ,e a c | \
+[ea,c,a/] c a ,d ,c ,a |";italian7tab
+11;;9r;Passa emezo Moderno Terzo;;;OT;;C;"z1 [cce,,c1] [cce,,c/] ,,c ,,e ,,f | \
+,c/ ,,f ,,e ,,c [cce,,c] [,,abc] [,,a,eg] | \
+[,cee,c3/4] ,f/4 ,e/ ,c [,efec] ,c ,e ,f |";italian7tab
+12;;10r;Salltarello del ditto;;;OT;;3;"[cce,,c3/4] ,,c/4 ,,e/ ,,f ,c ,,f | \
+,,e/ ,,c [cce,,c] ,f ,e ,c | \
+[cef,c/4] ,c ,,f ,,e ,,f ,c ,e ,f c ,f ,e ,c |";italian7tab
+13;;10v;Passa emezo Antico quarto;;;OT;;C;"z1 [dde,,d1] [dde,,d3/4] ,,d/4 ,,e/ ,,g | \
+,d/ ,,g ,,e ,,d [dde,,d/] ,g/4 ,e ,d ,,g ,,e ,,d | \
+[dde,,d3/4] g/4 f/ d [f,,d,b1] [bbdd] |";italian7tab
+14;;11v;Salltarello del ditto;;;OT;;3;"[dde,,d/] f g f g f | \
+d/ ,g d ,f ,g d | \
+[fb,d,b1] d [bbd,,b] | \
+,e1 [,dd,,b] ,b | \
+[dde,,d/] f g f d ,g |";italian7tab
+15;;12r;Passa emezo Moderno 4;;;OT;;C;"z1 [dab,,d1] [dab,,d/] ,,a ,,b ,,d | \
+,a/ ,,d ,,b ,,a [dab,,d/] b/4 a ,d ,b ,a ,,d | \
+[ab,,d/] b a ,d";italian7tab
+16;;12v;Salltarello dell ditto;;;OT;;3;"[dab,,d3/2] [dab/] ,,,a1 | \
+[dab,,d/] b a ,d ,b ,a | \
+[ab,,d/] ,a ,b ,d a ,d | \
+[ab,,d1] [,d,,c] [,ba,a] | \
+[,ab,,d/] ,b ,a ,,d [,ab,,d1] |";italian7tab
+17;;13r;Passa mezo Antico 5;;;OT;;C;"z1 [ddf,,e1] [ddf,,e/] ,,e ,,f ,,h | \
+,e/ ,,h ,,f ,,e [ddf,,e] ,,e ,,,g ,,e | \
+[ddf,,e/] ,,h ,e ,g [ghhe] e ,h ,g |";italian7tab
+18;;13v;Salltarello del ditto;;;OT;;3;"[eef,,e/] ,,e ,,f ,,h ,e ,,h | \
+[eef,,e/] ,g ,h e g h | \
+[gc,e,c/] e c ,g c e | \
+[gc,e,c/] e c";italian7tab
+19;;14v;Passa emezo Moderno 5;;;OT;;C;"z1 [eeg,,e1] [eeg,,e/] ,,e ,,g ,,h | \
+e/ ,,h ,,g ,,e [eeg,,e/] ,h/4 ,g ,e ,,h ,,g ,,e | \
+[eeg,,e3/4] ,h/4 ,g/ ,e";italian7tab
+20;;15v;Salltarello del ditto;;;OT;;3;"[eeg,,e3/4] ,,e/4 ,,g/ ,,h ,e ,,h | \
+,,g/ ,,e [eeg,,e/] ,,h/4 ,,g ,,h ,,g ,,e ,,g | \
+[egh,e/4] ,e ,,h ,,g ,,e";italian7tab
+21;;16r;Passa emezo Antico 6;;;OT;;C;"z1 [abd,a1] [abd,a/] ,a ,b ,d | \
+a/ ,d ,b ,a [abd,a] ,a [abd,a] [d,,c] | \
+[b,,a/] [a,,,d] [,d,,c] [,b,,a] [,ab,,d] ,,a ,,b ,,d |";italian7tab
+22;;16v;Salltarello del ditto;;;OT;;3;"[abd,a/] ,a ,,d ,,c ,,d ,a | \
+[abd,a/] ,a ,b ,d a c | \
+[dab,,d3/2] [dab/] ,,,a1 | \
+[dab,,d3/4] b/4 a/ ,d ,b ,a |";italian7tab
+23;;17v;Passa emezo Moderno 6;;;OT;;C;"z1 [acd,a1] [acd,a/4] ,a ,,d ,,c ,,d ,a ,c ,d | \
+a/4 c d c a ,d ,c ,a [acd,a] ,a ,,d ,,c";italian7tab
+24;;18v;Salltarello del ditto;;;OT;;3;"[acd,a3/2] [acd/] ,,,c1 | \
+[ffg,a/] h f d c a | \
+[cdda/] ,,,c ,,a ,,b ,,d ,a | \
+[cdda1] [a,d,e] [,dc,c] | \
+[,cdca/] ,a ,c ,e a ,,b |";italian7tab
+25;;19r;Passa emezo Antico 7;;;OT;;C;"z1 [bce,b1] [,ce,b/] ,,,,d [,,e,e] [,,eb] | \
+[bbed/] ,,d/4 ,,b [,bed/] ,,d [bce,b] ,,,b [,,e,e] [,,d,d] | \
+[bce,b/4] ,b ,,e ,b ,c ,e b d";italian7tab
+26;;20r;Salltarello del ditto;;;OT;;3;"[bce,b3/4] ,b/4 ,c/ ,e b ,e | \
+[bce,b/] c/4 b c b ,e ,c ,e ,c ,b ,,e | \
+[eeg,,e3/4] ,,h/4 ,e/ ,,h ,,g ,,e |";italian7tab
+27;;20v;Passa emezo Moderno 7;;;OT;;C;"z1 [bde,b1] [bde,b3/4] ,b/4 ,d/ ,e | \
+b/ ,e ,d ,b [bde,b/4] ,b ,,e ,,d ,,e ,b ,d ,e | \
+[bde,b3/4] e/4 d/ b";italian7tab
+28;;21r;Salltarello del ditto;;;OT;;3;"[bde,b3/4] ,b/4 ,d/ ,e b ,e | \
+,d/ ,b [bde,b] e d b | \
+[deeb3/4] b/4 ,e/ ,d ,e b | \
+[deeb1] [dee] [deeb] |";italian7tab
+29;;21v;Passa mezo Antico 8;;;OT;;C;"z1 [,aaac/] ,c [,daac] a c d | \
+[ca,ac/] a ,d ,c [,daac] d c a | \
+[,daac/] ,,,a [a,,,e] [,d,,c] [,cd,a] ,,,c ,,a ,,c |";italian7tab
+30;;22r;Salltarello del ditto;;;OT;;3;"[,da,c3/4] ,c/4 ,a/ ,,d ,a ,c | \
+[,da,c/] ,,,c ,,a ,,c ,,d ,a | \
+[acd,a/] ,,,,c [a,d,e] ,,,,a [,dd,c] ,,c | \
+[cd,a/] ,d a ,c ,d a |";italian7tab
+31;;22v;Passa e mezo Moderno 8;;;OT;;C;"z1 [,aa,c/] ,c [,ea,c] a c e | \
+[ca,,c/] a ,e ,c [,ea] ,,,,c [,a,,,e] ,,,c | \
+[acd,a/] ,,c [aaa,c] ,e [aa,c,a] ,,a [,,cc] [,,de] |";italian7tab
+32;;23v;Saltarello del ditto;;;OT;;3;"[,ea,c3/4] ,c/4 ,a/ ,c [,ea,c] a | \
+c/ a [,ea,c] ,c a ,e | \
+[aa,c,a/] ,,a ,,c ,,d ,a ,,d | \
+[aac,,a/] ,,a [,,c,,a]";italian7tab
+33;;24r;Passa emezo Antico 9;;;OT;;C;"z1 [deg,d1] [deg,d/] ,d ,e ,g | \
+d/ ,d ,e ,d [deg,d] ,,f ,,g ,d | \
+[deg,d/] ,g d f [ggi,,g] ,,g ,,i ,,k |";italian7tab
+34;;24v;Salltarello del ditto;;;OT;;3;"[deg,d/] ,d ,e ,g d ,g | \
+[deg,d/] ,d ,e ,g d f | \
+[ggi,,g/] ,,g ,,i ,,k ,g ,,k | \
+[,,i,,g/] ,,g ,g ,,i ,,k ,g |";italian7tab
+35;;25r;Passa emezo Moderno 9;;;OT;;C;"z1 [abbcd1] [abbcd3/4] ,a/4 ,b/ ,d | \
+a/ ,d ,b ,a [abbcd/] d/4 b a ,d ,b ,a | \
+[abb,d3/4] d/4 b/ a";italian7tab
+36;;25v;Salltarello del ditto;;;OT;;3;"[abb,d3/4] ,a/4 ,b/ ,d a ,d | \
+,b/ ,a [abb,d] [d,e] [b,d] [a,b] | \
+[bbd,,b3/4] ,,b/4 ,,d/ ,,e ,b ,,e | \
+[bbd,,b/] ,,b ,,d ,,e ,b ,d |";italian7tab
+37;;26r;Passa emezo Antico 10;;;OT;;C;"z1 [,ccce1] [,ccce/] ,,,e ,,c ,,d | \
+,,c/ ,,,e ,,,c ,,,b [,ccce] ,,d ,,c ,,,e | \
+[,ccce/] a ,e ,c [,efec] ,c ,e ,f |";italian7tab
+38;;26v;Salltarello del ditto;;;OT;;3;"[,ccce3/4] ,,,e/ ,,c/ ,,,e ,,,c ,,,b | \
+[,ccce/] ,,,e ,,c ,,e ,,f ,c | \
+[,efec3/4],f/4 c/ ,f ,e ,c | \
+[,efec/] ,f c ,e ,f c |";italian7tab
+39;;27v;Passa emezo Moderno 10;;;OT;;C;"z1 [,ccde1] [,ccde3/4] ,,,e/4 ,,,c/ ,,,e | \
+,,c/ ,,,e ,,,d ,,,b [,ccde] ,,,e ,,d ,,,e | \
+[,ccde/] ,,,b [,ccee] ,,,d [,cee,c3/4] ,,c/4 ,,e/ ,,f |";italian7tab
+40;;28r;Salltarello del ditto;;;OT;;3;"[,ccde3/4] ,,,e/4 ,,c/ ,,e ,,c ,,,e | \
+,,,d/ ,,,b [,ccde] ,,,e [,ccee] ,,,d | \
+[,cee,c3/4] ,,f/4 ,c/ ,,f ,,e ,,c | \
+[,cee,c1] [,cee] [,cee,c] |";italian7tab
+41;;28v;Passa emezo Antico 11;;;OT;;C;"z1 [,dda3/4] a/4 [b,da/] ,d [b,da] d | \
+f/ [,ddd] ,,,,f [,def] [,ddd] ,,,,f [fd,d] [dc,c] | \
+[bdda/4] ,,,c ,,,d ,,b ,,d ,a ,b ,d";italian7tab
+42;;29v;Salltarello del ditto;;;OT;;3;"[bdda/4] a ,d ,c ,d a b d f d b a | \
+[bdda/4] ,,,c ,,,d ,,b ,,d ,a ,b ,d a ,d a b |";italian7tab
+43;;30v;Passa emezo Moderno 12;;;OT;;C;"z1 [fdaa1] [fdaa] [hd,f,d] | \
+[fdaa1] [dabc/] ,c [cdda1] [cdf,c] | \
+[dabc/] ,c [fdaa1] [ddf,,d] [hd,f,d] | \
+[fdaa/] [dcbc] [fdda] c [ddff/]";italian7tab
+44;;31v;Salltarello del ditto;;;OT;;3;"[fdaa3/2] d/ [cdda1] | \
+[cdf,c1] [dabc/] ,c [fdaa1] | \
+[hd,f,d3/4] f/4 d/ f h i | \
+[hd,f,d1] [gd,f] [gd,f,d] | \
+[fdaa3/4] d/4 c/ a [cdda] d |";italian7tab
+45;;32r;Passa e mezo Antico 13;;;OT;;C;"z1 [ceeb1] [ceeb3/4] b/4 ,e/ ,d | \
+,e/ b c e [ceeb] b ,e ,d | \
+,e/ ,b ,c ,e [egh,e3/4] ,e/4 ,,h/ ,,g |";italian7tab
+46;;32v;Salltarello del ditto;;;OT;;3;"[ceeb3/4] b/4 ,e/ ,d ,e b | \
+[ceeb/] ,,,d ,,a ,,b ,,d ,,f | \
+[egh,e3/4] ,e/4 ,g/ ,h e ,h | \
+[egh,e/] h g e ,h ,g |";italian7tab
+47;;33r;Passa emezo Moderno 13;;;OT;;C;"z1 [deeb1] [deeb/] ,,e ,b ,d | \
+,e/ b d e [ceeb/4] b ,e ,d ,e b d e | \
+[ceeb/] e/4 d e d";italian7tab
+48;;33v;Salltarello del ditto;;;OT;;3;"[deeb3/4] b/4 ,e/ ,d ,e b | \
+d/ e [deeb/] e/4 d e d b d | \
+[eeg,,e3/4] ,,e/4 ,,g/ ,,h ,e ,,h |";italian7tab
+49;;34r;Se io vegio o dormo sempre penso Napolitana;;;OT;;C;"[,dff4] [,dff2] [,acc] | \
+[,bd,a1] ,,,,c ,,,,d ,,,a [,acc4] | \
+z2 [,,def2] [,bd,a] [,bd,a] | \
+[,acc2] [,acc] [,dff4] | \
+[ab,,d4] [,dff2] [,dff] | \
+[,bd,a1] ,,,,c ,,,,d ,,,a [,acc4] |";italian7tab
+50;;34v;Ducha Venoio dir una novella napolitana;;;OT;;C;"[,dff1] [,dff/] [,fg,d] [,dff1] [,bd,a] | \
+[,acc1] ,,,c/ [,dff] [,dff] [,dff] [,dff] [,dff] | \
+[,fg,d3/2] [,dff/] [,bdd1] [,dda/] [,adc] ,,c | \
+[,,da2] :||:";italian7tab
+51;;34v;Tu ma inganato col tuo dolce viso. Napolitana;;;OT;;C;"[,cde2] [,cde1] [,dff] [acd2] [cd,a] | \
+[acd3] [,dff1] [,cde2] [,aff] | \
+[,c,e2] ,,e [,aa,c4] :||: \
+[,acc2] [,acc1] [,cd,a] [,,def2] [,dff] | \
+[,cd,a3] [,cd,a1] [,acc2] [,,de1] ,,,,f |";italian7tab
+52;;35r;Tre Giorni fa ch mi dicessi Vieni veni Napolitana de Giacomo Gorzanis;;;OT;;C;"[fh,a1] [fh,a/] [hi,f] [fh,a3/2] [fh,a/] | \
+[fh,a/] [da,c/4] ,c [cd,a/] [acd] [cdda1] [acd/] [cd,a] | \
+[acd1] :||: ,,d/ [dfg] [dfg] [dfg] [dfg] [dfg] |";italian7tab
+53;;35v;Damo fallano son gia stato morto;;;OT;;C;"[cdda1] [cdda/] [cdda] [acd,a1] [dabc/] ,c | \
+[cdda3/4] d/4 [cdda/] [acd,a] [,da,c] [aacc] [,cee1] | \
+[aaa,c2] :||: z/ [cdda/] [cdda] [d,b] [f,aa] [d,bc] [c,da1] |";italian7tab
+54;;36r;Bella che tien li capelli doro;;;OT;;C;"[,abc1] [,dff] [,dff/] [,dff] [ab,,d] [ab,,d] | \
+[,dff1] [abc/] [,bdd1] [,abc/] [,dfff] [,ee] | \
+[,,ff,d2] :||: \
+M:3
+[,bd,,b2] [,ab,,d] | \
+[,ab,,d/] [,,def1] [,ab,,d/] [,,bcd/4] ,,,,c ,,,,d ,,,a |";italian7tab
+55;;36v;Recercar;;;OT;;C;",a4 ,a2 ,,d | ,,b2 ,,a1 ,,,c ,,,b ,,,c ,,a ,,,b | \
+[,a,c1] ,,d ,a ,c [,da2] ,c1 ,a | \
+[,da2] [,c,c1] [,a,a] ,,,,e ,,,,c [,a,ce2] |";italian7tab
+55;;37v;Donna Io te amo non mi fa morire. Napolitana;;;OT;;C;"[acd2] [acd1] [cd,a] [acd2] [acd] | \
+[,dff3] [,dff1] [,dff2] [acd] | \
+[cd,a2] [acd] [acd3] [,dff1] | \
+[,cee2] [,af,c] [,cfe] [,cee] | \
+[,af,c4] :||:";italian7tab

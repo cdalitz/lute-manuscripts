@@ -1,0 +1,67 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;a1v;1. Ciarenzana de Megio;;;OT;;C|;"[abd,a1] ,,,c | [abd1] [abd,a] | [abd,a1] ,,d/ ,a | \
+,b/ ,d a c | [d,ba,d1] ,,,a | [d,b1] [d,ba,d] | \
+[d,ba,d/] c d c |";italian7tab
+2;;a2r;2. Il suo saltarello;;;OT;ConcR2304;3;"[abd,a3/2] [abd/] ,,,c1 | [abd,a1] ,d/ ,b ,a ,,d | \
+[,aba,d3/2] [,aba/] ,,,a1 | [,aba,d/] ,b ,d ,a ,b ,d | \
+[abd,a3/2] [abd/] ,,,c1 |";italian7tab
+3;;a3r;3. Chiarenzana La Geometrina;;;OT;ConcR2299;C|;"[acd,a1] ,,d/ ,d | a/ ,d ,c a | [cdda1] [cdd] | \
+[acd,a1] [acd] | [,da,c1] ,,c/ ,,a | ,,c/ ,,d ,,a ,,c |";italian7tab
+4;;a4r;4. Sal. Della Giometrina;;;OT;ConcR2300;3;"[acd,a/] ,d a ,c ,d a | [cdda1] [cdd] [acd,a] | \
+[,da,c1] ,,c/ ,,a ,,d ,,c | [acd,a1] [acd] [acd,a] | \
+[acd,a1] [acd/] [acd,a1] f/ |";italian7tab
+5;;a4v;5. Chiarenzana La ciriolla;;;OT;;C|;"[a,b,d1] | [ab,d1] [a,b] | [,da,c1] [abd,a] | \
+[a,bc,a/] ,,a ,,b ,,d | [,aba,d1] [a,bc,a] | \
+[,,d,,c1] ,a/ ,b | ,a/ ,,d ,,c ,,a |";italian7tab
+6;;b1v;6. Saltarello Il Girotto;;;OT;;3;"[a,b,d1] [a,b] [a,b,d] | [a,b,d/] ,a ,b ,d [a,b,d1] | \
+[,aba,d/] ,b ,a ,b ,d | [a,b,d1] [a,b] [,da,c] | \
+[abd,a1] [,aba,d] [,,da,c] |";italian7tab
+7;;b2r;7. Chiarenzana Larcholano;;;OT;;C|;"[aac,,a2] | [aac,,a3/2] [acd,a/] | [,da,c/] ,a ,c ,d | \
+[acd,a/] [,,d,,c] [,aba,d] [acd,a] | [,da,c/] a c a | \
+[d,ba,d/] c a ,d |";italian7tab
+8;;b3r;8. Il suo sal.;;;OT;;3;"[aac,,a1] | [aac,,a2] [,da,c1] | [acd,a3/2] ,d/ [,aba,d1] | \
+[aac,,a1] [,,d,,c/] ,,a ,,c ,,d | [aac,,a1] [aac] [aac,,a] | \
+[,,d,,c1] ,,d [,aba,d] |";italian7tab
+9;;b3v;9. Chiarenzana La Bataglia;;;OT;ConcM12;C|;"[fdda2] | [fdda1] [fdda] | [c,da1] [c,d] | [c,da1] [d,ba,d] | \
+[d,ba,d/] c d c | a/ ,d ,c ,a | [acd,a1] [acd] | \
+[acd,a1] [acd,a] |";italian7tab
+10;;b4v;9. Chiarenzana G stampa;;;OT;;C|;"[abb,d1] | [abb,d3/2] ,d/ | [,b,ca1] [a,bc,a] | \
+[,,d,,b1] [,b,ca] | [,,d,,b/] ,b ,a ,,d | [,aba,d1] [a,bc,a] | \
+[,bd,,b1] [,aba,d] | [a,b,d/] ,,d/4 ,,b ,,d ,a ,b ,d |";italian7tab
+11;;c1r;11. Saltarello dela stamp;;;OT;;3;"[a,b,d1] | [abb,d3/2] ,d/ [,b,ca1] | [a,b,,d1] [,,d,,c] [,aba,d] | \
+[abb,d1] ,,d/ ,a ,b ,d | [abb,d/] b d b [a,,,,d] ,d |";italian7tab
+12;;c1v;12. Saltarello Bel Fiore;;;OT;;3;"[acd,a1] [acd] [acd,a] | [acd,a/] ,,c ,,d ,a ,c ,d | \
+[acd,a/] ,d ,c ,a ,d ,c | [,dda1] [,dd] [,dda] | \
+[,aba,d1] [,aba] [,aba,d] |";italian7tab
+13;;c2v;13. Chiarenzana La Malveza;;;OT;;C|;"[d,ba,d1] | [cdda1] [,da,c] | [a,b,d1] [c,da] | \
+[d,ba,d1] [d,ba] | [a,b,d1] [a,b,d] | [,da,c1] [,aba,d] | \
+[,b,ca/] ,d/4 ,b ,a ,,d ,a ,b |";italian7tab
+14;;c2v;14. Saltarello La Ciriola;;;OT;;3;"[a,b,d1] | [a,b,d1] [a,b] [,da,c] | [,b,ca1] ,,,c/ ,b [,aba,d1] | \
+,,,,,a1 [,,d,,c/] ,,a ,,c ,,d | [aac,,a1] ,,,c/ ,a ,b ,d |";italian7tab
+15;;c3v;15. Chiarenzana La Bianchetta;;;OT;;C|;"[acd,a1] | [acd,a3/2] ,d/ | [acd,a1] [,aba,d] | [,,d,,c/] ,a ,c ,a | \
+,d/ ,c ,a ,,d | [aac,,a1] ,,,c/ ,,a | ,,c/ ,,d ,a ,c |";italian7tab
+16;;c4r;16. Saltarello Bianchetto;;;OT;;3;"[acd,a1] | [acd,a3/2] ,d/ [acd,a1] | [acd,a1] ,d/ ,c ,a ,,d | \
+[aac,,a1] ,,,c/ ,,a ,,c ,,d | [,aba,d/] ,,d ,a ,c ,d ,a |";italian7tab
+17;;d1r;17. Chiarenzana Laquila;;;OT;;C|;"[d,ba,d1] | [d,ba,d1] [d,ba] | [d,bc,d/] c d/4 c a ,d | \
+[a,b,d/] ,d a c | [db,c/] a c d |";italian7tab
+18;;d1v;18. Sal. De Laquila;;;OT;;3;"[d,ba,d1] | [d,ba,d3/2] c/ [a,b,d1] | [db,c1] [c,da/] d a c | \
+[d,ba,d/] c/4 a c a ,d ,c ,d ,c ,a ,,d |";italian7tab
+19;;d2r;19. Chiarenzana La Bolognese;;;OT;;C|;"[acd,a1] | [acd,a/] ,a ,c ,d | [acd,a1] [,aba,d] | \
+[,,d,,c/] ,,c ,,a ,,c | [,,d,,c/] ,,a ,,c/4 ,,a ,,c ,,d |";italian7tab
+20;;d3r;20. Sal. Non ti partir da me;;;OT;;3;"[cdda1] | [cdda1] [cdd] [cdda] | [cdda1] [cdda/] a c d | \
+[cdda1] [cdd] [cdda] | [cdda/] a c ,d a c |";italian7tab
+21;;d3v;21. Chiarenzana La Marsilia;;;OT;;C|;"[cdda1] | [f,de3/2] d/ | [cdda1] [a,b,d] | [,da,c/] ,b ,a ,b | \
+[,dba,d/] ,a ,b ,d | [a,b,d1] [acd,a] | [,da,c/] ,a ,c ,d |";italian7tab
+22;;d4r;22. Saltarel Il Marsilio;;;OT;;3;"[cdda1] | [f,de3/2] d/ [cdda1] | [a,b,d1] [,da,c] [,cdda] | \
+[,bab,d1] ,,,c/ ,,a ,,b ,,d | [,aba,d/] ,b ,d ,a ,b ,d |";italian7tab
+23;;e1r;23. Chiarenzana La madalena;;;OT;;C|;"[fdaa1] | [fdaa1] [cdda] | [dabc1] [abb,d] | [cdda1] [db,c] | \
+[d,bcd1] [cdda/] a | [cdda1] [dabc] | [cdda/] a d c | \
+[d,ba,d1] [d,b] |";italian7tab
+24;;e1v;24. Sal Laconiano;;;OT;;3;"[cdda1] | [fdde3/2] d/ [cdda1] | [fdde1] [dabc/] a c d | \
+[cdda/] ,c ,d a c d | [cdda1] [cdd] [cdda] |";italian7tab
+25;;e2r;25. Chiarenzana La Lambertina;;;OT;;C|;"[,dda1] [acd,a] | [cdda/] a c d | [cdda1] [acd,a] | \
+[cdda1] ,d | [acd,a1] [,da,c] | [abb,d/] ,,d/4 ,a ,b ,d a c |";italian7tab
+26;;e3r;26. Sal il cremonese;;;OT;;3;"[cdda1] | [,aa,c1] [d,ba,d] | [cdda1] ,d ,,d | [fdde1] [fdd] [d,bc] | \
+[cdda1] [abb,d] [,aa,c] | [,dba,d1] [acd,a/] ,a ,d ,c |";italian7tab
+27;;e3v;27. Chiarenzana il est bel & bon;;;OT;ConcR1473;C|;"[,dda/] a b d | f1 ,,,a | [fb,d1] [fb,d] | [db,c1] a | \
+[abb,d/] ,d a c | [d,ba,d/] ,,,,a ,,,,c ,,,,e |";italian7tab

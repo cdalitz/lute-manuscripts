@@ -1,0 +1,98 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1;;1r;[End of defective piece, galliard?];;;OT;;3;"y2 y2 y2 |[,,cc,a2] [,,cc,,a] [,,cc,a] | \
+[ce,d3] d1 f2 | [ddf,,d3] f1 h2 | [,cdca4] [,cdca2] | \
+[,acc,,a3] ,,d1 ,a2 | [,ddca3] ,d1 a2 | \
+[,dda,,,a4] [,acc,a2] | [,cdca4] [,cdca,,a2] ||"
+2;;1v;Elsgen seiste mir treu;;;OT;;C;"[fdaa1] [fdaa] [fdaa] h | [fdaa2] [fdaa1] [fdaa] | \
+h1 [db,,d] [db,,d] [cdaa] | [dab,,d2] [dab,,d] | \
+[cdaa1] [cdaa] [cdaa] a/ ,d |"
+3;;2r;tantz;;;OT;;C;"[fdaa2] [dab,,d] | [cdaa3/2] a/ ,d2 | \
+[cdaa/] d f1 [fda{,a}] d/ c | [acd,a2] {,,,a} :||: \
+[acd,a3/2] a/ [acd,a1] [cdc] | [acd2] [acd1] [cdaa] |"
+4;;2v;Intrada;;;OT;ConcR610;C;"[aac,,a1] c e f | [haa{,,,a}1] ,a/ ,c [,eaa{,,a}] a c1 | \
+[aac,,a/] ,d ,c ,a [,,da,c] ,a ,c ,,d | \
+[,aabc2] {,,a}1 [,aabc] |"
+5;;3v;Courant;;Brett's Courant;OT;Conc_3469;3;",,d2 | [,,da{,a}3] ,a1 [,,da{,a}2] | \
+[,aba,e4] [,cdca2] | [,dda{,a}3] a1 ,d2 | \
+[,cdca3] ,d1 [,aaac2] | [,,da,c3] ,a1 [,,b,,a2] | \
+[,,aa{,a}3] ,,,c1 ,,a2 |"
+6;;4v;Intrada;;;OT;;C;"[fdaa3/2] [fdaa/] [fdaa1] [ha,f] | \
+[fdaa1] {,a}/ d c1 [fdaa] | [ha,f1] [f,,c] [aacc/] c d ,c | \
+[cdaa1] d/ c a ,d {,a}1 |"
+7;;5v;Galliarda Gregorij;Gregory Huwet;;OT;ConcR1256;3;"[aac,,a1] c d a [caa,c] {,,a} | \
+[aac,,a2] ,d/ ,c ,a ,,d ,,c ,,a ,,,c1 | \
+[dd,,,d1] f h d [fdaa] c |"
+8;;6v;Hertz von steien;;;OT;;C;"[,daac1] [aa,,,d] [cce,,c2] | [aac,,a3/2] ,,d/ ,,c ,,a ,,,c1 | \
+[da,c1] c/ a [,dda{,a}] a c ,d | \
+[,cdca/] ,,d ,a ,c [,dda{,a}2] |"
+9;;7r;Zobischer tantz;;;OT;;C;"[aac,,a3/2] ,,,c/ [aac1] c/ e | [f,,,a3/2] e/ f1 [ea,,,a] | \
+[caa,c/] a c ,e [aac,,a2] :||: \
+[acd,a/] ,c ,d a [cdaa{,a}] d c a |"
+10;;7v;proportion;;;OT;;3;"[aac,,a2] ,,,c c1 e | [f,,,a1] e f [ea,,,a] [caa,c2] | \
+[aacc,a4] :||: [acd,a1] a | [cdaa4] [,daac1] ,d | \
+[ac,,e4] [,cdca/] ,a ,c1 |"
+11;;8r;Fröhlich will ich zubringen;;;OT;;C;"[,dda3/2] a/ [cdaa1] [cdaa] | \
+[cdaa1] [fcd,a] [cdaa] ,d/ a | \
+c1 ,,,,e/ ,,,,c [aa,,,d1] ,,,,,c | \
+[da,,,a/] c a d [cda,a1] {,a} :||:"
+12;;8v;patuana Spanioletta;;Spanish Pavan, f. 9r empty;OT;Conc_4405;C;",,d | [,daa1] a/ b d b a ,d | [,cdca3/2] ,a/ ,,d1 ,a | \
+[,cdca/] ,a c d a1 ,c | [,dda{,a}/] ,c ,d a b1 a |"
+13;;9v;Courant;Julien Perrichon / Mathias Mason);Volt / Courant;OT;ConcR129;3;",d2 | [bdaa3] d1 f2 | b2 ,,,a ,,,d | [aab3] ,d1 [,cd2] | \
+[,dda2] {,a} f | [f,,g3] d1 [bdaa2] | [a,,,c2] [,dda4] | \
+[,cdca3] ,d1 ,c ,a |"
+14;;10v;Gross ist mein schmertz;;;OT;;C;"[cdaa2] a1 ,d | [,cdca2] [,,da,c/] ,a ,c1 | \
+[,aba,d/] ,b ,d1 [,cdca/] ,d a1 | \
+[,dda{,a}4] | [aac,,a3/2] c/ d1 [da,,,a] | \
+[caa,c1] [aa,,,d] ,,,,a [caa,c] |"
+15;;11v;Ach Gott wo soll ich finden;;;OT;;C;"[haa{,,a}2] [haa{,,a}1] [haa{,,a}] | \
+[cce,,c3/2] e/ f2 | [ecc,c2] [ccee,c] | \
+[,dda{,a}/] a c ,d [acd,a] ,d ,c1 | \
+[,aaac/] ,c ,d1 [,ca,,c/] ,a ,c1 | [,aabc2] {,,a} :||:"
+16;;12r;Galliarda.;;2 ff missing;OT;;3;"[cdaa1] a c ,d [acd,a2] | [,daa3/2] ,c/ ,d1 a c2 | \
+[dab,,e1] ,,,,a ,,,,c ,,,,d [cdaa2] | \
+[acd,a3/2] ,d/ ,c1 ,d a2 |"
+17;;13r;[end of piece?];;;OT;;3;"y1 y y | [acd,a2] ,,,,a1 | [acd,a3/2] ,d/ ,c1 | \
+[,acc,a2] ,,,c1 | [,acc,a2] ,a/ ,c | \
+[,dda3/2] ,c/ ,d1 | [,cdca3/2] ,a/ ,c1 | \
+[,dda3/2] ,c/ ,d1 | [,cdca3/2] ,a/ ,c1 |"
+18;;13r;Allemand;;;OT;;C;"[,,dca3/2] ,a/ [,bd,a1] ,a/ ,,d | \
+[,a,,,a1] ,,c ,,,c [abd,a] | \
+[,da,c1] [,ab,,d] [,bb,a] ,a/ ,,d | \
+[,a,,,a1] ,,c [,acc,a2] :||: \
+[abb,d/] ,a ,b ,d ,,,,d1 [abb] |"
+19;;13v;Proportio.;;;OT;;3;"[,,dca3/2] ,a/ [,bd,a1] | [,ac,,a1] ,,,c [ab,,a] | \
+[,da,c1] [,a,,,d] [,bb,a] | [,ac,,a1] ,,,c2 :||: \
+[abb,d1] ,b [abb,d] | [,dba,d1] ,,b [,dba,d] | \
+[,bd,a1] ,,d [,acc,a]"
+20;;13v;Von der fortun ...de;John Dowland;Fortune My Foe;OT;ConcR28;C;"[,,dca2] ,,d1 ,a | [,bd,a2] [,acc,a] | \
+[,,dca1] [abb,d] [,dba,d] [,bd,a] | \
+[,ac,,a1] ,,c [,acc,a2] :||: \
+,,,,d1 [ab] ,,b ,,,c | [abb,d2] ,b | \
+[abb,d1] d b a |"
+21;;14r;Was wollen wir auf dem Abend thun;;;OT;ConcR980;C;",,,c2 |  [,,d,a2] ,,d | ,,,,,a2 [,acc] | [,cd,a2] ,d1 ,c | \
+[,acc2] a1 ,d | [,cd,a2] [,dda] | ,,,,,a2 [,acc] | \
+[,,dca2] [,,d{,,a}] :||: [,dda2] ,d1 ,c |"
+22;;14v;Paduana Hispanica;;Spanish Pavan, 2 ff missing - ff. 15r-35r empty;OT;Conc_4405;C;",,d | [,dda3/2] a/ b1 ,d | [,cdca3/2] ,a/ ,,d1 ,a | \
+[,cdca1] ,d a ,c | [,dda{a}3/2] a/ b1 a | [,dda1] ,a ,b ,d |"
+23;;35v;Polnish tantz;;;OT;;C;"[,,dca1] ,a ,b ,d | a2 ,,,,a | [bdaa3/2] d/ b a ,d1 | \
+a2 ,,,,a | ,,,,e3/2 ,a/ ,b ,d a1 | \
+,,,,,e1 ,a/ ,b ,d1 ,,,,,d |"
+24;;36r;in meien. Courant;;;OT;;3;"[,cdca2] ,,d a | [,cdca2] ,,d [cdaa] | [aacc,a3] c1 d2 | \
+[caa,c3] d1 c2 | [acdca2] ,,,c [acd] | [aad,a4] f2 | \
+[aa,,,a2] c1 d c a |"
+25;;36v;Pranle;;;OT;ConcR560;2;"[a,d,a3/4] c/4 a ,d ,c ,a | ,,d/ ,,,c ,,,,a a/4 ,d | \
+[,a,,a/] [,a,,,e] [,c,,a] [,e,,,c] | [aac,,a3/4] ,d/4 ,c/ ,a |"
+26;;37r;Courant.;;;OT;;3;"[,dda{,a}2] {,a}1 ,,,,,a ,,,,,c ,,,,,d | \
+[acd,a2] ,d1 ,c ,a ,,d | [fdaa2] ,,,a1 ,,,,d ,,,,c ,,,,a | \
+[,aba,d2] [,aba,d1] ,c ,d a |"
+27;;37v;Musae BAT tich;;;OT;;C;"[cdaa2] [cdaa] [cdaa] | [dab,,d2] [acd,a] | \
+[,daac3/2] ,c/ ,a1 ,d | [,cdca2] {,,,a} | \
+[,dda{,a}2] [,dda{,a}] | [,aba,d2] [,dda{,a}] | \
+[acd,a1] ,d ,c2 | [,dda{,a}4] :||:"
+28;;38r;Variatio;;;OT;;3;"[cdaa2] [cdaa/] ,d a c | \
+[dab,,d/] ,,,,a ,,,,c ,,,,,e [acd,a2] | \
+[,daac1] ,c/ ,a ,c ,d ,c ,a | [,cdca2] {,,,a} ||"
+29;;38v;Galliarda D(?) 5(?);;;OT;;3;"[,dda{,a}2] [cdaa] [dab,,d] | \
+[cc,,,c1] d f f [fd,,,c2] | \
+[,dda{,a}2] [,cdca] [,aaac] | \
+[cc,,,c1] d f d c2 | [ddf,,d/] f h1 [cdaa{,a}/] d f1"

@@ -1,0 +1,50 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1;g moll;1r;[Allemande];;;6g;;C;",a1 | \
+[,aaa1] [,aaa{a}3/4] ,a/4 [,a{,b}/] [,a{a}] [,aece{,,,a}3/4] ,,c/4 | \
+[,,aa{a}3/4] ,,,,a/8 ,,,c ,,a/ ,,,a [,faa{,,a}] (f '[e,f{4}3/4]) ,f/4 | \
+[,ee{,,,a}3/4] ,,,,a/8 ,c (,e/ ,a) [ec,,,e] (,c [,e,,a]) ,,c |"
+2;g moll;1v;[Courante];;;6g;;3/4;"[,,,a{a}/] ,,,c X,,,d ,,c [,a,a] ,a | \
+[,f{a}/] ,,,,a ,,,a ,,,,,a X,,,,,b ,,,,,d | \
+,,,,a/ ,,,c ,a ,c V,e c | \
+[e{,,,a}/] ,e ,,,,a ,,,,c [e,,,e3/4] ,,,,a/4 |"
+3;g moll;1v;Gigue;;;6g;;6/4;"k1 | \
+[k{a}2] ,,,,a1 ,,,a3/2 k/ ,i1 | \
+[h,,,,a3/2] f/ [e,,,a1] ,,,a f [,e,,a] | \
+[c,,,b2] [,a,,,c1] [,c,,,d3/2] ,,,,,b/ [,e,,,a1] | \
+[ff{a}3/2] h/ k1 [h{,,,a}] ,h [,ik] |"
+4;g moll;2r;Toccata che segue;;;6g;;C;"[,,k{a}/] ,h X[,ik] h [ki] ,i ,h/4 h k l | \
+,i/4 k (,i/8 ,h) ,,k/4 ,h h ,,k ,,i ,,k l (,i/8 ,h) ,,k/4 ,,h ,h ,i h |"
+5;B dur;3v;Old Gautiers Nightinghall;;;6g;Conc_285;C;"[,,addb{5}2] [adc,,a3/4] c/4 a3/4 ,b/4 | \
+[,aadd{5}1] ,b/ a [cba{,,a}1] [,da{,,,a}3/4] c/4 | \
+'[,baa{,,a}1] [,aa{5}/] V,b [adcc,a] c '[,caa{a}3/4] a/4 | \
+[adccd{,a}1] ,,,,d/ ,,,c [,dcc3/2]"
+6;B dur;4v;Allemande;;;6g;;C;"a/ | \
+[aaadd{5}/] ,,,,d [a,,,'a] ,,,,d [a,,Xd3/4] ,,c/8 ,a ,,a/ k | \
+'[f{5}3/4] [e(e/8] [,f)] a/ ,,a [ad] f/4 e f/ e/4 f |"
+7;c moll;5r;Celestiall Harmony;;;6g;;3/4;"[cbc{4}2] [cbc1] | \
+[ca'a3/4] ,,,b/4 ,,,a/ ,,,b [caa] ,,,a | \
+[a,,cb/] ,,,d ,,,b ,,,a [,ac,,d] ,,,b | \
+[,aba/] ,,,,d [,aba] {a} ,,b a |"
+8;G dur;5v;Per te solo riposa quest'alma;Gabrielli, Domenico;;6g;;C;
+9;d moll;6r;I dare not sing what you indite;;;6h;;C;,,,,,b1 ,,,,,d ,,,,a ,,,,b | ,,,,d1 ,,,a ,,,c ,,a | ,,c1 ,a ,b a | ,f1 e ,i h | k1 l k ,l |
+10;g moll;7r;Sibell, set upon the Lute by C. Morelli;Morelli, Cesare;;6e;;C;"[,,aaa{a}1] ,,a | \
+[,,c,da1] ,,c '[,,c{,a}3/2] ,,,d/4 ,,c | \
+[,,addb1] {5} '[,,c,,a] [,,,cd{,a}] | \
+[,,a{a}1] [,,ca{,,a}] '[,,,c{,a}] ,,,,b/ ,,a | \
+[,,add1] {5} [,b,d,d] ,a |"
+11;Es dur;7v;Another Sibell, sett by C. Morelli upon the Lute;Morelli, Cesare;;6e;;C;"[,baa{,,a}1] [,,aa] | \
+[,,,abb{,,a}2] [,,,ab1] ,,a | \
+[,,,,bd{4}2] [,baa{a}1] ,b | \
+[,bcb3/4] a/4 ,b3/4 a/4 '[aaa{5}3/2] c/ | \
+[cba{,,a}2] X,b1 ,,a |"
+12;D dur;8r;Charming fair for thee I languish;Bononcini, Giovanni;;6i;;C;"[,hiha1] {a}/ ,k/4 i [hhi{,,,a}1] ,,,,a/ [,aba] | \
+[,cd{a}/] [,ee{,a}] [cce{,,a}] [e,d,,a/4] c [b,,ca/] ,c/4 ,a {,,,a}/ [eee] | \
+,,,,a/ g [h,g,,a] {a}/4 h [hh,h{,a}/] g/4 ,h [gfea{a}/] ,,,k/4 i |"
+13;D dur;9r;Cieco Amor vorrei nel seno;Bononcini, Giovanni;;6i;;C;"[,aeca{,,,a}/] ,,e ,e e ,,e/4 ,a [,cd] ,,,e ,,d e ,,,c c | \
+,,e/4 ,e ,,,e ,,,c [,aee/] ,,,,e ,,,a/4 ,c [,a,,e] ,,,a '[,a,,ca/] ,,,a/4 ,,d |"
+14;C dur;9v;Non disprezzar chi t'ama;Bononcini, Giovanni;;6h;;C;",,,a/ ,,c ,a ,,c ,,c ,a/4 ,,c | \
+',,c/ ,,,e ,,,a ,,e ,c ,,e ,,e ,c/4 ,,e | \
+',a/ ,,c ,,,e ,c a ,c ,c a/4 ,c |"
+15;c moll;10r;In vain I fly from sorrow;Bononcini, Giovanni;;6g;;C;"(3[,,,a{a}/4] ,,,c ,,,a) (3,,,c ,,,e ,,,c) (3[,,b{a}] ,,c ,,b) \
+(3[,,c,,a] ,,e ,,c) (3[,a,,,c] ,c ,a) [,,,aca/] [,,,,df] [,,,aac] | \
+([,,c,,a/] ,,b) ,,,c (,,c [,,b,a]) ,,,c [,,b{a}] (,,,c/4 ,,,a) |"

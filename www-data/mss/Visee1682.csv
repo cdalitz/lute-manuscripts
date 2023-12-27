@@ -1,0 +1,236 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;a moll;8;Prelude;;;Guitar;;C;",,,,a/4 ,b a ,,,c ,,c ,b a ,b ,,,,a ,b a ,,,c ,,c ,b a ,b | \
+,,,,c/4 ,a a ,,,c ,,b ,a a ,a";french5tab
+2;a moll;8;Allemande;;;Guitar;;C;"!strumup![abcca3/4] !strumup![abcca/4] | \
+!strumdown![abcca1] !strumdown![abcca] !strumup![abcca/] ,f ,h ,,,g | \
+!strumdown![fffhh1] !strumup![fffhh] '[ff,,h3/2] e/ | \
+[f,f1] ,,,,a ,,c/ ,b ,,e ,d | \
+[a,f1] (,,e/ ,,c) [a,'a1] [ce,e] |";french5tab
+3;a moll;9;Courante;;;Guitar;;3;"!strumup![abcc/] | !strumdown![abcc3/2] (b/ a) ,d '[,b,,a1] ,,c3/2 f/ | \
+'[efe3/2] ,g/ (,f ,d) [f,f1] !strumdown![hfhgf3/2] h/ | \
+([hffh1] i/) (h f) ,i";french5tab
+4;a moll;10;Sarabande;;;Guitar;;3;"!strumdown![abcc3/2] a/ !strumdown![fffha1] | '[dde3/2] ,g/ '[,ff1] | \
+!strumdown![ifffh3/2] h/ [ffg] ,i | \
+'[,hhh1] h3/4 f/4 !strumdown![efe1] | \
+!strumdown![dfffd3/2] d/ (!strumdown![ddffd3/2] f/) |";french5tab
+5;a moll;11;Gigue;;;Guitar;;3;",,c/ ,a1 | !strumdown![,bcc3/2] ,b/ ,d1 | a3/2 ,,,,a/ ,,,,c1 | \
+[a,,,d3/2] c/ d1 | '[,c,,a3/2] ,,,,d/ ,,,a1 | [c,,,c3/2] e/ f1 | \
+'[efe3/2] ,f/ ,,,a1 |";french5tab
+6;a moll;12;Passacaille;;;Guitar;;3;",a/ ,,,,d ,d | !strumdown![,bcc1] !strumdown![accc] c/ d | \
+!strumdown![cdc1] !strumdown![cdc/] !strumup![cdc] !strumdown![ede1] | \
+[fff/] ,,,a !strumdown![,'acc1] ,,,,a/ ,,b | \
+!strumdown![,bcc1] ||";french5tab
+7;a moll;13;Gavotte;;;Guitar;;C;"!strumdown![,bcc3/2] a/ | [a,f,a1] ,,e/ ,d '[,bc,a1] ,,b/ ,a | \
+!strumdown![,bcc1] ([,,c,a/] ,,a) ,,,d f ,,,c d | \
+([b,,a/] d) [a,(c] [,,a)] '[,d,d3/2] !strumup![aabcc/] | \
+!strumdown![aabcc2] ||";french5tab
+8;a moll;14;Gavotte;;;Guitar;;C;"!strumdown![,Xbcc3/2] (,b/ ,d) a | [,dc,c3/2] ,d/ [,dbc1] ',b3/4 ,a/4 | \
+!strumdown![,bcc1] (,,c/ ,,a) ([f,,d] d) ,g a | \
+!strumdown![bdc/] a (,d ,b) '[,a,c3/2] ,,c/ |";french5tab
+9;a moll;14;Bourrée;;;Guitar;;C;",f1 | !strumdown![fffhh1] f/ h !strumdown![iffhh1] (h/ f) | \
+!strumdown![hfhgf1] !strumup![hfhgf3/2] (h/ i l) | \
+[,khih1] !strumdown![fffhh] '[ff,,h3/2] e/ | \
+[f,,,a1] ,,,c ,,c ||";french5tab
+10;A dur;15;Allemande;;;Guitar;;C;"!strumup![fccce/] | !strumdown![fccce3] (e/ c) | \
+[fc,e1] c/ ,c !strumdown![,deec1] [aab/] ,d | \
+!strumdown![,'ccc1] ,,c !strumdown![accca3/2] !strumup![acca/] | \
+!strumdown![cdc3/2] c/ !strumdown![ceeec1] e/ f |";french5tab
+11;A dur;16;Courante;;;Guitar;;3;"!strumup![ffghh/] | !strumdown![ffghh3/2] f/ h1 [k,,h] '[hhi3/2] f/ | \
+'[efe1] ,f2 ([ff,,e/] d) 'd3/2 !strumup![cdc/] | \
+!strumdown![cdc3] [aa,,e1] [a,'d3/2] c/ |";french5tab
+12;A dur;17;Sarabande;;;Guitar;;3;"!strumdown![accca1] !strumup![accca] !strumdown![accca] | \
+'[aab3/2] ,d/ !strumdown![,'ccca1] | (!strumdown![,cca/] ,d) ,d1 [,dbc] | \
+!strumdown![,'ccc3/2] ,a/ !strumdown![,abcc1] | \
+!strumdown![efecc1] !strumup![efecc] !strumdown![edecc] | \
+(!strumdown![eccce/] f1) d/ !strumdown!['cdca1] |";french5tab
+13;d moll;18;Prelude;;;Guitar;;C;",,c/ ,d a | (a/4 b) ,,,,a/ [b,,a] [d,,c] [f,,d] (,f ,d) ,,f | \
+,,d/ ,d f d [i,,,a] (,f ,g) i |";french5tab
+14;d moll;18;Allemende;;;Guitar;;C;"X,d3/4 ,d/4 | !strumdown![,dca3] ,d/ a | [bd,a1] ,c/ a ,d b ,f d | \
+!strumdown![fgh1] !strumup![fgh] [ff'f] [li,i] | \
+'[k,,,a1] ,l/ [k,k] ([k,(k1] [l,l)3/4]) ,,,f/4 |";french5tab
+15;d moll;20;Courante;;;Guitar;;3;"!strumup![fgh/] | !strumdown![fgh3/2] d/ 'b a !strumdown![bdc1] '[a,a3/2] ,d/ | \
+!strumdown![,'ccc1] ,,,,c/ ,d [a,,,e1] !strumdown![bdc1] '[b,,a3/2] !strumup![accc/] | \
+!strumdown![accc1] !strumdown![bdc] d [f,,a] \
+(!strumdown![fda1] g/) f |";french5tab
+16;d moll;21;Courante;;;Guitar;;3;",d/ | !strumdown![,dca1] (,,,a/ ,,,c ,,,d1) [,d,e1] ,,f3/2 ,d/ | \
+!strumdown![,,dff3/2] ,b/ '[,,ca1] [,,c,d] [,dc,b1] ,,a/ a | \
+!strumdown![,'ccc3/2] ,d/ [aca1] \
+!strumdown![bdcd] [dc,c3/2] f/ |";french5tab
+17;d moll;21;Sarabande;;;Guitar;;3;"!strumdown![fgh1] !strumup![fgh] [df,a] | \
+!strumdown!['bdc3/2] [ac/] [bd,a1] | \
+!strumdown![cbc1] !strumup![cbc] !strumdown![dd,,b] | \
+!strumdown![,'ccc3/2] ,d/ [,dca1] | \
+!strumdown![fgh1] !strumup!h !strumdown![ifffh1] | \
+'[gh,a3/2] f/ !strumdown![gghff1] |";french5tab
+18;d moll;22;Sarabande;;;Guitar;;3;"!strumdown![bdc1] [df] !strumdown![fgh] | \
+'[fha3/2] [fh/] [gia1] | [,da,c1] [ac] !strumdown![bbcd] | \
+'[a,a3/2] ,d/ !strumdown![,'ccc1] | \
+[f,,,a/] (d 'b) a [,d,,(b] [,,,,a)] |";french5tab
+19;d moll;23;Gigue;;;Guitar;;3;"(f/ d1) | '[b,,a3/2] d/ f1 | ,d3/2 ([b,(c/] [a,a)1]) | \
+[,d,d3/2] [a,a/] '[,cc1] | (!strumdown![,cca1] ,d) b | \
+'[a,,,d3/2] [a,d/] [c,c1] | [d,a3/2] ,,,d/ [dc,c1] |";french5tab
+20;d moll;24;Passacaille;;;Guitar;;3;"!strumdown![bdc/] (a b) d | [a,d,d1] !strumdown![,dd,b/] (,,c ,,a) a | \
+[,ca,a1] !strumdown![,dce/] ,,f ,a ,,,,a | \
+[,da,b1] '[,d,,a3/2] ,c/ | [,d,a1] ||";french5tab
+21;d moll;25;Gavotte;;;Guitar;;C;"!strumdown![bdc3/2] b/ | [d,,c1] [f,,d] [,dd] !strumdown![,ddff/] ,f | \
+!strumdown![,'ccc1] ,,c [,d,e/] (,f ,d) ,b | \
+'[,aa1] [aab/] ,d !strumdown![,'ccc3/2] ,d/ | [,dca2] ||";french5tab
+22;d moll;25;Gavotte;;;Guitar;;C;"[,d,a/] a !strumdown![bdc/] d | !strumdown![ab,cd1] [fff/] g '[ddd3/2] !strumup![fccce/] | \
+!strumdown![fccce1] !strumup![fccce] !strumdown![,'ccc] ,,a/ ,c | \
+[,d,d1] [ac,c] !strumdown![bdc/] (d a) b |";french5tab
+23;d moll;26;Menuet rondeau;;;Guitar;;3;"!strumdown![bdc1] (b/ a) ,d1 | !strumdown![fccce2] !strumup![fccce1] | \
+!strumdown![bdc1] (d/ b a) ,d | !strumdown![accc2] !strumup![accc1] | \
+!strumdown![bdc1] (d/ b a) ,d |";french5tab
+24;d moll;26;Menuet rondeau;;;Guitar;;3;"!strumdown![bdc3/2] a/ [b,c1] | [,dd1] '[a,a2] | \
+!strumdown![,'ccc2] [,d,a1] | [a,,,a/] ,d a (b a1) | \
+!strumdown![bdc3/2] d/ [f,,,a1] | !strumdown![,dd,b1] '[a,a2] | \1
+!strumdown![,'ccc2] [,d,a1] |";french5tab
+25;d moll;27;Bourée;;;Guitar;;C;"!strumup![fhha1] | !strumdown![fhha1] d/ c [a,,,e1] c/ d | \
+'[c,,a1] ,d2 (e/ c) | '[a,,,a1] (,d/ ,c) [,d,,c1] [a,b] | \
+!strumdown![,'ccc1] ,,c2 !strumup![fgha1] |";french5tab
+26;g moll;28;Prelude;;;Guitar;;C;",,,,b/ ,d d ,,,a ,,a ,d d ,d | ,,,a/ ,,a ,,,,b ,d d (c d) ,,a | \
+,,,e/ (d f) ,,,,a ,d ,,f ,d ,,,,a |";french5tab
+27;g moll;28;Allemande;;;Guitar;;C;"!strumup![dd,,b/] | !strumdown![dd,,b2] ,,a1 ,,,,a | \
+[dd,,b3/2] ,,,,a/ ,,,,b1 [de,,d/] f | !strumdown![cdc2] [cd,a1] [df] | \
+!strumdown![fhh3/2] f/ [fh1] [gi] | \
+!strumdown![fhh1] !strumup![fhh] [fhf] [li,i] |";french5tab
+28a;g moll;29;Courante;;;Guitar;;3;"!strumup![dd,,b/] | !strumdown![dd,,b3] ([,gf,a/] ,e) ',e3/2 ,d/ | \
+!strumdown![,dddb3/2] ,,c/ ',,a1 [,d,e/] ,,f ',,d3/2 ,,,,a/ | \
+(,,,,a/ ,,,,b) ,,a1 ,e [,d,d] [db,b3/2] f/ |";french5tab
+28b;g moll;30;double de la Cour.te;;;Guitar;;3;"!strumup![dd,,b/] | !strumdown![dd,,b3] ([,gf,a/] ,e) ',e3/2 ,d/ | \
+[,dd,b/] ,,,a (,,,,d ,,,,b ,,,,a) ,,a \
+[,d,e] (,e ,d) (,,f ,,d) ,,,,a |";french5tab
+29;g moll;32;Sarabande;;;Guitar;;3;"!strumup![dd,,b/] | !strumdown![dd,,b1] !strumdown![dd,,b3/2] f/ | \
+(!strumdown![fda3/2] g/) !strumup![gda1] ,,,,a3/4 f/4 | \
+'[ddd1] !strumdown![deffd3/2] f/ | !strumdown!['cdc1] !strumup![cdc3/2] !strumup![fghhf/] | \
+!strumdown![fghhf1] !strumdown![ffghh3/2] a/ |";french5tab
+30;g moll;33;Gigue;;;Guitar;;3;",d1 | ',,,,b3/2 ,,c/ ,,a1 | ,d1 ,,,,c/ a b1 | [a,,,d1] ,,,,e/ c d1 | \
+'[c,,a3/2] d/ ,,a1 | '[,bbc2] ,e1 | [,dd1] ,,a g |";french5tab
+31;g moll;33;Menuet;;;Guitar;;3;"!strumdown![gda1] f d | !strumdown![,'cdc3] | !strumdown![dd,,c3/2] d/ b1 | \
+'[a,,,d3/2] b/ d1 | !strumdown![fccce3/2] d/ f1 | \
+!strumdown!['cdc3/2] a/ ,d1 | !strumdown![gda1] f d |";french5tab
+32;g moll;34;Gavotte;;;Guitar;;C;"!strumdown![dddff3/2] !strumup![dddff/] | \
+!strumdown![fdfed1] !strumdown![gddff] [fed/] (g f) d | \
+!strumdown!['cdc1] ,d [dde/] (f d) b | \
+'[a,,,d1] a/ c [d,,,b1] ,,a3/4 f/4 | !strumdown!'[cdc2] ||";french5tab
+33;G dur;35;Sarabande;;;Guitar;;3;"!strumdown![dd,,c3/2] c/ ([c,a] a) | '[,d,e3/2] ,,f/ '[,,ef1] | \
+!strumdown![,fffd3/2] h/ !strumdown![hffh/4] ,i f/ | \
+'[fh,a3/2] ,i/ [,ia1] | !strumdown![hihff3/2] h/ ([h,,,a] i) |";french5tab
+34;G dur;35;Sarabande;;;Guitar;;3;"!strumup![dd,,c/] | !strumdown![dd,,c1] !strumdown![dd,,d3/2] f/ | \
+!strumdown!['cdc1] !strumup![cdc3/2] c/ | \
+!strumdown![dd,,c1] !strumdown!['de] a3/4 b/ | \
+'[a,,,d1] !strumdown![ab,cd3/2] !strumup![abcc/] | \
+!strumdown![abcc1] !strumdown![accc3/2] a/ |";french5tab
+35;G dur;36;Gigue;;;Guitar;ConcR3551;3;",d1 | !strumdown![dd,,c3/2] c/ d1 | [f,,e1] ,d [f,,a] | \
+!strumdown![fhh3/2] h/ i1 | '[h,a1] ,i h | \
+!strumdown![ab,cd3/2] a/ [c,,,d1] | [d,,,c1] ,d [a,,,d] |";french5tab
+36;c moll;37;Prelude;;;Guitar;;C;"d ',e ,,,,d d ,,f ',,e ,,,f | \
+,,f/ ,e '[,dd] [,ea] [,bb] (,b/8 ,d ,e/4) '[,d,d/] ,b |";french5tab
+37;c moll;38;allemande Tombeau de Mr franc.que;;;Guitar;Conc_1166;C;"!strumup![deffd3/4] !strumup![deffd/4] | \
+!strumdown![deffd2] [,,f,d/] (,,e ,,f) ,d | \
+!strumdown![,effd1] ,,f [dd'd] [ig,g] | \
+'[h,a1] (,i/ ,g) [iii] ,i i l |";french5tab
+38;c moll;40;Courante;;;Guitar;;3;"!strumup![deffd/] | !strumdown![deffd3] [,gfa1] '[,eef3/2] ,d/ | \
+!strumdown![,effd1] ,,f3/2 ,e/ [,dd1] !strumdown![,bbdd3/2] ,d/ | \
+'[,aa3] !strumdown![ddeff1] '[,de3/2] ,d/ |";french5tab
+39;c moll;41;Sarabande;;;Guitar;;3;"!strumup![deabd/] | !strumdown![deabd1] !strumdown![deabd3/2] e/ | \
+'[bb,a1] !strumdown![bd,,c3/2] d/ | \
+!strumdown![,effd1] (!strumdown![,efdd] ,d3/4 ,e/4) | \
+'[,da1] !strumdown![,d,,c3/2] ,d/ | \
+(!strumdown![,cdab/] ,d/) !strumdown![,daab3/2] ,e/ |";french5tab
+40;c moll;42;Sarabande;;;Guitar;;3;"!strumdown![,effd1] ,e !strumdown![,effd] | \
+'[,ded3/2] ,d/ [ddd1] | '[,bcb3/2] ,b/ [bbb1] | \
+'[,aaa3/2] ,b/ ([,a,,d] ,b) |:| \
+!strumdown![iiill1] !strumup![iiill] !strumdown![iiill] | \
+'[ggh3/2] g/ [gi,,h1] |";french5tab
+41;c moll;42;Gavotte;;;Guitar;;C;"!strumdown![,effd1] (,e/ ,d) | ,,f1 [dd'd] [ig,g3/2] l/ | \
+'[h,a1] ,i/ f !strumdown![gihff1] !strumdown![ifffh3/4] d/4 | \
+!strumdown![egfdd1] (e/ d) (,g ,e ,d) ,,f |";french5tab
+42;C dur;43;Prelude;;;Guitar;;C;"d/ (f d) (,g ,f) (,d ,f) ,,,,d | (,d/ ,f ,g) (d f) ,g [df,,d1] | \
+,,f/ (,f ,g ,i) (f h i) h |";french5tab
+43;C dur;43;Allemande;;;Guitar;;C;"!strumup![dfffd3/4] !strumup![dfffd/4] | !strumdown![dfffd3] d/ f | \
+!strumdown!['bdc3/2] a/ [ba,a3/2] d/ | \
+([baaad/] a) (,d ,b1) ,i/ f h | \
+!strumdown![ifffh1] i/ (h f) (,i ,g) ,f |";french5tab
+44;C dur;44;Courante;;;Guitar;;3;"!strumup![db,cd/] | !strumdown![db,cd3/2] (d/ b) a [bd,,d1] '[ba,a3/2] !strumup![,bcc/] | \
+!strumdown![,bcc1] ,,,,a1 ,,,,c !strumdown![ab,cd1] b !strumdown![db,cd] | \
+!strumdown![,'de3/2] ,d/ [,ff1] ([,d,a/] ,b) '[,a,c3/2] ,a/ |";french5tab
+45;C dur;46;Sarabande;;;Guitar;;3;"!strumdown![,Xb,cd3/2] ,d/ !strumdown![ab,cd1] | \
+'[a,,,d3/2] b/ !strumdown![db,cd1] | \
+!strumdown![ifffh3/2] h/ !strumdown![fgdd1] | \
+'[dde3/2] ,g/ !strumdown![,fffd1] | \
+!strumdown![ab,cd1] b !strumdown![db,cd] | \
+'[,d,ea3/2] ,d/ !strumdown![,deff1] |";french5tab
+46;C dur;46;Gigue ala maniere engloise;;;Guitar;;3;"d/4 b/ | '[a,,,d3/4] ,d/4 ,b/ | !strumdown![db,cd3/4] f/4 h/ | \
+!strumdown![ifffh1] !strumup![ifffh/] | \
+!strumdown![ifffg3/4] h/4 i/ | !strumdown![fhhhf1] !strumup![fhhhf/] | \
+!strumdown![lhhhk3/4] i/4 l/ |";french5tab
+47;C dur;47;Gavotte;;;Guitar;;C;"!strumdown![ab,cd3/2] !strumup![ab,cd/] | \
+!strumdown![ab,cd1] (b/ a) !strumdown![,'de3/2] ,d/ | \
+[d,e1] '[,ff] !strumdown![ifffh3/2] i/ | \
+!strumdown![ihfhf1] ([g,a/] f) '[f,,a3/2] ,i/ | X[,ia2] |:|";french5tab
+48;C dur;48;menuet;;;Guitar;;3;"!strumdown![ab,cd1] a b | !strumdown![db,cd1] (f/ d) (b a) | \
+!strumdown![bdc1] (d/ b a) ,d | [a,,,d/] ,d a (b a1) |";french5tab
+49;F dur;49;Chacone;;;Guitar;;3;"!strumdown![bbcd1] !strumup![bbcd] | \
+[dd,,b1] !strumdown![,b,cd3/2] a/ | \
+!strumdown![bbcd1] !strumdown![,dddb] ,d1 | \
+[,bcb1] '[,bac3/2] ,,d/ | '[,,cd1] |:| \
+!strumdown![bbcd1] d | !strumdown![fgfdd1] '[dfd] [f,f,a] | \
+!strumdown![gda1] !strumdown![gdddf] !strumdown![gfdfd] |";french5tab
+50;G dur;50;Prelude;;Preceded by Accord;Guitar;;C;",a/ ,,,,a ,a a ,,a ,a a | ,,,e/ (a c) ,a ,,,a (e f) ,h | \
+,,a/ ,h e ,f ,,,a ,e e f |";french5tab
+51;G dur;51;allemande;;;Guitar;;C;"!strumup![aaafa/] | !strumdown![aaafa2] z/ ,a a c | \
+[eaa1] (c/ a) !strumdown![haafa3/2] !strumup![haafa/] | \
+!strumdown![haafa2] z/ ,,,a ,,a ,,c | \
+[a,e1] (,,c/ ,,a) [a,,,a1] [c,,,b] |";french5tab
+52;G dur;52;Courante;;;Guitar;;3;"!strumup![aaafa/] | !strumdown![aaa(ea1] [,,,f)/] a (,e ,c) [,a,e1] ',a3/2 ,,f/ | \
+'[,,ef3/2] ,a/ [,c,e1] ,e [,f,c] [c,,,c] | \
+'[,e,a3/2] (,c/ ,a) ,,,,b [aa,,a1] (e/ c) e1 |";french5tab
+53;G dur;52;Sarabande;;;Guitar;;3;"!strumup![aaafa/] | !strumdown![aaafa1] '[efa3/2] g/ | \
+!strumdown![haafa1] !strumup![haafa3/2] e/ | \
+!strumdown![fhfhf1] !strumdown![fhfhh] [efa] | \
+'[ce,a1] !strumdown![ceced3/2] c/ | [eaa1] 'a3/2 ,e/ | \
+!strumdown![,cacb1] !strumdown![,cacc3/2] c/ |";french5tab
+54;G dur;53;Gigue;;;Guitar;;3;"a1 | 'e3/2 ,h/ a1 | h2 ,,a1 | [a,'e3/2] (,,c/ ,,a1) | \
+'[,e,a2] [a,,,a1] | [a,,,b1] [c,c] [,e,a] | ([,ea1] ,f) a |";french5tab
+55;G dur;55;Sarabande;;;Guitar;;3;"!strumup![aaafa/] | !strumdown![aaafa1] !strumdown![aaafa3/2] c/ | \
+'[,e,a1] !strumdown![,eced3/2] !strumup![aaafa/] | \
+!strumdown![aaafa1] '[efa3/2] f/ | '[ce,a1] !strumdown![ceced3/2] c/ | \
+[ce,,d1] !strumdown![hhhhh3/2] k/ | \
+'[e,a1] !strumdown![efafa3/2] g/ |";french5tab
+56;G dur;56;Chacone;;;Guitar;;3;"(a/ c e) a | !strumdown![h,,f1] !strumup![h,,f] (f/ e) | \
+!strumdown![fhfhf1] !strumup![fhfhf] !strumup![fhfhh] | \
+([ffa/] e) '[ce,a3/2] a/ | !strumdown![aaa(ea/] [,,,f/] |:|";french5tab
+57;G dur;57;Gavotte;;;Guitar;;C;"!strumdown![aaa(ea1] [,,,f)/] ,a | a1 [ca,e] [eaa3/2] f/ | \
+'[c,,a1] ,,f ([ea,,a/] c a) ,e | [,c,,b3/2] c/ '[cc,,c3/2] a/ | \
+'[,e,a1] (,c/ ,a) |:|";french5tab
+58;G dur;58;Menuet;;;Guitar;;3;"!strumdown![aaa(a1] !strumdown![,,,f)3/2] c/ | \
+!strumdown!e1 a h | !strumdown!'e1 (e/ f h1) | \
+([c,,a/] a) (c e) c1 | !strumdown![aaa(ea1] [,,,f)] c |";french5tab
+59;G dur;58;Bouréé;;;Guitar;;C;"!strumup![aaafa1] | !strumdown![aaafa1] ,a [,c,e] ,a/ ,,f | \
+'[,,ef1] ,a a [c,,e] | [eaa3/2] e/ (f e c a) | '[c,,a3] |:| \
+!strumup![hhhh1] |";french5tab
+60;;59;Allemande 8;;;Staff;;;;
+61;;60;Courante 9;;;Staff;;;;
+62;;62;Sarabande 10;;;Staff;;;;
+63;;62;Gigue 11;;;Staff;;;;
+64;;64;Tombeau de Mr. Francisque Corbet 38;;;Staff;Conc_1166;;;
+65;;65;Sarabande en Rondeau 42;;;Staff;;;;
+66;;66;Courante 29;;;Staff;;;;
+67;;67;allemande 15;;;Staff;;;;
+68;;68;Courante 16;;;Staff;;;;
+69;;69;Gavotte 14;;;Staff;;;;
+70;;69;Sarabande 17;;;Staff;;;;
+71;;70;Menuet en rondeau 26;;;Staff;;;;
+72;;71;allemande 28;;;Staff;;;;
+73;;72;Gavotte 25;;;Staff;;;;
+74;;73;Sarabande 41;;;Staff;;;;
+75;;74;Allemande 18;;;Staff;;;;
+76;;76;Courante 20 (26?);;;Staff;;;;
+77;;77;Gigue 36;;;Staff;;;;
+78;;78;allemande 51;;;Staff;;;;
+79;;79;Courante 52;;;Staff;;;;
+80;;80;Gigue 53;;;Staff;;;;
+81;;81;Sarabande 52;;;Staff;;;;
+82;;82;Sarabande 55;;;Staff;;;;
+83;;83;Gavotte 57;;;Staff;;;;

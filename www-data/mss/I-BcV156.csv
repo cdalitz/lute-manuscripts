@@ -1,0 +1,39 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+;;;Liuto;;;;;;;
+1;;4;Balletto;;Liuto;OT;;3;"[cd,a1] [ac,,a] [cd,a] [d,,c] | [fda1] ,,,a/ d c1 [fd,a] | \
+[ha,f1] [fd,a] [fdd] ,,,,a/ d | [cd,a2] {d}1 ||";italian7tab
+2;;5;Volta;;Liuto;OT;;3/2;"[cd,a2] ,,d [ac,,a] | [cd,a2] ,,d [d,bc] | [fda2] ,,,a1 d c a | \
+[,da2] ,,,a f | [cd,f2] ,,,a f |";italian7tab
+3;;6;Corrente';;Liuto;OT;;3;"[f,aa3/2] d/ c1 | [a,d,a3/2] ,d/ [,cd1] | [,d,a3/2] ,,,c/ ,,a1 | \
+,,,a3/2 d/ f1 | [h,,f3/2] ,,d/ ,a1 | [acd3/2] ,d/ [a,,,a1] |";italian7tab
+4;;7;Gagliarda;;Liuto;OT;;3/2;"[cd,a2] {d}1 a ,d2 | [ac,,a2] [cd,a] [d,,c] | [fda2] ,,,a1 d c a | \
+[cd,a1] d f c d f |";italian7tab
+5;;9;Canzone franzese;;Liuto;OT;;C;",,,a1 ,,,,a ,,,a ,,,c | [,d,e1] ,,d ,d [a,,f] | [c,d1] ,,,a [,da] [,,bc] | \
+[f,aa1] ,d [c,d] [d,b] | [f,aa1] c [,,,a,h1] h |";italian7tab
+_5a;;12;[var.];;Liuto;OT;;none;"f/4 d c a c d a c ,d ,c ,a ,c ,,d ,a ,c | \
+,d/4 ,,d ,,b ,,a ,,,c";italian7tab
+;;;Tiorba;;;;;;;
+6;;13;Balletto sopra listesso sogetto;;Tiorba;OT;;C;",d/ a | [cdd{a}1] [cdd,a] [cdda] [dc,c] | [cdda1] {a} [cdd] [cdda] | \
+[ddf,,d1] [cdd{a}] [add,c] [acd{10}] | [,dda{a}1] ,,,,a ,,,c ||";italian7tab
+7;;14;Volta;;Tiorba;OT;;3/2;"[c,d{a}2] ,d [ac,,a] | [cd,a1] {a} [a,b,,a] | [,,da,c1] ,,,,,a ,,,,,c ,,,,,d [,c,,a2] | \
+[,da,c2] ,,b [,cd,a] | [d,f,,d1] ,,,,,c ,,,,,d ,,,,a [,cd,c2] |";italian7tab
+8;;16;Corrente;;Tiorba;OT;;3;"[cdd{a}3/2] ,,,,,a/ [,dd,,c1] | [acd,a3/2] ,d/ [,c,c1] | \
+[,dda{a}3/2] a/ [c,,,a1] | [,d,a3/2] ,,,,,a/ ,,,,,c1 | \
+[,aba,d3/2] ,,,,a/ [,dc,c1] | [a,d,a3/2] ,d/ [,c,c1] |";italian7tab
+9;;17;Gagliarda;;Tiorba;OT;;3/2;"[cdd{a}2] ,,,,a1 d [c,,a] a | ,d2 [add,a] [acd{10}] | \
+[,dda{a}2] ,,,,a1 ,,b ,,a ,,,c | [,,ba2] [,,baa] [,,aa{a}] | \
+[,,ba{11}3] ,,,,,c1 ,,,,,d ,,,,,c |";italian7tab
+10;;19;Ricercata sopra la canzone;;Tiorba;OT;;C;"[,daa{a}4] | [cdda2] [,dcac1] ,,b | [cdda2] {a}1 [aab,,a/] ,c | \
+[cdd{a}/] ,,b [,(yd/4] ,,b ,,a [,,y)c] ,,a/ ,,,,a ,,,,c ,,,,e |";italian7tab
+;;;Chitarrino;;;;;;;
+11;;22;Balletto;;Chitarrino;OT;;C;"[,b,a/] ,,a [,a,c] ,,a [a,,a] ,b [aa,c] b | \
+[df,a/] f d [bd] [abaa] [b,c] [d,e] [a,a] |";italian4tab
+12;;23;Volta;;Chitarrino;OT;;3/2;"[d,,a1] ,b ,,a d ,a ,b | [a,,a1] ,b ,,,a a ,,,c b | \
+[df,a1] ,g ,f g ,,,f f |";italian4tab
+13;;26;Corrente;;Chitarrino;OT;;3;"[a,,a3/2] ,d/ [,b,a1] | [,,ac3/2] ,b/ [,a,c1] | [,b,a3/2] ,d/ [a,a1] | \
+[a,,a3/2] b/ [d,a1] | [bbc3/2] d/ [f,,f1] | \
+[daac3/2] f/ [h,a1] |";italian4tab
+14;;28;Gagliarda;;Chitarrino;OT;;3/2;"[ab,a3] ,d1 a b | [da,c1] ,,a [,,ca] ,a ,b ,d | \
+[df,a3] f1 d b | [ab,a1] ,a ,b ,,a ,,c ,a |";italian4tab
+15;;30;Ricercata sopra la canzone;;Chitarrino;OT;;C;"[d,,a/] ,b [a,a] ,d [a,,a] ,b [a,a] b | \
+[df,a/] ,d ,b ,a ,b ,,c ,b ,d | [dff/] ,,e ,,c ,,a";italian4tab

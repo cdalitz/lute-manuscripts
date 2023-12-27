@@ -1,0 +1,133 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;3r;Ricerchar Primo;;;OT;ConcR2461;C|;",,d2 | a1 ,,b | ,,d [,df] | [ab1] [ca/] ,,d | \
+[b,bc/] ,,a ,,b ,,d | [d,bc/] ,c [cd,a1] | \
+,,,c/ [a,b] [,da] ,b |";italiantab
+2;;3v;Ricerchar Secondo;;;OT;ConcR2462;C|;"a2 | [a,d1] ,d | [,bd2] | [,da/] ,a ,b ,d | [a,b2] | [,bd1] [,da] | \
+[a,b1] ,,d | ,b/ ,,b ,,a ,,,c | [,d,a1] ,,b |";italiantab
+3;;4v;Recerchar terzo;;;OT;ConcR2512;C|;"[c,a2] | [c,a3/2] ,,c/ | [c,d1] ,a | e1 ,,d/ ,,c | [f,a/] ,,c ,,d ,a | \
+[fc1] ,d | [ea,c1] ,c | [cd,,c1] ,,f/ e |";italiantab
+4;;5r;Recerchar Quarto;;;OT;ConcR2463;C|;",,,a2 | ,,,a1 ,,,c | ,,,e1 ,,,a | [,db3/2] ,,d/ | [,df1] [a,d] | \
+c1 [,df] | d1 ,c | [cd/] ,c [da] ,,d | ,,b/ c a ,d |";italiantab
+5;;5v;Recerchar Quinto;;;OT;ConcR1334;C|;"h2 | c1 f | z/ a d1 | [ca2] | ,,a1 ,,d | a/ ,,,c ,,b1 | \
+[,,a,c1] ,,,a | ,,d/ ,,,,a ,,,,d1 | [a,,c1] ,,b |";italiantab
+6;;6v;Recerchar Sexto;;;OT;ConcR1704;C|;"[,,,c,a2] | [,,,c,a3/2] ,,,,,c/ | [,,,c,d1] ,,,,a | [,,,c,d1] ,,,,d | \
+[,,a,c1] ,,,,a | ,,a1 ,,,,c/4 ,,,,a ,,,,,d ,,,,,c | [,,b,,a1] ,,,,d | \
+[,b,,c1] ,,,,,d | [,,a,a1] ,,,,c |";italiantab
+7;;7r;Recerchar Settimo;;;OT;ConcR2513;C|;",d2 | f2 | [b,,a1] ,d | [a,d1] b | ,,,d1 [f,,a] | [d,,c1] a | \
+,,,d1 [,d,a] | ,,d1 [a,b,,d] | [,,,da1] [,d,ab] | \
+[,,,c,d1] [,c,,a] |";italiantab
+8;;7v;Recerchar Ottauo;;;OT;ConcR725;C|;"[,aa,c2] | [,aa,c/] ,,d ,,b ,,a | [,abc1] [,aab] | [,abc1] a | \
+[,da,c1] [,ab,,d] | [,b,ca1] [,a,ac] | [,,,cd1] ,,d/ ,,b | \
+[,,dcd/] ,,b ,,a ,,,c |";italiantab
+9;;7v;Recerchar Nono;;;OT;ConcR1603;C|;"[a,,c3/2] ,,a/ | [a,b1] ,,,c | [,da1] ,,c | [,bd1] ,,,e | \
+[,ab1] ,,,c | ,,a1 ,,,b | ,,,c1 [da] | ,,b1 [c,d/] a | \
+[,ea1] a/ ,c |";italiantab
+10;;8r;Recerchar Decimo;;;OT;ConcR1614;C|;",,,c2 | [,,,c,a1] ,,,c | [,a,,,a1] ,,,,,a/ ,,d | [,,b,c1] ,,a/ ,,,,a | \
+,,,,,d/ ,,,c [,,,c,c] ,,,,,a | ,,,,,c1 ,,,b | \
+[a,,c,a/] ,,a ,,b/4 ,,a ,,b ,,d |";italiantab
+11;;9r;Recerchar Undecimo;;;OT;ConcR1705;C|;"a2 | a1 ,d | ,b1 ,,d | [,bd1] [,da] | [a,bc2] | [a,bc1] ,,,a | \
+[a,d,d1] ,,,,a | [a,d,d1] ,,,a | [a,bc1] ,,,,,a | \
+[a,bc/] ,d ,b ,a |";italiantab
+12;;9v;Recerchar Duodecimo;;;OT;ConcR2514;C|;"[a,,,a3/2] ,,,,c/ | [a,,,d1] ,,,a | [a,,c1] ,,a | [a,b1] ,,,c | \
+[b,,a3/2] ,,,c/ | [b,,d1] ,,b | [b,d1] ,a | [ab1] ,,d | \
+[aa,,,a3/2] ,,,,,c/ | [a,,,,d1] ,,,,a |";italiantab
+13;;10r;Recerchar tredecimo;;;OT;ConcR2515;C|;",,d3/2 ,a/ | ,b1 ,d | [a,,,a3/2] ,,,,c/ | ,,,,d1 [c,,a] | \
+[d,,c1] a | [d,,c1] [c,a] | ,,b/ a [a,,c1] | ,,b1 [,da] | \
+[,b,c1] ,,d |";italiantab
+14;;10v;Recerchar Decimoquarto;;;OT;ConcR2464;C|;"a2 | h1 ,,,,h | [ha1] c | ,,a1 f | ,,d1 a | ,,,c/ c d ,,,e | \
+,,,f/ f h ,,,h | ,,f/ f ,h ,,,h |";italiantab
+15;;11r;Recerchar Decimoquinto;;;OT;ConcR2465;C|;"c2 | c/4 a c d c/ a c/8 a ,d ,c | ,a1 c | ,,d1 [c,a] | \
+[aab1] [cca] | [cab/] ,,a [aab1] |";italiantab
+16;;12v;Entre mes bras;;;OT;ConcR2516;C|;"[,dff1] [,dff/] [,dff] | [abb,d1] [dabc/] ,,b | [cdda1] [abb,d/] ,,d | \
+[,dff/] [ab] [c,de] [d,,c] | [fhaa/] h [if,f,i] ,,,h | \
+[h,ff1] [fhia/] ,a |";italiantab
+17;;13r;Viuere ne puis content;;;OT;ConcR1650;C|;"[aabc2] | [aabc1] c | [dabc/] ,,a ,,b ,,d | [ddff1] ,,,e/ ,,,c | \
+[cd,a1] ,c/ ,a | ,,d1 [cdda] | [cdda1] [cdda] | \
+[dabc/] d [dfg1] |";italiantab
+18;;13v;Iay me le cur;;;OT;ConcR1651;C|;",d1 ,d/ ,d | [f,d1] [f,d/] [f,d] | [cd,a1] [cd,a/] [cd,a] | \
+[acd,a/] ,a ,,d ,,b | [cdda/] ,b ,d/4 ,b ,a ,,d |";italiantab
+19;;14r;De uos seruir;;;OT;ConcR1652;C|;"a1 a/ a | [ca1] [,df/] ,,f | [ac1] [c,d] | [da,c1] [,c,c/] ,,,c | \
+[cda,c/] ,c [,a,ac] ,,d | [,,cce1] [,,dea] | \
+[,,bac/] ,,a [,,,ce1] |";italiantab
+20;;14v;Amors ont Cange;;;OT;ConcR1653;C|;"[d,b1] [d,b/] [d,b] | [c,d1] [c,d] | [da1] [ac] | [,dff1] ,,,f/ ,,,f | \
+[,,de1] [,dde] | [dab1] [db,c/] d | [cd,a1] [cd/] ,d | \
+[da1] [ac] |";italiantab
+21;;15r;Le content riche;;;OT;ConcR235;C|;",d2 | [fd1] ,b/ ,a | [f,d1] [f,d/] d/4 b | [ab/] ,d a b | \
+[da1] b/ a | [,bda/] a [,d,d] ,b |";italiantab
+22;;16r;Ele larax;;;OT;ConcR1654;C|;"c1 ,a/4 ,c ,d a | c1 ,a | c/ ,,d/4 ,a ,c ,d a c | \
+[da/] c d/4 c a ,d |";italiantab
+23;;16v;A mi suofr A mi suofre;;;OT;ConcR2010;C|;"[cdda1] | [cdda1] [aabc] | [cdda3/2] a/ | ,d1 [cdda] | \
+[cdda1] [aabc] | [cdda3/2] ,,,,e/ | ,,,a/ ,,,c [f,de1] | \
+[dabc1] [c,,a/] ,,,c |";italiantab
+24;;17r;Iamais;;;OT;ConcR2517;C|;"[,,,df1] [,,,df/] [,,,df] | [,,,df1] [,,dd] | [,,bc1] [,,,df] | \
+[,,,ce/] ,,,a/4 ,,,c [,,,af1] | [bd1] [bd/] [bd] | [bd1] [fg] | \
+[df1] [bd] |";italiantab
+25;;17v;Ha la be par la;;;OT;ConcR1655;C|;",,d2 | ,,d/ ,,b ,,d/4 ,,b ,,a ,,,c | [,,aa/] [,,bc] [,,de] [,,aa] | \
+[,,bc/] ,c ,d ,c | [,dda/] ,a ,c ,d |";italiantab
+26;;18r;Et don bon soyr;;;OT;ConcR1656;C|;"f2 | f1 ,,d | [,df/] a [cd] d | [a,d1] [ac,,a] | [,d,ac/] ,,,c [,,aa] ,,b | \
+,,,c1 [f,d,e] | ,,,a/ d [cd,a] a |";italiantab
+27;;18v;Base moy Tant;;;OT;ConcR1657;C|;",d/ ,c ,d a | [cd,a/] d [fd,ef] ,,,f | [fdd,f/] ,d [fdd,f] ,,,,f | \
+[cd,a/] d [f,def] ,,,f | [fdd,f1] [fdd,f] |";italiantab
+28;;19v;Monami;;;OT;ConcR1658;C|;",,,f3/2 ,,,e/ | [d,,c1] ,,,a/ c | [,f,c1] [,d,e] | [,f,f1] [c,a] | \
+[da1] [cd] | f1 ,a/ ,c | [da1] c/ ,,d | ,,b/ a [a,d1] |";italiantab
+29;;20r;El neye plaser;;;OT;ConcR1659;C|;"[,dda3/2] ,,,,e/ | [,da,c1] [a,bc] | [c,da/] ,d a c | \
+[dab,,d/] ,,,,a [da,,c] ,,,,e | [c,da/] [,,bc] [,,de] [da] | \
+[fcd/] ,,,e [h,i,,h1] |";italiantab
+30;;20v;Mais Que ce;;;OT;ConcR1660;C|;",,,,a1 ,,,,a/ ,,,,a | [,,,ac1] ,,,a/ ,,,a | ,,,c1 [,,b,e] | \
+[,,dff1] [,,de/] ,,d | [,dff,d1] [,d,e/] ,d | \
+[a,,c/] ,d [fc] d |";italiantab
+31;;21r;Alons alons;;;OT;ConcR1661;C|;",,d2 | [f,d1] ,,,a/ [f,d] | [dab1] [fb,d] | [bd,a1] ,,,d/ a/4 ,d | \
+[aab/] ,d [,dff] ,,,d | [da,c/] ,c ,d a |";italiantab
+32a;;22r;Queramus de Iusquino;;;OT;ConcR1618;C|;",,d2 | ,,d2 | ,,d/ ,,c/4 ,,d ,,f ,,d ,,f/8 ,,d ,,c ,,a | \
+,,,c3/2 ,,a/4 ,,c | [a,d2] | a1 ,,d | [a,c2] |";italiantab
+32b;;22v;[Seconda pars];;;OT;ConcR1619;C|;"[,,,ca3/2] ,,,,,c/ | [,,,c,e1] [,,,e,c] | [,,,ca3/2] ,,,,,e/ | \
+[,,,ca1] [,,,ac] | [,,ae,c/] ,,,c ,,a ,,c | [a,d/] ,,a [a,c] ,,d | \
+[a,c1] [c,a] | [a,c1] ,,d |";italiantab
+32c;;23r;Tertia pars;;;OT;ConcR1620;C|;"a2 | a1 ,c | ,d/ ,a/4 ,c ,d ,a ,c ,d | \
+,c/4 ,a ,c ,d a ,d ,c ,a | [a,d2] |";italiantab
+33a;;24r;Letare de Iusquino;;;OT;ConcR2518;C|;",,,a2 | [,db1] a/ c | [d,b,,d1] ,,,,a/ ,,,,c | [d,bcd1] c | \
+[a,bcd1] ,,,,c | [f,d1] ,,b | [f,def1] [d,,c] | \
+[cd,a1] [abb,d] | [,d,,c1] [,b,,a] |";italiantab
+33b;;25v;Seconda pars de letare;;;OT;ConcR2519;C|;"f2 | c1 d | f1 h | [fd2] | a1 [fb] | [cd1] [df] | [fde1] h | \
+[fbd1] ,,b | [f,de1] [dab/] c | [acd1] [,df] |";italiantab
+34;;26v;Que est ista de gombert;;;OT;ConcR2520;C|;",d2 | ,d2 | ,b1 ,a/ ,,d | ,a/ ,d ,b ,a | [f,d/] ,,b ,,d ,a | \
+[fb1] ,d | [df1] ,,,c | [c,aa1] ,a |";italiantab
+35;;27v;Si bona suscepimus a.4;;;OT;ConcR1526;C|;"c2 | [ca2] | [ca3/2] a/ | [,df1] a/4 ,d a c | [d,b/] ,,d ,a ,b | \
+[da1] ,b/ c | [ab1] [,df] | [a,d1] ,,b |";italiantab
+36;;29v;Lasiar il uelo;;;OT;ConcR2521;C|;"[,aaac2] | [,aaac/] ,,d ,,b ,,a | [,,bcd/] ,,a [,,bcd] ,,d | \
+[,aa,c1] ,,,b | [,ab,,a1] ,,,c | [,,bc1] [,aab] | \
+[,abc/] ,d ,c ,a |";italiantab
+37;;31r;Com lacrimi e sospiri;;;OT;ConcR2522;C|;"[fhia2] | [fhia1] [fhia] | [hdff2] | [hdff1] [fhfi] | [dabc/] a c d | \
+[ffh,a/] ,,f ,,,h ,,,f | [fh,a1] ,,i | [fh,a1] [cdda] | \
+[dfa,c1] [cdda] |";italiantab
+38;;31v;Quanto lietto el giorno d. Verdelot;;;OT;ConcR2523;C|;",d/ ,c ,d a | [bd3/2] a/ | [bd1] [ac] | [bd,a/] a b d | \
+[f,ddf1] f/ ,,,c | [,,ddf1] [,,,cd] | \
+,,,,f/ [f,dd] ,,,,d ,,,,c |";italiantab
+39;;32v;Felici ochi mei d. archadel;;;OT;ConcR1364;C|;",a2 | [ac/] d c a | ,,f/ ,e a ,e | [ac/] c [df] f | \
+[hil1] [hhk] | [hil1] ,,,,h/ ,l | [,if,h1] [,hf,g] |";italiantab
+40;;33r;Ochi mei lassi de archadel;;;OT;ConcR1606;C|;"[,ddef2] | [,ddef1] ,,,,e | [,daac/] ,,,c [,da] ,,c | \
+[acd,a1] ,d/4 ,c ,d a | c1 [,daac/] ,c | ,a/ ,,d [,dff,d1] |";italiantab
+41;;34v;Saltarello ditto el maton;;;OT;ConcR2445;C|;"[,dda1] | [,cd,a1] [,dda] | [abb,d/] ,a ,b ,d | [ab,,d1] [c,da/] d  | \
+c/ a ,d ,c | [,d,a3/2] ,d/ | ,,d1 [,dda] | [,cd,a1] [,dda] |";italiantab
+42;;34v;Saltarello ditto bel fior;;;OT;ConcR1638;3;"[cd,a1] [cd] [cd,a] | [cd,a/] a c d c1 | [f,aa/] d c a [d,aa] c | \
+[dab,,d3/2] [dab/] ,,,a1 | [abb,d1] [abb] [abb,d] |";italiantab
+43;;35r;Saltarello ditto la bertoncina;;;OT;ConcR2524;3;"[,daa1] [,cdca] | [,daa3/2] ,a/ ,b ,d | [abb,d3/2] ,d/ ,c ,a | \
+[ac,,a3/2] ,a/ ,,d1 | ,,,,a1 [,daa] [,cdca] | \
+[,daa/] ,c ,d ,a ,b ,d |";italiantab
+44;;35v;Saltarel ditto el giorgio;;;OT;ConcR2525;3;"[cdda2] [cdd1] | [cdda1] [cdd] [cdda] | [acd,a3/2] ,a/ ,c ,d | \
+[acd,a1] ,,,c [f,de] | [ea,c3/2] c/ [ea,c1] | [fa,c1] e | \
+[fc,ca3/2] [fc/] ,,,c1 |";italiantab
+45;;36r;Pass'e mezo a la bolognesa;;;OT;ConcR1671;C|;"[acd,a1] | [acd,a1] ,,,c/ ,d | [acd1] [acd,a] | [acd,a1] a/ ,d | \
+,c/ ,a [,d,,a] ,c | [,d,a,d1] ,a/ ,,d | ,a/ ,c ,d a |";italiantab
+46;;36v;El suo saltarello a la bolognesa;;;OT;ConcR1672;3;"[acd,a1] | [acd,a1] ,,,c/ ,d | [acd1] [a,,,a/] ,d | \
+,c/ ,a [,d,,a] ,c | [,d,a,d1] ,d/ ,c | [,a,a,d1] [d,,,,d/] c | \
+a/ ,d [a,,,,d] ,d |";italiantab
+47;;37r;Saltarello del pass'e mezo de la louetta;;;OT;ConcR2446;C|;"[,dda1] | [,dda1] [abb,d] | [bbdd3/2] b/ | [abb,d3/2] a/ | \
+[,d,a1] a/ ,d | ,,,,a1 [acd] | z1 [,dda] | [,dda1] [abb,d] |";italiantab
+48;;37v;Pass'e mezo ditto la louetta;;;OT;ConcR2447;C|;"[,dda1] | [,dda1] [abb,d] | [bbdd2] | [bbdd1] [abb,d] | \
+[,dda1] [acd,a] | ,,,a/ [b,d] [a,,,a] ,d | [,cd,a1] ,,,c | \
+,,,,a1 [,cdca] | [,dda2] | [,dda1] [abb,d] |";italiantab
+49;;38v;Pass'e mezo ditto la Sasinata;;;OT;ConcR2526;C|;"[hd,f,d1] | [hd,f,d1] [hd,f] | [hd,f,d/] f d c | [ddf,,d1] [ddf] | \
+[ddf,,d1] c/4 a c d | [fdaa/] ,,,,e/4 ,,,,c ,,,,a/ [fc,c] |";italiantab
+50;;39r;Saltarello de la Sasinata;;;OT;ConcR2527;3;"[hd,f,d1] [hd,f] ,,,,,d | [hd,f,d3/2] f/ d c | [dab,,d3/2] [dab/] ,,,a1 | \
+,,,,,d2 c/ d | [fc,ca2] [fc,ca1] | d/ c [dabc1] ,d |";italiantab

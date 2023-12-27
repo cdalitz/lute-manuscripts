@@ -1,0 +1,211 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1;C dur;1;Saltus;;;Mandora;;3/4;"[,,d,a1] ,c c | \
+[,a,,,a1] ,a/ ,a ,a1 | \
+[,,d,a1] ,c c | \
+[,a,,,a3] :||: \
+[cc,,a1] [cc/] [cc] [cc] [cc] |"
+2;C dur;1;Saltus;;;Mandora;;C;"([,c,,a1] ,a) [,a,,,a] ,,d | \
+([,c,,a1] ,a) [,a,,,a] ,,d | \
+[,c,,a1] a [c,,a] e | \
+X[a,,,,a2] [,c,,a] :||: \
+[,c,,a1] e ([e,,,a] c) | \
+([c,,,a1] a) [a,,,a] ,c |"
+3;C dur;2;Saltus;;;Mandora;;C;"[,c,,a1] c ([c,,,,a] a) | \
+[,c,,a1] c ([c,,,,a] a) | \
+([,c,,a1] ,a/) ,,d [,a,,,a1] ,,c | \
+[,,d,a2] [,,,ca] :|"
+4;C dur;2;[Aria] Dorimene, meine Schöne;;;Mandora;;3/4;"[,,d,a/] (,a ,c1) [,a,,,a] | \
+[,c,,a1] ([,c,,,a] ,a) | \
+[,,d,a/] (,a ,c1) [,a,,,a] | \
+[,c,,a1] ([,c,,,a] ,a) | \
+[,f,,a2] [,h,a1] |"
+5;C dur;3;Menuet en quatre;;;Mandora;;3/4;"[,,d,a/] (,a ,c1) [,a,,,a] | \
+[,c,,a1] (c/ a) (,c ,a) | \
+[,,d,a/] (,a ,c1) [,a,,,a] | \
+[,c,,a1] ,,d ,,,c |"
+6;C dur;4;Aria Komm ach! komm mein werthes Leben;;;Mandora;ConcM2;C;"[,,dca1] [,ac,,a] V[,c,,a] [e,,a] | \
+[cc,,a1] ([,d,a/] ,c) ([,c,,,a/] ,a/4) ,,,c ,,,c1 | \
+[,,dca1] [,ac,,a] V[,c,,a] [e,,a] |"
+7;C dur;4;Saltus;;;Mandora;;3/4;"[c,,,a1] (c/ a) c1 | \
+[,c,,a1] (,c/ ,a) ,c1 | \
+[a,,a1] a/ ,c a1 | \
+[c,,,a1] (c/ a) c1 | \
+[,c,,a1] (,c/ ,a) ,c1 |"
+8;C dur;5;Clarino;;;Mandora;;3/4;"[,,dca1] [,,dc/] [,,dc] [,,dc] [,,dc] | \
+[,,dca1] ,c [,a,,,a] | \
+[,,d,a1] ,c [,a,,,a] | \
+[,,d,a3] | \
+[,a,,,a1] ,a/ ,a ,a ,a ,a |"
+9;C dur;6;Aria;;cf. Conc_4833;Mandora;;2/4;"(e/4 c) | \
+([,d,,a/4] ,c ,a) ,,d ([,c,,,a] ,a) (,,d ,,c) | \
+V[,,d,a1] [,a,,,a] | \
+( [,d,,a/4] ,c ,a) ,,d [a,,,c/] [,c,,a] |"
+10;C dur;6;Saltus;;;Mandora;;3/4;"([,d,,a/] ,c ,a) ,,d [,a,,,a1] | \
+([,d,,a/] ,c ,a) ,,d [,a,,,a1] | \
+[,,d,a1] ,c c | \
+([,c,,,a1] ,a2) :||: \
+[,c,,a1] [aa] [cc] |"
+11;D dur;7;sans titre;;;Mandora;;2/4;"[,ea,,,a1] [,ea,,,a] | \
+([,ea,,,a/] ,c) ([,c,,,,a] ,a) | \
+(3[,a,,,,a/] ,c ,e) (3[,a,,,,a] ,c ,e) | \
+([,e,,,,a/] ,c) ([,c,,,,a] ,a) |"
+12;C dur;7;Saltus;;;Mandora;;C;"[,,da1] ,a ([,d,,a/] ,c ,a) ,,d | \
+[a,,,c2] [,c,,a] | \
+[,a,,,a1] ,a/ ,,d [,a,,,a2] | \
+[,,d,a1] ,a ([,d,,a/] ,c ,a) ,,d |"
+13;C dur;8;Gigue;;;Mandora;;6/8;",,,c/ | [,,d,a/] ,a ,,d [,a,,,a] ,,d ,a | [,c,,a/] a ,c [,a,,,a] ,,d ,a | \
+[,c,,a/] a ,c [,a,,,a] ,,d ,a |"
+14;C dur;9;Saltus;;;Mandora;;C;"[,,d,a1] ,a ([,,d,,a/] ,,c ,,a) ,,,c | [,,d,a1] a ([,d,,a] ,c) | \
+[,,d,a1] ,a ([,,d,,a/] ,,c ,,a) ,,,c | \
+[,,a{d}1] [,,c,,a] V[,,d,a2] :||:"
+15;C dur;9;[Variation];;;Mandora;;C;"[,,d,a1] ,a ([,,d,,a/] ,,c ,,a) ,,,c | \
+[,,d,a1] ,a ([,,d,,a/] ,,c ,,a) ,,,c | \
+[,,dca2] [,ac,,a] | ([,d,,a/] ,c) ,a ,c [a,,a1] ,c |"
+16;G dur;10;Murkij, ihr Schönen höret an;;Sperontes;Mandora;Conc_4859;2/4;"(,,c/4 ,,d) | [,ac,,a/] [,ac,,a] [,ac,,a] [,c,,,a/4] b | \
+([b,,,,a/4] c) ,,,,,a/ ,,,,,a [,ac,,a] | [,c,,a/] [c,,,a] [,a,,,e] [c,,,,e] | \
+[,,d,,c/] {a} [,,c,,a] [,ac,,a] |"
+17;C dur;11;Marsch, ça donc;;;Mandora;;C;",,,c1 | [,,dca3/2] ,,,c/ [,,dca3/2] ,,,c/ | \
+[,,d,a/] ,,c [,,d,,a] ,a V[,c,,a1] ,,d | \
+([,c,,a/] ,a) ,c a V[c,,,a1] ([,d,a/] ,c) |"
+18;C dur;12;March en Menuet Wo Jugend und Tugend;;;Mandora;;3/4;"[,cd/] [aa] | [cc,,a1] [cc/] [de] [cc,,,a] [aa] | \
+[,c,,a1] (c/ a) ([,c,,a] ,a) | [,,dca1] [,,dc/] [,,dc] [,,dc] [,,dc] | \
+[,,dca1] ,,,,c [c,,,e] |"
+19;C dur;14;[Menuet];;;Mandora;;3/4;"[,c,,a1] (,c/ ,a) ,c1 | [,d,a1] (,d ,c) ,d1 | ([,c,,,a1] ,a2) | \
+[,c,,a1] (,c/ ,a) ,c1 | [a,,a1] ,c [,a,,,a] | \
+[,,d,a1] ,,,c ,,,,a |"
+20;C dur;15;Aria Leipzig, edle Linden=Stadt;;;Mandora;ConcM1;3/4;"[,c,,a3/2] [,a,,,a/] [,c,,a1] [a,,a/] ,c | \
+[,ac,,a1] [,ac/] [,ac] [,ac,,a2] | \
+[cc,,a1] ([e,,a/] c) X[a,,,,a3/2] ,c/ | [,c,,a3] :||:"
+21;G dur;16;Polonoise;;;Mandora;;3/4;"[,,c,,a/] (,,c/4 ,,d) [,a,,,a1] [c,,,,a] | \
+[,,c,,a/] (,,c/4 ,,d) [,a,,,a1] ,,,,,a | \
+[,c,,a/] (,c/4 ,d) [,a,,,a/] (,a/4 ,c) [,,d{a}/] ,,d/4 ,a |"
+22;C dur;17;Aria en Clarino / Ach, mein Engel! könnt;;;Mandora;;3/4;"[cc,,a2] ([a,,,,a/] c) | ([,d,,a1] ,c) [,a,,,a] | \
+[,,d,a1] [,a,,,a] [,c,,a] | ([,a,,,a/] ,c) (,d ,a) V[,c,,a1] | \
+[,,Ld,a1] [,La,,,a] [,Lc,,a] |"
+23;C dur;18;Aria Ein edles Hertz ist stets vergnügt;;Sperontes;Mandora;Conc_3482;2/4;"([c,,,,a/4] a) | [,c,,a/] [a,,,c] [c,,,e] [e,,a] | \
+[,,c,,a/] [,,d,,c] [,a,,,e] [a,,,,a] | \
+[,c,,a/] [a,,,c] [c,,,e] [e,,a] | '[,a,,,a/] ,,,,,c ,,,,,e :||:"
+24;C dur;19;Idem (Aria);;var.;Mandora;Conc_3482;2/4;"([c,,,,a/4] a) | ,,,,a/4 ,c ,,,,c a ,,,,e c ,,,a e | \
+,,,,,a/4 ,,c ,,,,,c ,,d ,,,,,e ,a ,,,,,a a |"
+25;C dur;20;Aria Ein edles Hertz ist;;;Mandora;Conc_3482;2/4;"([c,,,,a/4] a) | [,cd,a/] [a,d,c] [c,d,e] [e,da] | \
+[,,cc,a/] [,,dc,c] [,a,c,e] [aa,,,a] | \
+[,cd,a/] [a,d,c] [c,d,e] [e,da] | [,ac,,a/] ,,,,,c ,,,,,e :||:"
+26;C dur;21;Wind=Tantz;;;Mandora;;6/8;",,,c/ | [,,,ca/] ,,,,e ,,,c [,,,ca] ,,,,e ,,,c | \
+[,,,ca/] ,,,,e ,,,c [,,,ca1] ,,d/ | \
+[,,d,a/] ,,,c ,,d [,,d,a] ,,,c ,,d |"
+27;C dur;22;Aria Ach! hätt ich dich mein;;;Mandora;;2/4;"[,cd/4] [aa] | [cc,,a/] ,,,c ,,,,a [ed/4] [cc] | \
+[aa,,c/] ,,,,,e ,,,,,a [cc/4] [aa] | [,cd,a/] [aa] [cc,a] [ed] | \
+[,ac,,a1] [,ac,,a/] [,cd/4] [aa] |"
+28;C dur;23;Aria Ach! Ach! wann wird dir;;;Mandora;;C;"[cc1] | [cc,,a3/2] [aa/] [,c,,a1] [,ac,,a] | \
+[,c,,a1] ,,,,c ,,,,e [cc,,a] | [e,da1] [cc,,a] [aa,,,a/] (e c) ,d | \
+X[,c,,a3/2] ,a/ [,a,,,a1] (c/ e) |"
+29;C dur;24;Allhier auf diesen Platz;;;Mandora;;C;"[cc1] | [cc,,a1] [aa] [aa,,,a] [,cd] | [,cd,a2] [cc,,,a] | \
+[e,,a1] (e/ c) [a,,a1] ,c | ([,c,,,a1] ,a) [ca,,,a2] | \
+([,d,,a/] ,c) ,a ,,d"
+30;C dur;25;Polonoise, Schlag Blitz und Donner darein;;Sperontes;Mandora;;3/4;"[,,d,a1] [,c,,a] [c,,,,e] | ([,c,,a/4] ,d) c ,c [,,d,a1] ,,,,a | \
+[,,d,,c1] [a,d,,c] [e,da] | \
+([,,c,,a/4] ,,d) ,a ,,c [,,,c,a1] ,,,,,a |"
+31;C dur;26;Sollt ich dann zum altern;;;Mandora;;C;"[,,d,a/] ,a V,c a V[c,,,a1] (,d/ ,c) | \
+[e,,a1] (c/ a) V[c,,,a1] (,d/ ,c) | \
+[,a,,,a/] ,,d ,,c ,,d [,ac,,a1] [c,,,a/] ,,a |"
+32;D dur;26;Clarino;;;Mandora;;3/4;"[ba3/2] [,ca/] [ba1] | [cc1] ([ca/] b) [cc1] | \
+([,ea1] ,c2) | '[ba3/2] [,ca/] [ba1] | \
+[cc1] [ba] [,ca] | [,a,b3] :||:"
+33;C dur;27;Aria, Rosen und Violen mögen;;;Mandora;;C;"[,,d,a1] ,,,c [,,,ca] ,,d | [,,aa{d}2] [,,aa{d}] | \
+[,aa{a}3/2] ,c/ [a{a}] ,c ,a ,,d | '[,,c,,a3/2] ,,d/ [,ac,,a2] | \
+[,c,,a1] ,,a X[,,a{a}3/2] ,,,c/ | [,,,c,a4] :||:"
+34;G dur;27;Prelude G# arpeggiato;;;Mandora;;C;",,,,,a/8 ,,c ,a c ,a ,,c [cac,,a1] [ead,,a] [ead,,a] | \
+[bad,,a1] [bad,,a] [cac,,a] [cac,,a] | [aac,,a1] [aac,,a] [,cdc,a] [,cdc,a] | \
+[,acc,a1] [,acc,a] [,cdc,a] [,cdc,a] |"
+35;C dur;28;Menuett, Benche son bovero Spazzo Camino;;Benché sono un povero spazzacamino;Mandora;Conc_3483;3/4;"[,,,ca1] ,,d [,c,,a] | ([,c,,,a/] ,a) (,,d ,,c) [,,d,a1] | \
+[,,,ca1] ,c [c,,,a] | ([,d{a}/] ,c) ([,d,,,a] ,a) ([,a,,a] ,c) | \
+[,,,ca1] ,,d [,c,,a] |"
+36;C dur;29;Idem;;;;Conc_3483;3/4;"[,,,c{4}1] ,,d V[,c{4}] | ([,c{a}/] ,a) (,,d ,,c) [,,d{4}1] | \
+[,,,c{4}1] ,c [c{4}] | ([,d{,,,a}/] ,c) ([,d{a}] ,a) V[,c{4}1] | \
+[,,,c{4}1] ,,d [,c{4}] |"
+37;d moll;30;Murky, Verhängnis, ach!;;Sperontes 1741, 18;Mandora;;C;"z/ [,aa{a}/4] ,c [aa{a}/] ([,c{a}/4] ,a) [,,e,,c/] ,,,,,c ,,,,,c ([,c,,,c/4] ,d) | \
+[c,,,,c/] [c,,,,c] [c,,,,c] ([,d,,,c/4] ,c) \
+[aaa{a}/] {a} {a} [aaa{a}] |"
+38;d moll;32;Gigue;;;;;6/8;",,a/ | ,,,,a/ ,a ,,a ,,,,a ,a ,,a | ,,,,,a/ ,c ,,e ,,,,,a ,c ,,e | \
+,,,,a/ a ,,a ,,,,a a ,,a |"
+;;;;;S. 33: Darstellung der 13 Chöre einer Barocklaute auf der letzten Notenlinie;p. 33: The 13 courses of a baroque lute are shown on the last system;;;
+39;C dur;34;sans titre;;p. 35 empty;;;3/4;"[,,dc{4}1] V[,cd{4}] [ca{5}] | ([,c{4}/4] ,d) c ,c [,,d{4}1] {4} | \
+[,,d,,a1] [a,d,,a] [e,d{,a}] | \
+([,,c{a}/4] ,,d) ,a ,,c [,,,c{a}1] {a} |"
+40;F dur;36;sans titre;;;;;3/4;"[aa{,a}1] [aa{,a}] [aa{,a}] | [cc{,,a}1] [cc{,,a}] [cc{,,a}] | \
+[dc{,a}1] [dc{,a}] [dc{,a}] | [fc{,,a}1] [fc{,,a}] [fc{,,a}] | \
+[ed{,a}1] [ed{,a}] [ed{,a}] | [cc{,,a}1] [cc{,,a}] [cc{,,a}] |"
+41;C dur;37;Wie groß ist des Allmächtgen Güte;;;;;2/4;",,d/ | [cc/] {4} [ca{5}] {a} | ([c(c{a}/4] [aa)]) [,cd/] {4} [a,a{,a}] | \
+[,c,c{a}/] [,a,a] [,,d,c{a}] [,,c,a] | \
+([,,d,c{4}/4] ,,c) ,,d/ {4} ,,,c |"
+;;;;;Die Seiten 38-75 sind leer;The pages 38-75 are empty;;;
+42;d moll;76;Ich hab mein Sach Gott heim ge[stellt];;Choral;Mandora;;3/4;"[,aaa{a}1] [,aaa{a}] [,ab,,a] | [,,d,,c1] ,,,,,a [a,a{d}] | \
+[,c,ca1] X[,aa{a}3/2] ,,e/ | H[,,e,,c2] [,,e,,c1] | \
+[,,ee,a2] [,,ee,a1] | [,aa{e}3/2] ,,d/ ([,,d,,a] ,,c) |"
+43;C dur;77;Meinen Jesum lass ich nicht;;Choral;Mandora;;C;"[cc,,a/] ,,,,c [c,d,e] ,,,,a [e,da] ,,,,e [e,da] {a} | \
+X[ga,,,a1] [Xy,,,,a/] h V[h,h,a2] | \
+[kk,,,a1] [kk,,,a] [h,h,a] [h,h,a] |"
+44;d moll;78;Jesu! du mein liebstes Leben;;Choral;Mandora;;3/2;"[,aaa{a}4] [,ca,b2] | [aaa{a}2] [cc] [ed{a}] | \
+[cab,,a4] [aaa{a}1] ,c | X[,c,,,c3/2] ,a/ [,aaa{a}4] | \
+[,h,a2] [ff] [h,h,a] | [aa{a}2] [cc,,a] [ed,a] | \
+X[cc,,a4] a2 | [a,a{d}6] :||:"
+45;C dur;79;Es ist das Heil uns kommen [her];;Choral;Mandora;;C;"[cc,,a4] | [cc,,a2] [ca,,,e] | [cc,,a1] e [fa,,,a2] | \
+[e,,,,c1] ,,,,,d X[cc,,a3/2] a/ | [ad,a2] ([ca,,,e/] a) | \
+[,c,,a1] ,a [,,d,,c] [,a,,,a] | [,c,,a1] ,,,,,e [ba,,,c2] |"
+46;C dur;80;Schmücke dich, o liebe Seele;;Choral;Mandora;;C;"[,cd,a3] [,ac,,a1] | [,cd,,c2] [,ac,,a] | [,cd,a1] [aa] [cc,,a2] | \
+X[a{a}2] [Xy,,,,a1] [,c,,,c] | '[,c,,a4] | [cc,,a2] [,cd,a] | \
+[aa{a}2] ([,c,,a1] ,a) | [,,d,,c1] ,a V[,c,,a2] |"
+47;C dur;81;Wie schön leucht der Morgen[stern];;Choral;Mandora;;C;"[,,dca2] ([c,,,,e/] a) ([,c,,a] ,a) | \
+[,,d,,c1] [cc,,a] [e,da] [e,da] | '[cc,,a2] [cc,,a] | \
+[e,da1] [ga,,,a] [h,h,a] [ga,,,a] | \
+X[ee{a}3/2] ,f/ [,f,,,a2] |"
+48;a moll;82;Ich ruf zu Dir Herr Jesu [Christ];;Choral;Mandora;;C;"([,c,,a/] ,a) | [,,d,,c1] [,ac,,a] [,,d,,c/] ,,c [,,a{d}] ,,c | \
+[,,d,,c1] [,ac,,a] V[,c,,a1] ([,c,,a/] ,d) | \
+[ca,,,e3/2] ,d/ [,c,,a] ,a [,,d,,c1] [,a,,,a/] [,c,,a] |"
+49;C dur;83;Aus meines Herzens[grunde];;Choral;Mandora;;3/2;"[,,dca2] | [,,dca3] e1 ([c,,,,a] a) | ([,c,,a1] ,a) ,c a (,c ,a) | \
+[,,d,,c2] ,,d1 ,a V,c a | H'[,a,,,a4] [,c,,a1] a |"
+50;C dur;84;Nun ruhen alle Wäldter;;Choral;Mandora;;C;"([,c,,a/] ,a) | [,,d,,c1] [,ac,,a] [,cd,a/] [aa] [cc,a] [ed] | \
+X[aa,,,a3/2] ,c/ H[,c,,a1] ([,c,,a/] ,d) | \
+[ca,,,e1] [cc,,a] [,ac,,a] ([,c,,a/] ,a) |"
+51;d moll;85;Nun sich der Tag geendet;;Choral;Mandora;;C;"e/4 (c a) ,c | [,aaa{a}1] [,cab] [a,a,c] [a,a,c] | \
+[cc,,a1] [cc,,a] H[e,da] [e,da] | [cc,,a1] [e,da] [cc,,a] [a,a,c] | \
+H[,c,,,c3] ([e,a/] c) |"
+52;C dur;85;Sollt es gleich bißweilen scheinen;;Choral;Mandora;;C;"[,,d,a/] ,a V,c a [cc,,a1] [cc,,a] | \
+[aa,,c/] e ([c,,,,a] a) ([,c,,a] ,a) ,,d1 | \
+[h,h,a1] [h,h,a] [ga,,,a/] ,h [g,,,a] h |"
+53;C dur;86;Werde munter mein Gemüte;;Choral;Mandora;;C;"[,cd,a1] [a,d,c] [c,d,e] [cc,,a] | [aa,,,a1] [,c,,a/] ,,,a [,ac,,a1] H[,ac,,a] | \
+([,c,,a/] ,a) ,c a ([a,,,a] c) ([,d,a] ,c) | \
+X[,a,,,a3/2] ,,d/ H[,,d,a2] :||:"
+54;C dur;87;O Gott! du frommer Gott;;Choral;Mandora;;C;"[,cd1] | [,cd,a1] [e,da] X[ca,,,a3/2] a/ | \
+([,d,,a1] ,c2) [,cd,a/] [aa] | [ca,,,e1] [,,d,,c] [,a,,,a] ([,c,,a/] ,d) | \
+X[,a,,,a3] ,,d1 | H[,,dca3] :||:"
+55;d moll;88;Helfft mir Gottes Güte preisen;;Choral;Mandora;;C;"[,aaa{a}1] | [,aaa{a}1] [,ca,b] [a,a,c/] e ([c,,,,a/] a) | \
+[,c,,a/] a (,c ,a) ,,d1 [,,d,,c] | \
+[,ac,,a1] [,aa{d}] [,ccd{c}] [,ccd{c}] | H[,,ad,c3] :||:"
+56;C dur;89;Nun laßt uns Gott den [Herren];;Choral;Mandora;;3/4;"[,,dca1] | [,,dca2] [,,c,,a1] | [,,a{d}1] ,,c ,,d | \
+X[,a,,,a2] ,,d1 | [,,dca2] [,,dca1] | [,,d,,c1] ,c [,a{a}/] ,,d | \
+([,,d,,a/] ,,c) ,,a1 ,,,c | [,,d,,c2] ,,c1 |"
+57;C dur;89;Ach bleib mit deiner [Gnade];;Choral;Mandora;;C;",,d/ ,a | V[,c,,a1] [,ac,,a] V[,c,,a] [e,,a] | \
+X[c,,,,a3/2] a/ [,c,,a1] [e,,a] | \
+([c,,,,a/] a) [,c,,a1] [a,,,c] ([c,,,,a/] a) | \
+[,c,,a3] [,f,,a1] |"
+58;C dur;90;Straff mich nicht in deinem [Zorne];;Choral;Mandora;;C;"[,c,,a1] (,c/ ,d) [ca,,,e1] [ca,,,a] | [,,d,,c1] [,ac,,a] V[,c,,a2] | \
+[,h,a1] [ga,,,a] [h,h,a] [a,,a/] ,c | \
+X[,a,,,a3/2] ,,d/ H[,,dca2] :||:"
+59;C dur;90;Idem;;Choral;Mandora;;C;"[,,c,,a1] (,,c/ ,,d) [,aa{e}1] [,aa{a}] | \
+[,,,c{c}1] [,,ab{a}] HV[,,c,,a3] | \
+[,c,,a1] [b{a}] V[c,,,,a] ([,,d,a/] ,,c) | \
+X[,,a{a}3/2] ,,,c/ H[,,,c,a2] :||:"
+60;d moll;91;Wo soll ich fliehen hin;;Choral;Mandora;;C;"[,aaa{a}1] | [,aaa{a}1] [,ca,b] [a,a,c] [cc,,a] | \
+[edda3] [edda1] | [cc,,a1] [e,da] [cc,,a] [a,a,c] | \
+H[,ce,,c3] [,ce,,c1] | [a,a,c1] [cc,,a] [e,da] [e,da] |"
+61;C dur;92;Warum sollt ich mich denn [grämen];;Choral;Mandora;;C;"[,,dca2] [,ac,,a] | [,cd,a2] [,ac,,a] | ([,c,,a1] ,e) (c e) | \
+X[baa{a}3] c1 | H[cac,,a4] | [cc,,a2] (e1 c) | HX[aaa{a}4] | \
+[aa,,,a2] (c1 a) | HX[,c,,a4] |"
+62;C dur;93;Herzlich thut mich verlangen;;Choral;Mandora;;C;"[,c,,a1] (3,c/4 ,d c) | [e,,a1] [cc,,a] [aa,,,a] [,c,,a] | \
+([,a,,,a/4] ,c) (,a ,c) X[aa3/4] ,c/4 [,c,,a1] [g,,,,g] | \
+[h,,,,h1] [k{a}] X[gg3/2] e/ | [ec,,,c3] :||:"
+63;C dur;94;Freu dich sehr o meine [Seele];;Choral;Mandora;;C;"[,,dca1] [,ac,,a] V[,c,,a] [,ac,,a] | \
+[,,d{a}1] [,,c,,a] X[,,a{a}3/2] ,,,c/ | H[,,,c,a4] | \
+[,,dca1] [,ac,,a] V[,c,,a] [a,aa] | [,c,,a2] X[,a,,,a3/2] ,,d/ | \
+H[,,dca4] :||:"

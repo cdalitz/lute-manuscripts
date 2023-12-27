@@ -1,0 +1,59 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1;D dur;1v;Campanella;Kellner or S.L.Weiss;;;Conc_1405;C;"e/ | [eea{,,,a}3/4] e/4 ,e e ,c e ,a e ,,e e ,a e ,,a e | \
+{,,,a}/4 ,c e ,e e ,,a e"
+2;G dur;2v;Allemande;S.L.Weiss or Weichenberger;;;Conc_706;C;",a/ | [,acc{a}1] {,a}/4 ,a ,c ,a [,,'d{,,a}1] {,,,a}/4 ,,c ,,d ,,c | \
+[,,'a{4}1] ,,,,,c/4 ,,,c ,,a ,,,c [,,,'b,a/] [,,,c{a}] \
+[,,a{,a}/4] ,,c [,,d{,,,a}] ,a | "
+3;G dur;3v;Bouree;S.L.Weiss or Weichenberger;;;Conc_708;C;",a1 | [,,'c{a}1] ,,d/ ,a [,,'a{,a}1] ,,c/ ,,d | \
+[,,'c{a}1] ,,d/ ,a [,,'a{,a}1] ,,c/ ,,a | \
+[,,,c{,,a}1] (,,a/ ,,c) ([,,d{4}/] ,,c) ,,a ,,,c | "
+4;G dur;4r;Menuet;;;;;3;",,,,f1 g/ ,,,,f ,,,,e e | \
+,,,,f1 g/ ,,,,f ,,,,a ,e | \
+,,,,c1 c/ ,,,,c ,,,,a ,e | \
+,,,,c1 c/ ,,,,c ,,,,,c ,a | "
+5;G dur;4v;Menuet;S.L.Weiss or Weichenberger;;;Conc_709;3;"[,,,c{a}1] ,,c ,a | \
+[c{a}1] ,,,,,c ,,,,a | \
+[g{a}1] ['e{,a}] [,f{,,a}] | \
+[,e{,,,a}/] ,f e ,e ,,f1 | \
+{,,,a}1 [kk] ['hh] | \
+{,,,a}1 [hh] ['gf] | "
+6;d moll;5r;Rondeau;;;;Conc_3814;3;"(e/ c) (,d ,c) | \
+,,,,a1 ,a [,Vca,,e] | \
+,,,,a1 a [c{,,a}] | \
+V[e{,a}1] (c/ a) ([,c{a}] ,a) | \
+[,,#e,,a1] :: (e/ c) (,d ,c) | "
+7;d moll;5v;Menuet;S.L.Weiss;;;Conc_1733;3;"[k{,,,a}1] ,a k | \
+[k{,,a}1] ,a k | \
+[k{,a}1] ,a k | \
+['f{a}1] ,h/ f (,f/4 ,h) f/ | \
+V[h{,,a}1] ,,,,h h | \
+[h{,,,a}1] ,,,h h | "
+8;D dur;6v;Paisane;;;;;C;",,a/ | [,a{,,,a}/] ,,a ,e ,,a ([e{,,,a}/4] c) ,e/ ,e [,'a] | \
+([e{,,,a}/4] c) ,e/ ,e [,'a] [gf{,,,a}] [ee] ,/ ,,,e/ | "
+9;g moll;7v;Menuet;;p. 8r (with ending) missing;;;3;"[,,,c{a}1] ,,b ,a | \
+[c{a}1] ,,,,,b ['e,,,a/] ,f/4 ,e | \
+([f{a}/] e) ,f a (,b ,a) | \
+,,,,,a/ ,,d ,d2 | \
+[,b,c{a}1] (,b/ ,a) (,,d ,,b) | "
+10;g moll;8v;Marche;;;;;C;"[cab{a}1] c/ c c1 ,a | \
+[cab{a}1] ,a [,,'b] ,,,c | \
+[fa{a}1] f/ f [f,,,f1] ['e,,,a] | \
+[fa,,f1] ,,,,a {d} {a} | \
+['e{,a}/] ,f e f 'e1"
+11;g moll;9v;Gavotte;;;;;C;"[,abc{a}1] #c | \
+[b,,,a1] ,a [,,'b{a}/] ,,d [,,'d{,,a}/]> ,a | \
+[,af{,,,a}2] ,,,,,d/ ,b {d} [,'a] | \
+,,,,,a/ ,,d {a} [,,'b] [,,'a,a1] {,,,a}/ ,a | "
+12;B dur;10r;Allemande;Kühnel;End at bottom of f.9v;;Conc_917;C;",,b/ | \
+[,,baa{d}3/2] ,,,a/4 ,,b ,,,a ,a ,,b a ,a (f a) (,f ,a) | \
+,b/4 (,,d ,,a) ,,,a {,a} ,,d ,b a"
+13;B dur;10v;Menuet;Weichenberger;;;Conc_686;3;"[,,ba{d}1] [,ab] [aa] | \
+[,'a{d}1] (3,,b/ ,,d ,,b) (3,,,a/ ,,,c ,,,a) | \
+[,,ba{d}1] [,ab] [aa] | \
+[,'a{d}1] (3,,b/ ,,d ,,b) (3,,,a/ ,,,c ,,,a) | "
+14;F dur;11r;Bouree;Weiss?;;;Conc_1734;C;"([,,,a{,a}/] ,,,c) ,,a [,,b{a}] (3[,,d,,a/] ,a ,,d) a/ ,,,a | \
+(3[,a{d}/] ,c ,a) a/ ,,,a (3[,,d,,a/] ,a ,,d) a/ ,,,a | "
+15;d moll;11v;Menuet;;;;;3;"([e{,,,a}/] a) ,c a [,a{a}] ,c | \
+[,,'e,,a1] [,aVf{,a}2] | \
+([c{,,a}/] a) (,c ,a) [,,e,,a] e | \
+['a,,,a1] ,c/ a [,'a1] | "

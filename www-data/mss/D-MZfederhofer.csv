@@ -1,0 +1,139 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+;;;;;S.1 Accord für Gitarre / Angelique;p.1 Accord Guitare / Angelique;;;;
+1;;2;Chaconne;;;Angélique;Conc_4034;3;"%%tabunderscoreis8
+[,,a{,,,a}1] '[,,a{_a}3/2] ,a/ | '[,,,a,a3/2] ,,a/ [,,,,a{a}1] | \
+a1 {_a} {a} | '[,a,a,a3/2] ,,a/4 ,a ,,a1 :||: d1 [dc{,,a}3/2] f/ | \
+'[ba{,a}3/2] d/ {_a}1 |";
+2;;3;Sarabande;;;Angélique;;3;"%%tabunderscoreis8
+,,a1 ',a a | [,a,a3/2] a/ ,,,,a1 | V,d1 ,,,a [a,a] | \
+'[,a,a,a3/2] ,,a/4 ,a ,,a1 :||: ,,a1 ',a a | ,,,a1 ',,a ,a |";
+3;;4;Courante;;;Angélique;;3;"%%tabunderscoreis8
+d/ | [dca{,,a}3/2] f/ 'd1 | [a,a1] [b,,,a] V[d,,,,a] | \
+[f,a{a}3/2] f/ '[d{_a}1] | [b{,a}1] '[a,a{,,a}3/2] a/ | \
+[,a,a,a3/2] ,a/ a c | [d{_a}1] '[c{,a}3/2] c/ |";
+4;;5;La sua double;;;Angélique;;3;"%%tabunderscoreis8
+d1 | {,,a}/ ,c d f 'd ,d | ,,a/ a ,,,,a b ,,,,,a d | \
+{a}/ ,,a f f {_a} d |";
+5;;6;Courante;;;Angélique;Conc_5276;3;"%%tabunderscoreis8
+[,,a{,,a}1] ,a [a,a] | '[,a,a,a3/2] ,,a/4 ,a ,,a1 | \
+,,,,a/ ,,a ,,,,,a ,,,a ,a {a} | {_a}/ ,,a a b d1 |";
+6;;7;Sarabande;;;Angélique;Conc_5273;3;"%%tabunderscoreis8
+[a,a1] b d | '[d,,a3/2] d/ f1 | '[b,,,a1] ,,,a/ d [a,a1] | \
+'[,a,a,a3/2] ,,a/4 ,a ,,a1 :||: [a,a1] 'b3/2 a/ | \
+[,a,a3/2] d/ 'b1 |";
+;;;;;S. 8 Accord [Gitarre];p. 8 Accord [Guitar];;;;
+7;;9;Prel:;;;Guitar;;none;",,a/ (,,c ,,d) (,a ,c) (,,a ,,c) ,a ,,a ,,,e ,c ,,c ,,,,c ,,a ""[vacat]"", , , , ";french5tab
+;;;;;Die Seite ist unvollständig, ein Teil ist abgerissen;The page is incomplete and torn.;;;;
+8;;10;[Allemande?];;;Guitar;;C;"""[vacat?]""y [da3/2] (,c/ ,d) ,,a [,ac] ,,a | \
+[,ace/] ,c/4 (,,c ,,d) ,,a [bac/] (d 'b3/4) ,d/4 | [,cd/] b";french5tab
+;;;;;Die Seite ist unvollständig, ein Teil ist abgerissen;The page is incomplete and torn.;;;;
+9;;12;Cour:;;;Guitar;;3;"d/ | [d,a,a3/2] f/ ,,,,e g | [dd3/2] ,a/ f d | [cc1] ,,,a ,a | \
+[d,,,b1] '[b,a3/2] a/ | [aa1] ,,,,a [bac] |";french5tab
+10;;14;Gigue;;;Guitar;;C;"d/ | [dcaaa3/2] (,c/ ,d) ,,a [,ac] ,,a | [,c,e/] (,,c ,,d) ,,a [,,cd] ,,,b [,,da] b | \
+[,,ab/] ,d [,dcd] [,cd] [,add] (,,c ,,d) g |";french5tab
+11;;16;Sarab:;;;Guitar;;3;"!strumdown![dcaaa1] !strumup![dcaaa3/2] d/ | [ccca1] [ccc2] | \
+[fd,d1] ,f3/2 ,,,b/ | ,,,a/ g ,,,,a2 | [bcd1] [bac3/2] b/ | \
+,,a/ ,d [,dcd3/2] ,c/ |";french5tab
+;;;;;S.18 Accord [Gitarre];p.18 Accord [Guitar];;;;
+12;;19;Prel:;;;Guitar;;none;",,a/ ,,c ,,e ,a ,c ,e c ,c d ,,e ',,c3/4 ,,a/4 ,c ,e \
+',c3/4 (,,,a/4 ,,,c/) ,,,e ,,a";french5tab
+13;;20;Allem:;;;Guitar;;C;"h/ | [hhaaa3/2] f/ 'd3/4 (c/4 d1) | ,,,,a1 ,a/ f [,gh1] h | \
+[ah/] ,k ',h3/4 ,g/4 [,gi,a1] ,h3/4 ,g/4 |";french5tab
+14;;22;Cour:;;;Guitar;;3;"d/ | [dcaaa3/2] ,e/ ',c ,a | ,,,,a1 ,c ,,c/ ,a | \
+,,,e/ ,,c ,c ,a [,,a,a1] | h/ h [hhaaa3/2] ,k/ |";french5tab
+15;;24;Ce dieu qui nous engage;;;Guitar;;C;"f1 | ,g1 ,,h f ,g/ i | [fg3/2] d/ b1 f | \
+'[d,,,d1] d [d,,,e] f/ a | [bdcaa3/2] [,,c,d/] [,dc,b1] ,,,,a |";french5tab
+16;;25;[sans titre];;;Guitar;;3;",,,,d1 a b | [dbacd2] d1 | [e,,d1] (f/ e) d ,f | \
+!strumdown![dff2] !strumup![dff1] | !strumdown![bbc1] (d/ b) a ,d | \
+[a,a3/2] b/ (d/4 b) a/ |";french5tab
+17;;26;Prelude;;;Guitar;;none;"!strumdown![bdc1] ,,,a/ b ,d ,,c (a b) d f ,,,,a d (b a) Vb ,d \
+,,,,a ,c ,,a ,d ,,,c";french5tab
+18;;28;Passecail;;;Guitar;;3;"!strumdown![bdc3] ,b1 | !strumdown![bdc2] !strumdown!X[,bc3] c1 | \
+!strumdown![db2] !strumdown!Xd3 ,c1 | !strumdown![bd2] !strumdown![,dcc3] ,d1 | \
+,,,a2 || !strumdown![fgh3] !strumup![fgh1] | \
+!strumdown![g,gh2] !strumdown![fff3] !strumup!X[fff1] |";french5tab
+19;;29;Prelude;;;Guitar;;none;"[,d,a/] a b ,d f ,,c ,a ,c ,,c ,d b d ,,,,a ,b a \
+[d,a] ,,d ,d b ,,,d";french5tab
+20;;30;Allem:;;;Guitar;;C;"a/ | !strumdown![,,,cc3/2] a/ [fh] ,,,,g h ,a/4 f | \
+!strumdown![dfecc3/2] f/ !strumdown![cdeec] d \
+!strumdown![,b,cd] c !strumdown![ddeff] ,a | \
+[,b,,a/] ,,c [,d,e] ,,,a/4 ,,f";french5tab
+21;;32;Sarab:;;;Guitar;;3;"!strumdown![,,,cc1] c d | [ca,b1] a/ c [d,,c1] | \
+[da1] f [h,f] | X[f,,a1] ,i/ f [h,a1] | !strumdown![d,,,c1] ,c ,d | \
+[,cde1] ,c/ ,e [a,,c1] |";french5tab
+;;;;;S.33 Alfabeto Kode für das Stück auf S.35;p33. Alfabeto code for the piece on f.35;;;;
+22;;34;Gigue;;;;Conc_1740;3;",d/ | '[,c{,a}1] c/ a '[,c,,,d1] | ,a/ ,c [aVc,,,a1] [,aVba,b] | \
+[,,d,,a1] ,,,,d ,a | [,,b{a}1] ,,,,c ,,d | \
+'[,,a{,a}1] ,,,c/ ,,a ,,,a1 :||:";
+23;;35;[sans titre];;Alfabeto;Guitar;;none;"!strumdown![bbcdd] !strumup![bbcdd] !strumdown![bbcdd] !strumdown![bbcdd] \
+!strumdown![cdc] !strumdown![,,bcc] !strumdown![,ccc] !strumup![,ccc] !strumdown![,ccc] \
+!strumdown![bbcdd] !strumup![bbcdd] !strumdown![bbcdd] !strumdown![bbcdd] \
+!strumdown![cdc] !strumdown![bbcdd] !strumdown![,,bcc] ||";french5tab
+;;;;;Das Stück ist in Alfabeto notiert.;The piece is written in Alfabeto;;;;
+24;;36;[sans titre];;Julien Blovin A Rome per ÿ.me Auvril 1673;Guitar;Conc_1740;3;"d1 | [daa3/2] f/ d1 | '[c,,a3/2] a/ c1 | V[daa3] | [aba,d3] | \
+[,d,,c1] ,,a a | '[,b,,a3/2] ,,,e/ ,d1 | '[,aa3/2] ,,c/ ,a1 | \
+[,,a2] ||";french5tab
+25;;38;[sans titre];;;Guitar;;C;"!strumup![dfffd/] | !strumdown![dfffd3/2] f/ 'd a [b,,a] [d,,,c] | \
+'[a,,,d/] ,b d (3d/4 b a) [b,,a/] ,,,,c '[a,,,d3/4] ,d/4 |";french5tab
+26;;40;Sarabande;;;Guitar;;3;"[a,,,d1] b/ ,,,a ,,,c d | '[d,a3/2] b/ [a,,,d1] | \
+,,,,c/ ,d [a,,,d] ,d ,,,,a ,b | '[,ba3/2] ,a/ V,b1 |";french5tab
+27;;42;[sans titre];;;Guitar;;3;",,,a/ ,c ,d a | !strumdown![bd1] !strumdown![,b,cd] a/ c | \
+!strumdown![dd,,b1] ,a/ ,c ,d a | !strumdown![bdc1] !strumdown![,ccc] ,a/ ,c | \
+!strumdown![bd1] :||:";french5tab
+28;;42;[sans titre];;;Guitar;;3;"!strumdown![bdc3/2] a/ b d | f1 '[a,,,d] a/ c | \
+!strumdown![dd,,b1] b/ a ,,,a a | ,,a/ b '[a,,,a1] ,d/ ,c | \
+V[,d,a1] ||";
+29;;44;[sans titre];;;Guitar;;none;"!strumdown![bdc/] !strumup![bdc] !strumdown![,b,cd] !strumup![,b,cd] \
+!strumdown![bbcdd1] !strumdown![bbcdd/] !strumup![bbcdd] \
+!strumdown![bdddb/] !strumup![bdddb] !strumdown![,b,cd] !strumup![,b,cd] \
+!strumdown![bbcdd1] !strumdown![bbcdd/] !strumup![bbcdd] \
+!strumdown![,b,cd1] !strumdown![,b,cd/] !strumup![,b,cd] \
+!strumdown![bdc1] !strumdown![bdc/] !strumup![bdc]";french5tab
+;;;;;S. 45 leer;p. 45 empty;;;;
+30;;46;Courante;;;Guitar;;3;"b/ 'a ,d | [a,,,d1] ,b d | ,,,c/ d ,,,a ,a b d | 'a1 ,,,,d ,,,c | \
+!strumup![,b,cd3/2] d/ 'b a |";french5tab
+31;;48;Sarabande;;;Guitar;;3;",,,,d/ ,b '[,bac3/2] ,,d/ | [,bcd1] !strumdown![,bcd3/2] ,d/ | \
+[,dff1] '[,de3/2] a/ | ,,,,d/ a !strumdown![,b,cd3/2] b/ | \
+,,,d/ b !strumdown![bbcd3/2] ,,,c/ |";
+32;;50;Courante;;;Guitar;;3;"!strumup![fhh/] | !strumdown![fgg1] ,,,a2 | f/ h '[f,g3/2] d/ | \
+!strumdown![cdc1] ,,,a ,,c | !strumup![cdc3/2] ,d/ a c | \
+[d,c1] ,a ,c | [,d,,c1] ',,,,,a [aab/] ,d |";
+33;;52;Courante de Blovin;;;Guitar;;3;",,c/ ,d ,c | V[,d,a3/2] a/ 'c d | f1 ,,,e [d,,c] | \
+'[c,,a3/2] a/4 ,d a1 | ,,,,a1 ,,,c [accc3/4] d/4 | \
+'c/ a [,d,,c1] ([,ca/] ,d) | ([,ab1] 'a3/2 ,d/) |";
+34;;53;Sarabande du mesmes;;;Guitar;;3;"!strumup![,ccc/] | !strumdown![,ccc3/2] c/ 'a ,d | \
+'[,c,,a2] ,c/ ,,,,a | ,,,,c/ ,d a ,d ,,,,a ,c | \
+'[,a,c3/2] ,,c/4 ,a ,,c1 |";
+35;;56;[sans titre];;;Guitar;;3;"!strumup![,bcc1] !strumdown![,bcc] !strumup![,bcc] | \
+!strumdown![,b,cd1] !strumup![,b,cd] !strumdown![,b,cd] | \
+!strumdown![bdc1] !strumup![bdc] !strumdown![bdc] | \
+!strumdown![,,bcc1] !strumup![,,bcc] !strumdown![,,bcc] | \
+!strumdown![,b,cd1] !strumup![,b,cd] !strumdown![,b,cd] | \
+!strumdown![dd,,c1] !strumup![dd,,c] !strumdown![dd,,c] |";french5tab
+36;;57;[fragment];;see next piece;Guitar;;3;,,a/ ,a ,d | d c a ,d y y y y y y y;french5tab
+37;;58;[sans titre];;;Guitar;;3;",,a/ ,a ,d | [daa/] c a ,d ,b | [,aa] ,b ,d a | \
+[,,ca] ,,c ,,,,a ,b ,,a ,a ,,,a ,,c |";french5tab
+;;;;;S. 60-61 leer;p. 60-61 empty;;;;
+38;;62;Menue;;;Angélique;;3;"%%tabunderscoreis8
+[a,a{,,a}3/2] ,a/ a1 | d1 '[c{,a}] d | '[,,a{_a}3/2] ,a/ a1 | \
+'[a{,a}3/2] ,a/4 a ,a1 | '[a,,,a3/2] ,a/ ,,a1 | \
+'[,,,a,a3/2] ,,a/ [,,,,a{a}1] |";
+39;;64;Menue;;;Angélique;;3;"%%tabunderscoreis8
+[,,a{,,a}1] d [a,a] | '[,,a{a}3/2] {_a}/ [,a{,a}1] | \
+[a{,,a}1] ([b{,a}/] a) ,a ,,a | [dc,,,a2] {,,,,,a}1 | \
+[,,a{,,a}1] d [a,a] | '[,,a{a}3/2] {_a}/ [,a{,a}1] |";
+40;;65;Sarabande La Va Soitz;;;Angélique;;3;"%%tabunderscoreis8
+[,,a,,a{,,a}1] ,a a | '[b{,a}3/2] a/ ,a1 | [d{_a}1] f 'c | \
+Vd1 {,,,,,a}2 :||: '[b{,a}3/2] a/ ,a1 | '[a{_a}3/2] ,a/ ,,a1 | \
+[,a{a}1] '[,a,a,a3/2] ,,a/4 ,a | ,,a1 {,,a}2 ||";
+41;;66;A La Mande;;;Angélique;Conc_381;C;"%%tabunderscoreis8
+f3/2 'e/ f3/4 b/4 'a3/4 ,a/4 | [aaa/] ,,,,a ,a [a,,,,b] [,,a,a] ,,,a/4 ,,a ,a3/4 ,,a/4 | \
+',,,a/ {_a} a [c{,a}] [d{_a}] {,a} [f{,,a}3/4] d/4 |";
+42;;68;Courante Critinon;;;Angélique;Conc_5275;3;"%%tabunderscoreis8
+,,a/ | [,,a{,,a}1] ,,,,,a [,,a{a}] | [,,a{_a}/] ,a '[,a{,a}3/2] ,,a/4 ,a | \
+a1 {,,a} ,,,,,a3/4 ,,a/4 | a1 ',,a [,aaa] | \
+,,,,a/ ,,a a b [d{_a}1] |";
+43;;70;gavotte;;Vostre servit[e]ur de monchy a Lion;Angélique;Conc_5271;C;"%%tabunderscoreis8
+[,,,,,a{_a}1] ,,a [,,,,a{a}] ,a | '[,,,a,a3/2] ,,a/ [,,a{,,a}1] ,,a | \
+'[,,,a{,,,,,a}1] [,,a{,,,,a}] [,a{,,,a}] ,a/ a | '[a{,,a}3/2] ,a/ [,aca{,,,,,a}2] :||: \
+d/ [dc{,,a}1] 'a/ [f{a}1] f |";

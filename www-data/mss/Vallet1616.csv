@@ -1,0 +1,339 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1;;1;Ballet;Robert Johnson;;OT;ConcR131;C;"[abd,a3/2] ,d/ ',b1 '[,a,,,d] | \
+([,d,,,b1] ,,,,,a/ {a} [,,cc,,a2]) | \
+[,,d,a/] ,a ,b1 [,d,,,,d/] a b d | \
+[abb,d2] {,a} | \
+[a,,,,a/] ,,d a ,d ,b ,,d ,a ,,b |"
+2;;1;L'escossoise;;;OT;;C;",a/ ,c | \
+[,dda3/2] a/ c ,,d ,a ,c | \
+[,da{a}3/2] ,a/ ,,d ,,b ,,a ,,,a | \
+,d/ a c d [f{a}] ,,d ,,b ,,a |"
+3;;1;Ballet;;;OT;Conc_3457;C;",d/ a | \
+[c,,,a1] '[a,,,a] [,d,,c] [f,,,e] | \
+[fdaa1] {a}/ d c1 'a/ ,d | \
+'[,c,,a1] [,de,,,c] ['a,,,,d/] ,d '[,c,,a1] | \
+([,dda{a}1] ,,,,a ,,,a [,d/]) a |"
+4;;2;Ballet;;;OT;;C;"a1 | \
+[ab,,d1] ,,,,a/ ,d ,b ,d a b | \
+[d,,c1] ,,,,d/ b a b d a | \
+[f,,d/] h (i1 ,,,f/ i) h1 |
+"
+5;;2;Ballet des gueux;;;OT;;C;"a/ ,d | \
+[,c,,a1] [,a,,,e] [,,d,,c/] ,a ,c ,d | \
+[aac,,a3/2] {a}/ {,a} {,,a} [f{,,,a}1] | \
+'[e,,,,a3/2] f/ [c{,,a}3/2] e/ | \
+'[a,,,,a3/2] c/ e a k1 |"
+6;;3;Ballet;;;OT;ConcR701;C;",,d/ ,a | \
+[,c,,a1] '[,a,,,a] [,,d,,c] '[,,c,,a] | \
+[,,dca2] {,,,a}/ a c e | \
+[f,,,a2] [h,,,,a1] {a} | \
+[k{,a}2] [c{a}/] e f c |"
+7;;3;Ballet;Mercure;;OT;ConcR702;C;",,d/ ,a | \
+[,b,,a1] ,,d f/ h [i{,,,a}1] | \
+[ha,,,a2] [ab,,d3/2] ,,,,c/ | \
+[f,,,a3/2] d/ [c,,,c] a c ,e | \
+[aa,,,a3/2] c/ ([d] ,,,c [b,,d]) a |"
+8;;4;Ballet;;;OT;;C;"a1 | \
+[acd,a3/2] ,d/ ,c ,d [,a,,,a] ,c | \
+[,,d,a1] ,,,c {,,,a} ,,a/ ,,c | \
+[,,d,a1] [,,d,,c] [,a,,,a/] ,c ,d a | \
+[,cdc1] ,,,,a {,,,a} ,c/ ,d |"
+9;;5;Ballet;;;OT;ConcR547;C;",,d1 | \
+[,,da{a}3/2] ,,b/ ,,,d ,,,c ,,,d ,,b | \
+'[,,,ca{,,,a}3/2] ,,,a/ ,,,,e ,,,,a ,,,a ,,,c | \
+[,,,d{a}1] [,,b,,a] [,,d,,b] [,d,,,d] | \
+[,cdca3/2] ,d/ a ,,d ,d a |"
+10;;5;Bouree;;;OT;Conc_4359;C;",b/ ,a | \
+,,d1 ,,,,a {,,,a} ,a/ ,b | \
+[,d,,,d1] ,,b ,,,,d ,,,,c | \
+[,,d,a1] '[,,c,,a] [,,d,a/] ,a ,b ,d | \
+[,a1] ,,,,,a ,,,c ,b/ ,a |"
+11;;6;Bouree;;;OT;;C;",c/ ,d | \
+a1 ,,,,a {,,,a}3/2 ,d/ | \
+,c1 ,,d ,,,,a ,d/ a | \
+[c,,a1] ,d {a} ,c/ ,d | \
+a1 ,,,,a {,,,a} [,,d,,c] |"
+12;;6;Pauanne de spagne;;;OT;Conc_4343;C;",,,c1 | \
+[,,d,a3/2] ,b/ ,a1 ,,d | \
+'[,,c,,a3/2] ,,d/ ,a ,b [,d{a}] ,b | \
+'[,a,,,a1] [,,d{,a}] {a} [,,c,,a] | \
+[,,dca3/2] ,a/ ,b1 [,a,,c] |"
+13;;7;Onder de Lindegrone;;Tune: All in a garden green;OT;ConcR993;C;"[acd,a3/2] c/ 'a1 [a,,c] | \
+[,c,,a/] ,a ,c ,d a1 [a,,,e] | \
+[c,,a1] '[a,,,e] [,d,,c] '[,c,,a] | \
+[,acc2] ,,,,,a | \
+[,dda1] {a}/ a c d f1 |"
+14;;8;Fortune Angloise;;;OT;ConcR28;C;"[,,dca2] [,,d,a1] '[,a,,,a] | \
+[,bdca3/2] ,d/ ',b1 '[,a,,,a] | \
+[,,d,a1] [a,,,d] [,d,,,d] '[,b,,a] | \
+[,a,c2] ,,,,,a | \
+[,,d,a/] ,,c ,,d ,a ,,d ,b [,a,,,a] ,d |"
+15;;8;Malsimmes;;;OT;Conc_4432;C;"[,,dca2] [,bdc{,,,a}] | \
+[,a,,,a/] ,,d ,,c ,,a ,,,c1 [a,,,d] | \
+[,d,,c1] '[,b,,a] [,a,,,e] [,,d,a] | \
++[,,c,,a1] ,,,c [,,,c,a2] | \
+'[,b,,a1] ,a/ ,,d '[,a,,,a1] ,,,c |"
+16;;9;Slaep soete slaep;Farewell Dear Love (R.Jones);;OT;ConcR697;C;"[,,dca2] [,bdc{,,,a}1] ,a/ ,,d | \
+[,acc2] ,,,,,a1 [a,,,d] | \
+[,d,,,d1] [a,,,,a/] ,d '[,b,,a1] [,d,a/] ,b | \
+[,acc2] ,,,,,a | \
+[,a,,,d/] ,,d ,a ,b ',a1 [,b,,a] |"
+17;;10;Branle de loreine - 1;;;OT;ConcR2870;C;",b/ ,d | \
+[abd,a3/2] ,d/ ',b1 [,a,,,e] | \
+[,,d,a/] ,b ,a ,,d '[,,c,,a1] ,,,c | \
+[,,d,a1] {,,a}/ ,,c [,,dd] ,a ,b ,d |"
+18;;10;Branle de loreine - 2;;;OT;ConcR2871;C;",,a/ ,,c | \
+[,,dca1] {,,a}/ ,a ,c ,,d ,c ,d | \
+'[a,,,a3/2] ,d/ ,c ,d [a,,,e1] | \
+[,dda3/2] ,c/ [,a,c1] [,,de] | \
+[aacc3/2] ,d/ [,c,,a1] ,,a/ ,,c |"
+19;;11;Branle de loreine - 3;;;OT;ConcR2872;C;"[,,,c{,,a}1] ,,a/ ,,c [,,d{,a}1] '[,,a{a}] | \
+[,,c,,a2] '[,c,,a1] ,a/ ,c | \
+[,,d,,c1] [a,,,,a] [,e,,c3/2] ,c/4 ,e | \
+,f1 ,,,,,a [aac2] | \
+{,,a}/ ,,,c ,,a ,,c [,,d{,a}1]"
+20;;11;Branle de loreine - 4;;;OT;ConcR2873;C;"[,c,,a3/2] ,a/ [,,d,,c] ,a ,c ,d | \
+'[a,,,,a3/2] ,d/ [,c,,a1] [c{a}] | \
+[a,,,,a/] c ,d a [,cdca2] | \
+[,c,,a/] ,d ,c ,a [,,d,,c] ,a ,c ,d |"
+21;;12;Branle de la royne - 1;;;OT;ConcR560;C;"[acd,a3/2] c/ [a,,,,a] ,d ,c ,a | \
+[,,d,,c3/2] ,,a/4 ,,c ,,d1 [a,,,,e/] ,d | \
+[,c,,a1] [,a,c] [,c,,a] [,d,,,c] | \
+'[aa,,,a3/2] ,d/4 ,c ,a1 ,,,c |"
+22;;12;Branle de la royne - 2;;;OT;ConcR721;C;"[,,d,a1] [,,d,,c] [,a,,,d] [,b,,,a] | \
+[,d{a}1] ,,,,,a/ ,,,,,c ,,,,,d1 [a,,,,a/] ,d | \
+'[,b,,a1] '[,a,,,d] [,,d,,b] [,d{a}/] ,b | \
+[,a,,,a/] ,,d ,,c ,,a ,,,c ,,,a ,,,,d ,,,,c |"
+23;;13;Branle de la royne - 3;;;OT;ConcR722;C;",a/ ,b | \
+,d1 [,d,a] [,d,,c] [a,,,d] | \
+[,db1] ,,,,,d/ ,b ,a ,,b ,b ,d | \
+[a,,,d3/2] a/ [,d,a1] [,b,,a] | \
+[,ac1] ,,,c ,,,,,a ,a/ ,b |"
+24;;13;Branle de la royne - 4;;;OT;ConcR723;C;"[,cdca3/2] ,a/4 ,c [,,d,,c1] '[,,c,,a]| \
+[,,d,a/] ,a ,c ,d '[,a,,,a1] ,a | \
+[,c,,a/] ,d ,c ,a [,,da1] [,,c,c] | \
+[,,d,a/] ,a [,c{,,,a}] ,d [,acc,a2] |"
+25;;14;Branle de la royne - 5;;;OT;ConcR724;C;"[f,,,a3/2] f/ [e,,,,a1] [c,,,c] | \
+'[a,,,e3/2] ,,,a/ ,,,c1 [c,,,a/] a | \
+[,ea,c1] [aa,,,e] ,,,,a [,ea,c] | \
+[aac,,a1] c/ a [,e,,c] a c ,e |"
+26;;14;Branle de la royne - 6;Branles de Village;;OT;ConcR601;C;"c/ e | \
+[f,,,a1] f [e,,,,a3/2] c/4 e | \
+[f,,,a1] [e,,,(c/] c '[a,,,e)1] ,,d | \
+[c,,a/] e [f,,,a1] [ea,,,a3/2] c/4 e | \
+f1 ,,,,a {,,,a} ,,a/ ,,c |"
+27;;15;Puisque vos yeulx;;;OT;ConcR729;3;"b1 | \
+[acd,a3] | \
+[,dda{a}3] | \
+[,cdc{,,a}] | \
+'[,c,,a3/2] ,a/ [,,d,,c1] | \
+[,a,,,d3/2] ,c/ [,d,,,c1] | \
+,,,,,d1 [,c,,a3/2] ,a/4 ,c | \1
+,d1 ,,,a {a} | \
+[,dda2] ,b1 |"
+28;;16;La Vallette;R.Ballard;;OT;ConcR597;3;",d1 | \
+[,dda3/2] a/ [,c,,a1] | \
+'[,a,,,a1] ,,d/ ,a ,c ,d | \
+[acd,a1] {,,,a}/ c a ,d | \
+[,c,,a1] ,,d f | \
+[fdda3/2] d/ c1 |"
+29;;17;La pinçante;;;OT;ConcR714;3;",,d1 | \
+[,,dc{,,,a}3/2] ,a/ ,c1 | \
+[,d,a1] [a,,,e3/2] ,d/4 a | \
+c1 ,,,a {a} | \
+[acd,a3] | \
+[,da{a}3/2] a/ [,c,,a] ,a | \
+,c1 '[,a,,,a] ,,,c | \
+[,,d,a2] f1 |"
+30;;17;La fauorite;;;OT;ConcR713;3;",d1 | \
+'[,c,,a1] ,,d [b,,a] | \
+'[a,,c3/2] f/ '[e,,,,a1] | \
+[f,,,a3/2] h/ i1 | \
+[h,,,h1] [fddd2] | \
+[,i{,a}3] | \
+[f,,,a3/2] d/ '[b,,a1] | \
+'[a,,c3/2] b/ [a,,,,a1] |"
+31;;18;La Piccarde;;;OT;ConcR487;3;",d1 | \
+[,dda2] [a,,,e1] | \
+[c,,a1] [a,,,a3/2] ,d/4 ,c | \
+,d1 ,,,a {a} | \
+[fdaa2] [d,,c1] | \
+[c,a3/2] a/ [,db1] | \
+[,cd1] [,d,a/] a c ,d |"
+32;;19;Fantasye de Maistre l'espine;Charles de l'Espine;;OT;Conc_4476;C;",d2 | \
+,,b1 ,,,c ,,d ,,,e | \
+,,e1 ,,,f [,,gh2] | \
+[,,ia2] {a}1 a | \
+[cdda/] ,,,,d [d,,,b2] | \
+[f,de2] [,de] | \
+[gi,f2] f1 ,i |"
+33;;20;Responce de la prescedente;;;OT;;C;"d4 | \
+d2 d | \
+,d1 ,f ,g ,d | \
+[,e,f3/2] ,g/4 ,e ,d1 ,,g | \
+[,d,f2] [,,ef1] ,,g | \
+[,d,a1] ,,,c [,,dd] [,,ea] |"
+34;;22;Passemeze d'italye;;;OT;ConcR437;C;",,d1 ,a | \
+[,bdca3/2] ,d/ a ,,d ,b ,d | \
+a1 f '[ea,,,a3/2] h/ | \
+[f,,,a1] {,,,a} a/ ,d ,b ,a | \
+[,,d,d1] a [,daa] ,b |"
+35;;24;Gaillaide de la Passemeze;;;OT;ConcR183;6/4;",,d1 ,a | \
+[,bdca2] {,,,a}1 ,a ,b ,d | \
+[a,,,d1] ,,d [,d,,c] ,,b [,b,,a] ,,a | \
+[,ab,,d2] ,,,a1 ,,d ,,b ,,,,,c | \
+[aa,,,a2]"
+36;;25;Carillon de Uillage;;;OT;ConcR2733;C;"[,c{,a}1] | \
+'[,a{a}1] [,c,,,a] [,,d,a] [,c{,a}] | \
+[,a{a}1] ,,,,,a [,,d,a] [,c{,a}] | \
+[,a{a}/] ,,d [,a,,,a] ,c [,,d,a] ,a [,c{,a}1] | \
+[,a{a}1] ,,,,,a [,,d,a] [,c{,a}] |"
+37;;26;Battaille;Wilhelmuslied;;OT;ConcR186 - ConcR686 - ConcR707 - ConcR708;C;"[,da{a}3/2] a/ ,d1 ,,d | \
+[,da{a}3/2] ,,d/ ,d a c d | \
+[f,,a1] c/ a [,d,,c1] [a,,,e] | \
+[c,,a1] ,,d/ ,,b [,,a{a}1] [,,b,,a] |"
+38;;30;Ballet A 4 Luts - Sup;R.Johnson;;OT;ConcR131;C;"[abd,a3/2] ,d/ ',b1 [,a,c] | \
+[,,dd3/2] ,a/ [,,cc1] ,,,,,a | \
+[,,d,a/] ,a ,b1 [,d,,,d/] a b d | \
+[ab,,d2] {,a} | \
+[a,,,a/] ,,d a ,d"
+39;;30;Ballet A 4 Luts - Contra;;;OT;;C;"[fdda3/2] d/ 'b1 '[a,,,d] | \
+[,d,a/] a b d [f,,,a1] {,,,a} | \
+[b,,a/] a b ,d [a,,,d] b d a | \
+[bbdd2] ,,,,,b |"
+40;;31;Ballet A 4 Luts - bass;;;OT;ConcR698;C;"[,bdca1] {,,,a} [abd] [,a,,,d] | \
+[,,da,b3/2] ,a/ [,,cc,a2] | \
+[,bdca/] ,d a b d ,,,,,d ,b ,a | \
+[bbd,d2] {,a} | \
+[,bdca/] ,,,,c ,,,,d ,,,a ,,,c1"
+41;;31;Ballet A 4 Luts - Tenor;;;OT;;C;"[a,,c/] ,e a c [da,,,a1] [c,,,c] | \
+[a,,,d/] ,,d ,,b ,,d [caa,c1] {,,a} | \
+[a,,c/] ,d ,b ,a ,,,,a ,d a c | \
+[dab,,d2] [dab] |"
+42;;32;Ballet A 4 Luts - sup;;;OT;ConcR699;C;"a1 | \
+[abd,a3/2] ,d/ ,b ,d '[,a,,,a1] | \
+'[,bd,a3/2] ,a/4 ,b [,d,a1] [,b,,a] | \
+[,a,,,a2] [a,,,d/] d c a | \
+[,e,,c/] ,a a c [d,,,,a] f [ca,,c1] |"
+43;;32;Ballet A 4 Luts - Contra;;;OT;;C;"f1 | \
+[bdda3/2] d/ b ,d [a,,,a] ,c | \
+,,,a/ ,d a b [d,,,,d1] [b,,a] | \
+[acd,a2] [,bdd1] ,d | \
+[a,,c/] ,d [,b,,a] ,d [a,,,,a1] [aac] |"
+44;;33;Ballet A 4 Luts - bassus;;;OT;ConcR700;C;",,d/ ,a | \
+[,bdca1] {,,,a} [,bdc] [,ac,,a] | \
+[abd,a2] [bdd{a}1] [abd,a] | \
+[aac,,a2] [a,b,d1] ,,d | \
+[ca,,c1] [,a,,,d] [,bdca] [,aabc] | \
+[aac1] ,,,c ,,,,,a ,,d/ ,a |"
+45;;33;Ballet A 4 Luts - Tenor;;;OT;;C;"a/ c | \
+[da,c3/2] c/ 'a1 [,ea,c] | \
+[aa,,,a/] ,d ,b ,a [,b,,a1] [,ab,,a] | \
+[,aabc3/2] ,,,,a/ [,a,,,d] ,c ,d a | \
+[c,,,,c1] [c{a}] '[a,,,,a3/4] ,d/4 [,ca,,c1] |"
+46;;34;ESTce Mars A 4 luts;Sellinger's Round;;OT;ConcR19;C;"[,,da{a}1] [,,da] [,,da{a}] ,a/ ,c | \
+[,da,c1] ,,a/ ,,b ,,d1 ,,,,,c/ ,,,a | \
+[,dba,d2] [acb,,a] | \
+[cdd{a}4] | \
+[,,d{a}/] ,,,a/4 ,,,c ,,a ,,b ,,d ,a ,,d ,,c"
+47;;34;Estce mars A 4 luts - Contra;;;OT;;C;"[,dff1] [,dff] [,dff] (,,,f/ ,,,e) | \
+[da,c1] [c,,a/] [a,,,d] ,d ,,,,c ,,b a | \
+,b/ ,,,,d ,,b ,d a ,,,,a c ,b | \
+[dab,,d4] |"
+48;;35;ESTce mars A 4 luts - bass;;;OT;;C;"[cdd{a}1] [cdd] [cdd{a}] [c,,a/] [a,,,e] | \
+[,da,c1] ,,,,a/ ,,,,,d [,,d,,c] ,a ,c ,,d | \
+[,a,,,d/] ,c ,d ,,,,,c ,,,,,a ,d ,c ,,b |"
+49;;35;ESTce mars A 4 luts - tenor;;;OT;;C;"[acd,a1] [acd] [a,,,a/] ,d ,c ,a | \
+[,cd,,c/] ,,,,,e ,,,,a ,,,,c ,,,,e ,c ,d a | \
+[cdda/] a ,d ,,,,e ,,,,c ,d [,cc] ,a |"
+50;;36;Courante de mars A 4 luts - Super;;;OT;ConcR19;3/4;"[,,da{a}3/2] ,a/ ,,d1 | \
+[,,da{a}3/2] ,a/ ,c1 | \
+[,d,,c1] [,,a,a] [,,b,,d] | \
+,,d1 ,,,,,c ,,,a | \
+[,db,,d3] | \
+[a,,,,a1] ,d [ac] | \
+[cdda3] | \
+[cdd2] |"
+51;;36;Courante de mars A 4 luts - Contr.;;;OT;;3/4;"[,dff2] [,df1] | \
+[,dff3/2] a/ [c,a1] | \
+[d,,c/] ,,a ,,b ,,d ,a ,b | \
+,d1 ,,,,c ,,b | \
+[d,,,d/] c a ,d ,b ,a |"
+52;;37;Courante de mars A 4 luts - bass;;;OT;;3/4;"[cdda2] [cdd1] | \
+[cdda3/2] d/ [a,,,e1] | \
+[,da,c1] ,,,,a ,,,,,d | \
+,,,,,c1 ,,d ,c | \
+[,ab1] ,,,,,d ,,,,,c | \
+,,,,,a1 ,a ,c | \
+[,dda{a}3] | \
+[,dda3] |"
+53;;37;Courante de mars A 4 luts - tenor;;;OT;;3/4;"[a,,,a1] ,c/ ,d a c | \
+a/ ,d ,c ,a ,,d ,,c | \
+[,,d,,c1] [,c,,a] [,d,,c] | \
+[a,,,e/] ,d ,c ,a ,,d1 |"
+54;;38;Un Iour de la semaine A 4 luts - Sup;;;OT;ConcR727;3/4;",,d1 | \
+[,,d,a2] [,a,,,e1] | \
+[,c,,a1] ,,d/ ,a ,c ,d | \
+a1 ,,,c ,,,,,a | \
+[aacc3/2] ,d/ [,c,,a1] | \
+[,d,,c2] [a,,,e1] | \
+[c,,a1] [aa,c3/2] ,d/ |"
+55;;38;Un Iour de la semaine A 4 luts - Contr.;;;OT;;3/4;",,d1 | \
+[,,,a{a}/] ,,,c ,,a ,,b ,,d ,,b | \
+[,,aa3/2] ,,,,e/ [,,b,c1] | \
+[,,d,a/] ,a ,c ,d a c | \
+a2 [,d,a1] | \
+[,a,c1] ,,b [,,de] |"
+56;;39;Un Iour de la semaine A 4 luts - bass.;;;OT;;3/4;",c1 | \
+[,cdca2] [,a,,,e1] | \
+[,,d,,c/] ,,c ,,d ,a ,c ,,d | \
+[,ac1] ,,,c ,,,,,a | \
+[,acc2] [a,,,a1] | \
+[,da,c3/2] a/ [,c,,e1] | \
+[,a,a/] ,,d [,acc1] ,,,,,a |"
+57;;39;Un Iour de la semaine A 4 luts - Tenor;;;OT;;3/4;",a1 | \
+[,acc3/2] ,c/ [,ea,c1] | \
+[a,,,e1] ,e/ a c a | \
+[,ea,c2] {,,a}1 | \
+[,ea,c3/2] ,c/ [,acc1] | \
+[,,de/] ,,c ,,a ,,c ,,d ,a |"
+58;;40;Allon aux noces A 4 luts - sup;;;OT;Conc_1769;C;"[,,d,a1] [,a,c] [,bd/] ,a/4 ,b ,d1 | \
+[,,d,a/] ,a ,b ,d [,a,,,a3/4] ,b/4 ,,d1 | \
+[a,,,a/] ,d a c [d,,c] a f1 |"
+59;;40;Allon aux noces A 4 luts - Contr.;;;OT;;C;"[bdda1] [a,d/] b [,dda1] a/ b | \
+[dde,,d1] [bdd{a}] [acd,a] [,dda] | \
+[,,dd/] ,a ,b ,d [,bd] a [b,,a1] | \
+[a,,,a/] b/4 a b a ,d ,b"
+60;;41;Allon aux noces A 4 luts - bass;;;OT;;C;"[,bdca1] [,a,c,e] [,,dca/] ,,,,,d ,,,,,b,,,,,a | \
+[,dd{a}1] [,bdc{,,,a}] [,acc,a] [,,d,a/] ,,,,c | \
+,,,,d/ ,d a ,,,a ,,,c ,d [,b,,a] ,d |"
+61;;41;Allon aux noces A 4 luts - Tenor;;;OT;;C;"[aabc1] [,ea,c] [aa,c] ,,,,,a/ ,d | \
+[,bdca1] [aab,,a] [,ea,c] [aac,,a] | \
+[a,bc1] ,d/ ,c [,ab1] [a,d] | \
+[ca,,c1] a/ ,d [,cee1] ,,,,,c | \
+[,aabc4] |"
+62;;42_44_46;Gaillarde A 4 luts - Sup;;;OT;;6/4;"[abd,a2] [aab,,a] [,ea,c] | \
+[aa,c2] ,,,,,a1 d [ca,b2] | \
+[aa,c2] [ab,,a] [,ea,c] | \
+[aacc2] ,,,,,a1 ,d [,b,,a2] | \
+[,a{a}1] ,,d [,,cc] ,,,,,a ,,d2 |"
+63;;42_44_46;Gaillarde A 4 luts - Contra.;;;OT;;6/4;"[bdda1] a/ ,d [ab,,a1] ,d/ ,b [,acc2] | \
+[,bdca1] ,a ,b ,d [aa,c] ,d | \
+[,bd,a1] ,a/ ,b [,dda1] ,b [,a,c] ,,c |"
+64;;43_45_47;Gaillarde A 4 luts - bass.;;;OT;;6/4;"[,bd,a2] [,ab,,a] [,aabc] | \
+[,a,c1] a/ c d1 a [ca,b2] | \
+[aa,c1] ,d [,bdca] ,d [,aa,c] ,,d | \
+[aacc2] ,,,,,a1 ,d [,b,,a] ,,,,c |"
+65;;43_45_47;Gaillarde A 4 luts - Tenor;;;OT;;6/4;"[,abc2] [,aa,c] [,,ee] | \
+[,aa,c1] ,c ,d ,a [,ca,,c2] | \
+[,aa,c1] ,c/ ,d a ,d ,c ,a [,,ee] ,a ,c ,,e |"
+66;;48;Dat gebet onses Heeren - Onse Vader In Hemelryck;;;OT;ConcR180;C;"[abd,a4] | \
+[aac,,a2] [,bdca] | \
+[,dd,,c2] [aa,,,e] | \
+[,bdca2] [,acc,a] | \
+[,,dca{,,,a}4] || \
+[abd4] | \
+[aab2] [,ddd] | \
+[da,c2] [ab,,d] | \
+[,bdd2] [,dfa] | \
+[abb,d4] ||"

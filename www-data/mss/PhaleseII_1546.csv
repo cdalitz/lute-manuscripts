@@ -1,0 +1,154 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1;;b1r;Praeludiu[m];;;OT;;C;"[,abc1] ,,,,,a [,aac] [,abb] | a/ ,,,,,a [,ea1] [a,bc] [c,da] | \
+,,,,c/ [da] [c,da1] [a,bc/] ,,d [ca,a1] | \
+,,,,c/ ,,d [,aab1] [,abc] ,,,,,a |"
+2;;b1v;Praeludiu[m];;;OT;ConcR1708;C;",,d2 ,,d1 ,,d | [abd1] [,ab] [abd] [aab] | \
+[,,de1] ,e [aabc] d | [,abc/] d c a [,df1] [a,ff] | \
+[,,de1] f [dabc] [,bb,d] |"
+3;;b2r;Fantasie;;Luys de Narvaez;OT;ConcR809;C;"a3/2 a/ c1 d | ,a/ c d/4 c a ,d [ac1] [cd] | \
+f/ ,d ,a ,,d [da1] c |"
+4;;b2v;Fantasie;;Luys de Narvaez;OT;ConcR489;C;",,d2 ,,d/ ,a ,b ,d | [a,d/] ,b b1 ,,d/ a [a,b1] | \
+,,,d1 ,d [,b,c] ,a | ,,,c1 a ,,d/ ,a ,b ,d |"
+5;;b3r;Fantasie;;Luys de Narvaez;OT;ConcR1709;C;"f3/2 f/ h1 h | a1 f ,,d/ d [c,d] a | \
+[,df1] d ,,,d/ c [a,,c] ,d | \
+[,cd/] ,,b [c,a] ,,,c"
+6;;b4r;Fantasie;;Luys de Narvaez;OT;ConcR1710;C;",d2 ,d1 ,c/ ,d | a1 ,d ,d f | f1 e/ f [ha1] [fc] | \
+[fd1] [df/] c d ,c [cd1] |"
+7;;c1r;Fantasie;;Luys de Narvaez;OT;ConcR1711;C;",f2 h1 ,d | ,f1 [f,g] [h,f] d | c1 ,d ,d [fc] | \
+[fd1] [e,f] [f,d] c/ ,a | [ac/] ,e ,f c"
+8;;c1v;Fantasie;;Luys de Narvaez;OT;ConcR1712;C;"a2 h | f1 c [d,,c] a | [ca1] d ,,d [c,a] | \
+,,b/ ,a [a,,c1] [,,a,c] ,d | [,a,c1] ,b ,,,a/ ,a [,a,,c1] |"
+9;;c2r;Fantasie;;Luys de Narvaez;OT;ConcR1713;C;"a2 a1 d | c1 a [h,,,h] ,,,f | [f,,e1] [d,,c] ,,f/ d c/4 d c a | \
+[,d,,c1] [c,,a] [a,,,e] [,df,c] |"
+10;;c3r;Fantasie;;Luys de Narvaez;OT;ConcR1714;C;",d2 ,d1 ,d | [b,,a/] d/4 b d b a ,d [b,,a/] ,d [b,,a] d | \
+[f,da1] ,,,a [f,dd] ,,d/ [d,,f] |"
+11;;c4v;Fantasie;;;OT;ConcR1715;C;"[acd,a2] [aac,,a1] [acd,a] | \
+[aac,,a1] ,,d/ ,,a [aac,,a] ,,a [acd,a1] | \
+[aad,,a/] ,,c/4 ,,a [aac,,a/] ,,d [acd] ,,,,a ,,,,,a [aac] |"
+12;;d1v;Fortune lesse moy la vie;;;;;C;"[,dda2] [,daa/] ,,,,e ,,,,c ,,,,a | \
+[,ab,,d3/2] ,,a/ [,c,ca1] ,d/4 ,c ,a ,c | \
+[,d,a/] ,,,c [,,aa] [,,bc] [,dde1] [,dff] |"
+13;;d2v;Si iay pour vous;;;;;C;"[b,,a2] | [b,da/] [a,b] [b,da] [da] [f,g,a] ,,,,c ,,,,d [b,,a] | \
+[,da,c1] [f,dd] [,a,c/] e f/4 e c e |"
+14;;d3v;Iay trop aymez;;;;ConcR3563;C;"[c,d2] [c,da/] a/4 c d c a c | \
+[,df,c1] ,c/4 ,d a c [da,c1] [da,c/] c/4 d |"
+15;;d4v;Se bahiston;;;;;C;"[,,da1] c [c,da] [a,d,e] | [,a,ac1] [d,,c] [da,c] [d,bc] | \
+[c,da/] d [f,a] c [da,c] c [a,bc] ,d | [,cd,a/] ,a [a,d,e] ,,b"
+16;;e1r;Cest a grand tort;;;;ConcR1757;C;",,,a/4 ,c ,d a ,d/ a | [c,da/] d [f,aa1] [,df,c] [da,,,d] | \
+[,,da/]c d/4 c a c [d,b1] ,,,,,d |"
+17;;e1v;Forsseulement;;;;ConcR1716;C;",,,,c/ ,,,b ,,,c/4 ,,,,b ,,,,c ,,,,e ,,,,c/ ,,,,e ,,,a ,,,,e | \
+,,,,c/ ,,,,a ,,,,c [,,,,ef] [,,,a,d] ,,,,c [,,,c,c] ,,,,,a |"
+18;;e3r;Contre raison;;;;;C;"a2 a | d1 ,a [ca3/2] c/ | [cd1] ,d [ac] [ca] | \
+[da,c/] ,,d ,,b ,,a [da,c1] [c,d/] a |"
+19;;e3v;Mille regres;;;;ConcM3;C;"[,a,,c/] ,,,,a ,,,,c ,,,,d [,a,,c] ,b ,d/4 ,b ,a ,,d | \
+[a,b,d/] ,,,a ,,,c/4 ,,,a ,,,,d ,,,,c [abd,a/] ,a ,b ,,d |"
+20;;e4v;Si mon malhuer;;;;;C;"[acd,a1] [acd,a/] ,,c/4 ,,d ,a ,c ,d a | \
+[cdda/] d c [a,b] [,ddef1] [,cdca/] ,,b | \
+[,aaac1] [,,eeec] [,a,acd/] ,,,,a [,db,,d] [,,,,ac] |"
+21;;f1r;Ioyssance;;;;;C;"[aa,c2] [aa,c1] [aabc] | \
+[caaa/] a [d,,c1] [,abc/] [c,,a] [a,b,d] [,d,,c] | \
+[a,bcd/] ,,a ,,b/4 ,,a ,,b ,,d [,aabc1] [da,c] |"
+22;;f1v;Ie suys desherite;;;;ConcR1718;C;",,,,c2 ,,,,c/4 ,,,,a ,,,,c ,,,,d ,,,,c/ ,,,,d | \
+[,,aac1] [,,,ac/] ,,,,d [,,aac] ,,,,a [,,,a,d] ,,,,,c | \
+[,abc,a/4] ,,a ,,b ,,d"
+23;;f2v;En espoir;;;;;C;",a2 ,a1 ,,b | ,,d/ ,,b/4 ,,d ,a1 [h,,,h] ,a | \
+[hf1] d/ ,d [fc1] [ha] | [ac1] a/ ,a [fca1] ,d/ a |"
+24;;f3v;Vray dieu;;;;;C;",,,a2 [,,d,a] | ,,,a1 [,,da] [,,aa] [,,da] | \
+[,,d,e1] ,,,,c/ ,,,,a [,,b,c1] [,,a,e/] ,,,c | \
+[,daa/4] ,c ,d a ,d a c d"
+25;;f4v;Entre tous viellartz;;;;ConcR1719;C;"[,dda2] [c,da1] [fc,,a] | [da,c1] ,,b/ [c,,a] [a,b,d1] [,db,c] | \
+[,cdca/] ,a [,cd] [,d,,c] [a,b,d1] [c,aa] | \
+[a,b,,d/] [,da] [,d,c] ,,,a [,,,ca] ,c"
+26;;g1r;Tribulatie en[de] verdriet;;;OT;ConcR934;C;"[,daa/4] ,c ,a ,c ,d ,c ,d a [,daa/] ,c ,d a | \
+[cdda/] a c d [cdda1] [cdd/] ,,,a |"
+27;;g1v;Cest une dure partie;;;;;C;"[,,da2] [,a,a,d/] ,,d [,ab,,d] ,,a | \
+[,,bcd1] [,d,a,d] [,dfa] [,ddef] | \
+[b,cd1] [d,,c/] ,,,a [da,c1] [ca,ac/] ,,d | \
+[,,bcd/] a [a,d,a1] [,,a,c/] ,e"
+28;;g2v;Noch weet ic een scoon vroucen;;;;ConcR1720;C;"a2 a1 a | [c,d/] a c/4 a c e [f,d/] e [c,d] f | \
+[ea/] ,,d ,a/4 ,,d ,a ,c"
+29;;g4r;Pour auoir paix;;;;;C;"[,dda1] ,d [cdda] [dd,ac] | \
+[f,g,hf1] [i,,h/] h [f,g] [d,f] [cbd,a] a | \
+[cdda/] a [ffg,d1] [fdfa] [e,,c] | \
+[fbd,a1] [,,dc] [,bd] [abd,a] |"
+30;;g4v;Pour vng plaisir;;;;ConcR858;C;",,,,,d1 [,,,a,d/] ,,,,a [,,,ac] [,,,c,d] [,,a,a] [,,,ac] | \
+[,,bcd/] ,,a [,db,,d] ,,d [,df] [a,b] [c,da] [,df] | \
+[abb,d/] c [dabc] ,,d"
+31;;h1r;Pase auase [hispanicum];;;;ConcR1721;C;"[a,bc1] d [c,da/] ,,b ,,a ,,c | ,,d1 [,dff] [a,bc] [,b,,d] | \
+[c,da1] ,d [da,c] ,,b/ ,,d | ,a/ ,c [cd,a1] [ac,,a] ,,d |"
+32;;h1v;Si tantos halcones;;;;ConcR1722;C;",d1 [,,ff/] [,,de] [d,,,d/4] ,,f ,,g ,d ,f ,g d f | \
+d/4 f d ,g [df] ,d ,,g ,,f"
+33;;h2v;Si tantos halcones [hispanicus];;;;ConcR1722;C;",,,a2 ,,b | ,,b1 ,,b ,,d2 | [,df1] ,,,f d/ ,,,e ,,,c ,,,a | \
+[d,,,,d1] [d,b,c] [f,,,a] ,,a | [b,,,,d1] ,,,f ,,,,h [h,,f] |"
+34;;h3r;I la mi cinta;;;;ConcR1723;C;",,,a/ ,,,c [,,aa] ,,c [,,dca] ,,c ,,d ,a | \
+,c/ ,d [a,,c] ,c [,daa] ,c ,a ,c | \
+,d1 [,ab,,d] [,c,ca] [,,def] |"
+35;;h3v;Peysen ende trueren;;;;;C;",,,,a2 ,,,,a/ ,,,,c/4 ,,,,d ,,,a ,,,,d ,,,,c ,,,,a | \
+,,,,c1 ,,,,a [,,,ca/] ,,,,c ,,,,d [,,aa] | \
+[,,b,c1] [,,d,a] [,a,c] ,b/4 ,a ,b ,d |"
+36;;h4v;Il me souffit;;;;ConcR853;C;",,,,,a2 [,,,c,d1] ,,,,a | [,,b,cd1] ,,,,,a [,,da,c] ,,,,,c | \
+[,,bc,a/] ,,,,,c ,,,,,d ,,,,a [,,aac1] [,a,,a/] [,,,,cd] | \
+[,,aa,c1] [,,d,e] [,abc,a] [,a,c/] ,,,a |"
+37;;i1r;La bella mal maridada;;;;ConcR1724;C;"[,,d,a2] [,a,,,d/] ,b ,d ,a | [,b,,a/] ,a ,b ,d a ,b [,db1] | \
+,,,c/ ,b [,b,d1] ,,,a/ ,a ,b ,a |"
+38;;i1v;Deul dobble duel;;;;ConcR1640;C;"[,aaac2] [,aaac/] ,,,,d ,,,,c ,,,,a | \
+[,dff,d2] [,bdca/] ,a/4 ,b ,d ,b ,a ,,d | \
+[,aaac2] [,aaac/] ,,b ,,a ,,,c |"
+39;;i2v;O combien en madoreus;;;;ConcR1725;C;"[aabc2] [aabc/4] ,,a ,,b ,,d ,a ,c ,d a \
+[cdda] a c d f d c a [cdda/] d [aabc1] |"
+40;;i3v;Le ceueur le corps;;;;;C;"c1 ,a [,df] [a,d] | [cd,,c1] ,,a/ ,c [ca,ac1] [fc,ca] | \
+[fdaa1] ,,d/ d [cdda1] [acbc] | \
+[,df,c1] [c,def] [,bb,d/] a [a,d,a1] |"
+41;;i4v;Ie ne desir aymer auter;;;;;C;",,,c1 ,,b [aa,c] [,abc] | [abd,a/] ,,,,c [a,,,d] ,,,a [aabc2] | \
+[,da,c1] [,,fa] [,dff] [,,def] | \
+[,abc1] [,daa] [da,c] [ca,ac] | \
+[a,,cd1] [,dbac] [,bdca] [,aba,d] |"
+42;;k1r;Den lustelike mey;;;;ConcR933;C;"[,,cc1] a [aa,c/] ,,d ,a ,,c | [c,da/] a c e [fca1] [ea,c] | \
+[c,de/] ,c ,a/4 ,,d ,,c ,,a [,,,de/] ,,a"
+43;;k1v;Elle le veult donc;;;;;C;"[aa,c,a2] [aa,c,a/] ,,,,,c ,,,,,e/4 ,,,,,c ,,,,,e ,,,,a | \
+[,da,c/] ,,,,a ,,,,c ,,,,e [,da,c] ,c/4 ,a ,,d ,a ,c ,d |"
+44;;k2v;En pour suiuant;;;;;C;",,,c/4 ,,,b,,,c ,,,e ,,,c/ ,,a [,,b,,a] ,,a ,,b [,,d,,c] | \
+[,a,,cd/] ,,,,,c [,,b,,d] [,,,,df] [,aaac] ,,,,e ,,,a ,,,c |"
+45;;k3v;Pour tant si ie suis brunette;;;;ConcR1761;C;"[aa,c2] [dffc1] [dffc] | [dffc/] c [ddff] f [ddff1] [cdda] | \
+[,abc/] ,,d ,a ,c [,efec1] ,,,e | \
+[aabc/] ,,d ,,b ,,a [aabc1] [aabc] |"
+46;;k4r;La bella franciscana;;;;;C;"[,dda/] a [cdda1] [cdda] [dab,,d] | \
+[dab,,d1] [cdd/] ,,,a ,d a [cdda] a/4 c | \
+[dab/] ,,,,,d [cdd] ,,,a [,dda/4] ,c ,d a c"
+47;;k4v;Toutes les nuyt;;;;;C;",d/4 ,c ,a ,c ,d a c d [f,,a1] ,d | \
+[h,,f,d1] ,d/ [f,d] [da,,,d] ,,d [da] ,c | \
+[,d,a1] [cdd] [,a,c/] ,,c"
+48;;l1v;Reuillez moy;;;;ConcR1267;C;"[,dda2] [fd,a1] [,daa] | [fc,ca1] f [c,,,c] [,d,a/] c | \
+[cd,ac1] [cd,ac] [dd,a,d3/2] [cd,a,d/] | \
+[aab,,d1] [,dff,d] [,c,ca] a | [ac,,a1] ,,d/ ,d"
+49;;l2v;Hors enuies retires vour;;;;ConcR1269;C;",d3/2 ,d/ ,c1 ,c | [fd1] ,,d/ f [f,g1] [e,f] | \
+[f,d/] ,a [ab] ,d [df1] [bd] | \
+[a,d1] ,c [,dff/] ,,g [,dff] a |"
+50;;l3r;Fortune alors;;;;ConcR1272;C;"[ddf,,d2] [ddf,,d1] [cdda] | \
+[aab,,a/] ,,,,,c ,,,,,d ,,,,a [,dfec1] [cdf] | \
+[df1] [cdf,c] [dabc] [dabc] | \
+[acd,a/] ,,b [f,a,a] [d,,c] [c,da] [a,,,e] [,d,ac] [,c,,a] |"
+51;;l3v;Sur toutes la margarite;;;;ConcR1270;C;"c2 d1 a | [c,f1] ,e a [c,def] | [,ab1] [a,bc] [,,de] [,dfec] | \
+[,b,cd1] [,,def] [,a,,c] [,,bc,d] | \
+[,,a,a/] ,,,b [c,,bc1] [d,,c,a] [aabc] |"
+52;;l4v;Mertin menuit, de claudin;;;;ConcR1273;C;",b1 ,b/ ,b [,db] ,d [,db] [,db] | \
+[b,d/] ,,d [b,,d] ,,d [ab,,d1][ab,,d/] ,,,,d | \
+[,df,fd/] [,d,,f] [,df,fd] [,,,,fd]"
+53;;m1v;Martin menuyt de Iennequin;;;;ConcR1274;C;",d1 a/ b [d,b1] [b,d/] ,a | \
+[abd1] [fb,,a/] ,d [ff,,d] ,,,a [effc] ,,,c | \
+[fbdd1] [bd,a] [fgih] [ffhh] |"
+54;;m2v;Reuillez vour cuer endormis;;;;ConcR1275;C;"a1 a/ a a ,b ,d a | [b,d1] [a,d/] [,dd] [,cd1] ,,d/ ,d/4 ,c | \
+,d/ ,,e [a,d] ,,b [fg,d1] [ff/] [fd] |"
+55;;m3v;Secunda pars - vour orres a mon auis;;;;ConcR1276;C;",,,d3/2 ,,,c/ [,,,df1] ,,,,f/ ,,,d | \
+[,,,cd1] [,,d,c/] ,,,,a ,,,,c/4 ,,d ,,c ,,a [,,d,c/] [,,c,c] | \
+[,bd,a/] ,,,c/4 a ,d ,b ,a ,,d"
+56;;n1r;[Tertia pars] - Rossingnoul du boys ioly;;;;ConcR1277;C;",,,d/4 ,,,c ,,,d/8 ,,,c ,,,a ,,,c ,,,d/ ,,,c | \
+[,,ddf/] ,,,,d ,,,,f ,,,d ,,,c ,,,,d [,,d,c] ,,,,a | \
+,,,,c/4 ,,d ,,c ,,a"
+57;;n2v;[Quarta pars] - Arriere maistre coquu;;;;ConcR1278;C;",,,d3/2 ,,,c/ [,,,df] ,,,,d ,,,,f ,,,d | \
+,,,c/ ,,,,d [,,d,c] ,,,,a ,,,,c/4 ,,d ,,c ,,a \
+,,d/ ,,c ,,d/8 ,,c ,,a ,,c |"
+58;;n3v;Bataille;;Descendat uno tono;;ConcR1694;C;"f2 f1 f | [fd/] d f h [fd1] ,d | \
+[fd,a/] ,c ,d ,f [cdda/4] a c d [f,,a] d c a |"
+59;;o2r;Secunda pars de la bataille;;;;ConcR1695;C;"[cdda2] [cdda] | [cdda/4] c c c c/ c [c,da/4] c c c c/ f | \
+[cdda/4] ,d ,d ,d ,d/ ,d [fdaa/4] ,d ,d ,d [,d,a/] c |"

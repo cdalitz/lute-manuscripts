@@ -1,0 +1,98 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1;;1r;Corente;;;OT;ConcR757;3;"f1 | [a,d3/2] c/ [d,,c1] | [,d,f3/2] ,f/ [b,,a1] | [,b,c3/2] ,d/ [a,,,d1] | \
+[,a,,,d3/2] ,b/ [,d,,c1] | [,b,,a3/2] ,a/ ,,d1 | \
+[,acc,a2] [,,da] |"
+2;;1v;Courant;;;OT;;3;"X[,dddf3/2] ,,,,d/ [,dbbb1] | [acd,a3/2] ,,,,,d/ [c,,a1] | \
+[dde,,d2] [,dddf1] | [dbbb2] [bdda1] | [,e,,Xd1] ,,d/ ,,b ,,d1 | \
+[,dedXb3/2] a/ [bdda1] | X[d,,,d1] ,,,,b [f,,,a] |"
+3;;2r;Volte;;;OT;;3;",,d/ ,a ,b ,d a ,b | [bdd{a}1] a/ b ,d1 | Xf1 ,,,d [i,,h] | \
+[dfg,f3/2] f/ d1 | i/ h f1 [da,c] |"
+4;;2v;Ballet;;;OT;Conc_100;C;"[,dda{a}3/2] a/ [b,,a] d [acd,a1] | [,dda{a}1] f [,d,,,Xd/] a [b,,a] d | \
+[acd,a1] {a}2 | [f,,Xd3/2] d/ f h i1 |"
+5;;3v;Ceqond Ballet;;;OT;ConcR3138;C;"[f{a}2] l1 [f,,a] | [bdd{a}1] a/ b ,d1 X[d,,,d/] ,,,,b | \
+[f,,,a/] h i1  [dde,,Xd/] f g1 | \
+X[bbdd1] X,,,,,b/ ,d ,b ,,e ,,d1 |"
+6;;4r;Volte;Mercure d'Orléans;CLFMer I N°14;OT;ConcR523;3;"[aaccca/] c e a h e | a/ ,a ,,c ,,,c ,,,,c ,,,,,e | \
+,,,,,a/ a e a h1 | [cefec2] {a}1 |"
+7;;4v;Volte quant ie voy ce bel oeil Vinceur;;;OT;ConcR746;3;"f/ d [bdda1] [acd,a] | [,dda1] [,d{a}/] a c ,d | [da,c1] [c,,a/] d f c | \
+[dab,,d2] [a,,,Xd/] b | d1 [bdda2] |"
+8;;5v;Courante;;;OT;ConcR343;3;"f1 | [fdaa2] [da,c1] | [cdda2] [h,,f1] | [fd,a1] [,d{a}/] d c a | \
+[c,,a1] ,d [f,a] | [dab,,d2] [cdca1] | \
+[a,,,Xe3/2] c/ [,da,c1] |"
+9;;6r;Toccade;;;OT;;C;"[fdaa4] | [add{a}2] [ddf,,d] | [fdaa/] ,,d ,,a [,,b,a] [,,d,,c] ,,,,,d ,,,,a [,d,,,c] | \
+[,aba,d/] ,c ,d ,,,,,c [abd,,a] ,c/4 ,a [,c,,a{a}/] d |"
+10;;6v;Ballet;;unfinished;OT;ConcR752;C;"[f{a}3/2] h/ f1 [,h,a] | [,,i{a}3] ,,d1 | [,aba,d3/4] ,c/4 ,d1 [aab,,a3/4] c/4 d1 | \
+[cdda1] {a}3 | [h,,f3/2] f/ h k l1 |"
+11;;7r;Courant;;;OT;;3;"[,dda{a}2] [f,,d1] | [e,,c2] [f,d,e1] | [cdda2] [d,,c1] | \
+[acd,a1] ,d [f,,d] | [dbb,Xd1] [bdda2] | [acd,a2] {a}1 | \
+[fb,d,b2] [dbbcd1] | [bdda2] [a,d,e1] | [,dda1] {a} a |"
+12;;7v;Courant;;Lord Hay's Courant;OT;ConcR96;3;"f1 | [c,,a3/2] d/ f1 | [,db3/2] ,,a/ [a,,c1] | [cdda2] {a}1 | \
+[cdd1] ,,,a [a,,,e] | [,da,c3/2] a/ [,d,a1] | \
+[,cdca1] ,a/ ,c ,d ,c |"
+13;;8r;Fantasia;;;OT;ConcR758;C;"a1 ,,a ,a ,c | [cd1] ,a [cd] [ed] | [fc/] ,a ,,d ,,c [f,a1] [fh] | \
+[ef/] [cd] [ac] [,df] [,cd1] k |"
+14;;9v;Fantasia;;;OT;ConcR759;C;",,,c2 ,,b1 ,,b | ,,a2 [a,,c1] ,g | [dab1] [da,c] [ad,a] c/ ,,b | \
+[acd1] f [da,c] c/ a | [cd1] ,a/ d [fca1] ,,,a |"
+15;;10v;Fantasia;;;OT;ConcR760;C;",,,a4 | ,,,a1 ,,,,e/ ,,,a ,,,c1 ,,,a/ ,,,c | ,,,e1 ,,,a ,,,f2 | \
+X[,,de1] ,,,c/ ,,,e ,,,c1 ,,,a | X[,,d,e1] ,,,a [,a,,e] ,,,,c |"
+16;;13v;Fantasia;;;OT;ConcR241;C;",,,a4 | [,,d,d2] ,,,a | [,,bb2] ,,d | [,,ea2] ,,d1 ,,b | \
+[,dda2] ,,,b | [,bdd2] [,d,b1] ,,,a | [,ee,d2] ,,d | \
+[,de,b2] ,,d1 ,,b | [b,da2] ,,e |"
+17;;14v;Fantasia di Joachim van Hove Resonsasi d'ecco;Joachim van den Hove;Fantasia on Lachrimae;OT;ConcR761;C;"[aab,ca2] ,,,c1 [,da] | [,bdc,a2] [,ac1] [,,de] | \
+[da,c,a2] ,,,,c1 [cd] | [aabcc2] [caab1] [aab] | \
+[cefe{a}2] [cef1] [ccd] | [ha,f{a}2] [f,,e1] [d,,c] |"
+18;;16v;Fein lustigh ist spazieren gehen;;Don Frederico's Almain;OT;ConcR207;C;",,d1 | [,,d,a1] ,a [,bd,a] [,da,c] | [ab,,d1] [,dda/] ,b [,acc1] [ab,,d] | \
+[,dda1] [,acc] [,bd,a/] ,,,,c ,,,,d ,,,a | \
+[,acc/] ,,a ,,c ,,d [,acc1] ,,,,,a |"
+19;;17v;Almande Schapell;;;OT;ConcR762;C;",,,c1 | [,,dca1] [,acc,a] [,cd,a/] ,d [,acc,a] ,c | \
+[,,dca/4] ,,c ,,a ,,c ,,d ,a ,c ,a [,,dca1] ,c/ ,d |"
+20;;18v;Fortuna di Joachimo van den Hovo;Joachim van den Hove;Fortune My Foe;OT;ConcR28;C;"[aab,ca3/2] ,d/ a1 [caa,c] | [da,c1] ,,,,,a/ c [da,c1] [caa,c] | \
+[aac,,a] [ha,f] [fdaa] [dabc] | \
+,,,,c/ [caa] ,,,b [aab] [caa,c1] ,,,b |"
+21;;21r;Alamande;;;OT;ConcR763;C;"[aab,,a1] ,,,c [da,c] [aabc] | [aac,,a/] ,,d ,a ,b [,acc1] [,a,,,a/] ,b | \
+[,dda{a}/] ,b ,a ,,d [,ac,,a] ,,d ,b ,a |"
+22;;22r;Galiarda;;;OT;;3;"[abb,Xd2] [abb1] [abb,Xd2] c1 | [dbbcd3] ,,,,c1 X[f,,,a] ,,,,,d | \
+[bbd,,b1] ,,,,,a [,dda{a}] a/ b d1 b | \
+[abb,Xd2] d1 Xf ,,,d [h,,f] |"
+23;;24r;Pauana Lachrime;John Dowland;;OT;Conc_4415;C;"[aabcca2] ,,,c1 ,d/ ,b | [,abc,a1] ,,d [da] [c,d] | \
+[aa,,d1] ,,d/ ,,b ,,d ,,a ,,b/4 ,,a ,,b ,,d | \
+[,ea,c1] ,,d/ ,,b"
+24;;27r;Galliarda Lachrime;;;OT;ConcR368;3;"[aabcca2] ,,,c d1 ,b | [,abc,a2] a1 c [da,c2] | \
+[caaa2] [aa,,d1] ,,d/ ,,b ,,d1 | \
+[,ea,c1] ,,b ,,a ,,,c [,aabc2] |"
+25;;28r;Bergamasca;Giovanni Battista Domenico;;OT;Conc_45;C;"[cdda2] [cdd] | [dab,,d2] [dab] | [acd,a2] [acd] | [cdda2] {a} || \
+[fdaa2] [fda] | [dab,,d2] [dab] | [acd,a1] c d a | \
+[cdda2] {a}1 d ||"
+26;;31v;Galliarda Romana;;;OT;;3;",d1 a | [cdd{a}1] ,a/ ,c ,d a c d [f,,a] d c a | \
+[,da,Xc/] a c ,d [acd,a] c d a [c,,a] d f c |"
+27;;32v;Galliarda;;;OT;ConcR623;3;"[cdda2] {a}3/2 d/ [cdda2] | [a,d,e2] [,da,c] [,dba,d] | \
+[,cdca2] [,,da,c] [,aba,Xd3/2] ,c/ | [,daa{a}2] [acd,a3/2] {,,,a}/ f3/2 d/ | \
+[cdda2] [,dda{a}3/2] a/ [c,,a3/2] e/ |"
+28;;33v;[Pavan];;;OT;;C;"[aacc3] c1 | [dea,c1] c/ e [f,,,e1] e/ f | [haa,,h2] [ea,c,a1] c/ e | \
+[fc,e,c1] e/ f [caa{b}1] a/ c | [aa,c,a2] ,,c1 ,a |"
+29;;34v;[Galliard];;;OT;;3;"[aa,c,a3] c1 [eff,,a2] | [fc,e,c2] [acd,a] [ea,,,e1] ,,,,a | \
+,,,,c1 [caa] ,,,b ,,a [aa,c,a] ,,d | \
+[,efec2] ,,,,c1 c [ea,,,a] f |"
+30;;35v;[Sharp Pavan];Richard Allison;corrupt version;OT;Conc_4406;C;"[aa,c,a3/2] ,e/ a1 c | [ea,c,a1] c/ a [ca,b1] ,,d | \
+[aacc1] [c,d] [ea] [a,c] | [c,d,e1] [a,c] [,ea] [,c,c] |"
+31;;37r;Pauana;;;OT;ConcR3115;C;"[abdca3] [,df1] | [,bdca2] [,ac1] [,,de] | [,acc/] ,,a ,,c ,,d [,ac1] ,,,a | \
+[a,d,d1] ,,,c [,dc,c] a | [b,d,a1] a [aa,c,e2] |"
+32;;39v;Galliarda;John Dowland;Earl of Derby's Galliard;OT;ConcR308;3;"a1 e f | [ha,,,a3] a1 e f | [ha,,,a3] h1 e a | [h,,,,e2] [fc,,a] [ea,,,a] | \
+[caa,c2] {,,a}4 | [caa,c4] [cce,,c2] |"
+33;;41r;Balletto Diomed:;Diomedes Cato;;OT;ConcR751;C;"[,df,c1] c [fdde] [ddff] | [cdda/] ,,b ,,a ,,,,d ,,,,c a ,d ,,,,a | \
+[ddf,,d1] [cdd{a}] [,ab,,a/] ,,,,,c [a,,,,d] ,,,,a |"
+34;;41v;Balletto Diomed:;Diomedes Cato;;OT;;C;"[c,da1] d/ f [ddff1] [cdda] | [acd1] ,,,,a/ ,,,,c ,,,,e ,,,a [aacc1] | \
+[,cd,a/] ,d a ,,,,e [,d,,c] ,,c [,cd,a1] |"
+35;;42r;Balletto.;;cf. Conc_4501;OT;;C;"[,daac1] ,c/ ,d [acd,a1] ,d/ a | [cdda1] {a}2 [,dba,d1] | \
+a1 [ccd,,c] [da,c,a] ,c | [cdda2] {a}1 [f,aa{a}] | \
+[ddf,,d1] [cdda] [add,a] ,c |"
+36;;42v;Balletto.;;;OT;;C;"[abd1] ,,,,a [aa,c/] c d ,c | [b,da1] [abb,d] [,dg,,d/] ,,f/4 ,,d,,f ,,d ,,f/ | \
+[abb,d/] b a [,d,,c] [,b,ca] ,,a [,ab,,d1] |"
+37;;43r;Balletto.;;;OT;;C;"[,e,,a/] [,d,,c] [a,,,e] ,,d [,d,a] ,c [,acc1] | \
+[,cd,a1] ,,d/ ,d ,c1 ,a/ ,,d | \
+[,,c,,a/] [,,d,,c] [,a,,,e1] [,,d,a/] ,,c [,,abc1] |"
+38;;43v;Balletto.;;;OT;;C;"[,cdca1] ,a/ ,c [,daac1] [acc,e] | [cdaa2] [acc,e1] ,,,,c | \
+[ccd,a1] [ea,c,e] [fc,e,c] ,e | [ea,c,a2] ,,,c | \
+[acd,a3/2] [acd,a/] [ccd,,c1] [,cc{c}/] ,f |"
+39;;44r;Baletto de Ruscia deto Duda qual s'accorda il Basso col Tenor Ottauo. / Ihr dess July Cesari Barbetti [unreadable] sub folio a5.;;;OT;ConcR1255;3;"[f,,a1] [c{a}] [a,,,a] | [c,,a1] {a} [h,,,a] | [d,,a1] {a} [f,,,a] | \
+[c,,a1] {a} [f,,,a] | [d,,a1] [c{a}/] a [c,,,a] d |"

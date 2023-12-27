@@ -1,0 +1,252 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+;;Regiment des guardes suisses du Roy;;;;;;;
+1;G dur;1r;sans titre;;Sarabande, Marion pleure;2a;Conc_1050;3/4;"[,,aa1] [,,aa] {a} | \
+'[,,aa2] ,,,,,a1 | \
+[,,bc1] [,,bc] {a} | \
+'[,,aa2] {,,,a}1 | \
+'[,,,ca1] [,,,ca] {,,,a} | \
+'[,,,ca2] {,,,a}1 | \
+{,,a} {,a} {a} | \
+[,,,ca{,,,a}2] {a} ||"
+2;G dur;1v;autre Sarabande;Jean Heart;Sarabande, Madame Françoise;2a;Conc_284;3/4;"[,aaa2] | \
+[,aaa,c3/2] ,c/ ,a1 | \
+[,,ba,d3/2] ,a/ [,,aa{a}1] | \
+'[,,,ca{,,,a}3/2] ,,,,e/ ,,,a1 || \
+{a}1 '[,,aa2] | \
+'[,,,c{,a}3/2] (,,,a/ ,,,c1) | \
+{,,a} {,a} {a} | \
+'[,,,ca{,,,a}3/2] ,,,,e/ ,,,a1 ||"
+3;G dur;2r;Courante;;;2d;;3/4;"b1 | \
+[baa{a}3/2] d/ f1 | \
+[f,,a1] '[d,,,a3/2] ,f/4 d | \
+,f1 {a}/ d b a | \
+,c1 {,a}/ ,c a b | \
+[d{,a}1] ,a '[b{a}] |"
+4;D Dur;2v;Courante;;;2a;;3/4;",a1 | \
+[,adca{,,,a}3] | \
+'[,,c,,a1] ,a [,cc] | \
+'[a,,,a] ,a [d{,a}] | \
+'b1 '[a,,,a2] | \
+[,cc,,a1] {a} {,a} | \
+(3a/ c d) [d,a{,,a}3/2] c/ | \
+d1 ,,,,,a ,,,c | \
+[dcc2] ||"
+5;D Dur;3r;Sarabande;;;2a;Conc_1664;3/4;"[aadca1] {,,,a} [aad] | \
+'[,c,,,a3/2] a/ ,a1 | \
+'[,,aa{a}3/2] ,,c/ ,a1 | \
+'[,c,,,a3/2] ,a/4 ,,c ,a1 || \
+d1 [d{,a}] d | \
+'[b{,,a}2] [a{,,,a}1] |"
+6;D Dur;3r;Redouble;;;2a;;3/4;"d1 [d{,a}] d | \
+[b{,,a}/] a b d [a{,,,a}] b | \
+d/ a [b{a}] d b a | \
+'[,c,,,a3/2] ,a/4 ,,c ,a1 ||"
+7;D Dur;3v;Courante;;;2a;;3/4;",a1 | \
+[,adca1] ,c/ ,,,a [aa,,e1] | \
+[aa,,a1] [aa,,,c] [,c,c,e] | \
+[aadca3/2] b/ a ,c | \
+,a1 '[a,,,,c3/2] b/ | \
+[daa1] ,c [,c,,,e] |"
+8;D Dur;4r;Sarabande;Jean Heart;;2a;;3/4;"d1 [da{,a}] f | \
+[bca{,,a}3/2] d/ [a{,,,a}1] | \
+a1 [aaa,,c] {a} | \
+'[,c,,,a3/2] ,,d/4 ,c ,,d1 | \
+[baaa1] {a} [baa] | \
+'[aa,,a3/2] b/ [d{,a}1] |"
+9;D Dur;4v;Sarabande;;crossed out;A-d-f#-a-d'-f'#;;3/4;"[,aaaa1] [,aaa3/2] ,,a/ | \
+[,,cb{a}1] [,,cb] ,,e | \
+[,aa,ea1] [,,e,ca3/2] ,a/ | \
+[,aaaa1] [,aaa{,,,a}2] || \
+[a,,,a/] a [aaaa3/2] ,c/ | \
+[,c,,,a1] [,ced] a | \
+[,a,,,c1] [,aca3/2] ,c/ |"
+10;D Dur;5r;Sarabande;;;A-d-f#-a-d'-f'#;;3/4;"[,,,aa{,,,a}1] ',,,b ,,a | \
+[,,aaa3/2] ,,c/ [,,a,,e1] | \
+[,aca,c1] [,aca] ,a/ ,c | \
+'[,,e,,a3/2] ,,,f/ ,,a1 | \
+[,c,d3/2] ,a/ [,a,,,c1] | \
+'b1 ,,,,,e ,,,,a/ ,c |"
+11;D Dur;5v;Courante;;;A-d-f#-a-d'-f'#;;3/4;",a1 | \
+[,aaa{,,,a}3/2] ,c/ a1 | \
+[aaa,a1] [,c,'b3/2] ,a/ | \
+'[,,ed3/2] ,a/ ,c1 | \
+'[,,a,e1] ,a [,c,,c] | \
+[aaaaa3/2] b/ d {,,a} | \
+[d{,a}1] [ba{a}3/2] a/ |"
+12;g moll;6r;Sarabande par Bemol;;;6a;;3/4;"{a}1 [,aaa2] | \
+[,aaa,b2] ,,,,,d1 | \
+,,c1 ,a [,,a{a}] | \
+'[,,,c{,,,a}3/2] ,,,,a/ ,,,a1 || \
+{a}1 [,,aa2] | \
+[,,,c{,a}3/2] ,a/ ,,a1 | \
+'[,,,c{,,,a}3/2] ,,,,a/ ,,,a1 ||"
+13;g moll;6v;Courante le 13e Octobre 1640 par le Bemol;;"p. 7r verse ""Nuict agreable"" - to tune of 8v?";6a;;3/4;",a1 | \
+'[,aa{a}1] ,d/ ',b [,a,,a1] | \
+'[,,c{,a}3/2] ,a/ [,,aa{a}1] | \
+'[,,,c{,,,a}3/2] ,,,a/4 ,,,,e ,,,a1 | \
+[,a{a}1] ',c [a,,,,a] | \
+[c,,,,c1] ,,,,,d '[a,,,a] | \
+{a}1 '[,c,,,,a3/2] ,,e/4 ,c1 |"
+14;G dur;7v;Sarabande de marion pleure;;;2a;Conc_1050;3/4;"{a}1 '[,,aaa] '[,,aaa] | \
+{a}1 '[,,aaa2] | \
+,,,,,a1 [,,bc] [,,bc] | \
+{a}1 '[,,aaa2] | \
+{,,,a}1 '[,,,ca] '[,,,ca] | \
+{,,,a}1 '[,,,ca2] | \
+{,,,a}1 {,,a} {,a} |"
+15;G dur;8r;Sarabande de madame fransoise;Jean Heart;;2a;Conc_284;3/4;"{a}1 [,aaa] [,aaa,c] | \
+,,,,,d1 [,,ba2] | \
+,a/ [,,aa{a}1] '[,,,ca{,,,a}3/2] | \
+,,,a/ ,,,,e ,,,a2 || \
+{a}1 [,,aaa2] | \
+'[,,,ca{a}2] (,,,a/ ,,,c | \
+,,,e1) {,,a} {,a} |"
+16;G dur;8v;Nuict agréable;;;2a;Conc_4;3/4;"[,,aa{a}1] '[,,aa3/2] ,,a/ | \
+'[,,b{,,a}3/2] ,,b/ [,,d{,a}] ,,b | \
+[,,a{a}1] '[,,,ca{,,,a}3/2] ,,,a/4 ,,,,e | \
+,,,a1 {,,,a}2 | \
+[,,ba,d1] [,aa,,c3/2] ,a/ | \
+[,cba,d1] [,cba] [,cba] |"
+17;G dur;9r;pantalon / Licoys;Jacques Licois;;2a;;3/4;"[,,aaa{a}2] [,,aaa1] | \
+[,,ba,d2] [,,ba1] | \
+[,,,ca{,,,a}2] [,,,ca1] | \
+'[,,aaa{a}2] ,,,a1 | \
+'[,,aaa{a}2] [,,aaa1] | \
+[,,ba,d2] [,,ba1] | \
+'[,,,ca{,,,a}2] ,,,,e1 | \
+,,,a1 {a}2 ||"
+18;G dur;9v;Redouble de pantalon;Jacques Licois;;2a;;3/4;"[,,aaa{a}/] ,,,a ,,,c ,,a [,,baad1] | \
+,,a1 [,,,ca{,,,a}/] ,,a ,,b ,a | \
+'[,,aaa{a}2] ,,,a1 | \
+[,,aaa{a}/] ,,,a ,,,c ,,a [,,baad1] | \
+,,a/ '[,,,ca{,,,a}3/2] ,,,,e1 | \
+,,,a1 {a}2 ||"
+19;G dur;10v;Janneton sarabande;;Baise-moi ma Jeanneton;2a;Conc_2629;C;"[,,aa{a}1] '[,,,ca{,,,a}] [,,,aa{a}] ,a | \
+[,aaa{a}1] [,,b,,d] '[,,aa{a}3/2] ,,b/ | \
+[,aaa{a}1] ,,,a [,,b,,d] [,,aaa{a}] | \
+[,,,ca{,,,a}2] [,,,aa{a}] || \
+[,faa{a}1] [,faa] [,ed,a] {,,,a} |"
+20;G dur;11r;Redouble;;;2a;;C;"[,,aa{a}/] ,,b ',,a ,,,c [,,,aa{a}] ,,,c ,,a ,,b | \
+[,a,,,c/] ,,,a [,,b{,,a}] {,a} '[,,aa{a}3/2] X,,b/ | \
+,a/ {a} [,,,c{a}] ,,,a ,,,b ,a [,,a{a}1] |
+"
+21;e moll;11v;Sarabande;;Voici tanto la froidure;2a;Conc_854;3/4;"[baa1] {a} [baa] | \
+'[baa{a}3/2] d/ f1 | \
+'[d{,a}3/2] f/ [b{,,a}1] | \
+'[a,,,,c3/2] ,c/ {,,a}1 | \
+[,ca,c1] {,,,a} [,ca] | \
+'[,a{,a}3/2] ,,b/ '[,,aa{a}1] |"
+22;C dur;12v;Courante de La Royne d'angleterre;;;3c;Conc_5118;3/4;"[,,bac1] '[,,a,a3/2] ,,,c/ | \
+[,,,acd3/2] ,,,a/ [,,,c{,a}] ,,a | \
+[,,b{,,a}1] [,a,,a3/2] ,a/ | \
+[,c{4}1] ,,b ,,,a | \
+[,d,,a1] [,c,,c] [a,,,d/] ,c | \
+'[,aaa3/2] ,a/ [,c,,,d] a |"
+23;C dur;13v;Chabotte le mesme ton;;Courante de Monsieur, ou la;3c;Conc_323;3/4;"c1 | \
+'[c{4}3/2] ,d/ ,c ,a | \
+[,c{4}1] '[,a{,a}3/2] ,,b/ | \
+[,,a{a}3/2] ,,b/ [,a,,d1] | \
+[,,,ac1] ',,b ,,,,a/ ,,a | \
+,,b1 ,,,,,d/ ,a ,c a |"
+24;G dur;14v;Courante nouuelle;Gaultier;;2a;Conc_1662;3/4;"b1 | \
+[baa3/2] d/ b a | \
+,,,,a3/2 ,c/ ,a ,,b | \
+,,a1 {a} ,,,,a | \
+[,,aa3] | \
+X,,b/ ,a c1 ,,,,,d | \
+',,,,,c1 ,,,,,a (d/ b | \
+d/) 'a"
+25;G dur;15r;Courante Espagniole;;Privé de deux beaux yeux;2a;Conc_1052;3/4;",,a1 | \
+'[,,aa{a}3] | \
+[,,,ca{,,,a}1] ',,,c3/2 ,,,e/4 ',,,a | \
+{,,a}1 ,,,,c [,ca] | \
+,c/ ,,a3/2 [,cb,,d1] | \
+,,,a1 [,cb] [,,aa{a}3/2] ,,,c/4 ,,,a | \
+,,,c1 {,,,a} ,,,,a | \
+[,,,ca3] ||"
+26;c moll;15v;Le tonbeau des Sarabandes par bemol;;;6e;;3/4;"[,,ca{4}1] [,,ca] [,a,,,c] | \
+[,,ca{4}2] '[,,,a{a}/] ,,,c | \
+,,,d1 [,,a,a] [,,c,c] | \
+[,,,b{,a}3/2] ,,,a/ [,,,a{,,a}1] | \
+'[,bc{4}1] a c | \
+[cba{,,a}1] ',b/ ,a ,,c1 |"
+27;g moll;16v;sarabande par bémol;;Belle rivière;6a;;3/4;"[,,,a{a}1] ,,,c ,,a | \
+'[,,,c{,,,a}3/2] ,,a/ {a}1 | \
+[,,,ab1] ,,,c ,,a | \
+'[,,c{,a}3/2] ,,a/4 ,,,c ,,a1 | \
+'[,,a{a}1] ,,c ,a | \
+[,a,,a1] (,b ,d/ ,b) |"
+28;g moll;17v;Courante par bemol;;;6a;;3/4;",a1 | \
+'[,aaa{a}3] | \
+X[,,c,,d3/2] ,a/ '[,,a{a}1] | \
+'[,,,c{,,,a}3/2] ,,a/ ',,,a1 | \
+,a1 ',c a | \
+'[caaaa1] e [a,,,a] | \
+[,c,,a1] [,cd,,a3/2] a/ | \
+,a1 ,,,,a {,,,a} | \
+[,aeca2] ||"
+29;G dur;18r;Prelude par pecard;;;2a;;none;"{a} [,,aa] ,,b ,,d {,a} {,,a} [,,dc] ',,c ,a {,,,a} \
+[,adca] ,,,,,d ',,,,,c [,aa] [,,bc,a] {a} [,,dca{,a}] \
+',,b [,,aaa{a}]"
+30;g moll;18v;Labour bonne par bemol;;;6a;;3/4;"[,aaa{a}3/2] ,b/ ',a ,,c | \
+'[,,aa1] '[,,c,,a3/2] ,,,d/4 ,,c | \
+,a1 ,,,,,b/ ,,c '[,,a,,d] ,,,c | \
+[,,,ab1] '[,,,ca3/2] ,,a/ | \
+[,,cd,a3/2] ',,a/4 ,,c [,a,,,b1] |"
+31;B dur;19v;Jandeniuelle par Bemol;Jean de Nivelle;;6a;;C;",,a/ ,,c | \
+,a1 [,a,d] [,a,a] ,,,c/ ,,c | \
+[,a,d1] ,,a/ ,,,c [,,aa] ,,,,d ,,,,b ,,c | \
+[,a,,a1] [,a,,,b] [,a,,d] {,a}/ ,,c | \
+[,a,,,b2] [,aadd1] ||"
+32;d moll;20v;Bominette;;;;;3/4;",a1 | \
+[,aaa{,,,a}3/2] ,c/ [,,a,,e1] | \
+[a,,,a1] '[,c{a}3/2] ,a/ | \
+'[,,e,,a1] ,,,e2 | \
+[,a{,,,a}1] '[,,aaa3/2] ,,c/ | \
+'[,,d,,a3/2] ,,,,c/ ,,,,d1 | \
+[,a,,,b3/4] ,,d/4 '[,,b{a}3/2] ,,a/ | \
+[,,aad{,a}3] |"
+33;D Dur;21v;Rocantin pecard;;p. 22r empty;2a;Conc_4453;C;"a/ b | \
+d1 ,,,,a [dcca,a3/2] b/ | \
+'a1 {,,,a} [,,dca] 'b/ d | \
+f1 {,,a} '[caa,c3/2] a/4 c | \
+d1 ,,,,,a [dccc2] ||"
+34;g moll;22v;Allemande de gautier sur Bémol;Gaultier;pp. 23v - 27r empty;6a;;C;",a1 | \
+'[,aaa{a}3/2] c/ '[b,,,a] ,a [f,,a] e/4 c | \
+Xe/ ,,,,a ,,,,,d ,,,,a [,a,,,Xb1] ,,,a/ c | \
+[,d,,a/] ,a ,,c ,a '[,,a{a}] ,,,c/4 ,,a ,,,a/ ,a |"
+35;d moll;27v;Sarabande;;le oeste sur becard, pp. 28v - 31r empty;;;3/4;"[,aa,a1] [,aa{,,,a}/] ,d ',c ,a | \
+'[,,e,,a1] {a} [,aaa{,a}] | \
+[,ce{,,a}1] [aa{,,,a}/] e 'c a | \
+[,cee1] ,,,,,a2 | \
+,a1 [,abc{a}1] ,,c/ {,a} |"
+36;C dur;31v;Sarabande;;le oeste sur bemol, pp. 32v - 36v empty;3a;;3/4;"[,,,acd{,,,a}3/2] [,,,acd/] [,,,acd1] | \
+[,,,cdd{,a}3/2] [,,,cdd/] [,,,cdd1] | \
+'[,,,a{a}1] [,,,a,c3/2] ,,,,d/ | \
+'[,,,,c{,,,a}3/2] (,,,,a/4 ,,,,c) ,,,,,d1 | \
+[,,,,dd{,a}1] [,,,,dd] [,,,a{,,a}] | \
+'[,,,c{,a}3/2] (,,a/ ,,b1) |"
+37;F dur;37r;sarabande par bemol;;;6f;;3/4;"[,,ccd{,a}3/2] ,a/ ',,,,,b1 | \
+[,aadd3/2] ,,c/ {,a}1 | \
+[,,ccd1] ',,,c {4} | \
+[,,,aad1] ',,,,c [,,,,d{,a}] | \
+[,,c,,a1] {,a}3/2 a/ | \
+[,a,,,b1] {a} [c,,,,c/] a | \
+[,c,,,d1] [,a{a}3/2] ,,c/4 ,a | \
+,,c1 {a}2 ||"
+38;G dur;37v;sans titre;;Sarabande, Marion pleure;2a;Conc_1050;3/4;"[,aa1] ,,,a ,,,c | \
+[,a,e1] {a} ,,,,,a | \
+[,cb2] {a}1 | \
+'[,aa2] {,,,a} | \
+d1 b a | \
+[aadca2] ,,,,,a1 | \
+{a}1 {,a} {,,a} | \
+'[a{,,,a}2] [b{a}1] ||"
+39;G dur;37v;sans titre;;Sarabande, Madame Françcoise;2a;Conc_284;3/4;"{a}1 [faa2] | \
+[faaa2] ,c1 | \
+[,cb,,d1] a b | \
+'[b,,,a3/2] a/ [b,,a1] || \
+{a}1 [baa2] | \
+'[a,,,a2] ,,,,,d1 | \
+,,,,,c1 ,,,,,a {a} | \
+'[a,,,a2] [b,,a1] ||"

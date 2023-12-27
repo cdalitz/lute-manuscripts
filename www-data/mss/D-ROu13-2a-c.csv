@@ -1,0 +1,75 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+;Faszikel 13,2a;Fascicle 13,2a;Lute Solo / Sonate ex e moll / di Daube;;;;;;
+1;e moll;a-1;Adagio;Daube;;;;C;",,h/4 g ,,g g ,,h g ,,h g [c{,,a}] ,e ,c {,a} {a}/ [,'c/4] \
+(,,c | [,,d,,a/]) [,,c{a}] [,,a{,a}/4] ,b [b,,,b] ,,a \
+[,,,cc/] [,,,'b,c] ,,,,,a/4 ,,d ,,c ,,a | "
+2;e moll;a-2;Cantabile;Daube;;;;3/8;"[,c{,,a}/] c ,c | [,'b,,,c/] ,,,,,a [,c{a}] | \
+[,,d,,a/] [,,c{a}] [,,a{,a}] | [,,,c{,,a}/] ,,,b/4 ,,,c \
+,,,,c/ | [,c{,,a}/] c ,c | b/4 (,b ,c1) | \
+,,,,,a/4 ,,d {a} ,,c {,a} ,,a | "
+3;e moll;a-4;Allegro;Daube;;;;C;",,c/ | ([,c{,,a}/4] ,e) c ,c ([,b{5}] ,c) b ,b \
+{,,a} (,c ,b) ,,d [,,'c/] [,,a{,a}] | \
+{a}/4 ,,c ,c ,,c {,a} ,b b ,b {,,a} (,c ,b) \
+,,d [,,'c/] [,,a{,a}] | "
+;Faszikel 13,2b;Fascicle 13,2b;Solo per il Liutho / ex F dur / del Daube;;;;;;
+4;F dur;b-1;Allegro;Daube;;;;C;",,d/ ,,b | [,,'a{,a}1] ,,,a [,,d{,,a}] ,c | \
+['a{,,,a}/] ,c a1 [,,d{6}/] ,a ,c a | \
+['c{5}/] (a c1) {4}/ ,c (a c) | ([e{,a}/] c) e1"
+5;F dur;b-2;Amoroso;Daube;;;;2/4;"([,,d{,a}/4] ,,b) ,,a ,,,c [,,,'a/] a | \
+[,c{4}/4] (a c/) {,,,a} a | ([c{,,a}/4] a) (,c ,a) ,,d \
+f (e c) | [e,d{,a}/] ['c,d] {4} ,c | "
+6;F dur;b-4;Cantabile;Daube;;;;3/8;"[,,d{a}/] ,,,,,a [,,b{a}/4] a | \
+[,,'a{,a}/] {5} [,,,c{4}] | \
+[,,,a{,,,a}/] a [,c{4}] | \
+[,'a{5}/] {,,a} [,,d{,a}] | \
+[,,'b{a}/] {4} [,,a{,a}] | \
+[,,'a{5}/] [,,,c{4}] ,/ | \
+,,,a/4 ,,a ,,d/ {4}/4 ,,b | "
+;Faszikel 13,2c;Fascicle 13,2c;di Daube;;;;;;
+7;d moll;c-1;Fantasia;Daube;;;;C;",,,,a/ ,a a ,a ,,,,,e ,c c ,c ,,,,a ,a a ,a ,,,,,a ,,e ,c ,,e \
+{a} ,,e ,c ,,e {,a} ,a a ,a {,a} ,a d ,a {,,a} ,a d ,a"
+;;;Sonata ex d moll;;;;;;
+8;d moll;c-1;Allegro;Daube;;;;3;"{,,,a}/ ,,a ,a ,,a {,a} e | {a}/ f {,a} e {,,a} c | \
+{,,,a}/ e (c a) ([,c{a}] ,a) | [,,'e,,a1] {a} [,a{,a}] | "
+9;d moll;c-2;Andante;Daube;;;;2/4;"e/ | [,aa{,,,a}/] [,aa{,,,a}] (3[,a{,a}/4] ,c ,d) \
+(3[,d{,,,a}] ,c ,a) | [,,'e,,a/] {a} [,a{,a}] [a{,,,a}] | \
+[,c,,,e/4] f [f{,a}] e ([e{,,a}] c) ([c{,,,a}] a) | \
+['a,,,,a/] [,c{6}] ,/ (,c/ | [,d{,,,a}/])"
+10;d moll;c-2;Tempo di Menuet;Daube;;;;3/8;"([,a,,a/4] ,c) ,d/ ,c | [,,'e,,a/] {a} [,af{,a}] | \
+[,c,,,e/] e c | ['a,,,a/] ,c/4 a ,a/ | [,c,,,a/4] e \
+[ed/] [cc] | [a{,,,a}/] ,c ,a | "
+;;;Lute Solo ex a dur / di Daube;;;;;;
+11;A dur;c-3;Entré;Daube;;;;3/4;",,,,,a/ ,,e ,,,,,a (,c/4 [,(a]) [,c){a}/] e | \
+{,,a}/ [,,,'d] {,,a} ,,c/4 ,,a [,,c{,,a}/] ,a | \
+{,,a}/ d {,,a} (g/4 e) [g{a}/] ,a | \
+[,a,,,a/] ,,e ([,,e{,,a}] ,,c) ([,,c,,a] ,,a) | "
+12;A dur;c-3;Allegro;Daube;;;;3/4;",,,,,a/ (,,c ,,e1) ,,e | [,,e,,a/] [,'a] ,c1 [,ce] | \
+,,,,a/4 (,e ,c ,a) ,,,,,e/ ,c ,,a [,a,,,c] | \
+[,,e,,a/] [,,c{a}] [,,e,,a1] [,,'c{,,a}] | "
+13;A dur;c-4;Arioso;Daube;;;;3/4;"[,,e,,a/] [,'a] [,ca{4}1] [e,c{,,,a}] | \
+['d,,c{,,a}1] {,a}/ ,e ([,c{a}] ,a) | \
+[,,e,,a/] ,,c [,a{,a}] ,,e [,e{,,,a}] ,c | \
+[,,,d{,,a}/] ,,a [,,'a3/4] ,,,c/8 (,,a ,,c1) | \
+[bba,,d1] [bb,,,c] [bbc,,a] | "
+14;A dur;c-4;Men alter;Daube;;;;3/4;",,,,,a/ e ,,a1 [,,a{5}] | ([,,a{4}/] ,,c ,,e) \
+(,a ,c1) | {,,,a}/ (e d) ,e ([,c{,,a}] ,a) | \
+[,,e,,a/] ,a (,,e ,,c) [,,#a1] | "
+15;A dur;c-4;Menuet 2;Daube;;;;3/4;"([,,a,,a/] ,,c) ,,d ,a ,c ,,a | \
+[a,,,a1] [a,,,,d] ,c | {,,,a}/ ,,,d ,,c ,a (,,d [,,(c]) | \
+[,,d),,a1] (,,c/ ,,d) [,,#a1] | \
+([,,c{a}/] ,,d) ,a (,,c [,,d,,a1]) | "
+16;A dur;c-4;Bourée;Daube;;;;C;",,,,,a/ ,,a/4 ,,,d ,,a/ {a} {,a} ,,a/4 ,,,d ,,a/ {,,a} | \
+{,,,a}/4 ,,e (,,c ,,a) [,,c{,,a}] ,a (,,e ,,c) [,,e,,a/] \
+(,,c/4 ,,e) [,,#a1] | "
+17;A dur;c-5;Harlequinade;Daube;;;;3;",,,,,a/ (e/4 d e/) [,,e{6}] [,'a{5}1] | \
+[,c{4}/] e [d{,,a}] ,e ([,c{a}] ,a) | \
+,,,,,a/ ,,e ,,c ,,e [,,c{a}] [,,a{,a}] | \
+([d{,,a}/4] b) (,c ,b) V,c1 {,,a} :| "
+18;A dur;c-5;Gigue;Daube;;;;6/8;",,,,,a/ (,c ,a) (,,e ,,c) (,,a | [,,c{a}1]>) {,,a} ,c \
+(,,,d | [,,,e{,a}1]>) {4} ,c [,e{,,,a}] | \
+{,,a}/ ,,,d ([,,'a] ,,c1) | \
+,,,,,a/ ,,e ,e [,,e,,a] [,,c{a}] [,,a{,a}] | "
+;;;Aria ex g dur del Sigr. Graun / de l'Opera di Cleopatra;;;;;;
+19;G dur;c-6;Allegretto;Graun;Sentir che me chiama infido et ingrato;;;3/4;,a1 | [,,,ca{a}1] (3,,,c/ ,,a ,,c)  (3[,,a{,a}/] ,,c ,,d) | (3[,,c{a}/] ,,d ,a) [,ac1] {a}/ c | (3[,e{,,,a}/] ,c ,a) (3,,,,a/ ,e e) (3{,a}/ ,,,e ,,d) |
+;;;Aria del'Opera de Tito ex c moll del Sigr. Hasse;;;;;;
+20;c moll;c-8;Un poco lento;Hasse;Se mai senti spirarti [suo] volto;;;3;[,,d{4}/] > ,a [,bd/] [,ac{a}] | [,,d{,,a}/] > d [cb/] [aa,,,c] | [,b,,,d/] ',a [,,d{b}] | [,,'c{a}/] {,a} {,,a}// ,,d | [a{,,,a}/] [,b{4}] [,a,,,c] | [,b,,,d/]  [,a{a}] [d{,a}] |

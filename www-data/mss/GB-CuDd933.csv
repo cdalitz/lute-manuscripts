@@ -1,0 +1,471 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1;;1v;JD. B of Musick;John Dowland;Pavan;OT;ConcR324;C;"[hf,f,a1] ,,,,h/ f [da,c,a1] c/ ,,d | \
+[,abc,a/4] c a ,e a ,,b ,,a ,,,c ,,,,c [,f,e] ,e ,c X,e/ ,,,,a |"
+2;;2v;[Pavan];;;OT;;C;"[hf,f,a3/2] f/ [df,,,a1] [c,,,c/] ,d | \
+[db,c/] ,a ,a [c,,a] [a,,,d] ,,d/4 ,,b ,,d ,a ,,,c ,,d | \
+[,df,c/] ,f c [hh]"
+3;;3v;D. B.;Daniel Bacheler;Galliard;OT;ConcR325;3;"[ha,,,a3/2] f/ d3/4 f/4 | h3/4 k/4 [l,,a1] f | \
+[if,h1] i/ [h,,f] ,i h | \
+[f,aa3/4] d/4 c/ [da,c] [a,b,d] ,,d |"
+4;;4r;D. B.;Daniel Bacheler;To Plead My Faith Galliard;OT;ConcR74;3;"[ffgha1] [dbbcd] [bdda] | \
+[a,dca3/2] a/ [da,a,d1] | \
+[if,ha3/2] [ff,d/] ,d f | \
+[ef,c1] ,,,,,a2 | [afg1] d3/4 ,,f/4 ,,g/ [ffd] |"
+5;;4v;Mr Birde Lullaby set by fr. Cutting.;William Byrd arr. Francis Cutting;;OT;ConcR679;C;"[,,b,ca3/2] ,,,c/ [,,b,ca1] [,,a{d}/] {c} | \
+[,da,c{a}1] ,,,,c/ ,a [,da1] [,ca,ac] | \
+[,,aa{a}/] ,a [,a{a}] ,,,,c [,a,a,c1] [,,e,e] | \
+[,abc{a}2] [,ab,ca3/2] ,,,c/ |"
+6;;5r;Only ioye;;;OT;;C;"[ha,,,a/] h k1 [ha,,,a/] h e1 | \
+[ea,,,a/] h [fc,,a] [ea,,,a] [ca,bc] ,,,,,c [aa,c,a1] | \
+[ha,,,a/] h k1 [ha,,,a/] h e1 |"
+7;;5v;My Lady Russells paven;John Dowland;;OT;ConcR152;C;"[ha{a}3/2] f/ [ea,,,a1] [ca{e}/] ,,d | \
+[,,c,,a/] ,a [a,dc{c}1] [,f,ec{a}/] ,e/4 ,c ,e/ ,,,,a | \
+[aa,c,e/] ,f/4 a [ccd,,c] e [fc/]"
+8;;6v;A fancy Jo Dow;John Dowland;Fantasia;OT;ConcR330;C;",a/ ,,,,c ,,,,e ,,,b [,a,c] ,,,a/4 ,,,,d \
+,,,,c ,,,,a ,,,,d ,,,,,c | \
+[,a,,,a/] ,,,,,d {d} ,,,,,a [,,d,,c] [,a,,,d] [,cd,,c] [,ea] |"
+9;;8r;A Galliarde fr: pilkington;Francis Pilkington;;OT;;3;",a1 | [,df3/2] ,a/ [,df] a | \
+[c,d1] [cab] a | [ccee3/2] ,,f/ ,,e ,,c | \
+[,cee1] ,,,,,c [c,da] | [da,c3/2] [c,,e/] [aab] ,c |"
+10;;8v;An Allmaine.;Francis Cutting;;OT;ConcR85;C;"[,,da{a}3/4] ,a/4 [,cdca/] [,dda] [abb,d3/4] ,d/4 ,b/ [,d,,c] | \
+[abd,a/] [cdda] [da,,,d] [ac,,a] [cdda] ,d [,dda] a/4 c |"
+11;;9r;An Allmaine fr. Cutting;Francis Cutting;;OT;;C;"[,,dca1] a/ [f,,,a] [aa,c1] a/ [,cd] | \
+[,dff/] [aa,c] [,cde] ,e [aacc1] [aac/] [,a,c/4] ,c | \
+[,d,,c/4] a [c,,a/] [a,,,e/] [f,,,a/4] ,,,c |"
+12;;9v;Paven fr Cutting;Francis Cutting;;OT;;C;"[hfff,a3/2] f/ [df,c] c [af] [cd/4] d | \
+[f,g,a/] ,,f ,,d [da/4] ,c [cd,,c/] [ab] [,ef] [,c,,a] |"
+13;;10r;Currante;;;OT;ConcR143;3;",d1 a | [bdda3/2] d/ b1 | [acd,a3/2] ,d/ [acd1] | \
+[,dd{a}2] ,,,a1 | [,dd2] f1 | [f,,d3/2] g/ f1 | \
+[d,,,d3/2] f/ d1 | [bbd,,b2] ,,,d1 |"
+14;;10v;Galliarde fr. Cutting;Francis Cutting;;OT;;3;"[ffg,a1] [ab,,d] [ca,a/] ,,d | [d,bc3/2] [c,de/] [aab] ,d | \
+[abd/] ,,b [f,,d] ,d/4 ,,g ,d1 | \
+,,,,,a/ [ha] ,,,g ,,,,,a [ha,g,a1] |"
+15;;11r;Galliard;;;OT;;3;"[,dda3/4] a/4 b/ ,d [add,a] ,c | \
+[,dda{a}3/4] ,,,,,a/4 [,,d,,b/] {a}/4 ,a [,b,,a/] ,,d | \
+[,d,,b3/4] a/4 b/ [,b,da] [d,e,,d] ,,,c |"
+16;;11v;A Pauen Mr Birde set to lute by fr. Cutting;William Byrd arr. Francis Cutting;;OT;;C;"[aabcca1] ,,,c/ [,da/4] ,b [,abcca1] d/ ,,,a/4 ,,,,d | \
+[,,,acd/] c/4 a [,d,,c/] [a,,,e] [cd,a{d}] \
+,,d/4 ,,b ,,a ,,b ,,d ,,a |"
+17;;12v;Pauan fr. Cutting;William Byrd arr. Francis Cutting;Bray Pavan;OT;ConcR88;C;"[dd{a}3/4] ,d/4 ,,d/ ,d [cdd{a}1] ,c/ ,a | \
+[acd,a1] [ac/] ,,,,,d [fdd,,c] ,,,,,a {a} d | \
+[cdda/] a/8 ,d a c [a,d,e3/4]"
+18;;13v;A Pauen Lushier;Lusher;;OT;;C;"[aaccca1] ,a/ a [ca,b1] ,a/ c | \
+[ef,,e/] h g e/4 g [he,e,h3/4] f/4 e/ c | \
+[cd,a/] c/4 e f/ [ef]"
+19;;14v;Cromatica pauana;Peter Phillips;;OT;ConcR327;C;"[,,dcef1] ,,,,,f [,a,a/] ,,,,,e/4 ,,,,,c [,,,c,e1] | \
+[,c,ca/] ,d [ac,c] [,a,,,e] [c,dc,c1] [,,ab] | \
+[ea,c,a/] f [ea,c] [c,,a] [a,,,e] ,,d [,,c,e] ,,d |"
+20;;15r;The Galliarde;Peter Phillips;Chromatic Galliard;OT;;3;"[,,dcef1] [,a,a] [,a,c,e] | \
+[,cdca/] ,,,c/4 c a ,d ,c ,a ,,d1 | \
+[acd,a/] ,,,,,e [c,dc,c1] [,,ab] | \
+[ea,c,a1] ,,,c/ f [ea] [c,,a] |"
+21;;15v;Daniell Bacheler;Daniel Bacheler;Galliard;OT;;3;"[,aa,c1] ,d [,ca,b] | [,aa,c1] ,,,a/ ,a [,,d,e1] | \
+[,,b,c/] ,,a X,,a ,,,,a [,a,,,d] ,,,c | \
+[,,ee,c1] ,,,,,c2 | [,dda3/4] a/4 Xc/ ,,,a c ,d |"
+22;;16r;Lushier;Lusher;Pavan;OT;ConcR331;C;"[abdca1] f [f,d,d] d/ b/4 a | \
+[b,d,a/] a [a,d,d] ,,b [,,dd/4] a ,d ,b [,a,d/] ,,d | \
+[aacc/] ,,,,,a ,,c/4 ,,a/8 ,,c"
+23;;16v;forlorne Hope fancye.  / Mr Dowland Bach of Musicke;John Dowland;;OT;ConcR332;C;",,,c2 ,,,b1 ,,,a | ,,,,e1 ,,,,d [,a,,c/] ,,,,e ,,,a ,,,,c | \
+[,,e,e/] ,,,e ,,d/4 ,,,c ,,,,e ,,,b [,,cc/] ,,,,,a \
+,,b/4 ,,,,,c ,,,,,d ,,,,a |"
+24;;17r;Hasellwoods Galliard Jo Dowland;Anthony Holborne arr. JD;Hasselwood's Galliard;OT;ConcR333;3;"[caa,c1] [aab,,a] [,da,c] | [,ca,,c3/2] ,c/ ,d a | \
+[cdda1] [acd,a] [,da,c] | ,,,,,c/ [,ce] ,,,e ,,f [,cee,c1] | \
+[fddef1] [dab,,d] [cdda] |"
+25;;17v;Mr Langtons galliard Mr Dow. Bach of Mus;John Dowland;;OT;ConcR334;3;"[aa,c,a3/4] c/4 e1 [e,,c] | [ea,c,a3/2] e/ [ccd,a] [a,c] | \
+[a,a,e/] ,,,c ,,,,c [,f,e] ,e ,,d | \
+[aac,,a1] ,,,c/ ,,d ,,c ,,a |"
+26;;18r;Scottish Jigge;;;OT;;none;"[i,,,a1] [h,,,,a/] a [f,,,a1] [e,,,,a/] a [f,,,a1] [e,,,,a] f/ [e,,,,a] [f,,,a] a | \
+[i,,,a1] [h,,,,a] i/ [h,,,,a] [i,,,a1] l/ ,i"
+27;;18v;Sr Fooke Greviles pauen. Fr. Cuttinge;Francis Cutting;Sir Fulke Greville's Pavan;OT;;C;"[cda,c3/2] [ac/] [,da,c1] [,ca,b/] ,,,c | \
+[,aaac/] [,c,c] [,da] [a,b,a/4] ,,,,,d [ccd,,c/] [e,f] [fc] ,e | \
+[df,c,a1] [cdd,,c/] ,c"
+28;;19v;Mr Knights Galliard J Dowla;John Dowland;;OT;ConcR326;3;"[,aa,c3/4] ,c/4 ,d/ ,a [,d,,c] [a,,,e] | \
+[caa{a}3/4] {c}/4 [c{d}/] [ca{a}] {d} [e,,,,a] | \
+[f,,e,c3/4] ,,c/4 ,,d/ ,,,e ,,d [ea{d}/4] c |"
+29;;19v;A Galliard. W: Th.;John Dowland;Galliard;OT;ConcR335;3;"[,dda3/4] a/4 [bd/] ,,,a [gd,f,d1] | \
+[fg,d3/2] f/ [dfgfd1] | [if,h,f1] [g,,f/] ,f [fg,d1] | \
+[dfgfd3/2] ,f/ [dfgfd1] | [fg,d1] [dfgfd] [bdda] |"
+30;;20r;Mrs vaux Galliard Jo Dowland Bacheler of Musicke.;John Dowland;;OT;ConcR304;3;"[,bdca/] ,d ,b ,,d [a,,,d] [c,,a/4] d | \
+[f,,,d/] ,,,,a [d,,c] ,,a/4 ,,b [bbd/] [a,b] | \
+,,d/4 ,a ,b ,d"
+31;;20v;Mrs vauxes Gigge Jo Dowland Bacheler of Musicke;John Dowland;A Coy Toy / Mrs Vaux's Jig;OT;ConcR336;3;"a/ | [ffg,a1] [abd/] [da,c1] [,bdd/] | \
+[b,,a/] [,dff] [b,,a] [ab,c3/4] ,,,,d/4 [,bdd/] | \
+[,d,a/] [,,dd] [,b,,d/4] ,,,a [,acc3/4] ,,d/4 [,acc/] |"
+32;;21r;Walsingham;John Marchant;;OT;ConcR87;3;"[da,,,a/] f [hd,f,d1] [fd,,f] | [da,c1] c/ a [,aabc1] | \
+[ddf,,d3/4] f/4 [hd,f,d1] [fddef] | [,aba,d3] | \
+[cdda/] d f1 [ha,,,,a] | [da,c1] c/ a [,aabc1] |"
+33;;21v;The Shomakers wife. A Toy J Dowland;John Dowland;;OT;;3;"[fh/] ,,,a [hi] [fh] ,,,a/4 [df] [cd/] | \
+[acd/] ,,,,a [,d,,c] [acd,a3/4] ,,,,,d [c,,,,c/] | \
+[da,c/] ,,,,,a [c,,,,c] [a,,,,d] ,,,,,a/4 ,d [,cd,a/] |"
+34;;22r;Dowland F.Cutting;John Dowland, arr. Francis Cutting;Galliard - end at bottom of f. 21v;OT;;3;"[,dddf1] ,d [a,d,e] | [bdda3/2] a/ [bdda] d | \
+[f,,,a1] [df,,d] [dda] | [acd,a3/2] [i/] [df,,d] f | \
+[gd,f,d3/2] [f,,,a/] [bd,,b] d |"
+35;;22v;[Pavan];Mathias Mason;;OT;Conc_4411;C;"[hf,g,a1] ,e/ [fd] [ed,,,a] ,a ,,c [cd,,,c/4] ,c | \
+[,a,,,e/] a [,acc,a] ,c [,e,,c] a c ,,,,a | \
+[,a,,,e/] a [c,d,,c/4] e f/ [ec,,,a] ,d"
+36;;23r;Mr Mildmays Galliard J D. [23r] / Dowlande plus in prima parte [94v];John Dowland;Battle Galliard / King of Denmark's Galliard / Mr Mildmay's Galliard;OT;Conc_4417;3;"[caa,,,a1] c c | [caa,,,a1] a/ ,e ,c a | \
+[,ea,,,a1] ,c/ ,a [,ca,,c1] | [,aa,c1] {a}2 | \
+[caa{a}1] h c |"
+37;;23v;[Pavan];Barick Bulman;;OT;;C;"[,dda3/4] ,c/4 ,d/ a [bdda3/2] [a,,,d/] | \
+[,d,,b/] ,,,a ,,,d ,,b [,cd,a] a [bd] [df] | \
+[fc,,a/] ,d ,c d [bd,c]"
+38;;24r;A Jig;;;OT;;3;"[,cd,a1] [,d,,c/] [acd,a1] [fc,d,c/] | \
+[c,,,c3/4] ,e/4 ,,f/ [a,,c,a3/4] ,a/4 ,,c/ | \
+[aa,c1] [c,,b/] [ea,c1] [f,d,e/] | \
+[h,,a/] [e,,c] a [ffh,a3/2] ||"
+39;;24v;[Pavan];;;OT;;C;"[aabcca1] ,,,c/ ,,a [aab,,a] ,,a/4 ,,,c [hha,g/] ,,f/4 f | \
+[,if,h3/4] ,h/4 ,f/ [,h,,f/4] ,i [ff,,d/] ,,,,c [if,h,f] h/4 f |"
+40;;25v;[The Sacred End Pavan];Thomas Morley;;OT;ConcR337;C;"[,dda3/4] ,c/4 ,d/ a [bdda/] d/4 b [a,d,e/] b/4 a | \
+[,dda1] f ,,e/4 f d ,g d f ,,e d |"
+41;;26v;Walsingham Marchannt;John Marchant;;OT;ConcR87;3;"d/ f [hd,f,d1] [fd,ef] | [ddf,,d1] [,df] ,,,,,d | \
+d/ f [hd,f,d1] [fd,ef] | [ddf,,d3] | \
+[cd,a/] [df] [fh1] [hii,,h] | \
+[da,c1] a/ ,,,,,c [,a,,,d] ,,,,a |"
+42;;28r;Allins Jigg;John Johnson;Gathering Peascods;OT;ConcR119;none;"[ha,g,a1] [ha,g] | [eff,,a1] h/ | \
+[f,,,,a/] h [ea] f [ca,,c1] [ea,,,a/] | \
+[c,d,a/] [a,d,e] [a,a,c] ,e [aac,,a2] || \
+a/ | [,ea,c/] ,a [,ea/4] [a,,,e]"
+43;;28v;Mrs Cliftons Allmaine Jo Dowlande;John Dowland;;OT;;C;"[aa,c,a3/4] c/4 e/ [ca,b] [ea,c] [fc,,a] [caa,c] {a} [caa] e/4 f | \
+[h,,,,e/] [f,,,a/4] e [caa,c] a [c{a}/]"
+44;;29r;Mignarda Jo Dowlande;John Dowland;;OT;ConcR263;3;"[acc,e3/4] ,e/4 ,c/ ,e [a,,,e] c| \
+[eeg,,e/] ,,,g2 h/ | [g,,,,e/] e ,h ,f [,e,,,e] ,,h | \
+[eeg,,e1] ,,,g2 |"
+45;;29v;Robin Jo Dowland;John Dowland;Robin is to the Greenwood Gone / Bonny Sweet Robin / Robin Hood;OT;Conc_4425;3;"[,da,c3/2] a/ [,da,c1] | [,cee1] ,,,c [,aaa] | \
+[f,,,e1] [c,,a] [haa,,h] | [ccee1] ,,,,,c2 | \
+[,da,c3/4] ,c/4 ,a/ c [,da,c] ,a |"
+46;;30v;[Ground];;;OT;;3;"[acd,a3/2] c/ d1 | [,daac3/2] a/ c1 | \
+[acd,a3/2] a/ f1 | [,cdca1] a [,da,c] || \
+[acd,a1] a/ c d1 | [,aaac1] ,d/ a c1 |"
+47;;31v;Collarde.;Edward Collard;Go From My Window;OT;ConcR42;3;",d1 ,,,a/ a c1 [acd] | [,dda3/2] a/ [,dd1] ,d | \
+[abd3/4] ,d/4 a/ [c,b/4] ,,a [da,c/] ,f [c,,,c/4] ,f ,e/ |"
+48;;32v;Mrs Anne Markh[am]s Paven fr Cuttinge;Francis Cutting;;OT;Conc_4424;C;"[aa,,a3/4] ,e/4 a/ [c,d] [da,c,a] \
+[caa{e}] [aab,,a] [,,da,c] | \
+[,dff,d1] [,bdca/] ,,b [,aacc] \
+,,,b/4 ,,,,e ,,,b ,,,c ,,d ,,,b |"
+49;;33v;Mrs Brigide fleetwoods pauen […] Solus sine sola Jo Dowlande;John Dowland;;OT;ConcR2423;C;"[ccd,,c2] [fc,e,c1] ,,,e/ e | \
+[ccd,,c3/4] a/8 c a/ ,c [,daa,c] ,c/4 ,d ,c/ ,,,c | \
+[,,aa/4] ,c ,a ,,d"
+50;;34v;Groninge Paven f C;Francis Cutting;;OT;ConcR338;C;"[abd,a3/2] c/ [da,c,a1] f/ ,,,,,c | \
+[ha,a,d1] ,i/ [,c,,a] [da,c] ,a [hff,,a1] | \
+,,,,c/ [fc] [ce1] [df,,,a1] ,a/ [a,,,a] |"
+51;;35v;Mr Birds;William Byrd arr.;Pavan;OT;;C;"[ffgha3/4] h/4 f/ z/ [abdca1] ,,d/ c | \
+[effcca1] [f,g/] ,,,,,c [ha,,ha] f/4 h [if,ha1] | \
+[,da,c/] h [h,ff,d1] [,b,ca/]"
+52;;36v;fr Cutting;Francis Cutting;Galliard;OT;;3;"[,de,,d1] ,,d/ ,,b [c,da1] | \
+[d,,,b/] ,,b [,ba,a] ,,,c [f,aa1] | \
+[gd,f,d1] [de,,d] [fc,,a/] d | \
+[cdda3/2] ,,,,d/ [dd,,b1] | \
+[fg,,a1] [gd,f,d] ,f |"
+53;;37r;Susanna Jigge;;;OT;;3;"[aab/] ,,,c [aab] [,ea,c3/4] a/4 [ca,,c/] | \
+[da,c/] a ,a [da,,,a3/4] f/4 [h,,,,d/] | \
+[f,,a/] ,h [ha,,,h] [ea,c] [a,,a] [fc,,a] |"
+54;;37r;Whip of Dunbain;;Cont'd after next piece;OT;ConcR339;3;"[,,e,,c/] ,c1 [,,e,,c/] ,c1 | \
+[,aa{a}1] ,a/ [,ea{a}3/4] ,c/4 ,a/ | \
+[,,e,,c3/4] ,,f/4 ,c/ [,c,,,c3/4] ,e/4 ,f/ | \
+[,e{a}1] ,a/ [,e{a}3/4] ,c/4 ,a/ |"
+55;;37r;The Clarke;;The Clerk;OT;;3;",,,a/ ,d ,,d [,a,,,d] ,,b [,a,,,d] | \
+[,d,a1] ,,d/ [,,aa1] [,,bc/] | \
+,,,a/ ,d ,,d ,a ,,b ,,,,,d | ,,,a/ ,d ,,d"
+56;;37v;Galliard J Dowlande;John Dowland;;OT;ConcR120;3;"[,bdca1] ,,d/ ,d [bd,a] c | [da,c,d1] ,,,,,a [ca,bc] | \
+[aa,c,d1] ,,,,,a/ c [da] f | [ca,,c1] ,,,b [dabc] |"
+57;;38r;J Dowla[nde];John Dowland;Lady Hunsdon's Puff;OT;ConcR53;2;"[,daa/] f f [hd,f,d] | [f,aa3/4] d/4 c a ,d/ | \
+[,dda/] f f [hd,f,d] | [f,aa/] d c [f,,a] |"
+58;;38r;de Jerr a mort;;De Guerre, A Mort;OT;ConcR954;2;"[aa,c,a1] [aa,c,a] | \
+[,cd,a1] [,cd/] [a,d,e] [,ea,c] [,a,,,e] [,c,,a] [,ea,c] | \
+[aac,,a1] [aac,,a] || [a,,,,a/] ,d a c a ,d ,c ,a |"
+59;;38v;[Monsieur's Almain];Daniel Bacheler;;OT;ConcR48;C;"[aa,c,a1] [aacc/] [a,d,e] [caa,c3/2] [,a,c,e/] | \
+[,cdca/4] ,e [aa,c,a/] [aaa,c] ,e/4 ,,d [aac,,a3/4] ,,,c/4 ,,c3/4 c/4 | \
+[ef,,,a/4] f h/ [fc,,a]"
+60;;40v;D Bac;Daniel Bacheler;Pavan;OT;ConcR321;C;"[,ea,c1] {a}/ [ac] [cef] ,a [eac1] | \
+[,a,c/] c/4 a [ca,b/] ,,d [,,cc] ,a [aaccca1] | \
+[,ea,c1] ,,a/ [,cc/4] ,a [,cee/] ,,a [fc,e,c1] |"
+61;;41v;farwell Jo Dowlande;John Dowland;Fortune Farewell Fantasia;OT;ConcR28;C;",a1 ,,,,c [,ab] ,,a/ ,,,c | \
+[,df1] ,,,,c/ ,,d [,daa1] ,,,,e/ ,,,,c | \
+[,abc/] ,,d ,,f1 ,,,b/ ,,a ,,d1 |"
+62;;42v;Curranta;;Brett's Courant;OT;Conc_3469;3;",,d/ | [,,da,c3/4] ,a/4 ,,d/ | \
+[,a,,,d/] [,c,,a3/4] ,a/8 ,c | \
+[,dba1] {a}/ | [,dda3/4] a/4 ,d/ | \
+[,cdca3/4] ,d/4 [,aa,c/] | \
+[,,d,,c/] [,,b,,d1] | [,,aa{a}1] ,,,a/ |"
+63;;42v;My la strangs Ro Johnson;Roberto Johnson;My Lady Strang's Almain;OT;;C;"a/4 c | \
+[da,c3/4] d/4 [ca,b3/4] c/4 [aa,c3/4] a/4 [,ea,c3/4] ,a/4 | \
+[haa{a}/4] k l/ [k,a/4] h k/ [haa{a}3/2] [hd,f/4] f |"
+64;;43r;[Courante de la Reine];Robert Ballard;;OT;ConcR341;3;",f/ | [ffgh/] i ,,,g | [if,h3/4] h/4 f/ | \
+[e,,,,a/] a i [h,f] [,fg] f | \
+[eff,,a3/4] a/4 [fdd/] [ddb,c] [b,,a] ,a |"
+65;;43v;[Fantasia];John Dowland;;OT;ConcR153;C;"h2 h1 h | [af3/4] c/4 d/ a [hf1] [df] | \
+[i,,h/] ,,f ,,g ,,,h [hf] ,i ,h ,f |"
+66;;44v;[Fancy];?John Dowland;;OT;;C;"h1 h/ h [ef] f [hf] [ef] | \
+[fc/] ,e [ef] ,c [cef] [ef] [cef] [,ef] | \
+[,ac/] a/4 ,,d [,ef/] c"
+67;;45v;Ro Johnson;Robert Johnson;Galliard;OT;Conc_4450;3;"[caa,c1] h [g,a] | [haa{a}3/2] f/4 d [cd,,c/] e | \
+[fc,,a3/2] c/ [,da,c] a | [cce,,c1] ,,,e2 | \
+[cdda1] [acdca/] c [,da,c] a |"
+68;;46r;Rosseter;Philip Rosseter;Galliard;OT;ConcR113;3;"[aa,c1] [aa] [aa,c,a] | [dabc3/2] ,,,a/ [a,,,d] ,,,a | \
+[,abc/] ,c [,dba1] [,,aa{a}/] ,b | \
+[,aba,d1] ,,b/ [,d,,c] [a,,,d] [,d,a] |"
+69;;47r;[Monsieur's Almain];;;OT;ConcR48;C;"[aa,c,a3/2] ,,a/ | [aaac1] [a,d,e] | \
+[caa,c1] {a} | ,,,,c1 [,ca,a] | \
+[ef,,,e3/4] f/4 h1 | [f,,,,a3/4] ,f/4 ,e/ f | \
+[eff,,a1] a3/4 ,,,,,a/4 |"
+70;;47v;[Galliard];Philip Rosseter;;OT;Conc_4431;3;"[aa,,,a3/4] h/4 [f,c,a3/4] d/4 [ca,,c/] a/4 c | \
+[aa,c,a2] [ha,,,d3/4] l/4 | \
+[f,aa/] h [df,,d] [f,,,a] [cef,c1] | \
+[da,a,d/] c [a,,,d] d [c,,,a] a |"
+71;;48v;Rosamund [cropped];John Danyel;;OT;ConcR156;2;"[ccdeec3/2] e/ | [fc,e,c1] [ec,,,b/] [,ac] | \
+[ccd,,c/4] ,,,e [c,d/] [aac,,e3/4] ,d/4 | \
+[,cdca/] a [aa,c,e] ,c | [,da,,c/] ,,c [,cd,a] ,d/4 a |"
+72;;49v;Jo Da;John Danyel;Pavan;OT;;C;"[fcdca/] [ea/4] c [aad/] [cec/4] ,,a | \
+[ef,c/] ,d/4 ,c [fa,e/] ,,d | \
+[ha,f/] ,f [kf,h] l/4 k |"
+73;;50v;fortune;John Dowland;Fortune Farewell Fantasia;OT;ConcR28;C;",a1 ,,,c [,ab] ,,a/ ,,,c | \
+[,df1] ,,,,c/ ,,d [,baa1] ,,,,e/ ,,,,c | \
+[,abc/] ,,d ,,f1 ,,,b/ ,,a ,,d1 |"
+74;;51v;Responce. A Holburne.;Anthony Holborne;;OT;;3;"[,accca1] a [ca,b{a}] | [ea,c,a1] ,c [ced,,c] | \
+[aa,c,e1] [ccd,a] [ca,bc] | [a,c,e/] ,,,c ,,d ,,c [caab1] | \
+[ea,c/] a [f,a] e [ca,b1] |"
+75;;52r;Butts.;;;OT;;2;"[ea,,,a1] h | [caa{a}3/2] e/4 f | h/ [f,,,,c] [e,,,c] c | \
+[aac,,a3/2] e/ | [c,,,,c/] ,f ,e ,c | [,ea,c/] ,a ,a ,,,,,e |"
+76;;52v;[The Gordian Knot;Anthony Holborne;;OT;Conc_4408;C;"d/ f | [hd,f1] ,,,,,d/ h [fh,a] h [df,,,a] f | \
+[caa,c1] {a}/4 d c a [caa{a}1] ,,,,c/ [ca] |"
+77;;53r;Curranta;;;OT;;3;",a/ ,c | [,da,c3/4] a/4 ,d/ [,ca,b] [,aa,c1] | \
+[cce,,c1] ,,,e/ [cce] ,a ,c | [,da,c/] a ,d [acd,a] ,d a |"
+78;;53r;Curranta;;;OT;;3;",,d/ | [,dd{a}/] a [bd,a] | \
+[a,,,a/] [,d,,b1] [,cdca/] a/4 ,d ,c ,a | \
+,,d/4 d [b,,a] [abb,d/] [,d,,b/4] | [,b,,a1] [,,ea,d/] |"
+79;;53v;[Monsieur's Almain];Daniel Bacheler;;OT;ConcR48;C;"[aacc/] ,,,,,a ,,,c ,,,b/4 ,,,,e [caa,c/] {a} ,,,,c ,,,,a | \
+[e,,,,e/4] f h/ [f,,,,c] ,e [eff,,a] a [af1] |"
+80;;54r;[duet treble];;;OT;;C;"e/4 f h/ e a a/4 c e/ a ,c | \
+,e/4 a c/ ,e ,a c/4 e f/ e c |"
+81;;54v;Curranta;;;OT;;3;",,d/ | [,dda3/4] a/4 ,d/ [acd,a3/4] ,d/4 a/ | \
+[cdda1] {a}/ ,,,a3/4 d/4 f/ | \
+{a}3/4 d/4 c/ [acd,a3/4] ,d/4 a/ |"
+82;;55r;Curranta;;;OT;;3;"h/ d f | [fggd/] d f [fggd] d f | \
+[,gdd/] d f [dgf,d1] [b,,a/] | \
+[bde,b/] [abb,d1] [bbd,,b/] d [f,,d] |"
+83;;55r;A Toy;;;OT;;3;",,d/ ,d a | [c,,a3/4] a/8 c ,d/ | \
+f/ ,c ,a | [ac,,a/] ,,d1 | c/ d f | \
+[hd,f/] ,,,,,d [a,,,a] |"
+84;;55v;Volte;;;OT;;3;"f/ ,g [df] | b/ ,,,a/4 ,,,c ,,,d ,,b | \
+[a,d3/4] b/4 [,de/] | [,cd/] ,,,,a [,,dc] | \
+[,,d,,b/] [,,b,,d] [,,,d{a}] |"
+85;;56r;sans titre;;;OT;;3;",f/ | [,fgf3/4] ,d/4 ,f/ | ,,g/ ,f ,,g | \
+d/ {,a} ,,,,d | [dfg/] ,f ,g | [dfg/] f h |"
+86;;56v;Currant;Julien Perrichon;Courant Le Testament;OT;ConcR309;3;",,d1 | ,d1 ,,,a [a,,,e] | [b,,a3/2] a/4 b ,d1 | \
+f1 ,,,a {a} | [fgi3/2] d/ b1 | [dbb,d3/2] ,,,,b/ [f,,,a1] | \
+[gd,f,d1] [fg,d,,d3/2] d/4 f |"
+87;;56v;Currant;;;OT;ConcR143;3;"b/ | [bdda3/2] d/ b/ | [acd,a3/2] ,d/ a1 | \
+[,dda{a}1] ,a/ ,c ,d a | ,d2 f1 | [f,,d3/2] g/ f1 | \
+[d,,,d3/2] f/ d1 |"
+88;;57r;Curranta;Charles Bocquet;Courant / Volt;OT;ConcR311;3;",,d1 ,,a ,,,a | ,,d1 ,,,,a ,,,,,c | [,,da{a}1] [,a,,,d/] ,c ,d a | \
+[,c,,a3/2] ,a/4 ,c [,d,a1] | c1 [a,,,e/] c d f |"
+89;;57v;[Courante];;;OT;ConcR343;3;",b1 | [f,,a2] [d,,c1] | [c,,e2] [h,,f1] | [ff,h3] | \
+[ca3/2] d/ [f,a1] | [d,b2] [c,,a1] | [a,,,e2] [,d,,c1] | \
+[a,,,a/] ,d ,c ,a ,,d1 |"
+90;;57v;?Pastoral;;;OT;;C;"[f,,e1] ,,,a [e,,c] ,,,,e | [c,,a1] ,,,,c [a,,,e] ,,,,a | \
+[c,,a1] [a,,,e] [c,,a] [e,,c] | [fcd,a1] e/ c [acdca2] ||"
+91;;57v;le ballet des folles;;;OT;ConcR142;C;"f1 | [fda{a}3/2] d/ c a ,d1 | f/ ,,,a ,,,,c ,,,,e ,,,a1 ,i/ f | \
+[h,,,f1] [fdde] [ddff] [cdda] |"
+92;;58r;Currant;;;OT;;3;"a/ | [a,,,e3/4] c/4 e/ | [c,,a1] [e,,c2] | \
+[fc,,a2] [fc1] | ,,,,a1 h f | [e,,c2] [c,,a1] | \
+[a,,,e1] ,,,,c ,d | [,cde2] [,d,,c1] |"
+93;;58r;Volta;;Brett's Courant;OT;Conc_3469;3;"[,dda/] | [,dda3/2] a/ [c,,a1] | ,d1 f [c,,a] | \
+[a,,,a1] ,d/ ,c ,a ,c | ,,d1 [,dd,a3/2] a/4 ,d | \
+[,cdca1] ,a/ ,c ,,d ,a |"
+94;;58v;Volte;;;OT;;3;"[,dda2] | [,cdca3/2] a/ [,da,c1] | [a,d,e3/2] d/ [c,,a1] | \
+[acd,a2] [,dda{a}] [da,c,a] | [cdd,,c3/2] a/ [,d,,,d] a | \
+c1 [a,,,a3/2] ,d/4 a |"
+95;;59r;Currant;;;OT;;3;"f1 {a}/ d b a | [b,,a1] a/ b ,d1 | ,,d3/2 ,,b/ ,,,d ,,,c | \
+[,,,da{a}1] ,,,c/ ,,,d [d,,a1] |"
+96;;59v;[Galliard];William Byrd arr.;;OT;ConcR274;3;"[,dda3/2] a/ b1 [acd] | [,ddd1] ,,,a/ ,d [acd1] | \
+[,ddd1] [dc,c] [bdda] | [acb3/2] ,b/ [f,dd1] | \
+[dd,c1] [ac] [bdda] |"
+97;;60r;[Galliard];;;OT;;3;",,d3/4 ,a/4 ,b/ ,d [abd] d | \
+[bdda3/4] ,,,c/4 ,,,d/ ,,b [a,d] ,b | \
+[,de3/4] ,,d/4 [d,b/] ,,,d [d,,c] [b,,a] |"
+98;;60v;[In Nomine Galliard];Nicholar Strogers;;OT;Conc_4416;3;"[,,dca3/4] ,a/4 [,cdc1] ,,,,a | \
+[,cd,a3/4] ,d/4 [acd1] ,,,,a | \
+[a,,,a/] c/4 e f1 ,,,,a/ f | \
+[eff,,a1] [aac] ,,,,,a |"
+99;;61r;Tauerners In n[o]mi[n]e;John Taverner arr. Nicholas Strogers;;OT;ConcR224;3;"a2 a | [da,c2] [da,c1] c | [a,b2] [,db] | \
+[,b,c1] ,a ,,,c ,,b | [,abc1] ,b [,abc] ,,a | \
+[,,bc2] [,,bc,a1] ,,d |"
+100;;61v;[Galliard];;;OT;;3;"[,dda{a}2] [,dda{a}] [,dda{a}3/2] ,b/ | \
+[,aba,d3/2] ,,d/ [,aba,d] [,cd] | [,da,c1] [,ddca] ,c | \
+[,dda{a}3/2] ,c/ ,d a | [,dda{a}1] [,dda2] |"
+101;;62r;The fairy rownde;Anthony Holborne;Fairy Round Galliard;OT;ConcR318;3;"[hf,g,a1] [ea,c/] a ,,d ,c | [ccde1] [,ea,c/] ,a ,,,c a | \
+[,cd,a1] [,,d,,c/] c ,,,,c/4 a [,ea/] | [aac,,a/] ,d [,cd,a]"
+102;;62v;[What if a Day or a Month or a Year;?John Dowland;;OT;Conc_4421;2;"[,,dca/] ,,c/4 ,,d [,acc,a/] ,,d/4 ,a | \
+[,bd,a/] ,d/4 ,b [,acc,a1] | \
+[,bd,a/] ,a/4 ,b [,db,,d/] ,b/4 ,d | \
+[ab,,d/] a [,dda] [,bd,a] |"
+103;;62v;Mall Sims;Johan Leo Hassler;;OT;Conc_4432;2;"[,abc{a}1] d | [caa{a}1] ,a/ h | \
+[f,,e/] [d,,c] [c,,a] [a,,,e] | \
+[,e,,c/] ,a ,a1 | [d,,c/] a [c,,a] [,abc] |"
+104;;63v;[The Leaves be Green the Nuts be Brown, duet treble;John Johnson;;OT;ConcR281;3;"a1 | d3/2 a/ c1 | [af2] a1 | d3/2 a/ c1 | [af2] a1 | \
+d3/2 f/ h1 | f2 d1 | c3/2 d/ a1 | ,d2 c1 |"
+105;;64v;Currant;;;OT;;3;"f1 | [ffgh3/2] h/ i1 | [he,g2] [ffgh1] | [effc3] | \
+f1 ,,d/ ,a ,b ,d | [d,,,d3/2] b/ a1 | \
+[,db,,d3/2] a/ [,bd,a] | [,acc,a2] h1 |"
+106;;64v;[Courant];;;OT;ConcR344;3;",d1 ,,,a [a,,,a] | [bdda1] a/ b ,d b | \
+a1 ,,,,a ,,,,c | [a,,,d1] [,d,a] ,b | \
+[,a,c3/2] ,b/ [,,d,d1] |"
+107;;65r;[Courant];;;OT;ConcR345;3;"f1 | [f,,a3/2] g/ f1 | ,d1 {a} l | [if,h2] [h,,,h1] | \
+[fg,d2] [d,,,d1] | [b,,a/] a b d f1 | ,,,,d1 [,d,,b] d |"
+108;;65r;sans titre;;;OT;;3;"f/ d1 [bdda3/4] a/4 ,d/ | \
+[a,,,d/] ,,,,b [b,,,a] [d,,,,d/4] ,g d f g d | \
+[f,,a{a}/] ,d [bdda] [a,,,d] [bd,,b] d |"
+109;;65v;Edw: Collarde;Edward Collard;Pavan;OT;;C;"[da,c,a1] ,,,c/ [c,d] [aabcca] ,,a [aab] ,,,,,a | \
+[,efec/] ,c ,e a [cdf] ,,,,c [dff,,d] ,d | \
+[cbd,a/] ,a [,efec1]"
+110;;66v;Galliarde A Holburne;Anthony Holborne;Master Mathias's Galliard;OT;ConcR66;3;"[,bd,a1] f [dd,,c/] c | [abbcd3/2] ,a/ ,,d ,,b | \
+[,bdcd1] a [,dfa/] [,bd] | [,acc1] [,accca2] | \
+[aabc1] d [cd,ac] | [a,dcd] ,b [,dfa] |"
+111;;67r;Wanton. A H/;Anthony Holborne;Wanton Playfellow;OT;ConcR240;3;"[acd/] ,d/4 a [c,,a/] ,,,,c/4 a ,d ,c [,acc/] | \
+a/ ,,,e/4 ,a [,ed/] [aacc1] ,d/ | \
+[,cd,a/] a [cd] [ac] ,,d [,dfa] |"
+112;;67r;G[…];;;OT;Conc_4502;C;"[cdda/] a/4 ,d [,cdca/] [,d,a,c] [a,,,,d/4] ,d [a,,,a/] [,dda3/4] a/4 | \
+c/4 ,,,a a ,d [,cdca1] ,a/4 ,c [,d,,,c/] a c |"
+113;;67v;Wallsingham Jo Dowland;John Dowland;Walsingham;OT;ConcR87;3;"[ddf,,d/] f h1 [f,aa] | [ddf,,d1] [,f,,d] [,,f,,d] | \
+[ddf,,d/] f h1 [f,aa/] h | [ddf,,d1] ,,,f2 | \
+[cdda/] d f c [hd,f,d] ,,,e |"
+114;;68v;L[o]th to d[epar]te [Jo Dow]land;John Dowland;Loth to Depart Galliard;OT;Conc_4444;3;"[caabc1] [ca] [caabc] | [caabc2] [haa{a}1] | \
+[f,aa3/2] h/ [da,c1] | [caabc3] | [aabcca3/2] c/ [da,c,a1] | \
+[caabc2] [abbcd1] | [hd,f,d1] [f,aa] [dabc] |"
+115;;70r;Countess of Penbrookes Paradice;Anthony Holborne;Pavan;OT;ConcR346;C;"[fc,ca1] ,f/ e [c,d,a] ,d [ac] [,ac] | \
+[,,dea/] ,d [,d,c] ,,,a [,ddca] ,c/4 ,a [ac/] ,,a |"
+116;;70v;Dan Bach;Daniel Bacheler;Pavan;OT;ConcR176;C;"[caa{a}3/2] a/ [,da{a}] ,a [,d,e1] | \
+{a}/ [,c,c] [,a,a] [,,e,e] [,aff] ,d ,f [ad,e] | \
+[d,,c,d/] ,,,a/4 c [a,b/] ,d/4 ,,a"
+117;;71v;Image of Melancholly;Anthony Holborne;;OT;ConcR347;2;"[fcdca1] {,,a}/ [ea/4] c [ac,ca/] ,,c/4 ,,,e ,,,c/ [ca,a/4] ,,d | \
+[ec,c,a/] ,a/4 ,,,a [fc,ca] ,a ,c/ [,d,ac] e/4 c [ed/] ,,,c |"
+118;;72v;[Whip of Dunbain];;;OT;ConcR339;C;"[,ea,c/] c1 [,ea,c/] c1 | \
+[aa,,,a1] a/ [ea,,,a3/4] c/4 a/ | \
+[,ea,c/] c ,a [,ea,c] c ,e | \
+[ef,,,a/] h ,f [ea,,,a3/4] c/4 a/ |"
+119;;73r;[The Sick Tune];;End at bottom of f. 72v;OT;ConcR313;C;"[aa,c/] a [da,c1] [,aa,c/] ,a [ca,,c1] | \
+[aa,c/] a [da,c] [f,,,a] [caa{a}1] [aac,,a/] ,,,c | \
+[aa,c/4] ,d a c [da/] ,,,c [,aa] ,,,,c [ca1] |"
+120;;73v;[Captain Digorie Pipers' Galliard];?John Dowland;;OT;ConcR61;3;"[aa,c,a1] d i | [h,,,h1] ,,,f/ h [f,g1] | \
+[da,c,a1] ,,,,,d/ d [c,d,d] a | \
+[,efec3/2] ,,,,a/ [,a,c,e1] | \
+[abd,a/] ,,,,,d [c,,,,c] ,f ,d f |"
+121;;74r;fr Cutting;Francis Cutting;Galliard;OT;ConcR314;3;"[f,,,a/] h i1 [f,,,a] | [da,c/] ,,a ,,b1 [abd] | \
+[cdda3/4] d/4 [f,,,a/] ,a ,b ,d | [eff,,a1] a ,,,,,a |"
+122;;74v;R Johnson;Robert Johnson;Galliard;OT;Conc_4450;3;"[caa{a}1] h [g,a] | [haa{a}3/2] f/4 e [ce,,c/] e | \
+[fcd,a3/2] c/ [,da,c] a | [cce,,c1] [ccee2] | \
+[cd,a1] [ad,,c/] ,c [,da,c] ,a |"
+123;;75r;Mathias;Julien Perrichon;Volt / Courant;OT;ConcR129;3;",d/ | b3/4 d/4 f/ b ,,,a [,d,d] | \
+[a,b/] ,d [,cd] [,dda] {a} f | \
+[f,dd/] [d,,c] [b,,a] [a,,,cd] [,d,db] ,,b |"
+124;;75v;Mr Mathias;Mathias Mason;Courant;OT;ConcR348;3;",,d/ | ,d/ a [b,,a] | [dde,,d/] ,,,,a [,d,b] | \
+[,cdca1] {,,a}/ | ,,,,a/ ,d [acd] | [bdda/] a [,d,d] | \
+[aa,c/] [,ad] [,dc] |"
+125;;76r;Jeremy Chamb[er]laine;;Almain;OT;;C;"[caa{a}/] h g e | [c{a}3/4] a/4 [,ea{a}3/8] a/8 c/ | \
+[ea,c,a/] c [,ca{a}] [aa,c,e] | [cce,,c/] ,,,e [cce1] | \
+[,ea{a}/] c [a,,,,a] ,a |"
+126;;76r;Jer Chamb[er]laine;;;OT;;3;"[ea,,,a3/4] f/4 h/ ,,,,,f ,,,,,e ,,,,,a | \
+[f,,,,c/] ,e [ea,c,a] [c{a}] ,e ,a | \
+[aa,,,a/] c e ,,,,,a [c,f,,c] ,,e |"
+127;;76v;fantazia;;;OT;ConcR491;C;"f2 g1 d | f1 b d f | ,d/ d b a/4 b [df1] ,b | \
+[bd1] ,,e [ab] [bd/] d/4 b |"
+128;;77r;Jiggy Joggy;;;OT;;3;",d/ | [,cd,a3/4] ,d/4 a/ [,,dca3/4] ,a/4 ,c/ | \
+,,,a/ ,d ,,d [,,aa{a}1] ,d/ | \
+[,cd,a3/4] ,d/4 a/ [,,dca3/4] ,a/4 ,c/ |"
+129;;77v;Mr Tallis his Offetory;Thomas Tallis arr.;Offertory (Prelude);OT;;C;",,,c1 ,,,,f ,,,c/ ,,,,,c ,,,,,d ,,,,a | \
+[,,,ac/] ,,,,d/4 ,,,,c ,,,,d ,,,,c ,,,,a ,,,,,d \
+[,,,a,c/] ,,,,,a ,,,,,c1 |"
+130;;78r;[Offertory];Thomas Tallis arr.;;OT;;C;"[,,b,a/] [h,,,,d] h ,,,h/4 f [d,bc3/4] [c,,a/4] [a,,,d3/4] ,,,,c/4 | \
+[,,a,a/] f f ,,,a/4 a [ca,a/] a/4 ,,,,d [,d,,c/] b/4 ,,,,a |"
+131;;81v;Jo Singer;Jo Singer;Singer's Jig (band);OT;ConcR98;C;"[abc,d/] d d d [dba,d] d c a | \
+[f,,,a1] a/ [f,,,a1] a/ | [aba,d/] d c a [,dca] ,b [,abc1] |"
+132;;81v;Grimstock;;Bandora;OT;ConcR323;3;"[f,,,a1] a/ [f,,,a1] [a,,,e/] | \
+[c,,a3/4] e/4 f/ [e,,c1] a/ | \
+[,c,,a3/4] ,d/4 a/ [c,,a1] [a,,,e/] | \
+[,d,,c3/4] a/4 [,c,,a/] [,abc1] a/ |"
+133;;81v;The shepherd;;Bandora;OT;;3;",,c/ | [abc,a/] [abc] [abc] [ab,,d3/4] ,d/4 [ab/] | \
+[bdca1] [bdc/] [bbcd1] d/ | \
+[fff,a1] [aba,d/] [bdca3/4] d/4 [f,,,a/] | \
+[aba,d1] [bdca/] [acc,a2] :||:"
+134;;81v;Robin Houd;John Dowland;Bandora;OT;ConcR22;3;"[,dca3/4] a/4 b/ [ab,,d] b d | \
+[b,,a3/4] a/4 ,d/ [,c,,a1] ,,c/ | \
+[,dca3/4] a/4 b/ [d,,,d1] a/ | \
+[bdca1] d/ [f,,,a1] ,,c/ |"
+135;;82r;Jo Johnsons Allmaine;John Johnson;Gathering Peascods (bandora);OT;ConcR119;C;"[fd,e{a}1] [fd,e{a}/] [fd,e{a}] [cdc{a}3/2] [f{a}/] | \
+[dde,,a3/4] f/4 [cdc{a}3/4] d/4 [acc,a1] ,,c/ c | \
+[aa,,,a/] [,da,c] [adc,a] ,c [,dca1] {a} ||"
+136;;82r;Bony sweet boy;;Bonny Sweet Boy (bandora);OT;;3;"c/ | [f,,,a3/4] h/4 f/ [a,,,a] ,b ,,c | \
+,,,,,a/ [,aa] d [ab,,d1] a/ | \
+[f,,,a/4] e f h f/ [a,,,a] ,b ,,c |"
+137;;82v;The Spanish Paven;Francis Pilkington;;OT;Conc_4343;C;"[,,dca1] ,b ,a ,,d | [,acc,a2] ,,,c1 ,,a | \
+[,acc1] ,,d [,a,c] ,,c | [,,dca3/2] ,a/ ,b1  [,a,,c] | \
+[,,d,d1] [,,aa] [,,bc] [,,de] |"
+138;;83v;[Almain The Lark];;;OT;ConcR349;2;"[dab,,d1] [cdda3/4] a/8 c | [d,f,,d/] ,,b ,,,,,d [ab,,d] | \
+[,da,c/] ,,,,a/4 ,b [,a,a/] ,,d | [,a,,,d/] ,,b ,,,,,d1 |"
+139;;83v;[Almain];;;OT;;2;"f/ | [ea,,,a3/4] f/4 [ea,,,a3/4] f/4 | \
+[ea,,,a3/4] f/4 h/ e | [f,,,a/] a a ,c | \
+[acd,a3/2] ,c/ | [,aa,c3/4] ,a/4 ,d3/4 ,d/4 |"
+140;;84r;A Jigge;;;OT;ConcR287;3;"[aa,c,a3/4] d/4 c/ a ,,,c ,,,,,a | \
+[,,b,,a3/4] ,,d/4 ,,b/ [,,a,,a1] ,,,c/ | \
+[,,b,,a3/4] ,,d/4 ,a/ [,c,,a3/4] a/4 [,ea,c/] | \
+[aa,c1] ,,,,,a/ [aa,c,a1] a/ :||:"
+141;;84r;Mr Southcote Galliarde;?Anthony Holborne;;OT;ConcR73;3;"[abdca1] f/ ,,d [da] ,b | [bdda1] ,d/ d b a | \
+[,dff1] [da/] ,,,,,d [bb,,a] ,,,,c | [ab,,d3/2] b/ a ,d |"
+142;;84v;Fantazia;Anthony Holborne;;OT;ConcR259;C;"h2 h1 h | e3/2 f/ h1 k | ,f/ h/4 k h/ f [ef] f h1 | \
+[fc3/2] ,e/ [ef] h f e |"
+143;;85r;Jigg;;;OT;;3;"h/ | l1 k/ h1 h/ | l1 k/ h3/4 f/4 d/ | \
+[cd1] [ac/] [,ef3/4] ,,d/4 [,,b,c/] | \
+[,,aa1] [a,d,e/] [,ea,c3/4] ,,,,a/4 [aa,c,e/] |"
+144;;85v;Division to Ja Gall:;Francis Cutting;Division to James' Galliard - f. 86r empty;OT;;3;",,b/4 ,a d ,,d ,a c ,,b d ,,f a ,e c | \
+[a,,,,a/] ,,,c/4 ,,,b [,a,c] ,,a ,,b ,,d ,a ,,b ,a ,c |"
+145;;86v;fancy;;;OT;ConcR350;C;",a2 c | c1 ,d [d,,c2] | [ca3/2] a/ [c,f] ,d [d,b1] | \
+,b/ c a1 [,,f,c] ,d | [,cde1] a/ ,a [fca] d [cd,a1] |"
+146;;87r;[Courant de la Reine], fragment;Robert Ballard;;OT;ConcR341;3;",f/ | [ffgh/] h ,,,g [if,h3/4] h/4 f/ | \
+[e,,g,a/] a i [h,f] [,fg] f | \
+[eff,,a3/4] a/4 [fd,d/] [db,c] [b,,a] ,a |"
+147;;87v;[Almain Robinson's May];Thomas Robinson;;OT;ConcR351;C;"[a,,,a3/4] ,d/4 [,c,,a/] ,,d [,dda] [,acc] [,cd,a] ,,d | \
+[c,,a/] c/4 c [a,,,e/] [,c,,a] [,adc] ,,c [,,dca1] |"
+148;;87v;[Almain];;;OT;ConcR352;C;"[aa,,,a/] ,d/4 ,c ,a/ [a,,,e] [,dda] [,acc] [ac,,a] ,,d | \
+[aa,,,a/] ,d/4 ,c ,a/ [a,d,e] [c,,a] [ea,c] [fcd,a1] |"
+149;;88r;[Lord Zouche's Maske];;;OT;ConcR289;C;"[,acc1] a [,,c,,a3/4] ,,d/4 ,a1 | \
+[a,,,,a/] ,a [,c,,a] [,a,,,e] [,,c,,a] ,a [ea,,,a1] | \
+[,aa,c3/4] ,c/4 ,e a c/ [,,dca3/4] ,a/4 ,c ,d a/ |"
+150;;88r;[Almain];;;OT;;C;"[f,,,a/] d [c,,a] [a,,,e] [,dda] [,cd,a] [,,cc] ,a | \
+[,c,,a/4] ,d a/ [,e,,c/4] a c/ [aa,c] [,ede] [aacc] ,,,,,a ||"
+151;;88v;R. Askue;R Ascue;Galliard, duet treble;OT;;3;"d1 c/ d a c | ,e/ ,a ,e a c a/4 c | \
+d/ c a/4 c d/ c a |"
+152;;89r;fortune;John Dowland;Fortune My Foe, duet treble;OT;ConcR28;2;",a/ ,,c/4 ,,e ,a ,,e ,a ,c | \
+,d/4 ,a/8 ,c ,d ,c ,a ,c ,d a c d |"
+153;;89v;[Malt's Come Down, duet treble];;;OT;;3;"[,,d,a3/4] ,a/4 ,c/ [,c,,a] ,d a | \
+[,d,a/] a c [c,,a] d f | \
+[d,,c/] a [c,,e] [a,b] ,d [,cd] |"
+154;;90r;[Almain];;;OT;ConcR121;C;"[,aa,c1] ,d | [,c,,b/] ,,a ,,a1 | \
+[,aa,c/] ,c ,d [a,,,,d] | [ccee/] ,,,,,c [cce1] | \
+[,aa,c/] {a}/4 ,c ,d/ ,c/4 ,a |"
+155;;90r;[My Lord Chamberlain's Galliard, for two to play on one lute, treble];John Dowland;;OT;ConcR353;3;"h3/4 k/4 l/ h l1 | [f,,,a3/2] h/ f1 | \
+i3/4 h/4 f/ ,i f1 | h2 h1 | \
+l3/4 l/4 i/ h f ,i/4 f |"
+156;;90v;flatt pauen;John Johnson;Flat Pavan (cnst part);OT;Conc_4389;C;"[ha,,,a/] i h f [da,,,a] c/4 a [ca,b/] ,,,,c | \
+[aab,,a/4] ,,a ,,b ,,d ,a ,c ,d a [ca,b/] {a} a/4 c |"
+157;;91v;[Lady Rich's Galliard / Dowland's Bells;John Dowland;;OT;Conc_4418;3;"[ha,,,a3/2] f/ [ea,,,a1] | [caa,c1] ,,,,a [aa,,,e] | \
+[ccd,,c1] f [ea,,,a] | [caa,c1] {a} [cca] | \
+[aa,c,a1] c [ea,c,a] | [ce,,c1] h [fc,,,c] |"
+158;;92r;sans titre;;;OT;;none;"[,,aaa1] ,,e ,,c [,,a,a1] ,d [,bc] [,,aaa1] ,,e [,,ca] \
+[da,,a2] ,,a1 [,,aaa1] ,,e ,,c [,,,aa2] ,d ,b \
+[,,a,a2] ,,e [,,ca]"
+159;;92r;Robinsons May;Thomas Robinson;Almain Robinson's May;OT;ConcR351;C;"[a,,,a/] ,d ,c ,,d [,daa] [,acc] [ac,,a] ,,d | \
+[c,,a/] c/4 c [a,,,e/] [,c,,a] [,adc] ,,c [,,dca] ,,,c ||"
+160;;92v;[fragment];;;OT;;none;"[,dda/] ,c/4 ,d [a,,,a/] ,d/4 a [cd,a3/4] d/4 c/ ,d/4 a \
+[cd,a] [a,d,e] [cd,,c] e [f,,,a3/4] h/4 f/"
+161;;92v;[Flat Galliard];John Johnson;f. 93r empty;OT;Conc_4391;3;"[a,,,a3] ,d1 [,bd,a2] | [,a,,,e2] ,,d [,ac,,a] | \
+[,,d,a1] ,a ,b ,d [abd,a2] | [aa,,,e2] [aaccca] [,bdca] | \
+[bdda3] [ab,c1] [,d,d] ,b |"
+162;;93v;Jo Johnson;John Johnson;;OT;ConcR148;C;",c/ ,d | [acd,a1] ,,,c/ c [a,,,a] ,,d [,,d,,a] ,,c | \
+[,,d,a/] ,,d/4 ,a [,cd/] [,da,c] [a,d,e] \
+[,db/4] ,,a ,,,c ,,,a [,cdca/] |"
+163;;94v;Dowlands;;plus … prima parte - f. 95r empty;OT;Conc_4417;3;"[haa{a}1] m k | [haa{a}1] g e | [caa{a}1] a/ ,e ,c a | \
+[,ea{a}1] ,a {a} | [,ea,c1] c [,ca,b] | [ea,,c] c ,,,,b/ a |"
+164;;95v;[Up Tails All?];;;OT;;none;"[da1] c1 [ab] [,ef] [cdf] [,ca/] ,a ,c a [,ef3/2] [ca/] [ab] \
+c d ,a [,bd] c/4 a c d"
+165;;95v;[Up Tails All];;;OT;Conc_4447;C;"c1 | a1 [,cd,a] [,da,c] [,acc] | [acd,a1] [,cd,a] [acd,a] d | \
+[c,,a1] [,da,c] f [ea,c/] a | [f,,,a1] ,c [a,d,a2] |"

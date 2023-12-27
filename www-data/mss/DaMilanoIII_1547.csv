@@ -1,0 +1,76 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;A1r;1. Fantasia di F. Milanese;Francesco da Milano;;OT;;C;"f2 i3/2 h/ | f1 e [f,d] c | [ab1] d/ ,a [c,d1] [a,c] | \
+,,d1 [,ea] [a,,c] ,,b/ ,d | ,a/ ,a [,b,c1] ,d/ ,b [,a,b] ,,d |";italian7tab
+2;;A2v;2. Fantasia di F. Milanese;Francesco da Milano;;OT;;C;"[,dda3/2] a/ c d f2 | ,,,a/ d c a [,db1] a | \
+,,b1 [,da] [d,,c] a | [f,,a/] d c a ,d ,c [,a,a] ,,d |";italian7tab
+3;;A3r;3. Fantasia di F. Milanese;Francesco da Milano;;OT;;C;",d2 a3/2 ,d | a/ c d1 [c,,a] f | \
+[d,,c1] a/ ,,,a ,,,c ,,a [,db1] | \
+,,a1 [,cd] [,ab] a | ,,,a1 [,da] [,,,ca] ,c |";italian7tab
+4;;A3v;4. Fantasia di M. Perino;M. Perino;;OT;;C;"[a,dca2] [a,dca] | [,a,c,e2] [ab,,a3/2] ,a/ | \
+[c,da/] ,,c ,,d1 [a,,,da] ,,c/ ,,a | \
+[,,c,ca1] a [,,dca/] ,d ,b ,a | \
+[,bd,a1] a/ ,,b [,da,c1] [,,b,,d] |";italian7tab
+5;;B1r;5. Fantasia di F. Milanese;Francesco da Milano;;OT;;C;"h2 i1 h | ,a1 h [,ig] f | [ca1] d ,,,,c [ca] | \
+[,,b,d1] [a,d] [,,a,c] ,e/ ,c | \
+,e1 [,a,,c] [,,d,d/] ,,b ,,a ,,,c |";italian7tab
+6;;B2v;6. Fantasia di F. Milanese;Francesco da Milano;;OT;;C;"c2 f | h2 f | ,,a1 f ,,d/ d c a | [,df1] ,a [,cd] c | \
+,,,,,c1 ,c ,,,,a/ ,a ,,d ,,b |";italian7tab
+7;;B3v;7. De mon triste di F. Milanese;Francesco da Milano;;OT;;C;"[a,,c3/2] ,,a/ ,,b1 ,,d | \
+[a,bc/] ,,a ,,b [,,de] [,ab1] [,bd] | \
+[a,bc1] a [,,de/] [aab] [abd1] | \
+[da,c1] ,,a/ ,,b ,,d ,a [db,c1] |";italian7tab
+8;;B4r;8. Fan. de mon triste di F.M.;Francesco da Milano;;OT;;C;"[a,,c3/2] ,,a/ ,,b1 ,,d | [a,b1] ,,,c ,,b ,,d | \
+[da,,,a3/2] ,,,,,c/ ,,,,,d1 [ab,,a] | \
+[da,,,d1] ,,,,,a ,,,,,d [c,,,a/] a | \
+[,e,,c1] ,a/ ,,,,e ,,,b1 [,,dc/] ,,c |";italian7tab
+9;;C1r;9. Fantasia di F. Milanese;Francesco da Milano;;OT;;C;",d2 f | f1 f h d | f3/2 d/ c a c1 | \
+[d,b1] c/ a [cd/4] a ,d ,c ,d a c d |";italian7tab
+10;;C2v;10. Fantasia di F. Milanese;Francesco da Milano;;OT;;C;"[,cc,e2] [,cc,e] | [,cd,,c2] [,,d,,c1] ,,c/ ,,a | \
+[,c,de3/2] ,,a/ [,cc,e1] ,,,d | \
+[,,def1] ,a/ ,,,,e [,c,,a1] [,d,,c] | \
+,,a1 [,c,,e] [,,aa] ,a |";italian7tab
+11;;C3v;11. Fantasia di F. Milanese;Francesco da Milano;;OT;;C;"f3/2 d/ c a ,d1 | d1 c [a,d] f/ ,,b | \
+,,a/ [d,,c] [c,,a] a [,db1] ,,a | \
+[d,,c1] [c,d] a/ ,,b [f,a] ,,,c |";italian7tab
+12;;C4v;12. Fantasia di F. Milanese;Francesco da Milano;;OT;;C;"f3/2 d/ c d f1 | ,d1 c/ ,c [da] ,c [cd1] | \
+[a,d1] ,c/ ,,b [,daa] ,,b ,,d ,,,,e | \
+[,,b,c/] ,,,,e [,,a,f1] [f,,c] ,,,,e/ d |";italian7tab
+13;;D1v;13. F. di perino Fiorentino;M. Perino;;OT;;C;"[aac,ca2] [aac,ca] | [acd,a2] [ccd,ec] | \
+[,ef,,e1] [aac,ca] [,,fec/] ,e/4 ,c ,f ,e ,f/8 ,e ,c ,e | \
+[aac,,a1] h [,a,gh] a |";italian7tab
+14;;D3r;14. Quanta belta di F. Milanese;Francesco da Milano;;OT;;C;",,d2 [,dd,f] | [,ddef2] [,dfac] | [acd,a2] [cdda1] c | \
+[,dda/] d f c [dabc1] [cdda] | \
+[a,,,e1] [cdaa/] ,c ,a [a,,,e] [,dd,c] [,c,,a] |";italian7tab
+15;;D4r;15. F. di perino Fiorentino;M. Perino;;OT;;C;"[,ddef2] [,ddef] | [,cdda2] [,aaac] | \
+[,,ba,d1] ,d [,,aa] [c,d] | [a,,ac/] ,d [,cc] ,a [,cdca1] a | \
+[,,,ca/] ,d [,c,e] ,a [,c,,a] ,,d [,d,c] ,,,a |";italian7tab
+16;;D4v;16. Fantasia di F. Milanese;Francesco da Milano;;OT;;C;"[a,d2] [a,d1] ,,c/ ,,a | [a,c1] ,,,c [,da] ,,c | \
+[,cd1] ,,,,a/ ,,,,c ,,,,e ,,,a [,a,c1] | \
+,,,,a1 [,,d,e] [,a,,c] ,d | [,,,ca1] ,c/ ,a [,c,c1] ,a |";italian7tab
+17;;E1v;17. O felici ochij mei de P. F.;M. Perino;;OT;;C;",a2 ,c1 ,f | \
+[,ff/4] ,e ,f ,e ,f ,e ,f/8 ,e ,c ,e [,fh1] [,il] | \
+[hhl/4] ,,k ,,l ,,k [h,l] ,,k";italian7tab
+18;;E2r;18. Fantasia di F. Milanese;Francesco da Milano;;OT;;C;"[f,,a2] c1 f | ,,,a/ d c a ,d ,c ,a ,,d | \
+[,,bc1] d a d | ,,,,d c a ,d ,b ,a ,,d ,,b |";italian7tab
+19;;E2v;19. Fantasia di F. Milanese;Francesco da Milano;;OT;;C;"[,cc,e2] [,cc,e] | [,cd,c2] [,daac] | \
+[,acc,a1] a [,,,c,e/] ,d ,c ,a | \
+[,,de,c1] ,c ,,,,a/ ,a ,,d1 | \
+[e,c,c1] ,,a [ea,,,e] ,,,d |";italian7tab
+20;;E3v;20. Quanti trauagli di P. F.;M. Perino;;OT;;C;"[effc2] [effc] | [eff,,a4] | [eff,,a2] [cef,c] | \
+,,a1 [cd,,c] [cda,c] [cda,c] | [ccd,a1] [ca,bc] [a,,ce] ,,e | \
+[,efec2] ,,a1 [,dfec] |";italian7tab
+21;;E4v;21. Quand'io penso al martir di F. Milanese;Francesco da Milano;;OT;;C;"[aa,c2] [,cd] | a1 [,ac] ,,,c [aac] | \
+[cc,e1] [,ed] [aa,c] ,,c | ,,,c1 [a,c] [f,,e] [,cd] | \
+[,ffc1] e [ac] [effc] | [cc,e/] ,,d [cdda1] [aa,c] ,,c |";italian7tab
+22;;F1v;22. Fort seulement;;;OT;;C;",,,,c2 ,,,,c1 ,,,,c | \
+,,,,c/ ,,,,a ,,,,c [,,,,ef] [,,,a,d1] [,,,c,a] | \
+,,,,,d1 [,,,ca/] ,,,,,d [,,,c,c1] ,,,b | \
+[,a,c,a2] [,a,c1] ,,,,,a | \
+[,a,c,a/] ,,d ,a ,c [,ea] ,a [a,b1] |";italian7tab
+23;;F2v;23. Que uoles uous dire de moy;;;OT;;C;",,,c3/2 ,,,c/ ,,,a1 ,,,f | \
+,,,f/ ,,,e ,,,f/4 ,,,e ,,,c ,,,e [,,bc3/2] [,,bc/] | \
+[,,aa1] ,,,,c ,,,,a/ ,,b/4 ,,a ,,b ,,a ,,,c ,,a |";italian7tab
+24;;F3v;24. Vignon uignetta F.M.;Francesco da Milano;;OT;;C;"z1 [aacc1] [aacc] [,efec] | \
+[a,cce1] [,eab/] ,c [,acc1] [acd,a] | \
+a1 [acd,a] [,efec2] | [a,cc,a1] [aacc] [,cdca] [,efec] | \
+[a,cce1] [ec/] ,,,a [,acc] c [acd,a1] |";italian7tab

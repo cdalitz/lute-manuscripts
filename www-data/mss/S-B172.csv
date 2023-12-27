@@ -1,0 +1,281 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1;C dur;10r;Les Boffons;;;OT;;C;"[acd,a3/2] ,d/ a1 [acd,a] | \
+[cdda3/2] d/ c1 [cdda] | \
+[acd,a3/2] ,d/ a1 [acd,a] | \
+[aac,,a3/2] ,,d/ ,a1 [aac,,a] | \
+[acd,a1] {,,,a}/ ,d a1 [acd,a] |"
+2;C dur;10r;Bergamasco;G.B. Domenico;;OT;Conc_45;C;"[acd,a2] [acd,a] | \
+[cdda2] [cdda] | \
+[aacc2] ,,,,,a | \
+[,cd,a4] | \
+[,cd,a2] [,dda1] {a} | \
+[aad,,a1] ,,c [acd,a2] | \
+{,,,a}2 ||"
+3;F dur;10v;Baletto Francovis / Est-ce Mars;;;OT;ConcR19;C;"[,,da1] {a} [,,da] ,a/ ,c | \
+[,d,,c1] ,,a/ ,,b [,,d,,c1] ,,,a | \
+[,db,,d1] ,,,,,c [adb,,a] ,c | \
+[cdda1] {a} [cdd2] | \
+[cdda1] {a} [cdd] ,,,,,a/ ,,,,,c |"
+4;F dur;10v;Symbell;;NOT J-TN42;OT;;C;",,d/4 ,d a ,d ,,a ,d a ,d ,,b ,d a ,d ,,a ,d a ,d | \
+,,b/4 ,d a ,d ,,,e ,d a ,d ,,a ,d a ,d ,,,a ,d a ,d |"
+5;g moll;11r;Teutscher dantz - Nachdans;;;OT;ConcR951;C;"[aabc1] ,,,,,a/ c a1 [aabc] | \
+[caa,c3/2] d/ c1 [caa,c1] | \
+[da,c1] [c,,a] [a,,,d/] d c a | \
+[caa,c1] {,,a} [caa2] ||"
+6;B dur?;11v;Teutscher dans - Nachdantz;;;OT;ConcR951;C;"[dab,,d2] [a,,,,d1] [c,,a] | \
+[dab,,d1] ,,,a [dab] [a,,,d] | \
+[,d,,c1] [,bd,a] [,ab,,d] [,dda{a}] | \
+[,aba1] ,,,,,d [,aba2] || \
+[dab,,d/] ,,d ,a ,,b [cda{a}/] ,,b ,,d ,,a |"
+7;C dur;12r;Balletto;;;OT;;C;",,d/ ,a | \
+[,cd,a1] [,dda] [,cd,a] [,a,,,a] | \
+[,,dca1] {,,,a}2 ,d/ a | \
+[cdda1] {a}/ d [cdd1] [a,,,a] | \
+[,dda1] {a}2 ,d/ a |"
+8;d moll;12v;Corante pastorelle;;;OT;ConcR955;3/4;",a/ ,c | \
+[,d,,c3/2] ,c/ ,d1 | \
+[acd,a3/2] ,d/ a1 | \
+[c,,a3/2] d/ f1 | \
+[da1] ,,,c [c,a] | \
+[aab1] ,d [acd] | \
+[,d,a1] ,,d {a} | \
+[,dd2] ||"
+9;c moll;13r;Wolte francovise;;;OT;;3/4;"[f,,,a/] h i1 [df,,,a1] | \
+[dfg,d1] {,a} [dfg] | \
+[f,,,a1] {,,,a}/ e h f | \
+[ea,,,a1] [a,d/] b d [db,c] | \
+[dd,,c3/2] b/ [a,,,d1] |"
+10;f moll;13v;Balletto;;;OT;Conc_4505;C;"[f{a}3/2] h/ f1 d/ b | \
+[a,,,d1] {,a}/ b d1 b/ a | \
+[,daa{a}2] z/ [,d,,,d/] [b,,a/] d | \
+[acd,a1] {,,,a}2 f/ d |"
+11;c moll;14r;Vtaff Fortuna;John Dowland;Les Secrets des Muses II;OT;ConcR28;C;"[,,dca2] [,,dca1] [,a{c}] | \
+[,bdca/] {d} ,a ,,d [,ac,,a1] ,,,c | \
+[,bb,d1] [,dba,d] [,bdca] ,a/ ,,d | \
+[,ac,,a2] [,acc] || \
+[abb,d2] [abb,d1] [abb,d] |"
+12;c moll;14v;Cupido;;;OT;ConcR608;C;"[,bd,a2] [,ac,,a1] [,bd,a] | \
+[,dba,d2] [ab,,d] | \
+[,db,,d1] a [,bd,a] ,a/ ,,d | \
+[aac,,a1] ,,,c [aac2] | \
+[,bd,a1] ,a/ ,,d [,acc,a1] [,bd,a] |"
+13;f moll;15r;Balletto cauda;;;OT;;C;"[f,,d3/2] d/4 b [a,,,d/] b d a | \
+[,d,a/] b [a{a}] ,d [acd{,,,a}1] ,,,c | \
+[,ddd{a}/] a [b,,a] d [ac,,a1] [f,,d] |"
+14;F dur;15v;Galiarda the frog;John Dowland;Nr 23;OT;ConcR172;3/4;"[cdda1] {a} [acd,a] | \
+[,da,c1] a/ ,d [c,,,c1] | \
+[,a,,,d/] ,,d ,a ,c [,dda{a}1] | \
+[acd,a1] {,,,a} [acd] || \
+[c,,a1] {a}/ d f1 |"
+15;E/Es dur?;16v;Balletto;John Dowland;Sir J Smith's Almain;OT;ConcR_43;C;"[db,,d3/2] [db,,d/] [db,,d1] [dab,,d] | \
+[a,,,d1] {,a}/ b d1 [a,,,d1] | \
+[f,,d1] [d,,c] [b,,a/] ,b ,a b | \
+[ab,,d1] {,a} [ab2] |"
+16;f moll;17r;Puer natus in Bethlehem;;;OT;ConcR1504;3/4;"d1 | \
+[,d,a1] ,,,,b [,d,,,d] | \
+[a,,,d1] ,,d [a,,,a] | \
+[b,,a1] {a} [,d,,b] | \
+[,b,,a1] ,,,c ,,,d | \
+[bd,,b1] d [f,,d] | \
+[d,,,d1] ,g [,dfg] |"
+17;B dur;17v;Curante francovis;;;OT;Conc_2005;3/4;",d1 | \
+[,dba,d3/2] a/ ,d1 | \
+[,dda,c1] [adb,,a3/2] ,c/ | \
+[cdd{a}1] ,,,a/ d c a | \
+[,d,,c1] ,,b/ a ,b ,d | \
+[a,,,d1] ,,d [,db,c] |"
+18;C dur;18r;Bergamasco;G.B. Domenico;;OT;Conc_45;C;"[acd,a2] [acd,a] | \
+[cdda2] [cdda] | \
+[acc2] ,,,,,a | \
+[,cd2] {,,,a} | \
+[,cd,a1] ,d a ,c | \
+[,dda{a}1] ,c ,a ,,d | \
+[aac,,a1] ,,d ,a ,,c |"
+19;d moll;18v;Ballo in Echo;;;OT;ConcR703;C;"[caa,c3/2] [caa,c/] [caa,c1] [he,g,e] | \
+[acd,a3/2] [acd,a/] [acd,a1] [fca,,c] | \
+[,dba,d3/2] [,dba,d/] [,dba,d1] [da,c,a] | \
+[ccd,,c1] [aab,,d] [f,,,a] [caa,c] | \
+[aac,,a1] [aab,,d] [f,,,a] [caa,c] |"
+20;F dur;19v;Curante La Muresq[ue];;;OT;ConcR591;3/4;",d1 | \
+[,c,,a1] ,,d ,d | \
+[,dd{a}1] ,,,a a | \
+[acd1] ,,,,a c | \
+[cd,a1] ,,,,a/ a [,d,,c] a | \
+c/ ,,d [a,,,a1] ,d/ a |"
+21;f moll;20r;Pavana [d'Espagna];;;OT;Conc_4405;C;",,d1 | \
+[,dda1] {a}/ b [aa,,,d1] [,d,d] | \
+[,cd,a1] {,,,a}/ ,d a1 [,,da,b] | \
+[,a,,,d/] ,b ,d ,,,,b ,,,,a ,d a ,c |"
+22;c moll;20v;Amor;;;OT;;C;",a1 | \
+[,bd,a1] ,a/ ,,d [,a,,,a1] [,bd,a] | \
+[,d,,,d/] ,a ,b ,d [a,,,d/] ,b ,d a | \
+[,d,,,d/] ,b ,d a [,bd,a/] ,,,,c ,,,,d ,,,a |"
+23;c moll;21v;Teutscher Dantz - [Nachdans];;;OT;;C;"[b,,a1] | \
+[ab,,a1] ,,,c/ ,d ,b1 [f,,d] | \
+[df,,d1] ,,b/ b [df1] [i,d] | \
+[h,,c1] [f,,,d/] ,,,a [f,,c1] [e,,,,a] | \
+[f,,,a1] d [b,,a] [a,,,,d/] ,d |"
+24;C dur;22v;Wär Gudh ähr oss en wä[l]dig borgh;;;OT;;C;"f1 | \
+[ffh,a2] [ffh1] ,,,,c | \1
+[a,,,e1] ,,d [caa] f | \
+{a}1 [ea,,,a] [caa,c] ,,,b | \
+[aac,,a1] ,,,c [aac2] | \
+[f,a1] ,d e ,,,,c |"
+25;F dur;23v;Phantasia;;;G-A#-f-a#-d'-g';ConcR2715;C;",d2 ,d1 a | \
+c1 ,d a c | \
+[d,a2] ,,a1 ,,c | \
+[da1] ,,a [c,c] ,a | \
+[ab2] [c,,a1] ,,c | \
+[,d,a1] [d,,c] [fa] ,,a |"
+26;B dur;24v;Von himell hoch da kom ich här;;;OT;;C;"[dab,,d1] | \
+[cd,a1] ,,d [a,,,a] ,d/ a | \
+[c,,a/] d c a [,d,,c1] ,,b | \
+[a,,,d/] c d a [c,,a1] a/ c |"
+27;G dur;25v;Galiarda Englese;John Dowland;Lady Rich, Nr 43;OT;Conc_4418;6/4;"[ha,,,a2] f [ea,,,a] | \
+[ca,,c2] ,,,,a [aa,,,e] | \
+[ccd,,c2] f [ea,,,a] | \
+[caa,c2] {,,a}4 | \
+[aac,,a3/2] c/ a1 c [ea,,,a2] | \
+[caa,c2] [h,,,,e] [f,,,a] |"
+28;f moll;26r;Favorite;;;OT;Conc_4505;C;"[f{a}3/2] h/ f1 d/ b | \
+[ab,,d1] {,a}/ b d1 b/ a | \
+[,daa1] f [,d,,,d/] a [b,,a] d | \
+[acd,a1] {,,,a}2 f/ d |"
+29;F dur;27r;Galiarda du passameta [Passamezzo moderno];;;OT;;6/4;",d2 a | \
+[cdda2] {a} d/ c a1 | \
+[,d,,c1] ,,b [a,,,d] ,,d [c,,a] ,b | \
+[dab,,d2] ,,,a3/2 ,b/ ,a1 ,,d |"
+30;G dur;27v;Fuga;John Dowland;Nr. 1;OT;Conc_4429;C;"h4 | \
+e2 h | \
+f2 e | \
+c4 | \
+a2 e | \
+,,f1 c ,e2 | \
+[a,c2] ,,f1 ,e | \
+[,cd3/2] ,e/ [a,c2] | \
+[c,a3/2] e/ f2 |"
+31;G / D dur?;31v;Polensk dantz;;;OT;;C;"[,ea,c2] [aab,,d1] ,,,,,a | \
+[caa,c2] c/ ,e ,c ,a | \
+[ddf,,d2] [ddf/] ,,i f h | \
+[fda{,a}2] d/ c a ,d |"
+32;f moll;32r;Nun kom der heyden Heyland;;;OT;;C;"[,dd1] {a} [,dd] ,,,c | \
+[,ddd{a}1] ,,,f [,,ddf] ,d | \
+[,bbcd1] {,a}/ ,d a1 [,bbcd] | \
+[bbdd1] ,,,,,b/ ,,e [bbd1] d/ b |"
+33;D dur;33r;Galiarda englese;John Dowland;Nr. 40 (King of Denmark);OT;Conc_4417;6/4;"[c{,,a}2] c c | \
+[caa{,,a}2] a1 ,e ,c a | \
+[,ea{,,a}2] ,c1 ,a [,ca,,c2] | \
+[,aa,c2] {,,a}4 | \
+[caa{,,a}2] h c | \
+[caa{,,a}2] a1 ,e ,c a |"
+34;c moll;33v;Praeludium;Vallet;Les Secrets des Muses I;OT;Conc_4504;C;"[,,dca2] {,,,a}1 ,a | \
+[,bd,a1] ,d a ,,,,,d | \
+[,,dd,b1] ,d/ ,b ,d1 ,,d | \
+[,,b,,a/] ,,,c ,b1 [,,,d{a}/] ,b ,a1 |"
+35;F dur;34r;Corante;;;OT;ConcR709;3/4;"f1 | \
+[fh{a}1] h [fh] | \
+[df1] ,a ,c | \
+[cd,,,c1] ,,,,,d/ c [a,,,a1] | \
+[,d,,c1] ,,b [a,d,e] | \
+[c,,a1] {a}/ d f1 | \
+[ff{,a}3/2] d/ [cd{a}1] |"
+36;G dur;35r;Ich danche dir Liber herre e morgebet;;;OT;Conc_4506;C;"[aac,,a1] | \
+[aac1] [a,,c] [c,,b] [aacc] | \
+[,ea,c/] ,a ,c ,e [,af,,a] ,,,,,c ,,,,,e ,,,,,a | \
+[caa{,,a}/] e f h e [e,,,,a] ,,,c c a |"
+37;F dur;35v;More Palatino;Daniel Bacheler;;OT;Conc_4434;C;"[,dda1] {a} [,da,c] [acd,a] | \
+[cdd{a}1] ,,,a [cdd] [da,c] | \
+f/ ,,e ,d f [d,,c] ,d [acd] ,a/4 ,c | \
+[cdd{a}1] ,c/ ,a ,,d ,,b ,,a ,,,c |"
+38;F dur;36v;Galiarda Engles;;;OT;ConcR772;6/4;"[f,,,a3/2] d/ [c,,a2] [ha,f] | \
+[f,,a3] d1 [c,,a2] | \
+[f,a2] [ddff] [cdda] | \
+[acd,a2] {,,,a} [acd] || \
+[acd,a2] [aa,,,d] [ccd,,c] | \
+[da,c,a3] [cdd,,a1] [aab,,a2] |"
+39;F dur;37r;More Palatino;Daniel Bacheler;;OT;Conc_4434;C;",a/ ,c | \
+[,dda1] [,,da,c] [,d,,c] [acd,a] | \
+[cdda1] {a}/ a ,d a c d | \
+[f,a1] ,d [d,,c/] ,a ,c d |"
+40;G dur (B dur?);37v;Liebe;;;OT;;6/4;"a1 c | \1
+[dab,,d2] [dab] [,da,c] | \
+[ddf,,d3] f1 [h,f2] | \
+[f,a3] [,d,,c1] [,d,,a] ,b | \
+[,ab,,d2] ,,,a3 ,d1 | \
+[,dda{a}3] ,b1 [,a,a] ,,d |"
+41;B dur;38r;Elender Mensch;;;OT;;C;"[,aa,c1] | \
+[aacc1] [,ea,c] [aa,c] [ca,b] | \
+[da,,,a1] c/ a [caa,c1] a | \
+[abb,d/] h d a [fcd,a/] d c a | \
+[,ea,c1] ,a ||"
+42;G dur;38v;sans titre;;;OT;;C;"[,ccde1] [,ccde] [,cde,c] [a,d,e] | \
+,,,a1 [,ea,c3/2] ,a/4 ,e [aac,,a1] || \
+,,,,a1 ,,,,e a/ ,,,a [aacc1] | \
+[aacc1] [aacc2] [a,d,e1] | \
+[ccde1] ,,,c [cdda] [,ccde] |"
+43;C dur;39v;Courante;;;OT;;3/4;"f1 | \
+[f,h,a3] | \
+[hff3/2] ,,,,,a/ k1 | \
+[k,,,a1] {,,,a}/ h f e | \
+[,h{,,a}3/2] e/ [,f{,a}1] | \
+[,d{a}3/2] c/ a ,d | \
+[,c,,a1] [,a,,,a3/2] ,,d/4 ,a |"
+44;c moll;40r;Balletto;;;OT;;C;"[abd,a3] [abd{,,,a}1] | \
+[,d{,,a}/] ,,b [a{,a}] ,,d [,d{a}1] ,b | \
+[,acc,a3] a/ c | \
+[da,c1] ,,,,,c/ {a} {a}1 [h{,,a}3/2] | \
+f e1 ,,,,,a [eff2] ||"
+45;B dur;40v;Balletto;Gaultier;;OT;Conc_1776;C;"[,dff{,,,a}3/2] ,b/ [,a,,,d] ,,b [a,b,d1] | \
+[,dff{,,,a}1] a/ c d ,,,c ,,,,d [f,,e] | \
+[h,,f1] [i{,,,a}/] h [f{,a}] ,i [f{a}] ,i |"
+46;B dur;41r;Variatio;Gaultier;;OT;Conc_1776;C;"[dff{,,,a}3/2] ,d/ [,f{,a}] ,i [,h{a}] ,i | \
+[,i{,,,a}3] ,l1 | \
+[,l,,k2] ,i1 [,h{a}] | \
+,h1 [,f,,a2] ,,i1 | \
+,,i3 ,,g1 | \
+[,,g{,a}3] ,,f1 |"
+47;a moll;41v;Volta;;;OT;Conc_274;3/4;"[,cde1] c [e,,d] | \
+[f,a3/2] h/ f1 | \
+[e,,,e1] ,h [,g{,a}] | \
+,h2 ,,a1 | \
+[,,ae1] ,,c ,,,d | \
+[,,dea3/2] ,a/ [,c,,a1] | \
+[,a,,,a1] [,,d,e] [,,c,c] |"
+48;f moll;42r;Courante;;;OT;ConcR500;3/4;"f1 | \
+[fd{a}2] d1 | \
+[ddff,d1] ,d ,f | \
+[bbd,,b2] d/ f | \
+[g,,f1] ,d ,f | \
+[f,,d1] d ,g | \
+[dfg,d1] {,a} ,,,,d | \
+[dfg1] f d |"
+49;F dur;42v;Galliarda;;;OT;ConcR623;6/4;"[fdaa2] {a}1 d [c,,a2] | \
+[a,d,e2] [,da,c1] ,,c/ ,,a ,,c1 ,d | \
+[,cdca2] {,,,a}1 ,d [,cd,a2] | \
+[,dd,,c2] [a,,,,d1] ,d [,cd,a2] |"
+50;c moll;43r;Ballet;;;OT;ConcR589;C;"[abd,a2] [a,,c,e3/2] ,d/ | \
+[,bd,a3/2] ,a/ ,,d2 | \
+[f{a}2] [e,,,,a] | \
+[f,,,a2] {,,,a} | \
+[abd,a2] [cdda] | \
+[dab,,d3] b1 | \
+[ab,,d2] [,db,,d3/2] a/4 ,d | \
+,b2 ,,,,d |"
+51;c moll;43v;Lamentatio Bocqueti;Bocquet;;OT;ConcR823;C;"[f,,,a/] h/4 i [h,,,,e/] [f,,,a] | \
+[da,c,a1] b/ a ,d1 ,b | \
+[f,,d1] [da,c] [b,,a/] ,d d b | \
+[a,,,d/] b a ,d [,b,,a] ,d a ,b |"
+52;F dur;44r;sans titre;;;OT;;C;"[,dda{a}2] [,cdca] | \
+[,da,c1] [a,,,e] [,c,,a] ,,d | \
+[,da,c1] [a,d,e] [cdda] a/ c | \
+[d,,c1] [c,,a] [a,,,e] [c,,,c/] e | \
+[f,,,a1] [ea,,,a] [f,,,a] {,,,a} |"
+53;f moll;44v;Ballet;;;OT;ConcR3566;C;"[bdd{a}3/2] b/ [a,,,d/] b [,d,,,d] ,f | \
+[,f,,a2] {,,,a} | \
+[,d,,b/] [a,,,a] [b,,a] d [f,,d] f [d,,,d] [b,,,d] | \
+[bbd1] ,,,d [bbd2] |"
+54;f moll;45r;sans titre;;;OT;;3/4;"[,,,a{a}1] ,,,c/ ,,,d [,,,ca1] | \
+,,,a1 {a}/ ,,,c ,,,d ,,b | \
+,,d1 ,,,,b ,,b | \
+[,,d,a1] ,,,f/ ,,,d ,,,c ,,,a | \
+,,,,e/ ,,,,a ,,,,c ,,,,e ,,,a ,,,c |"

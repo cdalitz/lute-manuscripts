@@ -1,0 +1,335 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+;Faszikel 1,2,3;Fascicle 1,2,3;Concerto / â / Due Liuti Obligati (Fasc.1,2) / & / Basso (Fasc.3) / Corigniani;;;;;;
+1;B dur;01-1v;Introduzzione allegro;Corigniani;Liuto 1mo;;;3/4;"[f{5}/] ,,b (,,b/4 ,,a ,,b/) (,,b/4 ,,d) (a ,b) | \
+[a,,,,a/] ,,,a [,,,'a/4] ,,,,c ,,,a/ (,,,a/4 ,,,c) (,,a ,,b) | \
+[,,d,,a/] ,,,,b (,,,,b/4 ,,,,a) ,,,,b/ ([,,,,b{6}/4] \
+,,,,a ,,,,b ,,,a | "
+2;B dur;01-2v;Allegretto;Corigniani;Liuto 1mo;;;2/4;"[a{5}/] c [c{,,,a}] ,,b | \
+([,,a{,,a}/8] ,,b ,,d/4) ,,b/ z/ [,a{d}/] | \
+[,,d,,a/4] ,a ,b/ [,b{,a}] ,a/4 ,,d | \
+[,a{d}/4] ,,d ,,b/ [c{,,a}] ,,d | \
+[,,'a{,a}1] [,,,a,b/] ,a | "
+3;B dur;01-3r;Adagio;Corigniani;Liuto 1mo;;;C;"[,a{a}3/8] ,,b/8 ([,,b{a}/8] ,,a) ,,,c/4 [,a{a}/] [,b{a}] \
+[,b{,a}/] [,a{a}] z/ [c{a}/] | \
+([c,,,a/8] b3/8) e/ [e{,,,a}3/8] ,,d/8 [,,'b/4] ,,a \
+[,,b{a}/4] ,,,c ,b3/8 [,a{,a}/8] [,,'d{,,a}1] | "
+4;B dur;01-3v;Alla Breve;Corigniani;Liuto 1mo;;;C;"Z6 | \
+[a{,a}1] {a} ,,,,,a [a,,,,b] | \
+[,c,,,d1] (,a/ ,c) ,,d1 (,a/ ,c) | \
+a1 c e a | \
+f1 f (f/ c) ,c c | "
+5;B dur;02-1v;Introduzzione allegro;Corigniani;Liuto 2do;;;3/4;"[,a{5}1] ,a [,a{d}] | \
+[,,d,,a1] [,,d,,a] [,,d,,a] | \
+[,,,a,a/] ,,d (,,d3/8 ,,b/8) ,,d/ ([,,d{6}/4] ,,b) ,,d ,a | \
+[,,b{5}1] {5} {4} | \
+[a{,,,a}/] ,,b ,,b ,,b ([,,,d{,,,a}/4] ,,,c ,,,d ,,b | "
+6;B dur;02-2v;Allegretto;Corigniani;Liuto 2do;;;2/4;"Z4 | \
+[,,d{,a}/] ,a [,a,,,b] ,,,a | \
+([,,,,c{5}/8] ,,,,d) ,,,c/4 [,,,a{6}/] z/ [,,a{,a}/] | \
+[,,,c,d/4] ,,a ,,b/ [,,b{4}/] ,,a/4 ,,,c | \
+[,,a{,a}/4] ,,,c ,,,a3/8 {,,a}/8 {,,,a}/ [,a{5}] | "
+7;B dur;02-3r;Adagio;Corigniani;Liuto 2do;;;C;"[,,b{a}/] [,,b{a}] [,,b{a}] [,,c{a}] [,,d{,b}/] \
+[,,b{a}] z/ [,,b{a}/] | \
+([,,b,a/8] ,,a3/8) [,,d,a/] ([,,d,a/4] ,,a) ([,,,c{,,,a}] ,,,b) \
+[,,,c{a}/] {a}/4 {,a} {,,a}1 | "
+8;B dur;02-3v;Alla Breve;Corigniani;Liuto 2do;;;C;"[,,b{5}1] {4} {,,,a} [,,b{,,a}] | \
+[,,'a{,a}1] ,,,c/ ,,a ,,,a1 [,,,c{,,a}/] ,,a | \
+[,,b{,,,a}1] [,,d{4}] [,a{5}] [,,b{,,,a}] | \
+[,b{4}1] ,b [,b{,a}/] (,,d ,,a) ,,d | \
+[,a{5}1] ,a [,a{,,a}/] ,,b ,,,c ,,b | "
+;Faszikel 4;Fascicle 4;Concerto à 4 Liuto, / Traverso, / Viola di Gamba, / e / Basso / del Sgre: Meussel;;;;;;
+9;g moll;04-1v;Andante;Meussel;;;;C;"{a}/4 ,,b c ,,,,,a ,,,,,b ,a ([c,,,,a] b) [c{a}/] ,a/4 \
+,,,,,a ,,,,,b ,a ,,,,,a ,a | \
+{a}/4 ,,b c ,,,,,a ,,,,,b ,a [,b{a}] a {4}/4 ,,,c \
+,b [,a{,,,a}] {,,a} ,,,,f (,,f ,,d) | "
+10;g moll;04-2v;Vivace;Meussel;;;;2/4;"[c,b{a}1] [b,a,a] | \
+[c{a}/] a/4 ,b ,a (,,d ,,b ,,a) | \
+[,,,c{a}/] ,,b ,a [b,,,a] | \
+[c{a}/] a/4 (,b ,a) (,,d ,,b ,,a) | \
+[,,,c{a}/4] (,,b ,,a) ,,,c"
+11;g moll;04-3v;Adagio;Meussel;;;;C;"[,abc{a}/] [,abc{a}] [,abc{a}] [,abc{a}] \
+[,abc{a}] [,abc{a}] [,bb{a}] [,bb{a}] | \
+[,ba,e/] [,aa,e] [,aa,d] [,aa{,a}] \
+[,a,c{,,a}] [,a,c{,,a}] [,,dc{,,a}] [,,dc{,,a}] | "
+12;g moll;04-4v;Tempo di Menuet;Meussel;;;;3;"[,,,c{a}/] ,,,b ,,,c ,,a ,,b ,,d | \
+,a1 [,ab{a}] [,aa{,a}] | \
+,f/ ,d [,f{,,,a}] f [e{4}] ,f | \
+[,'d1] {,,,a} [,f{5}] | \
+[,b{4}/] ,a ,b c [a,,,,a] ,b | "
+13;g moll;04-5v;Allegro;Meussel;;;;2/4;",,,c/4 ,,a ,,b ,,d | \
+,a/ ,,,c ,b ,,,,,d | \
+[,a,,,b/] ,,,c ,b ,,,,,d | \
+[,a,,,b/] ,,,c c [b,,,,a] | \
+[c{a}/] ,a [f{a}] [e{,,,a}] | \
+[,f{,,a}/] [,e{,,,a}] [,f{,,a}] [e{4}] | "
+;Faszikel 5;Fascicle 5;Concerto à 4 / Liuto / Viola di Gamba, /<br> Hautbois overo Violino, / e Violoncello / composto del Sgre. Meussel;;;;;;
+14;g moll;05-1v;Andante;Meussel;;;;2/4;"z/ | \
+Z5 | \
+z3/2 [,,d{,a}/] | \
+""Forte""[,ab{d}/4] a (,b ,a) [,b,,,d] (c a) ,b | \
+[a,,,a/4] (,b ,a) ,,d ,,b a [,b{5}] a | "
+15;g moll;05-2v;Vivace 'un poco';Meussel;;;;2/4;",f/ | \
+[,ff{a}1] [ea,,e] | \
+([f{a}/] e) ,f (e/4 f) | \
+[a,d,,a1] [,'ba{a}3/4] ,a/8 ,b | \
+[,a{d}/] ,,d ,,b ,,d/4 ,a | \
+([,,d,,a/4] ,,b ,,a) ,,,c [,,,ba] ,,a ,a ,,d | "
+16;g moll;05-4v;Adagio;Meussel;;;;2/4;"[,,b{a}/4] ,,,c ,,b ,a ,,b ,,,c ,,b ,a c ,,b ,,a ,,,c | \
+([,,,e{a}/4] ,,,c) ,,,e ,,,,a ,,,b ,,a ,,d ,b [,a{,b}] \
+(,,d ,,b ,,a) | "
+17;g moll;05-5v;Tempo di Menuet;Meussel;;;;3/4;"[,ab{a}1] ,,,c {,a} | \
+[,,,c{,,a}/] (,,b/4 ,,a) ,,,c1 {5} | \
+{4}/ ,b [,a{,,,a}] (,,d ,,b ,,a) | \
+[,,b{a}1] ,,a/ ,,b ,,,c1 | \
+{a}/ ,,b ,b ,,b ,,,c ,b | "
+;Faszikel 6a;Fascicle 6a;Concerto à Liutho / Viola di Gamba / et Basso / par Kühnell (lute part to Fasc. 8 c,d);;;;;;
+18;D dur;06a-1v;Allegro;Kühnel;;;Conc_3612;C;"[,a{,,,a}/4] ,,a ,a ,,a [,c{4}] ,,a ,c ,,a \
+[,e{,,,a}] ,,a ,e ,,a [c{,,a}] ,,a c ,,a | \
+[e{,a}/4] ,e ,,f e [f{a}/4] e (,f ,e) [,c,,,a/4] \
+,,a ,,a ,,e ,,e ,c ,c e | "
+19;D dur;06a-2v;Adagio;Kühnel;;;Conc_3635;C;"[baa{,,,a}/] [baa{,,,a}] [baa{,,,a}] [baa{,,,a}] \
+[ece{4}] [ece{4}] [ece{4}] [ece{4}] | \
+[,acb{5}/] [,acb{5}] [,acb{5}] [,acd{,,a}] \
+[,,eeca] [,,eeca] [,cee{a}] [,cee{a}] | \
+[eef{,a}/] [eef{,a}] [eef{,a}] [eef{,a}] \
+[gff{a}] [gff{a}] [gff{a}] [gff{a}] | "
+20;D dur;06a-2v;Allegro;Kühnel;;;Conc_3614;3/4;"[,a{,,,a}/] ,,a ,,a ,a [,a{,,,a}] ,c/4 ,e | \
+[,c{4}/] ,,a ,,a ,,,c [,,,c{4}] [,,,'b/4] ,,,,c | \
+{,,,a}/4 ,,a ,,,c ,,a ,,,b ,,a ,,,,c ,,a ,,,,a ,,a ,,,c ,,a | "
+;Faszikel 6b;Fascicle 6b;Concerto à Liuto obligato / & / Viol di Gamba / & / Violono / del Sig. Kuehnel;;;;;;
+21;C dur;06b-1v;Concerto;Kühnel;;;;C;"[,,d{4}/] ,,,c [,,,,c{4}] ,,,c [,,d{4}] ,,,c [,,,,c{4}] ,,,c | \
+[,,d{4}/] (,c/4 ,a) [,c{4}/] ,,d [,a{5}] ,,c [,,,c{5}] ,,c | \
+[,a{5}/] ,,c [,,,c{5}] ,,c [,a{5}/] (,d/4 ,c) V[,d{5}/] ,a | "
+22;C dur;06b-2v;Largo;Kühnel;;;;3/4;"[,cdc{4}1] [,cdc{4}] [,cdc{4}] | \
+[,acc{5}1] [,acc{5}] [,acc{5}] | \
+[,,de{6}1] [,,dee] [,,dea] | \
+[,,cca{a}1] [,,cca{a}] [,,cca{a}] | \
+[,,dcc{,,a}1] [,,dcc{,,a}] [,,dcc{,,a}] | \
+[,,ded{,a}1] [,a,c,c] [,a,c,c] | \
+[,cdc{,,a}1] [,cde,a] [,cde,a] | "
+23;C dur;06b-2v;Vivace;Kühnel;;;;3/4;"[,,d{4}/] ,,,c ,,,c ,,d [,,d{4}] ,a/4 ,c | \
+[,a{5}/] ,,,c [,,,#c] ,a [,a{5}] ,c/4 a | \
+V[,c{4}1] ,,d ,,d ,c ([,c{4}/4] ,d) c/ | "
+;Faszikel 6c;Fascicle 6c;Concerto / à / Liuto obligato / & / Viol di Gamba / & Violono / del Sig. Kuehnel;;;;;;
+24;F dur;06c-1v;Allegro;Kühnel;;;;C;"[add{,a}3/4] c/4 [#c{,,a}/] ,d/4 c [e{,a}/] ,d z/ [,,d{6}/] | \
+[,a{5}/4] a ,c a [,,d{6}/4] a ,c a [,,'b{a}/] [,,a{,a}] \
+z/ {,,a}/4 ,,,c | "
+25;F dur;06c-2v;Largo;Kühnel;;;;12/8;"[edf3/4] ,f/4 ,d/ [,c{a}/] ,d ,a [,,'e,,a1] ,,a/ {6}1 ,,b/ | \
+,,,,,e/ ,,a ,,,c {6}/ ,,b ,,a [,,,'a{,,,a}3/4] ,,,,c/4 \
+,,,a/ [,,,,'a1] [,,a{,a}/] | "
+26;F dur;06c-3v;Allegro;Kühnel;;;;3/4;"[hh{,a}1] ['f{,,a}] ,h/ ,f | \
+[,h{,a}/] f ,h ,f a e | \
+([c{,,a}/] a c) ,,d ,a ,c | \
+([,d{,,,a}/] ,c ,d) (e c a) | \
+[,c{4}/] a (,c ,a) (,,d ,,b) | "
+;Faszikel 7;Fascicle 7;Concerto / a / Liuto / Violino / & / Basso / dal / Sigre Blohm;;;;;;
+27;C dur;07-1v;Moderato;;;;;2;"[,,dcc{4}/] [,,,cc{,,,a}] [,,,cc{,,a}] ([,,d{,,,a}/4] ,,c) | \
+[,,dcc{4}1] z1 | \
+[,acc{a}/] [,,,c,a] [,,,c,c] [,a,,,a/4] ,,d | \
+[,acc{a}1] z1 | \
+[,c{4}/4] ,,d ,,c ,,d ,c ,,d ,,c ,,d | "
+28;C dur;07-2v;Siciliano;;;;;6/8;"[,,d{4}3/4] ,a/4 ,,d/ [,c{4}3/4] ,a/4 ,,d/ | \
+[,c{4}3/4] ,d/4 ,c/ [c{4}3/4] a/4 ,c/ | \
+[c{4}3/4] e/4 c/ [c{4}] a ,c | \
+[a{a}/] c a [a{a}] ,c ,a | "
+29;C dur;07-3v;Menuet alternativement;;;;;3/4;"([c{4}/4] a) (,c ,a) ,,d1 [e,d{,a}] | \
+([c{,,a}/4] a) (,c ,a) ,,d1 [e,d{,a}] | \
+['c{,,a}1] [a{,a}/] ,c ,a ,,d | \
+[,,c{a}1] ,,a/ ,,c ,,,c1 | "
+30;C dur;07-4r;[Menuet];;;;;3/4;",,,,,a/ ,,a {a} ,,a {,a} ,,a | \
+{,,a}/ ,,a {,,,a} ,,a {4} ,,a | \
+{,,,a}/ ,,c [,,d{,,a}] a ,,d ,,c | \
+[,,d,,a1] ,,c/ ,,d ,,a1 | \
+[,,d,,a/] ,,,,c ,,,,c/4 ,,,,d ,,,,c/ [,,d,,a/] ,,,,c | "
+;Faszikel 8;Fascicle 8;Galanterie / à / Liuto Solo / del / Sig. Blohm / é Vienne;;;;;;
+31;d moll;08-1v;A Tempo giusto;Blohm;;;;2/4;"{,,,a}/ ,,,a ,,a ,a | \
+([,d{,,,a}/4] ,c) (,a ,c) [,#d1] | \
+{,,,a}/ ,,a ,a a | \
+([e{,,,a}/4] c) (a c) #e1 | \
+(3{,a}/ e ,a) (3{a} f ,a) | "
+32;d moll;08-2v;Menuet;Blohm;;;;3/4;"[,a{,,,a}/] ,,a ,,a1 {,a} | \
+([,d{a}/] ,c) [,a,,,a] ,,e [,a,,a1] | \
+[,c,,,e/] ,,a ,,a1 [c,,,,a] | \
+[#a{,,,a}3/2] (,c/4 ,d) [,c,,,a1] | \
+,,,,,a/ [,#d] {a} ,c {,a} ,d | "
+33;F dur;08-2v;Drole;Blohm;;;;2/4;"([,,,a{,a}/4] ,,,c) (,,a ,,b) ,,d1 | \
+([,,d{,,a}/4] ,,b) ,,a ,,,c ([,,b{,a}] ,,a) (,,,c ,,,a) | \
+{,a}/4 e ,,d e {,,a} c {,,,a} a | "
+34;d moll;08-3v;Tempo di Polonoise;Blohm;;;;3/4;"([,a{,,,a}/4] ,c) (,d ,c) [,a{,,,a}/] [ff] [ed] [cc] | \
+([,c{,,,a}/4] ,c) (,d ,c) [,a{,,,a}/] [ed] [cc] [aa] | \
+[,cb{a}3/4] ,a/4 [,,ec{,,a}3/4] ,a/4 \
+[,'a{,a}/] [,,e{,,,a}/4] ,a | "
+35;d moll;08-4v;Vitement;Blohm;;;;2/4;"[,h{,,,a}/] k/4 ,h ,,i/ ,h/4 ,,i | \
+[,,,#k/] a/4 ,a ,,a1 | \
+[e{,a}/] [c{a}] [a,,,,a] ,c | \
+['a{,,,a}/] ,c/4 a [,'a1] | \
+([,,e,,a/4] ,,c ,,a/) {a} ,,e | "
+;Faszikel 8 c,d;Fascicle 8 c,d;Galanterie D# (lute part = Fasc . 6a = Fasc. 10);;;;;;
+36;D dur;;Allegro;;;;;0;
+37;D dur;;Adagio;;;;;0;
+38;D dur;;Allegro;;;;;0;
+;Faszikel 9;Fascicle 9;Trietto / à / Liuto Obligato / Violino & Basso / del / Sig. Pichler (lute part only);;;;;;
+39;D dur;09-1r;Allegretto ma non molto;Pichler?;;;Conc_4138;3/8;",,a/ | \
+,,,,a/ ,,,b [,,,,c{6}] | \
+[,,,b{,,,a}/] ,,a [,,,c,a] | \
+[,,a{,,,a}/] ,a [,,c{a}] | \
+[,,,#c{,,a}/] {4} {6} | \
+[,,,b{,,,a}/] b3/8 c/8 b/4 c | \
+[e{4}/] ,c [,a{5}] | "
+40;D dur;09-2v;Allegro;Pichler?;;;Conc_4139;C;",a1 | \
+,,a1 ,,,b ,,,,a [,,cc] | \
+[,,cc{,,,a}1] [,,ab] {,,,a} ,a | \
+,,a1 ,,,b ,,,,a [,,,cc] | \
+[,,,cc{,,,a}1] [,,,ba] {,,,a} ,e | \
+([,e{4}1] ,c) e [,c{4}] | "
+41;D dur;09-3v;Tempo di menuetto;Pichler?;;;Conc_4006;3/4;"[ee{,,,a}1] [,'e] (3,e/ ,f e) | \
+[g{a}1] ['e{,a}] {,,,a} | \
+[,,ab{,,,a}1] [,,,'b] (3,,,b/ ,,,c ,,a) | \
+[,,c{a}1] [,,'a{,a}] {,,,a} | \
+,e1 [,'a] (3,,c/ ,,e ,a) | "
+42;D dur;09-4r;2do;Pichler?;;;Conc_4140;3/4;"(3[,a{5}/] ,c ,a) (3,,e ,a ,,e) ,,c1 | \
+,,b1 ,,e [,,,b{,a}] | \
+(3,c/ ,e ,c) (3,a ,c ,a) ,,e1 | \
+,,c1 ,a [,,,b{,a}] | \
+,,,c1 {,,a} [,,,d{,,,a}] | "
+43;D dur;09-4v;Polonoise;Pichler?;;;;3/4;"[,,ab{,,,a}/] ,a/4 ,,a [,,,'c,a1] [,,,,e{,,,a}] | \
+[,c{a}/] (3 ,c/4 ,e c) [,,e,,a/] ,,e/4 ,c [,'a{,a}1] | \
+[,,c{a}/] (3,,c/4 ,,e ,a) ,,c/ ,,a [,,,c{a}] ,,,b | "
+;Faszikel 10;Fascicle 10;Concerto in D dur (lute part to Fasc. 8 c,d);;;;;;
+44;D dur;10-1;Allegro;Kühnel?;;;Conc_3612;C;"[,a{,,,a}/4] ,,a ,a ,,a [,c{4}] ,,a ,c ,,a \
+[,e{,,,a}] ,,a ,e ,,a [c{,,a}] ,,c c ,,c | \
+[eef{,a}3/4] g/4 e ,f [,e{a}] ,f [,'c,,,a] \
+,,a ,,a ,,e ,,e ,c ,c e | "
+45;D dur;10-3;Adagio;Kühnel?;;;Conc_3635;C;"[baa{,,,a}/] [baa{,,,a}] [baa{,,,a}] [baa{,,,a}] \
+[ece{4}] [ece{4}] [ece{4}] [ece{4}] | \
+[,ae,,c/] ,,,,,a/4 ,a [,acd{,,a}/] {,,a}/4 ,a \
+[,cee,a/] [,cee,a] [,cee,a] [,cee{a}] | \
+[eef{,a}/] [eef{,a}] [eef{,a}] [eef{,a}]"
+46;D dur;10-5;Allegro;Kühnel?;;;Conc_3614;3;"[,aab{,,,a}1] [,aab{,a}] [,aab{,,,a}] | \
+[,ce{4}2] ,,,,,a/ ,,,c | \
+[,a{,,,a}/] ,,a [,,a{,a}] ,a [,a{,,,a}] c/4 ,e | \
+[,c{4}/] ,,a ,,a ,,,c ,,,c ,,,b/4 ,,,,c | "
+47;D dur;10-7;Ouverture;;Partie in D dur;;;C;"[,aab{,,,a}3/2] ,e/ [,'a1] ,,a | \
+[,,,'b{,,,a}3/2] ,,a/ [,,,'b1] ,,,,a | \
+[,,c{a}3/2] ,,c/ [,,'a{4}1] (,,,c/4 ,,,b) ,,,c/ | \
+[,,,'b{,,,a}1] ,,,,a3/2 ,e/ c ,e | "
+48;D dur;10-9;Courante;;(not finished);;;3/4;",,a/ ,a ,e | \
+([,c{4}/] ,a) (,,e ,,c) ,,a ,,,c | \
+[,,,b{,,,a}/] ,,,,a ,,,b ,,a ,a ,,a | \
+[,,c{a}/] ,,a ,,c ,a ,,e ,a | "
+;Faszikel 11;Fascicle 11;Partie per il Liuto Solo del Sig Blohm;;;;;;
+49;d moll;11-1v;Moderato;Blohm;;;;2/4;"{,,,a}/4 (e c a) (,c ,a) ,,e ,a | \
+{a}/ f ['e{,a}1] | \
+{,a}/4 (k i) k ,h/ ,a | \
+{,,a}/4 c ,,e c ['a{,,,a}1] | "
+50;d moll;11-2v;Menuet alternat.;Blohm;;;;3/4;"{,,,a}/ ,,,,a ,,,a1 ,,a | \
+[,,bc{,,,a}1] ([,,b(c] [,,aa)]) | \
+{,,,a}/ ,,,,a ,,,a1 ,,a | \
+[,,,cc{,,,a}1] ([,,,c(c] [,,,aa)]) | \
+,,,,a/ ,,,a ,,a ,a ,,a ,,,a | "
+51;d moll;11-3r;Menuet 2do;Blohm;;;;3/4;"{,a}/ ,,,a ,,a1 ,,d | \
+[,,'a{,a}2] [,,,c{4}1] | \
+{,a}/ ,,,a ,,a ,,,a [,,d{,,a}] ,,,c | \
+(3[,,a{,a}/] ,,b ,,d) (,,b/ ,,a) (,,,c ,,,a) | \
+[,,bc{,,a}1] [,,bc{,,a}] [,,aa{,a}] | "
+52;d moll;11-3v;Polonoise;Blohm;;;;3/4;"([,,b{,a}/4] ,,a) (,,,c ,,,a) [,a,a,b1] [,,da,a] | \
+([,,b{,a}/4] ,,a) (,,,c ,,,a) [,,bc{,,a}1] [,,aa{,a}] | \
+{,a}/4 e ,,d e {,,a} c ,,d c {,,,a} a ,,c a | "
+53;d moll;11-3v;Finale. Presto;Blohm;;;;2/4;"{,,a}/4 (e c a) (,c ,a) (,,e ,,c) | \
+,,a/4 (,,,c ,,,a) (,,,,c ,,,,a/) a | \
+[,c{a}/] (,c/4 ,d) (c a) (,c ,a) | \
+,,,,,a/4 ,a (,,e ,,c) ,,a1 | "
+;Faszikel 12;Fascicle 12;Galanterie à Liuto Solo del Sig. Bleditsch è Vienne;;;;;;
+54;A dur;12-1v;Prelude;Bleditsch;;;;C;",,,,,a/4 ,c ,,e ,c ,,,,,a ,c ,,e ,c {a}/4 ,c ,,c ,c \
+{a} ,c ,,c ,c | \
+{,a}/4 e ,a e {,a} e ,a e {,,a}/4 d ,,e d {,,a} d ,,e d | "
+55;A dur;12-2r;March;Bleditsch;;;;C;",,a1 | \
+[,ce,,a1] [,c/] ,c [,cc{a}1] ,e/ d | \
+[#e{,a}1] d/ ,e [,ca{4}1] [ea{,,,a}] | \
+{4}/ ,c {5} ,a {6}/ ,,e (,a ,c) | "
+56;A dur;12-2v;Menuet con Trio;Bleditsch;;;;3/4;"[ece,,a1] (,c/ ,a) (,,e ,,c) | \
+[,,a,,a1] (,,,,c/ ,,,,a) (,,,,,e ,,,,,c) | \
+[,,a,,a1] (3,a/ c e) [,ca{4}1] | \
+[,a{5}/] ,,e ,a ,,c [,,e{6}1] | "
+57;A dur;12-2v;Trio;Bleditsch;;;;3/4;",,a1 | \
+[,ce,,a1] [,ce] [,ea,a] | \
+[,ce,,a1] [,ca] [e{6}] | \
+[,c{4}1] [,a{,,,a}/] ,,e [,a{,,a}] ,,c | \
+V[,,e,,a1] [,,,#e] [,,ee{,,a}] | \
+[,,cd{,,a}1] [,,cd] [,,ee{,,a}] | \
+""po.""[,,cd{,,a}1] [,,cd] [,,ee{,,a}] | "
+58;A dur;12-3r;Balletto;Bleditsch;;;;C;"(3,c/ ,e ,c) | \
+[,,e,,a1] ,c ,,a (3,c/ ,e ,c) | \
+[,,c{a}1] ,c [,,,#d] ,c | \
+[,a{,a}1] ,,e [,#e{,,,a}] ,,a | \
+[,,,'d{,,a}1] ,,,,e/ ,,,d ,,,,c1 [,c{4}] | "
+59;A dur;12-3v;Polonoise;Bleditsch;;;;3/4;"[,ce,,a1] ,a/4 ,,e (,,c ,,a) [,#ea,a1] | \
+[,ce,,a/] ,c/4 ,,e [,a{,,a}/] ,a/4 ,,c [,,#e,,a1] | \
+[,a{,,,a}/] (,e/4 ,c) [,a{,a}/] ,,e [,,c{,,,a}] ,,a | "
+60;A dur;12-3v;Alla Marcia;Bleditsch;;;;C;"(,,a/ ,,e) | \
+[,c,,,a1] ,c [,c{,,a}3/4] ,a/4 ,,e3/4 ,,c/4 | \
+[,,a{,a}1] (,,a/ ,,e) [,,a{4}1] ,,a | \
+[,,c{,,a}1] ,,c3/4 ,a/4 [,,,bb1] ,,,b3/4 ,,c/4 | "
+61;A dur;12-4r;Pastorelle;Bleditsch;;;;2/4;"[#e#e{,,,a}1] [,e{,,,a}/] c | \
+[#e#e{,,,a}1] ,e/ c | \
+[e{,,,a}/] (,e/4 ,a) c/ [,c,,,a/4] ,,e | \
+[,a,,a/] ,,,,,a ([,a{,,,a}/4] ,c ,e) c | \
+[e{,,,a}/] ,a [,e{,,,a}] c | "
+62;A dur;12-4v;Polonoise;Bleditsch;;;;3/4;"[ece{6}1] [d{5}/4] (,e ,c ,a) [,,#e{4}1] | \
+[,ea{,,,a}1] (,c/4 ,a (,,e ,,c) [,,a{,,a}/] ,,,d | \
+[,,,'b{,,,a}3/4] ,,,,c/4 {,,,a}/4 ,,,b {5} ,,c \
+{4} ,,e {,,,a} ,a | "
+;Faszikel 13;Fascicle 13;Galanterie per il Liuto Solo del Sig. Blohm;;;;;;
+63;F dur;13-1v;Fantasie Allegro;Blohm;;;Conc_782;2/4;"{,a}/4 ,,,a ,,a ,,,a {,a} ,,,a ,,a ,,,a | \
+{,a}/4 ,,,c ,,b ,,,c {,a} ,,,c ,,b ,,,c | \
+{,,a}/4 ,,,c ,,b ,,,c {,,a} ,,,c ,,b ,,,c | "
+64;F dur;13-2r;A Tempo giusto;Blohm;;;Conc_783;2/4;"[,,d{,a}/] (,,a/4 ,,b) [,,d,,a/] [a{,a}] | \
+[,'c{4}/] (,a/4 ,c) [,,#d1] | \
+,,,,,b/ ,a ,,,,,a/4 ,,d {a} ,,b | \
+[,,'a{,a}/] ,,,c/4 ,,a [,,,'a1] ::"
+65;F dur;13-2r;Polonoise;Blohm;;;Conc_784;3/4;"[,,,a{,a}/] ,,a [,,#d{,a}1] [,,d{,a}] | \
+[,a,,,b/] a/4 ,a [a,,,,b/] ,a [,,#d,,a1] | \
+,,,,,b/ ,a {a} c ([,d{4}/4] ,c) (,a ,c) | \
+[a{,a}/] a/4 ,c [aVd1] {,a} ::"
+66;F dur;13-2v;Pastorella;Blohm;;;Conc_785;2/4;"[,,d{,a}/] [,,d{a}] [,,d,,a] ([,a{a}/4] ,c) | \
+[a{,a}/] ,,,a [,,,a{,a}1] | \
+[,,,c{,,a}/] ,,a ([,,d{4}/4] ,,b) ,,a ,,,c | \
+([,,b{,a}/4] ,,a) ,,,c ,,a [,,,'a1] | "
+67;F dur;13-3r;Menuet;Blohm;;;Conc_786;3/4;"[a{,a}1] ,,d ([,,d{,,a}/] ,,b) | \
+[,,'a{,a}2] [,,b{a}1] | \
+,,,,,a/ ,,d [,a{a}] ,c [a{,a}] c | \
+[,'c{4}2] [,d{,,,a}1] | \
+[c{,,a}1] (,,d/ ,,c) V,,d1 | "
+68;F dur;13-3v;Finale Presto;Blohm;;;Conc_787;6/8;"a/ | \
+([e{,a}/] c a) (,c ,a) ,,d | \
+([,,b{,a}/] ,,a) ,,,c ,,,a (,,a ,,d) | \
+[,,,c{,,a}/] (,,a ,,b) [,,a{,a}] (,,,c ,,,a) | "
+;Faszikel 14;Fascicle 14;Concerto à IV. / Liuto, / Violino 1mo / Violino 2do / e <br>/ Violoncello / composto / di Sigr. Laufensteiner;;;;;;
+69;g moll;14-1v;Andante;Lauffensteiner or S.L.Weiss;;;Conc_659;C;"[,abc{a}/] ,,,,,a ,,,,,b/4 ,a [c{a}] ,,b [,,d,,a/] {a} \
+[ead,e/4] ,,d ,a ,,a | \
+[,,'b{a}/4] ,,a ,,,c/ [,bb{a}/4] c ([,b{a}] ,a) \
+[,,ee{a}/] [,,ee{a}] [,a{,a}/4] a ,a ,,d | "
+70;g moll;14-2v;Aria;Lauffensteiner or S.L.Weiss;;;Conc_788;C;"[,,,c{a}/4] (,,a ,,b ,,d) ,a/ [,b{4}] [,,,b{,,,a}/] \
+[,,,c{a}] z/ ,,b/ | \
+([,,d,,a/4] ,,b ,,a) ,,,c [,,,b{,,,a}] ,a ,,d ,a \
+[,,b{a}/4] ,,a ,,,c/ z/ ,,b/ | "
+71;g moll;14-3v;Courante;;;;;3/4;"(f/ e) f | \
+[,f{a}/] f ,f ,a ,a ,,d | \
+([,,b{a}/] ,,a) ,,,c ,,b ,,d ,a | \
+([,b{4}/] ,a) (,,d ,,b ,,a) ,,,c | "
+72;g moll;14-4v;Menuet;;;;;3/4;"[c{a}/] ,a ,b ,,d ,a ,,a | \
+[,,bc/] (,,,,a ,,,,b) ,,,,,d ,,,,a ,,,,,a | \
+[,,,c,b1] [,,a,,d] [,,,ba] | \
+[,,,c{a}/] (,,a ,,b ,,d) [,a{,a}1] | \
+([c{,,a}/] a) (,b ,a) ,,d ,b | "
+73;g moll;14-5r;Largo;;;;;3/4;"[ffff{a}3/4] f/4 | \
+[ffh{g}3/2] f3/4 ([,h,,,a/4] ,f/) | \
+[,'e,,a1] ,,f [aaa,a3/4] a/4 | \
+[aacd3/2] a3/4 ([,c,c/4] ,a/) | \
+[,,'e,,a3/2] ,,a/ [,,dee3/4] ,a/4 | \
+[,,cc{,,a}3/2] ,,b/ [,,bcc{4}3/4] ,,d/4 | "
+74;g moll;14-5v;Gigue;;;;;6/8;",a/ | \
+[,f{a}1] ,f/ [,f{a}3/4] e/4 f/ | \
+[e,,,e1] ,a/ ,a1 e/ | \
+([c,,,c/] e) c ([c{,,a}/] e) c | \
+([,e{,,,a}/] ,c) ,e ,a1 (,a/4 ,c) | "

@@ -1,0 +1,267 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1;d moll;1;Prelude de Mr Jacquesson;Jacquesson;;;Conc_1230;-;"{,,,a}1 ,,,,a/ ,,,a ,,a ,a [,'c] a ,a e1 ,,,,a/ ,,,a ,,a ,a e \
+,,,,a [e,,,,e] ,c e 'c ,c [e{,,,a}1]"
+2;d moll;2;Menuet;;;;Conc_3843;-;"[a{,,,a}1] (e/ a) ([,c{a}] ,a) | [,,'e,,a2] [,a,,a1] | \
+[,ca,,e2] [a,,,a1] | ([c{a}/] a) [,c,,,a] a [,a,,a1] | \
+[a{,,,a}1] (c/ a) ([,c{a}] ,a) | [,,'e,,a2] [,a{,a}1] | "
+3;d moll;3;"Sarabande La Mignone (""Ah! Que je
+ sens de penchant à me rendre"")";Gaultier?;La mesme, p.1 du gros livre;;Conc_1283;-;"[ea,,a1]> e V[f{a}1] | ['c{4}1]> c V[e{,a}1] | ['aa,,a1]> \
+,c [aaaa{,,,a}1] | [,'c,,,a3/2] (,a/4 ,,e) [,a,,a1] | \
+[,,'ee,a1]> ,,e [,a,,a1] | [,,'ec{a}1]> ,,c [,c,,,d1] | \
+[,,'d{,,a}1]> ,,c V[,,d,,a1] | "
+4;d moll;4;Courante;V.Gaultier;La mesme, p.2 du gros livre;;Conc_2545;-;"e/ | [eda{,,,a}1] ,,,,a1> ,,,,,d | (,,,,,b/ c ,,,,,a) e {a} \
+f | ['e,,,,a3/2] c/ 'a ,c | [a,,,a1] [,'c,,,a3/2] (,a/4 ,,e) | \
+,a1 {,,,a}1> {,,a} | "
+5;d moll;5;Tricotets;;La mesme, p.80 du 1er livre;;Conc_831;-;"[,a,,a1] [,c,,,e] | [a,,,,a1] c/ [e{,a}] ['c{a}1]> a | \
+[,c,,,a1] [e{,a}] ['e{,,a}1]> ,g | e ,,,,,a | | [,a,,a1] \
+[,c,,,e] | [a,,,,a1] c/ [e{,a}] ['c{a}1]> a | "
+6;d moll;6;Folies d'Espagne;;theme only;;Conc_525;-;"[,aaaa{,,,a}1] [,'aaaa1]> ,a | [,,'ee,a2] [,,ee1] | \
+[,aaa{,,,a}1] [,'aaaa1]> ,a | [,cdc{4}2] [,cd1] | \
+[a{,a}/] a [adda1]> a | [,'cd{4}2] [,cd1] | [,aa{,,,a}1] \
+,,b/ ,a ,,,c ,c | "
+7;a moll;7;Prelude;;;;;-;",,,,,a ,,,e ,,d ,a ,c {,,a} (,,,,,d ,,a ,,,,,c) ,a ,,,d \
+,,,,,a ,,e ,,,c ,c [,aaa] ,,,,c ,,e c ,c e"
+8;a moll;8;Sarabande du Du But le Fils;Du But, le Fils;La Royale;La mesme, p.152 du 1er livre;Conc_154;-;"[,cd{,,a}1] [,ac] [,,de] | [,,cdc1]> ,,,,a [,,a,,d1] | \
+(,,,,,c1 [,,,'d/] (,,a/4 ,,,d) ,,a/ ,,,,,a) | [,,c{b}1] \
+,,,,c2 | [,,a,ca/] ,,c (,,d1 [,,c,,c]) | [,,c,cd1]> ,,a \
+[,,a,bc1] | "
+9;a moll;9;Sarabande du dubut le Fils;Du But, le Fils;;;Conc_2546;-;"[,,c{,,a}1] [,,,'d] ,,,,c | [,,de1] ,,,,,a ,,,e | [,a{a}1] \
+[,,'c] ,,,c | V[,cd1] ,,,,,d {4} | [,d{,a}1] ,,a {a} | \
+[,dcc3] | [,'cd1] [,adc] [,,'c] | V[,,d1] ,,,,,d {4} | "
+10;a moll;10;Gavotte;;;;;C;",,,a1 [,,'c] | [,,de1] ,,,,,a [,,de] [,ac] | [,cd1] ,,,,,a \
+[,cd] [,ac] | [,cd1] [,,de/] ,a [,,'c{,,a}3/2] ,,,e/4 ,,c | \
+,,,e1 ,,,,,a :||: [,cVd1]> ,c | "
+11;a moll;11;Sarabande;Du But, le Fils;;;Conc_155;3;"[,,a,,a1] [,,aec/] ,,c ,,d ,a | [,c{b}1] [,,c,c2] | [,,d,ca1] \
+[,a,a{,,,a}/] ,,d [,,'c] ,,a | [,,,'d{,,a}1] [,ccdc2] | \
+[ccd{4}1] [ccdcc/] e 'c ,c | [aaa{,,,a}3/2] ,,d/ [,,'c] ,,a | "
+12;a moll;12;Sarabande;Vincent;;;;3/2;",,,,,a1 | [,,dec2] {,,,a}1 [,aaaa] ,c ,,,,,a | [,,dec1]> ,a \
+[,,'c{,,a}1] ,,,d ,c ,,,,c | [,,a,ca1]> ,,c ,,d {a} [,acca1]> \
+[,,,'a] | [,,dccd{4}1]> ,c [,,,,,'c3/2] ,,,,a/4 ,,a ,,,d1> \
+,a | "
+13;a moll;13;La Bergère, Gavotte de Dubut le Jeune;Du But, le Jeune;;;Conc_2547;-;",,,e1 ,,,,c | ,,,d/ ,,c V[,,d1] [,,d,,a] [,a,,,c] | \
+[,c,,,d1] ,,a [,c,,,d] ,,a | [,'ac,a1] [,,dec] [,,c{,,a}/] \
+,,,e [,,,'d] ,,c | V[,,de1] ,,,,,a :| "
+14;a moll;14;La Belle Homicide, Courante;V.Gaultier or D.Gaultier / Ch.Mouton;La Belle Homicide - La mesme p.37 du gros livre;;Conc_8;-;"e/ ,c ,d | [,'c,,,a1] ,,,e1> ,e | [e,,e1] ,,,a/ ,,a e e | \
+['d,,,c1] {,,a}e | [e,,,,a1] ,,,e/ ,,d ,c ,e | [c{,,a}1] \
+,,d [,a{,a}] | "
+15;a moll;15;Sarabande de Mr Jacquesson;Jacquesson, Guillaume;La mesme p.39 du gros livre;;Conc_2482;-;"[,,aeca1] ,,,,c/ {a} [,,a{,a}1] | [,,,'dc{,,a}1] ,,,,c/ ,,a \
+,,,,a ,,c | ,,,,,d/ ,,d ,,,,,c ,a [,c,,e1] | [,,'d,,a1]> ,,c \
+,,a1 | [,,aVeca1] ,,,,c/ {a} [,,a{,a}1] | "
+16;a moll;16;La Champré, Courante de M.G..J;D.Gaultier;La Champré - La mesme, p.38 du gros livre;;Conc_146;-;",,d/ | [,,d,,a1] ,,,e ,c/ ,,,c | [,caa1] [,'a] ,,,,a/ ,,d | \
+[,,'c,c1] {,,a}/ ,,,e [,,,'d] ,,,,a | [,,a,,d1] [,,,,,'c] \
+[,,,'d/] (,,a/4 ,,,d) | [,,aa,a1] ,,,,,a [,,c{b}] | "
+17;a moll;16;Sans titre [Double];D.Gaultier;Double de la Champré;;Conc_147;-;",c/ | [,cde{4}3/2] ,a/ ,c a | c/ ,,,,a ,,,,c ,,,c ,,d [,,'c] | \
+[,,add3/2] ,,,,a/ ,,,,c ,,,a | ,,,,a/ ,,,,,d ,,,,,a1 [,,,,'a/] \
+(,,,c/4 ,,,,e) | "
+18;a moll;17;Gavotte d'Hardelle;Hardel, Guillaume;La mesme, p.61 du gros livre;;Conc_2490;C;"[,,a,,a/] ,,c ,,d ,a | [,ca1] [,c,c] [,'a,a3/2] ,,d/4 ,a | \
+[,c,,c1] ,c [,,a,,d/] [,,c,,c] [,,d,,a] ,a | [,c{a}/] ,d c e \
+[,'a{,a}1]> ,c | [,ccd{,,a}2] :| "
+19;a moll;18;Les Larmes de Boisset, Courante du V.G.;V.Gaultier;Les Larmes de Boisset - La mesme, p.39 du gros livre;;Conc_3;-;"[,,a,cd1] [,,,,,'c/] ,,,,a ,,a ,,,d | ,,a/ ,,,,,a ,c ,,,,,a \
+{b} ,,c | ,,,,,a/ ,,,,c V[,,d] {a} {,a} ,a | [,c{,,a}1] ,,,,c \
+[,,c'd/] ,,c | "
+20;a moll;19;Allemande de Mr.Aymond;Emond;La mesme, p.40 du gros livre;;Conc_743;-;"e/ | [ecde,a3/2] 'd/ Ve ,c/> a [,'a/] | [,cd/] [ac] [,cd] ,,,e \
+[,ac] ,,,e [,cc'd/]> ,a | [,,de/]> ,,d V[,,d,,a/] [,,'c,,c] \
+[,,a,,d] ,,,,,a ,,,,,d ,,,,a | "
+21;a moll;20;Chaconne;V.Gaultier;;;Conc_2548;-;"[,,cd{,,a}1] V[,,de] | [,,'cc1] ,,,,c [,,,ed] | [,,,'de1] \
+,,,,,c [,,,e,d] | [,,,'d,c1] [,,a,,a] [,,c,c{b}] | V[,,d,,a1] \
+[,,cd{,,a}] [,,de] | [,,'cc1] ,,,,c [,,,ed] | [,,,'d(c1] \
+,c [,a,ed)] | "
+22;C dur;22;Courante de Mr. Aymond;Hémond (Aymond, Emond);La mesme, p.19 du gros livre;;Conc_766;-;",d1 | c1 ,,d/ e 'c1 | [aa1] ,,a [c,c] | [,cd1] ,,,,c [,,a,Vd] | \
+,a1 ,,,c/ ,c ,,d1 | [,,'cc{a}1] [,,cc/] ,,c ,,,,d1 | [,,d,'c1] \
+,,,,,d1> [,,'b] | "
+23;C dur;23;Sarabande;Hémond (Aymond, Emond) or Pinel;;;Conc_1281;-;"[ccd,,d1] [ccd/] c {a}1 | [cacc1]> a [,'c,,,a] ,a | \
+,c1 [,cde] {,,a}/ ,c | [,cdc,d1]> ,a [,,d{,a}1] | [,,ded1] \
+[,ac] [,cd,c] | [a,,,a1] ,,c/ 'c [,c,,,d1] | "
+24;C dur;24;Allemande de Mr. Dubut;Du But, Pierre;Caprice?;;Conc_189;-;",,,,f/ ,,a ,,,g ,,d {a} ,,f | V[,,h/] {4} [,,'f] V[,,h] a \
+,,h [,,'f/]> ,,,h | [,,,'g{a}1] ,,,,f/ ,,f [,,fg{,a}1] \
+[,,hh{,,a}] | [a,h{,,,a}1] [,,'f/] ,f [,hh{4}]"
+25;c moll;30;La Belle Espagnolle, Chaconne de Mouton;Ch.Mouton;;;Conc_1929;3;"[,,d,b1] [,a,,a] | V[,b,,,d1] [,a,,,'b] [,b{a}] | [,,d{b}1] \
+[,,dd{,a}] ,a | [,,d,b({a}1] [,,d,a{a})] [,,'c/] ,,,a | \
+V[,,d{4}1] ,,d/ ,,,,b [,,,,'a] ,a | ,,,,,d/ ,b [,,,,,'b] \
+,a {a} ,b | "
+26;c moll;32;Allemande de Mr. Emond;Hémond (Aymond, Emond);La mesme in p.166 du gros livre;;Conc_3844;-;",,d/ | [,,dcb{4}1] [,,'b/4] ,,,d [,,,'c/] ,,,,b ,,,a \
+[,,,,'a/]> ,,,,,c | [,,,,bd/] {4}/> ,,,,a ,,,,b ,,,,,d \
+[,,,,,'b/]> [,,,a{b}] | [,,b{a}/] ,,,,b [,,'b/]> ,,b \
+[,,d{,a}/] ,,,d"
+27;c moll;33;La Belle Angloise, Gigue de Mouton;Ch.Mouton;La mesme, p.141 du 1er livre de La Jeune;;Conc_1903;C;",,d3/2 ,,b/ V[,,d] ,,,c V[,,,d] ,,b | [,,,'c/] ,,,,,d ,,,,c \
+,,,,,b V[,,,d,d] V[,,b{a}] [,,d{b}] [,a{d}] | [,bb{a}1] \
+V[,d/] {,a} [c{,,a}] ,,b [,,'c{,,,a}] a | "
+28;c moll;34;La Belle Florentine, Sarabande de Mouton;Ch.Mouton;;;Conc_1674;3;"[,,dcb{4}1] [,,dcb/] ,,d [,,dcb1] | [,,baa{,,,a}1] [,,baa/] \
+,,b [,,baa] ,,,d | [,,,'cb{,,a}1] [,,,cb/] ,,,c [,,,,'a] \
+,,,,,d | ,,,,,c/ ,,,,a ,,,c (,,,d ,,,c) ,,,,d | "
+29;f# moll;36;La Chèvre, Canaries du V.G.;V.Gaultier;La mesme, p.212 du gros livre;;Conc_214;-;"[,'d2] ,,a1 | ,,,d1> ,e ,,,,e1 | d1> [,,,,'d] ,,e1 | {4}1> \
+,,,,e ,,,d1 | ,,a1> ,,,,,e V[,,,,,f1] | ,,,,e1> ,,c ,,,d1 | \
+V[,,e1] {4} ,,,,,e | "
+30;g moll;40;Entrée de Apollon;Gallot le Jeune or Lully;;;Conc_1291;-;"a/ | [cabd{a}1]> ,a [,bdc,d1]> ,a | [,,'b{a}1] ,,a/ ,,,c \
+[,abc1]> ,c | [ada,a1]> a 'b1 [c,,,c] | [e,,,e1] ,a V[fa{a}] \
+,,,,,a/ e | "
+31;g moll;41;Menuet;;;;;3;"[,,,c{a}1] ,,,c1 [,,ab1] | [,,'bc1] {a}/ ,,d ,,b1 | \
+[,,de1] [,,'de{,a}2] | [,aba{d}2] ,,b1 | [,,de1] [,,'d,f2] | \
+[,aa,e1]> ,,d [,,bc{a}1] | [,,de{,a}1] [,,'d,f{,a}2] | \
+[,aaee{,,,a}3] :| "
+32;F dur;48;Gigue d'Angleterre (crossed out);Gaultier;#31;;Conc_1740;3;"a1 | [add{,a}1]> c a1 | [,c,,,d1]> ,a ,c1 | [,abaa{d}3] | \
+[,,d,,a1] ,,,a ,a | [,,'a{,a}2] ,,,c/ ,,a | ,,,a2 :||: \
+,,a/ ,,b | [,,d,,a1]> ,,b [,,a{,a}1] | "
+33;F dur;49;Gigue d'Angleterre;Gaultier;La mesme, p.180 du 1er livre de La Jeune;;Conc_1740;3;"a1 | [ada{,a}1]> c a1 | [,'c{4}1]> ,a ,c1 | [ada,,a3] | \
+[,aba{d}3] | [,,d,,a1]> ,,,a ,a1 | [,,'b{a}1]> ,,,,c ,,d1 | \
+[,,'a{,a}2] ,,,c/ ,,a | ,,,a3 :| "
+34;F dur;50;"Le Musicien amoureux, autrement
+ La Philosophie, Allemande de Pinel";Pinel;La Belle' or 'La Musicien Amoureux' or 'La Philosophie' Pinel - La mesme, p.172 du 1er livre de La Jeune;;Conc_169;C;",,,a/ | [,,,aVdd{,a}3/2] [,,,'c/] ,,a ,,,a ,,b ,,,c | \
+[,,de{,a}/] ,,,a [,,,,'c] ,,,a ,,,,a/4 (,c ,a) ,,d [,,'c{a}/] \
+,,,a | V[,,dcc/] {4} [,'c] a [ccd]"
+35;F dur;52;Courante de Pinel;Pinel or Bocquet;La mesme en 2e Livre de La Jeune, fol. 52 verso;;Conc_5;3;"a1 | [add{,a}3/2] e/ 'c a | [,c,,,d/] a [,'a{a}3/2] ,,d/4 ,a | \
+,,d1 {4}/ ,,d [,,'b] ,,a | [,,b,a{a}1] [,,'b,c1]> ,,a | \
+[,,aaVdd{,a}3] | "
+36;B dur;54;Prelude d'Aymond;Hémond (Aymond, Emond);;;;-;"[,,baa{d}] ,,d ,a ,,d ,a ,,b a a [a,,,,a] [,,da] [,'b] ,a \
+[,aba{d}] ['{c}] {a} c e [f,,c] [,,,'a] ,,,,c"
+37;B dur;55;Gigue du même;Hémond (Aymond, Emond);;;Conc_1883;C;"[ad1]> c [,'b] ,,d/> a ,,a/ | [,ab1] ,,,c/> ,b ,,d/ ,,a/> a \
+[,ab/] | [,,da/] {,a} [,,'a/]> ,,,,b [,,,,'a/]> ,,b {d}/> \
+,,,a | "
+38;B dur;56;Courante d'Aymond;Hémond (Aymond, Emond);;;Conc_4170;3;",,,a/ [,,,,'b] ,,,a | [,,,,'a1] {d} ,,,a/ {c} | [,,ba{a}3/2] \
+,,,,c/4 ,,,a ,,,,c/ ,,d | [,,'a{,a}1] ,,,a/ ,,a ,,,c ,,b | \
+[,,de1] [,,,'c1]> ,,,e | "
+39;B dur;57;Courante du même;Hémond (Aymond, Emond);;;Conc_3759;3;"a/ c e | f1 ,a 'e | ['cb1] ,,b a | [a,,e1] ,,d [,a,f] | \
+[,b,,c1] ,,a/ a [,ab1] | [,,da1] {,a} ,,,,,d | [,,b,a1] {d}1> \
+,,,a | "
+40;B dur;58;Sarabande d'Aymond;Hémond (Aymond, Emond);;;Conc_4171;3;"[,dff1]> ,f [,,de1] | [,'d1]> ,,g [,,ff1] | [,,d,d1] ,,f \
+[,,baa] | [,,'b1] ,,,,,d/ ,,a [,,b{d}1] | [,,da,a1] [,,da/] \
+[,,da] [,a,,,b1] | [,,b{a}1] ,,,,c/ ,,d [,,'b1] | "
+41;B dur;59;Sarabande du même;Hémond (Aymond, Emond);;;Conc_4035;3;"[,aba{d}1] [,aba/] [,aba] [,aba1] | [,,da{c}1]> ,a \
+[,,bcc{a}1] | [,,bcc1]> ,,d [,,aad{,a}1] | [,,aad1]> \
+[,,,,'b] ,,,,a1 | ,,,a1 [,,'b1]> ,,a | [,,,cb1] ,,d \
+[,,,,'a/] ,a | "
+42;D dur;62;Gavotte en rondeau;;La mesme en gros livre, p.136;;Conc_2505;C;"[ee{,,,a}1] [,ca] | [,'e,,a3/2] ,e/ [cc,,,e] ,e [,'c] ,a | \
+[,ca1] [,,'e,,a/] {a} [,aa{,a}1]> [,ce{,,a}] | [,'e{,,,a}1] \
+{a}/ ,c [,'ce,,a1]> ,a | [,aab{,,,a}2] :| "
+43;e moll;68;Pavane de Dufaux;F.Dufault;;;Conc_2493;C;"[,,cc{,,a}2] ,,,,c1 ,,d/ ,,,e | [,,cec{,,a}1] ,,,c [,ccc/] \
+,,,,e ,,,c ,,,,c | [,c,b{4}1] ,b/ ,,e [,bc,,c] ,,,,,a ,,,,,c \
+{,a} | [,cc{a}/] ,b ,c ,,e [,e{,a}] ,,,,c ,,,,b ,,c | "
+44;f# moll;76;Pavane;V.Gaultier;;;Conc_549;-;"[,,eee{,a}2] ,,,,e1 ,,,,g | [,,eee{,a}2] [,,e,ea1] [,,,,'c/] \
+,,,,b | [,,e,,e1] ,,,,b [,,c,c{a}2] | [,,c,a{,a}2] ,,c1 ,,c | \
+[,ce{4}1] ,,,,,e/ ,,,d [,ce1] [,,'d/] ,,e | "
+45;f# moll;78;Allemande;D.Gaultier;;;Conc_34;C;"[,ea{,a}3/2] (,a/4 ,,e) ,a/ {,a} [,,'c] ,,,d | [,,ee/] {,a}1 \
+[,,,,'c/4] ,,,,a ,,,,,e/ ,,,d ,,a {,a} | [,,aee1] ,a/ {,a} \
+,,,g ,,,,,e ,,,,e ,,,f | "
+46;f# moll;80;Courante de du But;Du But, Pierre;;;Conc_1180;-;",,,,e1> ,,,,,c ,,,,,e1 | {,a}1 ,,,d [,,,'d/] ,,a/4 ,,,d | \
+,,a1 ,,,,,a [,,,'d,c/] ,,,,e | [,,,,'de1] {4}/ ,,,d ,,a \
+,,,,,c | ,,,,,a/ ,,e ,a ,,e [,,'c{a}1] | "
+47;f# moll;81;Double de la Courante précedente;Du But, Pierre;;;Conc_2549;-;",,,,e/ ,,,d ,,a [,,,,'d] ,,,,,e ,,e | {,a}/ ,,,,c [,,,,'a] \
+,,,,,e ,,,d ,,,,,c | [,,,,ea/] ,,c ,,e ,,a [,,,d,c] ,,,,e | \
+[,,,,'de/] ,,,,e ,,,d {4} ,,a ,,,,,c | "
+48;f# moll;82;Courante;;;;;3;",,e/ ,,g a | ,e1 {,a}/ ,g e1 | [e,e,e/] g ,,,g e (,g ,e) | \
+[,de1] {4}/ (,,c ,,a) ,,,d | [,e,e/] d ,,,a ,,e d ,,c | "
+49;f# moll;83;Sarabande;;;;;3;"[,e,e{,a}1]> ,e {4}1 | [,'d,d1]> ,d [,ea{,a}1] | [,'c/] \
+{a} ,,c ,a [,,e,,a1] | [,,cdc1]> ,,e [,,aee1] | ,,,,,c/ ,,,,e \
+,a ,,,d ,,,,,a ,,e | "
+50;f# moll;84;Courante du V.Gautier;V.Gaultier or D.Gaultier;;;Conc_22;3;",,e/ ,,,d ,,c | [,,ae1] {,a}/ ,,e ,,,e ,e | [,ecd1] [,'ccd1]> \
+,a | [,,ee1]> ,a [,c,d1] | [,eee1] ,,,g [,gf] | [e,e,e1] \
+{,a} 'd/ ,,c | "
+51;f# moll;85;Courante;Du But;;;;3;",,e1 | [,,e,e1] {,a} [,,'c/] ,,a/4 ,,,d | ,,a/ ,e {a} ,,c ,c \
+[,'a] | ,,,,,a/ ,,e ,,,,d (,a/4 ,,e) ,a/ ,,,,,c | [,,a,ce/] \
+,,,d ,,a"
+52;f# moll;86;Gigue de du But;Du But, Pierre;Allemande?;;Conc_28;-;"[,,e{,a}3/2] ,,c/ ,,e ,,,e [,,,'d] ,,,,e | ,,,,,e/ [,,,de] \
+[,,,,'d] ,,,,,c [,,,,,'a] ,,,,e [,,,de{a}] [,,,,'d] | \
+[,,a{,a}/] ,,,,e ,,e ,a [,c,,c] ,,e [,ee,a] ,,c | "
+53;f# moll;87;Courante;;;;;-;",e1 | [,ea{,a}1] ,,,,e/ ,e [,'c,d] ,a | [,,ee1] ,e ,,c/ d | \
+[,'de1] {4}/ ,,c ,,,e ,,,d | [,e,e1] [d,,d] ,,,,e | ,,,,d/ \
+,,e 'd1 {4} | "
+54;f# moll;88;Courante;Du But or Gaultier;;;Conc_1179;-;",,a/ ,,,d ,,a | \
+,,,,e1 ,,e ',,,,d/ ,,,,e | \
+{4}1 ,,e [,,c,d] | \
+[,,,de1] ,,,,,e/ ,,,,e ,,,d ,,,,d | \
+[,,,,e{,a}1] ,e '[,cc{a}/] ,a | "
+55;f# moll;89;Sarabande;;;;;3;"[,e{,a}1] ,,e V[,c] | [,a,,(e3/2] ,,e/4 ,a [,,e,c)1] | ,,,,a/ \
+,,e ,,c1 [,,c,de] | [,,'a,(e3/2] ,,,d/4 ,,a) [,,,d){4}1] | \
+[d,,,,e1] [,'d/] ,,,,,c [,e,,,a1] | "
+56;f# moll;90;Prelude de Gallot;Jacques Gallot;;;Conc_2550;-;",,,,e [,,,'d] ,,a {,a} ,,c ,,e ,,,,e ,,,,d ,,e [,,,'d] [,,'c] \
+{,a} ,,,,e ,,,d ,,a [,,,,'c] ,,,,a ,,c ,,,,,e ,,,,d ,,c"
+57;f# moll;91;Sarabande de Gallot;Jacques Gallot;La Religeuse Portugaise;;Conc_225;3;"[,e{,a}/] ,e [,'eeee1] [,ee/] ,e | [,'c{4}/] ,c [,c,d,e1]> \
+,,a | [,a,,,'c/] ,a [,a,,e1] [,a,d/] ,c | [,,e,,a/] ,,e \
+[,,eec1] [,,e/] ,a | [,,'c{,,a}/] ,,c [,,cdc1] [,,cd/] ,,e | "
+58;d moll;94;Sarabande du Vieux Gaultier;V.Gaultier or Mésangeau;La mesme, p.167 du 1er livre du Sr Le Jeune;;Conc_134;3;"[,,a,a1]> ,,,,,d [,a,,,b1] | [,,'e,,a3/2] (,a/4 ,,e) \
+[,a{,,,a}1] | [,aaaa1] [,aaa/] ,a [,aaa1] | [,cd,,d1] ,c/ a \
+,,,,,a ,,d | [,aba{d}1] [,aba/] ,a '{c}1 | "
+59;d moll;95;Gavotte mise par Gallot le Jeune;Gallot le Jeune or Lully;C'est l'amour qui nous menace' from 'Roland' - La mesme, p.73 du 1er Livre du Sr Le Jeune;;Conc_1284;-;"[,a,,a1] [,,a,d] [,a,,,b] [,c,,,a] | [,'c{a}1]> ,a [,,e,,a1] \
+[,,ee] | [,c,c1] [,d,a] [,a,,,b] [,c{a}] | [,,'d,,a1]> ,a \
+[,aaaa1] {,,,a} :||: [,,d{,a}1] ,,d [,,d,d] [,,a,b] | "
+60;d moll;96;Sarabande espagnolle par d'Olivet;Olivet, Jacques Hilaire;La mesme, pag.78 du 1er livre de Le Jeune;;Conc_1987;3;"[a,,,a1] [aaa{,,,a}1]> a | [,'c,,,a1]> ,a ,,d1 | [,a{a}1] \
+[,,'b1] [,,aa{,a}1] | [,,,'c{4}3/2] (,,,a/4 ,,,,c) \
+[,,,a{,a}1] | ,,d1 {,,a} [,,'e] | [,aVfa{,,,a}1]> [,'c] a1 | "
+61;a moll;98;Courante de V. Gallot, La Meurtrière;Jacques Gallot;;;Conc_1096;3;",,a1 | [,,aVe3/2] ,,a/ ,,c [,,,'d] | [,,de1] ,,,,,a1> ,d | \
+[,'c{a}1] [,ca{,a}1]> ,a | V[,c{,,a}3/2] ,a/ ,,d ,,c | \
+[,ca,,d1] V[,e] [,,,,,'c/] d | V[e,,,,a1] ,,a ,,,c | "
+62;a moll;99;Double de la Meurtrière;Jacques Gallot;;;Conc_1097;3;",,a1 | [,,aVe3/2] ,,a/ ,,c [,,,'d] | [,,de1] ,,,,,a/ ,a ,c ,d | \
+[,'c/] {a} {,a} ,,a ,c ,a | [,c{,,a}/] ,d [,'c] ,a ,,d ,,c | "
+63;a moll;100;Chaconne de V. Gallot, La Montespan;Jacques Gallot;;;Conc_161;3;"{,,a}1 [,,cec] [,,,'d] | [,,a,,a1] ,,,,c [,,aVe] | {a}1 \
+[,,dca] [,,'c] | V[,,d{4}1] ,,,,c [,,dc] | [,,aad{,a}1] \
+[,,aa/] ,,a [,,c{,,,a}1] | [,,,'dc{,,a}1] [,,,dc/] ,,,d \
+[,,,,'a1] | "
+64;a moll;102;Courante de V. Gallot, La Bordeloise;Jacques Gallot;;;Conc_1101;3;"e/ ,c c | V[,d1] ,,,,,a [,'c/] ,,c | V[,,de1] ,a [,c,'c/] \
+,,,,d | [,,d,c1] [,,'c{,,a}1]> ,,,e | [,,,'d/] ,,,,a \
+[,,a,,d1] ,,,,,a/ ,c | [,,c{b}1] [,,d,ca1]> ,,,b | "
+65;a moll;104;Double de La Bordelaise;Jacques Gallot;;;Conc_1102;3;"e/ ,c c | V[,d1] ,,,,,a/ ,d [,'c] ,,c | [,,d(e/] ,,c ,,d \
+,a [,c,'c)] ,,,,d | ,,,,c/ ,,d [,,c{,,a}] ,,d [,,'c] ,,,e | "
+66;a moll;106;Folies d'Espagne par le Vieux Gallot;Jacques Gallot;theme + 20 variations;;Conc_1104;3;"[,,a,,a/] ,,a [,,aVec1]> ,,c | [,,,'d{,,a}1] [,,,dcc] \
+[,,,dc] | [,,a,,a/] ,,a [,,aVec1]> ,,a | [,,'c{a}1] [,,cca] \
+[,,cc] | [,,d{4}/] ,,d V[,,dcc1]> ,,d | [,,'c{a}1] [,,cca] \
+[,,cc] | "
+67;a moll;114;Prelude de Mouton;Ch.Mouton;Le mesme fol.72 vers du 2e livre du Sr. Le Jeune;;Conc_1870;-;",,,,,a1 ,,d1> ,a ,c1 {,,a} [,,,'d1]> ,,,,c ,,c1 ,,,,a ,,,,c \
+,,,,,d ,,a ,,,,,a ,,,,,c {b} ,,c ,,,,c (,c ,,c) ,a ,,,,,a"
+68;a moll;115;Chaconne de Mouton;Ch.Mouton;;;Conc_1928;3;"[,,a,,a1] [,,c{b}] | V[,,d,,a1] [,,'c{a}] V[,,d{,,a}] | \
+[,,a{,a}1] [,,a{,,,a}] V[,,c,a] | [,,a,,d1] [,,a,,c{,,a}] \
+[,,,'d/] (,,a/4 ,,,d) | ,,a1 [,,ae] [,,cd] | [,,de1] [,,'cc] \
+V[,,d,c] | [,,a,d1] [,,a,a] ,,c | [,,a,,d1] [,,a,,c{,,a}]"
+69;a moll;116;Le Tombeau de Gogo, Allemande de Mouton;Ch.Mouton;;;Conc_528;-;",c/ | [,cde,a3/2] ,a/ V[,c] ,,d [,a'c] ,,,d | [,,dVe/] ,,,,a \
+[,,,dc] ,,,,,c [,,a,,Vd] {c} [,,c{'b}] ,,,,c | [,,d{a}/] {a} \
+[,'a{,a}] ,,d/4 ,a ,c/ {,,a}1 (c/4 ,e) | "
+70;a moll;118;Gigue du Roy. Du But fils;Du But, Le Fils or V.Gaultier;Canaries - La mesme, p.63 du 1er livre du Le Jeune;;Conc_156;3;",,a1 | [,,,,'c1]> ,,,,a ,,,,c1 | ,,,,,a2 V[,,d1] | [,,'c,c1]> \
+,,,e ,,c1 | [,,,'d{,,a}2] ,c1 | [,,c,c1] V[,,d] ,a | [,,'de1] \
+,,,,,a e | ['c,,,,c1]> ,d c1 | "
+71;a moll;119;La Ténébreuse ou Narcisse, Courante de Gaultier;D.Gaultier;La mesme, p.51 du 1er livre du Sr. Le Jeune;;Conc_16;-;",c1 | [,c,,,a1] ,,a2 | [,,c{b}1] ,,,,c1> ,,c | [,,d,,a1] ,,a \
+[,,'c/] ,,d | [,a,,,c1] {a}1> ,c | [,cdc3] | [,,aa{,a}1] \
+,a [,,'e{,,a}/] (,a/4 ,,e) | [,a{,,,a}1] ,,,,a1> ,,,,c | "
+72;a moll;120;L'Amant Malheureux, Allem.de du V.Gallot;Jacques Gallot;La mesme, p.43 du 1er livre de Le Jeune;;Conc_151;C;",,h1 ,,,h/ ,,h [,,'f,g] ,,,,h ,,,,g/4 ,,h [,,'f/] | \
+,,,,h/4 ,,,h ,,,,,a/ [,,,'g{,,a}/]> ,,,,f [,,a{,a}/] \
+,,,,,h/4 ,,,a [,,,,,'f/]> ,,,g | [,,,,'g{,,a}/] ,,,,,h ,,,g \
+,,,,,f"
+73;a moll;122;Prelude du V.Gallot;Jacques Gallot;;;Conc_1090;-;"[,,a,,a] ,,,,c [,,aa] ,,c ,,d ,a ([,,'c] ,,,e) ,c {,,a} ,,,e \
+[,cc'd] ,,f [,,de] ,,,,,a ,,,c [,ca'a] [,'a] ,,d ,a ,c ,,,,c"
+74;a moll;124;Allemande du V.Gallot, le bout de l'an de Mr Gautier;Jacques Gallot;;;Conc_1091;C;",,a/ ,,,,,a ,,,,c ([,,'c/4] ,,,d) [,,de/] [,c{a}] [,ca{,a}] \
+[,'a] | [,c{,,a}/] [,c,,c] [,a,,e] [,c,d] [,,de] [,,de{,,,a}] \
+[,,'ce{,,a}] ,,,d | [,,aVe/] ,,,,,a/4 [,cd] [aa/] [cc{a}] \
+[ec{,a}]"
+75;a moll;126;Courante du V.Gallot, La Cigogne;Jacques Gallot;;;Conc_1092;3;",c1 | [,cd,,a1] ,,,e/ ,d [,'c{a}1] | [e{,a}1] [ha,a] 'g/ ,h | \
+[,'g{,,a}/] ,h c ,,h [,,'f] g | [,h,h1] [,h,h{,,a}] [,,,'g/] \
+,g | [,ha1] ,,,,,a/ ,f a ,,h | "
+76;a moll;128;Gigue du vieux Gallot. Le Dogue d'Angleterre;Jacques Gallot;;;Conc_1093;3/2;",a1 | [,,'d,,a1]> ,,c [,,aVe1] | [,c{b}1] ,,,,c ,,c | \
+[,,de,a1] [,,'c] [,,,e{,a}] | [,,,'d{,,a}1] ,,a [,,c,a] | \
+[,c,,,d1] ,,a [,a,d,c] | [,,de,a1]> ,a [,c{a}1] | [ec{,a}1] \
+[,'a] g | "
+77;a moll;130;Sarabande du V.Gallot, la pièce de huit heures;Jacques Gallot;;;Conc_149;3;"[,,a,,a/] ,,a [,,aVec1]> ,,c | [,,,d{,,a}1] ,,,,c [,,,,'a] | \
+[,,a,,d1] [,,,,'d,c/] (,,a/4 ,,,d) ,,a/ ,,,,,a | [,,c{b}1] \
+,,,,c ,,c | [,,d,,a/] ,,d [,,dec1] [,a,,,c] | [,c,,,d1] ,,a \
+[a,c,a] | "
+78;a moll;131;Gavotte du même, La Jalousée;Jacques Gallot;;;Conc_1094;C;"[,,d,,a1] [,,c,,c] | [,,a,,d1] [,,caa/] ,,d [,,'ca{,,,a}1]> \
+,,a | [,,,'d{,,a}1] ,,,,c/ [,,,,'a] [,,a,,d1] [,,cd,c] | \
+V[,,de,a1] [,'a{,,,a}/] ,,d [,,'c{,,a}3/2] ,,,e/4 ,,c | \
+,,,e1 ,,,,,a :| "
+79;a moll;132;Canaries du V.Gallot, Les Castagnettes;Jacques Gallot;;;Conc_150;3;",,,,,a1 | [,cde1]> ,,,,,c V[,,,,,d1] | [,cdc2] {a}1 | [,acc1] \
+V[,c] ,,,,,a | V[,,dec2] {,,a}1 | [,,'ccc1]> V[,,d] {,a}1 | \
+[,,aaVd1] ,a {,,,a} | [,a,d{,,a}1] ,c [,,de] | "
+80;a moll;133;Gigue du Vieux Gallot, La Levrette;Jacques Gallot;;;Conc_1100;C;",c1 e/ d Ve ,,,,,a V[,,d] ,a | ,c/ ,,,,c [,,de] [,,cd] \
+V[,,de] ,,,,,a [,,a,,Vd] ,,,,a | [,c,,c/] ,,d [,,'c] ,,,e \
+[,,,'d{,,a}] ,,,,a [,,a,,d] [,,,'d,c] | "
+81;a moll;134;Allemande du V.Gallot. Le Départ de Mr Aymond;Jacques Gallot;;;Conc_1095;C;"[,,aVe1] ,,,,c/> ,c [,a,,e/]> ,,,e [,,,('d/] ,c/4 ,,c | \
+V[,,de)/] ,,,,,a ,,,,c (,a/4 ,,d) [,,'c{,,a}/] ,,,e/> ,c \
+[,ccd/] | [,cVde1] ,,,,,a/ c/4 ,d) [,'c/] ,,,e [,c,'c/]> \
+[a,,a] | "
+82;a moll;135;Volte du Vieux Gallot. La Brugeoise;Jacques Gallot;;;Conc_1099;3;"[,c{b}1] ,,,,c/ ,,c ,a ,a | [,,d,ca1]> ,,d [,a,,,c1] | \
+[,c,,,d1] [,ea,a] d/ e | ['dcc,c1] {,,a}/ ,c ,,f ,c | \
+[e,'d1] [e,d,c] [,,'c/] d | "
+83;a moll;136;Allemande du V.Gallot, Esope ridicule;Jacques Gallot;;;Conc_1098;C;"[,c,,,a/] ,,a ,d ,,c [,cd{a}/]> ,,,e [,ac{,a}/]> ,,,e | \
+,c/ {,,a} [,,,'dc] ,a [,,d,,a] [,,,,(c] [,,de] [,,'c{a}] | \
+[,,a,c){,a}1] [,,ca'a/]> ,,a [,,,dc{,,a}/]> ,,,,c [,,,,'a/] \
+,,,,,c | "
+84;a moll;138;Gigue du Vieux Gallot, La belle Comtesse de Berka;Jacques Gallot;;;Conc_1103;C;"[,,ae3/2] ,,c/8 ,,d ,a ,c/ ,,,e [,c,'c] [e,,,d] | ['d,c,c/] \
+{,,a} ,c [,'a/8] ,,d ,a ,,d/ e [e,'c,c] d | Ve/ ,,,,,a [e,d] \
+'c/4 ,d [,'c/] [,,d(e] ,a [,c,c)] | "

@@ -1,0 +1,550 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+;;;Folgen erstlich Preambulen;;;;;;;
+1;;A4r;1. Praeambulum;;;OT;;C;"[aa,c,a/] ,d/4 ,b ,a ,,d ,,b ,,a ,,,c ,,,a ,,,,d ,,,,c ,,,,a ,,,,,d ,,,,,c ,,,,,a | \
+[aa,c,a/] c [da,c,a] c/4 a [,daac/] a [cdda] a/4 ,d |";germantab
+2;;A4r;2. Praeambulum;;;OT;;C;",,a/4 ,,c ,,e ,a ,c ,,e ,a ,c ,e ,a ,c ,e a ,c ,e a | \
+c/4 ,e a c ,d a c e";germantab
+3;;A4v;3. Praeambulum;;;OT;;C;"[,dda1] a/4 ,d ,c ,a ,,d ,a ,c ,d a ,d a c | \
+[acd,a/] ,d/4 a c a ,d a";germantab
+4;;A4v;4. Praeambulum;;;OT;;C;",,,a/4 ,,,c ,,a ,,b ,,a ,,b ,,d ,a ,,d ,a ,c ,d ,c ,d a c | \
+d/4 c a ,d a ,d ,c ,a";germantab
+5;;B1r;5. Praeambulum;;;OT;;C;"f/4 d c a d c a ,d c a ,d ,b a ,d ,b ,a | \
+,d/4 ,b ,a ,,d ,b ,a ,,d ,,b";germantab
+6;;B1r;6. Praeambulum;;;OT;;C;"H,d | f/4 d a c d c ,d a b a ,b ,d a ,d ,a ,b | \
+,d/ ,b ,,d ,a ,b ,a ,,b ,,d";germantab
+7;;B1v;7. Praeambulum;;;OT;;C;"H[,aaac] | ,,,c/4 ,,a ,,b ,,d ,a ,c ,d a c d f d c a ,d ,b | \
+,a/4 ,,d ,,b ,,a ,,,c ,,,a ,,,,d ,,,,c";germantab
+8;;B1v;8. Praeambulum;;;OT;;C;"Hf | f/ a c ,d a ,c ,d ,a | ,c/ ,,d ,a ,,c ,,d ,a ,c ,d | \
+a/ ,c ,d a c a ,d ,c |";germantab
+;;;Folgen Deudtsche Tenze;;;;;;;
+9a;;B2r;1. Tantz;;;OT;;C;"[cdda2] [,aba,d1] [ac,,a] | [,,def2] [,,de,c1] ,,f/ ,c | \
+[,daac1] ,a [a,dca] ,c | [cdda2] [,dff,d] | [da,c,a2] [acd,a] | \
+[cdda1] a/ c [da,,,d] c a ,d |";germantab
+_9b;;B2r;Sprung;;;OT;;3;"[cdda1] [,aba,d] [ac,,a] | [,,def1] [,,de,c] ,,f/ ,c | \
+[,daac1] ,a [a,dca/] ,c | [cdda2] [,dff,d1] | \
+[da,c,a2] [acd,a1] | [cdda1] d/ c [aa,,,d] ,d |";germantab
+10a;;B2r;2. Tantz;;;OT;;C;"[cce,,c2] [cce,,c1] [acc,e] | [cce,,c3/2] e/ [caa,c1] a/ ,d | \
+[,cee,c1] [,ab,,d] ,,,,,a [,cee,c] | [,aabc2] [,aab1] ,,,,c :||: \
+[caa,c1] [a,c,e] [cdda] [ea,c] |";germantab
+_10b;;B2r;Sprung;;;OT;;3;"[cce,,c1] [cce,,c] [acc,e] | [cce,,c/] e [caa,c1] a/ ,d | \
+[,cee,c1] [,ab,,d/] ,,,,,a [,cee,c1] | [,aabc3/2] [,aab/] ,,,,c1 :||: \
+[caa,c1] [a,c,e] [cdda/] [ea,c] |";germantab
+11a;;B2v;3. Tantza;;;OT;ConcR2558;C;"[caa,c3/2] [caa/] ,,,,c1 [da,c,a] | [caa,c3/2] [caa/] ,,,,c1 [fc,e,c] | \
+[ddf,,d1] [cdda] [aab,,a/] d c a | [caa,c3/2] d/ c1 [,ea,c] |";germantab
+_11b;;B2v;Sprung;;;OT;ConcR2559;3;"[caa,c3/2] [caa/] [da,c,a1] | [caa,c1] [caa] [fc,e,c] | \
+[ddf,,d1] [cdda] [aab,,a] | [caa,c/] d c1 [,ea,c] | \
+[acd,a/] c [dab,,d] ,,,c [cdda1] |";germantab
+12a;;B2v;4. Tantz;;;OT;ConcR2560;C;"[,aa,c2] [,aa,c1] [aab,,a] | [,ea,c3/2] a/ [caa,c] ,e a c | \
+[ddf,,d1] [cdda] [aab,,a] ,e/ a | [,efec2] [,efe1] ,,,,c :||: \
+[,efec2] [,efec1] [aab,,a] |";germantab
+_12b;;B2v;Sprung;;;OT;;3;"[,aa,c1] [,aa] [aab,,a] | [,ea,c/] a c ,e [a,a,c] c | \
+[ddf,,d1] [cdda] [aab,,a] | [,efec3/2] [,efe/] ,,,,c :||: \
+[,efec1] [,efe] [aab,,a] |";germantab
+13a;;B3r;5. Tantz;;[Une jeune fillette / Nonette];OT;Conc_4438;C;"[,,dca1] |: [,,dca1] ,,d/ ,a [,bd,a1] [,da,c] | \
+[aba,d1] [,d,a/] ,b [,acc1] [abb,d] | \
+[,da,c/] ,b [,a,a,d] ,d [,b,ca] ,a [,,d,a] ,b |";germantab
+_13b;;B3r;Sprung;;;OT;;3;"[,,dca1] |: [,,dca1] ,,d/ ,a [,bd,a] [,da,c] | \
+[abb,d1] [,d,a/] ,b [,acc] a | [,da,c/] ,b [,a,a,d] ,d [,b,ca] ,,d | \
+[,acc,a1] ,,,c [,,dca] :|";germantab
+14a;;B3r;6. Tantz;;;OT;;C;"[fcd,a2] [fcd1] ,,,,a | [hff,h3/2] i/ [hff,h1] f/ ,i | \
+[c,da1] [aabc] ,,,,c/ a [,ea,c1] | \
+[aac,,a1] ,,,c [aac,,a] [,da,,c/] ,b |";germantab
+_14b;;B3r;Sprung;;;OT;;3;"[fcd,a3/2] [fcd/] ,,,,a1 | [hff,h/] i [hff,h1] f/ ,i | \
+[c,da1] [aabc] [,ea,c] | [a,c,,a1] ,,,c [,da,,c/] ,b | \
+[,a,a,d1] [,,dca] [,acc,a] |";germantab
+15a;;B3v;7. Tantz;;;OT;;C;"[cdda1] [cdda] [dab,,d] c/ a | [cdda2] [cdda] :||: \
+[cdda1] [cdda] [hd,f,d] [hd,f,d] | [fdaa3/2] d/ [cdda] d f c |";germantab
+_15b;;B3v;Sprung;;;OT;;3;"[cdda1] [cdda] [dab,,d] | [cdda3/2] a/ [cdda1] :||: \
+[cdda1] [cdda] [hd,f,d] | [fdaa1] c/ d [fdaa1] | \
+[dabc1] [ccde] [aab,,d] | [cdda3/2] [cdda/] ,,,a1 :|";germantab
+16a;;B3v;8. Tantz;;;OT;;C;"[aacc1] |: [,efec1] ,c/ ,e [aacc] ,d ,c ,a | \
+[,cdca1] ,,d/ ,a [,cdca1] [fc,e,c] | \
+[ecc,e1] [caaa] [,ghge/] ,h ,g1 |";germantab
+_16b;;B3v;Sprung;;;OT;;3;"[aacc1] |: [,efec1] ,c/ ,e [aacc1] | [,cdca/] ,a ,c1 [fc,e,c] | \
+[ecc,e1] [caaa] [,ghge] | [cce,,c1] ,,,e [aacc] :| \
+[cce,,c1] ,,,e [fc,e,c] :||:";germantab
+17a;;B4r;9. Tantz;;;OT;;C;"[,aa,c/] ,,d ,a ,c [,da,c] ,c ,d a | \
+[cce,,c/] ,f c e [cce,,c1] [fc,e,c] | \
+[ecc,e1] [cdda] [,ghge/] ,h g1 |";germantab
+_17b;;B4r;Sprung;;;OT;;3;"[,aa,c/] ,,d ,a ,c [,da,c] a | [cce,,c/] ,f c e [fc,e,c1] | \
+[ecc,e1] [cdda] [,hghe] | [cce,,c1] ,,,e [cce,,c] :|";germantab
+18a;;B4r;10. Tantz;;;OT;;C;"[,aa,c1] |: [,acc,a/] ,c [,da,c1] [,,dca] ,c | \
+[,ddef2] [,dde1] [cdda] | [ddf,,d2] [acd,a] | \
+[cdda3/2] a/ [,dda1] [cdda] | \
+[aab,,a1] [,db,,c] ,,,,,d [,cdca] |";germantab
+_18b;;B4r;Sprung;;;OT;;3;"[aa,c1] |: [,acc,a/] ,c [,da,c1] [,cdca] | \
+[,ddef1] [,dde] [cdda] | [ddf,,d2] [acd,a1] | \
+[cdda3/2] a/ [,dda] c | [aab,,a1] [,db,,c/] ,,,,,d [,cdca1] |";germantab
+19a;;B4v;11. Tantz;;;OT;;C;"[aac,,a1] |: [acd,a1] [cdda] [ac,,a] [,dfec] | \
+[,cee,c1] ,,,e/ ,,e [,aba,d1] [,dda/] ,c | \
+[,ac,,e1] [,,dca] ,,,,,a [,acc] | [,,dca2] [,,dc1] [aac,,a] :|";germantab
+_19b;;B4v;Sprung;;;OT;;3;"[aac,,a1] |: [acd,a1] [cdda] [ac,,a/] ,d | \
+[,cee,c1] [,aba,d] [,dda/] ,c | [,ac,,e1] [,,dca] [,acc,a] | \
+[,,dca1] [,,dc] [aac,,a] :| [,,dca1] [,,dc] [,acc,a/] ,c :||:";germantab
+20a;;B4v;12. Tantz;;;OT;;C;"[ddf,,d1] |: [dfg,d1] [da,,c] [a,b,d] [c,a,a] | \
+[ddf,,d1] ,,,f/ ,,g [ddf,,d1] [hd,f,d] | \
+[fdaa1] [da,c] [c,a,c] [abb,d] | \
+[,dff,d1] ,,,f/ ,,g [,dff,d1] [ddf,,d] :||:";germantab
+_20b;;B4v;Sprung;;;OT;;3;"[ddf,,d1] |: [dfg,d1] [da,,c] [a,b,d/] [c,a,a] | \
+[ddf,,d3/2] [hd,f,d/] [fdaa1] | [da,c1] [c,a,c] [abb,d] | \
+[,dff,d1] ,,,f [ddf,,d] :||: [dfg,d/] ,h d f [dabc] [aabc] |";germantab
+21a;;C1r;13. Tantz;;;OT;;C;"[aac,,a1] |: [aac,,a/] ,e a c [da,c,a] c d f | \
+[hhi,,h/] ,l h k [hhi,,h1] [lh,h,h] | \
+[khh,k1] [hhi,,h] [hhh,k] [g,h,k]";germantab
+_21b;;C1r;Sprung;;;OT;;3;"[aac,,a1] |: [aac,,a/] ,e a c [da,c,a] f | \
+[hhi,,h/] ,l h k [lh,k,h1] | [khh,k1] [hhi,,h] [g,h,k] | \
+[hhk,,h1] ,,,k [aac,,a] :|";germantab
+22a;;C1r;14. Tantz;;;OT;;C;"[aac,,a1] |: [aac,,a3/2] ,,a/ [aac,,a1] [,ea,c] | \
+[aac,,a/] ,,a ,,c ,,d [aac,,a1] [caa,c] | \
+[da,c,a1] [abd,a] [aaa,c] [,ea,c] | \
+[aac,,a1] ,,,c/ ,,d [aac,,a1] [aac,,a] :|";germantab
+_22b;;C1r;Sprung;;;OT;;3;"[aac,,a1] |: [aac,,a1] ,,a/ ,,c [,ea,c1] | \
+[aac,,a1] [aac] [caa,c] | [da,c,a1] [abd,a] [,ea,c] | \
+[aac,,a1] ,,,c [aac,,a] :||: [aac,,a/] ,e a c [da,c,a] f |";germantab
+23a;;C1v;15. Tantz;;;OT;;C;"[cdf,d1] |: [cdf,c2] [cca,b1] [cdf,c] | [cce,,c/] ,f c e [cce1] ,,,,,c | \
+[cdf,c1] ,,,a/ [caa] [acc,e1] [,da,c] | \
+[,cdca3/2] ,a/ ,,d1 [fcd,a] |";germantab
+_23b;;C1v;Sprung;;;OT;;3;"[cdf,c1] |: [cdf,c1] [cca,b] [cdf,c] | [cce,,c/] ,f c e [cce,,c1] | \
+[cdf,c1] ,,,a/ [caa] [acc,e] [,da,c] | [,cdca3/2] ,a/ ,,d f |";germantab
+24a;;C1v;16. Tantz;;;OT;;C;"[cdda2] [cdda1] [cdd] | [ddf,,d2] [acd,a] | \
+[cdda1] a/ c [aab,,a1] ,e a | [,efec2] [,efe1] ,,,,c | \
+[cdda1] [cdd] [ddf,,d] [c,da] |";germantab
+_24b;;C1v;Sprung;;;OT;;3;"[cdda1] [cdd] [cdda] | [ddf,,d2] [acd,a1] | [cdda2] [aab,,a1] | \
+[,efec3/2] [,efe/] ,,,,c1 | [ccda1] [cdd] [ddf,,d/] c | \
+[aab,,a3/2] ,d/ [,cdca] ,a |";germantab
+25a;;C2r;17. Tantz;;;OT;;C;"[ddf,,d1] |: [ddf,,d/] ,h d f [hd,f,d1] [fdd,f] | \
+[ddf,,d/] ,h d h [fdd,f1] [fdd] | [hd,f,d1] f/ d [cdda] a d c |";germantab
+_25b;;C2r;Sprung;;;OT;;3;"[ddf,,d1] |: [hd,f,d1] [hd,f] [fdd,f] | [ddf,,d/] f h d [fdd,f1] | \
+[hd,f,d1] f/ d [cdda1] | [ddf,,d1] z1 [ddf,,d] :| \
+[ddf,,d1] z1 [abb,d] :||:";germantab
+26a;;C2r;18. Tantz;;;OT;;C;"[fdaa2] [fdaa1] [dabc] | [cdda2] [acd,a] | [cdda2] [ddf,,d] | \
+[acd,a2] [acd1] ,,,,a :||: [cdda2] [cdda1] [acd,a] | \
+[,dfec2] [,cee,c] | [,daac3/2] ,c/ [,aba,d1] ,d |";germantab
+_26b;;C2r;Sprung;;;OT;;3;"[fdaa1] [fda] [dabc] | [cdda2] [acd,a1] | [cdda2] [ddf,,d1] | \
+[acd,a3/2] [acd/] ,,,,a1 :||: [cdda1] [cdd] [acd,a] | \
+[,dfec2] [,cee,c1] | [,daac3/2] ,c/ [,aba,d] ,d |";germantab
+27a;;C2v;19. Tantz;;;OT;;C;"[dda1] |: [fdaa2] [cdda] | [hd,f,d3/2] i/ [hd,f,d1] [fdaa] | \
+[dabc/] c d f [dabc1] [cdda] | [acd,a3/2] c/ [acd,a1] [dbb,d] |";germantab
+_27b;;C2v;Sprung;;;OT;;3;"[,dda1] |: [fdaa1] [fda] [cdda] | [hd,f,d1] [hd,f] [fdaa] | \
+[dabc1] c/ d [cdda1] | [acd,a/] ,d a c [dbb,d1] | \
+[c,da1] [,daac] [,cdca] |";germantab
+28a;;C2v;20. Tantz;;;OT;;C;"[fdaa2] [fdaa1] c | [hd,f,d3/2] i/ [hd,f,d1] f/ d | \
+[cdda1] [dabc] ,,,,d [c,da] | [dab,,d2] [dab,,d] :||: \
+[dab,,d3/2] [dab/] [cdda1] a/ ,d |";germantab
+_28b;;C2v;Sprung;;;OT;;3;"[fdaa1] [fda] c | [hd,f,d/] i [hd,f,d1] f/ d | [cdda1] [dabc/] ,,,,d [c,da1] | \
+[dab,,d3/2] [dab/] ,,,,,d1 :||: \
+[dab,,d3/2] [dab/] [cdda] a/4 ,d |";germantab
+29a;;C3r;21. Tantz;;;OT;;C;"[aac,,a2] [aac,,a1] ,e/ ,c | [,a,c,a1] ,,c [,acc,a2] | \
+[,cdca/] ,e [acc,e1] ,,,c/ a [,ea,c1] | [aac,,a2] [aac1] ,,,,,a :||: \
+[ea,c,a1] a [ha,g,a] a |";germantab
+_29b;;C3r;Sprung;;;OT;;3;"[aac,,a1] [aac,,a] ,e/ ,c | [,a,c,a1] ,,c [,acc,a] | \
+[,cdca/] ,e [acc,e1] ,,,,c/ [,ea] | [aac,,a3/2] [aac/] ,,,,,a1 :||: \
+[ea,c,a1] a [ha,g,a/] a |";germantab
+30a;;C3r;22. Tantz;;;OT;;C;"[,ddef2] [,aba,d1] [aab,,a] | [,efec2] [,efe1] [ddf,,d] | \
+[c,da1] [aabc] [aaa,c] [,ea,c] | [aac,,a2] ,,,c :||: \
+[hd,f,d2] [dfg,d1] [if,h,f] | \
+[hd,f,d3/2] [hd,f/] [fdaa1] [dabc] |";germantab
+_30b;;C3r;Sprung;;;OT;;3;"[,ddef1] [,aba,d] [aab,,a] | [,efec1] [,efe] [ddf,,d] | \
+[c,da1] [aabc] [,ea,c] | [aa,c,a1] ,,,c [aac,,a] :||: \
+[hd,f,d1] [dfg,d] [if,h,f] | \
+[hd,f,d3/2] [hd,f/] [fdaa] [dabc] |";germantab
+31a;;C3v;23. Tantz;;;OT;;C;"[caa,c3/2] [caa/] [caa,c1] [bcc,e] | [cce,,c3/2] ,f/ [cce,,c] e [fc,e,c1] | \
+[ecc,e1] [c,da] [hff,,h] ,,,a/ ,,,c | [fcde2] [fcde1] [fhaa] |";germantab
+_31b;;C3v;Sprung;;;OT;;3;"[caa,c3/2] [caa/] [bcc,e1] | [cce,,c/] ,f c e [fc,e,c1] | \
+[ecc,e1] [c,da] [hff,,h] [fcde1] [fcd] [fhaa] | \
+[ka,,h1] [hhkk,h] [,mh,k] |";germantab
+32a;;C3v;24. Tantz;;;OT;;C;"[caa,c2] [cce,,c1] [caa,c] | [ha,g,a2] [caa,c] | \
+[ha,g,a/] f h k [ha,g,a1] [fc,,a] | [ea,c,a3/2] c/ [acd,a2] | \
+[fc,e,c/] e f h [fc,e,c1] [ecc,e] |";germantab
+_32b;;C3v;Sprung;;;OT;;3;"[caa,c1] [cce,,c] [caa,c] | [ha,g,a2] [caa,c1] | \
+[ha,g,a1] [ha,g] [fc,,a] | [ea,c,a3/2] c/ [acd,a1] | \
+[fc,e,c1] e/ f [ecc,e1] | [cce,,c2] [cce,,c1] :||:";germantab
+33a;;C4r;25. Tantz;;;OT;;C;"[aab,,a1] |: [aab,,a1] [da,c,a] [caa,c] [aab,,a] | \
+[,da,c3/2] ,b/ [,a,a,d1] ,,b | [,da,c1] ,a [abb,d] ,d/ ,b | \
+[,a,a,d1] ,,b [dab,,d2] | [fdaa3/2] [fda/] [fdaa1] [cdda] |";germantab
+_33b;;C4r;Sprung;;;OT;;3;"[aab,,a1] |: [aab,,a1] ,,,,,a/ [da,c] [caa,c] [aab,,a] | \
+[,da,c3/2] ,b/ [,a,a,d] ,,b | [,da,c1] ,a [abb,d/] ,d/4 ,b | \
+[,a,a,d1] ,,b [dab,,d] |";germantab
+34a;;C4r;26. Tantz;;;OT;;C;"[dabc1] |: [abb,d2] [,dff,d] | [,b,ca1] ,a/ ,,d [,acc,a1] [abb,d] | \
+[abb,d1] [,dff,d] [,b,ca] ,a/ ,,d | \
+[acc,a1] ,,,c/ ,,d [,acc,a1] [dabc] :||:";germantab
+_34b;;C4r;Sprung;;;OT;;3;"[dabc1] |: [abb,d1] [abb] [,dff,d] | [,b,ca1] ,a/ ,,d [,acc,a1] | \
+[abb,d1] ,d/ ,b ,a ,,d | [,acc,a1] ,,,c [dabc] :||: \
+[c,da1] a/ c [aabc1] |";germantab
+35a;;C4v;27. Tantz;;;OT;;C;"[cdda3/2] d/ [c,da1] [a,,,e] | [cef,c1] ,,,e/ ,f [cef,c1] [dabc] | \
+[cdda1] ,,,,c [abb,d] ,,,,a | \
+[cef,c1] ,,,e/ ,f [cef1] [cef,c] :||:";germantab
+_35b;;C4v;Sprung;;;OT;;3;"[cdda3/2] d/ [c,da] [a,,,e] | [cef,c1] ,,,e [dabc] | \
+[cdda1] ,,,,c [abb,d/] ,,,,a | [cef,c1] ,,,e [cef,c] :||: \
+[aabc1] ,,,,,a/ c [dabc] [acd,a] |";germantab
+36a;;C4v;28. Tantz;;;OT;;C;"[,aa,c/] ,,d ,a ,c [,da,c] ,c ,d a | [cdda/] a c d [c,da1] [a,d,e] | \
+[,daa1] [,dbac] [,,dca] ,c | [,ddef2] [,dde1] ,,,,f :||:";germantab
+_36b;;C4v;Sprung;;;OT;;3;"[,aa,c/] ,,d ,a ,c [,da,c] a | ,,,a1 [cdd] [a,d,e] | \
+[,daa1] [,dbac] [,cdca] | [,ddef3/2] [,dde/] ,,,,f1 :||: \
+[,da,c/] ,c ,d a [caa,c] d |";germantab
+37a;;D1r;29. Tantz;;;OT;;C;"[,daa1] [,dff,d] [,daa/] a [c,da1] | [ddf,,d1] ,,,f [ddf,,d] [fbd,a] | \
+[hd,f,d1] [dab,,d] [cdda/] d c1 | \
+[ddf,,d1] ,,,f ,,,,,d [ddf] :||:";germantab
+_37b;;D1r;Sprung;;;OT;;3;"[,daa1] [,dff,d/] a [c,da1] | [ddf,,d1] ,,,f [fbd,a] | \
+[hd,f,d1] f/ d [c,da1] | [ddf,,d1] ,,,f [ddf,,d] :||: \
+[fdaa1] [hd,f,d] f/ d |";germantab
+38a;;D1r;30. Tantz;;;OT;;C;"[cdda2] [cdda1] [ac,,a] | [,dfec1] [,cde,c] [,aba,d/] ,d ,c ,a | \
+[,cee,c1] ,,,e ,,,,,c [,cee] :||: [,dfec2] [aabc1] [c,da] | \
+[dab,,d1] [c,da] [aabc/] d c a |";germantab
+_38b;;D1r;Sprung;;;OT;;3;"[cdda1] [cdd] [ac,,a] | [,dfec1] [,cde,c] [,aba,d] | \
+[,cee,c1] ,,,e [,cee,c] :||: [,dfec3/2] [aabc/] [c,da1] | \
+[dab,,d1] [c,da] [aabc] | [cef,c1] ,,,e [cef,c] :||:";germantab
+39a;;D1v;31. Tantz;;;OT;;C;"[fd,ef2] [fc,ca1] [caa,c] | [cce,,c2] [cce1] [cdda] | \
+[ddff3/2] ,,,e/ [da,c1] ,c | [cdda3/2] d/ [c,da1] [a,c,e] | \
+[,dda/] a c1 [a,,,e1] [,da,c/] ,,c |";germantab
+_39b;;D1v;Sprung;;;OT;;3;"[fd,ef1] [fc,ca] [caa,c] | [cce,,c1] [cce] [cdda] | \
+[ddff3/2] ,,,e/ [da,c] ,c | [cdda3/2] d/ [c,da] [a,c,e] | \
+[,dda/] a c [a,,,e] [,da,c] ,,c | [,cd,a3/2] ,d/ ,c [,,da,c] |";germantab
+40a;;D1v;32. Tantz;;;OT;;C;"[,aaac2] [,c,ca1] [,ea,c] | [aac,,a2] [aac1] [,da,c] | \
+[acd,a1] [ccd,,c] [da,c,a] c/ a | [cdda3/2] d/ [c,da1] a/ ,d | \
+[aab,,a1] [,db,,c/] ,,,,,d ,,,,a ,d ,c1 |";germantab
+_40b;;D1v;Sprung;;;OT;;3;"[,aaac1] [,c,ca] [,ea,c] | [aac,,a1] [aac] [,da,c] | \
+[acd,a1] [ccd,,c] [da,c,a/] a | [cdda/] d [c,da1] a/ ,d | \
+[aab,,a1] [,db,,c/] ,,,,,d [,cdca1] |";germantab
+41a;;D2r;33. Tantz;;;OT;;C;"[,dfec1] ,c/ ,d [,c,ca1] [,aaac] | [,cee,c1] ,,,e [,cee,c] [caa,c] | \
+[cdf,c/] ,,,,e [cdda1] [acd,a/] ,,c [,dfec1] | \
+[,cee,c3/2] ,,c/ [,cee,c1] [fc,e,c] |";germantab
+_41b;;D2r;Sprung;;;OT;;3;"[,dfec1] ,c/ ,d [,c,ca] [,aaac] | [,cee,c1] ,,,e [caa,c] | \
+[cdf,c/] ,,,,e [cdda1] [acd,a/] [,dfec] | \
+[,cee,c1] [,cee] [fc,e,c] | [ea,c,a1] [cce,,c] [,ghge] |";germantab
+42a;;D2r;34. Tantz;;;OT;;C;"[,,dca1] |: [,,dca1] ,,d/ ,a [,bd,a1] [,da,c] | \
+[aac,,a1] ,,,c/ ,,d [aac,,a1] [dabc] | [c,da1] [abb,d] ,,,,a [,ea,c] | \
+[aac,,a1] ,,,c/ ,,d [aac,,a1] [,,dca] :||:";germantab
+_42b;;D2r;Sprung;;;OT;;3;"[,,dca1] |: [,,dca1] ,,d/ ,a [,bd,a] [,da,c] | \
+[aac,,a1] ,,,c [dabc] | [c,da1] [abb,d/] ,,,,a [,ea,c1] | \
+[aac,,a1] ,,,c [,,dca] :||:";germantab
+43a;;D2v;35. Tantz;;;OT;;C;"[,efec1] | [aabc1] [,efec] [aabc/] ,c [cdda1] | \
+[ddfr,,d1] ,,,f/ ,,g [ddf,,d1] [dfg,d] | \
+[c,da1] [db,c/] ,a [d,da] ,,b [c,da1] | \
+[ddf,,d1] ,,,f/ ,,g [ddf,,d1] [,efec] ||";germantab
+_43b;;D2v;Sprung;;;OT;;3;"[,efec1] | [aabc/] d c a [cdda1] | [ddf,,d1] ,,,f [hd,f,d] | \
+[fdaa1] [dabc] [c,da] | [ddf,,d1] ,,,f [,efec] || \
+[aabc/] c/4 d";germantab
+44a;;D2v;36. Tantz;;;OT;;C;"[,aaac1] |: [,aaac1] ,,e/ ,,c [,,eeec2] | [,aaac2] [,ca,b] | \
+[,dfec1] [,abc,a] [,,feec] [,,eeec] | [,aaac2] z1 [,aaac] :||: \
+[,dfec2] [ac,,a] | [cdda3/2] e/ [fcd,a1] ,,,,,c |";germantab
+_44b;;D2v;Sprung;;;OT;;3;"[,aaac1] |: [,aaac1] ,,e/ ,,c [,,eeec1] | [,aaac2] [,ca,b1] | \
+[,dfec1] [,abc,a] [,,eeec] | [,aaac2] [,aaac1] :||: \
+[,dfec2] [ac,,a1] | [cdda/] e [fcd,a1] ,,,,,c |";germantab
+45a;;D3r;37. Tantz;;;OT;;C;"[caa,c1] |: [da,c,a1] c/ a [caa,c1] ,,,b | \
+[aac,,a2] [aac1] [hd,f,d] | [fc,ca1] [cdda] [dabc] ,c | \
+[cdda1] c/ d f1 [cdda] |";germantab
+_45b;;D3r;Sprung;;;OT;;3;"[caa,c1] |: [da,c,a1] c/ a [caa,c1] | [aac,,a1] [aac] [hd,f,d] | \
+[fc,ca1] [cdda] [dabc] | [cdda/] d f1 [cdda] | \
+[dabc1] [c,da] [aabc] |";germantab
+46a;;D3r;38. Tantz;;;OT;;C;"[da,c,a1] |: [da,c,a2] [cda,c] | [abb,d3/2] ,d/ [abb,d1] [dabc] | \
+[cdda1] ,,,,c [abb,d] ,,,,a | [cef,c1] ,,,e/ ,f [cef,c1] [da,c,a] :||: \
+[cef,c1] ,,,e/ ,f [cef,c1] [aab,,a] :||:";germantab
+_46b;;D3r;Sprung;;;OT;;3;"[da,c,a1] |: [da,c,a1] [da,c] [cda,c] | [abb,d1] [abb] [dabc] | \
+[cdda1] ,,,,c [abb,d/] ,,,,a | [cef,c1] ,,,e [da,c,a] :||: \
+[cf,c1] ,,,e [aab,,a] :||:";germantab
+47a;;D3v;39. Tantz;;;OT;;C;"[ffg,a1] ,,,h/ h [ffg1] [ffg,a] | [dabc1] ,,b/ c a1 [dabc] | \
+[c,da1] [aabc] [a,a,c] [,ea,c] | \
+[aac,,a1] ,,,c/ ,,d [aac1] [aac,,a] ||";germantab
+_47b;;D3v;Sprung;;;OT;;3;"[ffg,a1] ,,,h/ h [ffg,a1] | [dabc1] ,,b/ c [dabc1] | \
+[c,da1] [aabc] [,ea,c] | [aac,,a1] ,,,c/ ,,d [aac,,a1] || \
+[ffg,a/] ,a ,b ,d [a,,,a] c |";germantab
+48a;;D4r;40. Tantz;;;OT;;C;"[,ddef1] | [,ddef1] [,dfec] [a,dce] [,ddef] | \
+[,cdca2] [,abc,a1] [,abc,d] | [,,de,c1] [,daa] [,,dca] ,c | \
+[,ddef3/2] [,dde/] ,,,,f1 [,ddef] || \
+[,ddef1] [,dfec] [a,dce/] ,c [,ddef1] |";germantab
+_48b;;D4r;Sprung;;;OT;;3;"[,ddef1] | [,ddef3/2] [,dde/] ,,,,f1 | [a,dce1] c/ a [,ddef1] | \
+[,cdca1] ,a/ ,c ,d ,c | [,abc,a3/2] [,,d,,c/] [,abc,d1] | \
+[,,de,c1] ,,,,,a/ ,,,,,c [,daa1] |";germantab
+;;;Folgen Polnische Tenze;;;;;;;
+49;;D4v;1. Tantz;;;OT;;C;"[acd,a2] [aac,,a1] [aac,,a] | [,cdca3/2] [,da,c/] [a,d,e1] [c,da] | \
+[a,d,e1] ,e/ a [cdda1] a/ ,d | \
+[,cdca3/2] ,d/ [,cdca1] [,acc,a] |";germantab
+50;;D4v;2. Tantz;;;OT;;C;"[,aa,c1] [aab,,a] [,efec] [ddf,,d] | [c,da3/2] [a,,,e/] [,da,c1] [,aba,d] | \
+[,c,ca/] ,d [aab,,a1] ,,,,a/ a [,ea,c1] | \
+[aac,,a1] ,,,c/ ,,d ,,c ,,a [aac,,a1] :||:";germantab
+51;;D4v;3. Tantz;;;OT;;C;"[aabc3/2] [aab/] [cdda1] [da,,c] | [fbd,a2] [fbd1] [aabc] | \
+[abd,a1] [abb,d] [,dff,d] [,b,ca] | [,acc,a1] ,,a/ ,,c [acd,a1] ,,,c :||: \
+[abb,d3/2] [abb/] [,dff,d1] [,b,ca] |";germantab
+52;;D4v;4. Tantz;;;OT;ConcR2556;C;"[abb,d2] [abb,d1] [,da,c] | [,bd,a1] [,a,a,d] [,,da,b] [abb,d] | \
+[,dff,d1] [abb,d] [bbd,,b] [,dff,d] | [abb,d3/2] ,d/ ,b1 [db,cd] | \
+[bbd,,b1] [abb,d] [,dda] ,c/ ,a |";germantab
+53;;E1r;5. Tantz;;;OT;ConcR3284;C;"[caa,c3/2] d/ [fc,e,c1] e/ c | [acd,a1] a/ c [da,c,a1] c/ a | \
+[,ea,c1] [aab,,d] ,,,,,c [ca,b] | \
+[,acc,a1] ,,,c/ ,,d ,,c ,,a [,acc,a1] |";germantab
+54;;E1r;6. Tantz;;;OT;;C;"[caa,c3/2] d/ [fc,e,c1] [caa,c] | [da,c,a3/2] c/ a1 [dabc] | \
+[cdda1] [cdd] [abb,d] ,,,,c/ ,,,,a | [,efec2] [,efec] | \
+[caa,c3/2] d/ [fc,e,c1] [caa,c] |";germantab
+55;;E1r;7. Tantz;;;OT;;C;"[,ddef2] [acd,a] | [cdda2] [cdda3/2] [,dda/] | [acd,a1] [ccd,,c] [da,c,a] a | \
+[cdda1] ,d/ a [c,da] d [fdaa1] | [dab,,d1] [cdda] [acd,a2] |";germantab
+56;;E1r;8. Tantz;;;OT;;C;"[caa,c1] [caa] [caa,c] [da,c,a] | [caa,c2] [aac,,a] | \
+[caa,c/] a c d [caa,c1] [da,c,a] | [caa,c1] a/ ,d [aac,,a2] | \
+[caa,c1] [,da,c] [abb,d] [c,da] |";germantab
+57;;E1v;9. Tantz;;;OT;;C;"[hd,f,d3/2] [hd,f/] [fdaa1] [da,c] | [caa,c1] a/ c [a,bcd2] | \
+[abd,a1] ,a/ ,b [,dff,d1] [,b,ca] | \
+[a,cc,a1] ,,,c/ ,,d ,,c ,,a [,acc,a1] :||:";germantab
+58;;E1v;10. Tantz;;;OT;;C;"[aac,,a3/2] [aac/] [,ea,c1] [aac,,a] | [,cdca3/2] ,d/ [,cd,a1] ,a/ ,,d | \
+[,acc,a1] [acd,a] [aaa,c] [,ea,c] | \
+[aac,,a1] ,,,c/ ,,d ,,c ,,a [aac,,a1] :||:";germantab
+59;;E1v;11. Tantz;;;OT;;C;"[acd,a1] [acd/] ,,,,,e [c,d,,c1] [ea,c,a] | [fc,e,c3/2] ,,,,,e/ [fcd,a1] [ac,,a] | \
+[c,da3/2] [a,cc/] [,daa] ,,,c [,cdca1] | \
+[,acc,a/] ,,d ,,c1 [,,dca2] :||:";germantab
+60;;E1v;12. Tantz;;;OT;;C;"[,ccde/] ,e a c [ecc,e1] [fc,e,c] | [ecc,c3/2] c/ [acc,e1] [fc,e,c] | \
+[ea,c1] [c,da] [,ghge/] ,h ,g1 | \
+[cce,,c1] ,,,e ,,,,,c [cce] :||:";germantab
+61;;E2r;13. Tantz;;;OT;;C;"[,bdca3/2] ,d/ [abd,a1] [bdda] | [,aba,d1] [,b,ca] [,ddef2] | \
+[,,dca3/2] ,a/ [,bd,a1] [abb,d] | [,dff,d3/2] ,b/ [,a,a,d1] [,,dca] | \
+[,,bc,a3/2] ,,a/ ,,,c1 [,bdcd] |";germantab
+62;;E2r;14. Tantz;;;OT;;C;"[,bdca3/2] ,a/ [,b,ca1] [,dff,d] | [abb,d3/2] ,d/ ,b ,a ,b1 | \
+[,dff,d3/2] a/ [,dff,d1] [,b,ca] | \
+[,acc,a3/2] ,,d/ ,,c1 [da,c,a] |";germantab
+63;;E2r;15. Tantz;;;OT;;C;"[cdda2] [cdda3/2] [acd,a/] | [,ddef1] [cdda] [acd,a] [,da,c] | \
+[,cdca1] [,acc,a] ,,,,,c [,cee] | [,aaac2] [,aaa1] ,,,,c :||: \
+[,dda1] [fdaa] [cdda] [dabc] |";germantab
+64;;E2r;16. Tantz;;;OT;;C;"[,da,c3/2] a/ [cdda1] [da,c] | [caa,c3/2] a/ [,dfec1] [,ca,b] | \
+[,aaac1] [,,eeec] [,aba,d/] ,,d ,a1 | [,,eeec2] [,,eee1] ,,,,,c :||: \
+[,cdca3/2] ,d/ [acd1] [aab,,d] |";germantab
+65;;E2v;17. Tantz;;;OT;;C;"[cdf,c1] [hhi,,h] [fc,e] [d,ff] | [cdda2] [cdda1] [cdd] | \
+[aab,,a1] [,da,c] [aab,,a] [cdf,c] | [da,c,a1] [c,d/] [a,b] [cef,c2] | \
+[cdf,c1] [hhi,,h] [fc,e/] c [d,ff1] |";germantab
+66;;E2v;18. Tantz;;;OT;;C;"[abd,a2] [abd,a1] [fbd,a] | [da,c,a2] [d,bcd1] c/ a | [,dda1] [dabc] [cdda/] d c1 | \
+[dab,,d3/2] f/ [dab,,d1] [hd,f,d] | [fdaa2] [dabc/] a c d |";germantab
+67;;E2v;19. Tantz;;;OT;;C;"[aab,,a3/2] [c,d/] [da,c,a1] [ca,bc] | [dab,,a2] ,,,c | \
+[dabc3/2] [c,d/] [aabc1] [da,c,a] | [c,da2] [aacd1] ,,d | \
+[cef,c2] ,,,e :||: \
+M:3
+[,efec2] [aabc1] | [c,da2] [ddf,,d1] |";germantab
+68;;E2v;20. Tantz;;;OT;;C;"[caa,c1] a/ c [da,c,1] [ca,bc] | [a,bcd2] [,efec] | \
+[aabc1] c/ d [da,c,a1] c/ a | [cef,c2] ,,,e | \
+[caa,c1] c/ a [da,c,a1] [ca,bc] | [a,bcd2] [,efec] |";germantab
+69;;E3r;21. Tantz;;;OT;;C;"[,dda/] a c d [fdaa1] [hd,f,d] | [fdaa3/2] d/ c1 a/ ,d | \
+[acd,a2] [acd,a1] [fdaa] | [acd,a2] [acd,a] | \
+[,dda/] a c d [fdaa1] [hd,f,d] |";germantab
+70;;E3r;22. Tantz;;;OT;;C;"[fdaa3/2] [fda/] [dab,,d1] [cdda] | [dab,,d3/2] f/ [hd,f,d1] f/ d | \
+[fdaa3/2] d/ c a ,d1 :||: [fdaa3/2] [fda/] [dab,,d1] [cdda] |";germantab
+71;;E3r;23. Tantz;;;OT;;C;"[fdaa3/2] d/ [c,da1] [hd,f,d] | [fdaa3/2] d/ [c,da1] a/ ,d | \
+[acd,a1] [,daac] ,,,,,d [,cdca] | [,ddef2] [,ddef] :||: \
+[fdaa1] [fda] [haa,,h] [kf,h,f] |";germantab
+72;;E3r;24. Tantz;;;OT;;C;"[,dda1] ,d/ a [bdda1] [bdd] | [db,cd1] [db,c] [fb,d,b2] | \
+[fb,d,b1] d/ b [dab,,d] b a ,d | [,cdca1] ,a/ ,c [,ddef2] :||:";germantab
+73;;E3v;25. Tantz;;;OT;;C;"[,dda2] [,dda1] a/ c | [dab,,d2] [cdda1] a/ ,d | [acd,a2] ,,,c | \
+[acd,a1] [acd] [cdda] [dabc] | [fc,ca3/2] d/ c a ,d1 |";germantab
+74;;E3v;26. Tantz;;;OT;;C;"[fdaa1] |: [fdaa1] [c,da] [dabc] [fdaa] | [hd,f,d3/2] f/ [dd,f,d1] [hd,f,d] | \
+[fdaa1] [c,da] [dabc] [aabc] | [c,da3/2] a/ [,dda1] [cdda] | \
+[acd,a1] [,cdca] [,da,c] [,aa,c] |";germantab
+75;;E3v;27. Tantz;;;OT;;C;"[aac,,a1] c/ e [fcd,a1] [ea,c,a] | [caa,c1] [aac,,a1] [,ea,c] [acc,e] | \
+[ce,ec3/2] ,f/ [ce,e1] [ce,ec] | \
+[aac,,a1] c/ e [fcd,a] c [ea,c,a] a |";germantab
+76;;E3v;28. Tantz;;;OT;;C;"[aac,,a1] ,,,c/ ,,d [aac,,a1] [caa,c] | [aac,,a3/2] ,d/ [,cdca1] [,acc,a] | \
+[,cdca/] ,e [acc,e1] ,,,,c/ a [,ea,c1] | \
+[aac,,a1] ,,,c/ ,,d ,,c ,,a [aac,,a1] :||:";germantab
+77;;E4r;29. Tantz;;;OT;;C;"[,aba,d3/2] [,aba/] ,,,,,d1 [,dff,d] | [,b,ca1] ,a/ ,,d [,acc,a2] | \
+[abb,d1] ,d/ ,b ,d ,b ,a ,,d | \
+[,acc,a1] ,,,c/ ,,d ,,c ,,a [,acc,a1] |";germantab
+78;;E4r;30. Tantz;;;OT;;C;"[abb,d2] [abb,d1] ,,,,a | [,ea,c3/2] a/ [caa,c1] [ddf,,d] | \
+[c,da1] [aabc] [fdaa] c | [abb,d1] ,d/ a [abb,d1] ,d/ ,b | \
+[,aba,d1] [,b,ca] [,da,c] [,aba,d] |";germantab
+79;;E4r;31. Tantz;;;OT;;C;"[dab,,d1] [dab] [c,da] a/ c | [dab,,d1] c/ a [,da,c1] ,c/ ,d | \
+[abb,d1] [dab,,d] [,dda] c | [dab,,d2] [dab,,d] :||:";germantab
+80;;E4r;32. Tantz;;;OT;;C;"[aac,,a3/2] ,,d/ [aac,,a1] [caa,c] | [aac,,a3/2] ,d/ ,c1 ,a/ ,,d | \
+[,acc,a1] [acd,a] [aaa,c] [,ea,c] | \
+[aac,,a1] ,,,c/ ,,d ,,c ,,a [aac,,a1] :||:";germantab
+81;;E4v;33. Tantz;;;OT;;C;"[,aa,c/] ,c [,da,c1] [,ca,b] [,daac] | [aab,,a3/2] c/ [da,c,a1] [caaa] | \
+[aab,,a/] ,d ,c ,a [,cee,c] ,,f ,,c ,,e | \
+[,aabc3/2] [,aab/] ,,,,c1 [cda,c] |";germantab
+82;;E4v;34. Tantz;;;OT;ConcR1239;C;"[cdda/] d [fdaa1] [ddf,,d] [cdda] | [acd,a1] ,,,,a/ ,,,,c ,,,,e ,,,a [aacc] ,d | \
+[,cdca/] ,d a ,,,,e [,da,c] ,,c [,cdca1] |";germantab
+83;;F1r;35. Tantz;;;OT;;C;"[dab,,d3/2] [dab/] [dab,,d1] [c,da] | [aabc2] [,dfec] | \
+[abb,d/] c [dabc1] [,dda] c | [dab,,d2] [dab1] ,,,,,d :||: \
+[,dff,d1] [,fgfd] [dff,d] [,bbcd] |";germantab
+84;;F1r;36. Tantz;;;OT;;C;"[aabc1] c/ d [c,da1] [aab] | [,da,c3/2] ,b/ ,a1 [hd,f,d] | \
+[hd,f,d1] f/ d [ddda1] [c,da] | [dab,,d3/2] ,b/ ,a ,,d ,,b1 |";germantab
+;;;Folgen Passemezen;;;;;;;
+85a;;F1v;1. Passemezo anticho;;;OT;ConcR2571;C;",,d/ ,a | [abd,a1] ,,,c [abd] [abd,a] | [abd,a1] ,,,c/ a ,d ,b [,a,a] ,,d | \
+[,ab,,d1] ,,,a ,a ,b | [,db,,d1] ,,,a a ,d |";germantab
+_85b;;F3r;El suo Saltarello;;;OT;ConcR2572;3;",,d/ ,a | [abd,a3/2] [abd/] ,,,c1 | [abd,a/] ,a ,b ,d [a,,,a] c | \
+[dab,,d3/2] [dab/] ,,,a1 | [dab,,d/] c a ,d ,b ,a |";germantab
+_85c;;F4r;Le Represe;;;OT;;3;"[cdda1] ,,,a/ e f1 | [eff,,a1] ,,,c/ f h1 | [eff,,a1] ,,,c/ ,d ,a1 | \
+[,cdca/] ,a ,c/4 ,a ,c ,d ,c1 |";germantab
+86a;;F4v;2. Passemezo anticho;;;OT;;C;",d/ a | [bdda1] [,dda/] ,c [,dda] a b d | [bdda1] [f,dd] [da,c] [b,da] | \
+[abb,d1] ,,d/ ,a ,b ,d a b |";germantab
+_86b;;G1v;El suo Saltarello;;;OT;;3;",d/ a | [bdda3/2] [bd/] ,,d1 | [bdda1] [b,da] a/ ,d | [abb,d3/2] [abb/] ,,,c1 | \
+[abb,d/] ,a ,b ,d [abb,d1] | [b,da3/2] d/ [b,da1] |";germantab
+_86c;;G1v;Le Represe;;;OT;;3;"[,aba,d1] ,,,a/ ,c [,dba,d1] | [,cdca1] ,,,c/ ,a [,cdca1] | \
+[,dbac1] [,dba,d] [,cdca] | [,ddef1] ,,,,f/ ,,,f [,ddef1] | \
+[,aba,d1] ,,,a/ ,c [,dba,d1] |";germantab
+87a;;G2r;3. Passemezo anticho;;;OT;ConcR2573;C;",a/ ,c | [,da,c1] ,a/ ,c ,d a c d | [caa,c1] ,d/ c a ,d ,c ,a | \
+[ac,,a1] ,,d [ac,,a] ,d |";germantab
+_76b;;G2v;El suo Saltarello;;;OT;ConcR2574;3;",a/ ,c | [,da,c1] ,a/ ,c ,d a | ,,,,c/ [caa] a ,d [,c,,c] ,a | \
+[acd,a/] ,,,c [acd] ,d a ,d |";germantab
+_87c;;G3r;Le Represe;;;OT;;3;"[aac,,a1] [aac] [aac,,a] | [cce,,c3/2] [cce/] ,,,e1 | [cce,,c1] [cce] [cce,,c] | \
+[,aabc3/2] [,aa/] ,,,b1 | [aac,,a1] [aac] [aac,,a] | \
+[cce,,c3/2] [cce/] ,,,e1 |";germantab
+88a;;G3v;4. Passemezo anticho;;;OT;;C;"a/ c | [dab,,a1] ,,,c [da,,,a] [c,d] | [a,b,,a1] [c,d] [,,,c,a/] [da] [c,d] [a,b] | \
+[cdda1] ,a/ ,c ,d a c d |";germantab
+_88b;;H1r;El suo Saltarello;;;OT;;3;"a/ c | [dab,,a3/2] [c,d/] [a,b1] | [dab,,a1] [c,d] [a,b] | \
+[cdda1] ,a/ ,c ,d a | [cdda/] ,,b ,,d ,,a [,,ba] ,,d |";germantab
+_88c;;H1v;Le Represe;;;OT;;3;"[,cd,a1] ,,,c/ ,d [acd,a1] | [,efec1] ,,,e/ ,f [,efec1] | \
+[aac,,e1] [acd,a] [,efec] | [aac,,a1] ,,,c [aac,,a] | \
+[acd,a1] ,,,c/4 ,a ,c ,e a1 |";germantab
+89a;;H2r;5. Passemezo commune;;;OT;;C;",,d/ ,a | [acd,a1] ,,,,a/ a ,,,,a ,d ,c ,a | \
+[acd,a/] ,,a/4 ,,c ,,d ,a ,c ,d [a,,,a/] ,c ,d a |";germantab
+_89b;;H2v;Le Represe;;;OT;;C;"[aac,,a1] [aac] ,,,,,a [aac,,a/] ,,d | [aac,,a1] ,,,c/ [aac] [,,da,c] ,,a/4 ,,c ,,d ,,c ,,a ,,c | \
+[aac,,a1] [aac] ,,,,,a/ [aac] [,,d,,c] ,,,b |";germantab
+_89c;;H3r;El suo Saltarello;;;OT;;3;",,d/ ,a | [acd,a3/2] [acd/] ,,,c1 | [acd,a/] ,d a ,c ,d a | \
+[cdda3/2] [cdd/] ,,,a1 | [c,da1] [a,,,e] [,d,,c] |";germantab
+_89d;;H3v;Le Represe;;;OT;;3;"[aac,,a1] ,,,c/ ,,d [aac,,a1] | [acd,a1] [aaa,c] [,ea,c] | \
+[aac,,a1] ,,,c [aac,,a] | [aac,,a/] c a ,d ,c ,a | \
+[,c,,a/] ,,d ,a ,c [,d,a] ,c |";germantab
+90a;;H3v;6. Passemezo commune;;;OT;ConcR2575;C;",d/ a | [cdda1] ,,,a [fda] [ddf,,d] | [cdda1] [db/] ,a [,,da] ,,b [c,da1] | \
+[dab,,d1] ,,,,,d/ ,,,,a ,,,,c ,,,,a ,,,,,d ,,,,,c |";germantab
+_90b;;H4v;Le Represe;;;OT;;C;"[acd,a/] f/4 e f/ e/4 c a/ ,d/4 ,c ,d/ ,c/4 ,a | \
+[acd,a1] ,,,c/ [acd] [,da,c] ,,c/4 ,,d ,a ,c ,d ,a |";germantab
+_90c;;H4v;El suo Saltarello;;;OT;ConcR2576;3;",d/ a | [cdda3/2] [cdd/] ,,,a1 | \
+[cdda3/2] [d,,c/] [fdde1] | [ddff1] [,dda] c | \
+[dab,,d/] ,,,,,c ,,,,,d [,b,,a] [,d,,c] [a,,,d] |";germantab
+_90d;;I1r;Le Represe;;;OT;;3;"[acd,a3/2] [acd/] ,,,c1 | [acd,a1] [,da,c/] ,a/4 ,c ,d ,a ,c ,d | \
+[acd,a1] ,,,c/ ,a ,c/4 ,a ,c ,d |";germantab
+91a;;I1v;7. Passemezo commune;;;OT;;C;",,f/ ,c | [cef,c1] ,,,,c/ ,f c ,f ,e ,c | \
+[cef,c1] ,,,,c/ ,f c ,e ,f c | [ea,c,a1] ,,,,,a/ f";germantab
+_91b;;I2r;El suo Saltarello;;;OT;;3;",,f/ ,c | [cf,c1] ,,,,c/ ,f ,e ,c | [cef,c/] ,f c ,e ,f c | \
+[ea,c,a3/2] [ea,c/] ,,,,,a1 | [ea,c,a/] c e a c e |";germantab
+92a;;I2v;8. Passemezo commune;;;OT;;C;"[aac,,a1] | [aac,,a/] ,,d ,a ,c [,a,b] ,,d ,,c ,,a | \
+[aac,,a/] ,,,c [aac] [,,d,,c] [aac,,a3/4] ,d/4 ,c/ ,a | \
+[acd,a1] [acd/] [,d,,c]";germantab
+_92b;;I3r;El suo Saltarello;;;OT;;3;"[aac,,a1] | [aac,,a3/2] [aac/] ,,,c1 | [aac,,a/] [,,d,,c] [aac,,a] ,d ,c ,a | \
+[acd,a/] ,a ,c ,d [acd,a1] | \
+[,a,c,e/] ,,,,,a [,,d,,c] ,c [,a,b] ,,d |";germantab
+;;;Folgen Gailliarden;;;;;;;germantab
+93;;I3v;1. Gailliarda;;;OT;;3;"[aacc/] [aacc] [aacc1] [acd,a] | [cdda3/2] [cdda/] [aab,,d1] | \
+[,ea,,c3/2] [,ea,,c/] [dabc1] | [cdda3/2] [cdda/] [,ab,d1] | \
+[ccd,,c/] [ccd] [cdda1] [ea,c] |";germantab
+94;;I3v;2. Gailliarda;;;OT;;3;"[aacc/] [aacc] [aacc1] [,acc,a] | [aacc/] c [ea,c1] [acd,a] | \
+[ea,c/] [fcd,a] [hf,gh1] [hf,g,a] | [hf,gh3/2] [i,,,a/] [hf,gh1] | \
+[fcd,a/] e [caa,c] c [ccd,,c] a |";germantab
+95;;I4r;3. Gailliarda;;;OT;ConcR2562;3;"[,acc,a1] [,cdca] [,ea,c] | [aac,,a/] ,d/4 ,c ,a ,,d ,,c ,,a [aac,,a1] | \
+[,acc,a/] ,,a/4 ,,c [,cdca/] ,a/4 ,c [,ea,c/] ,c/4 ,e |";germantab
+96;;I4r;4. Gailliarda;;;OT;;3;"[,cdca3/2] [,cdc/] [,a,a] ,,d | ,,c/ ,,a [,acc,a] ,,d [,,d,,a] ,,c | \
+[,,dca3/2] [a,d/] [acd,a3/2] | [c,,a/] [,dba,d3/2] [c,,a/] | \
+[cdda3/2] [cdd/] [aab,,d] ,d |";germantab
+97;;I4v;5. Gailliarda;;;OT;;3;"[cdda/] d [fdaa1] [dabc] | [cdda3/2] a/ [,dda1] | [,cdca/] ,d [aab,,d1] [,dda] | \
+[,c,ca3/2] ,,d/ [,a,a,d] ,c | \
+[,daac1] [,,dca/] ,c ,d/4 ,c ,a ,c |";germantab
+98;;I4v;6. Gailliarda;;;OT;;3;"[cdda1] [cdd] [ac,,a] | [,dfec3/2] [,dfe/] [,cee,c1] | \
+[,dba,d/] ,c ,a ,d [,c,,,a] ,a | [,cee,c3/2] ,,c/ ,,e1 | \
+[cdda1] [cdd] [ac,,a] |";germantab
+99;;K1r;7. Gailliarda;;;OT;;3;"[da,c,a/] c |: [aab,,a1] z/ d [ca,c,a] a | [,da,c1] z/ ,a [,ca,c] ,d | \
+[aab,,a1] z/ ,c [,dbc] a |";germantab
+100;;K1r;8. Gailliarda;;;OT;;3;"[cdda1] |: [cdda3/2] [cdd/] [fdaa3/2] | [fda/] [dab,,d] c a d | \
+[c,da1] [,ddef2] | [,dda/] a c ,d [a,da] c |";germantab
+101;;K1v;9. Gailliarda;;;OT;ConcR2882;3;"a/ c [dabc1] [fdaa] | [hd,f,d2] [fdaa1] | [dab,,d1] [c,da] [aabc] | \
+[,efec3/2] ,f/ [cef,c1] | [ddf,,d3/2] f/ [hd,f,d1] | \
+[fdaa3/2] c/ [ddff] c |";germantab
+102;;K1v;10. Gailliarda;;;OT;;3;"[,dda1] [acd,a/] c d a | [cdda3/2] [cdd/] [aab,,a1] | \
+[,db,,c1] ,,,,,d [,cdca] | [,ddef3/2] [,dde/] ,,,,f1 :||: \
+[dab,,d/4] c d f [hd,f,d/] [hd,f] [hd,f,d] [hd,f,d] |";germantab
+103;;K2r;11. Gailliarda;;;OT;;3;"[ccd,,c1] |: [acd,a3/2] [,dfec/] [,cdce1] | [,aaa1] [,,dce] [,,c,c] | \
+[,,aa,c3/2] ,,c/ [,,da,c] [,ab,,d] | \
+[,c,ca/] [,da,c] [a,c,e] ,c [,da,c] [a,c,e] | \
+[cdda3/2] [a,c,e/] [,da,c1] |";germantab
+104;;K2r;12. Gailliarda;;;OT;;3;"[cdda/4] a c d [fdaa/] [fda] [fdaa] [fdaa] | [cdda3/2] d/ [fdaa3/2] | \
+[fda/] [dab,,d1] [cdda] | [acd,a1] [acd/] [acd,a1] [acd,a/] |";germantab
+105;;K2v;13. Gailliarda;;;OT;;3;"a/ c | [effc3/2] f/ [effc1] | [effc1] [c,da] [a,d,e] | \
+[cef,c1] ,,,e/ ,f ,e ,c | [cef,c/] ,c ,e ,f [c,,,c] e |";germantab
+106;;K2v;14. Gailliarda;;;OT;;3;"[cdda/4] a c d [fdaa/] [fda] [fdaa] [fdaa] | [fdaa3/2] d/ [c,da1] | \
+[,dff,d1] [dbb,d] [c,da] | [dab,,d2] [dab1] | \
+[abb,d3/2] c/ [dbb,d1] |";germantab
+107;;K3r;15. Gailliarda;;;OT;ConcR2565;3;"[cdda1] [ac,,a] [,dfec] | [,cee,c3/2] ,,f/ [,cee,c1] | \
+[,dfec1] [ac,,a] [cdda] | [acd,a3/2] ,d/ [,cdca1] | \
+[fc,e,c1] [ec,ce] [cdd,cc] | [a,d,e3/2] ,c/ [,da,c] a |";germantab
+108;;K3r;16. Gailliarda;;;OT;ConcR2561;3;"[,dda1] |: [,dda1] ,c/ ,a [,,def1] | [fc,e,c] [ddf,,d] [acd,a] | \
+[cdda/] a c d [c,da1] | [acd,a1] [,da,c/] ,,c/4 ,,a ,,d/ ,,c |";germantab
+109;;K3v;17. Gailliarda;;;OT;;3;"[aac,,a1] [,cdca] [,efec] | [aac,,a1] ,,,c/ ,,d [aac,,a1] | \
+[acd,a1] [cdda] [effc] | [fc,ca1] ,,,c/ e [fc,ca1] | \
+[h,fgh1] [kf,h,f] [haa,,h/] f |";germantab
+110;;K3v;18. Gailliarda;;;OT;;3;"[fdaa1] [caa,c] [hd,f,d] | [fdaa3/2] d/ [c,da] ,d | [fdaa1] [caa,c] [hd,f,d] | \
+[fdaa3/2] d/ [c,da1] | [acd,a1] [,da,c2] | \
+[,cdca3/2] [,da,c/] [a,c,e1] |";germantab
+111;;K4r;19. Gailliarda;;;OT;;3;"f/ d | [cdda1] ,d/ a c d | [c,da1] [a,c,e] [,da,c] | \
+[acd,a1] ,,,c/ ,d ,c ,a | [acd,a1] ,,,c [f,de] |";germantab
+112;;K4r;20. Gailliarda;;;OT;ConcR2566;3;"[cdda1] |: [ac,a3/2] [acd/] [,dfec1] | [,cd,,c1] [,ab,,d/] ,,,c/4 ,,,a ,,,c1 | \
+[cce,,c1] ,,,e [,cdca] | [,cdca/] ,e/4 a ,e/ ,c [,e,ec1] |";germantab
+113;;K4v;21. Gailliarda;;;OT;;3;"[dabc/] [f,a] |: [hii,f1] ,,i/ h [f,i,f] ,h | \
+[dabc/] c [aabc] c [dabc] a | \
+[f,,a/] d [c,d] [a,b] [a,,,d] ,,,c |";germantab
+114;;K4v;22. Gailliarda;;;OT;;3;"[aabc/] c |: [dabc1] ,a/ ,c [c,da] ,a | [a,bcd/] ,,d [,daac] ,,b [,b,ca] ,,a | \
+[,ab,,d1] ,,,a/ ,,d ,,b ,,a |";germantab
+115;;L1r;23. Gailliarda;;;OT;ConcR2564;3;"[aac,,a1] | [aac,,a1] [,ed/] ,c [a,cc,a1] | [he,g,e1] [fc,ca/] e [ca,bc1] | \
+[ea,c,a/] a/4 c e a c e [caa,c/] ,e/4 a |";germantab
+116;;L1v;24. Gaillarda;;;OT;;3;"[eff,,a/] f [ha,g,a1] [ffh,a] | [eff,,a3/2] [cef,c/] [acc,e1] | \
+[,acb,e1] [,cdca/] ,e [a,cce1] | [cef,c1] ,,,e/ ,f [cef,c1] | \
+[hf,g,e1] [ffh,a] [eff,,a] |";germantab
+;;;Folgen Padoanen;;;;;;;
+117;;L2r;1. Padoana;;;OT;;C;"[caa,c2] [caa,c1] [caa] | [da,c,a3/2] c/4 d [cce,,c2] | \
+[aab,,d1] [,db] [da,c,a] c/ a | \
+[cdda2] [cdda/] ,,,,,a ,,,,,c ,,,,,e |";germantab
+118;;L2v;2. Padoana;John Johnson;The Old Medley;OT;ConcR37;C;"[cdf,c2] [cdf,c1] [cdf] | [cce,,c2] [cce,,c1] [cdf,c] | \
+[da,c,a1] [cdda] [acd,a] [acd,a] | [,dda3/2] [,cc,e/] [,da,c1] [,da,c] | \
+[fcd,,c3/2] d/ [cdda1] [acd,a] |";germantab
+119;;L3r;3. Padoana;;;OT;;C;"[,cee,c2] [,cee,c1] [,cee] | [,d,ec/] ,,f ,c ,d [acd,a1] [acd,a] | \
+[cdda1] [ac,,a] [,dfec3/2] [,dfec/] | \
+[,cee,c1] [cdda] [fcd,a3/2] [cdda/] |";germantab
+120;;L3v;4. Padoana;John Johnson;The New Medley;OT;Conc_4448;C;"[acd,a2] [acd,a1] [ccd,,c] | [ea,c,a1] ,,,,,a/ [ccd,,c] [aac,,e1] [,c,ca] | \
+[cdda1] c/ [ac,,a] [,dfec1] [,cde,c] | \
+[,acc,a/] ,,d [,acc,a1] [,,dca2] :||:";germantab
+121;;L4r;5. Padoana;John Johnson;Delight Pavan;OT;ConcR12;C;"[,aa,c3/4] ,,e/4 ,a/ ,c [,dfec1] [,cee,c] | [,aba,d3/4] ,c/4 ,d/ a [,dba,d] ,a [,dba,d] a | \
+[cce,,c3/4] ,f/4 [,d,ec3/4] ,f/4 [,cdca3/4] ,d/4 [,aaac3/2] |";germantab
+122;;L4r;6. Padoana;;;OT;;C;"[caa,c2] [caa,c1] [caa] | [fc,e,c1] [caa,c] [da,c,a] [acd,a] | \
+[cdda3/2] [cdd/] [da,c,a2] | [cce,,c3/2] ,f/ [,dfec] ,c [,dfec1] | \
+[aab,,a3/2] ,d/ ,c1 [,abc,a] |";germantab
+123;;L4v;7. Padoana;;;OT;ConcR19;C;"[cce,,c2] [caa,c1] [da,c,a] | [cce,,c3/2] ,f/ [,dfec] ,c [,,fec] ,,,,a | \
+[hd,f,d1] [fcd,,c] [da,c,a2] | \
+[cdda/] ,,,,,a ,,,,,c ,,,,,e [acd,a] c [da,c,a1] |";germantab
+124;;L4v;8. Padoana;;;OT;;C;"[caa,c3/2] a/ c/4 a c d [fc,e,c1] | [caa,c1] [da,c,a] [cce,,c3/2] ,f/ | \
+[,efec1] [aab,,a] [,cee,c] [fc,e,c] | \
+[ddf,,d1] [acd,a] [cdda3/2] [cdda/] |";germantab
+;;;Folgen Pauanen;;;;;;;
+125a;;M1r;1. Pauana Ferrareza;;;OT;;C;"[aabc3/2] [,ea,c/] [aabc1] [c,da] | [dab,,d1] [hd,f,d3/2] f/ [dab,,d1] | \
+[cdda1] f [fdaa] [dab,,d] | [cdda/] a c d [fcde] c d f |";germantab
+_125b;;M1r;Gailliarda Ferrareza;;;OT;;3;"[aabc/] ,e a c [dabc] f | [hd,f,d3/2] f/ [dd,f,d1] | \
+[hd,f,d1] [fdaa] [dabc] | [cdda3/2] a/ [,dda1] | \
+[cdda/] a c d [fcde] c |";germantab
+_126a;;M2v;2. Pauana des Dieux;;;OT;;C;"[,dfec2] [,dfec1] [aab,,d] | [ccd,,c/] a ,d [,c,c] [,dda] ,,,e [c,da1] | \
+[ac,,a1] [,dfec/] [aab,,d] [ccd,,c1] [ccd,,c/] a | \
+[,efec2] [,efec1] [,efe] :||:";germantab
+_126b;;M2v;Gailliarda des Dieux;;;OT;;3;"[,dda1] [,dd] [acd,a] | [c,da/] a [,da,,c] ,c [,da,c] ,,,,e | \
+[ccd,,c/] ,,,,,a [ccd,,c] [da,c,a] [ccd,,c] a | \
+[,efec2] [,efe1] :||:";germantab
+127a;;M3r;3. Pauana La Garde;;;OT;;C;"[fdaa2] [fdaa] | [hd,f,d2] [fcd,a3/2] d/ | [cdda1] a/ ,d [acc,e2] | \
+[,dfec2] [,dfe1] ,,,,c | [fcd,a3/2] ,,,,c/ [fc,,e1] ,,a | \
+[hd,f,d/] ,,,,a ,,,,c ,,,,e [fdaa3/2] d/ |";germantab
+_127b;;M3r;Gailliarda La Garde;;;OT;;3;"[fdaa1] [fda] [hd,f,d] | [fdaa/] h [fdaa1] [dabc] | \
+[cdda1] a/ ,d [aabc1] | [,dfec2] [,dfe1] | [fdaa1] [fda] [hd,f,d] | \
+[fdaa/] d f h i h |";germantab
+128a;;M3v;4. Pauana Sur la battaglia;;;OT;;C;"[fdaa2] [fdaa1] [fda] | [cdda/] a c d [c,da1] [dab,,d] | \
+[dab,,d2] [dab,,d/] c a ,d | [acd,a2] [acd,a1] [acd] | \
+[fc,ca2] [fc,ca1] [fc,c] |";germantab
+_128b;;M3v;Gailliarda Sur la battaglia;;;OT;;3;"[fdaa1] [fdaa/] [fda] [fdaa] [fdaa] | [cdda2] [cdda1] | \
+[dab,,d1] [dab,,d/] [dab] [dab,,d] [dab,,d] | [acd,a2] [acd1] | \
+[fc,ca1] [fc,ca/] [fc,c] [fc,ca] [fc,ca] |";germantab
+;;;Folgen Branlen;;;;;;;
+129;;M4r;1. Branle de Bourgoingne;;;OT;;C;"[,daa/] [,da] [,cd,a] [,daa] [abb,d1] [abb,d/] c | \
+[aab,,d/] [,db,c] [,ddca] [,cdca] [,daa] ,d ,,a ,,,a | \
+[,daa/] [,da] [,cd,a/4] ,a ,c ,d";germantab
+130;;M4r;2. Branle de Bourgoingne;;;OT;;C;"[,,d,a/4] ,a ,b ,d [abb,d/] [abb] [f,aa] [f,a] [da,c] c/4 a | \
+[,daa/4] a b a ,d ,b ,a ,,d [aac,,a/] ,,,c [,cd,a] ,,,c |";germantab
+131;;M4v;3. Branle de Champaigne;;;OT;;C;"[,,dca/4] ,a ,c ,d [aac,,a/] ,c [,dda] a [,c,,a] ,,d | \
+[,,dca/4] ,a ,c ,d [aac,,a] c d c [aac,,a] ,d ,c ,a [acd,a1] |";germantab
+132;;M4v;4. Branle de Champaigne;;;OT;;C;"[,aa,c/4] ,c ,d a [caa,c/] [caa,c] [cce,,c] [cce,,c] [,da,c] ,a | \
+[,cdca/4] ,d [aac,,a] ,d [,cdca/] \
+[,aaac] ,,,,,c [,cee] [,aaac1] :||:";germantab
+133;;M4v;5. Branle de Poictou simple;;;OT;;C;"z/ [da,c] [caa,c] a [cdda] d [fc,ca1] | [acd,a/] [dabc] [c,da] a [dbb,d] f [hff,,h1] | \
+,,,,,d/ [hd,f] [fdaa] d [ca,c,a] a [cef,c1] |";germantab
+134;;N1r;6. Quatres Bransles;;;OT;ConcR940;C;"[,cdca/] ,d ,c ,a ,,d ,a ,c ,d | [aac,,a/] c a ,d [,cdca1] ,,d | \
+[,cdca/] ,d ,c ,a ,,d ,a ,c ,d | [aac,,a1] a [,acc,a2] :||:";germantab
+135;;N1r;7. Branle de Angleterra;;;OT;;C;"[,,dca1] [,,dc/] | [,,dca3/4] ,a/4 ,c/ | [,dda1] [,dd/] | \
+[,dda3/4] a/4 c/ | [c,da3/4] a/4 ,d/ | [,cdca3/4] ,d/4 [,cdca/] | \
+[,ddef3/2] | [,ddef3/2] ||";germantab
+136;;N1r;8. Branle Commune;;;OT;;C;"[,dfec1] [,cee,c] [,aaac2] | [,da,c/] a [cce,,c1] [,cdca/] ,d [aac,,a1] | \
+[,acc,a/] ,c [,da,c] ,a [,cee,c1] [,aa,c] | \
+[caa,c1] [cce,,c] [,dff,d2] |";germantab

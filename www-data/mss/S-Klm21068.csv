@@ -1,0 +1,116 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1;d moll;1r;Sarabande + 2 Double;;;;;3;"[aa,,a1] [cc] [ed] | {,,,a}1 {,,a} {,a} | \
+{a}1 [cc] [aa] | ,,,,,a/ ,c [,'a] ,,e ,a1 :| "
+2;d moll;1v;Gavotte de l'amour;Gallot le Jeune or Lully;C'est l'amour qui nous menace from 'Roland';;Conc_1284;C;"[,'a,,a1] ,,a/ ,,,,,d ,,,,,b ,a ,,,,,a ,c | \
+[,'c{a}1]> ,a (,,,e/ ,,e) ,,,,,a1 | ,,,,,e/ ,c ,,,,a a ,,,,,b \
+,c {a} ,c | "
+3;d moll;2r;Air;;;;;3;"[ad{,,,a}1] [,'aa{,a}] [,cc{a}] | [,,'e,,a1]> {a} [,aa{,a}1] | \
+[c{,,a}1] [,c,,,e] [aa,,a] | [,'c,,,a1] ,,,,,b/ ,,,,,a {a}1 | \
+V[e{,a}1] [,'a] [,ca,,e] | "
+4;d moll;2r;Gavotte;;;;Conc_831;C;"[,aaa{,,,a}1] ,,,,,e/ ,c [ada,a1] [ada] | [c{a}/] e 'c \
+(,d [,c{4}1]) {,,,a}/ e | ['e{,,a}1]> ,g e1 ,,,,,a :| "
+5;F dur;2v;Aimable Vainqueur;André Campra;Aimable vainqueur' from Opera 'Hésione;; Conc_1376;3;",,d1 | [,,'a{,a}1]> ,,,c [,,,'a/]> ,,,,c | [,,,aVd1] \
+,,,,,a/ ,,,a [,,,cc{a}1] | {,a}/ ,,a [,,,'a] ,,,,c \
+[,,,,'a] ,,c | [,,dcc1] ,,,,,d/ ,,,,,b [,,d,,a1] | "
+6;d moll;3r;Gavotte;Pinel or Mouton;La Gavotte Royale or Frondeuse;;Conc_92;C;"[,aVf,a/] ,c V[,d] c Ve1 ,,,,,e/ ,c | ['a,,,a/] ,c a c \
+,,,,,a ,c ,,a {a} | [,,'a{,a}/] ,,c ,,d ,,a ,,,,a ,a \
+,,,,,a ,,d | "
+7;d moll;3v;Gigue de Strobel;Dufault or Gaultier or Strobel;;;Conc_303;3/4;",a/ ,,e | [,aVf,a2] {,,,a}1 {,,a}1> ,,f [,,'d] ,,,f | \
+{,a}1 ,,a ,,,c [,,,'a2] ,,a1 | ,,,,,d1 ,,,c ,,,,c ,,,,,e \
+,,a ,,,c | "
+8;C dur;4r;Combatte navale;;;;Conc_1377;C;",c/ | [,c,,,d/] ,a ,c c {a} ,a ,,c ,c | [,,a,,a/] ,,c V[,,d] \
+,a {a} ,,c ,,,c {,a} | "
+9;a moll;4v;Double du Gavotte de Jean Baptiste - second;Lully;see Gavotte on p. 7r;;;C;",,,,,a/ ,,a ,,,d ,,c [,,d,,a] {a} {,a} {,,a} | \
+[,a{,,,a}/] ,,d [,,'c] ,,a {,,a} (,,,e ,,,d) {,,,a} | "
+10;d moll;4v;Preliminair;;;;Conc_2370;C;",,,,a/ ,,a ,a ,,a ,,,,,e ,,a ,c ,,a | ,,,,a/ ,c a ,a ,,,,,e \
+,c ,,a e | ,,,,a/ ,c a ,a ,,,,,d ,c ,,a ,a | "
+11;d moll;5r;Courante de But;Du But;;;Conc_331;3/4;",,a/> ,,a | [,,aaa1] {,,,a}/ [,,bc] [,,'aa] [,,,cc] | \
+[,,,'aa/] ,,,,,d ,,,,,b ,,,e [,,,'c/]> ,,a | [,,aVe2] \
+,,,,,a1 | [,aba{,,,a}1] [,,'d{,,a}/] ,,b ,,a {,a} | "
+12;d moll;5v;Air;;;;Conc_4274;C;",,,,a/ ,a [,,'e,,a] ,,a ,,,,,c ,a ,,,,,e ,c | \
+,,,,a/ ,d [,'c/]> ,a ,,,,,a/ ,c [,,'e] ,,a | ,,,,,b/ ,a \
+,,,,,a ,,d"
+13;D dur;5v;Hammar Smeden;J. Bull or Losy;;;Conc_1378;3/4;",,a1 | [,aab{,,,a}1]> ,a [,,'e,,a1] | [,aa{,a}1] ,a \
+[,c{,,a}1] | [,e{,,,a}1] [c{,,a}] [e{,a}] | [,e,,a1] \
+,a e/ ,,,,e | [,,c{a}1] ,,e ,,,,e/ ,a | "
+14;a moll;6v;Le malheureux amant: allemand de Gaillot;Jacques Gallot;;;Conc_151;C;",,h1 ,,,h/> ,,h [,,fg/] ,,,,h [,,h,g] ,,f | \
+[,,hh/] ,,,,,a [,,,'g{,,a}] ,,,,f [,,,a{,a}] [,,a,,h] \
+,,,,,f/> ,,,g | [,,,,'g{,,a}/] ,,,,,h ,,,g ,,,,,f"
+15;D dur;7r;Ballet;;;;;C;"[,aaba/]> {,,,a} ,,,,,e/ [,ca] e c b {,,,a} | \
+[g{a}1] [e{,a}] [c{,,a}] ,e/ ,c | [,'c,,,a1]> ,a \
+[,aa,a1] {,,,a} | "
+16;a moll;7r;Gavotte de monsieur Jean Baptiste;Lully;see Double on p. 4v;;;C;"[,,a,,a1] [,,cd] [,,d,,a1]> ,,d | [,,'c{a}1]> ,,a [,,,d{,,a}1] \
+{,,,a} | [,c{4}1]> ,d [,a,,,c1] [,,d,,a] | [,ccd1]> ,a \
+[,,'d,,a] ,,c ,,a1 :||: [,cd,,d1] [aa,,ac] V[ccd1]> e | "
+17;a moll;7v;Courante La Belle Homicide;V.Gaultier or D.Gaultier / Mouton;La Belle Homicide;;Conc_8;3/4;"Ve/ ,c ,d | [,'c,,,a1] ,,a1> ,e | [c,,c1] [eaaa1]> e | \
+['d,,,c1] {,,a}1> Ve | [e,,,,a1] ,,,e/ ,,d ,c ,e | "
+18;d moll;8r;Courante imortelle;V.Gaultier;L'Immortelle;;Conc_95;3/4;",,a/ [,,,'c] ,,a | [,,,aa1]> ,,,a [,,,cc1] | \
+[,,aad1] {,a}/ ,,a ,a ,,,c | ,,,e/ ,,e ,,,,,a ,,,c \
+[,,,'a] ,,,,c | [,aaaa{,,,a}1]"
+19;d moll;8v;Gigue;Losy;Le Caquet des femmes;;Conc_1379;3/4;"e1 | ,a1 e ,c | ,d1 e ,a | ,c1 c ,a | ,,e1 e c | \
+'a2 ,a1 | ,,d1 ,c [a,a] | "
+20;F dur;9r;Chaconne;Losy;;;Conc_308;3/4;"[,,aa{,a}1] ,,b V[,,d] | [,,dc{,,a}1] ,,b [,,a{,a}] | \
+[,,b{,,,a}1] [,,d{,,a}] [,,a{,a}] | [,,,'c{4}3/2] \
+,,,a/4 ,,,,c ,,,a1 :||: {,a}/ ,,a ,,,a ,,,c ,,a ,,b | "
+21;C dur;9v;Gavotte;;Courante ?;;;3/4;",,d/ ,,d | [,,dcc{4}1]> [,,dcc] ,,d ,c | ,a/ a ,c c {4} c | \
+{,,a}1 c {a}/ c | [ccdccd1]"
+22;a moll;10r;Air de Mr Le Comte de Logy;Losy;;;Conc_1380;C;"[ecd,,a1] [e{a}] [ecd{,a}] [e{,,a}] | [e{,,,a}1] g \
+['d{,,a}] [d{,,,a}] | [ecd{4}1] [e{,,,a}] [ecd{,,a}] \
+[e{,a}] | [e{,,,a}1] ['d{,,a}/] e [ecd1] ,,,,,a | "
+23;F dur;10r;Gavotte;;;;;C;"[e{,a}1] ,d/ e {,,a} c ,,d c | {,,,a}/ a [,,'c] ,a {4} ,c \
+,,d ,c | ,,,,,a/ a ,,d a"
+24;D dur;10v;Marche de Narva;;;;;C;",,a1 | [,aab{,,,a}1] ,,,,,e/ ,,a [,a,,,c1] [,ce,,a] | \
+[,ea,a/] ,c ,e c ,e1 [ea{,a}] | [ga{a}2] [e,e,,a1] c | \
+[,e,,a/] ,c ,e c"
+25;c moll;10v;Courante de Vieux Gautier en c molle;C.Mouton;La Belle Piedmontoise;;Conc_258;3/4;",,d1 | [,,dcb{4}1]> ,a ,b ,,d | c/ ,,b ,,,d ,,d c a | \
+,,,c/ c {a} e f1 | ,,g/ d [dd{,a}3/2]"
+26;C dur;11r;Gavotte;;;;;C;"[,,d,,a/]> ,c [,a,,,c/]> a [,c,,,d/]> a [,a,,,c/]> ,c | \
+[,,d,,a/]> ,c [,a{,a}/] ,,d [,,'c{a}] ,,a ,,,c ,,c | "
+27;B dur;11v;Allemand de Mercure;E.Reussner;;;Conc_1381;C;",a/ | [,abaaa1] ,,,a/ ,b [a{c}] ,,d ,b a | \
+[,ab,,a/] {,,a} [,,'d{,a}/]> ,,a ,,b/ ,,,,,a1 a/4 ,b | ,a/"
+28;B dur;12r;Le même en triple;E.Reussner;;;Conc_1382;3;",,b1 | [,,baaa3] | {c}/ ,,,a ,,d ,a ,b a | [,ad,,a1] \
+,,b [a{,,,a}] | [c{,,a}1] [e{a}1]> f | [f{a}1] ,,,c2 | "
+;;;Viola da Gamba (backwards);;;;;;
+29;;32v;Prelude;;;;;;
+30;;32v;Air;;;;;;
+31;;32r;Allemande;;;;;;
+32;;31v;Courant;;;;;;
+33;;31r;Sarrabande;;;;;;
+34;;31r;Gigue;;;;;;
+35;;30v;Menuet;;;;;;
+36;;30r;Air - Double;;;;;;
+37;;29v;Air de la Reine de Prusse;;;;;;
+38;;29r;Prelude en F#;;;;;;
+39;;29r;Air;;;;;;
+40;;28v;Air;;;;;;
+41;;28v;Gavot;;;;;;
+42;;28r;Allemande par Mons.r Kinele;;;;;;
+43;;27v;Courant du meme;;;;;;
+44;;27r;Ballet / Englische Glocke;;;;Conc_4461;;
+45;;26v;Air;;;;Conc_4462;;
+46;;26v;Gavot;;;;;;
+47;;26r;Marche;;;;;;
+48;;26r;Menuet;;;;;;
+49;;25v;Bourrée de Dauphin;;;;;;
+50;;25r;Bourrée;;;;;;
+51;;24v;Air;;;;;;
+52;;24r;Bourree;Losy;;;Conc_1385;;
+53;;23v;Air;;;;;;
+54;;23v;Allemand Gb;;;;;;
+55;;22v;Courant;;;;;;
+56;;22r;Sarabande;;;;;;
+57;;21v;Gigue;;;;;;
+58;;21r;Allemand G;;;;Conc_4463;;
+59;;20v;Courante;;;;Conc_4464;;
+60;;20r;Sarabande;;;;Conc_4465;;
+61;;19v;Gigue;;;;Conc_4466;;
+62;;19r;Allemand D#;;;;;;
+63;;18v;Courant;;;;;;
+64;;17v;Sarrabande;;;;;;
+65;;17v;Gigue;;;;;;
+66;;16v;Gavotte;;;;;;
+67;;16r;Aire;;;;;;
+68;;15v;Fantaisie;;;;;;
+69;;15r;Bourrée - La Basse;;;;;;
+70;;14v;Allemand;;;;;;
+71;;14r;Courant;;;;;;

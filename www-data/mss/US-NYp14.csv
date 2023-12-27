@@ -1,0 +1,105 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+;;Fascicle 1;;Suite avec le Luth, Violino et Violoncello par Kühnell ('467'), Violino et Basso missing;;;;;
+1;G dur;1-1v;Allemande;Kühnel;;;;C;",a/ | [,acc{a}/] g/4 e ,f ,a ,c ,,d [,,cc{a}/] 'c/4 ,a \
+,c/4 ,,c ,,d ,,,e | [,,de/]> ,,d [e,,,a] ,,d [,,'c{5}] ,,a"
+2;G dur;1-2v;Courante;Kühnel;;;;3/4;",a/ c ,a | [,,'c1] {a}/ ,a c ,a | ,,,,e/ e ,a e ,f e | \
+{a}/ g {,a} e {,,a} c | ['b{,,,a}1] ,a/ {4} ,c {5} c | "
+3;G dur;1-3r;Sarabande;Kühnel;;;;3/4;"[,acc{a}3/2] c/ g h | ['b,,,a1] (,,a/4 ,,c ,,d ,a) [,c,,,d/] \
+[,a,,,c] c | ([,,d,,a/] ,,c) [,,a{,a}] ,,c [,,d{a}] e | \
+[,,'c{a}1]"
+4;G dur;1-3v;Allegro;Kühnel;;;;C;"c/ b | [c{a}1] ,a ,a ,,d/ ,,c | \
+[,,d{a}1] ,c ,c (,,c/ ,,a) | \
+[,,d{a}1] ,a ,a (,,,e/ ,,,c) | \
+[,,,e{a}1] ,,d ,,d"
+;;Fascicle 2;;Ouverture à Luth, Violino et Violoncello par Kühnell ('468');;;;;
+5;C dur;2-5v;Ouverture;Kühnel;;;Conc_3367;C;"[,,dcc{4}1] c/ [ea,,,c/]> ,a ,c/ a | \
+[,c,,,d1] ,a/ ,,d [c,,,,c/]> ,,,c ,,a/ ,,c | \
+[,,d,,a1] ,,d/> ,,a ,,b/> ,c ,a/ ,,d | "
+6;C dur;2-6v;Menuet;Kühnel;;;Conc_3368;3/4;"{,,a}/ ,,,c {4} ,,,c ,,d ,a | \
+[,,'c{a}1] ,,a/ ,,c ,,,c ,,,,,a | \
+,,,,,c/ ,a c ,a ,c a | \
+{4}/ ,c ,,d {,,,a} [c{,,a}] ,,d | "
+7;C dur;2-7r;Bouree Altern.;Kühnel;;;Conc_3369;C;",,d/ ,a | [,c,,,d1] ,c [,c{,a}] a | [,ac{a}2] {,,a}1 c | \
+[,,d,,a1] e/ c [e{,a}] c a ,c | [,a{a}/] ,,d ,,c ,,a ,,,c \
+,,c ,,d ,a | "
+8;c moll;2-7r;Bourée 2do;Kühnel;;;Conc_3370;C;",,d/ ,a | ,b1 [,b,,,d] d ,b | [,b{d}1] ,a [,a{d}] c | \
+[,,d{b}1] ,a/ ,b [,d{,a}] ,b ,a ,,d | [,,c{a}1] ,,a/ ,,c \
+,,,c ,,c ,,d ,a | "
+9;C dur;2-7v;Gigue;Kühnel;segue 9r evv: staff notation for Violino, Violoncello;;Conc_3371;6/8;"[hfh{4}3/2] [cac,,c3/2] | \
+[,c{4}/]> ,a ,,d/ [,a{,a}/]> ,,d [,,c{a}/] | \
+[,,d,,d1] {a}/ {4}1 ,c/ | \
+[,a,,,c/]> c ,,c/ [,,d,,a/]> ,,c ,,a/ | \
+[,,c{a}1] ,,,c/ ,,,,,c1 ,a/ | "
+;;Fascicle 3;;Ouverture à Luth, Violino et Violoncello par Kühnel ('469');;;;;
+10;C dur;3-13v;Ouverture;Kühnel;;;Conc_3367;C;"[,,dcc{4}1]> c [ca,,,c/]> ,a ,c/ a | \
+[,c,,,d1] ,a/ ,,d [c,,,,c/]> ,,,c ,,a/ ,,c | \
+[,,d,,a1] ,,d/> ,,a [,,,b{,,,a}/]> ,c ,a/ ,d | "
+11;C dur;3-14v;Menuet;Kühnel;;;Conc_3368;3/4;"{,,a}/ ,,,c {4} ,,,c ,,d ,a | \
+[,,c{a}1] ,,a/ ,,c ,,,c ,,,,,a | \
+,,,,,c/ ,a c ,a ,c a | \
+{4}/ ,c ,,d {,,,a} [c{,,a}] ,,d | "
+12;C dur;3-15r;Bouree Altern.;Kühnel;;;Conc_3369;C;",,d/ ,a | [,c,,,d1] ,c [,c{,a}] a | [,ac{a}2] {,,a}1 c | \
+[,,d,,a1] e/ c [e{,a}] c a ,c | [,a{a}/] ,,d ,,c ,,a ,,,c \
+,,c ,,d ,a | "
+13;c moll;3-15r;Bourée 2do;Kühnel;;;Conc_3370;C;",,d/ ,a | ,b1 [,b,,,d] d ,b | [,b{d}1] ,a [,a{d}] c | \
+[,,d{b}1] ,a/ ,b [,d{,a}] ,b ,a ,d | \
+[,,c{a}1] ,,a/ ,,c ,,,c ,,c ,,d ,a | "
+14;C dur;3-15v;Gigue;Kühnel;segue 17r evv: staff notation for Violino, Violoncello;;Conc_3371;6/8;"[hfh{4}3/2] [cac,,c3/2] | \
+[,c{4}/]> ,a ,,d/ [,a{,a}/]> ,,d [,,c{a}/] | \
+[,,d,,d1] {a}/ {4}1 ,c/ | [,a,,,c/]> c ,,c/ \
+[,,d,,a/]> ,,c ,,a/ | [,,c{a}1] ,,,c/ ,,,c1 ,a/ | "
+;;Fascicle 4;;Laute (Suite) Lauffensteiner;;;;;
+15;B dur;4-11v;Allemande;Lauffensteiner or S.L.Weiss;;;Conc_632;C;",,b/4 | V[,,baa{d}3/2] ,,,a/4 ,,,c ,,a [,,b{d}/4] ,,,a \
+,,,,a ,,,a ,,b/4 ,a (,,d ,,b) | \
+[,,d,,a/4] ,,,a ,,,,c ,,,a ,,d/4 ,b [,'a] ,,d \
+[,a{d}/4] ,,b ,,a ,,b ,a/4 a (,b ,a) | "
+16;B dur;4-12v;Courante;Lauffensteiner or S.L.Weiss;;;Conc_1352;3/4;"a/ f/> a | ,a/> a ,,b/> ,,,a ,,b/> ,,,a | \
+,,,,a/> ,,b {d}/> ,a (,,d/ ,,b) | \
+[,,d,,a/] ,,,,c ,,,a ,,d a ,,a | "
+17;B dur;4-13v;Bourée;Lauffensteiner or S.L.Weiss;;;Conc_1354;C;",,,a1 | ([,,b{d}/] ,,d) (,a ,b) a1 [c{,,a}] | \
+[,,'a{,a}1] ,,,c/ ,,a ,,,a1 [f{,,,a}] | \
+([,f{,,a}/] ,d) ,f f ([,d{,,,a}/] ,a) ,d a | "
+18;B dur;4-13v;Menuet;Lauffensteiner or S.L.Weiss;;;Conc_1356;3/4;"([f{d}/] a) ,a a (f a) | \
+[,f{,,a}1] (f/ e) f1 | \
+[a{,,,a}/] ,a ,,b a (c a) | \
+[,'b{4}1] {,a} [,a{d}] | \
+([,,d,,a/] ,,a) ,,,a ,,a ,,d ,b | "
+19;B dur;4-14r;Sarabande;Lauffensteiner or S.L.Weiss;;;Conc_1353;3/4;"[,,,aa{d}/]> ,,,a | [,,d,b{d}1]> ,,d [a,,,,a/]> ,,a | \
+([,,b{a}/]> ,,a) ,,b1 [fd{,,,a}/]> ,d | \
+[,f{,,a}/]> d [,'d,e{,a}1]> ,b | \
+[,a{d}/4] a ,,a/ V[,,b1] [,ab{d}/]> {c} | "
+20;B dur;4-14v;Gigue;Lauffensteiner or S.L.Weiss;;;Conc_1355;6/8;",,,a/ | ([,,b{d}/] ,,d) ,a ([,,d,,a/] ,,a) a | \
+([f{a}/] e) f ['e{,a}1] {,,a} | \
+([f{,,,a}/] a) ,g [,f{,,a}/]> ,,g ,a/ | \
+[,,,h{,a}/]> ,a ,,g/ [,,'f,,a1] a/ | "
+;;Fascicle 5;;Concerto de Mr Gleimio;;;;;
+21;G dur;5-1r;Concerto;Gleimius;Liuto 1mo (1.);;;C;"[,ac{a}/] ,,,,,a ,,,,,c/4 ,a [c{a}] ,,c V[,,d,,a/] {a} \
+{,a}/4 ,,d e ,,d | [,,'c{a}/] {,a} {,,a}/4 ,,c \
+[c{,,,a}] ,,c [,,a{4}/] [c,,,,a] ['ba,,a] [,,c{,,,a}] | "
+22;G dur;5-1v;Allegro;Gleimius;Liuto 1mo (2.);;;C;",a/ | [,,'c/] ,,,c ,,a [,,'ba] [,,,c,c] {a} ,,,,,a \
+[,,,'b{,,,a}] | [,,,c{,,a}/] ,,,,c [,,a{4}] [,,,b{,,,a}] \
+[,,cc{a}1]> [,,ab{,,,a}] | [,,c{a}/] ,,,c ,,c \
+[,c{,,a}] [,,ae{,a}1]> [,,,b{,,,a}] | "
+23;G dur;5-2r;Allegro;Gleimius;Liuto 2do (4.);;;3/4;"V[,,,ca{a}2] [,,a{,a}1] | [,,c{a}1] ,,a/ ,,,c [,,,'b,a] \
+,,,,c | [,a,,,c2] [,c,,,d1] | [,,a{,,,a}1] (,,,c/ ,,,b) \
+,,,,c ,,,,a | [,,,cac3] | ([,,,c{a}/] ,,,a) \
+,,,,c ,,,,a ,,,,,d1 | [,,aVe,a3] | "
+24;G dur;5-2v;Concerto;Gleimius;Liuto 2do (1.);;;C;"[,,,ca{a}/] ,,,,,a V,,,,,c [,ac{a}] ,,,,,a/4 ,,,,c \
+[,,d{a}] ,,,,c [,,,,a{,a}/] [,,d{,,,a}] | \
+{a}/ ,,,,a [,,c{,a}/4] ,,,,a [,,,,,d{,,a}/] [,,c{,,,a}] \
+[,,,c{4}/] ([,,d,,a] ,,c) [,,'a,a/] {,,,a}/4 ,,,b | "
+25;G dur;5-3r;Allegro;Gleimius;Liuto 2do (2.);;;C;",2 ,3/2 ,a/ | [,,'c/] ,,,c ,,a [,,,'ba] [,,c,c] {a} ,,,,,a \
+[,,,'ba{,,,a}] | [,,,ca{a}3/2] [,,,c{,,a}/] [,,a{a}] \
+,,,,a ,,a [,a{,,,a}] | [,,,c{,,a}3/2] [,,a{4}/] [,,,b{,,,a}] \
+,,,,a ,,,b [,a{,,,a}] | "
+26;G dur;5-3v;Adagio;Gleimius;Liuto 2do (3.);;;3/4;"[,ccc{,,a}3] | [bb,,,c/] (,c ,b) ,,e [,,'c,,a1] | \
+[,,c{a}1] [,,a,b] [,,c,,c] | [,,c{,,a}1]> ,,a ,,,c1 | \
+[,,ab{,a}1] ,,a/ (,,,c ,,,b) ,,,,c | "
+27;G dur;5-4r;Adagio;Gleimius;Liuto 1mo (3.);;;3/4;"V[gf{,,a}/]> e 'c/> ,e [,'c1] | \
+[,'b,b,c2] [,bc,,a1] | [,cc{a}1] [b,c,b] \
+,,,,,c/4 b c e | ['ccc{,,a}1]> ,e ,c1 | \
+[ea{,a}/] c ,e ,c ,a h | "
+28;G dur;5-4v;Allegro;Gleimius;Liuto 1mo (4.);;;3/4;"[ca{a}1] ,e/ ,d [,a{,a}] ,,d | [,,'c{a}2] [,,d,,a1] | \
+[,a,,,c1] (,,d/ ,,c) [,,'a{4}] ,,,c | \
+[,,,ba{,,,a}2] [,,a{4}1] | [,a,,,c1] ,,d/ ,,c [,,'a] ,,,c | \
+[,cd,,d3] | [,c,,,a1] ,d/ ,,d ,,a1 | "

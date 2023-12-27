@@ -1,0 +1,886 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+;;;;;Auf die Barocklaute in d-Moll-Stimmung übertragen von Michael Treder und bei Tree Edition veröffentlicht;Translated to baroque d-moll Tuning by Michael Treder and published by Tree Edition;;;;
+1;d moll;1r;Allemande;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;C;"e/4 c | ['aaaa/] {11} [,'a{10}/4] \
+,,e ,a ,c [,aad{11}/] a {11}/4 a c e | \
+[ccd{10}/] ,,d/4 ,a [,,b{11}] ,a ([,,d{10}] ,,b)";french4tab
+2;d moll;1r;Aria;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;C;"[,aaa1] ,,a (,c/ ,d) [,aaa{11}1] | \
+Ve1 {9}/ e ,,b e ,a1 | \
+V[c{10}1] ,,c {7}/ ,,e (e c) | \
+'[aa{11}1] (,c/ ,a) [,ce{7}2] :||:";french4tab
+3;d moll;1v;Courant Du Faut;Dufaut;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_3869;3;"e/ | [eaaa{11}3/2] c/ e ,c | \
+V,d/ ,a V[fa{8}3/2] f/ | \
+e1 {11} ,,,a/ e | \
+[eaaa3/2] c/ e ,c | \
+V,d/ ,a {10} ,,,f ,,d ,,b |";french4tab
+4;d moll;1v;Gavotte;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_508;C;"[eda{11}1] ([cc{10}/] e) [aa{9}1] ([,c{8}/] ,a) | \
+[,,e{7}1] [,a{6}] V[,ce{7}] ,,a | \
+[eda{11}1] ([c{10}/] e) [aa{9}1] ([,c{8}/] ,a) | \
+[,,e{7}1] [,a{6}] V[,ce{7}2] :||:";french4tab
+5;d moll;2r;Sarabande;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;3;"[,,aa{11}3/2] ,,a/ [,aaa1] | \
+[,ce{7}3/2] ,c/ (a c) | \
+'[aaaa3/2] ,c/ [,a{8}1] | \
+[,,ec{7}3/2] ,,c/ ',,a ,,,f | \
+[,aa{9}3/2] ,a/ [,,df{10}1] | \
+'[,,bd{11}3/2] ,,b/ [,,ac{12}1] |";french4tab
+6;d moll;2r;Double;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;3;"{11}/ ,,a ,a ,,a ,,,a ,a | \
+[,,e{7}/] ,c ,,a ,c (a c) | \
+{11}/ (c a) (,c ,a) ,c | \
+[,,e{7}/] ,c ,,a ,,,f ',,,d ,,,c |";french4tab
+7;d moll;2v;Bouree Gautier;Gaultier;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_4289;C;"Xe1 | [,aaa1] [,ce{7}] V[,daa] '[,c{8}/] ,a | \
+[,,e{7}1] ,,a/ {8} {9}1 [,af] | \
+[,ce{10}1] [,df{11}] [c,e{7}] 'a/ ,c | \
+[aVdaa1] ',a {11}/ ,a ,c a |";french4tab
+8;d moll;2v;Minuet C.Loschi;Losy;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_3790;3;"[eVda{11}1] (,d/ ,c) ,a1 | \
+[f{8}1] ,a f | [ec{7}1] [ccc] [ece] | \
+'[aa,a1] ,d/ ,c ,a1 | V[e{11}1] ,d/ ,c [,aaa1] | \
+[f{8}1] ,a f |";french4tab
+9;d moll;3r;Aria;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_1209;C;"[,aad{11}1] [ece{7}] | \
+'[aa,a1] {5} '[cc{6}3/2] ,d/4 (c | \
+[e{7}1]) [,a{6}] ([,c{8}/] ,a) '[,,e{7}1] | \
+[,aaa1] {11} [,aaa] [ece{7}] | \
+'[aa,a1] {5} '[cc{6}3/2] ,d/4 c |";french4tab
+10;d moll;3v;Courante Comt. Loschi;Losy;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;3;"e/ c | '[aaa{11}1] ,a k3/4 k/4 | \
+'[i{7}1] V,h [,,c{10}/] ,a | \
+[,ce{7}1] X,,a e/ c | \
+'[aa{11}1] [,aaa] [fa{8}3/4] f/4 | \
+V[f{12}1] V,c [ed{9}3/4] e/4 |";french4tab
+11;d moll;3v;Gavotte;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_4289;C;"Ve1 | [,aa{11}1] [,ce{7}] [aaf{11}] ([,c{8}/] ,a) | \
+[,,e{7}1] ,,a [,,ac/] {8} [,aa{9}1] | \
+[,ce{10}1] [aa{11}] [cce{10}/] e '[a{7}] ,c | \
+[aaaa1] [,aa] [,aae{11}3/2] ,a/ ,c a |";french4tab
+12;d moll;4r;Minuette;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;3;"([e(d{11}/] [cc] [aa)]) (,c [,a{8}] ,c) | \
+'[,,e{7}1] [,,ac] [,a{9}/] {8} | \
+V[,ce{7}3/2] ,c/ ([a(a] [cc)]) | \
+'[aaaa3/2] (,c/4 ,a ,,e) [,aVf1] |";french4tab
+13;d moll;4v;Guige Mr Olberer;Olberer;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;3;",,a1 | [,aVfa2] ,a1 | V[,ce{7}2] [,ca1] | \
+([ec1] c) e | '[aaaa2] a1 | ([,ca{5}1] ,d) ,c | \
+[,a,f{6}1] (,c ,a) | '[,,ec{7}2] ,,,c1 | \
+,,a2 [,,ef1] |";french4tab
+14;d moll;4v;Aria;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_4158;C;"[,aaa1] ,,a [,aa{11}] [,ce{7}] | \
+[aa{11}1] '[,c{8}/] ,a '[,,e{7}1] ,,a | \
+[aa,a1] [,ca{5}] [,ab{6}] ([,c{8}/] ,a) | \
+'[,,e{7}3/2] ,,e/ V[,,f{11}2] :||:";french4tab
+15;d moll;5r;Sarabanda du Faut;Dufaut;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;3;"[,,aa1] [,aaa{11}3/2] ,,a/ | \
+V[,,ba{8}1] X[,,,f{12}] ,,d/ ',,b | \
+[,,ad{9}1] V,,,d2 | \
+[aaaa1] [cce3/2] c/ | \
+[cce{7}3/2] e/ [aa,a] {5} | \
+[aab{6}3/2] c/ [ece{7}1] | [,ce2] :||:";french4tab
+16;d moll;5r;Aria Hoisler;Häusler;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_2749;C;"[eaa{11}1] [e{10}] [eaa{9}] '[c{8}/] a | \
+{7}/ ,c {6} ,a {7} e ,,e1 | \
+,,,a/ a ,,,c ,,c ,,,d ,a ,c ,d |";french4tab
+17;d moll;5v;Sarabanda du Faut;Dufaut;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;3;"[,aae{11}1] [,aae/] [,aae] [,aae{11}1] | \
+[,,df{10}3/2] ,,d/ [,,ad{9}1] | \
+[,,bd{8}1] '[,,bc{12}3/2] ,,a/ | \
+[,,ad{9}3/2] ,,a/ [,,,f{12}1] | \
+[,,dc{5}3/2] ,,a/ [,,ba{8}1] |";french4tab
+18;d moll;5v;Bouree;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_3870;C;"e1 | '[aaa{11}3/2] ,c/ ,a1 V[f{8}] | \
+[c{12}1] {5} [ccd] [e{9}] | \
+[,a{6}1] ,c/ ,d '[,cb{8}3/2] ,a/ | \
+[,,e{7}1] ,,,c ,,a e | \
+'[aaa{11}3/2] ,c/ ,a1 V[f{8}] |";french4tab
+19;d moll;6r;Minuette;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_1383;3;"[aa,a1] [,ca{5}] [,aa{6}] | \
+[,,e{7}1] {8} [e{9}] | \
+[c,e{10}1] [a,a{11}] [,ce{7}] | \
+[ad,a1] [a(d/] [,c)] [,aaa{11}1] | \
+[,cb{8}/] ,d c ,d ,c ,a |";french4tab
+20;d moll;6v;Aria à Gavotte;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;C;",a1 | [,a,a1] [,a{5}] [,a{6}] [,a{7}] | \
+[,a{8}1] '[,,e{7}/] ,a [,aaa1] {11}/ ,a | \
+{10}/ ,a (,,d ',,b) {9} ,,a (,,,f ,,,d) |";french4tab
+21;d moll;6v;Bouree;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;C;"e1 | V,d1 ,,a [,aaa] [,ce{7}] | \
+[aVd,a1] [,c{8}/] ,a '[,,e{7}1] ,,a | \
+[,aaa1] '[,ce{7}] [aa,a] [ca{6}] | \
+[ece1] {7} [ece] [fa{8}] | \
+[fc{12}1] [ed{9}] [ea{6}] 'c/ ,d |";french4tab
+22;d moll;7r;Minuett F.G.;Ginter;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;3;"[eaa{11}1] 'a/ ,c [,aaa1] | \
+[fa{8}1] '[c,d{10}2] | \
+[e{9}/] c e f [ed1] | \
+[eaa{11}1] 'a/ ,c [,aaa1] | \
+[fa{8}1] '[c,d{10}2] | \
+[eda{9}1] ,,,d2 :||:";french4tab
+23;d moll;7r;Gavotte Gauttier;Gaultier;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_4103;C;"V[,daa1] ',c/ ,a [,ce{7}1] e | \
+[,a{6}1] [c{10}] [,,d{7}] [,d{11}] | \
+[,,b{8}1] [,,d{10}/] ,,b [,,ad{9}1] V[,da{11}] | \
+'[,cb{8}3/2] ,a/ '[,,e{7}1] [,,ac] :||:";french4tab
+24;d moll;7v;Guige;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_1723;12/8;",a/ | ,,f/ ,a ,,e ,,f ,a ,,a ,,f ,a ,c ,d a c | \
+,d/ e ,c ,d e ,a ,c c ,a ,,e e ,c |";french4tab
+25;d moll;8r;Gavotto;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_4158;C;"[,aaa1] [,,ec{7}] [,aaa{11}] [,ce{7}] | \
+V[,d,a1] '[,c{8}/] ,a [,,e{7}1] [,,ac] | \
+V[,,f{6}] [,,ef{10}] [,aa{9}] ([,c{8}/] ,a) | \
+'[,,e{7}3/2] ,,e/ [,afa{11}2] :||: \
+[,,dd{9}1] [,,dc{10}] [,aa{9}] [,,ec{7}] |";french4tab
+26;d moll;8r;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;3;"[eda{11}1] (e/ c) [ed1] | \
+[cce{10}1] (c/ a) [cce1] | \
+[aa{9}1] (c/ a [,c{8}] ,a) | \
+[,ce{7}1] ,,e/ ,a V[,ce1] | \
+[ed{11}1] (e/ c) [ed1] |";french4tab
+27;d moll;8v;Aria;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_2749;C;"[e{11}1] [e{10}] [e{9}] [c{8}/] a | \
+[,c{7}/] a [,c{6}] ,a [,c{7}] e [,ce1] | \
+{11}/ a {10} ,c {9} ,a ,c ,d |";french4tab
+28;d moll;8v;Bouree;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;C;"V[,daa1] | [,ca{5}1] ,,a/ ,d '[,aa{6}1] ,,,f/ ,a | \
+[,,d{7}1] {10}/ (,,,f [,,a{9}] ,,d ,a [,,d{10}]) | \
+'[,,c{11}1] {12}/ ,,a '[,,aa{6}3/2] ,,,f/ | \
+[,,ac{7}2] [,,,cb1] :||:";french4tab
+29;d moll;9r;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;3;"[,da{11}1] (,d/ ,c) ,a1 | \
+[,,e{7}1] [,,,(c] [,aad)] | \
+V[,ce{7}1] ,,a [ac,a] | \
+([,c{7}/] ,a) (,c ,d) [,ce1] | \
+[,daa1] (,d/ ,c) ,a1 |";french4tab
+30;d moll;9r;Ciacona simplex;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_2714;3;"[aaaa1] ',c3/2 a/ | \
+[,a{6}1] [,abd3/2] ,c/ | \
+[,a{8}1] '[,,e{7}3/2] ,a/ | \
+[,a,a1] {11}2 :||: \
+[ece{7}1] [ece3/2] c/ | \
+[a,,a1] [,a{6}3/2] c/ | \
+[a{8}1] '[,c{7}3/2] ,a/ | \
+[,a,a1] {11}2 :||:";french4tab
+31;d moll;9v;Aria;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_4104;C;"[,aa{11}1] [,c{7}/] ,c V[,daa1] [,ca{5}] | \
+[,ab{6}/] {7} {8} (,c/4 ,a) [,,ec{7}/] {6} {7} {8} | \
+[ada{9}/] c 'a ,c [,ab{6}] [,,d{7}] '[,,b{8}] [,,a{9}] |";french4tab
+32;d moll;9v;Courant;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_140;3;"k3/4 k/4 | [kaaa1] {11}3/2 h/ | \
+'[h{7}1] X,,i [f{8}/] ,c | \
+{9}/ e X,,,d ,a ,c a | \
+[ca{10}1] ,,e e/ c | \
+[ac{11}1] ,,,a2 |";french4tab
+33;d moll;10r;Gavotte;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_509;C;",,,d/ ,,,c | ,,,a1 [k{6}] [i{7}] ,h/ {8} | \
+[k{9}1] [i{10}] [k{11}] ,,,d/ ,,,c | \
+,,,a1 ,d/ ,a [fc{8}1] [ed{7}/] ,c | \
+[,a{6}/] e '[cc] ,a [ece{7}1] :||:";french4tab
+34;d moll;10v;Sarabande;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;3;"[ed,a1] ,,a [,ab{8}] | \
+'[,a{7}3/2] ,,e/ [,aVfa1] | \
+{5}/ ,c {7} ,,d {6} ,d | \
+[,cb{12}3/2] ,d/ [ada{9}1] || \
+{9}/ ,,a ,,,d ,,c {7} ,,e |";french4tab
+35;d moll;10v;Bouree;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_2196;C;"e/ f | [ed,a1] [,ce{7}] [ad,a] c/ e | \
+'[c{8}/] a ,c ,a [,,d{7}1] a/ c | \
+'[aa,a3/2] ,c/ [,a{6}1] [,c{8}/] ,a |";french4tab
+36;d moll;10v;Gavotte;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;C;",,a | ,a2 [,ce{7}1] | [aVd,a2] [,c{5}1] | \
+[,a{6}1] {7} [,cb{8}] | [,,ec{7}2] ,,a1 | \
+,a2 [,ce{7}1] | [aVdaa2] [,c{5}1] | \
+[,a{6}1] e '[cc] | [ece{7}2] ||";french4tab
+37;d moll;11r;Aria;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;C;"[,aae1] [,aae{11}] ,,d | \
+'[,,ca{8}3/2] ,,a/ ,,,f1 | \
+{7}/ ,,c ',,a3/2 ,,,f/ | \
+{11}/ ,,,e ,,,a2 | [,aea1] '[,a{11}3/2] ,,e/ | \
+[,ca{7}3/2] ,a/ ,,e ,,c |";french4tab
+38;d moll;11r;Sarabande;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;3;"[,,ad{11}1] ',,,d3/2 ,,,f/ | \
+[,,ad{11}1] [,,aa2] | \
+[,ab{6}1] [,ab{8}3/2] ,c/ | \
+[,,e{7}1] [,,ec2] | \
+[,,d{7}1] [,a{8}3/2] ',c/ | \
+[ada{9}1] [ada2] | \
+c/ a '[,c{12}3/2] ,d/ | \
+[aVd{9}3] ||";french4tab
+39;d moll;11v;Gavotte;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_92;C;"[,a{11}/] ,c a c V[e,,a1] [,ce{7}] | \
+'[a,,a3/2] ,c/4 a [,ce{7}2] | \
+[,,a{9}/] ,,c ,,d ,,a [,a,a1] [,,d{7}] | \
+'[,,c{10}3/2] ,,a/4 ,,c ,,a1 {7} ||";french4tab
+40;d moll;11v;Bouree;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_506;C;"k3/4 i/4 | [k{11}1] [,h,a] [cccc] [,ce{7}] | \
+'[aaaa3/2] ,c/4 a ,a1 k3/4 i/4 | \
+[k{11}1] [a,,a] [,c{5}] [,a{6}] | \
+[ece{7}1] [ece] e a3/4 ,,d/4 |";french4tab
+41;d moll;12r;Gavotte;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;C;"[ed,a/] c a [,(c] [ad){11}1] ,a | \
+[,,df{10}/] ,a ,,d [,,bc] '[,,ad{9}1] ,,,d | \
+'[,,ad{9}3/2] ,,a/ [,,cf{9}1] [,,dc{10}] | \
+[a,d{11}1] ,,c/ c [,cd{12}1] {5}/ {6} |";french4tab
+42;d moll;12r;Ariette;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_2763;C;"[,aVfa1] ,,a [,d{11}] ',c/ ,a | \
+Xe1 [e{5}] [e{6}] X,,f | \
+[c{7}1] ,,c/ ,a ,,e e ,c c | \
+'[aaaa3/2] ,c/4 a X,c1 {7} :||:";french4tab
+43;d moll;12v;Sarabande;Weiss;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_3226;3;"[,,ad{11}1] V,,b3/2 ,,b/ | \
+[,,bc{12}1] '[,,ac3/2] ,,a/ | \
+[,aa{6}1] '[,a,f3/2] ,c/ | \
+{7}/ ,,e [,,ac2] | \
+[,aae1] {11}/ ,,a ,a ,,d | \
+'[,,ba{8}1] {12}/ ,,,c (,,d ,,b) |";french4tab
+44;d moll;12v;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;3;"[e,,a1] ,a V[f{8}] | '[c{12}3/2] ,d/4 c [e{8}1] | \
+[,a{6}1] '[,cb{9}3/2] ,a/ | \
+([,c{7}/] ,a ,,e ,,c) ,,a1 | \
+[e,,a1] ,a V[f{8}] | '[c{12}3/2] ,d/4 c [e{9}1] |";french4tab
+45;d moll;13r;Guige;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_4326;3;"[,aaa2] ,c1 | X,d2 ,a1 e2 ,,c1 | \
+,,d1 e ,,a ',c2 ,a1 | \
+[,,e{7}2] [,ac1] V[,ce2] ,,a1 | \
+{7}1 ,,d ,a | {8}1 ,,b {9} |";french4tab
+46;d moll;13r;Gavotte;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_4159;C;"V[,daa1] ',c3/4 ,a/4 V[,ce{7}1] e/ e | \
+'[c{6}3/2] c/ [cce{7}3/2] Ve/ | \
+'[a,,a3/2] [,ce/] [a,,a] [,ce] [a,,a] [,,e{7}] | \
+[,a{6}1] [,cb{8}3/4] ,a/4 '[,,e{7}1] ,,a :||:";french4tab
+47;d moll;13v;Guige;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_1496;6/4;",a1 | ,,,a1 ,a ,,a {7} ,,e ,c | \
+,,,a/ a ,a {6} ,a {7} | \
+{8}/ ,c ',a {7} ,,e {8} |";french4tab
+48;d moll;13v;Sailtantzer Guige F.H.G.;Ginter?;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_1228;3;"[aVd,a1] | '[,c{5}2] [,a{6}1] | \
+[,,d{7}2] '[,,b{8}1] | \
+'[,,a{9}2] [,,,f{10}1] | \
+'[,,,d{11}2] [,,b{10}1] | \
+'[,,a{9}2] [,,,f{10}1] | \
+'[,,,d{11}2] {6}/ ,,,f | \
+[,,ec{7}2] ,,a1 | V,,,c2 [aVd,a1] | \
+[,c,,a3/2] a/ [,a{6}1] |";french4tab
+49;d moll;14r;Guig;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;3;",a2 ,a1 | ',,e2 ,,a1 | [,d,a2] [,a,d1] | \
+[,,ec2] {7}1 | [aa2] ,a1 | [cc2] [ed1] | \
+[ff2] [cc1] | [ed2] {7}1 | {6}2 a1 | \
+'[a{12}2] ,c1 | [aVd{9}3] :||:";french4tab
+50;d moll;14v;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;3;"[,,a{11}1] V,,,d ,,,a | \
+'[,,b{11}2] [,,ac{12}1] | \
+([,a{6}/] ,c) [,d{8}1] '[,c{7}] | \
+([,a,a/] ,c) (a c) e1 | \
+[,,a{12}1] V,,,d ,,a | \
+'[,,b{11}2] [,,ac{12}1] |";french4tab
+51;d moll;14v;Bouree;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_3454;C;"X[e{9}1] ([,c{12}/4] ,d) c/ [aVd{9}1] (e/ f) | \
+[h{10}3/4] k/4 h3/4 ,i/4 '[,h{9}1] ,,i | \
+X[h{10}1] (c/4 e f/) X[e{9}1] ,a/4 ,c ,d/) |";french4tab
+52;d moll;15r;Minue;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_505;3;"[kaa{11}1] k '[h{10}/] ,i | \
+[,h{9}1] a [,c{12}] | \
+[aaa{11}1] ([c{8}/] a) (,c ,a) | \
+'[,,e{7}1] ,,a [,ce] | \
+[aaa{11}1] ([h{10}/] f) (e c) |";french4tab
+53;d moll;15r;sans titre (Minuet);;p16r (31) empty;(C-D-E-F-G-A-B-c-)d-a-d'-f';;3;"[aVd{9}2] [,cd{12}1] | \
+[aa{11}1] (,c/ ,a) [,,d{7}1] | \
+[,a{6}1] (,b ,a) [,,d{7}] ,a | \
+'[,,b{8}2] [,,a{9}1] | \
+'[,a{6}1] ,,b ,a | \
+[,,d{7}1] [,,,f{10}/] ,,a [,,bc{12}] ,,d |";french4tab
+54;d moll;21v;Guige;;p. 22v-25r missing;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_4326;3;"[,aaa2] ,c1 | ',d2 ,a1 f2 ,,c1 | \
+,,d1 f ,,a ',c2 ,a1 | \
+[,,e{7}2] [,a{6}1] [,c{5}2] ,,a1 | \
+{7}1 ,,d ,a | {8}1 ,,b {9} |";french4tab
+55;D dur;25v;Gavotte D.C.Loschi;Losy;;(C-D-E-F-G-A-B-c-)d-a-d'-e';Conc_3912;C;"[,,ae{11}1] [,,ae/] [,,ae] [,aae{11}1] [,ce{7}] | \
+[,eaa3/4] ,e/4 ,c/ ,a V[,ce{7}1] ,,a/ {6} | \
+[,ca{5}1] ,e/ d [,eaa3/4] ,c/4 ,e3/4 d/4 |";french4tab
+56;D dur;25v;Bouree;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;C;"Xf1 | [,aaa1] [,ca{5}] [,eaa] [d,e{10}] | \
+([f{9}/] d ,e ,c) [,aa1] [h{8}] | \
+'[f{9}1] [d{10}] [,ea{11}] [dc{8}/] ,e | \
+[,ca{7}/] ,a ,c ,e V[,ce{12}1] [,eaa{11}] |";french4tab
+57;D dur;26r;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;3;"[,,ae{11}1] ',a3/2 ,c/ | \
+'[,,e{7}1] {8} [,a{9}] | \
+[,ce{10}1] '[caa{11}3/2] d/ | \
+'[,ca{7}2] [,ce1] | \
+[f{9}1] ,f/ f V[h{8}1] | \
+[f{5}1] (d/ f) [,eaa1] |";french4tab
+58;D dur;26v;Rigdon;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';Conc_3958;C;",a | [,aae{11}1] ,,a ,,a [,,cf{8}] | \
+[,,cf{11}1] [,,ae] [,,ae] ,a | \
+[,aae{11}1] ,,a [,,c{8}/] (,,a ,,c ,,d) | \
+'[,,ae{11}2] ,a1 | [,aac{7}1] ,,e ,,e [,a{6}] |";french4tab
+59;D dur;27r;Eccho;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;3;"[fa{11}1] ,a [,ca{5}] | V[,eaa1] ,a [,ca{5}] | \
+V[,eaa1] ,a [h,,f] | [f,,e1] [d,,c] [,e,a/] d | \
+'[,c{7}1] ,,a [,e,a/] d | '[,c{7}1] ,,a/ {8} [,,a{9}] ,a |";french4tab
+60;D dur;27v;Sarabanda;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;3;"[f{11}1] ,e ,a | [h(f1] '[fe)2] | \
+V[d{10}1] ,c ,,e | [fVe1] '[dc2] | \
+[,e{11}1] ,a ,,c | '[,cc{8}2] [,a{9}1] | \
+[,c{8}/] ,e '[,ca{7}3/2] ,a/ | [,aaa1] {11}2 :||:";french4tab
+61;D dur;27v;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;3;"[,aae3{11}1] (,a/ ,c) ([c{10}] d) | \
+([fa{9}1] d/) (,e ,c) ,a | \
+[da{8}1] '[,ce{7}3/2] f/ | \
+'[caaa1] d/ c ,c ,a | \
+[,ca{5}1] ,,a/ ,c ,e ,a |";french4tab
+62;D dur;28r;Aria;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;C;"[faa{11}1] '[daaa/] (,e [,c{5}1]) ,,a | \
+[,,aa{6}1] {9}/ (,c/4 ,a) [,,e{7}1] ,,a/ ,,,f | \
+[,aae1] [,aa{9}/] ,,e [,,c{8}3/4] ,,e/4 \
+[,,a{9}3/4] ,,c/4 |";french4tab
+63;D dur;28r;sans titre (Minuet);;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;3;"[fe{11}3/2] ,f/ ,e1 | \
+[h{8}1] [,ca{5}] d | \
+[,eaa1] d/ ,e ,c ,a | \
+([,c{7}/] ,a) (,,e ,,c) ,,a1 | \
+[fe{11}3/2] ,f/ ,e1 | \
+[h{8}1] [,ca,a] d |";french4tab
+64;D dur;28v;Gavotte;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;C;"[fe,a/] d c a [,aa{11}/] {10} [,aa{9}1] | \
+'[,cc{8}3/2] ,a/ [,,e{7}1] ,,a | \
+{8}/ ,,,f ,,c ,,e [,,a{9}1] [,a{8}/] ,c | \
+'[,ae{7}3/2] ,,e/ [,ef{11}2] |";french4tab
+65;D dur;28v;Bouree;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;C;",e/ d | [fe,a1] 'd/ ,e [,ca{5}1] ,e/ d | \
+[,e,a/] ,c ,e d [,ea{11}1] [,ca{5}] | \
+'[,ae{6}1] [,,e{7}] [,,c{10}] ,,e/ ,a |";french4tab
+66;D dur;29r;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;3;"[caaa{11}1] [caaa{11}] V[dac{8}] | \
+'[a{7}3/2] ,a/4 a V[caaa1] | \
+[,a{6}1] ([,c{8}/] ,a) [,,e{7}1] | \
+[,a{11}/] ,,e ,a ,c [,aVf1] | \
+[caaa1] [caaa] [dac{8}] |";french4tab
+67;D dur;29r;Aria;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;C;"[caa{11}3/4] d/4 c/ d [c{9}] f [,ce{7}1] | \
+[c,,a3/4] (c/4 a/) ,a {5} ,c ,,a ,,c | \
+{7}/ ,,e {6} ,a {5} ,c [,a{11}] ,,e |";french4tab
+68;D dur;29v;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;3;"[caaa3/2] a/ [,a{6}1] | \
+[,c{8}1] '[,ae{7}3/2] ,,e/ | \
+{11}/ ,,e ,a ,c ,a ,c | \
+[caaa3/2] a/ [,a{6}1] | \
+[,c{8}1] '[,ae{7}3/2] ,,e/ | \
+[,af{11}3] :||:";french4tab
+69;D dur;29v;Aria;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;C;",,a/ | [,,ae{11}1] [,,ac{12}/] ,,c/4 ,,e \
+[,ae{6}/] ,a '[,ce{7}] ,a/4 ,c | \
+,e3/4 {9}/4 {8}3/4 {7}/4 {11}/ f {10}/4 d {9} f |";french4tab
+70;D dur;30r;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';Conc_4121;3;"[fe{11}1] '[dce{12}2] | \
+[,ea{11}3/2] ,c/ ,a1 | \
+[,aa{6}1] [,,c{8}] ,,e/ ,a | \
+[,c{7}/] ,a ,c ,e [,ce1] | \
+[fe{11}1] '[dce{12}2] | \
+[,ea{11}3/2] ,c/ ,a1 |";french4tab
+71;D dur;30r;Bouree;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';Conc_3578;C;"[l{11}1] '[k{10}/] ,k [,h{9}1] [l{8}] | \
+'[k{7}1] [h{8}] [g{9}] ,,,e | \
+[hff{8}1] '[f{5}/] ,f [,e{11}1] '[,c{5}] | \
+[,e,a1] [ea{6}] V[f{7}] ,,a :||:";french4tab
+72;D dur;30v;Aria Sutoria;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';Conc_364;C;"V[,eaa1] ',c3/4 ,a/4 [,ca{5}/] {6} [f{7}] h | \
+'[f{10}3/2] ,g/[fVh{7}1] {8} | \
+[f{9}1] l/ ,h [hf{8}1] [fa{9}] | \
+[dc{10}/] f 'd3/4 ,e/4 [,eaa1] {11} |";french4tab
+73;D dur;30v;Saraband;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;3;"[fe,a1] [,ea{11}] [da{8}/] ,e | \
+'[,c{7}3/2] ,a/ ,,e {8} | \
+[,,a{9}1] [,,c{8}/] [,,e{7}] [,a{6}1] | \
+'[,ae{7}3/2] ,,e/ [,aVf{11}1] | \
+[,ca,a1] [,aaa/] ,c [,,e{7}1] |";french4tab
+74;D dur;31r;Gavotte de Mr Emond fait par lui meme;Emons;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;C;"[,ea{11}1] [,eaa3/4] ,e/4 | \
+'[,a{8}3/2] {9}/ [d{10}1] [,e{11}3/4] d/4 | \
+'[,c{7}3/2] {8}/ [f{9}1] f3/4 [d{10}/4] | \
+'[c{11}3/2] d/ ([,e{7}/] ,c) ,e d |";french4tab
+75;D dur;31r;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';Conc_4165;3;"[,ea{11}1] ,e/ d/4 ,e ,c/ ,a | \
+[fce{12}1] f/ [dc] [,ea{11}1] | \
+[,ec{8}1] '[,cc3/2] [,cf/] | \
+[,,ec{7}1] ,,e/ ,a V[,c{8}1] | \
+[,aa{9}1] ',a/ ,,e [,,c{8}1] |";french4tab
+76;D dur;31v;Aria;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;C;"[,aaa/] [,ca{5}] [,eaa] d/4 ,e '[,c{7}/] ,a/4 ,c [,eaa/] d/4 ,e | \
+'[,ca{5}1] ,a/4 ,c [,e,a/] d/4 f [,e{7}/] ',c/4 ,a \
+[,aa{11}/] [,,e{10}/4] ,,c |";french4tab
+77;D dur;31v;Gavotte;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;C;"[ca{11}1] [ca] [,ce{7}] [fc] | \
+[,aa{6}3/4] ,e/4 ',c/ ,a V[,ce{7}1] ,,a | \
+[,,ca{8}1] ,,c [,,a{9}/] ,e '[,c{8}] ,a | \
+'[,a{7}3/2] ,,e/ [,aaa{11}2] :||:";french4tab
+78;D dur;32r;Aria;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';Conc_4166;C;"[fa{11}1] ,e/ [,ce] [,aaa1] [dc{5}] | \
+[,eaa1] '[,c{8}/] ,a [,,e{7}1] ,,a/ {8} | \
+'[,aa{9}3/2] ,,e/ [,,ca{8}1] ,c/ ,e | \
+'[,ae{7}3/2] ,,e/ [,aVfa1] {11} |";french4tab
+79;D dur;32v;Bouree;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';Conc_4327;C;"f/ ,f | [,ea{11}1] [h{8}] '[f{9}3/2] [,f{10}/] | \
+,e1 {11} [,ea] [,a{9}/] ,,e | \
+[,,ca{8}1] ,c/ ,e '[,ae{7}3/2] ,,e/ | \
+[,aVfa1] {11} [,afa] [,ca{5}] |";french4tab
+80;D dur;32v;Gavotte;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';Conc_2812;C;"f/ d | [,ea{11}1] [,ce{10}] [,aa{9}] [,c{8}/] ,a | \
+[,,e{7}1] [,a{6}] [,c{5}] ,e/ d | \
+[,eaa1] [,c{5}] [,a{6}] [,c{8}/] ,a | \
+[,,e{7}1] ,,,c [,,ec] f/ d |";french4tab
+81;D dur;33r;Bouree;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;C;",a/ ,,e | [,aVf1] {11} ,a ,e/ ,c | \
+,e1 ,,,a ,e [,ca{5}] | [,a{6}1] {7} {8}/ ,e ,c ,a | \
+[,,ec1] {7} [,,ec] ,a/ ,,e |";french4tab
+82;D dur;33r;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';Conc_4124;3;"[fa{11}1] (f/ d) ([c{10}] a) | \
+[,a{9}1] ,,a [,,c{8}] | \
+[,,e{7}1] ,,e/ ,,c ,,a1 | \
+[fa{11}1] f/ (d [c{10}] a) | \
+[,a{9}1] ,,a [,,c{8}] | [,,e{7}1] ,,a2 :||:";french4tab
+83;D dur;33v;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;3;"[fe,a1] '[f{11}3/2] ,f/4 f | \
+V[hf{8}2] h1 | [,ce{7}1] (,c/ ,e) (d f) | \
+'[c{11}3/2] (a/4 c) [,aa1] | \
+[fe,a1] '[f{11}3/2] ,f/4 f | \
+V[hf{8}2] h1 |";french4tab
+84;D dur;33v;Bettler Allamande;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;C;",a/ | [,aae{11}1] ,,a/ c [,aaa] a c [d{5}] | \
+[f,e{7}/] {8} {9}/4 c d f \
+([h{8}] f) (d c) '[a{7}3/4] ,a/4 |";french4tab
+85;D dur;34r;sans titre (Minuet);;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;3;"[,,f{11}1] (,f/ ,e) [fe1] | '[,e,a2] [,,h{7}1] | \
+[,,f{11}1] (,f/ ,e) [fe1] | '[,e,a2] [,,h{7}1] | \
+[,,f{11}1] '[f{10}] [f{9}] | \
+([h{8}/] f) ([,f{10}] ,e) ([,,h{7}] ,,f) |";french4tab
+86;D dur;34v;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;3;"[fe{11}2] [h{9}1] | \
+[f{11}1] ,f ,e | \
+[,c{8}1] ,e [d{10}] | \
+[,,e{7}1] ,,c ,,a | \
+[,aaa2] [{11}1] | \
+[,,c{8}1] ,,a ,,,f | \
+[,,,e{7}1] ,,,f ,,a | [,,,a{11}3] :||:";french4tab
+87;D dur;34v;Minuet;;p.28v-30r empty;(C-D-E-F-G-A-B-c-)d-a-d'-e';;3;"[fe{11}2] [dc{12}1] | [ca{11}1] [d(c] [fe)] | \
+[dc{10}1] ([f{9}/] d) ([c{8}] d) | \
+[ace{7}1] [ca] ([dc/] f) | '[caaa2] [a{5}1] | \
+[,a{6}1] [fc{5}] [ca,a] |";french4tab
+88;e moll;38v;Aria;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;C;"[,,,f{10}/] ,,a | \
+[,,ce{12}1] ,,,e [,,,f{10}/] {11} [,c,,a1] | \
+'[,a{12}1] {7}/ ,,d [,,ca{8}1] [,ca{9}/] ,e | \
+[d,c{10}1] [,,c,a/] ,,d '[,,a{11}3/2] ,,,f/ | \
+[,,,f{8}3] :||:";french4tab
+89;e moll;38v;Sarabd;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';Conc_566;3;"[,cc{10}3/2] ,e/ [dc,c1] | \
+'[,aae{9}3/2] ,,d/ [,,cf{8}1] | \
+[,,de{7}3/2] ,,,c/ [,,cb{6}1] | \
+'[,,cc{5}3/2] ,,a/ [,,cb{6}1] | \
+'[,aae{9}3/2] f/ [dce{10}1] | \
+[,ea{11}/] ,c ',a ,,d ,,c d |";french4tab
+90;e moll;39r;Bouree;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;C;"(h/ f) | V[d{10}1] '[c{11}] V[,c{5}] ,e/ ,c | \
+'[,b{6}1] ,,c [,bc] {6}/ {7} | \
+{8}/ ,c ,e d {9} ,e ',c ,b |";french4tab
+91;e moll;39r;sans titre (Minuet);;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;3;"[,c{10}1] '[,b{9}2] | [,c{8}/] ,b ,c c ,c1 | \
+f1 '[c{7}3/2] ,c/ | '[,b{12}2] ,,c1 | \
+[,c{10}1] '[,b{9}2] | [,c{8}/] ,b ,c c ,c1 | \
+f1 '[c{7}3/2] ,c/ | [,bce{12}3] :||:";french4tab
+92;e moll;39v;Gavotte;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;C;",,c | X,,d1 {7} {11} [,,de/] ,a | \
+[,,cf1] {8} ,,,f ,c | \
+[,ba{9}1] [,c,f{10}] [c,cb] [d,cc/] f | \
+'c1 {6} {12} :||:";french4tab
+93;e moll;39v;Courant;;p.32v-42r empty;(C-D-E-F-G-A-B-c-)d-a-d'-e';;3;"h | [hf{10}3/2] f/ ,f ,e | ,f/ f '[,e{7}3/2] ,c/ | \
+[,b{6}1] ,,c {7} | {8}/ ,c {9} ,,a ,a ,,d | \
+'[,,c{8}1] ,,,f/ ,,c [,,d{7}] ,,e |";french4tab
+94;F dur;43v;Aria F.G.;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_2858;C;"[ad{9}1] [ad{10}] [ad{11}] [ad{12}] | \
+[ad{6}1] ,a/ (c/4 a) V[,cd{5}1] {5}/ {6} | \
+[aVd{7}1] ,d/ ,c [,a{6}1] (c/ a) | \
+'[,c{5}3/2] a/4 ,c V[,da{9}2] :||:";french4tab
+95;F dur;43v;Minuet F.G;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_4069;3;"[,,ad{9}3/2] ,,b/ [,,d{7}1] | \
+[,a{6}1] [,,d{7}2] | \
+'[,cb{8}3/2] a/4 ,c [a{9}1] | \
+([c{12}/] a ,c ,a ,,d ,,b) | \
+'[,,ad{9}3/2] ,,b/ [,,d{7}1] | \
+[,a{6}1] [,,d{7}2] |";french4tab
+96;F dur;44r;Sarabande du Faut;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_4105;3;"[hh1] [eda{9}3/2] c/ | \
+[cc{12}1] [ccd3/2] e/ | \
+[ed{7}1] '[aaaa3/2] [,c{5}/] | \
+[,abd{6}1] [,abd3/2] {7}/ | \
+[cac{8}1] '[c,c3/2] a/ | \
+[,c{5}1] {9}/ a ,a1 |";french4tab
+97;F dur;44r;Minue;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_2785;3;"[,,ad{9}1] ([,,ad/] ,,b) ([,,ad] ,,b) | \
+[,,d{9}1] ,,,d [a,a{11}] | \
+[ccd{12}1] ,,d [e,d{9}] | \
+([c{12}/] a ,c ,a ,,d ,,b) | \
+[,,ad{9}1] ([,,ad/] ,,b) ([,,ad] ,,b) |";french4tab
+98;F dur;44v;Bouree NB;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;C;"[,,d{7}/] [,,f{6}] | \
+'[,,d{7}1] [,,ad{9}] [,,ba{8}/] ,,a ,,,f ,,,c | \
+[,,ad{9}3/2] ',,,b/ [,,ba{11}1] [,,dd{7}] | \
+[,abd{6}1] [,,dd{7}] [,abd{6}] [,bd/] ,a | \
+,,d1 {9} ,,d [,,dc] |";french4tab
+99;F dur;45r;Echo;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_2787;3;",,d1 | [ada{9}1] [ad] ([,,d{10}/] ,,b) | \
+[,,a{9}1] ,,,d [,,d{7}] | [,a{6}1] ,a [,c{5}] | \
+[ad,a1] [ad] [ccd{10}] | [edd{9}1] (c/ a) '[,c{12}1] | \
+[ad{9}1] [ad] :||:";french4tab
+100;F dur;45r;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_4107;3;"[e,d{9}1] ([e,d/] c) [a,a1] | \
+[fa{8}1] (f/ e) [cc1] | \
+[ed1] {7} {6} | \
+([c,d{12}/] a) ([c,d] e) [ccd1] | \
+[e,d{9}1] (e/ c) [a,a1] |";french4tab
+101;F dur;45v;Pastorelle;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;C;",,d/ | \
+[a{9}/] ,,d [c{10}] ,,d [e{9}] ,,d [h{10}] ,f | \
+[aaa{11}1] [ccd{10}] [e,d{9}/] f' [c{12}] ,d/4 c | \
+[ada{9}3/2] :||:";french4tab
+102;F dur;45v;Guige;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_4108;3;",,d/ | [ad1] [c,d/] | ([e(f1] [ff)/]) | \
+[h(h1] [ff){12}/] | [e,d{9}1] [c{8}/] | \
+[a{7}1] [c{5}/] | '[,c,,a1] {6}/ | \
+[a,d{7}1] [c,b{8}/] | [e,d{9}1] [c,d{10}/] | \
+[a,d{11}1] [,cd{12}/] |";french4tab
+103;F dur;46r;sans titre (Minuet);;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_3533;3;"[,,d{9}1] (,,f/ ,,d) (,,b ,,a) | \
+[,,b{8}1] {11} [,,d{10}] | \
+[,,a{9}1] (,,b/ ,,a) (,,,f ,,,d) | \
+([,,,f{12}/] ,,,d) (,,,c ,,,a) {5}1 | \
+[,,d{9}1] (,,f/ ,,d) (,,b ,,a) |";french4tab
+104;F dur;46v;Gavotte Petroni de Treyenfels;Treyenfels;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_605;C;"[,,d{9}1] [,ab/] ,d [,,dd3/2] [,ab/] | \
+[,,b{8}/] {9} [,,d{10}] ,,b '[,,a{9}] ,,,f/4 ,,a ,,,d1 | \
+[,,d{10}1] ,a/ ,c [ad{11}3/2] ,c/ |";french4tab
+105;F dur;46v;Eiusdem A. Minuete;Treyenfels;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_1677;3;"[,h{9}1] [,f{10}] h | \
+'[f{11}3/2] f/ [,h{12}1] | \
+[c{5}1] e [a{7}] | \
+'[a{12}3/2] [,(c/] [ad)1] | \
+[e{9}1] [c{10}] e/ c | \
+'[a{11}3/2] c/ [,c{12}1] |";french4tab
+106;F dur;47r;Minuet La posta A.J.Rik:;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;3;",,d1 (,c/ ,d) {9}1 | {7}1 (,,c/ ,,d) [,,f{6}1] | \
+'[,,b{8}2] [,,a{9}1] | \
+[,,,f{12}3/4] ,,,d/4 ',,,c1 [,,,d{9}] | \
+,,d1 (,c/ ,d) {9}1 | {7}1 (,,c/ ,,d) [,,f{6}1] |";french4tab
+107;F dur;47v;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_4109;3;"[ad{9}/] c a1 [,,d{7}] | \
+[,ab{6}/] ,c ,a1 [,,ad{9}] | \
+([,,ba{8}/] ,,a) [,,,f{12}1] [,,dc] | \
+'[,,a{9}3/2] ,,,f/4 ,,a ,,,d1 | \
+[ad{9}/] c a1 [,,d{7}] |";french4tab
+108;F dur;47v;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_521;3;"[ed{9}1] [e(d/] [cc] [ed)1] | \
+[ccd{9}1] ,,d [e{9}] | [aaa{11}1] (c/ a ,c ,a) | \
+([,c{12}/] ,a ,c ,d) [,cd1] | \
+[ed{9}1] [ed/] [cc] [ed1] |";french4tab
+109;F dur;48r;sans titre (Minuet);;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_2407;3;"V[,,d{9}1] [ad] '[,cb{8}] | \
+[a,d{7}2] [ad1] | [c,d{10}1] 'c3/2 ,d/4 c | \
+[e{9}/] c e f [ed1] | \
+[c,dc1] '[aa,a] [,c,,a] | \
+[,ac{8}1] ,,,f/ ,c [,,dc{7}1] |";french4tab
+110;F dur;48r;Minuet du Faut;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_4110;3;",,d1 [aVd{9}2] | '[,c{12}2] [a{11}1] | \
+[,,b{8}3/2] ,,d/ ,,b1 | '[,,a{9}3/2] ,,,f/4 ,,a ,,,d1 | \
+,,d1 [aVd{9}2] | '[,c{12}2] [a{11}1] | \
+'[,c{12}/] ,a ,,d ,a ,c a | Vc2 {12}1 :||:";french4tab
+111;F dur;48v;Guige;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;3;"[ad1] a/ | [ad1] ,c/ | [ad1] ,,d/ | [,ad1] ,,a/ | \
+,,b3/4 ,,d/4 ,,b/ | [,,dc1] ,,b/ | [,,ad1] ,,a/ | \
+[,,ad1] ,,,c/ | [,,ad1] {5}/ | [,,ba1] ,,d/ |";french4tab
+112;F dur;49r;Eccho du Roy;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;3;",,d1 | [,,ad{9}3/2] ,,,c/ ,,,d1 | \
+[,,,f{10}1] {11} [,,d{12}] | '[,,b{11}1] ,,a [,,,f{10}] | \
+[,,a{9}1] ,,,d [,,d{12}] | '[,,b{11}3/2] ,,a/ [,,,f{10}1] | \
+[,,a{9}1] ,,,d ,,d | '[a{7}3/2] ,c/ a1 |";french4tab
+113;F dur;49v;Gavotte;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_3526;C;"a/ ,c | [ac{9}1] ,,d [,a{6}] [,,dc/] ,,b | \
+[,,ad1] {9} [,,ad] ,,,c/ ,,,f | \
+[,,ad{9}/] ,,c [,,d{10}] {9} '[,,d{8}3/2] ,,c/ | \
+[,,dc1] {12}2 :||:";french4tab
+114;F dur;49v;Sarabande;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;3;"[ada{9}3/2] ,,d/ [,ab1] | \
+[,,dc{12}3/2] ,,b/ [,,ad{9}1] | \
+[a{11}1] '[cc{12}3/2] e/ | [edd{9}3] | \
+'[cc{10}3/2] c/ [e{9}1] | \
+'[,a{6}3/2] ,a/ [,c{5}] [a,,a] | \
+[c,,c3/4] c/4 [e,,d/] c 'a ,c |";french4tab
+115;F dur;49v;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_1419;3;"[,,ad{9}1] (,,b/ ,,a) (,,,f ,,,d) | \
+[,,df{10}1] ,a [,cd] | \
+[ad{11}1] (c/ a) ,c a | \
+([c{12}/] a) (,c ,a) (,,d ,,b) |";french4tab
+116;F dur;50r;Aria;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;C;"[e{9}1] '[c{10}] [e{9}] '[c{10}] | \
+[a{11}3/4] e/4 'c/ a [,c{12}1] ,,d/ ,,b | \
+[,,a{9}1] [,,b{8}/] ,,a/4 ,,b [,,d{7}1] ,,,d/ ,,a | \
+[,,,f{12}3/4] ,,,d/4 ',,,c1 V,,,d {9} :||:";french4tab
+117;F dur;50r;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;3;"[aVda{9}3/2] c/ Ve1 | \
+'[c{10}1] ,,d [h{12}] | \
+'[f{11}3/2] ,h/ [,f{10}1] | \
+V[,h{9}2] [,cd1] | \
+[aVda{9}3/2] c/ e1 | \
+'[c{10}1] ,,d [e{9}] | \
+[,,,f{12}3/2] ,d/ ',c1 | [aVda{9}2] :||:";french4tab
+118;F dur;50v;Aria;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_1397;C;"[ad{9}1] [ad{8}] [ad{7}] [ad{9}] | \
+[c,d{10}1] [e,d{9}] '[c{12}] ,,d | \
+[e{9}1] [,c{8}/] c [a{7}1] ([c{6}/] a) | \
+'[,c{12}3/2] a/4 ,c [ad1] {9} :||:";french4tab
+119;F dur;50v;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_3383;3;"[,,a{9}1] [,,b{8}2] | \
+[,,d{7}/] ,,b ,,d ,a ,,d1 | \
+[,a{6}1] '[,c{12}2] | \
+[a{11}/] ,c a c a1 | \
+[c,d{10}1] [e,d{9}2] | \
+[f{8}/] e f h f1 |";french4tab
+120;F dur;50v;Galliarde;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;3;",,d/ | [aVd{9}3/4] a/4 [ccd{10}3/4] c/4 \
+[ed{9}3/4] e/4 [ccd{10}3/4] c/4 | \
+[aa{11}3/4] a/4 '[,c{12}3/4] ,d/4 \
+'[,a{8}3/4] ,,d/4 [,,dc{12}3/4] ,,d/4 | \
+[aVd{9}3/4] a/4 [ccd{10}3/4] c/4";french4tab
+121;F dur;51r;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_1982;3;"[aVd{9}1] (a/ c) V[ed1] | \
+'[c{10}1] ,,d e | \
+[aa{11}1] (c/ a) (,c ,a) | \
+([,c{12}/] ,a ,c ,d) '[,cd1] | \
+[aVd{9}1] (a/ c) V[ed1] |";french4tab
+122;F dur;51r;Gavotte;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;C;"[,,d{9}1] a | V[c,d{10}1] (e/ f) [e{9}1] 'c/ a | \
+'[,c{5}1] ,,d [aVd{7}] ',c/ a | \
+[,a{6}1] [,,d{7}/] ,a '[,,b{8}1] {9}/ ,,a | \
+[,,,f{5}1] {12} :||:";french4tab
+123;F dur;51v;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;3;"([,,d{9}/] ,,b) ,,d ,a (,,d ,,b) | \
+V[,,d{7}1] ,,,d a | '[,a{6}1] (,a/ ,b) a1 | \
+[,,d{7}1] a ,,a | V[,,b{8}1] (,,,f/ ,,,d) ,,,c ,,d |";french4tab
+124;F dur;51v;Rigodon;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_3636;C;",,d1 | [aVda{9}2] '[cc{12}3/2] ,d/4 c | \
+V[e{9}1] (c/ e) a1 ,,d | \
+[aVda{9}2] '[cc{12}3/2] ,d/4 c | \
+V[e{9}1] (c/ e) a1 [e{9}] |";french4tab
+125;F dur;52r;Alla Breve;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;C;"[aVd{9}2] [,,d{10}] | [,,a{9}1] ,,,f/ ,,a ,,,d1 a | \
+[,c{12}1] ,a/ ,c [aVd{9}1] [,,d{10}] | \
+[,,a{9}1] ,,,f/ ,,a ,,,d2 :||: \
+[a{7}1] a [,a{6}] ,c/ a |";french4tab
+126;F dur;52v;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_1289;3;"[hh{9}1] (k/ h) ,i h | \
+'[,h{9}1] a [c,d{10}] | \
+[e,(d{9}1] (f/ e) (c a) | \
+([c{10}/] a) (,c ,d) [,,d)1] |";french4tab
+127;F dur;52v;Bouree;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_4106;C;"(,,d/ ,,b) | \
+'[,,a{9}1] (,,,f/ ,,,d) V[,,,f{12}1] ,,,c | \
+[,,ad{11}3/2] ,,b/ [,,d{7}3/2] ,,d/ | \
+[,ad{6}1] (,,d/4 ,,b ,,a/) V[,,,f{10}1] ,,d/ ,,b | \
+'[,,a{9}3/2] ,,,f/ ,,,d1";french4tab
+128;F dur;53r;Guige;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_1290;6/8;"h/4 f | [,h{9}/] f h a c e | \
+'[c{10}1] ,,d/ ,,d1 [,,d{7}/] | \
+[,a{6}/] ,c ,d [,,,f{12}] ,d ',c | \
+[aVd{9}1] ,,,d/ [ad1] :||:";french4tab
+129;F dur;53v;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_4111;3;"[hh{9}1] '[ff{8}3/2] f/ | \
+[ed{7}1] (,d/ ,c) [ed1] | \
+{6}/ ,a (c a) (,c ,a) | \
+[,c{12}/] a (,c ,a) (,,d ,,b) |";french4tab
+130;F dur;53v;Gavotte W. Cronsigl[iere?];;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;C;"[ad{9}1] c/ a '[,c{12}1] ,,d | \
+[,a{6}1] [,,d{10}/] ,,b '[,,a{9}1] ,,,d | \
+[,,y(f{10}1] ,,d/ ,,c [,,ad){9}1]  ,,d | \
+[,ad{8}1] ',,b [,,d{12}] ,,,c :||:";french4tab
+131;F dur;54r;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;3;"[ada{9}/] {10} {9} {8} [ad{7}] {9} | \
+[,ab{6}1] {6}/ {5} [,aba] {6} | \
+[,,d{7}1] '[,,b{8}/] {9} {10} [,,d{12}] | \
+[,,ad{9}1] {9}/ {8} {9} {10} |";french4tab
+132;F dur;54r;[Minuet];;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;3;"V[,,,d{9}1] ,,a [,,dc{10}] | \
+[ad{11}1] Ve [,,d{7}] | \
+[,a{6}/] {7} ([,,b{8}] ,,a) ,,,f1 | \
+[,,d{7}/] ,a ,,d [,,b{6}] [,,a{5}] ,,,f | \
+[,,,d{9}1] ,,a [,,dc{10}] |";french4tab
+133;F dur;54v;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;3;"[aVda{9}1] (a/ c) ([e{10}] f) | \
+([e{9}/] c) 'a1 ,,d | \
+[aVd{9}1] (a/ c) ([e{10}] f) | \
+([e{9}/] c) 'a1 ,,d | \
+[a,,a1] [c,,c] [e,,d] |";french4tab
+134;F dur;54v;Bouree;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;C;"(e/ c) | [a{9}/] {8} [,,d{7}1] [,a{6}] '[,c{5}] | \
+[aVd1] {9} ,,,d (e/ c) | \
+[a{11}1] [,c{12}] '[,a{8}] (c/ a) | \
+V[,c{5}1] {12} ,,d (e/ c) |";french4tab
+135;F dur;55r;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_3534;3;"[,,,d{9}1] (,,,d/ ,,,f) ,,,d1 | \
+[,,a{9}1] (,,a/ ,,b) ,,a1 | \
+[,,d{9}/] a (,c ,a) (,,d ,,b) | \
+[,,a{9}1] ,,,f/ ,,a ,,,d1 | \
+'[a{9}1] ,,d ,,d |";french4tab
+136;F dur;55v;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;3;"V[,,d{9}2] [aa{11}1] | \
+([,c{12}/] ,a) ([,,d{11}] ,,b) [,,a{10}] ,,,f | \
+[,,a{9}1] ([,,b{8}/] ,,a) [,,,f{12}1] | \
+([,,,d{9}/] ,,,c) (,,,d ,,,f) (,,a ,,b) | \
+V[,,d{9}2] [aa{11}1] |";french4tab
+137;F dur;55v;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;3;"V[,,,d{9}1] ,,d [,da] | \
+[,c{5}1] {7}/ ,d [,a{6}1] | \
+[,,d{7}3/2] ,a/ [,,b{8}1] | \
+[,,a{9}/] ,,b ([,,,f{12}] ,,,d) ',,,c1 | \
+V[,,,d{9}1] ,,d [,da] | \
+[,c{5}1] {7}/ ,d [,a{9}] ,,d |";french4tab
+138;F dur;56r;Alla Breve Gavotte Ma Dame de Cantony;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;C;"[ed{9}2] (f/ e) | \
+'[ca{6}1] a ([c{5}/] a) (,c ,a) | \
+,,d1 [ed{9}2] (f/ e) | \
+'[c{6}1] a '[a{5}3/2] ,c/ | \
+[aVd{9}1] :||:";french4tab
+139;f# moll;61v;Rondeau F.G.;Ginter;p.56v-61r empty;(C-D-E-F-G-A-B-c-)d-a-d'-e';;3;"[,ea{9}/] ,c ',a3/2 ,,e/ | \
+[,ae{6}3/2] {7}/ {6}1 | \
+[,cc{8}1] '[,ae] {7}/ ,,e | \
+'[,,c{10}3/2] ,,a/ ,,,g1 | \
+[,,a{12}1] (,,c ,,e) | \
+[,,,e{11}3/2] ,,,g/ ,,a1 |";french4tab
+140;f# moll;61v;Sarabande F.G;Ginter;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;3;"[,ea{9}1] '[,dc{8}3/2] ,d/ | \
+V[,e{7}1] ,,e ,a | V[,ce{9}1] (,e/ ,c ,a) ,,e | \
+[,ae{6}1] ,,,g (3[,,a{5}/] ,,,c ,,e) | \
+[,,e{9}1] ',,c/ ,,a [,,,d{8}1] |";french4tab
+141;f# moll;62r;Minuet F.G.;Ginter;p.62v-63r empty;(C-D-E-F-G-A-B-c-)d-a-d'-e';;3;"([,,a{9}/] ,,c) '[,,c{8}3/2] ,,a/4 ,,c | \
+V[,,e{7}1] ,,,e [,ea] | \
+'[,dc{8}1] {9} ,e | \
+([e{12}/] c) (e f) e1 | \
+([,,a{9}/] ,,c) '[,,c{8}3/2] ,,a/4 ,,c |";french4tab
+142;g moll;63v;Allemande;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_4167;C;"c/ | [cab{8}/] (c e) [f,f] [ba{11}1] b/ {5} | \
+V[ca{6}/] c [ee{7}] e [fa{8}1] f/ {8} | \
+[ad{7}/] c 'a [,ba] '[,a{6}1] ,a/ {11} |";french4tab
+143;g moll;63v;Gavotte;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;C;"[,,ba{8}1] [,,db{7}] [,aba{6}] [cab] | \
+[bad{7}1] [cab{8}] V[e{11}] [,aaa] | \
+[fa{8}1] {9}/ e [cbb{10}1] {11}/ c | \
+[cbb{10}1] [e{12}/] c '[b{11}1] [,aaa] |";french4tab
+144;g moll;64r;Minuette;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_4168;3;"[fa{8}2] [ed{11}1] | \
+[c,b{10}3/2] c/ [a,b{11}1] | \
+[c,b{10}1] [,bb{12}] [,dd{7}] | \
+[,a{6}/] ,b ',a ,,d [,,ba1] | \
+[fa{8}2] [ea{11}1] | \
+[cb{10}3/2] c/ [aa{11}1] | \
+[,bb{10}/] ,d '[,,d{9}3/2] ,,b/ | \
+[,,ba{6}3] :||:";french4tab
+145;g moll;64v;Bouree;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;C;",a | '[,,ba{8}1] [,,ae{11}] [,,ba{8}/] {9} [,,d{10}1] | \
+[,,ae1] {11} [,,ae] ,a | \
+[,,,f{10}1] [,,d{7}] [,,ae{11}] ,a/ ,,d | \
+'[,,b{8}1] ,,,a ,,,f/ ,,b ,,d ,a |";french4tab
+146;g moll;65r;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;3;"[c{8}1] [,a{11}/] ,,d ',,b ,,a | \
+[,,b{8}1] ,,,f [,a{9}] | \
+[c{10}1] e V[f{12}] | \
+([e{11}/] c ,e ,c) ,a ,,d | \
+[c{8}1] [,a{11}/] ,,d ,,b ,,a |";french4tab
+147;g moll;65r;Bouree;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_4647;C;"c/ e | [f{8}1] [e{9}] [,f{10}] [,d{11}] | \
+'[,b{12}3/2] ,a/ [,,d{7}1] [,a{6}] | \
+[,,d{7}1] [,,b{8}] ([,,,e{11}/] ,,a ,a ,,d | \
+[,,b{8}/]) ,,d ,,b ,,a ,,,f1 c/ e |";french4tab
+148;g moll;65v;Bouree;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;C;"c/ e | [fa{8}1] f [,aae] ,a/ ,,d | \
+'[,,b{8}3/2] ,,a/ ,,,f1 ,,,f/ ,,a | \
+'[,,b{8}1] [,,a{9}] [,,,f{10}/] ,,a ,,b ,,d | \
+[,aae{11}1] ,,a/ {5} {6}1";french4tab
+149;g moll;65v;Gavotte Hinterleithner;Hinterleitner;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;C;"[,,f{6}/] ,,f '[,,d{12}] ,,b | \
+'[,,a{11}1] [,,b{8}] [,,d{7}/] ,,,f ,,,e ,a | \
+[,,,f{6}3/4] {7}/4 {8}1 c3/4 c/4 '[b{7}/] (3,,d/4 ,a ,b) |";french4tab
+150;g moll;66r;Bouree ejusdem;Hinterleitner;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;C;",a | [,ab{8}1] [,bd] [,ed{7}] ,a | \
+'[ca{6}/] {5} {6} {7} {8}1 [,,aa] | \
+[aab{6}1] [,,ad] (,,,b/ ,,,a) {5} ,,a | \
+',,,e1 ,,a [,,,a{11}] :||:";french4tab
+151;g moll;66v;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;3;"[cab{8}1] [,aae2] | [,ab{8}3/2] ,,d/ ,a1 | \
+[,,b{8}1] {9} [,,d{10}] | [,a{11}/] ,,d ,a ,b ,a1 | \
+[cab{8}1] [,aae2] | [,ab{8}3/2] ,,d/ ,a1 | \
+[,,b{8}/] {9} '[,,d{10}3/2] ,a/ | [,aae{11}3] :||:";french4tab
+152;g moll;66v;Aria;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;C;"c/ b | [cab{8}/] {7} [,a{6}1] [,bd{5}] ',a/ ,,d | \
+',,b1 {8} ,,,f [,aa{9}] | [c,b{10}1] e/ f '[e{12}1] c/ e | \
+',e1 {11} [,ef] :||:";french4tab
+153;g moll;67r;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;3;"V[fa{8}3/2] e/ ,f1 | [,e,a2] [c,,c1] | \
+[e,,e2] [fa{8}1] | '[ee{11}2] c1 | \
+V[fa{8}3/2] e/ ,f1 | [,e,a2] ([c,,c1] | \
+[e,,e2]) [fa{8}1] | [ee{11}3] :||:";french4tab
+154;g moll;67r;Courante;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_343;3;"([c{8}/] b) c (,a ,b) ,,d | \1
+[,ad{8}1] ',,b {9} | \
+([,,b{10}/] ,,a) ,,,f (,,b ,,a) ,,,f | \
+{11}/ ,,,e ,a ,,d (,,b ,,a) |";french4tab
+155;g moll;67v;Gavotte;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;C;"[,ab{8}1] c '[a{7}] [,a{6}] | \
+[,,,e{11}/] ,,a ,a ,,d '[,,b{8}] ,,a ,,,f1 | \
+{8}/ ,,b ,b ,d '[,ba{9}1] ,a | \
+'[c{10}3/2] ,e/4 c V[e{11}1] [,aaa] :||:";french4tab
+156;g moll;67v;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;3;"[fa{8}3/2] e/ c1 | [ee{11}1] ,a [c{10}] | \
+[b{11}1] b/ c e b | [c{8}/] b c e c e | \
+[fa{8}3/2] e/ c1 | [ee{11}1] ,a [c{10}] |";french4tab
+157;g moll;68r;Bouree;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_3376;C;"c/ ,e | [c{8}1] [e,,e] [f,,f] 'e/ ,f | \
+'[,e,a1][c,,b] [,dc{8}] ',b/ ,a | \
+V[,b{5}1] [,a,a] [c,,b] ,,d/ e | \
+[baaa1] {11} b :||:";french4tab
+158;g moll;68r;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;3;"[c,b{8}1] ,a c | '[baaa2] {5}1 | \
+V[c{6}1] [e{7}] [f{8}] | \
+'[e{11}/] c e f e1 | V[f{8}1] ,a f | \
+'[e{9}1] f e | '[c{10}1] c/ ,a ,,d e |";french4tab
+159;g moll;68v;Gavotte C.L.;Losy;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;C;",a1 | V [,,ba{8}1] ',,a/ ,,,f V[,bd{8}1] ',a/ ,,d | \
+[,ad{8}1] [,,,(f/] ,,a [,,ba){8}1] {9}/ ,,a | \
+[,,,f{10}1] {11} {12}/ ,,d ',,a ,,,f | ,,,e1 {11} ,,,a :||:";french4tab
+160;g moll;68v;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;3;"([c{8}1] c/) e Vf1 | '[ea{9}2] ,a1 | \
+[c{10}1] '[c,d3/2] e/ | '[a,d{11}2] ,,b1 | \
+[,bb{12}1] '[,ba2] | [a,b{11}3/2] ,,a/ ,,b1 | \
+[,,d{10}1] '[,,d{9}3/2] ,,b/ | [,,ba{6}3] :||:";french4tab
+161;g moll;69r;Bouree;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_4329;C;"c/ | \
+[cab{8}1] [a{7}3/4] ,b/4 [,ab{6}/] ,a [,,d{7}] [,,b{8}] | \
+[,,,e{11}/] ,,a ,a ,,d/4 ,a V[,,b{8}/] ,,,f V,,,f (,,a | \
+,,b/) [a{11}] [c{10}] ,,d/4 ,,b";french4tab
+162;g moll;69r;Minuet C.L.;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_3394;3;"[,,,f{8}/] ,,,e ,,,f ,,a ,,,f1 | \
+{7}1 ,,d ,,,e | {6}1 ,a ,,,f | \
+V[,b{5}1] ,b/ ,a ,,d ,a | \
+'[,,b{8}3/2] ,,a/ ,,,f1 | \
+[,,,f{8}/] ,,,e ,,,f ,,a ,,,f1 |";french4tab
+163;g moll;69v;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_500;3;"[,,,f{8}/] > ,,a (,,b > ,,d) (,a > ,b) | \
+'[,a{9}1] ,,a3/4 ,b/4 ,a1 | [,,,f{10}1] ,,d3/4 ,a/4 ,,d1 | \
+[,,d{11}1] ',,b3/4 (,,a/4 ,,b1) | \
+'[,,a{12}1] ,,b3/4 ,,a/4 ,,,f/ ,,a |";french4tab
+164;g moll;69v;Rondeau Anglois;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;3;"[,ab{8}1] [,aae2] | [,ab{8}2] {11}1 | \
+V[,b{12}1] [,,d{9}] a | [,ab{6}2] {8}1 | \
+[,a{9}1] [,a,f{10}2] | [,,de{7}3/2] ,a/ '[,,b{8}1] | \
+[,,b{12}1] '[,,a{11}3/2] ,,,f/ | ,,,f1 {8} ,,,f :||:";french4tab
+165;g moll;70r;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;3;"[cab{8}1] V,b2 | V[,,d{7}2] [,aae1] | \
+[,,b{8}1] ,,d/ ,,b '[,,a{12}] ,,,f | \
+[,,,e{11}2] ,,,a1 | [cab{8}1] V,b2 | \
+V[,,d{7}2] [,aae1] | V[,,b{8}1] ,,d/ ,,b '[,,a{12}] ,,,f | \
+[,,ae{11}3] :||:";french4tab
+166;g moll;70v;Guige;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_4169;3;",a1 | c2 [e,,e1] | [f,,f2] [a,,a1] | [c,,b1] ,,,a [e{5}] | \
+'[,e,a2] ,a1 | [c,,b2] [,d,a1] | '[,b{5}3/2] ,a/ ,,d {6} | \
+[ad{7}3/2] ,d/ ',b1 | [,abd{6}2] V,b1 |";french4tab
+167;g moll;71r;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';Conc_4288;3;"V[f{8}1] '[e{9}] {10}/ c | \
+'[b{11}1] ,a ,,,a | V[,b{5}1] X[,,d{7}3/2] a/ | \
+[,a{6}1] ',,b3/2 ,a/ | [,,d{7}1] ',,a3/2 ,a/ | \
+[,,b{8}/] c '[,b{5}1] {12} |";french4tab
+168;g moll;71r;Entree;;;(C-D-E-F-G-A-B-c-)d-a-d'-f';;3/8;",,,d/ | [,,b{6}3/4] ,,d/4 ,,b/ | \
+[,,bd1] ,a/ | [,,d{7}3/4] ,a/4 ,,d/ | \
+[,,d{9}3/4] ,a/4 V,b/ | '[,a{6}1] ,a/ | \
+'[,a{6}3/4] ,b/4 ,d/ | [,,d{7}3/4] ,a/4 V,b/ |";french4tab
+169;g moll;71v;Min. Chant;;72r empty;(C-D-E-F-G-A-B-c-)d-a-d'-f';;3;"[,,,f{8}1] [,,,f{6}] [,,,f{7}] | \
+'[,,,f{8}3/2] ,,,h/ ([,,,f{11}] ,,,h) | \
+[,,,i{8}1] [,,,f{12}] [,,,,g{11}] | \
+[,,,f{8}1] ,,,a/ {7} {6} {7} | \
+[,,,f{8}1] [,,,f{6}] [,,,f{7}] | \
+'[,,,f{8}3/2] ,,,h/ ([,,,f{11}] ,,,h) |";french4tab
+170;G dur;72v;Aria;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;C;"V[,ca{8}1] ',a/ ,,,f [,aa{9}1] ,a | \
+[,a{10}1] V,c/ ,,c V[,,d{7}1] {8} | \
+'[,aa{9}1] {11}/ ,,c [,,d{10}] ,a '[,,c{12}3/4] ,,a/4 | \
+'[,,a{11}3/2] ,,,e/ V[,,,f{8}1] {7} |";french4tab
+171;G dur;72v;Courante;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;3;"[,ac{8}1] [,cVd3/2] ,d/ | \
+[,a'c{8}3/2] ,a/ ,c ,,c | \
+V[,,d{7}1] '[,aa{9}3/2] ,,d/ | \
+[,,c{8}1] (,,c/ ,,a) ,,,f1 | \
+[,aa{9}1] [d,e{10}] f/ e | \
+[,ea{11}1] (,e/ ,c) [,eaa1] |";french4tab
+172;g moll;73r;Paspied;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;3;"a1 | [da{8}1] (f/ d) (c d) | \
+[f{11}1] ,a ,,d | ([,,b{8}/] ,,a) (,,b ,,d) ([,,a{11}] ,,b) | \
+[,,,f{8}/] ,,a (,,b ,,d) ,a (a/4 c) |";french4tab
+173;G dur;73v;Gavotte;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;C;"[,,c{8}3/4] ,,c/4 ,c3/4 ,c/4 '[,,a{9}3/4] ,,a/4 ,a3/4 ,a/4 | \
+[,,,f{10}3/4] ,,,c/4 [,ce{7}/] d/4 f [ca,a3/4] d/4 f/ ,a | \
+[ha{8}3/4] h/4 ,a3/4 h/4";french4tab
+174;G dur;73v;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;3;"[dac{8}1] ,a ,a | \
+'[,aa{9}3/2] ,,d/ [,,ca{8}1] | \
+[,,d{10}1] [,a{9}/] ,,d [,,c{8}] ,,d | \
+'[,,ae{11}2] ,,a1 | V[,,,f{10}1] ,,,c [,,ec{7}] | \
+[,aae{11}3/2] c/ d f |";french4tab
+175;G dur;74r;Aria;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';Conc_4112;C;"[,ac{8}1] [,ac{9}] [dec{10}] [dec{11}] | \
+[dcd{12}1] (f/ d) [,ea{11}1] [,ea{12}] | \
+[da{6}1] {8}/ ,a [,ca{5}1] [,aa{6}] | \
+[,,dc{7}/] ,a ([,,ca{8}] ,,d) [,,ae{11}1] [,,aa] |";french4tab
+176;G dur;74v;Sarabanda;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';Conc_4113;3;"[lk{8}1] [ih{9}3/2] i/ | \
+[,k{8}1] [,af3/2] ,a/ | \
+[,c{5}1] '[,aa{9}3/2] ,,d/ | \
+[,,c{8}1] [dac2] | \
+[fa{9}1] '[e{10}3/2] f/ | \
+[,ea{11}1] [,ce{7}3/2] f/ | \
+[,a{9}/] [,c{8}] '[,ce{7}3/2]";french4tab
+177;G dur;74v;Rondeau Hi:;Hinterleitner?;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;3;"[,,ca{8}3/2] ,,a/ ,,,f1 | \
+'[,a{9}3/2] [,,e{10}/] [,aa{11}1] | \
+[dc{10}1] ([c,e/] a [c{7}] d) | \
+'[caaa3/2] a/ ,a {5} | \
+[da{6}3/2] c/ [ac{5}1] | \
+[,a{6}1] (,c/ ,a) ([,,d{8}] ,,c) |";french4tab
+178;G dur;75r;Trio;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;C;"d/ [,,c{8}/] ,,d ,a [,c{5}] | \
+[,a{8}/4] ,,d (,a ,c) [,ac/] d [,,c{8}] ,,d ,a [,c{5}] | \
+[,ac{8}3/2] :||: d/ [d{10}] c/4 d [a{7}/] f |";french4tab
+179;G dur;75v;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';Conc_4114;3;"[,,,f{8}/] ,,a ,,c ,,d ,a1 | \
+[,ac{8}1] V[,c{5}2] | \
+'[,aa{9}3/2] ,,d/ [,,c{8}1] | \
+V[,,d{12}1] '[,,a{11}2] | \
+([,,c{8}/] ,,a) (,,c ,,d) (,,c ,,a) | \
+[,,,f{8}/] ,,a ,,c ,,d ,a1 |";french4tab
+180;G dur;75v;Aria;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;C;"[h{8}1] ,a/ h '[f{9}1] ,a/ f | \
+[da{10}1] ,,e/ d V[,e{11}1] [,,aa] | \
+[da{6}1] ,a/ d [,c{5}1] [,a{6}/] ,c | \
+[,,d{7}1] '[,ad{9}3/4] ,,d/4 '[,,ca{8}1] ,,,f :||:";french4tab
+181;G dur;76r;Rondeau;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;3;"{8}1 {6} ,,,a | V[,,,f{8}2] [,,,e{7}1] | \
+[,,,f{8}1] ,,a ,,c | '[,,a{11}/] ,,,f ,,,e ,,,c ,,,a1 | \
+[,,c{8}1] (,,c/ ,,d) [,a{9}1] | \
+[,,c{10}1] (,,c/ ,,d) [,a{11}1] |";french4tab
+182;G dur;76v;Rigdon;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;C;",,c/ [,a{9}] V[d{10}] | \
+'[caaa{11}3/2] [,a{6}/] [,,d{7}] ,,c [,,d{11}] (,,c/4 ,,a) | \
+[,,c{8}/] (,,a/4 ,,c) ,,,f ,,a (,,c ,,d) \
+[,a{9}1] [d{10}] |";french4tab
+183;G dur;76v;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;3;"[,f{8}1] ,f '[f{11}/] ,f/4 f | \
+V[h{8}1] ,f '[f{11}/] ,f/4 f | \
+V[h{8}1] ,c [,e{11}] | \
+[dac{8}2] '[,a{9}/] ,,d | \
+[,,c{8}1] (,,d/ ,,c) ,,a ,,,f |";french4tab
+184;G dur;77r;Gavotta;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;C;"[,,ca{8}1] ([,,d{7}/4] ,,c) (,,d/ | \
+'[,a{6}3/2] ,f/ [,,ca{8}1]) ([,,d{7}/4] ,,c) ,,d1 | \
+'[,a{6}3/2] ,f/ [,,c{8}1] [,,d{7}] | \
+[,a{6}1] [,c{5}] [,,a{9}/] ,,c ,,d ,a |";french4tab
+185;G dur;77v;Minue;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;3;"[dac{8}1] [dac] [f{9}] | \
+[h{8}1] (h/ f) (,f ,e) | \
+(,c/ ,a) [,,e{7}1] (f/ d) | \
+[,e{11}/] d ,e ,c ,a1 | \
+([h{8}/] f) (,f ,e) (,c ,a) |";french4tab
+186;G dur;77v;Guige;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';Conc_47;3;",a1 | [dac{8}3/2] f/ d1 | '[c{7}1] ,c [,a{6}] | \
+[,c{5}1] ,d ,c | '[,a{6}1] ,,d ,,c | [,,dc{7}1] ,a ,,d | \
+'[,,ca{8}1] ,,a ,,,f |";french4tab
+187;G dur;78r;Bouree;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;C;",,c/ ,,d | [,ac{8}1] [,ac] [,cd{5}/] {6} [cad{7}1] | \
+[dac{8}1] '[c{7}/] a [,ac{8}1] [,cd{5}] | \
+[,a{6}1] [,,dc{7}] ,,d [,,ca{8}] | \
+[,,a{11}/] ,,,f ,,a ,,c [,,ae1] ,,c/ ,,d |";french4tab
+188;G dur;78r;Aria;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;C;"[,,ca{8}3/4] ,,c/4 ,,a/ ,,,f [,aa{9}3/2] ,a/ | \
+[,ce{10}1] f/ 'd [ca{11}] ,c ',a ,,d | \
+[,,c{8}/] ,,,f ,c ,,c/4 ,a \
+[,,e{7}3/4] ,,e/4 [,aa{9}/] {8} |";french4tab
+189;G dur;78v;Sarabande;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;3;"[da{6}3/2] [,ac/] [,cd{12}1] | \
+'[,,d{9}2] [,,(c{8}/] {7} | \
+[da{6}3/2] ,a/ [,cc){5}1] | \
+'[,,a{12}3/2] ,,c/ [,,cb{6}1] | \
+[,bc{6}3/2] c/ [dccc1] | \
+[fce{7}3/2] d/ [caaa1] | \
+[,cc{8}3/2] ,e/ [,aa{9}] {8} |";french4tab
+190;G dur;78v;Gavotte;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;3;"[,,ca{8}] | '[,aa{9}3/2] ,,d/ [,,ca{8}1] | \
+'[,,a{12}3/2] ,,c/ ,,,f1 | [,,,e{11}1] ,,,a {5} | \
+{6}3/2 ,,,f/ [,,,c{5}3/2] ,,a/ '[,,ae{11}3/2] ,,,f/4 ,,a | \
+,,,f1 {8} ,,,f |";french4tab
+191;G dur;79r;Minue;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;3;",a1 [,acf{8}2] | [,aae{9}2] [,aae1] | \
+,,d1 [,,d(c{10}] [,ad{9}] | \
+'[,,ca){8}3/2] ,,a/ ,,,f1 | ,a1 [,acf{8}2] | \
+[,aae{9}2] [,aae1] | [,c{8}1] '[,c{7}3/2] ,a/ | \
+[,aae{11}2] [,aae1] :||:";french4tab
+192;G dur;79r;Aria;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';Conc_1445;C;"[dac{8}1] [fa{9}] [ha{8}] '[f{9}] | \
+[,f{10}/] h 'f ,f '[,e{11}] ,c ,a {5} | \
+{6}/ ,a d ,a V[,c{5}1] [,a{6}] | \
+([,,d{7}/] ,c ',a ,,d)";french4tab
+193;G dur;79v;Retirada;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';Conc_4115;3;"[,ac{8}3/2] d/ [ca{11}1] | [dcc{10}3/2] d/ [,cd{12}1] | \
+[,,de{7}1] ,a/ [,,ca{8}1] ,,d/ | [,,ae{11}1] ,,,a ,,,e | \
+[,ac{8}3/2] d/ [ca{11}1] | [dcc{10}1] ,e/ [,c(d{12}1] ,a/ |";french4tab
+194;G dur;79v;Sarabd;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;3;"[,ac{8}3/2] d/ ,c1 | '[,aa{9}3/2] ,,d/ [,,ca{8}1] | \
+[,,d{12}/] ,,c '[,,a{11}1] ,a/ ,,d | \
+'[,,ca{8}3/2] ,,a/ ,,,f1 | [,a{9}1] '[,a{8}3/2] ,a/ | \
+'[,,e{7}3/2] (,,e/ [,a{6}1] |";french4tab
+195;G dur;80r;Bouree;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';Conc_1219;C;"d/ ,e | [d{8}1] ,a ,,c ,c | \
+[,,d{7}1] [,a{9}/] ,,d '[,,c{8}1] ,,,f/ {9} | \
+{10}1 ,c '[,,e{7}3/2] ,a/4 ,,e | [,af1] {11} [,af] :||:";french4tab
+196;G dur;80r;Aria;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;C;"[,,ca{8}/] ,,c ,,a ,,,f [,,aa{9}1] ,a | \
+[,ce{10}1] f/ d [,ea{11}] ,c ',a ,,d | \
+[,,ca{8}/] ,,c ',,a ,,,f [,,aa{9}1] ,a |";french4tab
+197;G dur;80v;Trezza;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';Conc_597;3;"[dac{8}3/2] f/ h1 | '[fa{9}3/2] l/ ,a1 | \
+[da{10}3/2] f/ [d,e1] | [,ea{11}3/2] {7}/ ,,,a1 | \
+[d{6}3/2] ,a/ d1 | [,c{5}3/2] ,,,f/ ,c1 | \
+'[,aa{9}3/2] ,c/ ,,d1 | '[,,ca{8}2] ,,,f1 :||:";french4tab
+198;G dur;80v;Gavotte;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';Conc_2426;C;",,,f/ ,,a | [,,,f{8}/] ,,a ,,c ,,d [,,a{9}1] ,,,a | \
+([,,,f{10}1] ',,a/ ,,,f) [,,,e{11}1] ,,,f/ ,,a | \
+[,,,f{8}/] ,,a ,,c ,,d [,a{9}] ,,d [,,c{8}] ,,d |";french4tab
+199;G dur;81r;Minuet;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';Conc_3424;3;"[,,c{8}1] [,,a{9}2] | V[,,c{8}2] ,,c1 | \
+[,,,f{10}1] '[,,,e{11}2] | V[,,,f{10}2] ,,,f1 | \
+[,,,c{5}1] [,,,a{6}2] | [,,,c{5}2] [,,d{12}1] | \
+(,,d/ ,,c) '[,,a{11}3/2] ,,,f/ | [,,,f{8}1] ,,,a ,,,f :||:";french4tab
+200;G dur;81v;Courante;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;3;",a/ | [,aca{8}1] [,aca] ,a | [,ac{8}1] '[,aa{9}3/2] ,a/ | \
+{7}/ ,,d [,,de{11}3/2] ,,a/ | [,,c{8}1] [,,ac{12}3/2] ,,,f/ | \
+{11}/ ,,,e ,,,a ,,,e {10} ,,,f |";french4tab
+201;G dur;81v;Stieglitz Aria;;;(C-D-E-F-G-A-B-c-)d-a-d'-e';;C;"[,ac{8}/] ,a [,ae{9}] ,a [,ac{8}] ,a [,ae{9}] ,a | \
+[,ac{8}/] ,a {5}/4 ,c {6} ,a \
+{7} ,,d {8} ,,c [,,ae{11}/] ,,a |";french4tab
+202;G dur;82v;Minuet;;Remaining pp empty - torn out pages;(C-D-E-F-G-A-B-c-)d-a-d'-e';;3;"[,a{8}1] ,,c (,,d/4 ,,c) ,,d/ | [,ac{8}1] V[,cd2] | \
+[,a{8}1] ,,c (,,d/4 ,,c) ,,d/ | [,a{8}1] ',,c ,,,f | \
+[,a{8}1] ,,c (,,d/4 ,,c) ,,d/ | [,ac{8}1] [,cVd2] |";french4tab

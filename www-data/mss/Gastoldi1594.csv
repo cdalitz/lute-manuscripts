@@ -1,0 +1,49 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;2;Sonatemi un balletto;;Il Ballerino;OT;;C;"[hi,,h1] | [hi,,h3/2] [f,,,h/] [hi,,h1] [hi,f] | \
+[fh,,f3/2] [,i,,f/] [fh,,f1] [fh,,f] | [df,c1] [c,,a] [df,,d] [af,,d] | \
+[ce,,c2] || z1 [ce,,c1] | [df,c1] [ce,,c] [a,,c] [c,,a] |";italian7tab
+2;;3;La mia amorosa;;La Cortigiana;OT;;3;"[hi,,h2] [hi,f] [fh,a] | [df,c4] [ce,,c2] | [a,,c1] ,e a c a2 | \
+[,e,,c2] [a,,c] [c,,a] | [d,,,,d4] z2 | [hi,f2] [hi,f] [hi,f] | \
+[fh,a4] [df,c2] |";italian7tab
+3;;4;Poi ch'el mio foco;;Lo Spensierato;OT;;C;"[da,,,d1] | [da,,,d1] [da,,,d] [cd,a] [aa,c] | [,ef,c1] [,ef,c] z1 [aa,c1] | \
+[cd,a1] [d,,,c] [a,,,a] [c,,a] | [da,,,d1] [da,,,d] || \
+z1 [da,,,d/] [da,,,d] |";italian7tab
+4;;5;Non morirò;;Lo Sdegnato;OT;;3;"[da,c2] | [da,c4] [dab2] | [cd,a4] [da,,c2] | [a,b,d4] [c,d,a2] | \
+[da,,,d4] [dab2] | [dab4] [dab2] | [cd,a4] [aa,c2] | \
+[ab,,d4] [,e,,c2] | [a,,,,a4] [da,c2] | [a,,,,a4] z2 |";italian7tab
+5;;6;Vive vive Bacco ogn'hor;;Il Todesco;OT;;C;"[da,c/] [ca,b] | [aa,c1] [,e,,c] [aa,c] [cd,a] | \
+[dab2] z1 [dab/] [dab] | [cd,a1] [da,c] [d,,,d] [c,,a] | \
+[da,,,d2] || [cd,,a1] [cd,,a] | [cd,a1] [cd,a] [aa,c] [aa,c] |";italian7tab
+6;;7;O vezzosetta;;Il Prigioniero;OT;;C;"[cd,a1] [cd,a/] [aa,c] [cd,a1] [d,,,,d] | \
+[cd,a2] [cd,a1] [ff,,a/] [ff,,a] | [df,,d1] [df,,d] [df,,d] [cd,a] | \
+[ac,,a2] z1 [ac,,a/] [cd,,a] | \
+[dd,,,d1] [df,,,d] [dd,,,d] [ca{a}] |";italian7tab
+7;;8;Vita mia per che;;Il Luchesino;OT;;C;"[a,bc/] [c,da] | [dab1] [da,,,d] [c,da] [a,bc] | [c,da1] [c,da] z1 [c,da/] [c,da] | \
+[c,da1] [c,da] [a,bc] [a,b,,a] | [,ea,c1] [,ea,c] ||";italian7tab
+8;;9;Se mi fai saltar;;L'Humorista;OT;;C;"[f,,a/] [d,,a] [c,,a] [a,,c] [cd,a1] [da,,,d] | [cd,a2] z1 [fd,a/] [da,c] | \
+[cd,a1] [ac,,a/] [,d,,c] [ac,,a1] [ac,,a] | [,d,a2] ||";italian7tab
+9;;10;Per voler d'Amore;;Il Felice;OT;;C;"[cd,a1] [cd,a] [cd,a] [da,c] | [cdd,a2] [,d,a] | [da,c1] [da,c] [da,c] [f,a] | \
+[dab2] [ab,,d] | [ab,,a1] [ab,,a] [ab,,a] [da,,,d] | \
+[cd,a/] a c d c1 [cd,a] |";italian7tab
+10;;11;Dimmi ch'è del mio core;;Il Curioso;OT;ConcR3134;C;"[cd,a1] [cd,a/] [cd,a] [cd,a1] [aa,c] | [cd,a1] [cd,a/] [a,,,d] [cd,a1] [da,,,d] | \
+[cd,a1] [d,,,c] [d,,,d] [cd,a] | [da,,,d2] || z2 | \
+[dab1] [dab/] [f,a] [dab1] [abd] |";italian7tab
+11;;12;Che pensi tu;;Il Risentito;OT;;3;"[cd,a1] [ac,,a] [,df,c] | [,ce,,c2] [,df,c1] | [ac,,a3/2] [c,d,,c/] [,df,,d] [ac,,,a] | \
+[cd{a}2] [,d,a/] [a,,a] | [cd,a1] [cd,,c] [b,,,e] | \
+[cd,,,c2] ||";italian7tab
+12;;13;Non mi dar;;Il Tormentato;OT;;C;"[cd,a/] [cd,a] | [cd,a1] [da,,,d] [cd,a] [aa,c] | \
+[,e,,c2] z1 [aa,c/] [ca,a] | [da,c1] [ca,,c] [aa,c] [cd,a] | \
+[da,,,d2] || z1 [df,,d/] [df,,d] |";italian7tab
+13;;14;Fin c'havrò vita;;Il Costante;OT;;3;"[dab1] [cd,a] [aa,c] | [,e,,c3/2] [ab,,a/] [ab,,d1] | \
+[c,,a1] [aa,c] [ab,,d] | [,ea,c2] || z1 | [df,c1] [df,c] [c,,a] | \
+[ab,,d3/2] [ab,,a/] [,e,,c1] |";italian7tab
+14;;15;Vo lodar;;Il Fortunato;OT;;C;"[ac,,a/] [ac,,a] [ac,,a1] [ac,,a] | [cd{a}1] [cd{a}] [ac,,a2] | \
+z1 [cd,a/] [ef,a] [fh,a1] [ef,c] | [cf,,c1] [ce,,c] [ef,,,a2] || \
+M:3
+[aa,c2] [ca,b] [ea,c] | [fc,a4] [ac,,a2] |";italian7tab
+15;;16;O che diletto;;L'Invahito;OT;;C;"[ac,,a2] [ac,,a1] [,d,,c] | [ac,,a2] [a,d,a1] [ac,,a] | \
+[cd,a2] [aa,c] | [ac,,a2] [,cd,a] | \
+[,d,,c/] ,c ,d a [c,,,a1] a | [,da{a}3/2] ,c/ [,a{a}1] ,,d |";italian7tab
+16;;17;E vivo a mio despeto;;El Passionao;OT;;3;"[cd,a2] [cd,a] [cd,a] | [aa,c4] [cd,a2] | [da,,,d4] [da,,,d2] | \
+[c,d,a2] [a,b,d] [,daa] | [,c,ca4] [,dd,,c2] | [,db,,d4] [ac,ca2] | \
+[,da{a}4] [cd,a2] | [dd,,,d4] [ac,,a2] |";italian7tab

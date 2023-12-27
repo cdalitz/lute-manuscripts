@@ -1,0 +1,81 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;2r;[Prelude];;;OT;;C;"[aab,,a1] [aab/] ,,,,,a | [abd,a1] [aab,,a] | \
+[,aa,c/] ,,,c [,aa] ,,,b | [aa,c,a3/2] c/ | d/ c a ,d | \
+,c/ ,a ,,d ,,b |";italian7tab
+2;;2v;Pass'e mezo milanese;;;OT;;C;"X,,d/ ,a | [aXbXd,a1] ,,,c | [abd1] [abd,a] | [abd,a/] d c a | \
+,d/ ,b ,a ,,d | [,Xb,,Xd1] ,,,a | [,ab1] [,ab,,d] |";italian7tab
+3;;3v;gagliarda del pass'e mezo;;;OT;;3;"X,,d/ ,a [abXd,a3/2] ,d/ a ,d | ,b/ ,a [,Xd,a1] ,d/ ,b | \
+[,ab,,d3/2] [,ab/] ,,,a1 | [,ab,,Xd/] ,b ,d ,a ,b ,d |";italian7tab
+4;;4r;Deh no' piu guerra;;Allemande Prince;OT;;C;"[,,d,a3/4] ,a/4 [,b,,a/] [,db,,d] | [ab,,d3/4] [ab/4] ,,,,d/ [ab,,d] | \
+[,db,,d/] [,b,,a] [,db,,d] ,d | [ab,,d3/4] [ab/4] ,,,,d/ [ab,,d] | \
+[,,d,a/4] ,,c ,,d ,a";italian7tab
+5;;4v;Gagliarda detta L'imperiale;;La Duchessa;OT;ConcR1831;3;"[acd,a1] [acd/] ,,,,a [acd] ,,,,a | [acXd,a3/2] ,c/ ,d a | \
+[cdXda1] a/ ,d ,c ,a | [ccee3/2] [cce/] ,,,e1 |";italian7tab
+6;;5v;Pass'e mezo detto il Giorgio;;Passemezzo Zorzi;OT;ConcR842;C;"[cdda1] | [cdda1] [cdd] | [cdXda1] a/ ,d | [acd,a1] ,,,c/ ,d | \
+[acd,a1] e/ f | [ea,,,a1] [fc,,a] | [ea,,,a/] a c e |";italian7tab
+7;;6r;Padoana del Giorgio;;;OT;ConcR1832;3;"[cdda/] | [cdda1] [cdd/] | [cdXda/] a ,d | [acd,a1] [acd/] | \
+[acd,a/] e f | [ea,,,a1] [fc,,a/] | [ea,,,a/] c [ea,,,a] | \
+[fc,,a1] [fc/] |";italian7tab
+8;;6v;Gagliarda del Giorgio;;;OT;ConcR1833;3;"[cdda1] | [cdda3/2] [cd/] ,,d1 | [cdda1] [cdd] [cdda] | \
+[acXd,a3/2] ,a/ ,c ,d | [acd,a1] ,,,c [fc,,a] | \
+[ea,,,a1] a/ c [ea,,,a1] |";italian7tab
+9;;7r;Castel de Lambrio;;Burato;OT;ConcR1454;3;"[cdda1] [cdd] [cdda] | [cdda3/2] f/ [da,c1] | [cdda1] [abb,d] [,da,c] | \
+[acd,a3/2] [ac/] ,,d1 | [,dXda/] ,c ,d a c d |";italian7tab
+10;;7v;La Paganina;;;OT;ConcR1585;C;"[acd,a1] | [acd,a1] [acd/] ,d | [acXd,a/] d c a | \
+[cdda1] [cdd/] ,,,c | [cdda1] [,ab,,d/] ,,d | \
+[,ab,,d1] [,ab/] ,,,,,d |";italian7tab
+11;;8v;Gagliarda de la paganina;;;OT;ConcR1586;3;"[acd,a1] | [acd,a3/2] [ac/] ,,d1 | [acXd,a/] ,d a ,c ,d a | \
+[cdda3/2] [cd/] ,,d1 | [cdda1] [cdd] [,ab,,d] | \
+[,ab,,d3/2] [,ab/] ,,,a1 |";italian7tab
+12;;9v;La chianchiera;;Chianchiéra = Neapolitan: butcher (fem.) - Chiànchiara = dance form;OT;;3;"[ab,,d1] | [ab,,d3/2] ,d/ [,cd,a1] | [,dda1] [,dda] [acd,a] | \
+[,dda3/2] ,b/ [,ab,,d1] | [,bd,a1] [,bd,a] [,ab,,d] | \
+[,bd,a3/2] ,b/ [,ab,,d1] |";italian7tab
+13;;10r;Tocca tocca la Canella;;;OT;ConcR1462;3;"[ab,,d1] [ab] | [ab,,d3/2] [ab/] ,,,,d1 | [ab,,d1] ,d/ ,b ,a ,,d | \
+[,ab,,d3/2] [,ab/] ,,,a1 | [,db,,Xd1] a/ ,d ,b ,a |";italian7tab
+14;;10v;Pass'e mezo milanese in tenore;;;OT;;C;"z1 [aab,,a/] c | [dab,,a1] c/ a | ,d/ ,b ,a ,,d | \
+[aab,,a/] ,,a ,,b ,,d | ,a/ ,c ,d a |";italian7tab
+15;;11v;Padoana moderna tenor;;;OT;;3;"[aac,,a/] | [aac,,a1] [aac/] | ,,,,,a/ [aac] ,,,c | \
+[aac,,a/] ,,d [aacc] | ,,,a/ ,,,,e ,,,,c | [acd,a1] [acd/] | \
+,,,,a/ [acd] ,d | [acd,a/] ,,,,c ,,,,e |";italian7tab
+16;;12r;[Padoana milanese in tenore];;incomplete?;OT;;3;"[da,c/] | [da,Xc/] c a | ,e/ a c | [da,Xd/] c a | c/ d a | \
+[c,da/] ,d/4 a c d |";italian7tab
+17;;12r;Saltarello moderno tenor;;;OT;;3;"[aac,,a3/2] [aac/] ,,,c1 | [aac,,a/] ,,d [aacc] ,,,a ,,,,e ,,,,c | \
+[acd,a3/2] [acd/] ,,,c1 | [acd,a/] ,,,c [acd] ,,,,c ,,,,e ,,,a |";italian7tab
+18;;12v;Val cerca;;Gaillarde La Royne d'Ecosse;OT;ConcR833;3;"[dab,,d1] [cdda] [abb,d] | [,da,Xc3/2] ,b/ [,ab,,d1] | \
+[abb,Xd3/2] ,d/ [,bd,a1] | [,dda3/2] ,b/ [,ab,,d1] | \
+[abb,d3/2] ,d/ [,bd,a1] | [,dda3/2] ,b/ ,a ,,d |";italian7tab
+19;;13v;Passo e mezo contralto dito il milanese;;;OT;;C;"[bdda1] | [bdda1] ,,d/ d | [f,,a/] d b a | [bdXda/] a ,d ,c | \
+[,dXda/] b a ,d | [ab,,Xd/] ,d a b |";italian7tab
+20;;14v;Suo saltarello;;;OT;;3;"[bdda3/2] ,c/ ,d a | [bdda1] d/ b a ,d | [ab,,d3/2] [ab/] ,,,c1 | \
+[ab,,d/] ,d a d b a |";italian7tab
+21;;15v;Saltarello (moderno tenor);;Ciel Turchino / La Gonella;OT;ConcR2134;3;"[ab,,d1] | [ab,,d/] a [,db,,d] ,a ,b ,d | \
+[ab,,a3/2] ,a/ [,,d,a1] | ,,c/ ,,a [aac,,a] ,,a ,,d ,,c | \
+[,,d,a1] ,,,c [ab,,d] |";italian7tab
+22;;16r;fiamenga in Padoana;;;OT;;3;"[dab,,d/] | [ab,,d1] [cdda/] | [dab,,d1] [dab/] | \
+[dab,,d3/4] c/4 [aabc/] | [cdda1] [dab,,d/] | [ab,,d1] [cdda/] | \
+[dab,,d/] c a d c a |";italian7tab
+23;;17r;Gentil madona;;;OT;ConcR1624;3;"[aac,,a/] ,,,c [aac] | [aac,,a1] [aac,,a/] | [,,d,a1] [aac,,a/] | \
+[,,d,a1] [,ab,,d/] | [ab,,d1] [ab/] | [,ab,,d3/4] ,b/4 [,db,,d/] | \
+[ab,,d1] [ab/] | ,,,,d/ [ab] [,db,,d] |";italian7tab
+24;;18r;todeschina;;;OT;;3;"[ab,,d/] | [ab,,d1] [ab/] | [ab,,d/] ,d/4 ,b ,a ,,d | \
+[,db,,d1] ,,,a/ | [,db1] [ab,,d/] | [,db,,d1] [,b,,a/] | \
+[,ab,,d1] [,,d,a/] | [aac,,a1] ,,,c/ |";italian7tab
+25;;18v;Tenor dta Paganina;;;OT;ConcR1585;C;"[aac,,a1] | [aac,,a1] [aac/] [aac] | [aacc/] ,,,,e ,,,a ,,,,c | \
+[acda/] ,,,c [acd] ,,,,c | [acd,a/] ,c ,d a | [cdXda/] a d c |";italian7tab
+26;;19v;Saltarello;;;OT;;3;"[aac,,a1] | [aac,,a3/2] [aac/] ,,,c1 | \
+[aacc/] ,,d [aacc] ,,,,e ,,,a ,,,,c | \
+[acd,a3/2] [acd/] ,,,c1 | [acd,a1] ,,,c/ ,c ,d a |";italian7tab
+27;;20v;[Se scior si vedl'il laccio];;f. 21r empty;OT;ConcR2752;C;"[,acc1] [,da,c/] [,da,c] | [,cee/] [,ac] [,cee1] | \
+[,df/] ,c [a,d] [a,,c] | [,c,e/] ,,e [,aa,c1] :||: \
+z/ [,cee] [,cee] [,cee] | [,cee/] [,cee] [,cee3/4] [,cee/4] |";italian7tab
+28;;21v;[Pascomi sol di pianto];;f. 22r empty;OT;ConcR2102;C;"z/ [abd3/4] [abd/4] [abd/] | [abd/] [abd] [bd,a1] | z1 [acd] | \
+z/ [,dff3/4] [,dff/4] [,dff/] | \
+[ab,,d/] [ab,,d] [,bdd] [,bd/4] ,,,c  |";italian7tab
+29;;22v;Pass'e mezo dt Ongaro;;;OT;ConcR1607;C;"[dab,,d1] | [cdda1] ,,,,,c/ d | [cdda1] [dab,,d] | \
+[ab,,d1] ,,,c/ ,d | [ab,,d1] [ha,f] | [f,aa1] [dabc] | \
+[ab,,d1] [cdda] | [,ab,,d1] ,,,a/ ,,d |";italian7tab
+30;;23v;Saltarello;;;OT;ConcR1635;3;"[dab,,d1] | [cdXda1] ,,,,,c/ a c d | [cdXda1] d/ c a ,d | \
+[ab,,Xd1] ,,d/ ,a ,b ,d | [ab,,d/] ,d a";italian7tab
+31;;24v;[Passamezzo Milanese];;f. 25r empty;OT;;C;"[abd,a1] | [abd,a1] ,,,c | [abd,a1] [,da,c] | \
+[abd,a1] [,ab,,d] | [,,d,a/] ,b [,a,a] ,,d | \
+[,ab,,d1] ,,,a | [,ab,,d1] [,,da,c] | [,ab,,d1] ,,,a/ ,,d |";italian7tab

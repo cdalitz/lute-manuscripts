@@ -1,0 +1,64 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+;;;Numero 4;;;;;;;
+;;;Mandora Prima;;;;;;;
+1;G dur;4-1r;Andante;;;Mandora;;C;",,a/ | ,,,,,d/4 ,a ,d ,d ,,,,,d ,d a ,d [,de/] [,bc] [,aa] ,,,,,d | \
+,,,,,d/4 ,a ,a ,a ,,,,,c ,b ,b ,b";french5tab
+2;G dur;4-1v;Menuet;;;Mandora;;3/4;",,,,a1 ,d ,,,e/ f | '[d,,,,a1] ,,,,a V[,c,a] | ,,,a1 ,d ,,,e/ ,f | \
+'[d,,,,a1] ,,,a [cd,a] | ,,,a/ (c a) ,c (,d ,a) |";french5tab
+3;G dur;4-1v;Trio;;;Mandora;;3/4;",,,a/ ,d f ,d ,,,a f | ,,,,,d/ ,,d ,d ,,d ,,,,,d ,d | \
+,,,,,a/ ,b d ,b ,,,,,a d |";french5tab
+4;G dur;4-2r;Allegro Assai Fuga;;;Mandora;;C;"[,dca2] [cd] | [ac,,a1] ,,c a d | ([c,,a/] a) ,d1 ,d ,,,a | \
+,,,,e1 ,,,,a ,,,,e ,,,,a | ,,,a1 f ,h f |";french5tab
+;;;Mandora Seconda;;;;;;;
+5;G dur;4-3r;Andante;;;Mandora;;C;",,a/ | [,,a,,d/] [,,a,,d] [,,a,,d] [,,a,,d] [,aa,,d] ,,a ,,,,,d ,,a | \
+(3,a/4 ,b ,d) ,d ,d ,,a ,d a ,d (3,d ,b ,a) \
+(3,b ,a ,,c) [,aa,,d/] [,aa] |";french5tab
+6;G dur;4-3v;Menuet;;;Mandora;;3/4;",,,a1 ,d ,,,e/ f | 'd1 ,,,,a V[c,,a] | ,,,a1 ,d ,,,e/ f | \
+'d1 ,,,,a V[c,,a] | ,,c/ (c a) ,c (,d ,a) |";french5tab
+7;G dur;4-3v;Trio Sempre Piano;;;Mandora;;3/4;"[,d,a1] b f | [g,a3] | [,b,,,a1] a d | [f,,d3] | [,,da1] ,d b | \
+[d,,,,a3] | V[b,,a1] 'a ,d | '[,c,,a3] :||:";french5tab
+8;G dur;4-4r;Allegro Assai Fuga;;"ff.5r-6r (Violino Primo);ff.7r-8r (Violino 2do); ff.9r-9v (Violone)";Mandora;;C;",,,a2 ,d | ,c2 ,,c | [,dca2] [cd,a] | [a,,,a1] ,c a d | \
+([c,,a/] a) ,d1 z2 |";french5tab
+;;;Numero 5;;;;;;;
+;;;Mandora Prima;;;;;;;
+9;A dur;5-1r;Aria Andante;;;Mandora;;C;"[,,c,a/] ,,,,a/4 ,a [,c,,a] ,d [a,,,a] f [f,,,,a/] f '[e,,,,a] ,,,a | \
+[f,,,e/] a [,c,,a/4] (,c ,a) ,,c \
+V[,,b,a/4] ,,b ,,c ,a ,,,c/ ,,,a |";french5tab
+10;A dur;5-1r;Menuet;;;Mandora;;3/4;"(3[,,d,a/] ,a ,c) ,,c1 [,,c,a] | (3[,,c,,c/] ,a ,c) ,,c1 [,,c,a] | \
+V[c,,a1] (c/ a) a ,d | '[,c,,a1] (,a/ ,c) ,,c1 |";french5tab
+11;A dur;5-1v;Fantasia;;;Mandora;;2/4;"a/ | [,,c,a/4] ,a ,c ,d (a/ [c,,a]) | '[a,,,a/] ,,c ,,c f | \
+[,,c,a/4] ,a ,c ,d (a/ [c,,a]) | [a,,,a/] ,,c ,,c c |";french5tab
+;;;Mandora Secunda;;;;;;;
+12;A dur;5-2r;Aria Andante;;;Mandora;;C;"[ff,,a1] [ff,,a] [ff,,a] [ff,,a] [ff,,,a] [ff,,,a] [ef,,,a] [ef,,,a] | \
+[ff,,a/] [ff,,a] [ff,,a] [ff,,a] [ff,,,a] \
+[ff,,,a] [ef,,,a] [ef,,,a] |";french5tab
+13;A dur;5-2r;Menuet;;;Mandora;;3/4;"(3[,c,,a/] ,d a) ,,c1 [,,c,a] | (3[,c,,a/] ,d a) ,,c1 [,,c,a] | \
+V[c,,a1] (c/ a) (3a c ,d) | '[,c,,a1] (,c/ ,a) ,,c1 |";french5tab
+14;A dur;5-2v;Fantasia;;"ff.3v-3v (Violino); ff.4r-4v (Basso)";Mandora;;2/4;",,c/4 ,a | V[,c,,a/] ,,c/4 ,a V[,c,,a/] [,d,a] | [,cc,a/] ,,,,a ,,,,a ,,c/4 ,a | \
+V[,c,,a/] ,,c/4 ,a [,c,,a/] [,d,a] | [,cc/] ,,,,a ,,,,a ,a |";french5tab
+;;;Numero 6;;;;;;;
+;;;Mandora Prima;;;;;;;
+15;A dur;6-1r;sans titre;;;Mandora;;C;"[f,,,a/] (,f/4 ,d) '[,c,a] a ,,,,,a ,,b [,,c,a1] [,,c,a/4] ,c [,a,,,a] ,d | \
+'[,c,,a/4] ,,c (c a) (,d ,c) ,a ,,c";french5tab
+16;A dur;6-1v;Adagio;;;Mandora;;C;"Xf/ [ab] [ab] [ab] Xf [bd,,a] [bd,,a] [bd,,a] | \
+Xf/ [ab,,a] [ab,,a] [ab,,a] Xe [,d,,c] [,d,,c] [,d,,c] | \
+[,b,,a/4] ,,c (b a) (,d ,b) ,a ,,c";french5tab
+17;A dur;6-1v;Menuet;;;Mandora;;3/4;"[f,,,a1] f [f,,,a] | [a,,,,a/] ,d (,a ,d) [,c,,a1] | \
+,,,,a/ f f f ,,,,a f | [a,,,,a/] ,d (,a ,d) [,c,,a1] |";french5tab
+18;A dur;6-2r;Trio;;;Mandora;;3/4;"Vf1 ,,,,a z/ f/ | f1 ,,,,a z/ a/ | ([b,,,a/] a) (,d ,b) ,a ,,c | \
+([,,c,a/] ,,b) ,a ,,b ,,,,,a1 |";french5tab
+19;A dur;6-2r;Guete Nacht;;;Mandora;;2/4;"z1 | ""pian"",,,,a/ ,,,,e ,,,a ,,,c | ,,,,a/ ,,,,c ,,,,e ,,,,,a | \
+,,,,a/ ,,,,e ,,,a ,,,c |";french5tab
+;;;Mandora Secunda;;;;;;;
+20;A dur;6-3r;sans titre;;;Mandora;;C;",,,,a/ ,,,,c ,,,,e ,,,c ,,,,a ,,,,c ,,,,e ,,,,,a | \
+,,,,a/ ,,,a ,,,a ,,,b";french5tab
+21;A dur;6-3v;Adagio;;;Mandora;;C;"z/ [,,c,a] [,,c,a] [,,c,a] z/ [,,c,a] [,,c,a] [,,c,a] | \
+z/ [,,c,a] [,,c,a] [,,c,a] z/ [,,b,,a] [,,b,,a] [,,b,,a] | \
+[,,c,a/4] ,b ,d ,b ,a ,,c (,,b ,,c)";french5tab
+22;A dur;6-3v;Menuet;;;Mandora;;3/4;",,,,a1 ,,,,e ,,,,a | ,,,,,e1 ,,,,,a ,,,,a | \
+,,,,a1 ,,,,e ,,,,a | ,,,,,e1 ,,,,,a ,,,,a |";french5tab
+23;A dur;6-4r;Trio;;;Mandora;;3/4;"z/ ,,,,a ,b a ,b ,,,,a | z/ ,,,,a ,b a ,b ,,,,a | \
+([,d,a/] ,b) ,a ,,c (,,b ,,c) | ,,,,,a/ ,,b ,a a ,,,,,a1 |";french5tab
+24;A dur;6-4r;Guete Nacht;;cf. A-Ssp01 / 90;Mandora;;2/4;"(,c/ ,d) | [,c,,a/4] a ,,c (,a ,c/) [,a,,,a] | \
+([,,c,a/4] ,,b) ,,d ,a ,,c/ ,c/4 ,d | \
+[,c,,a/4] a ,,c ,a ,c/ [,a,,,a/4] ,,b |";french5tab

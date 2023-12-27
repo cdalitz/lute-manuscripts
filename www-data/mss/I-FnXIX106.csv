@@ -1,0 +1,81 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;1r;Scala;;;OT;;3;",,,,,,a1 | ,,,,,a1 ,,,,,c ,,,,,d | ,,,,a1 ,,,,c ,,,,d | \
+,,,a1 ,,,c ,,,e | ,,a1 ,,b ,,d | ,a1 ,c ,d | a1 c d f ||";italian7tab
+2;;1r;Gagliarda;;;OT;;3;"[aaXcc,a3] [aacc,a1] [aacc,a2] | [acdca2] [acdca] [acdca] | \
+[caaXbc2] [caabc] [caabc] | [aacc,a2] [acdca] [caabc] | \
+[aacc,a3] ,,,c1 [aac2] | [aXcdca2] ,,,c [acd] |";italian7tab
+3;;1r;Romanesca;;;OT;ConcR2738;3;"[aacc,a3] [aac1] ,,,c2 | [aacc,a2] [aacc,a] [aacc,a] | \
+[acdca3] [acd1] ,,,c2 | [aXcdca2] [acdca] [acdca] | \
+[aacc,a3] [aac1] ,,,c2 | [aacc,a2] [aacc,a] [aacc,a] |";italian7tab
+4;;1v;Pass è mezzo;;;OT;;C|;"[aacc,a1] ,,,c | [aacc,a1] [aacc,a] | [aacc,a1] ,,,c | \
+[aacc,a1] [aacc,a] | [acdca1] ,,,c | [acdca1] [acdca] | \
+[aacc,a1] ,,,c | [acdca1] [acdca] | [aacc,a1] ,,,c |";italian7tab
+5;;1v;[Cola?]schone;;or Trescone = Bergamasca progression;OT;Conc_45;C;"[acdca3] [acd1] | [cdda2] [cdd] | [aacc,a2] [aac] | \
+[acdca3] ,,,c1 | [acdca3] [acdca1] | [cdda2] [cdda] | \
+[acdc,a2] [aacc,a] | [acdca3] ,,,c1 |";italian7tab
+6;;2r;Contra passo balletto;;;OT;ConcR2739;C;"[acdca2] ,d | [acdca1] [acd] [aacc,a2] | [acdca2] ,,,c/ ,d ,c ,a | \
+[acdca1] ,,,,,d ,,,,,c [aacc,a1] | [acdca2] ,,,c ||";italian7tab
+7;;2v;Pass è mezzo di B quadro;;Cominciata Addi 23 di Marzo 1608;OT;;none;"[aacc,a1] ,,,c [aacc,a] [aacc,a] ,,,a [aaa,e] ,,,,c | \
+[acdca1] ,,,c [acdca] [acdca] [acdca] ,,,,c [aaa,e] ,,,a |";italian7tab
+8;;2v;Gagliarda;;;OT;;3;"[aacc,a1] ,,,c [aac] | [acdca1] ,,,c [acd] | \
+[caabc1] ,,,b [caa] | [aaa,e1] [caabc] ,,,b || \
+[aacc,a1] ,,,c [aac] | [acdca1] ,,,c [acd] |";italian7tab
+9;;3r;La 4/3 Rima;;;OT;ConcR2740;none;"[caabc1] [caa/] ,,,,c [caa] ,,,,c [caabc1] [caabc] [aabc] ,,,c [cdd,,,a] [cdd] | \
+[cdd,,,a1] [cdd/] ,,,,,,a [cdd] ,,,,,,a \
+[dabc1] [cdda] [aabc] ,,,c [caabc] [caa] |";italian7tab
+10;;3r;Calata;;si striscera;OT;ConcR2741;3;"[acdca3/2] a/ [acdca1] | ,,,,a/ a a a [acdca1] | \
+[cdda3/2] c/ [cdda1] | ,,,a/ c c c [cdda1] | \
+[acdca3/2] a/ [acdca1] |";italian7tab
+11;;3v;Gagliarda;;;OT;;3;"[acdca1] ,,,c [acd] | [cdda1] ,,,,,,a [cdd] | [aacc,a/] ,,,c ,,d ,,a ,,c ,,d | \
+[aacc,a2] ,,,c1 || [acdca1] ,,d/ ,d ,c1 |";italian7tab
+12;;3v;Ballo a canto;;si striscera;OT;ConcR2741;3;"[cdda3/2] c/ [cdda1] | ,,,a/ c c c [cdda1] | [dab,,d3/2] d/ [dab,,d1] | \
+,,,,,d/ d d d [dab,,d1] | [cdda3/2] c/ [cdda1] |";italian7tab
+13;;4r;Contrapunto di pass e o/2;;;OT;;C|;"[cdda/] a c d | f/ d c a | [cdda/] d f d | [cdda/] a ,d ,b | \
+[,ab,,d/] ,,a ,,a ,,d |";italian7tab
+14;;4v;Pass è o/2;;Comminciata a 14 di Maggio 1609;OT;ConcR2742;C|;"[aacc,a1] ,,,c/ ,,d | [aacc,a1] [caabc] | [aacc,a1] ,,,a | \
+[aaa,e1] ,,,,c | [cdca1] ,,d/ ,d | [acdca1] [aaa,,e] | \
+[acdca1] [aaa,,e] | [aaa,,c1] ,,,b |";italian7tab
+15;;5v;Rose é Viole;;;OT;ConcR2743;C|;"[,ddb/] ,c ,d a | [cdca1] ,,,,,,a | [da,c1] c/ a | [cdca1] ,,,,,,a | \
+[da,c1] c/ a | [cdda1] a/ ,d | [acdca/] ,d a ,c |";italian7tab
+16;;5v;Calata;;;OT;ConcR2744;3;"[cdda3/2] [cdd/] ,,d1 | [cdda1] ,d ,b | [,ab,,d3/2] [,ab/] ,,,a1 | \
+[,ab,,d1] ,b ,d | [abbcd1] b a | [,da,c1] a ,d |";italian7tab
+17;;6r;La Corrente Franzese;;Followed by tuning examples;OT;ConcR2722;3;",,d1 | [,dd,,,a3/2] a/ ,d1 | [acdca3/2] ,d/ a1 | [cdd,,,a2] ,,,,a1 | \
+,,,a3/2 c/ d1 |[fdaa3/2] d/ c1 | [acdca3/2] ,d/ a1 |";italian7tab
+18;;6v;Ballo di Palazzo;;;OT;ConcR1224;C|;"[cdda1] ,,,,,,a/ d | c1 [acdca] | [,da,c1] ,,,,c/ ,c | \
+,d1 [,,d,,c] | [,ab,,d1] ,,,a/ ,c | ,d1 [,acdca] | \
+[,dd,,,a1] ,,,,a | ,,,a2 ||";italian7tab
+19;;6v ;Alla Breve;;;OT;;3;"[cdda3/4] a/4 c/ | ,,,a3/4 c/4 [a,,,a/] | [,aa,c3/4] ,c/4 ,d/ | \
+,,,,c3/4 ,d/4 [,c,,,c/] | [,a,,,d3/4] ,c/4 ,d/ | \
+,,,,c3/4 ,d/4 [a,,,a/] |";italian7tab
+20;;7v;Gagliarda;;Cominciato a 19 di Agosto 1609;OT;;3;"[bdd,,,a1] ,,,a/ a [bdda1] | [a,,,d1] [,d,,b] a/ ,d | \
+[acdca1] [,,d,,b] [,a,,,d] | ,c/ ,d ,,,,,c [abd,a] ,c1 |";italian7tab
+22;;8r;Canario;;fragment;OT;;none;c c a ,d [acd] ,d [add] ,c ,,,a | y y y y y y y;italian7tab
+23;;8r;Canario;;fragment;OT;;none;"f f d c [acd] ,d [add] ,c ,,,a | b b a ,d [acd] ,d [acd] ,c | \
+,,,a |";italian7tab
+24;;8r;Berlingerone;;fragment;OT;;none;",d/ ,b [,b,,,d1] ,c/ ,d [acdca1] ,c/ a [,,d,,,a1] ,,,,a/ ,,,a | \
+y y";italian7tab
+21;;8r;Barriera Ballo;;;OT;ConcR1092;none;"[cdd,,,a] c c c [cdd,,,a] [fda,,,a] d [c,,a] a [,dd,,,a] [,dd] || \
+[cdd,,,a] c c c [cdd,,,a] a ,d";italian7tab
+25;;9v;Volta;;;OT;ConcR2745;3;"[f,,,,,a1] ,,,,a ,,,a | [f,,,,,a1] ,,,,a ,,,a | \
+[h,,,,,a1] [f,,,a] [c,,a] | [c,,,,,a1] ,,,,a ,,,a | \
+[f,,,,,a1] [d,,,a] [d,,a] | [c,,,,,a1] ,,,,a [d,,c] |";italian7tab
+26;;10v;Gagliarda;;;OT;ConcR2746;3;"[acdca2] [acd1] ,d [acdca2] | [cdda2] [cdd1] a [cdda2] | \
+[aaccca2] [aac1] ,,d [aaccca2] | [acdca2] [cdda] [aaccca] | \
+[acdca2] [acd1] ,d [acdca2] |";italian7tab
+27;;11r;Tordiglione;;;OT;ConcR2747;C;"[fdaa2] ,,,,,,a1 d | [cdda2] [cdd] | [da,c2] [acdca] | \
+[cdda2] ,,,,,,a1 a | [,d,,c2] [a,,,,a1] ,d | \
+[acdca2] [acd] | [fdaa2] ,,,,,,a1 d |";italian7tab
+28;;11v;T[ordiglione];;Variation;OT;ConcR2748;C;"[f,,,,,a1] d [c,,,a] a | [c,,a1] d [f,a] c | [f,,c1] c [d,,,a] a | \
+[cdda2] ,,,,,,a1 a | [,d,,c1] c [a,,,,a] ,d | [acdca2] [acd] |";italian7tab
+29;;12r;Alemana;;ff. 12v-13r empty;OT;;C;",,d1 | [,dda,,a1] [,dda] [a,,,a] d | [cdda1] ,,,,,,a [cdd/] ,,d ,a ,c | \
+[,d,a/] ,a ,c ,d [a,,,a] d c a |";italian7tab
+30;;13v;Orsina;;;OT;ConcR2749;3;"[,daa,,a3/2] a/ c1 | [c,,a2] [d,,d1] | [abbcd3/2] b/ a1 | \
+[abbcd2] [f,,,a1] | [c,,a3/2] d/ f1 | [a,,,a3/2] ,d/ a1 | \
+[,daa,,a2] ,,,,a1 | ,,,a3/2 ||";italian7tab
+31;;14r;[Variation];;;OT;ConcR2750;3;",d/ ,c ,d a c1 | [c,,a1] a/ c [a,,c1] | [a,,,d/] ,d a b a1 | \
+[a,,,d1] [f,,,a/] d c a |";italian7tab
+32;;14v;Gavotta;;"ff. 15v empty; ff.16r-40v empty or staff";OT;;C;"[f,,,,,a1] [d,,,a/] c [a,,a1] [c,,,a] | [,daa,,a1] [a,,,a/] c [d,,a1] [c,,,c] | \
+[d,,,,,a/] c [d,,,a] f [d,,a] f [c,,,a] d |";italian7tab
+33;;41r;Spagnoletta;;;OT;Conc_4501;3;",,d1 ,a [,b,,a3/2] ,a/ ,b1 [,ab,,d3/2] ,b/ ,d1 [db,,d2] ,,,c1 \
+[ab3/2] ,d/ a1 [bbdd3/2] a/ b1 \
+[,ab,,d1] ,b/ ,d [ab,,d2] ,,,c1 [ab] |";italian7tab

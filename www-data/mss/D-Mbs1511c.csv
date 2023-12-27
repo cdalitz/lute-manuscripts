@@ -1,0 +1,52 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;1r;No 1. Aspice;;;OT;;C;",a4 | ,a1 ,,d ,,b ,,a | [,a,,c1] ,,,b ,,,c ,,,e | \
+,,,c2 a | ,,f1 ,d a c | [d,f1] f d c | [db2] c |";italian7tab
+2;;1v;Aspice S.Z.;;;OT;;C;"[,cdcef2] [,cdcef] | [,aba,d1] a d c | \
+[a,bcd/] ,d a c d1 c | [a,bcd1] d [c,,,d] a | \
+[,dfec/] ,c ,,f ,,d ,,f ,c ,d ,f |";italian7tab
+3;;2r;Aspice T.3;;f. 2v empty;OT;;C;"[,,,cd/] ,,d/4 ,,b ,,d ,,a ,,b ,,d | \
+[,aa,c1] ,,d [,abc,a] ,,a | \
+[aabc1] ,,,b ,,,c ,,a | [a,b2] ,,,c1 ,c | \
+[,dde3] [,cbc1] | [,aaa2] [a,dce] |";italian7tab
+4;;3r;Aspice 5. Quint;;f. 3v-4 examples;OT;;C;"[dab,c1] c [a,ecd] ,,b | \
+[,ffec1] ,e/ ,c ,f ,e ,f/4 ,e ,c ,e | \
+[aabc,a/] ,,d ,a ,b ,a ,,d ,,b ,,a |";italian7tab
+5;;4v;Aspice 4. Q;;f. 5r empty;OT;;C;"[cdda/] a ,d ,c ,d a c d | \
+[cdda/] a ,d ,c ,d ,c ,d/4 ,c ,a ,c | \
+[,dff,d1] ,,,,,f ,,,,,d ,,,,,c |";italian7tab
+6;;5v;aspice 6. B sqt;;;OT;;C;"[dhfd,d1] c/ a ,d ,b ,d ,b ,d/4 ,e ,a ,,d | \
+[daba,d1] ,,,,,c [daba,d] ,,,,a | \
+[daba,d1] c a ,d | [,bdcf/] ,a ,,d ,,c ,,d ,a ,b ,d |";italian7tab
+7;;6r;Aspice 7 septim;;;OT;;C;"[,d,,,c/] ,c ,a ,c [,d,,,c1] ,c | \
+[,abccd/] ,,d ,a ,c ,d ,c ,a ,,d | \
+[,abccd1] ,,,c/ ,,,a ,,,c1 ,d | \
+[,,deec2] c | [c,deec2] [c,,e] |";italian7tab
+8;;6v;Aspice 8 otauo;;;OT;;C;"[dabc1] ,,d [cdfec] a | [cdda1] a [aabc] ,,d | \
+[,dfec/] ,c ,f ,e ,f ,e ,c ,b | [aabc,a/] ,,a ,,b ,,d";italian7tab
+9;;7r;No. 2;;;OT;;C;"[,dfec4] | [,dfec1] ,a/ ,c ,d ,c ,d/4 ,c ,a ,c | \
+[,dff,d2] ,a1 ,c | [,dda,c1] ,b ,a ,,d | \
+[aab,,a/] ,,a ,,b ,,d";italian7tab
+10;;8r;No. 3 [Audi filia];Nicolas Gombert;;OT;ConcR2708;C;"d4| d4 | a4 | Xf4 | [fb2] d | [db2] Xf | \
+[f,d1] d b a | [bd4] | [ad2] ,b1 ,d | \
+[ab2] [bd] | [a,b2] ,b |";italian7tab
+11;;10r;No. 4;;;OT;;C;"d4 | d1 a/ c d c d/4 c a ,d | \
+a/ ,d a b d a b d | f4 | [fb2] d | \
+[db1] b/ d f2 |";italian7tab
+12;;12r;No. 5 (Benedicam Domine);;;OT;;C;",a1 z1 [,af1] ,d | ,,f/ [a,d] [d,b] ,a/4 d | \
+[c,,,c1] [,df] [c,aac/] ,,d/4 ,,b [,,de/] a | \
+[,d,,c/] ,,b [,cdca1] ,,,,,d [,,,ac/] ,,b |";italian7tab
+13;;13v;No. 6 Aspice dominu;;ff. 14v-15v empty;OT;ConcR1802;C;",,f2 ,,f | [a,,c2] [a,,c1] a | [,df2] [da] | \
+[db1] c [ab,c] ,a | [aa,c1] ,d/ ,d [,df,c1] ,,d/ ,c | \
+[,dffc/] a [caa1] [,abc,a] a/ ,d |";italian7tab
+14;;16r;No. 7 Quem dicunt homines;;;OT;;C;",,,a2 ,,,a1 ,,,a | ,,,c1 ,,,e ,,,a2 | \
+,d1 ,,,a [,db] [,db/] ,,a | [a,,c1] [c,,a] [,db] ,,a | \
+[,ab1] [,df/] ,,d [d,b] ,,a [d,bc] [c,,a] |";italian7tab
+15;;18r;No. 8 Jay fait pour Vous Cent Mille pass;;;OT;ConcR2099;C;"[,dda2] [acd,a] | [cdda2] [da,a,d/] ,,,,a ,,,,c ,,,,d | \
+[cdda/] ,c [aabc] ,,d [,aa,c1] ,e | \
+[a,bc,a1] [a,b] [caa,c] [d,,a] | \
+[fc,,a/] d [c,d] a [,da,cb1] [c,aa] |";italian7tab
+16;;18v;No. 9;;;OT;ConcR2100;none;"[,,da/] ,,b ,,a ,,,c [,,,a,d1] [,,,a,d] [,,,cd] [,db,,d] \
+[,d,a] [,da] [a,,,d/] ,,,c [d,,c] ,,,a ,,,c1 [ca,,c] \
+[,,b,d] [a,d,a] [,,a,c] ,e";italian7tab
+17;;19r;No. 10;;f. 19v empty;OT;ConcR2098;none;"[aa,c/] ,,,a ,,,c ,,a [a,b,d1] [a,d,d] [,da,c/] ,b [,a,a] ,,d \
+[,,bc1] [d,,c] [c,,d] [da,c] [ca,a] [,d,,c/] a c d a";italian7tab

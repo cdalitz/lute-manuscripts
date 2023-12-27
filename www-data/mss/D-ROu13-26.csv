@@ -1,0 +1,64 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+;;del Sign. Tallmann;;;;;;;
+1a;F dur;1_2;Allegro;;;;ConcR3123;C;"[,,aad1] {,a} [,,aad] {,a}/ ,,a | [,,bc{,a}1] {,,a}/ ,,d {,a}/4 ,,d ,,b ,,d '[,,aa/] {,a} | \
+{,,a}/ ,,d ,,,,,d ,,d {,,a} ,,d {4} ,,d |"
+1b;d moll;1_2;Adagio;;;;ConcR3124;C;",,a/ | [,,e,,a3/4] ,c/4 '[,,e{a}3/4] ,,e/4 [,a{,a}/] {,,a} {,,,a}3/4 ,,a/4 | \
+,,,,,e/4 ,c ,,a c '[a,,,,a3/4] ,c/4 \
+[ac,,a3/2] ,c/4 ',a ,,d (3,,b ,,d ,,a) |"
+2;F dur;1_2;Menuet;;;;ConcR3125;3;"[a,d{,a}1] ,,d/ ,,b ,,d ,,a | [,a{d}/] ,,,,,d ,,,,a ,,,,c [,,d,d1] | \
+[,a{,d}/] ,,d ,a ,c ([a,,,,a] c) | \
+[e{,a}/] {a} ,,,,,a ,,,,,c [c,,,,d1] |"
+3;F dur;1_2;Aria adagio;;;;ConcR3126;3;"[a{,a}1] '[,c{4}3/2] a/ | [c{,,a}/] ,,d ,,d ,,,c [,,d,c] ',,,,a/4 ,,,,,d | \
+[,a{d}/] ,,d ([,,d,,a] ,,b) ([,,b{a}] [,,a{,a}]) | \
+[,a{d}/] ,,d [,,d,,a] ,,b [,,b{a}] [,,a{,a}] |"
+4;F dur;3_4;Gigue / Fine;;;;ConcR3127;6/8;"a/ | [,,da1] ,,d/ [,a{d}] ,,b ,a | [,,d{,a}1] ,,d/ [,a{d}] ,,b ,a | \
+[,,d{,a}/] {a} [,,d,,a] [,a,,,b] ,,,,,a [,c{a}] | \
+[aVd{,a}/] ,,d ,,a ,,,a1 [e{,a}/] |"
+;;Partia 2da [del Sign.] Erdmann;;;;;;;
+5;F dur;3_4;Preludium;;;;;C;"[,,d{,a}/] ,,d [a,,,,a/4] e [c{d}] a [,c,,,d/] ,,d {,,,a} {,,a} | \
+[,,d{,a}/] ,,d [a,,,,a/4] e [c{d}] a [,c,,,d/] \
+[c{,,a}] [e{,a}] [c{,,a}] |"
+6;F dur;3_4;Gavott;;;;;C;"a/ ,c | [a,d{,a}1] a/ ,c a1 c | '[,c{4}1] ,a/ ,c ,,d1 ,,b/ ,,a | \
+[,,b{,,a}1] [,,d{4}/] ,a [,,d{,,,a}1] [,,b{,,a}] |"
+7;F dur;3_4;Sarabande;;;;;3;"[,,de{,a}/] [,,aa] [,ab] ,,d ,,d1 | [,,b{,,a}/] ,,a [,,a{,a}] ,,,c [,,,c{4}1] | \
+[c{,,a}/] ,c [e{,a}] c [c{,,a}] ,c | \
+[a{,,,a}/] ,a [,c{4}] ,,d [,,c{a}] ,,,,,a |"
+8;F dur;3_4;Menuet;;;;;3;"[,,de{,a}1] [,,aa] [,ab] | [,,de{,a}1] [,,aa] [,ab] | \
+[,,d,,a1] [,a,,,b/] ,c a c | [,c,,,d1] ,a/ ,c ,,d1 | \1
+[c,d{,,a}1] ,c [e,d{,a}] |"
+9;F dur;3_4;Gigue / Fine;;;;;6/8;",,d/ | [,,a{,a}1] ,a/ ,,d1 ,,b/ | [,,a{,a}1] ,a/ ,,d1 ,,b/ | \
+[,,a{,a}/] ,,b ,,d [,,dc{,,a}] ,,b [,,a{,a}] | \
+[,,,cc1] ,,,,,d/ [,,,c{4}] [,,,a] [c{,,a}] |"
+;;[b1r] Conter Partie Tallmann;;;;;;;
+10;F dur;b2r;Allemand;;f. 1v empty;;;C;",,d/4 ,a ,c | [a,d{,a}/4] a c e [c,d{,,a}] c e f \
+'[e{,a}/] ,d/4 {a} ,,,,,a ,,d ,d ,,d |"
+11;F dur;b2v;Courante;;;;;3;",,d/ | [,,a{,a}/] ,,,c ,,a ,,d [,,b{a}] ,a | \
+([,,d,,a/] ,,a) ,,,a ,,d ,a ,,d | \
+([,,b{a}/] ,,a) ,,b ,,b [c{,,a}] ,,b |"
+12;F dur;b2v;Aria;;;;;C;",,d1 | '[,,a{,a}1] [,,b{,,a}/] ,,,c [,,a{,a}1] [,,b{a}] | \
+V[,,d,,a1] ,,,a ,,,a [,,d{6}] | [,a{5}1] ,c/ a '[,,b{4}3/2] ,,a/ | \
+'[,,a{,a}2] ,,a1 |"
+13;F dur;b3r;Mienuet;;;;;3;"V[,,d{,a}1] a [,c{a}] | [a,,,,a1] ,,d ,,d | V[,,d{,,a}1] (c [a{,,,a}]) | \
+[c{,,a}1] ,,d ,,d | [,,d{,,a}1] e [c{,,a}] | \
+V[e{,a}1] ,d/ c [,h{a}] f |"
+14;F dur;b3r;Gavot;;;;;C;"[,,aa/] [,,bc] | [,,de{,a}1] [,,ff/] [,,,ff] [,,de1] [,ff/] [,,ff] | \
+[,,de{,a}1] a/ c a1 ([,,d,,a] | \
+[,,b{a}/]) c/4 a) c/ a (,c ,a) [,,d{,,a}] ,,b |"
+15;F dur;b3v;Gige;;;;;6/8;",,d/ | ([,d{,a}/] ,c) ,d ([,d{a}] ,c) ,d | \
+([,d,,,a/] ,c ,a) ,,d ,d ,,a | \
+[,,,f{a}/] ,,,e [,,,f{,a}] [,,,f{,,a}/4] ,,d ,,f/ ,,d |"
+;;Sign. Dallmon;;;;;;;
+16;F dur;b4r;Allegro;;;;ConcR3123;C;"[,,aad1] {,a} [,,aad] {,a}/ ,,a | [,,bc{,a}1] {,,a}/ ,,d {,a}/4 ,,d ,,b ,,d '[,,aa/] {,a} | \
+{,,a}/ ,,d ,,,,,d ,,d {,,a} ,,d {4} ,,d |"
+17;d moll;b4r;Adagio;;;;ConcR3124;C;",,a/ | [,,e,,a3/4] ,c/4 '[,,e{a}3/4] ,,e/4 [,a{,a}/] {,,a} {,,,a}3/4 ,,a/4 | \
+,,,,,e/4 ,c ,,a c '[a,,,,a3/4] ,c/4 \
+[ac,,a3/2] ,c/4 ',a ,,d (3,,b ,,d ,,a) |"
+18;F dur;b4v;Menuet;;;;ConcR3125;3;"[a,d{,a}1] (,,d/ ,,b) (,,d ,,a) | [,a{d}/] ,,,,,d ,,,,a ,,,,c [,,d,d1] | \
+[,a{,d}/] ,,d ,a ,c ([a,,,,a] c) | \
+V[e{,a}/] {a} ,,,,,a ,,,,,c V[c,,,,d1] |"
+19;F dur;b4v;Aria adagio;;;;ConcR3126;3;"[a{,a}1] '[,c{4}3/2] a/ | V[c{,,a}/] ,,d ,,d ,,,c [,,d,c] ',,,,a/4 ,,,,,d | \
+[,a{d}/] [,,d{6}] ,,d ,,b ([,,b{a}] [,,a{,a}]) | \
+[,a{d}/] ,,d [,,d,,a] ,,b ([,,b{a}] [,,a{,a}]) |"
+20;F dur;b5r;Gigue / Fine;;;;ConcR3127;6/8;"a/ | V[,,da1] ,,d/ [,a{d}] ,,b ,a | V[,,d{,a}1] ,,d/ [,a{d}] ,,b ,a | \
+V[,,d{,a}1] (,,d ,,b/) ,a | \
+[,,d{,a}/] {a} [,,d,,a] [,a,,,b] ,,,,,a [,c{a}] |"

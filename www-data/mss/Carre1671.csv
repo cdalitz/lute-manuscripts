@@ -1,0 +1,63 @@
+Piece Nr;Key;Page nr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;1;Prelude;;;guitar;;C;"!strumdown![,b,cd1] ,,,,d/ ,,,c ,,a ,b a ,,,,c | \
+,,,,a1 'b ,d/ ,,,,d a ,,,a | b/ ,,,c d1 X[,b,,a3/2] ,a/ |";french5tab
+2;;2;Chacone;;;guitar;;3;"!strumdown![,b,c(d1] ,d | [a,,,d)1] [,d,,c] (,b/ ,a) | \
+!strumdown![,bcc1] [,,cd] ,a | !strumdown![,b,cd1] !strumdown![,d,,c] (,b/ ,a) | \
+!strumdown![,b,cd1] || !strumup![db,cd1] !strumdown![db,cd] | \
+a1 !strumdown!Xb3/2 !strumup![,bcc/] |";french5tab
+3;;7;Prelude;;;guitar;;C;"a/ ,b ,,c ,,,c ,,,,d ,,,,a b ,d | ,,,,c/ ,,b a3/2 (,d/ X,b1) | \
+,a/ ',b ,,,,a ,a ,,a ,,,d ,,c a |";french5tab
+4;;8;Pasacail;;;guitar;;3;"!strumdown![,bcc3] !strumup![,bcc1] | !strumdown!b2 !strumdown!b3 Xa1 | \
+!strumdown![,bcd2] !strumdown![,dcd3] !strumup![,dcd1] | \
+!strumdown![,bc1] ,d !strumdown![,,cc3] X,,b1 | ,,,,a2 || \
+!strumdown![,bcc3] c1 | \
+!strumdown![ab2] !strumdown!Xd3 !strumup!,c1 |";french5tab
+5;;10;Allemande;;;guitar;;C;"!strumup![,bcc/] | !strumdown![,bcc1] !strumup![,bcc/] (,d/4 ,b) X,a/ ,,a !strumdown![fgfdd3/4] !strumup![fgfdd/4] | \
+!strumdown![dgfcd/] !strumup![dfffd] !strumdown![dfffd] (f/4 d) \
+!strumdown![bdc/] !strumup![,b,c] !strumdown![,bcd3/4] ,d/4 |";french5tab
+6;;12;Sarabande;;;guitar;;3;"!strumdown![,bcc1] !strumup![,bcc] !strumdown![,bcc] | \
+!strumdown!X[,bcc3/2] a/ f h | !strumdown!X[efe3/2] (a/ b a) | \
+,d1 !strumdown!X,b3/2 ,a/ | \
+!strumdown![,bcc1] f/ h !strumdown![ifff] (,,h |";french5tab
+7;;13;Allemande;;;guitar;;C;"a/ | !strumdown![,,,cc3/2][ai/] [fh] ,,,,g h ,a/4 f | \
+!strumdown![dfecc/] f !strumdown![cdccc] d !strumdown![,b,cd] c !strumdown![ddeff] ,a | \
+[,b,,a/] ,,c [,d,e] ,,,a/4 ,,f";french5tab
+8;;14;Sarabande;;;guitar;;3;"!strumdown![,,,cc1] c d | [ca,b1] a/ c [d,,c1] | [da1] f [h,f] | \
+X[f,,a1] ,i/ f [h,a1] | !strumdown![d,,,c1] ,c ,d | \
+[,ece1] ,c/ ,e [a,,c1] |";french5tab
+9;;15;Folies;;;guitar;Conc_525;3;"!strumdown![bdc1] !strumup![bdc] !strumdown![,ccc] | \
+!strumdown![,ccc1] !strumup![,ccc] !strumdown![bdc] | \
+!strumdown!d1 b !strumdown![,b,cd] | \
+!strumdown![,b,cd] !strumup![,b,cd] !strumdown![,b,cd] | \
+!strumdown![bbcd1] !strumup![bbcd] !strumdown![,b,cd] | \
+!strumdown![,b,cd1] a !strumdown![,dd,b] |";french5tab
+10;;16;Prelude;;;guitar;;none;"!strumdown![bdc1] ,,,a b ,d ,,c (a b) d f ,,,,a d (b a b) ,d \
+,,,,a ,c ,,a ,d ,,,c";french5tab
+11;;18;Passacail;;;guitar;;3;"!strumdown![bdc3] ,b1 | !strumdown![bdd2] !strumdown!X[,bc3] !strumup!c1 | \
+!strumdown![ab2] !strumdown!Xd3 ,c1 | !strumdown![bd1] !strumdown![,dcc3] X,c1 | \
+,,,a2 || !strumdown![fgh3] !strumup![fgh1] | \
+!strumdown![ggh2] !strumdown!X[fff3] !strumup![fff1] |";french5tab
+12;;19;Prelude;;;guitar;;none;"[,d,a] (a b) ,d f ,,c (,a ,c) ,,c ,d b d ,,,,a ,b a \
+[da] ,,d ,d b ,,,d ,,c ,b a";french5tab
+13;;20;Chacone;;;guitar;;3;"!strumdown![cdc1] !strumup![cdc] | !strumdown![cdc1] !strumdown![,ccc] c | \
+!strumdown!,,,,c1 !strumdown!,,,,c ,c | !strumdown!,d !strumdown!X[,d,,a3/2] ,c/ | \
+'[,d,a1] || !strumdown![fhh1] h | \
+!strumdown!'d1 !strumdown![,ccc1] (f/ d) |";french5tab
+14;;22;Ritournelle;;;guitar;;3;"!strumdown!'[ifff1] f/ h 'i1 | !strumdown![,bcc1] (a/ b) '[d,a1] | \
+!strumdown![,b,cd1] (,b/ ,d) a1 | \
+(,,c3/4 ,,e/4 ',,f/) a (,d3/4 ,b/4) |";french5tab
+15;;23;Sarabande;;;guitar;;3;"!strumdown![ifff1] 'i !strumdown![dfffd] | !strumdown![fgfdd3/2] f/ !strumdown![dfffd1] | \
+!strumdown![bdc1] (d/ b) (a b) | X[,da2] ,,f1 | \
+!strumdown![fgfdd1] f Xe | !strumdown![fgfdd3/2] h/ (i l) |";french5tab
+16;;24;Gigue d'Angleterre;;;guitar;;C;"!strumdown![ifff2] !strumdown!X[efe3/2] ,f/ | \
+f1 [i,,,a2] ,,c/ ,a | !strumdown![,bcc1] (,b/ ,d) !strumdown![,b,cd1] (,,a/ ,,c) | \
+[,aa1] X,d2 !strumdown![d(ffdd/] [,g)] |";french5tab
+17;;25;Chacone;;;guitar;;3;"!strumdown![dd,,c1] !strumup![dd,,c] | !strumdown![dd,,c] !strumdown!X[cdc] d | \
+!strumdown![,,,cc1] !strumup![,b,cd3/2] c/ | \
+!strumdown!d1 X[d,,a3/2] c/ | '[,d,a1] || (,,,c/ ,,,a) (,b ,a) | \
+(,,c/ ,,a) !strumdown!X[cdc3/2] d/ |";french5tab
+18;;27;Chacone;;Accord de la guittare;guitar;;3;"!strumdown![dd,,c1] !strumup![dd,,c] | !strumdown![dd,,c1] !strumdown![cdc] !strumup![cdc] | \
+!strumdown![,,,cc1] (,,,c/ ,,,a) (,b ,a) | \
+(,,c/ ,,a) !strumdown!X[cdc3/2] !strumup![dd,,c/] | \
+!strumdown![dd,,c1] || !strumdown![h,,,f1] !strumup![h,,,f] | \
+!strumdown![h,,,f] !strumdown![fhh] h |";french5tab
