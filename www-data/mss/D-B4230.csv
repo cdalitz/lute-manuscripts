@@ -1,6 +1,6 @@
 PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
-1;D dur;2r;15. Sarab;;;;;3;"[,ea{,,,a}1] ,c [,aa,a] | [,,ee,a1] ,,e [,ac] | [,,a,,c1] > ,,a \
-{a}/ ,,,d | [,,aVe,a1] > ,,a [,,'c{a}/] > ,,e | [,aa{,a}/] ,c ,a \
+1;D dur;2r;N°3 / A / 15. Sarab;;;;;3;"[,ea{,,,a}1] ,c [,aa,a] | [,,ee,a1] ,,e [,ac] | [,,a,,c1 ,,a/ \
+{a} ,,,d | [,,aVe,a3/2] ,,a/ [,,'c{a}] > ,,e | [,aa{,a}/] ,c ,a \
 ,,e ,,c ,,a | "
 2;D dur;2v;13. Allemande;;;;Conc_4036;C;",e1 | [,efea1] {,,,a}/ ,a [,,'a{4}/] > ,,a ,,c/ ,,e | [,aVf,a1] \
 {,,,a}/ ,,a [,,aVe] ,,c ,,e ,,c | [,'aa{,a}/] > ,,e [,,c{a}/] \
@@ -28,21 +28,21 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
 10;a moll;10r;3. Saraband;;;;Conc_4183;3;"[,,de,a1] ,c [,,'c/] ,,a | [,c,,c1] c ,,d/ ,c | [,ad,a1] ,,c/ \
 c ,,,c ,,c | ,,,,,d/ ,,d ,c1 [,,,,,'c/] ,,,,,a | ,,,,,c/ ,a \
 ,,a ,,,,e ,,,d ,c | "
-11;a moll;10v;4. Gigue;;;;Conc_4184;C;"[,c,,,a3/2] ,,c/ ,,d/ ,,a ,,,d/ > ,,c | V[,,d,,a1] ,,c/ d [e,,a1] \
+11;a moll;10v;4. Gigue;;;;Conc_4184;C;"[,c,,,a3/2] ,,c/ ,,d ,,a ,,,d/ > ,,c | V[,,d,,a1] ,,c/ d [e,,a1] \
 ['e,,,a/] > d | [dccdc1] [dc/] ,a [,c,,c] ,a ,,d ,c | [,aa,a/] \
 ,d [,'c] ,a"
-12;A dur;11v;20. Contrepartie de Caprice de Gautier;Gautier;;-1;Conc_4241;3;"[,c{4}1] ,,,c ,,d | [,,'c{a}1] > ,,d [,a,a1] | [,,,cc1] ,,a \
+12;A dur;11v;20. Contrepartie de Caprice de Gautier;Gautier;;F# - H - d - f# - h - d';Conc_4241;3;"[,c{4}1] ,,,c ,,d | [,,'c{a}1] > ,,d [,a,a1] | [,,,cc1] ,,a \
 [,,c,a] | [,,d,,d1] ,c ,,b | [aVda1] > c [ed1] | [,ab1] ,c \
 [,ea] | ,,,c/ c ,,b1 ,,d | "
-13;A dur;12v;20. Basso de Caprice Gau:;Gautier;;-2.5;Conc_4242;3;"[,a,,a1] e [,ef] | [,'ca3/2] ,e/ ,,,c ,c | [,a,,e1] ,,a [,,cc] | \
+13;A dur;12v;20. Basso de Caprice Gau:;Gautier;;E - A - c - e - a - c';Conc_4242;3;"[,a,,a1] e [,ef] | [,'ca3/2] ,e/ ,,,c ,c | [,a,,e1] ,,a [,,cc] | \
 [,,ab{,,,a}1] ,,c [,,de] | [,ac{a}1] > ,c [,,de1] | [,,deca2] \
 ,a1 | [,c,,e1] ,,,,c [,a,,a] | "
-14;C dur;13v;21. Allemande Gautier Contrepartie;Gautier;;;;C;",c | [,cd1] [,'c/] a c ,,d 'c ,a | [,cd{4}1] ,,c/ ,a [,,de] \
+14;C dur;13v;21. Allemande Gautier Contrepartie;Gautier;;;Conc_5382;C;",c | [,cd1] [,'c/] a c ,,d 'c ,a | [,cd{4}1] ,,c/ ,a [,,de] \
 ,,,c [,aaa1] | [,cccc1] {,,a}/ ,,d [,aaa1] ,,,,a/ ,,,,,d | "
-15;C dur;14r;23. Saraband de Gaut: Contrepartie;Gautier;;;;3;"[,,,,'c{4}1] ,,,,d ,,,c | [,,,cac1] > ,,a ,,,,,a1 | [,,aa1] \
+15;C dur;14r;23. Saraband de Gaut: Contrepartie;Gautier;;;Conc_5383;3;"[,,,,'c{4}1] ,,,,d ,,,c | [,,,cac1] > ,,a ,,,,,a1 | [,,aa1] \
 [,,'cc1] > ,,d | [,,d{4}1] ,,,c ,,c | [,,de1] ,a [,c,'c] | \
 [,,aa1] ,a [,,cc] | ,,d1 [,,'d,,a3/2] ,a/4 ,,d | ,a1 {a}2 :| "
-16;C dur;14v;22. Courante de Gaut: Contrepartie;Gautier;;;;3;",,,c/ | [,,,'c{4}1] ,,a ,,,,a/ ,,c | [,,dcc3/2]  ,,d/ ,,,,d ,,d | \
+16;C dur;14v;22. Courante de Gaut: Contrepartie;Gautier;;;Conc_5384;3;",,,c/ | [,,,'c{4}1] ,,a ,,,,a/ ,,c | [,,dcc3/2]  ,,d/ ,,,,d ,,d | \
 [,,'cc1] {a}1 > ,,,,d | [,,d,c1] ,,,,,d/ ,,d [,acc1] | \
 [,,d{4}1] ,c [,a,a] | "
 17;C dur;15v;24. Allemande de Gautier Contrepartie;Gautier;;;;C;"c | [ccd2] [,,'c/] ,,,e [,,cc] ,,,,d | [,,dcc1] ,a/ ,,c [,cd] \
@@ -53,13 +53,13 @@ c ,,,c ,,c | ,,,,,d/ ,,d ,c1 [,,,,,'c/] ,,,,,a | ,,,,,c/ ,a \
 19;C dur;17r;26. Saraband de gautier Contrepartie;Gautier;;;;3;"[,c{4}1] ,d c | [ccd1] > e {,a}1 | a1 [a,c{a}1] > ,d | [,cd1] \
 {4} ,c | [,ac1] [,cde] ,e | [e,,c1] > ,a [,ac1] | [,cd1] \
 [,,'de3/2] ,a/4 ,,d | ,a1 {a}2 :| "
-20;C dur;17v;27. Gigue de Gautier Contrepartie;Gautier;;;;C;"[,,dccd3/2] ,,,,a/ [,,d,c/] c [c,c] ,d | [,cd2] c/ ,d [,dcc1] | \
+20;C dur;17v;27. Gigue de Gautier Contrepartie;Gautier;;;;C;"[,,dccd3/2] ,,,,a/ [,,d,c] c [c,c] ,d | [,cd2] c/ ,d [,dcc1] | \
 ,,d/ ,c ,a ,,d [,ac] ,c ,,a a | [cacc1] {a} [,,cc/] ,,,a \
 [,,d,c] ,,c | "
-21;C dur;18v;28. Canarie Contrepartie;;;;;3;",,,c1 | [,,d{4}2] ,a1 | [,cd1] ,e [d,c] | [e,,e2] ,,,,,a1 | \
+21;C dur;18v;28. Cannarie Contrepartie;;;;;3;",,,c1 | [,,d{4}2] ,a1 | [,cd1] ,e [d,c] | [e,,e2] ,,,,,a1 | \
 ,,,,c1 ,c [,,aa] | [,'a1] {a}2 | {4}1 ,c ['b{,,,a}] | c2 \
 {a}1 | ,a1 ,,,c ,,c | [,,d{4}2] ,a1 | "
-22;A dur;19v;9. Allemande sur le Mort de Roy Carl Gustav Contrepartie;;;;;C;",,a1 | [,,aVeca3/2] ,,c/ [,,'c{a}/] ,,,,c ,,c (,,e/4 ,,c) | \
+22;A dur;19v;9. Allemande sur le Mort de Roy Carl Gustav Contrepartie;;;;;C;",,a1 | [,,aVeca3/2] ,,c/ [,,'c{a}] ,,,,c ,,c (,,e/4 ,,c) | \
 [,,a,,a/] ,,,,c ,,a [,,c{a}] V[,,e{,a}] ,,c/4 ,,a [,,,'d{,,a}/] \
 [,,a{,,,a}/4] ,,c | V[,,e{4}1] > ,c [,aab{,,,a}1] > [,,a,,e] | "
 23;A dur;20v;10. Courante Contrepartie;;;;;3;",e/ [,'c] ,a | [,,eeca3/2] [,a,,,c/] [,,e,,e] ,,c | [,,a,a1] \
@@ -72,13 +72,13 @@ c ,,,c ,,c | ,,,,,d/ ,,d ,c1 [,,,,,'c/] ,,,,,a | ,,,,,c/ ,a \
 25;G dur;21v;12. Gigue Gumprecht;Gumprecht;;;Conc_4243;3;",,c | [,a{a}1] c e | [g,,,f1] > [e,a] [c,c1] | [,e,e1]  > [c,c] \
 [e,d1] | [c,c1] ,,,,a ,,,,c | [,a,,,c1] [,c,,c] [,,d,e] | \
 [,,cc1] > ,,a ,,,c1 | [,,'cc{a}1] > ,,d [,,a,e1] | "
-26;g moll;22v;30. Courante Contrepartie;;;-1;Conc_4244;3;",,d | [,,deca3/2] ,,d/ [,,c{b}] ,,d | [,,a,,a1] {a}/ ,,a \
+26;g moll;22v;30. Courante Contrepartie;Gumprecht;;-1;Conc_4244;3;",,d | [,,deca3/2] ,,d/ [,,c{b}] ,,d | [,,a,,a1] {a}/ ,,a \
 [,,a{,a}1] | [,a{,,a}/] ,,d [,,dcc1] [,aaa{,,,a}] | [,c{4}/] \
-c [a{,a}] [,'a1] | [,ccd{,,a}1] > ,c [,ccdc1] | "
-27;g moll;23r;31. Sarabande Contrapartie;;;-1;Conc_4245;3;"[,,de1] (,,,c/ ,,,e) [,,aa1] | [,,cdc3/2] ,,c/ ,,d ,a | \
+c ,a [a{,a}1] [,'a] | [,ccd{,,a}1] > ,c [,ccdc1] | "
+27;g moll;23r;31. Sarabande Contrapartie;Gumprecht;;-1;Conc_4245;3;"[,,de1] (,,,c/ ,,,e) [,,aa1] | [,,cdc3/2] ,,c/ ,,d ,a | \
 [,aa,d3/2] (,,,,c/4 ,,,,d) [,a,,a/] ,,d | [,,cdc1] {,,a}/ ,,a \
 ,,,d {,,,a} | [,,dcc{4}1] [,,dcc/] ,,d [,a,,,c1] | "
-28;d moll;23v;31. Sarabande Contrapartie;;;;Conc_4246;3;"[,aaaa1] [,aaa/] ,a ,,,,a ,a | ,,,,,e/ ,c ,,a a ,,,,a ,a | \
+28;d moll;23v;29. Sarabande Contrapartie;Mercure;;;Conc_4246;3;"[,aaaa1] [,aaa/] ,a ,,,,a ,a | ,,,,,e/ ,c ,,a a ,,,,a ,a | \
 [,aa1] [,aa/] ,a ,,,,,a e | ,,,,c/ c ,,,,d e ,,,,,b a | "
 29;d moll;24v;32. Allemande Gumprecht Contrepartie;Gumprecht;;;Conc_4247;C;",,a | [,,aaa{,,,a}1] ,,c/ V[,,e] [,aaaa] a [c,b] c | [a,a{,,,a}/] \
 ,c/4 ,a [,,e,,a/] {a}/4 ,,,,,a [,,a{,a}/] ,,,,d/4 ,,,,c ,,,,a \
@@ -97,43 +97,43 @@ c [a{,a}] [,'a1] | [,ccd{,,a}1] > ,c [,ccdc1] | "
 ,,,,,c [,,d,,a1] {,a} | [,,cca{a}3/2] ,,d/ [,,'c] {,a} | \
 [,,,c{,,a}1] ,,,,,d ,,,c/ ,,a | [,,,aVd{,a}1] > ,,,a \
 [,,,c{,,a}1] | "
-34;A dur;28v;38. Allemande Rasch Contrepartie;Rasch;;e' c#' a f# d A;;C;",a | [,aadca1] [,,,'c3/4] ,,,a/8 ,,,c ,,a/ ,a ,,c [,,'c/4] \
+34;A dur;28v;38. Allemande Rasch Contrepartie;Rasch;;A - d - f# - a - c#' - e';;C;",a | [,aadca1] [,,,'c3/4] ,,,a/8 ,,,c ,,a/ ,a ,,c [,,'c/4] \
 ,a/8 ,,c | [,a,,,a/] ,,,,c [,aad] [,,'c/4] ,,a ,,,c/ > ,,a ,,c/4 \
 ,,,,c ,a ,,c | "
-35;A dur;29v;39. Courante Contrepartie;;;e' c#' a f# d A;Conc_4249;3;",a/ | [,aadca3/2] ,b/ [,'a] ,a | ,b/ a [,,'c] ,,a ,,c a | \
+35;A dur;29v;39. Courante Contrepartie;;;A - d - f# - a - c#' - e';Conc_4249;3;",a/ | [,aadca3/2] ,b/ [,'a] ,a | ,b/ a [,,'c] ,,a ,,c a | \
 [aaad3/2] ,,c/ ,a ,c | [aVd1] [caaa/] f e ,f | "
-36;A dur;30v;40.Sarabande Contrepartie;;;e' c#' a f# d A;;3;",3 | [,,adca1] [,,'c/] (,a/4 ,,c) ,a1 | [,baa{,,,a}1] > a \
+36;A dur;30v;40.Sarabande Contrepartie;;;A - d - f# - a - c#' - e';;3;",3 | [,,adca1] [,,'c/] (,a/4 ,,c) ,a1 | [,baa{,,,a}1] > a \
 [cba1] | [,,'a{,,a}1] > ,,c ,a1 | [,,ad,a1] [,,'c/] (,a/4 ,,c) \
 ,a1 | [,bc{a}3/2] ,,a/ ,,c ,a | "
-37;A dur;30v;41. Canarie Contrepartie;;;e' c#' a f# d A;Conc_4250;3;",3 | ,3 | 'a1 > ,a ,,a1 | V[,b2] ,,,c1 | [,aad1] > c a1 | \
+37;A dur;30v;41. Canarie Contrepartie;;;A - d - f# - a - c#' - e';Conc_4250;3;",3 | ,3 | 'a1 > ,a ,,a1 | V[,b2] ,,,c1 | [,aad1] > c a1 | \
 V[,b,,,c1] > a [,a,,,a1] | [,,,,c{a}1] > ,,a ,,c1 | [,,'a1] ,,c \
-[,a,,,a1] | [,baaa1] > d 'c1 | "
+[,a,,,a] | [,baaa1] > d 'c1 | "
 38;a moll;32r;42. Allemande de Dubut Contrepartie;Du But;;;;C;",,,e/4 (,,c ,,d/) ,,,,,a/4 ,,,,,c [,,d,,d/] [,ad,,,c] ,,,,,a | \
 [,cc{b}1] [,cd,,a/] [,'a/4] ,,d/8 ,a ,,d/ [,,c{a}/4] ,,d \
 [,,a{,a}] ,,d ,,c ,,a | "
 39;a moll;33r;43. Courante de Dubut Contrepartie;Du But;;;Conc_526;3;",,,d/ ,,a ,,c | [,,de1] ,a [,,cd/] ,c | [,cde1] [,c,ec] \
 [,,,'c/] ,c | [,c,ed1] ,,,,a/ ,c [,dc1] | [,c,ec1] [,c{,,a}/] \
 ,,,e [,,,'d] ,c | "
-40;a moll?;33v;44. Contrepartie 'Bewege dich nicht';;33r empty;;;3;"[,,d,,a/4] ,,c | [,,'a{,a}3/2] ,,d/ ,,c ,,a | [,,cd{,,a}1] \
+40;a moll;33v;44. Contrepartie 'Bewege dich nicht';;33r empty;;;3;"[,,d,,a/4] ,,c | [,,'a{,a}3/2] ,,d/ ,,c ,,a | [,,cd{,,a}1] \
 ,c {4} | [aaa{,,,a}/] > ,c [,a,,,a/] ,,d [,,c{,,a}] ,a | \
 [,,ee,a2] [ecd1] | [,a,,,c2] ,c/ ,a | "
-41;a moll;34v;45.Contrepartie du Tombeau de Gogo Allemande de Mouton;Mouton;;;Conc_527;C;",,a | [,,aeca3/2] ,,c/ [,,de/] ,,,,c [,,c,a] ,a | [,cd/] ,,,e \
+41;a moll;34v;45.Contrepartie du Tombeau de Gogo Allemande de Mouton;Mouton;;;Conc_527;C;",,a | [,,aeca3/2] ,,c/ [,,de] ,,,,c [,,c,a] ,a | [,cd/] ,,,e \
 [g,,'d] ,a [h,a] ,,d [,,c,a] ,,,,c | [,,ac/] ,,c ,,,,d [,,'a] \
 ,,,d/4 ,,a ,,,d/ {,,a} ,,,e/4 ,,c | "
 42;c moll;35v;46.Contrepartie du Tombeau de Madame Pavane de Mout:;Mouton;;;Conc_529;C;"[cb{4}1] [,bd/] [aa] [cb{,,a}1] [a{,a}/] a | [c,c/] {a}1 \
 ,,c/4 ,,d ,,a ,b/ ,b ,,b ,,,c | {,a}/ ,,,d/4 f 'd/ > d \
 [,,b{a}/] [,,d{,a}/4] ,a [,,d,c/] ,,,c | "
-43;c moll;37r;47.Contrepartie de Nievert par Marechal Linde Allem;Nivert;;;Conc_531;C;"c | [cbd{4}3/2] ,,c/ ,,d ,b ,,d/ > ,b | [,bdc3/2] (,b/4 ,a) ,,d/ \
+43;c moll;37r;47.Contrepartie de Nievert sur Marechal Linde Allem;Nivert;;;Conc_531;C;"c | [cbd{4}3/2] ,,c/ ,,d ,b ,,d/ > ,b | [,bdc3/2] (,b/4 ,a) ,,d/ \
 {b} ,a/ > ,a | [,acc{a}3/2] ,b/4 ,a ,,d/ ,,,c ,,c ,,,c ,,,a | "
 44;c moll;38v;48. Contrepartie Courante du mesme;Nivert;;;Conc_533;3;",,c/ ,,d ,a | [,bdc1] ,,,,,d1 > ,b | [,d{,a}1] [,'a{a}1] > ,a | \
 [,b,c,d3/2] ,b/ a ,a | [,bbcb1] > ,b ,d1 | ,d/ ,a ,,,,,c1 ,a | "
 45;c moll;39v;49. Contrepartie Sarabande du mesme;Nivert;;;Conc_534;3;"[,bdc,d1] ,b1 > a | [,acc1] {a}2 | [,b,d1] a [c,,c] | ,,b/ ,b \
 ,a d [c,,,b1] | [cbb1] > [cbb] d1 | ['a,,,a1] > ,b [,bbcb1] | \
 [,bbc1] > [,bbc] ,d1 | "
-46;c moll;40v;50. Contrepartie de la Sarabande sur la mort du Roy d'Angleterre;;;;;3;"[,bd{4}/] ,b ,,d2 | ,b/ [,'a/4] ,,d [aa{a}2] | [c,d/] c a1 \
+46;c moll;40v;50. Contrepartie de la Sarabande sur la mort du Roy d'Angleterre;Nivert;;;;3;"[,bd{4}/] ,b ,,d2 | ,b/ [,'a/4] ,,d [aa{a}2] | [c,d/] c a1 \
 ,,c | [,bd/] ,b [,bdc2] | [,dde/] ,d ,,,,d2 | ,,a/ [,,aa] \
 [,,bcb2] | "
-47;C dur;41v;51. Contrepartie de l'Allemande de Nievert sur le grand connestable Mon. Le Comte Wrangel;Nivert;;;Conc_535;C;",c | [,cdc{4}/] > ,a ,,d/ ,a [c,,,,c/] ,a [,'a] ,,d/4 ,a | \
+47;C dur;41v;51. Contrepartie de l'Allemande de Nievert sur le grand connestable Mon. Le Comte Wrangel;Nivert;;;Conc_535;C;",c | [,cdc{4}/] > ,a ,,d/ ,a [c,,,,c] ,a [,'a] ,,d/4 ,a | \
 [,,d{4}/] c e e ['c{a}] [c,c1] {,a}/ | [c{,,a}/] ,c ,,d c \
 [e{,,,a}] g ['h,,,/] > g | "
 48;C dur;42v;52. Contrepartie Courante du mesme;Nivert;;;Conc_537;3;",c/ ,d | c1 ,,d ,c/ ,,d | ,,c/ ,a ,,c ,,d ,a ,c | [ccd3/2] c/ \
@@ -173,7 +173,7 @@ a ,e d | "
 60;F dur;53v;64. Contrepartie de l'Allemande de Pinell;Pinel;;;;C;"[edda2] {,a}1 e | ,d1 ,,d [,,'de1] > ,,b | [,,'aa1] {,a}/ ,,a \
 ,d1 ,,d | [,abc{a}1] ,,b [,,'d{4}1] > ,,,f | [,,aa{,a}1] (,c \
 ,d) ,,,c | "
-61;d moll;54v;65. Contrepartie de la Courante de dubut;Du But;;;Conc_3836;3;"a/ > a | [,aVd{,,,a}1] > c 'a ,c | [,a,,a1] [,'cb{a}1] > ,a | \
+61;d moll;54v;65. Contrepartie de la Courante de dubut;Du But;;;Conc_3836;3;"a/ > a | [,aVd{,,,a}3/2] c/ 'a ,c | [,a,,a1] [,'cb{a}1] > ,a | \
 ,,,,,a/ ,,e [,,eec2] | [aa,,a1] ['a,d,,a] a | [c{a}1] [cabc1] > \
 e | {,a}/ [a,a] [,'c,c{4}1] > ,,b | "
 62;d moll;55v;66. Contrepartie du Canon Courante de Gautier;V.Gaultier or D.Gaultier;;;Conc_544;3;"[ad1] e ,c/ c | a/ e ,,d ,c ,a ,,,,a | ,,,,c/ c ,,a a e \

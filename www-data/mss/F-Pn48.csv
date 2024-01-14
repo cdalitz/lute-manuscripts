@@ -53,7 +53,7 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
 [,aaaa1] '[,,d,,a3/2] ,,a/ | \
 [,,b{a}1] [,,bca3/2] ,,d/ | \
 [,,a{,a}1] '[,,,c{,,,,a}3/2] ,,,a/ |"
-19;d moll;73r;(double);;end missing;;;3/4;",,a | [,,a{,,,a}/] ,a ,,a ,,b ',,a ,,,c | \
+19;d moll;73r;(double);;;;;3/4;",,a | [,,a{,,,a}/] ,a ,,a ,,b ',,a ,,,c | \
 [,,,aa/] ,d ',c ,a ,,,a ,,,c | \
 [,,a,,e/] ,,,,a ,,,,c ,,,a ,,,c ,,a |"
 20;d moll;74r;Allemande Gumprecht;;2nd strain only;;;C;"V,d/ [,,e,c] | [,aa,d/] [,a,c] [,,de] ',,,a/4 ,,,,c [,aaaa3/4] ,a/4 ,,,,,a ,,d ',,c ,,a | \
@@ -100,15 +100,15 @@ a3/2 ,,,,a/ [,c,b3/2] a/ | [,a,a3/2] d/ 'b3/2 ,,,,c/ |"
 [,ac,,c1] (,c/ ,a) [,,e,,a1] ,,,d | \
 [,,c{a}1] ,a [,c{,a}] [aa] | \
 [bc{,,a}1] (d/ b) '[aaa1] {,,,a} ||"
-37;???;88v;Prelude;;;???;;none;",,,,a/ ,b ,,a ,,,,a ,,,a ,,a ,b ,,a {,,,a} ,b ,,a \
+37;D dur;88v;Prelude;;;A - d - f# - a c#' - e';;none;",,,,a/ ,b ,,a ,,,,a ,,,a ,,a ,b ,,a {,,,a} ,b ,,a \
 ,,,,,a ,,,,a ,,,a ,,a ,b ,,a ,,c ,b a ,,a ',a ,,,a (,d ,b ,a)"
-38;???;89v;Allemande;;;???;;C;"f/ | [ffaa{,,,a}3/4] ,,f/4 ,a ,,f a/ ,,a f 'd ,f3/4 d/4 | \
+38;D dur;89v;Allemande;;;A - d - f# - a c#' - e';;C;"f/ | [ffaa{,,,a}3/4] ,,f/4 ,a ,,f a/ ,,a f 'd ,f3/4 d/4 | \
 ,f/ ,,f/4 d f/ ,,c d [c,a] '[c,,b3/4] a/4 |"
-39;???;90v;Courante;;;???;;3/4;",b/ | [,baa{,,,a}3/2] ,,a/ ,,,b ,,a | \
+39;D dur;90v;Courante;;;A - d - f# - a c#' - e';;3/4;",b/ | [,baa{,,,a}3/2] ,,a/ ,,,b ,,a | \
 [,,c{a}1] [,,cba3/2] ,,c/ | \
 '[,,a,,a3/2] ,,,b/4 ,,a ,,,b3/4 ,,a/4 | \
 ,,,a1 ,,,,,c/ ,a ,,c ,a |"
-40;???;91v;Sarabande;;;???;;3/4;"[,,aaa{,,,a}3/2] [,,aaa/] [,,aaa1] | \
+40;D dur;91v;Sarabande;;;A - d - f# - a c#' - e';;3/4;"[,,aaa{,,,a}3/2] [,,aaa/] [,,aaa1] | \
 '[,,aaa3/2] ,,c/ [,,cba{a}1] | [,,cba1] ,a {,,a}/ ,b | \
 '[,a{,a}3/2] ,,c/4 ,a ,,c1 | ,b1 ,,,,,c ',,,,,a/ ,a |"
 41;A dur;92v;Allemande;;Gautier;;Conc_29;C;"[,cee,a3/2] (,c/4 ,,e) ,c/ ,,,e [,ccd3/4] ,a/4 | \
@@ -116,7 +116,7 @@ a3/2 ,,,,a/ [,c,b3/2] a/ | [,a,a3/2] d/ 'b3/2 ,,,,c/ |"
 [,ef,a1] {,,,a}/ ',c V,e ,,,,,e [,e,,,c3/4] d/4 |"
 42;A dur;93v;Courante;;;;Conc_232;3/4;"e/ 'd ,e | [,c,,,a1] ,,a/ ,e '[,c,a] ,a | \
 ,c/ ,,,e ,,,d ,a ,,,e ,,e | '[,,c{,,a}/] ,,a ,,c ,,e ,a ,,,d |"
-43;???;94v;Gigue Strobel;;;???;;3;",d3/2 c/ ,d | ',b2 ,,c1 | ,a1 ,,a ,,,,c | ,,c2 ,,,,,c | \
+43;A dur;94v;Gigue Strobel;;;A - d - f# - a c#' - e';;3;",d3/2 c/ ,d | ',b2 ,,c1 | ,a1 ,,a ,,,,c | ,,c2 ,,,,,c | \
 [,,a,,e1] ,,,,a ,,,,,e | '[,,,c,c2] [,,a,,a1] | \
 [,,c{a}1] ,a ,b | [,a,,,a2] ,,a |"
 44;G dur;95v;Prelude;;;;;none;"[,acc{a}/] ,a [,aaee{,a}] [,,dcc{,,a}] ,,d ,,d \

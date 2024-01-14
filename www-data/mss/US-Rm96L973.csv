@@ -1,89 +1,270 @@
 PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
-1;;1r;Sarabanda;;;Guitar;;;;french5tab
-2;;1r;Arias;;;Guitar;;;;french5tab
-3;;1v;Sarabanda;;;Guitar;;;;french5tab
-4;;1v;furioso;;;Guitar;;;;french5tab
-5;;1v;Sarabanda;;;Guitar;;;;french5tab
-6;;2r;Clorys;;;Guitar;;;;french5tab
-7;;2v;Sarabanda;;;Guitar;;;;french5tab
-8;;2v;Aria;;;Guitar;;;;french5tab
-9;;3r;Vilon de sponyia;;;Guitar;;;;french5tab
-10;;3v;Ciacona;;;Guitar;;;;french5tab
-11;;4v;spanioleta;;;Guitar;;;;french5tab
-12;;5r;gavota;;;Guitar;;;;french5tab
-13;;5r;Cor:;;;Guitar;;;;french5tab
-14;;5v;[sans titre];;;Guitar;;;;french5tab
-15;;5v;Aria;;;Guitar;;;;french5tab
-16;;6r;Corent;;;Guitar;;;;french5tab
+1;;1r;Sarabanda;;;Guitar;;3;"!strumdown![,bcc1] ,d a | '[,b,,a3/2] ,a/ ,,c1 | [,d,,c1] [a,,,d] [b,,a] | \
+'[,da3/2] a/ ,b1 :||: !strumdown![,bcc1] ,d a | '[,b,,a3/2] ,a/ ,,c1 |";french5tab
+2;;1r;Aria;;;Guitar;;C;"!strumdown![cdc1] c !strumup![cdc] f | \
+!strumdown![cdc1] [a,,,a] [c,,a] ,d | \
+[c,,a1] [a,,,e] [c,,a] [e,,,c] | \
+[,ccc1] !strumdown![,ccc] !strumup![,ccc] !strumdown![,ccc] :||: \
+!strumdown![,ccc1] !strumup![,ccc] !strumdown![,ccc] c |";french5tab
+3;;1v;Sarabanda;;;Guitar;;3;"!strumdown![,b,cd1] a a | !strumdown![,b,cd3/2] b/ d1 | \
+[b,,a1] d [a,,,d] | '[,da3/2] a/ ,b1 :||: \
+!strumdown![,b,cd1] b d | [,d,,c1] a b |";french5tab
+4;;1v;furioso;;;Guitar;;C;",d/ a | !strumdown![cdc1] !strumdown![cdc] !strumdown![cdc] !strumdown![,ccc] | \
+!strumdown![cdc1] !strumup![cdc] !strumdown![cdc] ,d/ a | \
+!strumdown![cdc1] a/ c [d,a] c a ,d | \
+!strumdown![,ccc1] !strumup![,ccc] !strumdown![,ccc] :||:";french5tab
+5;;1v;Sarabanda;;;Guitar;;3;"[f,,d1] f f | [f,,d2] d1 | [g,a2] [f,,d1] | '[d,,,d3/2] ,g/4 d ,g1 | \
+[f,,d1] f [d,,,d] | '[bd,a3/2] a/4 b ,d1 | [d,a1] d [b,,a] |";french5tab
+6;;2r;Clorys;;;Guitar;;3;"!strumdown![bdc1] d f | '[a,,,a3/2] ,d ,d1 | [,d,,b1] a [b,,a] | \
+'[b,a3/2] a/ b1 | [f,,d1] g i | [d,,c1] f g | [b,,a1] d [f,f] |";french5tab
+7;;2v;Sarabanda;;;Guitar;;3;"[f,,a1] 'd [bd] | '[a,,,a3/2] ,d/4 a ,d1 | [f,,a1] ,,,c [f,,d] | \
+'[d,,,d3/2] ,g/4 d ,g1 | [,d,d1] '[,c,c] ,d | [,,c,a1] ,a ,b |";french5tab
+8;;2v;Aria;;;Guitar;;C;"!strumdown![dd,,c1] ,d !strumdown![,b,cd] a | [,d,,c3/2] ,b/ ',a1 ,,a | \
+!strumdown![dd,,c1] !strumdown![dd,,c] [c,,a/] d [fa] ,,a | \
+!strumdown![,dcc1] ,c/ d !strumdown![cdc1] !strumup![cdc] :||:";french5tab
+9;;3r;Vilon de sponyia;;;Guitar;;none;"!strumdown![cdc] !strumup![cdc] !strumdown![cdc] !strumdown![dd,,a] \
+!strumdown![cdc] !strumdown![cdc] !strumup![cdc] !strumdown![cdc] \
+!strumdown![,ccc] !strumdown![cdc] :||: \
+!strumdown![cdc] !strumup![cdc] !strumdown![cdc] !strumup![cdc] \
+!strumdown![dd,,c] !strumup![dd,,c] !strumdown![cdc] \
+!strumdown![cdc] !strumup![cdc] !strumdown![dc] !strumup![cdc]";french5tab
+10;;3v;Ciacona;;;Guitar;;3;"!strumdown![,b,cd1] !strumup![,b,cd] !strumdown![,b,cd] \
+!strumdown!'[,a,,c3/2] !strumup![,bcc/] !strumdown![,bcc1] \
+!strumdown![,bcc] !strumup![,bcc] !strumdown![,bcc] \
+!strumdown![,b,'a3/2] !strumup![,b,ad/] !strumdown![,b,ad1] :||: \
+,,,,d/ ,a ,b ,d !strumdown![,b,cd1] \
+!strumdown!'[,a,,c3/2] !strumup![,bcc/] !strumdown![,bcc1]";french5tab
+11;;4v;spanioleta;;;Guitar;;3;",d/ a | !strumdown![bdc3/2] a/ b1 | !strumdown![,b,cd3/2] ,d/ a1 | \
+!strumdown![bbcd2] !strumup![bbcd1] | !strumdown![bbcd1] ,,a c | \
+,,d1 b ,,c | ',,a3/2 b/ d1 |";french5tab
+12;;5r;gavota;;;Guitar;;C;",d1 a | [b,,a/] d f1 '[d,,a3/2] ,g/ | \
+[a,,,a1] [f,,,f] '[ff1] e/ ([e,,,a] | f2) :||: \
+,d1 a | '[b,,a2] ,,a/ f d b |";french5tab
+13;;5r;Cor:;;;Guitar;;3;"f/ | !strumdown![fhh3] | [h,a1] 'f3/2 d/ | \
+'[c,,a3/2] c/ [a,,,e1] | [c,,a1] [,d,,c] ,d | \
+'[a,,,a1] ,c ,d | [a,,,a1] '[c,,a3/2] a/ | \
+'a1 ,,,,a ,,c | !strumdown![,ccc3] :||:";french5tab
+14;;5v;[sans titre];;;Guitar;;C;",,c1 [,d,a] [,aa3/4] ,c/4 ,d1 | !strumdown![a,,,a3/2] c/ a1 a | \
+,,d1 [,d,a] [,aa3/4] ,c/4 d1 | '[a,,,a3/2] ,d/ [,d,,a2] :||: \
+'[c,,a1]a/ ,d !strumdown![,ccc2] |";french5tab
+15;;5v;Aria;;;Guitar;;3;"[,d,a/] ,d f | [ff,,e3/2] d/ 'b a | '[b,,a1] [a,,,d] [,d,,b] | \
+'[,c,,a3/2] i/ h1 | [f,f1] [f,e/] 'e3/2 | \
+y1 f/ ,,,,a ,,c1 | !strumdown![,ccc2] :||:";french5tab
+16;;6r;Corent;;;Guitar;;3;",d1 | '[,d,a1] ,,c ,d | [,d,,c1] [a,,,a3/2] c/4 d | \
+'[c,,,a1] ,d c | ,,,,e1 a c | [,d,,c3/2] a/4 ,d '[,c,,a/] ,a |";french5tab
 17;;6v;Corente;;;Guitar;;;;french5tab
 18;;7r;Pauana;;;Guitar;;;;french5tab
-19;;7v;Aria;;;Guitar;;;;french5tab
-20;;8r;Corent;;;Guitar;;;;french5tab
-21;;8v;Moresca;;;Guitar;;;;french5tab
-22;;9r;Ballet;;;Guitar;;;;french5tab
-23;;9r;Preludio;;;Guitar;;;;french5tab
-24;;9v;Sarabanda;;;Guitar;;;;french5tab
-25;;9v;Sarabanda;;;Guitar;;;;french5tab
-26;;10r;Ciacona;;;Guitar;;;;french5tab
-27;;10v;Corenta;;;Guitar;;;;french5tab
-28;;10v;Sarabanda;;;Guitar;;;;french5tab
-29;;11r;Aria;;;Guitar;;;;french5tab
-30;;11v;Allemanda;;;Guitar;;;;french5tab
-31;;12r;Aria;;;Guitar;;;;french5tab
-32;;12v;Ciacona;;;Guitar;;;;french5tab
-33;;13v;folias;;;Guitar;;;;french5tab
-34;;14r;gavota;;;Guitar;;;;french5tab
-35;;14v;Les enfarines;;;Guitar;;;;french5tab
-36;;15r;Aria;;;Guitar;;;;french5tab
-37;;15v;Coranta;;;Guitar;;;;french5tab
-38;;15v;Sarabanda;;f. 16v vacat;Guitar;;;;french5tab
+19;;7v;Aria;;;Guitar;;C;",,c/ ,a | !strumdown![,bcc1] !strumdown![,bcc] !strumdown![dd,,d] !strumup![dd,,c] | \
+!strumdown![,b,cd1] !strumup![,b,cd] !strumdown![,b,cd] ,,c/ ,a | \
+!strumdown![,bcc] !strumdown![,bcc] !strumdown![dd,,c] !strumup![dd,,c] | \
+!strumdown![,b,cd3] :||: ,a/ ,b |";french5tab
+20;;8r;Corent;;;Guitar;;3;"[,d,a1] ,d f | [ff,,e3/2] h/ 'f1 | [d,,c3/2] d/ f d | \
+'[c,,a3/2] a/ 'a1 | [c,,a1] ,d a | '[,c,,a3/2] ,a/ ,,c1 |";french5tab
+21;;8v;Moresca;;;Guitar;;none;"!strumdown![,bcdd] !strumdown![,bcdd] !strumup![,bcdd] !strumdown![,bcdd] !strumdown![,bcdd] \
+!strumdown![,b,cd] !strumdown![,b,cd] !strumup![,b,cd] !strumdown![,b,cd] !strumdown![,b,cd] \
+!strumdown![bdc] !strumdown![bdc] !strumup![bdc] !strumdown![bdc] \
+!strumdown![dd,,b] !strumdown![,ccc] !strumdown![,ccc] !strumup![,";french5tab
+22;;9r;Ballet;;;Guitar;;C;"c1 !strumdown![cdc3/2] d/ c1 !strumdown![cdc2] a1 \
+!strumdown![,ccc3/2] c/ a1 !strumdown![,ccc] c !strumdown![cdc2] \
+!strumdown![,ccc1] !strumdown![cdc3/2] d/ c1 \
+!strumdown![,ccc] !strumup![,ccc] !strumdown![,ccc] :||:";french5tab
+23;;9r;Preludio;;;Guitar;;none;"!strumdown![cdc] ,,,,a ,,,a ,,c ,d c \
+,,,,c ,,a ,d d b 'a ,d a ,,,,d ,,a ,b a d 'c a c";french5tab
+24;;9v;Sarabanda;;;Guitar;;3;"[b,,a1] ,d [b,,a] | '[a,,,a3/2] ,d/ ,c1 | [b,,a1] d [f,,a] | \
+'[d,,,d3/2] ,g/4 d ,g1 |[b,,d1] ,b [b,,d] | '[a,,,a3/2] ,d c1 |";french5tab
+25;;9v;Sarabanda;;;Guitar;;3;"!strumdown![bdc1] !strumup![bdc] !strumdown![bdc] | \
+'[a,,,a3/2] b/ [,d,,b] | !strumdown![bdddb1] !strumup![bdddb] !strumdown![bdddb] | \
+'[,b,d3/2] ,d/ [,,df1] | !strumdown![bdddb1] !strumup![bdddb] !strumdown![bdddb] | \
+'[,,ca3/2] ,,d/ ,b1 | [,d,d1] '[a,a3/2] ,d/ |";french5tab
+26;;10r;Ciacona;;;Guitar;;none;"!strumdown![dd,,c] !strumup![dd,,c] !strumdown![dd,,c] \
+!strumdown!'[cdc] !strumup![cdc] !strumdown![,,,cc] \
+!strumdown![,b,cd] !strumup![,b,cd] !strumdown![,b,cd] \
+!strumdown!'[cdc] !strumup![cdc] !strumdown![dd,,c] :||: \
+!strumdown![dd,,c] !strumup![dd,,c] !strumdown![dd,,c] !strumup![dd,,c] !strumdown![dd,,c] \
+!strumdown![cdc] !strumup![cdc] !strumdown![,,,cc]";french5tab
+27;;10v;Corenta;;;Guitar;;3;"d/ | !strumdown![dd,,c3/2] f/ d f | 'c1 ,,,a/ a ,d ,b | \
+',a1 ,,a ,,,,c | '[,aa3/2] ,a/ ,b ,d | a1 ,,,,d ',,,,c |";french5tab
+28;;10v;Sarabanda;;;Guitar;;3;"!strumdown![cdc] !strumup![cdc] !strumdown![cdc] \
+!strumdown!'[cdc] !strumup![cdc] !strumdown![cdc] \
+!strumdown![dd,,c] !strumup![dd,,c] !strumdown![dd,,c] \
+!strumdown![cdc] !strumup![cdc] !strumdown!'[cdc] \
+!strumdown![,ccc] !strumup![,ccc] !strumdown![,cdc] \
+!strumdown!'[,ccc] !strumup![,ccc] !strumdown![,ccc] \
+!strumdown!,,,,c !strumup!,,,,c !strumdown!,d";french5tab
+29;;11r;Aria;;;Guitar;;C;",,c1 | [,d,a1] '[,c,,a] [,d,a] [a,,,e] | \
+[b,,a/] a b d '[a,,,a3/2] a/ | \
+[,d,a1] ,d '[,c,,a] [,d,,b] | \
+!strumdown![,ccc] !strumup![,ccc] !strumdown![,ccc] :||:";french5tab
+30;;11v;Allemanda;;;Guitar;;C;"f/4 | '[fhha3/2] h/ [d,,c] [c,,a] '[a,,,a3/4] ,d/8 a | \
+,d/ ,,,a ,,c ,d '[cdc1] f/ d | 'c ,,,a c 'a [,d,,c] ,a";french5tab
+31;;12r;Aria;;;Guitar;;C;"[f,,a1] ,d/ b [a,,,d] b d f | \
+'[b,,a1] ,d/ b [,c,,a] ,d [a,a] [b,c] | \
+[,d,f1] ,,d/ ,d [,,cd] ,a ,c ,d |";french5tab
+32;;12v;Ciacona;;;Guitar;;none;"!strumdown![bdc] !strumup![bdc] !strumdown![bdc] \
+!strumdown![,bcc] !strumup![,bcc] !strumdown![bdddb] \
+!strumdown![dd,,b] !strumup![dd,,b] !strumdown![bdc] \
+!strumdown!'[,ccc] !strumup![,ccc] !strumdown![bdc] :||: \
+,,,a/ ,c ,d a b d |";french5tab
+33;;13v;folias;;;Guitar;;3;"!strumdown![bdc] !strumup![bdc] \
+!strumdown![,ccc] !strumdown![,ccc] !strumup![,ccc] \
+!strumdown![bdc] !strumdown![bdc] !strumup![bdc] \
+!strumdown![,b,cd] !strumdown![,b,cd] !strumup![,b,cd] \
+!strumdown![,b,cd] !strumdown![,b,cd] !strumup![,b,cd] \
+!strumdown![,b,cd] !strumdown![,b,cd] !strumup![,b,cd] \
+!strumdown![bdc] !strumdown![bdc] !strumup![bdc]";french5tab
+34;;14r;gavota;;;Guitar;;C;"!strumdown![,b,cd1] !strumup![,b,cd] (3d/4 b a) (,d/ ,b) | \
+[d,a1] (3f/ 'd b) !strumdown![,b,cd1] !strumup![,b,cd] | \
+[fg1] 'f h3/2 f/4 d | \
+[d,a/] f 'd b !strumdown![,b,cd1] !strumup![,b,cd] :||:";french5tab
+35;;14v;Les enfarines;;;Guitar;;C;"[,d,a1] [,b,c/] ,,d [,,cd1] ,d | \
+,,,,e/ a ,,,a b '[a,,,a1] [,d,a] | \
+[b,,a1] '[a,a/] ,d [,bc1] [b,d] | \
+'[b,,,d3/2] a/ !strumdown![bbcd1] :||:";french5tab
+36;;15r;Aria;;;Guitar;;C;"!strumdown![,bcc3/2] f/ 'e1 ',f | [f,,a/] e f h i ,,,a ,,,,a ,,,,c | \
+!strumdown![,b,cd/] ,d a b [d,,c1] 'b/ a |";french5tab
+37;;15v;Coranta;;;Guitar;;3;"d/ | !strumdown![dd,,b2] d1 | 'b1 ,,,a g | \
+'f1 ,,,a ,,,,d | ,,,,b1 'a ,d | ',c1 ,,,,a ,d | \
+[b,,a1] '[a,,,a3/2] ,d/ | ,d1 ,,,a ,,c | \
+!strumdown![cdc2] :||:";french5tab
+38;;15v;Sarabanda;;f. 16v vacat;Guitar;;3;"!strumdown![,bcc1] !strumup![,bcc] !strumdown![,bcc] | \
+'[,a,c3/2] ,,c/4 ,a [,,c,a1] | [,bcd1] [,de] a | \
+'[,da3/2] ,,f/4 ,d ,,f1 | !strumdown![dfffd] !strumup![dfffd] ,,e | \
+'[ede3/2] e/ [f,,,a1] |";french5tab
 ;;Backwards;;;;;;;;
-39;;39r;1. Preludio;;;Mandora;;;;french5tab
-40;;38v;2. Preludio;;;Mandora;;;;french5tab
+39;;39r;1. Preludio;;;Mandora;;none;"a/ c e f a c ,f a ,e ,c ,,e ,a ',a ,,e ,a ,,c ',,a \
+,,,f ,,,e ,,,c ',,,a";french5tab
+40;;38v;2. Preludio;;;Mandora;;none;",a/ ,,,a ,,a ,a ,c ,e ,f a ,,,c ,,,e ,a a ,,,f \
+,a c ,,,c ,,,e ,a a";french5tab
 ;;;;;Accord;;;;;
-41;;38r;3. Sarabanda;;;Mandora;;;;french5tab
-42;;38r;4. Allemanda;;Apparently missing pages with three pieces;Mandora;;;;french5tab
-43;;37v;8. Clorys;;;Mandora;;;;french5tab
-44;;37r;9. gavota;;;Mandora;;;;french5tab
-45;;37r;10. boffande;;;Mandora;;;;french5tab
-46;;36v;11. Sarabanda;;;Mandora;;;;french5tab
-47;;36r;12. Salbaert?;;;Mandora;;;;french5tab
-48;;35v;13. Sarabanda;;;Mandora;;;;french5tab
-49;;35r;14. Allamanda;;;Mandora;;;;french5tab
-50;;34v;15. Sarabanda;;;Mandora;;;;french5tab
-51;;34r;16. Sarabanda;;;Mandora;;;;french5tab
-52;;34r;17. fantaisie;;;Mandora;;;;french5tab
-53;;33r;18. Canno…?;;;Mandora;;;;french5tab
-54;;33r;19. Coranta;;;Mandora;;;;french5tab
-55;;32r;20. Baemin?;;;Mandora;;;;french5tab
-56;;32r;21. Coranta;;;Mandora;;;;french5tab
-57;;31r;22. Coranta;;;Mandora;;;;french5tab
-58;;31r;23. La moudarde;;;Mandora;;;;french5tab
-59;;30r;24. Samson;;;Mandora;;;;french5tab
-60;;30r;25. Coranta;;;Mandora;;;;french5tab
-61;;29v;26. Sarabanda;;;Mandora;;;;french5tab
-62;;29r;27. gavota;;;Mandora;;;;french5tab
-63;;28v;28. gavota;;;Mandora;;;;french5tab
-64;;28r;29. Sarabanda;;;Mandora;;;;french5tab
-65;;28r;30. gavota;;;Mandora;;;;french5tab
-66;;27v;31. Coranta;;;Mandora;;;;french5tab
-67;;27r;32. allemanda;;;Mandora;;;;french5tab
-68;;26v;33. Sarabanda;;;Mandora;;;;french5tab
-69;;26r;33. Coranta;;;Mandora;;;;french5tab
-70;;25v;35. Coranta;;;Mandora;;;;french5tab
-71;;25r;35. Sarabanda;;;Mandora;;;;french5tab
-72;;24v;36. quion dira-on ?;;;Mandora;;;;french5tab
-73;;24r;37. Sarabanda;;;Mandora;;;;french5tab
-74;;24r;38. gavota;;;Mandora;;;;french5tab
-75;;23v;39. gavota;;;Mandora;;;;french5tab
-76;;23r;40. gavota;;;Mandora;;;;french5tab
-77;;23r;41. Coranta;;;Mandora;;;;french5tab
-78;;22r;42. Corenta;;;Mandora;;;;french5tab
-79;;21v;43. Ciacona;;;Mandora;;;;french5tab
-80;;20r;44. Infarinata;;;Mandora;;;;french5tab
-81;;19v;45. Lass dich nit verdriessen;;;Mandora;;;;french5tab
-82;;19r;46. Coranta;;;Mandora;;;;french5tab
-83;;18v;47. Corenta;;;Mandora;;;;french5tab
-84;;18r;48. Corantay;;;Mandora;;;;french5tab
-85;;17v;49. Coranta;;;Mandora;;;;french5tab
-86;;17r;50. Wan ich schon klage;;;Mandora;;;;french5tab
+41;;38r;3. Sarabanda;;;Mandora;;3;"[a,a1] a a | [,e,a3/2] (,c/ ,a1) | [,f,f1] a [,e,a] | \
+'[,c,,a3/2] ,a/ ,,,a1 :||: [,a,a1] ,c ,e | \
+[,,e,a1] ,a ,c | ,,c1 ,,e ,a | '[,c,,a3/2] ,a/ ,,,a :||";french5tab
+42;;38r;Sarabanda;;;Mandora;;3;",,,a1 a2 | '[a,a2] [,e,a1] | [,f,f1] a [,e,a] | \
+'[,c,,a3/2] ,,e/ ,a1 :||: ,,,a2 ,e1 | \
+'[,c,,a3/2] (,a/4 ,c ,e1) | ,,c3/2 (,,c/ ,,e ,a) |";french5tab
+43;;38r;4. Allemanda;;Missing pages with three pieces;Mandora;;C;"[,e,a1] ',c ,a | '[,ca2] ,,,,a1 | [,e,a1] [,f,f] a [,e,a] | \
+'[,ca2] ,,,,a1 | [,e,a1] ',c ,a | ,,e1 ,,,,a [,a,e] ,,,f | \
+'[,c,,a3/2] ,a/ ,,,a1 :||:";french5tab
+44;;36v;8. Clorys;;;Mandora;;3;"[,d,a1] ,f a | '[,ca,a3/2] ,a/ ,,,a1 | [,a,a1] ,c ,d | \
+[,fd3/2] ,d/ ,,,d1 | [a,a1] c d | [,fd1] a b |";french5tab
+45;;36r;9. gavota;;;Mandora;;3;"[,d,a3/2] (,f/ ,d1) | '[,ca3/2] (,d/ ,c1) | \
+[,ab3/2] (,c/ ,a1) | ',,e2 ,,,,a1 | \
+[a,,d3/2] (b/ a1) | [,f,f3/2] a/ [,d,a] | \
+'[,c,,a3/2] ,a/ [,a,a1] |";french5tab
+46;;36r;10. boffande;;;Mandora;;3;",d1 ,,,a ,d | ,c1 ,,a ,c | ',a1 ,,,a ,a | \
+,,e1 ,,,,a ,,e | ,d1 ,,,a ,d | [,f,f3/2] a/ [,d,a1] | \
+'[,c,,a3/2] ,a/ [,a,a1] :||:";french5tab
+47;;35v;11. Sarabanda;;;Mandora;;3;"[,d,a1] [,da] [,da] | '[,ea3/2] ,d/ [,ab1] | \
+[,a,f1] ,a [,ca] | '[,,e,a3/2] ,a/ ,,,a :||: \
+[a,,d1] a a | [,fd1] ,f ,f | [,dc1] ,d ,d |";french5tab
+48;;35r;12. Salloman;;;Mandora;;3;"[a,a3/2] ,f/ ,e1 | '[,ca2] ,,,,a1 | [,e,a1] [,f,3/2] a/4 ,e | \
+'[,ca2] ,,,,a | [a,,e1] a a | [,f,f1] a (3[,e,a/] ,c ,e) |";french5tab
+49;;34v;13. Sarabanda;;;Mandora;;C;"[,a,a/] ,c ,e ,f | [aa,e1] [aa] [c,,f] [e,a] | \
+[fa1] [,,,aa] [fa,a] [fa] | [e,a1] [e,,,a] '[c,,c3/2] a/ | \
+,,,,a2 :||: '[,ca,a1] [,ca] '[,ca,a] ,c |";french5tab
+50;;34r;14. Allamanda;;;Mandora;;C;",a1 | [,a,a1] ,d ',c ,a | [,,e,a1] ',c ,,a ,d | \
+,,,a1 ,d ',c ,a | '[,ca2] ,,,,a1 a | [,a,a1] ,d ',c ,a |";french5tab
+51;;33v;15. Sarabanda;;;Mandora;;3;"[fa,a1] [fa] [fa] | '[d,a3/2] (b/ a1) | [ba1] ,c [ad] | \
+[,fd3/2] ,d ,,,d1 | [,fd1] ,f [a,a] | [,df3/2] ,,d/ ,,b1 |";french5tab
+52;;33r;16. Sarabanda;;;Mandora;;3;"[,a,a3/2] ,c/ [,,e,a1] | '[,d,a3/2] ,f/ [,ca1] | \
+[,f,f3/2] a/ [,d,a1] | ',c1 ,,a ,,,,a | \
+'[,a,a3/2] ,c/ [,,e,a1] | [,d,a3/2] (,c/ ,a1) |";french5tab
+53;;33r;17. fantaisie;;;Mandora;;3;",e1 ,,f ,e | ,c1 ,,e ,c | ,a1 ,,c ,a | ,c1 ,,a ,c | \
+,e1 ,,f ,e | ,c1 ,,e ,c | ,a1 ,,c ,a |";french5tab
+54;;32r;18. Canno…?;;;Mandora;;3;"a/ ,f | '[,e,a3/2] (,c/ ,e1) | [,a,a3/2] a/ ,f1 | \
+'[,e,a3/2] (,c/ ,e1) | [,a,a3/2] a/ ,f1 | \
+'[,e,a3/2] (,c/ ,e1) | '[,ca,a3/2] ,a/ [,a,a1] |";french5tab
+55;;32r;19. Coranta;;;Mandora;;3;"a1 | '[a,a3/2] (c/ a1) | [c,,f1] '[e,a3/2] (3a/4 c e) | \
+f1 ,,,a ,,a | ,a2 f1 | '[e,a3/2] f/ [c,,f1] | \
+'[a,,e1] [,f,f2] |";french5tab
+56;;31r;20. Barmain?;;;Mandora;;3;"[,e,a/] ,f | a1 ,a ,c | [,e,a1] ',e2 | ,c1 [,a,,a2] | \
+[,e,a/] ,f a1 ,c/ ,e | '[,c,,a3/2] ,a/4 ,e ,a1 | ,,,a2 :||:";french5tab
+57;;31r;21. Coranta;;;Mandora;;3;"a1 | '[a,a3/2] ,f/ ,e1 | ,,,a1 '[,ca3/2] (,a/4 ,c | \
+,e1) ,,,a ,,a | ,e3/2 (,e/4 ,c ,a1) | \
+,,c1 ',c3/2 ,a/ | ',,c1 ,,,,a2 |";french5tab
+58;;30r;22. Coranta;;;Mandora;;3;",a1 | [,,e,a3/2] (,,c/ ,,a1) | (,,a3/2 ,,c/4 ,,e) ,a1 | \
+'[,c,,a3/2] (,a/4 ,c ,e1) | ,,,a1 [,f,f] a | \
+[,e,a3/2] ,c/ '[,c,,a1] |";french5tab
+59;;30r;23. La moudarde;;;Mandora;;C;"[,,ae1] ,a [,,cc/] ,,e [,a,a1] | [,ca,e3/2] ,e/ [,c,,a1] ,,,f | \
+[,,ae1] ,a [,,cc/] ,,e [,a,a1] | '[,c,,a3/2] ,a [,a,a2] :||: \
+,e1 |";french5tab
+60;;29r;24. Samson;;;Mandora;;none;"[f,,a1] f '[e,a] (c/ e) | [f,,a3/2] e/ c1 | [a,a2] ,,,,a1 | \
+[,f,f1] ,f [,e,a] ,e | '[,c,,a3/2] ,a/ ,,,a1 :||: \
+'[,,e,a1] ,a [,ca] [,c,,a] |";french5tab
+61;;29r;25. Coranta;;;Mandora;;3;",e1 | '[,e,a3/2] ,f/ a1 | [,cf1] '[,c,,a3/2] (3,a/4 ,c ,a) | \
+,,,a1 ,,a ',a | a/ ,e | [cf1] [cf] [a,,e] | \
+[,f,f1] ,a [,e,a] |";french5tab
+62;;28v;26. Sarabanda;;;Mandora;;3;"[,e,a1] ,f a | [c,,f2] [a,,e1] | [,f,f3/2] a/ [,e,a1] | \
+'[,c,,a1] ,a ,,,a | '[,ca1] ,a ,,e | [,e,a3/2] (,c/ ,a1) | \
+[,,e,a1] '[,,cc3/2] ,,a/ |";french5tab
+63;;28r;27. gavota;;;Mandora;;C;"[,e,a1] ,f a c | '[,c,,a3/2] ,a/ ,,,a2 | [,,e,a1] ,a ',c ,,a | \
+'[,,cc3/2] ,,a/ ,,,,a2 | [aa,e1] [aa] [,f,f] [,e,,a] | \
+[,ca2] '[,c,,a1] |";french5tab
+64;;27v;28. gavota;;;Mandora;;3;"[,e,a3/2] ,f/ a1 | '[,e,a3/2] ,f/ a1 | \
+'[,e,a3/2] (,c/ ,a1) | '[,ca2] ,,,,a1 | \
+'[,e,a3/2] ,f/ a | '[,e,a3/2] ,f/ a1 | \
+'[,ca,a2] ,a1 | [,aaa3] :||:";french5tab
+65;;27r;29. Sarabanda;;;Mandora;;3;"[cf1] [cf] [ae] | [,fc3/2] ,,e/ [,ef1] | '[,ca3/2] ,e/ [,ac1] | \
+'[,,e,a3/2] ,a/ ,,,a1 | [,,cf1] ,,e [,a,e] | \
+[,,ec3/2] ,a/ ,,,a | '[,e,a3/2] ,f/ a1 |";french5tab
+66;;27r;30. gavota;;;Mandora;;C;"[,,a,a/] ,,c ,,d ,a '[,ca1] a | [,a,a/] ,c ,d1 ',c ,,d | \
+'[,a,f1] ,c V[,,d,a] ,a | '[,,cc3/2] ,,a/ ,,,,a2 :||:";french5tab
+67;;26v;31. Coranta;;;Mandora;;3;"f1 | '[fa,a3/2] h/ f1 | [e,a1] c e | f1 ,,,a ,,a | \
+,a2 a1 | [a,,e3/2] (c/ a1) | [,f,f1] a [,e,a] | \
+',c1 ,,a ,,,,a | '[,ca2] :||:";french5tab
+68;;26r;32. allemanda;;;Mandora;;C;",c1 | [,c1] ,c ,d a | [,a,f1] ',a ,c ,a | \
+[,,a,a1] ,,c ,,d ,a | ,,c1 ,,,c ,,c ,c | \
+[,d,a1] [,cd] '[,a,f3/2] ,,d/ |";french5tab
+69;;25v;33. Sarabanda;;;Mandora;;3;"[,daa1] [,da] [,da] | '[,ca3/2] ,d/ [,ab1] | \
+[,abf1] [,ab] [,aaa] | [,de3/2] ,a/ [,,bf1] | \
+[,,bf1] ,,b ,,b | '[,,aa3/2] ,,b/ [,,e,a1] |";french5tab
+70;;25r;33. Coranta;;;Mandora;;3;",c1 | '[,cd3/2] (,d/ ,c1) | '[,a,f3/2] (,c/ ,a1) | \
+[,,d,a1] ,a ,,d | '[,,cc3/2] ,,a/ ,,,,a1 | \
+'[a,a3/2] (c/ a1) | [,f,c1] ,,,e [,f,f] | \
+[,ca1] [,ec3/2] ,c/ |";french5tab
+71;;24v;34. Coranta;;;Mandora;;3;"a1 | '[aa,a3/2] ,f/ ,e ,c | ,e1 '[,ca] [,ac] | \
+'[,,e,a3/2] ,a/ ,c1 | ,,a1 ,a [,,e,a] | \
+'[,a,a3/2] ,c/ ,e ,f | a1 [,f,f3/2] ,e/ | '[,e,,a3] |";french5tab
+72;;24r;35. Sarabanda;;;Mandora;;3;"[,a,a3/2] f/ ,c1 | 'e/2 ,a/ c1 | ,,e3/2 a/ ,,c1 | \
+,f1 ,,a ,e | ,,,f1 ,c ,a | ,,e1 ,,,,a ,,c | ,,e1 ,a ,c |";french5tab
+73;;23v;36. quion dira-on ?;;;Mandora;;3;"[a,a1] a ,f | '[,d,a3/2] (,c/ ,a1) | [ad1] b a | \
+[,fd3/2] ,d/ ,,,d1 | [,,d,a1] ,,d ,,d | \
+[,ab3/2] ,,a/ [,c,f1] | [,d,d1] '[,cd3/2] ,d/ | ,,,d2 :||:";french5tab
+74;;23r;37. Sarabanda;;;Mandora;;3;"[aeaa1] [aeaa/] [aeaa] ,,,e [aaa] | \
+[ca,f1] [ca/] [ca] ,,,e [aaa] | [,fcc1] [,fe/] a ,,,a ,e | \
+'[,c,,a3/2] ,a/ [,a,a1] :||:";french5tab
+75;;23r;38. gavota;;;Mandora;;3;"[,e,a1] ,e [,e,a] | (,c/ ,a) '[a,a3/2] ,f/ | \
+'[,e,a1] [a,a] (3c/4 e f) | [,e,a1] [,f,f] a | '[,e,a3] :||: \
+[,a,a1] [,c,,a] [,e,a] |";french5tab
+76;;22v;39. gavota;;;Mandora;;C;",a1 '[,c,,e] | [,daa1] ,f/ a [,f,f3/2] ,d/ | \
+'[,c,,a1] ,,,a/ a '[,a,,c3/2] ,f/ | a1 ,,,,a2 :||: \
+,a1 '[,c,,e] | [,daa3/2] a/ [,f,f] a ,f ,d |";french5tab
+77;;22r;[40.] gavota;;;Mandora;;C;"[,eaa3/2] ,e/ [,f,f] ,e ',c ,a | [a,,,a] ,,f ,e ,f ',e1 ,,,a | \
+[c,,f/] a c e f1 c | '[a,,,a3/2] ,f/ '[,e,a2] :||:";french5tab
+78;;22r;[41.] Coranta;;;Mandora;;3;"a1 | [adaa3/2] ,f/ ',d ,c | ,d/ ,,,a [,c,f3/2] ,,f/ | \
+'[,,e,a1] ,,a ,,,f | ,,,d/ ,a '[,c,c3/2] ,c/ | \
+[,d,a1] ,,a/ ,a ',c ,d |";french5tab
+79;;21r;[42.] Corenta;;;Mandora;;3;",a1 | [,d,a1] ,f a | [a,,,a3/2] (b/ a1) | [,f,f1] a [,d,a] | \
+'[,c,,a3/2] ,a/ ,,,a1 | [f,,a1] a c | d1 ,,a f |";french5tab
+80;;20v;[43.] Ciacona;;;Mandora;;3;"[,aaa1] ',c ,e | [,ea,d3/2] ,e/ [,a,,c1] | \
+[,,ae1] ,a [,c,f] | '[,c,,a3/2] ,a/4 ,,e ,a1 :||: \
+,,,a/ ,c ,e ,g a |";french5tab
+81;;19r;[44.] Infarinata;;;Mandora;;C;"[,a,a1] ,,e/ ,,c [,,a,a1] [,a,a] | '[,ca1] [,d,a] ',c ,,d | \
+[,d,d1] ,c/ ,a [,,d,d1] [,,d,a] | [,d,,b1] [,c,,d] [,d,a2] :||: \
+'[,cd3/2] ,c/ [,ad] [,d,d1] |";french5tab
+82;;18v;[45.] Lass dich nit verdriessen;;;Mandora;;C;"[ad,a1] f [d,,c3/2] b/ | [a,,d1] ,d [,f,f] a | \
+[,a,a/] ,c ,d1 [,f,f3/2] ,d/ | '[,c,,a1] ,,a [,d,a] ,d | \
+[,f,f3/2] f/ a1 ,,,,a :||:";french5tab
+83;;18r;[46.] Coranta;;;Mandora;;3;",,a1 | [,,aef3] | [,,ace1] ,,c ,,e | [,a,,c1] ,,,e ,,,f/ ,c | \
+,,,e/ ,a '[,,e,a3/2] ,a/4 ,,e | ,a1 ,,,,c (,f/ ,e) | \
+[,c,,e1] a3/2 ,f/ |";french5tab
+84;;17v;[47.] Corenta;;;Mandora;;3;"a1 | [aeaa3/2] ,f/ ',e ,c | ,e/ ,,,a [,ca,e3/2] ,e/ | \
+[,a,,c1] ,,,e ,,,f/ ,c | ,,,e/ ,a ,,,,a ,,,c ',a3/4 ,,e/4 |";french5tab
+85;;17r;[48.] Corantay;;;Mandora;;3;",a1 | [,aaa2] ,c1 | [,ca,e1] a3/2 ,f/ | '[,daa1] ,f a | \
+,,,,d/ a ,,,,b ,a a ,f | ,d1 ,,,,a/ c d1 |";french5tab
+86;;16v;[49.] Coranta;;;Mandora;;3;"f1 a c | '[,e,a1] (3,c/ ,e ,f) a1 | [,c,,a1] [,eaa2] | \
+'[,ca3/2] ,a/ ,,,a1 | [,eaa1] [,ea] (,e/ ,f) | \
+'[,ca3/2] ,,,,a/ a1 |";french5tab
+87;;16r;[50.] Wan ich schon klage;;;Mandora;;3;"[a,,e1] [,c,,e] [,e,a] | '[,c,,a2] [,a,a1] | [,e,,c1] ,e [,g,c] | \
+'[a,,,a3] | '[c,,f1] [,f,c3/2] ,e/ | [,c,,e3] | \
+[a,,,a1] c e [f,,a2] a1 | [,e,e3/2] ,c/ ,a1 | '[,,e,a3] |";french5tab

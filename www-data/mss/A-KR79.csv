@@ -4,7 +4,7 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
 3;d moll;2r;Sarab (3.);E.Reusner;;;Conc_1514;3;,c1 a [,'b] | [bc1] Vd [,cb] | ,a/ a [aab1] ,,a/ b | ,,,c/ ,,b a ,a [b,,,a1] | [,,aaVd{,a}1] ,c [,b,c{,,a}] | {,,,a}/ ,,,a ,c ,,,,,e a | 
 4;d moll;2r;Aria (4.);E.Reusner;;;Conc_1515;3;b/ | [b,,,a1] [,acbc3/2] ,c/ | [,ba{a}3/2] ,b/ [,c{,a}1] | ,,,,,b/ ,c [,'c{,,a}3/2] ,b/ | [,caa{,,,a}1] ,,,,a3/2 ,a/ | ,,,,c/ ,a V[,,bc3/2] ,a/ | ,,,,d/ ,,,c ,,a ,,,,,a ,,,,,b ,,,c | 
 5;d moll;2v;Gigue (5.);E.Reusner;;;Conc_1516;C;b/ | [bca,a1] ,/4 (d/4 b a) ,c/> ,,b [acbc/]> ,c | [,ba/] ,,,,,a1 [,'c/4] a/8 ,c a/> ,,,c [,,aa/]> ,,b | [,,,cc/] ,,d [,,,aa/]> [,,b{a}] ,,,,,d/> [,,b,c] {,a}/> [,,aaVd] | 
-6;g moll;3r;Allemanda (6.);E.Reusner;;;Conc_1517;C;,a/ | [,abc{a}1] ,/4 (,d/4 ,b ,a) ,,d/ ,a [,,'b] ,,,c | ,,a/ ,,,,a [,,,'b/]> ,,,,,d ,,,,,b/ ,a c [e,d{,a}] | [f{a}/] ,a/> (f e ,f) e/ ,,,,a [c{,,a}] ,,e | 
+6;g moll;3r;Allemanda (6.);E.Reusner;;;Conc_1517;C;,a/ | [,abc{a}1] ,/4 (,d/4 ,b ,a) ,,d/ ,a [,,'b] ,,,c | ,,a/ ,,,,a [,,,'b/]> ,,,,,d ,,,,,b/ ,a c [e,d{,a}] | [f{a}/] ,a3/4 (f/4 e ,f) e/ ,,,,a [c{,,a}] ,,e | 
 7;g moll;3v;Sarab (7.);E.Reusner;;;Conc_1518;3;{a}/ ,a c e Vf1 | {,a}/ ,c e ,c [,'a] ,,d | {a}/ ,,b c1 ,,,,a/ a | ,,,,,a/ ,,d a ,b ,,,,,b ,a | 
 8;g moll;3v;Ballett (8.);E.Reusner;;;Conc_1519;C;V[,,bc1] {a}/ ,,d ,,b ,a [,,,'a1] | [c{,,a}1] ,,e [a,,,a] {,,,a} | ,a/ b ,,,,,d ,,,,,a ,,,,,b c {,a} e | {a}/ f 'e ,f [ee{,,,a}1] ,,,,a :| 
 9;g moll;4r;Gigue (9.);E.Reusner;;;Conc_1520;3;c3/2 ,a/ ,,b1 | ,,,c3/2 ,,b/ {a}1 | {,,,a}3/2 ,,a/ ,,,,a1 | [,,,'b2] ,,,,,d1 | ,,,,,b3/2 ,,,,a/ ,,,c1 | {,a}3/2 ,,a/ ,,,,,d1 | 
@@ -45,7 +45,7 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
 44;B dur;19v;Sarab (44.);E.Reusner;;4 = B;Conc_1502;3;,,,,,a/> a ,a/ ,,,a ,,b a | [c{,,a}1] ,,,,b3/2 ,,d/ | {,a}/ a ,,,a1 ,,a/ ,b | [,a,,,a1] [,,baa2] | {a}/ ,a ,,,,a ,,b ,,,c ,a | 
 45;B dur;19v;Aria (45.);E.Reusner;;4 = B;Conc_1548;3;[,a,,,a1] V[,b,,,c3/2] a/ | ['c{,,a}3/2] e/ V[f{a}1] | ,,,,a/ a [c,,,Vb3/2] ,d/ | [,'ba{4}3/2] ,a/ [,aba,a1] | ,,,,b/ ,,d [,,dcc3/2] ,,b/ | [,,aaVd3/2] ,,a/ [,,b{a}] ,,d | 
 46;B dur;20r;Gigue (46.);E.Reusner;;4 = B;Conc_1211;3;,,b/ | [,,Xb,,a2] ,,,a1 | [,ab2] V[,b,,,c1] | ,,,,a1 a ,,,a | [,,Xb2] a1 | ,,,,b1 ,,,c ,,d | [,,df{,a}2] ,,,e1 | ,,,,,a1 ,a ,,b | 
-47;B dur;20v;Allam (47.);E.Reusner;;4 = B;Conc_1549;C;a/ | [aaXb1] ,,,,,a/4 a c e Vf/ ,,,,,c/4 ,b (a/ ,,b) | ,,,,b/4 c {,,a} ,d [,'b{4}/]> ,a [,,d{,a}/] [,,,,Xd/] ,,,c/4 ,,a ,,,,b | 
+47;B dur;20v;Allam (47.);E.Reusner;;4 = B;Conc_1549;C;a/ | [aaXb1] ,,,,,a/4 a c e Vf/ ,,,,,c/4 ,b (a/ ,,b) | ,,,,b/4 c {,,a} ,d [,'b{4}/]> ,a [,,d{,a}/] [,,,,Xd3/4] ,,,c/4 ,,a ,,,,b | 
 48;B dur;21r;Courrente (48.);E.Reusner;;4 = B;Conc_1503;3;,a/ | [,aba1] ,,,,,a/ ,b a ,a | {c}/ ,,d {a} ,,,a ,,b ,,,,c | [,,a{,a}1] [,,,'a] {,,a} | [,,ba{,,,a}1] {4}/ ,,,a ,,d ,,,,b | 
 49;B dur;21v;Sarab (49.);E.Reusner;;4 = B;Conc_1212;3;[,aXb,,a/]> ,a [,aba3/2] ,,b/ | {,,a}/ ,,b [,,bcb3/2] ,,b/ | [,bdc{4}/]> ,b [,'ba{,a}3/2] ,a/ | [,aVb,,a/]> ,a [,aba3/2] ,a/ | {a}/ ,a [,abc3/2] ,a/ | 
 50;B dur;21v;Gigue (50.);E.Reusner;;4 = B;Conc_1550;3;Xf1 f/ | 'e/> ,f a/ | ,b/> c ,b/ | ,a/> a ,,b/ | ,,,c/> ,b ,,,c/ | ,,a> a ,b/ | [,,Xb/]> ,a ,,,a/ | 
@@ -173,7 +173,7 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
 172;c moll;89v;Le tombeau de Mazarin (164.);Gaultier;#173;;Conc_886;C;,,d | [,,dcbd1] {4}/ (,a ,b) ,,d ,a [,,'c] | {a}/ c [,b] (,d/4 ,b ,a) {4}/ ,b c h | ['f/] {a} h (k l) {,a} 'k h | 
 173;c moll;90r;sans titre (165.);Gaultier;;;Conc_3715;3;,,c/ ,,d (,a | [,b{4}1]) ,,,,,d/ a c ,,,,,a | ,,,,,b/ ,a {b} ,,d {,a} ,a | [,,'c1] {a} ,,,,a/ ,a | [,acc3/2] ,,d/ ,a1 | [,,'a1] ,,,a/ ,,a ,,c ,,,,a | 
 174;c moll;90v;sans titre (166.);;;;Conc_3716;3;[,,,,bd{4}1] ,,,a ,,,c | [,,,cb{,,a}1] ,,,c [,,a{,a}] | [,,aa1] [,,'c] [,,d,b] | [,,'d,a{a}3/2] ,,c/ [,,d{4}1] | [,,dcbd1] [,,dcb] [,,ba{,,,a}] | [,,'bc{,,a}3/2] (,,b/ ,,d1) | V[,,,d{,a}3/2] ,,,d/ [,,,ca{a}1] | 
-175;c moll;91r;Gigue (167.);Pinel;#176;;Conc_408;3;,,d1 | [,,dcbd{4}3] | [Xc2] c1 | 'a2 c1 | [,'b2] ,,d1 | [,Xb2] ,b1 | [ab,d2] c1 | ,,d2 ,a1 | V[,b,a3/2]
+175;c moll;91r;Gigue (167.);Pinel;#176;;Conc_1994;3;,,d1 | [,,dcbd{4}3] | [Xc2] c1 | 'a2 c1 | [,'b2] ,,d1 | [,Xb2] ,b1 | [ab,d2] c1 | ,,d2 ,a1 | V[,b,a3/2]
 176;B dur;91v;[Allemande] (168.);Dufault;#177;;Conc_1207;C;,a/ | [,abaab3/2] ,,a/4 ,,b ,,,,,a ,,d {,a} (,a ,b/) [a,a/4] ,b | [,a{d}/4] ,,d ,,b/ a ['c,,,,a/4] e [f{a}/] ,a ,,,c/4 ,b ,,,a a | 
 177;B dur;92r;sans titre (169.);;;;;3;[,,ff{d}1] [,,ffd3/2] ,,f/ | [,,df{,a}1] [,,,ed] ,d/ ,,,,,g | ,,,,,f/ ,,,f [,b,c,d1] ,,a/ a | [,a,,,b/] ,a [,aba3/2] ,b/ | [,d{b}1] [,,da3/2] ,a/ | [,bb{a}3/2] ,d/ {,a} [c{,,a}] | 
 178;f# moll;92v;Prelude (170.);Du But;1°, #180;;Conc_1167;;{,a} ,,,,e ,,,d ,,a ,,,,e [,,,,'d] ,,e ,,,d ,,c {,a} ,,a ,,,,,e ,,,d ,,,,,c [,,,,,'a] ,,,,e {a} ,,,,d {,a} ,,,,a ,,a {,,a}

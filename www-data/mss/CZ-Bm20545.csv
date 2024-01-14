@@ -44,7 +44,7 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNota
 16;C dur;5r;N2. Men.;;;Mandora;;3/4;"[,bac/] a [,bac1] {,,a} | [,bcd/] b [,bcd1] {,,a} | \
 [,d,,c/] b [,,a{d}1] [bd,,c] | \
 [a{,,a}/] ,b [,a{d}] ,,a [,b{,,a}1] |";french5tab
-17;C dur;5r;N 3 [Allemande?];;;Mandora;Conc_4875;C;",,a/ | [,ba{,,a}/] a ([da{d}/4] b) a ,d [,b{,,a}] ,a ,b/ {a} [,b{,,a}] | \
+17;C dur;5r;N 3 [Aria];;;Mandora;Conc_4875;C;",,a/ | [,ba{,,a}/] a ([da{d}/4] b) a ,d [,b{,,a}] ,a ,b/ {a} [,b{,,a}] | \
 ([,d{d}/4] ,b) ,a ,,c [,,a{d}/] [baa] [baa{d}] [ab{,,a}] y ||";french5tab
 18;C dur;5r;N.4 Aria;;;Mandora;;2/4;",,a/ | [,ba{,,a}/] ,b/4 a [,d{d}/] ,d/4 b | \
 ([a{,,a}/4] b) d/ z/ [,,a{a}/] | \
@@ -170,9 +170,12 @@ V[,,c,a2] {a}1 | ,,,,a/ ,c a ,c (,d ,a) | ,,,,a1 f [e{a}] |";french5tab
 [,fXh1] ,,,,a/ | {a}/ [,de] [,cc] |";french5tab
 61;D dur;14r;N.13. Men.;;;Mandora;;3/4;"[,dc{c}1] [,dc{,a}] [,dc{c}] | [,c,,a/] a [d{a}3/2] c/ | \
 ([c{,a}/] a) (d a) [,a{a}] d | ([,d,,a/] ,c) ,a ,,c (,a ,c) |";french5tab
-62;D dur;14v;N.14. Rondo + trio;;;Mandora;;2/4;"[,d{,a}/] ,d ([,d,,a/4] ,c) ,a ,,c | \
+61a;D dur;14v;N.14. Rondo;;;Mandora;Conc_4676;2/4;"[,d{,a}/] ,d ([,d,,a/4] ,c) ,a ,,c | \
 [,d{,a}/] [,d{c}] [a{,,a}] ,,,,a | \
 [c{,a}/] ,d ([d,a] a) | ([,d,,a/4] ,c) a ,c ,,,,a1 |";french5tab
+62b;D dur;14v;Trio;;;Mandora;;2/4;"{d}/4 ,a ,,a ,a {,a} ,b ,,c ,b | \
+{d}/4 ,a ,,a ,a {,a}/ [c,b] | \
+{d}/4 ,a ,,a ,a {,a} ,b ,,c ,b |";french5tab
 63;A dur;14v;N.15. Aria;;;Mandora;;3/4;"[ac,,a1] [,cc] y/ [ac] | [,de{a}1] [,ab] y/ [,de] | \
 [,cc,a1] [,de] [,ab] | [ac,,a3/2] [cd/] [ac] [ac] | \
 ([,f{,a}/] ,d) ([,d,,a] ,c) ([,c{a}] ,a) |";french5tab
