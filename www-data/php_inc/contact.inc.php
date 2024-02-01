@@ -34,12 +34,18 @@ tel + 39 011 6810486<br>
 <?php
 if ($lang=='deu') {
 	print "<b>Webseitenprogrammierung:</b><br>";
+    print "Markus Lutz &dagger; (bis 2023)<br><br>";
+    print "Christoph Dalitz (seit 2024)<br>";
+    print "Kontaktinfo: <a href=\"http://music.dalitio.de/index-de.html\">music.dalitio.de</a><br>";
+
 } else {
 	print "<b>Website programming:</b><br>";
+    print "Markus Lutz &dagger; (til 2023)<br><br>";
+    print "Christoph Dalitz (since 2024)<br>";
+    print "contact info: <a href=\"http://music.dalitio.de/\">music.dalitio.de</a><br>";
 }
 
 ?>
-Markus Lutz &dagger;<br>
 <br>
 </td>
 </tr>
