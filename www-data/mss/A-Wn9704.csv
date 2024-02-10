@@ -1,25 +1,73 @@
 PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
-1;;3r;sans titre;;;OT;ConcR2013;;;germantab
-2;;4r;Wann ich gedennkh;;;OT;ConcR3221;;;germantab
-3;;5r;Es flog ain Harnis woldt fan…..;;;OT;;;;germantab
-4;;5v;Madona Katherina;;;OT;ConcR2013;;;germantab
-5;;7r;Marusra (?) Sannk;;;OT;;;;germantab
-6;;8r;Zeiner dantz;;;OT;ConcR2109;;;germantab
-7;;9r;Woll auff …. Von himmen;;;OT;;;;germantab
-8;;10r;Virin unm (?);;;OT;;;;germantab
-9;;11r;Wer des wein nit trinken mag;;;OT;;;;germantab
-10;;12r;Mein hertz das ist bekhummert ser;;;OT;ConcR3220;;;germantab
-11;;13r;Es ist ain styne gefallen;;;OT;;;;germantab
-12;;14r;Dre prasser dre prassek (???);;;OT;;;;germantab
-13;;14v;Wach auff mein sthone(?);;;OT;;;;germantab
-14;;15r;Schreyber in karb - Pars extra;;ff. 15v-21v empty or text;OT;ConcR3215;;;germantab
-15;;22r;(Och madonna katherina?) hast du mich genommen;;;OT;ConcR2013;;;germantab
-16;;23r;Saphica;;;OT;ConcR2878;;;germantab
-17;;23v;Nach willen deinnen / primi:;;ff. 24r empty;OT;ConcR2077;;;germantab
-18;;24v;Ode prima Mecona attauis(?);;;OT;;;;germantab
-19;;25r;Ode 2. Dam sate terre;;;OT;;;;germantab
-20;;25v;Ode 3. Sir te Aina potens Cypri;;;OT;;;;germantab
-21;;26r;Ode 5 Quis multa grasilis;;;OT;;;;germantab
-22;;27r;Ode 6 Seriberis vario;;;OT;;;;germantab
-23;;28r;Zart schönste frauw;;;OT;ConcR2108;;;germantab
-24;;28v;Elslein liebes Elslein mein;;ff.30v-31r  empty;OT;;;;germantab
+;;;;;Inzipits teilweise rekonstruiert (Rainer Boldhaus);Incipits partly reconstructed by Rainer Boldhaus;;;;
+1;;3r;[Madonna Katharina / Hastu mich genommen];;;OT;ConcR2013;C;"[a,,,d1] [a,,,d] [a,,,d] [a,,,d] | [,d,a1] [,d,a] [,d,a] [,d,a] | \
+[a,,,d1] [a,,,d] [,d,a] [,b,,a] | [,a,,,a1] [,a,,,a] [,a,,,a] [,a,,,a] | \
+[a,,,d1] [a,,,d] [a,,,d] [a,,,d] |";germantab
+2;;4r;Wann ich gedennckh;;;OT;ConcR3221;C;"[,,d,a2] ,,d1 ,,,,a | [,b,,a2] [,ab] | [a,,,d2] [,d,a] | \
+[a,,d2] ab/ c [d,,c2] | [c,,a2] [a,,,d] | [,ab2] [,b,,a] | \
+[,ab2] [a,,,d] | [a,,,d2] ,d/ ,b [,ab2] |";germantab
+3;;5r;Es flog ain klaines Waldtfoegelein;;Die Brünnlein die da fließen (Senfl);OT;ConcR2011;C;",d/ ,c ,a ,c [,d,a2] | [a,,,d2] [,d,a] | \
+[,d,a2] [,b,,a] | [,d,a4] | [a,,,d2] [b,,a] | \
+[d,,c2] a | [a,,,d2] [,d,a4] :||: [,d,a/] [b,,a] b a [b,,a2] |";germantab
+4;;5v;Madunna Katherina;;;OT;ConcR2013;C;",,d/ ,,c ,,a ,,c [,,d,a1] [a,,,d2] | [a,,,d2] [a,,,d] | \
+[a,,,d2] [,d,a] | ,d/ ,c ,a ,c [,d,a2] | \
+[,d,a2] [a,,,d] | [a,,,d2] [,d,a] |";germantab
+5;;7r;Marusca[t] Tanntz;;;OT;ConcR2195;C;",d/ ,c ,a ,c | [,d,a2] ,d1 ,,,a | [,d,a2] [,d,a] | \
+[,,d,a2] ,,d1 ,,,,a | H[,,d,a] | [,,b,,d2] [,,b,,d] | \
+[,c,,a2] ,c/ ,d a ,c |";germantab
+6;;8r;Zeiner dantz;;;OT;ConcR2109;C;"f/ d c a | [f,,,a2] f1 ,,,,a | [f,,,a2] [f,,,a] | \
+[f,,,a2] f/ d c a | [c,,a2] c1 [,,,a] | [d,,c2] [d,,c] |";germantab
+7;;9r;Woll auff gesellen von hinnen;;;OT;ConcR2528;C;",d1 ,c ,a ,c [,d,a2] | [f,,,a] [c,,a2] | [,d,a] \
+[a,,,d] | [c,,a4] | [d,,c2] [f,,,a] | \
+d/ c d c a ,d [a,,c2] | [,d,a4] :||:";germantab
+8;;10r;Visin, Visin, Visin;;;OT;;C;",d/ ,c ,a ,c [,d,a2] | [a,,,d2] [,d,a] | [a,,,d2] [a,,,d] | \
+[c,,a2] a/ c d c | a/ c [,d,a4] || [,d,a2] [d,,c] |";germantab
+9;;11r;Wer den Wein nit trinkhen mag;;;OT;;none;",d/ ,c ,a ,c [,d,a2] | [,d,a2] [a,,,d] | [a,,,d2] [c,,a] | \
+[c,,a] [c,,a4] | [d,,c2] [f,,,a] | [f,,,a2] [d,,c] | \
+[d,,c2] [c,,a] |";germantab
+10;;12r;Mein Hertz das ist bekhummert sehr;;;OT;ConcR3220;C;",,d/ ,,c ,,a ,,c [,,d,a1] ,,d | ,,,,a1 [,bd2] [,d,a] | \
+[,a,c2] [,,dd] | [a,,c2] [a,,,d] | ,,,,d/ ,,,a ,,,c ,,,d [,db2]";germantab
+11;;13r;Es ist ein Schne gefallen;;;OT;ConcR3289;C;",d/ ,c ,a ,c [,d,a1] [,d,a] | c/ a c d [f,,,a1] [f,,,a] | \
+[a,,,d1] c/ d f d c a |";germantab
+12;;14r;Dre Prasser (?);;;OT;;C;",d/ ,c ,a ,c [,d,a2] | [,d,a2] [a,,,d] | \
+[c,,a2] [d,,c] | [a,,,d2] [d,,c] | \
+[c,,a2] [,d,a] | ,c/ ,d a ,c [,d,a4] ||";germantab
+13;;14v;Wach auff mein Schöne;;;OT;;C;",d/ ,c ,a ,c [,d,a2] | [,d,a2] [c,,a] | ,,,,d/ a [,d,a2] [,d,a] | \
+[a,,,d2] [c,,a4] | [d,,c2] [f,,,a] | [f,,,a2] [c,,a] | \
+[d,,c2] [a,,,d] |";germantab
+14;;15r;Der Schreyber in karb;;ff. 15v-21v empty or text;OT;ConcR3215;3;"f/ d c a [f,,,a2] | [h,,a2] [f,,,a] | [c,,a2] c/ a [,d,a2] | \
+[f,,,a2] [f,,,a] | [d,,c2] [f,,,a4] :||: \
+[f,,,a2] [d,,c] | [d,,c] [c,,a] |";germantab
+15;;22r;(Och madonna katherina) hast du mich genommen;;;OT;ConcR2013;3;"[a,,c2] [a,,c1] | [a,,c2] [a,,c2] | [,db2] [,db1] | \
+[,db2] [,db1] | [a,,,d2] [a,,,d1] | [,db1] [,bd2] | \
+[,a,c2] [,a,c1] | [,a,c2] [,a,c1] | [a,,,d2] [a,,,d1] | \
+[a,,,d2] [a,,,d1] |";germantab
+16;;23r;Saphica;;;OT;ConcR2878;none;",,b6 | [,,b,d2] [,,b,d4] | [,b,,d4] | [,b,,d4] | [,ab2] | \
+[,ab2] [,,da4] | [,,da2] | [,,bc4] | [,,bc2] | [,d,a4] | \
+[,d,a2] [,d,a4] | [a,d4] | [,d,a4] | [,a,c2] [,a,c] |";germantab
+17;;23v;Nach willen dein / primi:;;Fragment - f. 24r empty;OT;ConcR2077;C;",,b2 ,,b | [,ab2] [,a,c1] ,b | [,da3/2] ,d/ a2 | \
+[c,d1] [d,b] | [,d,a2] [a,d1] ||";germantab
+18;;24v;Ode prima Maeconas attavis;Petrus Tritonius;;OT;ConcR3131;C;"[,d,a2] [,d,a] | [,da,c2] [,db,c1] [,db,c] | [,cd,a2] [c,da1] | \
+[a,bc1] [,da,c] [a,bc2] | [c,a,c1] [c,a,c3] | \
+[a,d,a2] [a,d,a] | [c,da2] [,da,c1] [,daa1] | \
+[,db,c2] [,cd,a] |";germantab
+19;;25r;Ode 2. Iam sate terre;Petrus Tritonius;;OT;ConcR2878;C;"[,d,a2] [,a,a,d1] | [,a,a,d2] [,ab,,d] | [,ab,,d2] [,daa1] [,daa] | \
+[,c,ca2] [,c,ca1] [,d,ac2] | [,a,a,d4] | [a,d,a2] [a,d,a1] | \
+[a,d,a2] [da,c] | [a,d,a2] [,da,c1] [,da,c] |";germantab
+20;;25v;Ode 3. Sic te Diva potens Cypri;Petrus Tritonius;;OT;ConcR3650;C;"[a,,c,a2] [a,,c,a] | [a,bc2] [,da,c1] [a,,cd] | \
+[,,a,c1] ,e | [a,,c,a1] [a,,c,a4] | [a,,ca2] [a,,ca] | \
+[d,,c,a2] [d,,,ca1] [d,,,d] | [c,,a2] [a,,ca] | \
+[,d,,c1] [,a,a,d] [,,,,df] ,,d |";germantab
+21;;26r;Ode 5. Quis multa gracilis (recte: Ode 4 Solvitur acris hyems);Petrus Tritonius;;OT;ConcR3651;C;"[f,da2] [c,da1] [c,da] | [cd,a2] [da,c1] [da,c] | \
+[a,d,a2] [,cd,a] | [,cd,a2] [,c,ca1] [,ca,a] | \
+[d,b,,d2] [c,da1] | [d,bc2] [c,de1] | \
+[,a,c1] e | [f,d,a4] |";germantab
+22;;27v;Ode 6. Scriberis vario;Petrus Tritonius;;OT;ConcR3652;C;"[,d,a2] [,d,a] | [,da,c2] [,db,c1] [,db,c] | [,cd,a2] [c,da] | \
+[a,bc1] [,da,c] [,abc2] | [c,a,c1] [c,a,c3] | \
+[a,d,a2] [a,d,a] | [c,da2] [,daa1] [,da,c] | \
+[,db,c2] [,cd,a] |";germantab
+23;;28r;Zart schönste frauw;;Ode 5 Quis multa gracilisFoglio B2;OT;ConcR3653;C;"[,d,a2] [,d,a] | [,da,c2] [,db,c1] [,db,c] | [,d,a2] [c,da] | \
+[a,bc1] [,da,c] [a,bc] [c,a,c2] | [c,a,c4] | [a,d,a2] [a,d,a] | \
+[c,da2] [,daa1] [,da,c] | [,db,c2] [,cd,a] |";germantab
+24;;28v;Elslein liebes Elslein mein;;ff.30v-31r  empty;OT;ConcR2002;C;"[a,,c2] [a,,c] | [,db2] [,db1] ,,a | [a,,c1] ,,,c/ ,,a [,db1] [,bd] | \
+,d/ ,b ,a ,,d [,a,c1] [,a,c] | [,,d,a2] z1 [,bd] |";germantab

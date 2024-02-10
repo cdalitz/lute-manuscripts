@@ -1,67 +1,67 @@
 PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
-1;;2r;(ending of piece / exercise?);;;OT;;none;,,,a/ c c c c1 ,,,a/ d d d d1 ,,,a/ c c a ,d1 ,,,a a ,d |;italian7tab
-2;;2v;Occhi leggiadri carj;;;OT;;C;"z/ [ab,,d3/4] [ab,,d/4] [ab,,d/] [,dff] [aa] [,bd1] \
+1;;1r;(ending of piece / exercise?);;;OT;;none;,,,a/ c c c c1 ,,,a/ d d d d1 ,,,a/ c c a ,d1 ,,,a a ,d |;italian7tab
+2;;1v;Occhi leggiadri carj;;;OT;;C;"z/ [ab,,d3/4] [ab,,d/4] [ab,,d/] [,dff] [aa] [,bd1] \
 [,acc/] [,bd,a3/4] [,bd,a/4] [,acc/] [,bdd] \
 [,dda] [,a,Xc] ,,c [,,d,a1]";italian7tab
-3;;3r;Passe'mezzo;;;OT;;C;"[aabXc,a1] ,,,,,a/ ,,d | [aabXc/] ,,,,,a [,,d,,Xc] ,,,b | \
+3;;2r;Passe'mezzo;;;OT;;C;"[aabXc,a1] ,,,,,a/ ,,d | [aabXc/] ,,,,,a [,,d,,Xc] ,,,b | \
 [aabXc,a/] ,,d ,,b ,,a | [aabc,a/] ,,,,a ,,,,c ,,,,e | \
 [cdXda/] d c a |";italian7tab
-4;;3v;Romanesca;;first bar illeggible;OT;;C;"[bb,d3/2] [bb/] ,,d1 | [bb,d1] [bb,d] ,,d | [ab,,Xd3/2] [ab/] ,,,c1 | \
+4;;2v;Romanesca;;first bar illeggible;OT;;C;"[bb,d3/2] [bb/] ,,d1 | [bb,d1] [bb,d] ,,d | [ab,,Xd3/2] [ab/] ,,,c1 | \
 [ab,,d1] [ab,,d] ,,,c | [,dda3/2] a/ [b,,a1] | \
 [a,,,d1] [,da,c] ,,,,,d |";italian7tab
-5;;4r;(Pass'e mezzo?);;;OT;ConcR3639;C;"[abd,a1] ,,d/ ,a ,b ,d a ,d | [abd,a1] ,,d/ d c a ,d ,b | \
+5;;3r;(Pass'e mezzo?);;;OT;ConcR3639;C;"[abd,a1] ,,d/ ,a ,b ,d a ,d | [abd,a1] ,,d/ d c a ,d ,b | \
 [,ab,,Xd1] ,,,a/ ,,a ,,b ,,d ,a ,,d |";italian7tab
-6;;4v;(Gagliarda?);;;OT;;3;"[ccda1] | [ccda3/2] [ca/] ,,d1 | [,da,c1] [ab,,d] [cdda] | \
+6;;3v;(Gagliarda?);;;OT;;3;"[ccda1] | [ccda3/2] [ca/] ,,d1 | [,da,c1] [ab,,d] [cdda] | \
 [dab,,d3/2] [dab/] ,,,a1 | [dab,,d1] ,,,a [abb,d] | \
 [ab,,d3/2] [ab/] ,,,c1 |";italian7tab
-7;;5r;(Pass'e mezzo?);;first bar illeggible;OT;;C;"[abd,a1] ,b/ ,a [,bd,a] ,a ,b ,d | [abd,a1] ,,d/ ,,c ,,d ,a ,b ,d | \
+7;;4r;(Pass'e mezzo?);;first bar illeggible;OT;;C;"[abd,a1] ,b/ ,a [,bd,a] ,a ,b ,d | [abd,a1] ,,d/ ,,c ,,d ,a ,b ,d | \
 [abd,a/] ,a ,,d ,a ,b ,d a c |";italian7tab
-8;;6r;Romanesca;;;OT;;3;"[ab,,Xd3/2] [ab/] ,,,c1 | [ab,,d1] ,d/ ,b ,a ,,d | \
+8;;5r;Romanesca;;;OT;;3;"[ab,,Xd3/2] [ab/] ,,,c1 | [ab,,d1] ,d/ ,b ,a ,,d | \
 [,ab,,Xd3/2] [,ab/] ,,,a1 | [,ab,,d1] a/ ,d ,b ,a | \
 [,bd,a3/2] ,a/ ,b ,d |";italian7tab
-9;;6v;(fragment);;;OT;;none;"z/ [,bdd/] [,bdd] [ab,,d] | [,dff/] [bd,a] [add] ,c | \
+9;;5v;(fragment);;;OT;;none;"z/ [,bdd/] [,bdd] [ab,,d] | [,dff/] [bd,a] [add] ,c | \
 [,dda/] [,bdd3/4] [,bdd/4] [,bbc/] | [,bdXd/] [,bd] [,dff] ,,f |";italian7tab
-10;;7r;Contrappasso;;;OT;;3;"z1 [acXd,a/] ,d | [acd,a1] [acd] [aac,,a] | \
+10;;6r;Contrappasso;;;OT;;3;"z1 [acXd,a/] ,d | [acd,a1] [acd] [aac,,a] | \
 [acd,a1] ,,,c a/ ,d | [acd,a1] ,a/ ,,d [aac,,a1] | \
 [acd,a1] ,,,c ||";italian7tab
-11;;7v;Pass'e mezzo Prima;;;OT;;C;"[aaXbXc/] ,,,,,a [aab] c | [da,Xc/] ,,,,,a [da] c | \
+11;;6v;Pass'e mezzo Prima;;;OT;;C;"[aaXbXc/] ,,,,,a [aab] c | [da,Xc/] ,,,,,a [da] c | \
 [da,Xc/] ,,,,,a [da] c | [aabXc/] d/4 c d a c d |";italian7tab
-12;;8v;Spagna Di Franc° Milanese a due Liuti;;first lute only - f. 9v empty;OT;ConcR1411;C;",,,c3/4 ,,a/4 | ,,b/4 ,,d ,a ,c | ,e/4 a c a | \
+12;;7v;Spagna Di Franc° Milanese a due Liuti;;first lute only - f. 9v empty;OT;ConcR1411;C;",,,c3/4 ,,a/4 | ,,b/4 ,,d ,a ,c | ,e/4 a c a | \
 ,e/4 ,c a ,e | a/4 c d c | a/4 c d f |";italian7tab
-13;;10r;gagliarda;;;OT;;3;"[acd,a1] X,,,c/ ,d [acd,a1] | [,ab,,d1] X[,,d,,Xc] ,,,a | \
+13;;9r;gagliarda;;;OT;;3;"[acd,a1] X,,,c/ ,d [acd,a1] | [,ab,,d1] X[,,d,,Xc] ,,,a | \
 [aac,,a3/2] [aac/] ,,,c1 | [aac,,a1] ,,,c/ [aac] [aac,,a1] | \
 [acd,a1] ,,,c/ ,d [acd,a1] |";italian7tab
-14;;10v;Pass e mezzo Secondo;;;OT;;C;",a/ ,,d ,,b ,,a | [aabXc/] a a c | X[da,,,a/] ,,,c ,,,c ,,a | \
+14;;9v;Pass e mezzo Secondo;;;OT;;C;",a/ ,,d ,,b ,,a | [aabXc/] a a c | X[da,,,a/] ,,,c ,,,c ,,a | \
 [aaXb,,a/] d a d | [cdda/] f c f |";italian7tab
-15;;11v;uola uola pensier;;;OT;;C;"[aacc2] | [aac,,a1] [aacc/] [acd,a] | \
+15;;10v;uola uola pensier;;;OT;;C;"[aacc2] | [aac,,a1] [aacc/] [acd,a] | \
 z/ [ac,,e/] [,ea,c1] | [,e3a/] ,,,,c ,,,,e ,,,b | \
 [aacc1] [aac,,a] | a/ ,,,c ,,,e ,,c | \
 [acd1] [acd/] [aac] |";italian7tab
-16;;12v;Ricercha Franc° Milanese;;;OT;ConcR1948;C;"[a,,,,a2] | a1 ,d | X,b1 X,,d | ,b2 ,d | \
+16;;11v;Ricercha Franc° Milanese;;;OT;ConcR1948;C;"[a,,,,a2] | a1 ,d | X,b1 X,,d | ,b2 ,d | \
 [,abc2] | [,abc1] ,,,a | [a,Xd,d1] ,,,,a | \
 [a,Xd,d1] ,,,a | [a,,Xc1] ,,,,,a/ ,d | ,b/ ,a [,b,c1] |";italian7tab
-17;;13v;Saltarello di gagliarda;;;OT;ConcR2332;3;"[abb,d1] | [abb,d3/2] [abb/] [bbd,,b1] | [bbd1] [dab,,d] [dab] | \
+17;;12v;Saltarello di gagliarda;;;OT;ConcR2332;3;"[abb,d1] | [abb,d3/2] [abb/] [bbd,,b1] | [bbd1] [dab,,d] [dab] | \
 [abb,Xd1] ,,,c/ ,a ,b ,d | [abb,d1] ,,,c [dbb,d] | \
 [dbb,Xd1] d/ b [abb,d1] |";italian7tab
-18;;14v;sans titre;;;OT;ConcR1433;C;"h2 | h1 d | f1 h | a1 d | ,a1 c/ a | [ca1] [a,b] | \
+18;;13v;sans titre;;;OT;ConcR1433;C;"h2 | h1 d | f1 h | a1 d | ,a1 c/ a | [ca1] [a,b] | \
 ,,d1 [,ef] | [a,,c1] [,ab] | [,d,,c1] [,,a/] [,,,c] |";italian7tab
-19;;15v;gagliarda;;cf. ConcR2424;OT;;3;"[abd,a1] [abd] c | [da,,,a1] a/ d [cdda1] | \
+19;;14v;gagliarda;;cf. ConcR2424;OT;;3;"[abd,a1] [abd] c | [da,,,a1] a/ d [cdda1] | \
 [abb,d1] [,db,c] [,ba,a] | [aabc,1] ,,,c/ a [,db,c1] | \
 [,bd,a1] [,ab,,d] [,,d,,c] |";italian7tab
-20;;16v;G(i)unto m'ha (a)mor;;;OT;ConcR1947;C;"[,acc2] | [,bdca1] [,,dcd] | [,aa,Xc1] ,,,b | \
+20;;15v;G(i)unto m'ha (a)mor;;;OT;ConcR1947;C;"[,acc2] | [,bdca1] [,,dcd] | [,aa,Xc1] ,,,b | \
 [,acXc/] ,,,,,a [,cdca] [,cdca] | \
 [,dff,d/] [,dff,d] [a,bcd] ,,d | \
 [,efec/] [,efec] [aacc] [aacc] | \
 [cdda1] [,dff,d/] ,,,f |";italian7tab
-21;;17v;Barriera;;;OT;ConcR1092;C;"[cdda/] c c c | [cdda1] f | [cdda2] | ,d1 ,,d | \
+21;;16v;Barriera;;;OT;ConcR1092;C;"[cdda/] c c c | [cdda1] f | [cdda2] | ,d1 ,,d | \
 [cdda/] c c c | [cdda1] f | [cdda2] | ,d1 ,,d |";italian7tab
-22;;18v;Del crud'amor;;;OT;;C;"z/ [,abc/] [,abc/4] [,bdd] [,dff/] [,bdd] [,abc1] [,,def/] [,abc] \
+22;;17v;Del crud'amor;;;OT;;C;"z/ [,abc/] [,abc/4] [,bdd] [,dff/] [,bdd] [,abc1] [,,def/] [,abc] \
 [,,bcd1] [,,bcd/] [,,bcd1] [,,bc/] X[,,dfXf] ,,,e [,,b,,d1] ||";italian7tab
-23;;19v;Gagliarda la Rocch'el Fuso y° di io di Maggio / 1582;;;OT;ConcR1384;3;"[cdda2] [da,c1] | [cdda3/2] a/ [,dda1] | \
+23;;18v;Gagliarda la Rocch'el Fuso y° di io di Maggio / 1582;;;OT;ConcR1384;3;"[cdda2] [da,c1] | [cdda3/2] a/ [,dda1] | \
 a/ c [da,c1] [acd,a] | [cdda3/2] [cd/] ,,d1 | \
 [fdaa1] [fda] [da,c] | [cdda/] a ,d ,b ,a ,,d |";italian7tab
-24;;20v;Anchor che col partir di Cipriano rore a 4;;ff. 21v-22r empty;OT;ConcR492;C;",,,c1 a | X,,b ,d/ ,,a | X,,b/ ,a [,bd1] | [,dff1] [a,,,,a/] ,a | \
+24;;19v;Anchor che col partir di Cipriano rore a 4;;ff. 21v-22r empty;OT;ConcR492;C;",,,c1 a | X,,b ,d/ ,,a | X,,b/ ,a [,bd1] | [,dff1] [a,,,,a/] ,a | \
 [,,a,Xc1] ,d/ [,,b,c] | [,,,cd1] [,,aa] | [,,bXc1] ,a |";italian7tab
-25;;22v;Recercha di Pierino dellj Organi;;ff. 24v-25r empty;OT;ConcR1360;C;"[a,dca2] | [a,dca2] | [,a,c,e2] | [ab,,a3/2] ,a/ | \
+25;;21v;Recercha di Pierino dellj Organi;;ff. 24v-25r empty;OT;ConcR1360;C;"[a,dca2] | [a,dca2] | [,a,c,e2] | [ab,,a3/2] ,a/ | \
 X[c,da/] ,,c ,,d1 | [a,,,Xda1] ,,c/ ,,a | [,,c,ca1] a | \
 [,,dXca/] ,d ,b ,a | [,bd,a1] a/ ,,b |";italian7tab

@@ -1,73 +1,100 @@
-PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances
-1a;A dur;PG1a;Adagio;Weiss;;;
-_1b;A dur;PG1b;Fuga;Weiss;;;Conc_660
-2a;A dur;PG2a;Capriccio;Weiss;;;
-_2b;A dur;PG2b;Fuga;Weiss;;;Conc_661
-3a;a moll;PG3a;Prelude;Weiss;;;Conc_662
-_3b;a moll;PG3b;Fuga;Weiss;;;
-4a;C dur;PG4a;Largo;Weiss;;;Conc_663
-_4b;C dur;PG4b;Fuga;Weiss;;;Conc_4074
-5a;C dur;PG5a;Staccato;Weiss;;;
-_5b;C dur;PG5b;Fuga;Weiss;;;
-6a;c moll;PG6a;Largo;Weiss;;;Conc_664
-_6b;c moll;PG6b;Fuga;Weiss;;;Conc_665
-7;A dur;1;Allemande;Weiss;;;Conc_627
-8;A dur;2;Prelude;Weiss;;;Conc_628
-9;A dur;3;Allemande;Weiss;;;Conc_629
-10;A dur;4;Entrée;Weiss;;;Conc_630
-11;A dur;5;Fantasie;;;;
-12;B dur;6;Fantasie;Baron / Weiss;;;Conc_631
-13;B dur;7;Allemande;;;;
-14;B dur;8;Allemande;Lauffensteiner / Weiss;;;Conc_632
-15;B dur;9;Allemande;Weiss;;;Conc_633
-16;B dur;10;Allemande;Weiss;;;Conc_634
-17;B dur;11;Fantasie seul;;;;
-18;C dur;12;Allemande;Weiss;;;Conc_635
-19;C dur;13;Allemande;Weiss;same beginning as Conc_637;;Conc_636
-20;C dur;14;Fantasie;Weiss;;;Conc_638
-21;C dur;15;Fantasie;;;;
-22;C dur;16;Introduzione;;;;
-23;C dur;17;Fuga seul;;;;
-24;c moll;18;Preludio nel quale sono contenut tutti i Tuoni musicali;;;;
-25;c moll;19;Allemande;Weiss;;;Conc_639
-26;c moll;20;Allemande;Weiss;;;Conc_640
-27;c moll;21;Allemande;;;;
-28;c moll;22;Allemande;;;;
-29;D dur;23;Allemande;Weiss;;;Conc_641
-30;D dur;24;Prelude;;;;
-31;D dur;25;Allemande;Weiss;;;Conc_642
-32;D dur;26;Prelude;;;;
-33;D dur;27;Prelude;;;;
-34;D dur;28;Fantasie con Fuga;;;;
-35;D dur;29;Fuga seul;;;;
-36;d moll;30;Allemande;;;;
-37;d moll;31;Prelude;Weiss;;;Conc_643
-38;d moll;32;Fantasie;Weiss;;;Conc_644
-39;d moll;33;Allemande;;;;
-40;d moll;34;Prelude;;;;
-41;d moll;35;Intrada;;;;
-42;D# dur;36;Allemande;Weiss;;;Conc_645
-43;F dur;37;Fantasie;;;;
-44;F dur;38;Prelude;Weiss;;;Conc_646
-45;F dur;39;Allemande;Weiss;;;Conc_647
-46;F dur;40;Allemande;Weiss;;;Conc_648
-47;F dur;41;Prelude;;;;
-48;F dur;42;Largo;Weiss;;;Conc_649
-49;F dur;43;Prelude;;;;
-50;F dur;44;Entrée;Weiss;;;Conc_650
-51;F dur;45;Vivace;;;;
-52;F dur;46;Moderato;;;;
-53;f moll;47;Allemande;Weiss;;;Conc_651
-54;f moll;48;Allemande;Weiss;;;Conc_652
-55;f# moll;49;Allemande;Weiss;;;Conc_653
-56;G dur;50;Prelude;Weiss;;;Conc_654
-57;G dur;51;Fantasie;Weiss;;;Conc_655
-58;G dur;52;Allemande;Weiss;;;Conc_656
-59;G dur;53;Adagio;Weiss;;;Conc_657
-60;G dur;54;Allemande;;;;
-61;G dur;55;Largo;Weiss;;;Conc_658
-62;G dur;56;Allemande;Weiss;;;Conc_1807
-63;g moll;57;Allemande;;;;
-64;g moll;58;Lentement;Lauffensteiner / Weiss;;;Conc_659
-65;g moll;59;Fantasie;;;;
-66;g moll;60;Prelude;;;;
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1a;A dur;PG1a;Adagio;Weiss;;;;C;[,,aeca3/4] ,,,,c/4 ,,e ,a (,,c ,,a) ,,c/ ,,,,c ,c/4 (,,,d ,,,b) ,c
+_1b;A dur;PG1b;Fuga;Weiss;;;Conc_660;3/4;z1 ,c1 ,c | ,,e1 (,e/ ,c) ,a ,,e | ,,c1 (,c/ ,a) ,,e ,,c
+2a;A dur;PG2a;Capriccio;Weiss;;;;C;"[,,ae,a1] {6} z/8 ,,,,c/8 ,,,,e ,,,d ,,a ,,,d ,,a ,,c ,,e ,,,d ,,c ,,c
+"
+_2b;A dur;PG2b;Fuga;Weiss;;;Conc_661;C;,,a1 | ,,e1 ,,a ,,e ,a | ,c1 ,,c ,c ,,,,c | [,c,d1] ,,,,c [,c,d] ,,,e
+3a;a moll;PG3a;Prelude;Weiss;;;Conc_662;C;,,,,,a/4 ,,,,c ,,,,e ,,,d ,,a ,,,,c ,,,,e ,,,d ,,a ,,,d ,,a ,,c ,,d ,,,d ,,a ,,c
+_3b;a moll;PG3b;Fuga;Weiss;;;;2/4;,c/ | e/ (,,a/4 ,,c) ,,d/ ,a | ,c/ ,,,,c ,,,,c (3,a/4 ,c ,d)
+4a;C dur;PG4a;Largo;Weiss;;;Conc_663;C;,f/ | [f,hh{4}3/2] 'g/4 ,h ,f3/4 ,f/4 h3/4 [,hh/4] |
+_4b;C dur;PG4b;Fuga;Weiss;;;Conc_4074;3/4;z1 ,,d1 ,c | ,a1 [c,,c] ,,c | [c,a1] [aa/] ,c [a,c] ,a |
+5a;C dur;PG5a;Staccato;Weiss;;;;C;"[,,,ccd{4}3/4] [,,,ccd{4}/4] [,,,ccd{4}3/4] [,,,ccd{4}/4] \
+[,,,ed{4}3/4] [,,,ed{4}/4] [,,,cd{4}3/4] [,,,cd{4}/4] | \
+[,,,ccd{4}2] [,,,bad{4}3/4] [,,,bad{4}/4] [,,aba{4}3/4] [,,aba{4}/4] |"
+_5b;C dur;PG5b;Fuga;Weiss;;;;C;,,d/ ,,d ,,d ,,d/4 ,a ,c/ ,c ,c ,c/4 a
+6a;c moll;PG6a;Largo;Weiss;;;Conc_664;C;",,d/ | [,,dcb{4}3/2] ,,d/8 ,a ,b a c3/4 ,d/4 ',b/ ,a/4 ,,d | \
+[ddd{4}1]"
+_6b;c moll;PG6b;Fuga;Weiss;;;Conc_665;3/4;z1 ,,d1 ,,d | c1 c/ ,d (,b ,a) | ,b1
+7;A dur;1;Allemande;Weiss;;;Conc_627;C;e/ | [ece,,a3/2] e/ ,c ,c ,e ,,e | [,ac,,a1]
+8;A dur;2;Prelude;Weiss;;;Conc_628;C;[ece,,a1] [eef,,a] [dcf,,a] [ece,,a] | y y y
+9;A dur;3;Allemande;Weiss;;;Conc_629;C;",,a/ | [,,ae,a1] (,,e/ ,,c) '[,,ae{a}3/2] ,,a/ | \
+[,,aa{a}/] ,c (,,e ,,c) '[,,ae{}1] |"
+10;A dur;4;Entrée;Weiss;;;Conc_630;C;",,a/ | [,,ae,a3/4] ,c/4 ,,e3/4 ,,,d/4 [,,ae3/4] ,,,,c/4 ,,,,,e3/4 {a}/4 | \
+{b}1"
+11;A dur;5;Fantasie;;;;;C;[,,,,,a{6}/] ,,,,,e ,,,,c ,,,d [,,a{6}] ,,,,c ,,c/ (,,c/4 ,,a) ,c
+12;B dur;6;Fantasie;Baron / Weiss;;;Conc_631;C;"[,,b,,d/] ,,,,a ,,,a ,,b ,a a ,,b ,a | \
+[,,d,,a/] ,,,a ,,a ,,d"
+13;B dur;7;Allemande;;;;;C;,,b/ | [,,baa{d}1] [,,baa/4] f 'e ,f a/ ',b/4 ,a [,bd,,a/] {,a}/4 a
+14;B dur;8;Allemande;Lauffensteiner / Weiss;;;Conc_632;C;,,b/4 | [,,baa{5}3/2] ,,,a/4 ,,,c ,,a [,,b{d}/] ,,,a ,,,,a ,,,a ,,b ,a
+15;B dur;9;Allemande;Weiss;;;Conc_633;C;",,b/ | [,,baa{5}3/2] ,,d/4 ,a ,b a/ ,f/4 e Vf3/4 ,a/4 | \
+[,bdc{5}1]"
+16;B dur;10;Allemande;Weiss;;;Conc_634;C;[aab{d}/] ',a/4 ,,d ,,b a c ,a [,b,,,d/] ,,d/4 {d} ,,,,,a ,,d
+17;B dur;11;Fantasie seul;;;;;C;{d}/4 ,,,,a ,,,a ,,b ,a a ,,b ,a ,,,a ,,b ,,,,a ,,,a {5}
+18;C dur;12;Allemande;Weiss;;;Conc_635;C;,,d/ | [,,dcc{4}3/4] ,c/4 c3/4 [,,c{,,,a}/] [,,dc{,,a}/] (,,c/4 ,,a) ,,,c/ [,,d{,,a}] |
+19;C dur;13;Allemande;Weiss;same beginning as Conc_637;;Conc_636;C;"(c/ a) | [,c{4}/] a (,c ,a) [,,d{,,a}] ,c '[,a{,a}] ,,d | \
+[,,c{a}/]"
+20;C dur;14;Fantasie;Weiss;;;Conc_638;C;"[,,dcc{4}3/2] ,,d/ [,,dcc/] ,,d ,a ,c | \
+[aadaa{4}3/2] a/ [aabaa{5}/] e [c,c{a}] a |"
+21;C dur;15;Fantasie;;;;;C;{4}/ ,,,,,d ,,,,c ,,,c ,,d/4 ,c ,,d ,c ,,,c ,,d ,,,c ,,d
+22;C dur;16;Introduzione;;;;;C;",,,c/ | [,,dcc{4}3/2] ,a/ ,c3/4 ,c/4 ',a3/4 ,,d/4 | \
+[c{5}3/2] ,,,c/ ,,,c3/4 ,,,c/4"
+23;C dur;17;Fuga seul;;;;;C;{4}1 ,,d ,c ,,d | ,a1 ,,,c c2 | 'c2 'a |
+24;c moll;18;Preludio nel quale sono contenut tutti i Tuoni musicali;;;;;C;[,,dcb{4}1] {4}/8 ,,,,b ,,,a ,,,c ,,a ,,c ,,d ,a ,b a ,f
+25;c moll;19;Allemande;Weiss;;;Conc_639;C;",,,c/ | '[,,,cb{4}3/2] ,,,c/ [,,,dd1] ',,,c/ ,,,a | \
+[,,,cd{4}1] ,,,,,d/ ,,,,b ,,,c1 |"
+26;c moll;20;Allemande;Weiss;;;Conc_640;C;"h/ | [hfg{4}1] ,,,h/ ,,f ,,g h ,,i k | \
+'[g{a}1] (,,,,f/ ,,,,h)"
+27;c moll;21;Allemande;;;;;C;",,d/ | [,,dcb{4}3/2] ,,,c/ ,,d ,,,c ,b ,,d | \
+[ad,,c3/2] ,,,c/ ,a ,,c"
+28;c moll;22;Allemande;;;;;C;,,d/ | [,,dcb{4}3/4] {,,,a}/4 {,,a}/4 ,,,c ,,d ,b [,a{,a}/4] ,,d ,a a
+29;D dur;23;Allemande;Weiss;;;Conc_641;C;,a/ | [,aaba{,,a}1] [c{4}/] ,,a/4,,e [,af{5}/] ,,,,,a/4 {a} {,a}/4 ,,a ,,c ,,e |
+30;D dur;24;Prelude;;;;;C;[eef{,,,a}3/2] e/ ,e ,,f g g i k [i{4}] k m
+31;D dur;25;Allemande;Weiss;;;Conc_642;C;",a/ | [,aab{,,,a}3/4] ,,a/4 ,e3/4 ',e/4 [,ca{4}3/4] ,,a/4 [cc3/4] c/4 | \
+[,e{,,,a}/]"
+32;D dur;26;Prelude;;;;;C;{,,,a}/ ,a ,,a ,a ,,,b ,a ,,a ,a {,,,a}/4 ,a ,,a ,a
+33;D dur;27;Prelude;;;;;C;"[,aab{,,,a}1] [,,aba{,,,a}] [,,cca{,,,a}] [,,ecc{,,,a}] \
+[cce{,,,a}] [baaba{,,,a}] y"
+34;D dur;28;Fantasie con Fuga;;;;;C;",a/ | [,aaba{,,,a}3/4] ,a/4 [,aaba{,,,a}3/4] ,a/4 [,acca{,,,a}3/4] ,a/4 \
+y y"
+35;D dur;29;Fuga seul;;;;;C;"{,,,a}/ ,a [,e,,a] ,a [,c,,,c/] ,,a e ,,,,,e | \
+,,,,,c/ ,a  [ca,,,c]"
+36;d moll;30;Allemande;;;;;C;,a/ | [,aab{,,,a}] z/4 (,,a/4 ,,c ,,e) (,a ,c) a ,a (e a)
+37;d moll;31;Prelude;Weiss;;;Conc_643;C;{,,,a}/4 ,d e ,d ,,,,a ,d e ,d {,,,a} ,f f ,f ,,,,a
+38;d moll;32;Fantasie;Weiss;;;Conc_644;C;[aaaa{,,,a}3/2] a/ ,c ,c a c | [ed{,,,a}3/2] e/ (f e) ,f a
+39;d moll;33;Allemande;;;;;C;",a/ | [,aaa{,,,a}1] ,,,,a/ ,,,,c [,aa,d1] ',,,,c/ ,,,,a | \
+[,,ec{,,a}1] ,,,,c/ ,,,a"
+40;d moll;34;Prelude;;;;;C;(k/4 h) ,,i ,h ,,,k ,,i ,h k {,,,a}/4 (h f) ,h
+41;d moll;35;Intrada;;;;;C;,a1 | [,aaa{,,,a}1] e/ c '[aa1] ,c/ ,a | [fa{a}1] ,f/ a
+42;Eb dur;36;Allemande;Weiss;;;Conc_645;C;[,bbc{,,a}1] c/ d '[a,b{,,,a}1] f | [f,g{4}/] d/ ,f d/ [fd{,,,a}]
+43;F dur;37;Fantasie;;;;;C;{,a}/4 ,,,,c ,,,a ,,,c ,,a ,,,a ,,,,c ,,,a {,a}/4 ,,,a ,,,c ,,a
+44;F dur;38;Prelude;Weiss;;;Conc_646;C;{,a}/4 ,,,,c ,,,a ,,,c ,,a ,,,a ,,d ,,a a ,,d (e a)
+45;F dur;39;Allemande;Weiss;;;Conc_647;C;h/ | [hhihh{,a}/] k/4 ,,i '[,,h,i{a}/] [a,,ih,a] {,,a}/4 ,,h ,f f
+46;F dur;40;Allemande;Weiss;;;Conc_648;C;h/ | [hh{,a}/] [hh/4] h {,,a}/8 f (h f) (,h ,f) a y
+47;F dur;41;Prelude;;;;;C;,,d/4 ,d e ,d ,,d e ,d ,,d ,,,e ,,d ,d ,,d ,,,e
+48;F dur;42;Largo;Weiss;;;Conc_649;C;",,d/ | [,,de{,a}3/2] ,,d/ [,,dc{,,a}/] ,,d ,a ,c | \
+[ad{,,,a}1] ,,,a/ ,,,c/4 ,,,,c"
+49;F dur;43;Prelude;;;;;C;{,a}/4 a ,c a e ,,d ,a ,c a/4 ,,a ,,b ,,d ,,,a
+50;F dur;44;Entrée;Weiss;;;Conc_650;C;"[,,,ad3/4] ,,,c/4 ,,a/ ,,b [,,dc{,,a}/] ,a ,c ,,d | \
+[a,a{,,,a}3/4] ,c/4 a/"
+51;F dur;45;Vivace;;;;;C;a/ | [add{,a}1] (e/8 c a) ,c a/4 ,,d ,a ,,d ,a
+52;F dur;46;Moderato;;;;;3/4;"[add{,a}1] [ccb{,a}3/2] [ccb{,a}/] | [ccd{,,a}/] e [ffd{,,a}3/2] [ffd{,,a}/] | \
+[ffd{,,a}1]"
+53;f moll;47;Allemande;Weiss;;;Conc_651;C;,d/ | [,ddd{,a}3/2] h/ ,g a h ,,i | '[,,h{4}3/2] i/ [h,h]
+54;f moll;48;Allemande;Weiss;;;Conc_652;C;h/ | [hg{,a}/] ,,i/4 h i/ ,i/4 ,,i [hg{,a}/] ,,i/4 h [ff/] ,,h/4
+55;f# moll;49;Allemande;Weiss;;;Conc_653;C;",,e/ | [,,eee{,a}1] [,,,,e{a}] [,,,,ea/] ,,e [,e{,a}] ,,c | \
+[,ac{5}1] [,ac{d}/] ,,,,,a"
+56;G dur;50;Prelude;Weiss;;;Conc_654;C;"{a}/ ,,,,a ,,,c ,,a ,,c/ ,,,c ,,c ,,d | \
+,a/ ,,c ,a ,e"
+57;G dur;51;Fantasie;Weiss;;;Conc_655;C;[cacca{a}3/2] ,,,,a/ ,,,c ,,,,a ,,c ,,,c ,a ,,c c ,a g ,a
+58;G dur;52;Allemande;Weiss;;;Conc_656;C;"c/ | [cacc{a}3/2] ,,,c/ ,,c ,,,c ,a ,,,c | \
+[cca{,,a}3/2] ,,,c/ ,,c"
+59;G dur;53;Adagio;Weiss;;;Conc_657;C;",,c/ | [,,cca{a}3/2] ,,c/ [,,ccc{,,a}3/2] ,,c/ | \
+[,,cc{5}3/2] ,,c/ [,,aba1] [,,cca{5}] |"
+60;G dur;54;Allemande;;;;;C;c/ | [caa{a}/] ,a/4 ,c ,,,,e ,,a ,a ,,d [,,cc{a}/] ,,,c/4 ,,,,,a ,,,,,c
+61;G dur;55;Largo;Weiss;;;Conc_658;C;[cac{a}3/2] ,a/ ,c1 ,,c | [,,dea{a}1] ,,d/ ,a/4 ,c [,aa{,a}3/2] ,,d/
+62;G dur;56;Allemande;Weiss;;;Conc_1807;C;k/ | [kk{a}3/2] k ',h1 k/ a | [,f,g{,,a}1] (g/ e) ,f1 [ff{5}] |
+63;g moll;57;Allemande;;;;;C;c/ | [cab{a}/4] c 'a ,b ,a ,,d ',,b ,,a [,,,c{a}/4] ,,,c ',,,a
+64;g moll;58;Lentement;Lauffensteiner / Weiss;;;Conc_659;C;"[,abc{a}/] ,,,,,a ,,,,,b/4 ,a c ,,b [,,d,,a/] {a} [ead,e/] ,,d ,a ,,a
+"
+65;g moll;59;Fantasie;;;;;C;{a}/4 ,,,,a ,,,c ,,b ,a c ,,b ,a ,,,c ,,b ,,,,a ,,,c {a}
+66;g moll;60;Prelude;;;;;C;{a}/4 c b c ,a c ,a ,,d ,,b ,a ,,b ,,a

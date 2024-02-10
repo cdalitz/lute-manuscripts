@@ -4,7 +4,7 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNota
 2;;5v;La Monanacha;;;OT;Conc_4438;3;"[,dd,,,a/] a/4 b ,d/ | [abXd,a/] ,d/4 ,b ,,d/ | \
 [,db,,d3/4] ,,,,,b/4 [aab,,a] ,,,,e | \
 [,dd,,,a/] ,,b/4 ,,,d ,,,a/ |";italian7tab
-3;;6v;Gagliarda;;;OT;;3;"[ab,cd/] c d1 [db,cd] | [db,cd1] ,b ,,b | \
+3;;6v;Gagliarda;;;OT;ConcR3649;3;"[ab,cd/] c d1 [db,cd] | [db,cd1] ,b ,,b | \
 [ab,cd/] c d c a ,d | [db,cd1] ,b ,,b | \
 [ab,cd/] c d a c d |";italian7tab
 4;;7r;Saltarello;;;OT;;3;"[,ab,,d1] [,ab/] ,c [,da,c1] | [aXcd,a1] ,,,c/ ,d [acd,a1] | \
@@ -17,7 +17,7 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNota
 ,,,a1 f/ | [ddff3/4] f/4 d/ | [cdda3/4] d/4 c/ | \
 [acd,a1] ,,,c/ |";italian7tab
 7;;12r;Gagliarda Francese;;;OT;;3;"[c,,a1] | [a,,,a1] [,d,,c/] | [d,,,,d1] [d,,,a/] | \
- [cdda1] [a,,,,,a/] | c1 [a,,,e/] | [c,,a/] d f1 | \
+[cdda1] [a,,,,,a/] | c1 [a,,,e/] | [c,,a/] d f1 | \
 ,,,,c/ e3/4 c/4 | [a,,,a/] ,,,c1 | ,,d/ c d |";italian7tab
 8;;13v;La Monaca;;;OT;Conc_4438;C|;",,c1 | [,baa1] ,,,,,,a/ a | [bbdd1] d/ b | \
 [abd,a1] ,,,c/ ,d | [,bd,a1] ,a/ ,b | [,db,,d1] [,dd,,b] | \
