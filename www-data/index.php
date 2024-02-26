@@ -68,25 +68,25 @@ $arr_instr_long = array(
 //////////////////
 
 $arr_index = array (
-array ('index','index','new','about'),
+array ('index','index','new','about','research'),
 array ("listmss","listmss","ms","ms2","ms3","mss","conc"),
-array ("acknow"),
+array ("about","about","acknow"),
 array ("contact","datenschutz"),
 array ("links","lute")
 );
 
 $arr_index_deu = array (
-array ('Index','Index','Neues','Informationen'),
+array ('Index','Index','Neues','Informationen','Forschung'),
 array ("Quellen","Auswahl","Einzelquelle","Einzelquelle komplett (ohne Incipits)","Einzelquelle komplett (mit Incipits &ndash; langsam!)", "Alle Quellen","Konkordanzen"),
-array ("Danksagungen"),
+array ("Infos","&Uuml;ber dieses Projekt","Danksagungen"),
 array ("Kontakt","Datenschutzerkl&auml;rung"),
 array ("Verweise","Laute")
 );
 
 $arr_index_eng = array (
-array ('Index','Index','Updates','About'),
+array ('Index','Index','Updates','About','Research'),
 array ("Sources","Selection","Single Source","Single Source complete (without incipits)","Single Source complete (with incipits &ndash; slow)","All Sources","Concordances"),
-array ("Acknowledgements"),
+array ("About","About this projekt","Acknowledgements"),
 array ("Contact","Privacy Policy (deutsch)"),
 array ("Links","Lute")
 );
