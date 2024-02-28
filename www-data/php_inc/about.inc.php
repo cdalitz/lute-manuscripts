@@ -55,7 +55,7 @@ Diese Datenbank ist entstanden aus einem privaten Inhaltsverzeichnis mit einzeln
 <p><i>Christoph Dalitz</i></p>
 <p>Ich bin von Hause aus ebenfalls Physiker, aber schon eine Weile beruflich im Bereich Informatik tätig. Darüber hinaus veröffentliche ich Kompositionen (überwiegend Vokalwerke) auf meiner Webseite <a href="http://music.dalitio.de" target="_blank">music.dalitio.de</a>
   und habe das Noten- und Tabulatursatzprogramm <a href="https://www.lautengesellschaft.de/cdmm/" target="_blank">abctab2ps</a>
-geschrieben, das von dieser Webseite zur Generierung der Inzipits genutzt wird. Weil ich diese Datenbank selbst schon viel genutzt habe, um mir das Repertoire der Barocklaute zu erschließen, war es mir wichtig, dass diese Websiete weiter existiert und so bin ich gerne der Bitte des Vorstands der DLG nachgekommen, mich darum zu kümmern.
+geschrieben, das von dieser Webseite zur Generierung der Inzipits genutzt wird. Weil ich diese Datenbank selbst schon viel genutzt habe, um mir das Repertoire der Barocklaute zu erschließen, war es mir wichtig, dass diese Webseite weiter existiert und so bin ich gerne der Bitte des Vorstands der DLG nachgekommen, mich darum zu kümmern.
 </p>
 <p>Eine Liste weiterer Personen, die auf verschiedene Weise zu diesem Projekt beigetragen haben, findet man in den <a href="index.php?id=2&type=acknow&lang=deu">Danksagungen</a>.
 </p>

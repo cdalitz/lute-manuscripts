@@ -4,8 +4,8 @@
       'eng' => "<td><a href=\"index.php?id=0&type=new&lang=" . $lang . "\">New!</td>"
       );
 
-$numberPieces = 55000;
-$numberSources = 810;
+$numberPieces = 64950;
+$numberSources = 1000;
 $text_index = array (
 			'deu' => array ("Musik f&uuml;r Lauteninstrumente",
 					"Eine Datenbank der historischen<br>Manuskripte und Drucke",
@@ -47,9 +47,9 @@ if ($lang=='deu') {
 print "</a></i></p>";
 print "&nbsp; <p class=\"c\"><a href=\"index.php?lang=$lang&amp;id=0&amp;type=about\">";
 if ($lang=='deu') {
-	print "Informationen über die Seite";
+	print "Informationen über dieses Projekt";
 } elseif ($lang=='eng') {
-	print "About the site"; 
+	print "About this project"; 
 }
 print "</a></p>";
 print "<br>&nbsp;";
