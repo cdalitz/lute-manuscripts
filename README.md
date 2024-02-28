@@ -159,7 +159,7 @@ As the file is only accessible by *root*, you must use `sudo` to read it.
 Typical errors are missing write permissions to `/var/www/ms-lute/incipits`
 by the user under which Apache runs, or that the software for generating
 the incipits is not found (check the environment vaiable `PATH` used by Apache)
-or misconfogured. The process generates *abc* &rarr; *ps* &rarr; *eps* 
+or misconfigured. The process generates *abc* &rarr; *ps* &rarr; *eps* 
 &rarr; *png* or *svg*, and the intermediate files are removed by default.
-If you want to keep them for debugging, comment out the lines contianing
+If you want to keep them for debugging, comment out the lines containing
 `unlink` in `pgp_inc/manuscript.inc.php`.
