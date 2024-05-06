@@ -8,7 +8,7 @@
 INCIPITDIR=/var/www/ms-lute/incipits
 
 # disk usage before
-echo -n "`date +'%D %H:%M'`: $INCIPITDIR `du -sh $INCIPITDIR | cut -f 1` ->"
+echo -n "`date +'%D %H:%M'`: $INCIPITDIR `du -sh $INCIPITDIR | cut -f 1` -> "
 
 # remove files older than one day, but not safeguard file
 touch "$INCIPITDIR/do-not-remove"
