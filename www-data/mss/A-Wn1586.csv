@@ -1,114 +1,114 @@
 PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
-1;g moll;2r;Allemande de St-Luc;Saint-Luc;;;;C;",f/ | [,f{a}1] ,,,,a ,,,,f ['e,,,a] | \
+1;g moll;2r;Allemande de St-Luc;Laurent de Saint-Luc;;;;C;",f/ | [,f{a}1] ,,,,a ,,,,f ['e,,,a] | \
 [f{a}1] [,'e,,,a] [,f{d}1] ,,,,,d3/4 e/4 | \
 [,'e,,a3/2] ,e/ ,f1 e | \
 [,a{d}1] [c{4}] ['c{,,,a}3/2] ,e/ | \
 [,f{a}1] ,,f ,f1 ['e,,,a/] ,f/4 e | "
-2;g moll;2v;Courante du mesme;Saint-Luc;;;;3;"f/ | \
+2;g moll;2v;Courante Du Mesme;Laurent de Saint-Luc;;;;3;"f/ | \
 [f{a}1] {a}/ ,,,,,a/ [c,,,,b1] | \
 [e,,,,d1] [,'e,,a3/2] ,f/ | \
 [,f{a}3/2] ,a/ ,,d ,b | \
 [,,d,e1] [,,'b,a1] {,,,a}3/4 ,,a/4 | \
 V[,,bc{a}3/2] ,,d/ ,a ,b | "
-3;g moll;2v;Sarabande du mesme;Saint-Luc;;;;3;"[,f{a}1] [,'e{,,,a}3/2] ,f/ | \
+3;g moll;2v;Sarabande Du Mesme;Laurent de Saint-Luc;;;;3;"[,f{a}1] [,'e{,,,a}3/2] ,f/ | \
 [,f{a}1] {a}/ ,,,,,a [,a,,,b1] | \
 ([,,d,,d/] ,,b) [,,'a,a3/2] ,,,c/ | \
 [,,,ca{a}3/2] (,,,,,b/ ,,,,,d) ,,,,a | \
 [,f{a}3/4] e/4 [,'e{,,a}3/2] ,f/ | \
 [,f{a}1] {a}/ ,,,,,a [,a,,,b1] | "
-4;g moll;3r;Gigue du mesme;Saint-Luc;;;;6/4;",f/ [,'e1] | \
+4;g moll;3r;Gigue Du Mesme;Laurent de Saint-Luc;;;;6/4;",f/ [,'e1] | \
 [,f{a}3/2] a/ ,b1 [,a{d}3/2] [,,d,,a/] ,a1 | \
 [,,'b{a}3/2] ,,a/ ,,b1 ,,,c3/2 [,,,c{a}/] [,,a{,,,a}1] | \
 V[,,b{a}3/2] ,,d/ [,a{,a}1] [,f{,,a}3/2] {,,,a}/ [e{4}1] | "
-5;g moll;3v;Gavotte du mesme;Saint-Luc;;;;C;"([,,b{a}/] ,,a) ,,,c ,,b | \
+5;g moll;3v;Gavotte Du Mesme;Laurent de Saint-Luc;;;;C;"([,,b{a}/] ,,a) ,,,c ,,b | \
 [,,'aa{,a}1] [,ab{,,,a}] [,,,cb{,,a}1] {4}3/4 ,,a/4 | \
 [,,,'b{,,,a}1] ,,,,a/ ,,,,,d [,,,c,b1] [,,ab,a] | \
 V[,,bc{a}1] [,aa{,a}] [,,'d,f{,,a}3/2] ,a/ | \
 [,aaba{,,,a}/] (,,,,a/4 ,,,,c ,,,,e/) ,,,,a ([,,b{a}] ,,a) \
 ,,,c ,,b | "
-6;g moll;3v;Bourée du mesme;Saint-Luc;;;;C;",,,c/ ,,a | V[,,b{a}1] (,,a/ ,,b) ,,,c1 (,,a/ ,,b) | \
+6;g moll;3v;Bourée Du Mesme;Laurent de Saint-Luc;;;;C;",,,c/ ,,a | V[,,b{a}1] (,,a/ ,,b) ,,,c1 (,,a/ ,,b) | \
 [,,d,,a1] (,,b/ ,,d) [,,a{,a}1] (,,b ,,d) | \
 [,a{d}1] (,b/ ,a) (,,d ,,b) [,,a{4}] ,,,c | "
-7;g moll;4r;Menuet du mesme;Saint-Luc;;;;3;"[,f{a}1] ,f ['e{,,,a}] | \
+7;g moll;4r;Menuet Du Mesme;Laurent de Saint-Luc;;;;3;"[,f{a}1] ,f ['e{,,,a}] | \
 [f{a}1] (f/ e) [f{,,,a}1] | \
 [,f{,,a}1] [e{4}] [,'e{,,,a}] | \
 [,f{a}/] ,e ,f e ,f1 | \
 [,f{a}1] ,f ['e{,,,a}] | \
 V[f{a}1] (f/ e) V[f{,,,a}1] | "
-8;g moll;4v;Prelude mesurée du mesme;Saint-Luc;;;;C;"{a}/ ,,,,a ,,,c ,,a ,,b ,,,c ,,b ,,d | \
+8;g moll;4v;Prelude mesurée Du Mesme;Laurent de Saint-Luc;;;;C;"{a}/ ,,,,a ,,,c ,,a ,,b ,,,c ,,b ,,d | \
 [,ab{a}/] {,,,a} {a} ,,,,,a [,a,,,b] {a} ,,,,,b ,,,,,d | \
 [,'e,,a/] ,f e f 'e ,f [,'e] ,c | "
-9;G dur;4v;La Lotterie. Allemande de St-Luc;Saint-Luc;;;;C;",,,c/ | \
+9;G dur;4v;La Lotterie. Allemande de St-Luc;Laurent de Saint-Luc;;;;C;",,,c/ | \
 [,,,ca{a}1] ,,a/ ,,c [,,d{,a}] ,,c [,,d{,,,a}] ,,a | \
 ([,,d{a}/] ,,c ,,a) ,,,c [,aa{,a}3/2] ,a/ | \
 [c{,,a}1] [,e,,a/] c [,c,,,e1] [,e,,,a/] ,f | \
 [,'e,,a1] (,c/ ,a) [ca,,,c3/2] b/ | "
-10;G dur;5r;Courante du mesme;Saint-Luc;;;;3;",a/ | \
+10;G dur;5r;Courante Du Mesme;Laurent de Saint-Luc;;;;3;",a/ | \
 [,acc{a}3/2] (,c/ ,a) ,,d | \
 [,,cc{a}1] (,,d/ ,,c [,,a{4}]) ,,,c | \
 [,,,'ba{,,,a}3/2] (,,,,c/ ,,,,a) ,,,,,d | \
 [,,,cac1] [,,ab,a] [,,cc{a}] | \
 [,,'ab{,,,a}1] (,,a/ ,,c) (,,d ,,a) | "
-11;D dur;5v;Le Reduction de Naple. Allemande de St-Luc;Saint-Luc;;;Conc_2082;C;",a/ | \
+11;D dur;5v;Le Reduction de Naple. Allemande de St-Luc;Laurent de Saint-Luc;;;Conc_2082;C;",a/ | \
 [,aaba{a}2] ,/4 (,,a/4 ,,c ,,e) | \
 ,a1 ,,a3/4 ,,c/4 [,,'a,c{4}3/2] ,,,c/ | \
 [,,,'b{,,,a}/] ,,,,c ,,,,a {,,a} {,a} ,,,c ,,a ,,,,a | "
-12;D dur;6r;Courante du mesme;Saint-Luc;;;Conc_4089;3;",a/ | \
+12;D dur;6r;Courante Du Mesme;Laurent de Saint-Luc;;;Conc_4089;3;",a/ | \
 [,aaba{,,,a}1] [,'c/] (,a/4 ,c) ,e/ ,a | \
 [ea1] [,'c/] (,a/4 ,c) [ee/] ,a | \
 [e,e1] ,,a/ ,,c ,,e ,,a | \
 [ea1] ,,,,a/ ,,,,c ,,,,e ,,,,a | "
-13;D dur;6r;Sarabande du mesme;Saint-Luc;;;Conc_4090;3;"[,aaba{,,,a}1] [,'a3/2] ,,e/4 ,a | \
+13;D dur;6r;Sarabande Du Mesme;Laurent de Saint-Luc;;;Conc_4090;3;"[,aaba{,,,a}1] [,'a3/2] ,,e/4 ,a | \
 [,ca{4}1] [,'c3/2] (,a/4 ,c) | \
 [,e{,,,a}1] [,e,,a/] [c,,,c] [e,,,e] [,c,c] | \
 [,'ca3/2] ,a/4 ,,e [,a,,a1] | \
 [,ef{,,,a}1] ,,f/ ,e [,'c] ,a | "
-14;D dur;6v;Gigue du mesme;Saint-Luc;;;Conc_4091;3;",,a1 | [,a2] [,,'e,,a1] | \
+14;D dur;6v;Gigue Du Mesme;Laurent de Saint-Luc;;;Conc_4091;3;",,a1 | [,a2] [,,'e,,a1] | \
 [,a,,a2] [,c,,,a1] | \
 [,'e,,a3/2] [,c,,,e/] [,a,,,c1] | \
 [e,,,,a2] [c,,,,c1] | \
 [cc,,,e2] [c,e,,a1] | \
 [,ef,a2] V[,f{a}1] | \
 [,'c,,,a3/2] ,a/ [,,'e1] | "
-15;D dur;6v;Bourée du mesme;Saint-Luc;;;Conc_4092;C;",a/ ,c | \
+15;D dur;6v;Bourée Du Mesme;Laurent de Saint-Luc;;;Conc_4092;C;",a/ ,c | \
 [,e{,,,a}1] [,e,,a3/4] [c,,,c/4] [e,,,e1] [,'c,,c3/4] ,e/4 | \
 [,'ca1] (,,,c/ ,,,b) [c,,,c1] (,,,,c/ ,,,,a) | \
 [cc,,,e1] ([e,,,,a/] c) [,e,,a] ,c [,e{,,,a}] c | \
 [,'c,,,a1] ,,,e [,cee1] (,e/ ,c) | "
-16;D dur;7r;Bourée pour les Trompettes en Rondeau du mesme;Saint-Luc;;;Conc_2083;C;",a/ ,,a | \
+16;D dur;7r;Bourée pour les Trompettes en Rondeau Du Mesme;Laurent de Saint-Luc;;;Conc_2083;C;",a/ ,,a | \
 ,a1 ,,,,a/ ,,,,,a ,,,,a1 [,a,,a/] [,c,,,a] | \
 [,e,,a1] (,c/ ,e) ,a1 e/ ,f | \
 [,'e{,,,a}1] ,f/ e (g e) ([,f,,a] ,e) | "
-17;D dur;7r;Menuet du mesme;Saint-Luc;;;Conc_3928;3;"([,e{,,,a}/] ,c ,a ,c ,e) c | \
+17;D dur;7r;Menuet Du Mesme;Laurent de Saint-Luc;;;Conc_3928;3;"([,e{,,,a}/] ,c ,a ,c ,e) c | \
 [e{,a}1] [,e{,,,a}] [g{a}] | \
 [c{,,a}1] ([e{4}/] c) [,e{,,,a}] c | \
 [,'c,,,a2] [,a,,a1] | \
 ([,e{,,,a}/] ,c ,a ,c ,e) c | "
-18;D dur;7v;Rigodon pour les Trompettes du mesme;Saint-Luc;;;Conc_3613;C;",,a1 | \
+18;D dur;7v;Rigodon pour les Trompettes Du Mesme;Laurent de Saint-Luc;;;Conc_3613;C;",,a1 | \
 ,a1 [,,'e,,a] [,a,,a] [,c,,,a] | \
 [,'e,,a1] (,c/ ,e) ,a1 e | \
 [,e,,a1] g e [,f,,,a] | \
 [,'e,,a1] (,c/ ,e) ,a1 ,,a | \
 ,a1 [,,'e,,a] [,a,,a] [,c,,,a] | "
-19;D dur;7v;La Prise de Gaetta. Allemande du mesme;Saint-Luc;;;Conc_2079;C;",,,b/ | \
+19;D dur;7v;La Prise de Gaetta. Allemande Du Mesme;Laurent de Saint-Luc;;;Conc_2079;C;",,,b/ | \
 [,,,ba{,,,a}2] [,,,'b3/2] (,,,,c/4 ,,,,a) | \
 [,,a,c{4}1] ,,,,,c [,,a,,e] ,,,,,a | \
 [,ae,,c1] (,a/ ,c/4 ,e) [,'cc{a}3/2] ,a/ | \
 [,,'e,,a1] [,'a/] ,,e/4 ,a [,c{a}1] [,,a{,a}] | "
-20;D dur;8r;Courante du mesme;Saint-Luc;;;Conc_4093;3/2;",,,b/ | \
+20;D dur;8r;Courante Du Mesme;Laurent de Saint-Luc;;;Conc_4093;3/2;",,,b/ | \
 [,,,ba{,,,a}3/2] (,,,c/ ,,,b) ,,,,c ,,,b ,,,,a ,,a3/2 ,a/ | \
 [,,'e,,a3/2] (,,c/ ,,a) ,,,c [,a,b] ,,,,c ([,a,,a] ,c ,e) c | "
-21;D dur;8v;Sarabande du mesme;Saint-Luc;;;Conc_4094;3;"[ee{,,,a}1] (g/ e) (,f ,e) | \
+21;D dur;8v;Sarabande Du Mesme;Laurent de Saint-Luc;;;Conc_4094;3;"[ee{,,,a}1] (g/ e) (,f ,e) | \
 [,f{,,a}/] {,,,a} ([e{4}] c) ([,e,,,a] ,c) | \
 [,e,,a1] (,f/ ,e) ([,c{a}] ,a) | \
 [,,'e,,a3/2] ,,c/ ,,a {a} | \
 [,aa{,a}1] [,,'e{,,a}1] {,,,a}3/4 ,a/4 | "
-22;D dur;8v;Autre Sarabande du mesme;Saint-Luc;;;Conc_4095;3;"[,,,ba{,,,a}1] [,,,'c3/2] ,,,,e/4 ,,,c | \
+22;D dur;8v;Autre Sarabande Du Mesme;Laurent de Saint-Luc;;;Conc_4095;3;"[,,,ba{,,,a}1] [,,,'c3/2] ,,,,e/4 ,,,c | \
 [,,a,c{4}3/2] ,,a/ ,a [,,a{,a}] | \
 [,,cc{a}1] [cc{,,a}/] ,e [,'c] ,a | \
 [,,'ee,a3/2] {a}/ {,a} {,,a} | \
 [ee{,,,a}1] (g/ e) g ,e | "
-23;D dur;8v;Gigue a la maniere Angloise du mesme;Saint-Luc;;;Conc_2080;3;",a1 | \
+23;D dur;8v;Gigue a la maniere Angloise Du Mesme;Laurent de Saint-Luc;;;Conc_2080;3;",a1 | \
 [,,ab{,,,a}2] [,,ab1] | \
 [,,(c(c{a}3/2] [,,a)b)/] [,,,cc1] | \
 [,,ab{,,,a}2] [,,ab1] | \
@@ -116,140 +116,140 @@ V[f{a}1] (f/ e) V[f{,,,a}1] | "
 [,,ab{,,,a}2] [,a{,a}1] | \
 [,,'e{,,a}2] [,a{,,,a}1] | \
 [,c,,,a3/2] ,a/ [,c{a}1] | "
-24;D dur;9r;Menuet du mesme;Saint-Luc;;;Conc_4096;3;"[,a{,,,a}/] ,,e ,a1 ,,a | \
+24;D dur;9r;Menuet Du Mesme;Laurent de Saint-Luc;;;Conc_4096;3;"[,a{,,,a}/] ,,e ,a1 ,,a | \
 [,e,,a/] ,c ,e1 ,a | \
 [e{,,,a}/] ,f e1 [,c,,,a] | \
 [,'e,,a1] (,c/ ,e) ,a1 | \
 [,a{,,,a}/] ,,e ,a1 [,,a,a] | "
-25;D dur;9r;Passepied du mesme;Saint-Luc;;;Conc_4097;3;",,a1 | \
+25;D dur;9r;Passepied Du Mesme;Laurent de Saint-Luc;;;Conc_4097;3;",,a1 | \
 [,a{,,,a}1] [,a{,a}] [,c,,,a] | \
 [,'e,,a1] ,a [e{,a}] | \
 ([g{a}/] e) (,f ,e) ,,h ,a | \
 [,c,,,a1] ,,a [,,'e] | \
 [,a{,,,a}1] [,a{,a}] [,c,,,a] | \
 [,'e,,a1] ,a [e{,a}] | "
-26;D dur;9v;Caprice en Passacaille du mesme;Saint-Luc;;;Conc_2081;3;"[,'e3/2] ,f/ | \
+26;D dur;9v;Caprice en Passacaille Du Mesme;Laurent de Saint-Luc;;;Conc_2081;3;"[,'e3/2] ,f/ | \
 [ec{4}3/2] e/ [ec,,,e1] | \
 [ea,,,c1] 'c/ ,,,,,e ,,,,a3/4 ,e/4 | \
 [,'c,,,a3/2] ,a/4 ,,e ,a1 | \
 [,,ab{,,,a}1] [,,a'b3/2] [,,ab/] | \
 [,,,cc{4}1] [,,,'c'c3/2] [,,,cc/] | "
-27;D dur;10v;La Prise de Lille. Marche du mesme;Saint-Luc;;;Conc_2089;C;"[eefee{,,,a}3/2] ,f/ ,e ,f [e{,a}1] | \
+27;D dur;10v;La Prise de Lille. Marche Du Mesme;Laurent de Saint-Luc;;;Conc_2089;C;"[eefee{,,,a}3/2] ,f/ ,e ,f [e{,a}1] | \
 [,ae,,c1] {a}3/4 ,c/4 [,'c,,,a3/2] (,a/4 ,c) | \
 [,e,,a/] c ,e ,c ,a1 ,,a | \
 [,aab{,,,a}3/2] ,c/ ,e c [e,,,,a] c | \
 [,e,,a/] e c ,e ,c ,a [,,'e,,a1] | "
-28;D dur;11r;Allemande de St-Luc;Saint-Luc;;;Conc_2090;C;",,f/ | \
+28;D dur;11r;Allemande de St-Luc;Laurent de Saint-Luc;;;Conc_2090;C;",,f/ | \
 [,,fee{,,,a}3/2] ,,,e/ ,,f1 [,,'e{,,a}3/4] ,,,g/4 | \
 [,,,'e{,a}1] ([,,,,f{,,,a}/] ,,,,e) [,,,,f{,,a}1] {4}3/4 ,,a/4 | \
 [,,,'b{,,,a}1] (,,,,c/ ,,,,a) [,,a,c{4}3/2] ,,a/ | \
 [,ae,,c1] ,,,,,a3/4 ,,e/4 [,,c,c{b}1] ([,,e{,,a}/] ,,f) | "
-29;D dur;11r;Courante du mesme;Saint-Luc;;;Conc_2091;3;",,a/ | \
+29;D dur;11r;Courante Du Mesme;Laurent de Saint-Luc;;;Conc_2091;3;",,a/ | \
 [,,ab{,,,a}3/2] ,,a/ ,,,b ,,a | \
 [,,cc{a}3/2] ,,c/ ,,,c ,,c | \
 [,,'e,,a3/2] ,,,e/ ,,,,e ,,,e | \
 [,ac1] [,c,c3/2] [,'ca/] | \
 [,e,,a3/2] e/ ,e e | \
 [g{a}1] [e{,a}] [,f{,,a}] | "
-30;D dur;11v;Sarabande du mesme;Saint-Luc;;;Conc_2092;3;"[,ef{,,,a}1] g1 {,,,a}3/4 g/4 | \
+30;D dur;11v;Sarabande Du Mesme;Laurent de Saint-Luc;;;Conc_2092;3;"[,ef{,,,a}1] g1 {,,,a}3/4 g/4 | \
 [g,h{4}1] 'e1 {4}3/4 e/4 | \
 [ea,,,c1] 'c1 ,,,,,c3/4 c/4 | \
 [,fe,,a1] [,'ef1] ,,,,,a3/4 ,e/4 | \
 [,ec{a}1] [,'c1] {a}3/4 ,c/4 | \
 [,ca{,a}1] [,'a1] {,a}3/4 ,a/4 | "
-31;D dur;11v;Gigue du mesme;Saint-Luc;;;Conc_2093;6/8;"[,,f{,,,a}1] e/ (,e ,f e) | \
+31;D dur;11v;Gigue Du Mesme;Laurent de Saint-Luc;;;Conc_2093;6/8;"[,,f{,,,a}1] e/ (,e ,f e) | \
 [,'e,,a1] ,,,e/ ,,,,e ,,,c ,,,e | \
 [,aa,e1] [,,e,c/] [,a,,e] [,c,,c] [,e,,a] | \
 [,'c,,,a1] ,,,,c/ ,,,,,e ,,,,a ,,,,c | \
 [,h,,,a1] [i{,,,a}/] ['g{,,a}3/4] ,g/4 [,'g{,,a}/] | "
-32;D dur;12r;Gavotte du mesme;Saint-Luc;;;Conc_2095;C;"[,e,,a3/2] [,c,,,e/] | \
+32;D dur;12r;Gavotte Du Mesme;Laurent de Saint-Luc;;;Conc_2095;C;"[,e,,a3/2] [,c,,,e/] | \
 [,a,,,c3/4] ,c/4 [,e,,a1] [,'c,,,e] [,a,,,c] | \
 [e,,,,a/] ,,,,,c [e,,,,e1] [,e,,a/] [c,,,c] [e,,,e1] | \
 [g{a}1] [e{,a}1] [,f{,,a}/] e [,e{,,,a}] ,f | \
 [,'c,,,a1] ,a [,'e,,a3/2] [,c,,,e/] | "
-33;D dur;12r;Bourée du mesme;Saint-Luc;;;Conc_2096;C;",a1 | [e,,,a1] ,,,,e/ ,,,c ,,,e1 [,'c,,,a] | \
+33;D dur;12r;Bourée Du Mesme;Laurent de Saint-Luc;;;Conc_2096;C;",a1 | [e,,,a1] ,,,,e/ ,,,c ,,,e1 [,'c,,,a] | \
 [,e,,a1] (,c/ ,e) ,a1 [,e{,,,a}/] [,f{,,a}] | \
 [e{,a}1] [g{a}1] [e{,a}/] [,f{,,a}] [,e{,,,a}1] | \
 [,'c,,,a3/2] ,a/4 ,,e [,a,,a1] ,a | "
-34;D dur;12r;Bransle de village du mesme;Saint-Luc;;;;C;"[,e{,,,a}1] ,f e ,,h | \
+34;D dur;12r;Bransle de village Du Mesme;Laurent de Saint-Luc;;;;C;"[,e{,,,a}1] ,f e ,,h | \
 [,'e{,,,a}3/2] ,,h/ ,,f1 ,e | \
 [,c{,,,a}1] ,,a ,,c ,,e | \
 [,a{,,,a}1] (,a/ ,c ,e c) e1 | \
 [,e{,,,a}1] ,f e ,,g | "
-35;D dur;12v;Menuet du mesme;Saint-Luc;;;Conc_2097;3;"[k{,,,a}/] {,,a} [k{,a}] {a} ['i,,,,a1] | \
+35;D dur;12v;Menuet Du Mesme;Laurent de Saint-Luc;;;Conc_2097;3;"[k{,,,a}/] {,,a} [k{,a}] {a} ['i,,,,a1] | \
 [k,,,a1] [,a{,a}] [,c,,,a] | \
 [,e,,a1] c/ (,e ,c ,a) | \
 [e,,,e1] ,,,c/ (,,,,e ,,,,c ,,,,a) | \
 [cc,,,e1] (e/ c) ([,e,,,a] ,c) | "
-36;D dur;12v;Tambour et fiffre du mesme;Saint-Luc;;;Conc_2098;C;"[,aaba1] ,,,,a [,aa,e] [,e,e] | \
+36;D dur;12v;Tambour et fiffre Du Mesme;Laurent de Saint-Luc;;;Conc_2098;C;"[,aaba1] ,,,,a [,aa,e] [,e,e] | \
 ([,c,,,a/] ,a) (,,e ,,c) (,,,e ,,,c) (,,,,e ,,,,c) | \
 [,e,,a/] c e [,a,,,c] [c,,,,e1] [,e,,a] | \
 [,'c,,,a3/2] ,a/4 ,,e ,a1 {,,,a} :| "
-37;D dur;13r;Gigue du mesme;Saint-Luc;;;Conc_2094;6/8;",,a/ | \
+37;D dur;13r;Gigue Du Mesme;Laurent de Saint-Luc;;;Conc_2094;6/8;",,a/ | \
 [,a{,,,a}/] ,,,b ,,a ,a ,,a ,a | \
 [,c{4}/] ,,,e ,,e ,c ,,e ,c | \
 [,e{,,,a}/] ,,e ,e [,,c{,,a}] e 'd | \
 [e,,,,a/] ,c e ,,e ,a [,c{a}] | "
-38;D dur;13v;Caprice du mesme;Saint-Luc;;;Conc_2099;C;"[,a{,,,a}/] ,,a ,a ,c ,e ,,f ,e ,f | \
+38;D dur;13v;Caprice Du Mesme;Laurent de Saint-Luc;;;Conc_2099;C;"[,a{,,,a}/] ,,a ,a ,c ,e ,,f ,e ,f | \
 [e,,,a/] ,,,,,a ,,,,a [,,e,c] [,a,,e] ,,,,a [,a,,e] [,c,c] | \
 [,,ee/] ,,,,c [,,ee] [,ac] [,ce] ,,a [,ce] [,ef] | \
 [,'ca/] ,c ,e c e ,,a [c,c] [e,e] | "
-39;G dur;14v;L'arrivée du Prince Eugenne. Allemande du mesme;Saint-Luc;;;Conc_2106;C;"c/ | \
+39;G dur;14v;L'arrivée du Prince Eugenne. Allemande Du Mesme;Laurent de Saint-Luc;;;Conc_2106;C;"c/ | \
 [cacc{a}3/2] ,a/ ,c ,,c ,,d ,a | \
 [,,'cc{a}3/2] ,,,,a/ ,,,,c ,,,,,c ,,,,,d ,,,,a | \
 [,,,cac1] [,,,,,'a/] {a} [,aa{,a}1] [,f{,,a}] | \
 [,'e{,,,a}3/2] ,a/ [,,'a{,a}1] ([,,c{,,,a}/] ,,d) | "
-40;G dur;14v;Air du mesme;Saint-Luc;;;Conc_2107;3;",a1 | \
+40;G dur;14v;Air Du Mesme;Laurent de Saint-Luc;;;Conc_2107;3;",a1 | \
 [,,'cc{a}1] (,,c/ ,,d) [,a{,a}1] | \
 [,,,c{,,a}1] ,,,c/ ,,a [,,cc{a}1] | \
 [,,de{4}1] [,,cc] [,,'ab{,,,a}] | \
 [,,'cc{a}1] ,,,c [,aa{,a}] | \
 [c{,,a}1] [,e{,,,a}] [,'c,,,a] | \
 [,e,,a1] ,a [,aa{,a}] | "
-41;G dur;15r;Gigue du mesme;Saint-Luc;;;Conc_2109;6/8;"([,,c{a}/4] ,,d) ,,f/ [,,,cc] [,,,c,d] [,,a,,a] [,,,'ba] | \
+41;G dur;15r;Gigue Du Mesme;Laurent de Saint-Luc;;;Conc_2109;6/8;"([,,c{a}/4] ,,d) ,,f/ [,,,cc] [,,,c,d] [,,a,,a] [,,,'ba] | \
 [,,,c{a}/] ,,,,a ,,,,,c {a}/ (,,c/4 ,,d) [,a,,,c/] | \
 [,,c{a}/] [,c,,,d] [,a,,,c] [,,db,a] [,a{,a}] [,,cc{a}] | "
-42;G dur;15r;Gillotin Dançant au bal. Bransle du mesme;Saint-Luc;;;Conc_2111;C;"([,,c{a}/] ,,d) ,a1 [,,,c,(c/] [,,,,,d)] [,,,'ba1] | \
+42;G dur;15r;Gillotin Dançant au bal. Bransle Du Mesme;Laurent de Saint-Luc;;;Conc_2111;C;"([,,c{a}/] ,,d) ,a1 [,,,c,(c/] [,,,,,d)] [,,,'ba1] | \
 [,,,ca{a}1] ,,,c/ (,,a ,,c ,,d) ,a ,,c | \
 [,c,,,d1] [,a,,,c][,,d,,a] [,,c{a}] | \
 [,,'a{,,,a}2] [,,,ca{a}1] {,a} | \
 [c{,,a}/] e c1"
-43;G dur;15v;Chaconne du mesme;Saint-Luc;;;Conc_2108;3;"[,,fg{a}3/2] [,,,hh/] | \
+43;G dur;15v;Chaconne Du Mesme;Laurent de Saint-Luc;;;Conc_2108;3;"[,,fg{a}3/2] [,,,hh/] | \
 [,,,gf{a}1] [,,'a,c{4}3/2] ,,,c/ | \
 [,,,'ba{,,,a}3/4] ,,,,,d/4 [,,cc,c1] [,,,cc{,,a}] | \
 {4}3/4 ,,a/4 [,,'ab{,,,a}3/2] ,,,c/ | \
 [,,,ca{a}1] :||: ,k1 k | \
 ,h/ (g/4 h) [,'e{,,,a}3/2] ,f/ | \
 [e{4}1] [,a,,,c] [,f{,,a}] | "
-44;G dur;16r;Entrée du mesme;Saint-Luc;;;Conc_2110;C;"[cac{a}3/2] c/ ,a3/2 ,a/ | \
+44;G dur;16r;Entrée Du Mesme;Laurent de Saint-Luc;;;Conc_2110;C;"[cac{a}3/2] c/ ,a3/2 ,a/ | \
 [,,'cc3/2] ,,,c/ ,,,,a3/2 ,,,,a/ | \
 [,a,c,c3/2] ,,,c/ [,,db,a3/2] ,a/ | \
 [,,'cc{a}3/2] ,,c/ [,,'a{,a}3/2] [,,c{,,,a}/] | \
 [,,,c{,,a}1] (,,,,c/ ,,,,a) [,,,c,e3/2] [,,a,,a/] | "
-45;a moll;16v;Simphonie du mesme;Saint-Luc;;;Conc_2100;C;"[,,aVe,a1] ,,c V,,d ,a | \
+45;a moll;16v;Simphonie Du Mesme;Laurent de Saint-Luc;;;Conc_2100;C;"[,,aVe,a1] ,,c V,,d ,a | \
 [,cd,,a1] ,,c ,,d [,,,'d] | \
 [,,aVe,a2] ,,,e1 ,,d | \
 [,,cdc{,,a}2] ,,,d1 ,a | \
 [,,d,,a1] ,a ,c ,e | \
 [c,d{,,a}1] ,e [cc{4}] ,c | "
-46;a moll;17r;L'agréable. Allemande du mesme;Saint-Luc;;;Conc_2101;C;",,a/ | \
+46;a moll;17r;L'agréable. Allemande Du Mesme;Laurent de Saint-Luc;;;Conc_2101;C;",,a/ | \
 [,,aVe,a3/2] ,c/ ,,d1 ,,,e | \
 [,cd,,a3/2] ,,,,c/ ,,,,,d1 ,,,,,a | \
 [,acd{,,a}1] (,c/ ,d) (,c ,a) ([,,d,,c] ,,c) | \
 V[,,d,,a1] (,,c/ ,,a) ,,d1 {,,a}3/4 ,,,c/4 | "
-47;a moll;17r;Courante du mesme;Saint-Luc;;;Conc_2102;3;",,a/ | \
+47;a moll;17r;Courante Du Mesme;Laurent de Saint-Luc;;;Conc_2102;3;",,a/ | \
 [,,aVe3/2] ,,d/ ,,,d ,,c | \
 [,,de1] (,,,e/ ,,,c ,,,a) ,,,,c | \
 [,,a/] ,,,,c [,,,,a)] (,,d ,,c ,,a) | \
 [,,,'dc1] (,,,,c/ ,,,,d ,,,,c ,,,,a) | \
 [,,a,,d1] [,,c,a] [,,,'de] | "
-48;a moll;17v;Sarabande du mesme;Saint-Luc;;;Conc_2103;3;"[,,h,,a1] ,h1 (g/ h) | \
+48;a moll;17v;Sarabande Du Mesme;Laurent de Saint-Luc;;;Conc_2103;3;"[,,h,,a1] ,h1 (g/ h) | \
 [,'g{,,a}1] (,,h/ ,,f) (,,,h ,,,g) | \
 [,h,h1] [,'f,d3/2] ,f/ | \
 [,fde1] [,'d3/2] ,d/ | \
 [,dcc1] [,'cd3/2] ,c/ | \
 [ea{,a}3/2] ,a/ [c{,,a}] ,,c | "
-49;a moll;17v;Gigue du mesme;Saint-Luc;;;Conc_2104;3;",,h3 | \
+49;a moll;17v;Gigue Du Mesme;Laurent de Saint-Luc;;;Conc_2104;3;",,h3 | \
 ,h2 g1 | \
 h3/2 g/ ,h1 | \
 [,'gh2] ,,f1 | \
@@ -257,125 +257,125 @@ h3/2 g/ ,h1 | \
 [g,,,g2] ,,,,,h1 | \
 [h,,,f3/2] [,f,g/] [,,hh1] | \
 [,,fg2] ,,,,f1 | "
-50;a moll;17v;Gavotte du mesme;Saint-Luc;;;Conc_2105;C;"[e,,,,a/] ,,,,,c ,,,,,d ,,,,,a | \
+50;a moll;17v;Gavotte Du Mesme;Laurent de Saint-Luc;;;Conc_2105;C;"[e,,,,a/] ,,,,,c ,,,,,d ,,,,,a | \
 [c,,,c/] ,,,,a ,,,,c ,,,,,d [a,,,a] ,,,,,d ,,,,a ,,,,,c | \
 [,c,,,d/] ,,,,,c ,,,,,d ,,,,,a [,a,,,c] ,,,,,d ,,,,,c ,,,,,a | "
-51;g moll;18r;La Princesse Bien Faisante. Allemande du mesme;Saint-Luc;;;Conc_2131;C;"c/ | \
+51;g moll;18r;La Princesse Bien faisante. Allemande Du Mesme;Laurent de Saint-Luc;;;Conc_2131;C;"c/ | \
 [cabc{a}1] (,d/ ,b ,a) (,,d ,,b ,,a) | \
 [,,,ca{a}1] (,,,,d/ ,,,,b ,,,,a) (,,,,,d ,,,,,b ,,,,,a) | \
 [,,,ca{a}1] [,,ab{,,,a}1] [,,bc{a}/] {,a} [,,dc{,,a}1] | "
-52;g moll;18v;Courante du mesme;Saint-Luc;;;Conc_2132;3;",a/ | [,ab{a}3/2] {,a}/ [,f{,,a}1] | \
+52;g moll;18v;Courante Du Mesme;Laurent de Saint-Luc;;;Conc_2132;3;",a/ | [,ab{a}3/2] {,a}/ [,f{,,a}1] | \
 {,,,a}1 [e{4}/] (f e) ,f | \
 ([e{,,,a}/] ,f) e (,f ,e) ,,h | \
 ,a/ ,,,h [,,'b{a}1] {,,,a}3/4 ,,a/4 | \
 ([,,b{a}/] ,,a) (,,b ,,d) ,a ,,b | "
-53;g moll;18v;Air du mesme;Saint-Luc;;;Conc_2133;3;",a1 | \
+53;g moll;18v;Air Du Mesme;Laurent de Saint-Luc;;;Conc_2133;3;",a1 | \
 [,,'b{a}3/2] ,,a/ ,,,c1 | \
 ,a1 {a} {,a} | \
 [,f{,,a}/] ,e ,f f ['e{4}3/2] ,f/4 | \
 [,'e{,,,a}1] ,,f ,f | \
 [a,d,,a/] (c a) ,b [,a{,a}] ,,d | "
-54;g moll;19r;Gigue du mesme;Saint-Luc;;;Conc_2134;6/4;",f2 e1 [,'e] ,f e | \
+54;g moll;19r;Gigue Du Mesme;Laurent de Saint-Luc;;;Conc_2134;6/4;",f2 e1 [,'e] ,f e | \
 [f,,,f2] [h,,,h1] [e,,,e] [f,,,f] [h,,,h] | \
 [k,,,i1] ,,,,i [h,,h] [h,,,h] ,,,,i ,,,h | \
 [fdf3/2] f/ [e,d1] [fa,f2] ,c1 | "
-55;g moll;19v;Bourée du mesme;Saint-Luc;;;Conc_2136;C;",a/ ,,d | \
+55;g moll;19v;Bourée Du Mesme;Laurent de Saint-Luc;;;Conc_2136;C;",a/ ,,d | \
 [,,'bc{a}1] (,,,c/ ,,,a) ,,,,b1 [c,,,,d] | \
 ['ba,,a1] ,,,,a/ ,,,,,d [c,,,,b1] ,,,,,a/ {a} | \
 [e,,,e1] [f,,,f1] ([f,,,,d/] e) ([,f,,a] ,e) | \
 [,f{a}/] ,e ,f e ,f1 ,a/ ,,d | "
-56;g moll;19v;L'Abondance. Air du mesme;Saint-Luc;;;Conc_2135;3;"[ca{a}1] ,a c | \
+56;g moll;19v;L'Abondance. Air Du Mesme;Laurent de Saint-Luc;;;Conc_2135;3;"[ca{a}1] ,a c | \
 ,a1 (,,b/ ,,d) ,a1 | \
 [,,bc1] [,,a,a] [,,bc] | \
 [,,aba1] ,,,c/ ,,,,d [,,a,,d1] [,,,'ba] | \
 [,,,c{a}1] ,,,c/ ,,a ,,b ,,,c | \
 [,,d,,a1] ,,a/ ,,b ,,d ,,a | "
-57;g moll;20r;La Dame Gigogne. Air du mesme;Saint-Luc;;;Conc_2137;3;"[cabc{a}2] ,a1 c | \
+57;g moll;20r;La Dame Gigogne. Air Du Mesme;Laurent de Saint-Luc;;;Conc_2137;3;"[cabc{a}2] ,a1 c | \
 ['a,,,a1] ,b/ a [,a{d}1] a | \
 V[,b,,,d1] (,a/ ,b) [,,d,,a1] [,b{,a}] | \
 [,'a{d}1] ,,d/ ,a ,,b1 ,a | \
 [,,'d,,a1] ,,,f/ ,,d [,,ce{,,,a}1] ,,d | "
-58;c moll;20r;Le Prince de L.K.W. Allemande du mesme;Saint-Luc;;;Conc_2124;C;",,d/ | \
+58;c moll;20r;Le Prince de L.K.W. Allemande Du Mesme;Laurent de Saint-Luc;;;Conc_2124;C;",,d/ | \
 [,,dcb{4}3/2] ,,d/ c1 ,,d3/4 ,a/4 | \
 [,,'cc3/2] ,,,,a/ ,,,c1 ,,,,d3/4 ,,,c/4 | \
 [,,d,b1] ,,,,a/ ,,,,,d [,a,c,c1] (,b/ ,d) | \
 [,'b{4}1] ,a/ ,,d [,,'ba{,,,a}3/2] ,,,d/ | "
-59;c moll;20v;Courante du mesme;Saint-Luc;;;Conc_2125;3;"h/ | \
+59;c moll;20v;Courante Du Mesme;Laurent de Saint-Luc;;;Conc_2125;3;"h/ | \
 [hf{4}1] ,f3/2 h/ | \
 ['gf{a}1] {a} {,a} | \
 [cb{,,a}1] {,,,a} {4} | \
 [aa,,,c1] ,,,,,a {a} | \
 V[,bd,,d1] (,b/ ,a) ([,,d,a] ,,c) | \
 [,,d,b1] ,a [,b,a] | "
-60;c moll;20v;Sarabande du mesme;Saint-Luc;;;Conc_2126;3;"[cb{4}1] [ca] [cb] | \
+60;c moll;20v;Sarabande Du Mesme;Laurent de Saint-Luc;;;Conc_2126;3;"[cb{4}1] [ca] [cb] | \
 [,'b,,,d3/2] ,a/ [,b{a}1] | \
 [,,d{b}/] ,,c ,,d ,a [,'a{,a}3/4] ,,d/4 | \
 [,,'cc{a}3/2] ,,a/ ,,,c1 | \
 ,,d/ ,,,,,a ,,,,,c ,,d ,a {a} | "
-61;c moll;20v;Jupiter Tenant Son Foudre. Air du mesme;Saint-Luc;;;Conc_2128;3;"[h{4}/] ,f h ,,g ,f h | \
+61;c moll;20v;Jupiter Tenant Son Foudre. Air Du Mesme;Laurent de Saint-Luc;;;Conc_2128;3;"[h{4}/] ,f h ,,g ,f h | \
 ['g{a}/] {,a} {a} {,a} {,,a} {,,,a} | \
 {,,a}/ ,f h (,f ,g) f | \
 {,a}/ ,f d {,,a} [f{,,,a}] ,d | "
-62;c moll;21r;Gigue du mesme;Saint-Luc;;;Conc_2127;6/8;"[,,dcb{4}3/4] ,a/4 ,b/ [,'a{,a}1] ,,d/ | \
+62;c moll;21r;Gigue Du Mesme;Laurent de Saint-Luc;;;Conc_2127;6/8;"[,,dcb{4}3/4] ,a/4 ,b/ [,'a{,a}1] ,,d/ | \
 [,,'cc{a}1] ,,,,a/ ,,,c ,,c ,,,a | \
 [,,d,b3/4] ,,,,a/4 ,,,,,d/ [,a,,,c3/4] ,b/4 [,d{a}/] | \
 [,'b,,,d3/4] ,a/4 ,,d/ [,ac{a}3/4] {a}/4 {,a}/ | "
-63;c moll;21v;Ballet du mesme;Saint-Luc;;;Conc_2129;C;"c/ | [cb{4}1] ,,,,,d1 [cb/] ,,,,a ,,,,b ,,,,,d | \
+63;c moll;21v;Ballet Du Mesme;Laurent de Saint-Luc;;;Conc_2129;C;"c/ | [cb{4}1] ,,,,,d1 [cb/] ,,,,a ,,,,b ,,,,,d | \
 [dd{,a}1] ,,,a1 [dd,a/] ,,,c ,,,d ,,,a | \
 [aab1] {d}1 [aab/] ,a ,b a | \
 [cb{,,a}1] ,,,,b1 [cb/] ,,,a ,,,c ,,,,b | "
-64;c moll;21v;Menuet du mesme;Saint-Luc;;;Conc_2130;3;"[,,dcb{4}1] ,,,c ,,d | \
+64;c moll;21v;Menuet Du Mesme;Laurent de Saint-Luc;;;Conc_2130;3;"[,,dcb{4}1] ,,,c ,,d | \
 ,,,,b1 ,,,c ,,d | \
 [,,d{,,a}3/4] ,a/4 ([,b{,a}/] ,a) ([,,d{a}] ,,c) | \
 [,,d{4}1] ,,d/ ,a ,b1 | \
 [,a,c,c1] (,a/ ,b) [a,c{a}1] | "
-65;C dur;22r;La Belle au Bois Dormant. Allemande du mesme;Saint-Luc;;;Conc_2118;C;",,d/ | \
+65;C dur;22r;La Belle au Bois Dormant. Allemande Du Mesme;Laurent de Saint-Luc;;;Conc_2118;C;",,d/ | \
 [,,dcc{4}3/2] ,,,c/ ,,,,c1 ,,,,,d | \
 [,,,cac3/2] ,,,d/ V[,,d,,a1] {,a}3/4 ,a/4 | \
 [,,'cc{a}3/2] ,,d/ [,aa{,a}1] [,cd{,,a}] | \
 [,,'d,,a1] {,a}3/4 ,a/4 [,'ac{a}3/2] ,,d/ | \
 [,,dcc{4}3/2] ,a/ ,c1 ,,d | "
-66;C dur;22r;Courante du mesme;Saint-Luc;;;Conc_2119;3;",,,c/ | \
+66;C dur;22r;Courante Du Mesme;Laurent de Saint-Luc;;;Conc_2119;3;",,,c/ | \
 [,,,cc{4}3/2] (,,,,c/ ,,,,d) ,,,c | \
 [,,,,'c1] ,,,,,d [,,,c,c] | \
 ,,,,,a/ ,,,c ,,d (,,,c ,,,b) ,a | \
 [,,'cc{a}1] {a} {,a} | \
 {,,a}/ ,,d c ,a ,,d e | "
-67;C dur;22v;Sarabande du mesme;Saint-Luc;;;Conc_2120;3;"[,f{4}1] ,,h ,,,h | \
+67;C dur;22v;Sarabande Du Mesme;Laurent de Saint-Luc;;;Conc_2120;3;"[,f{4}1] ,,h ,,,h | \
 [,,,'g{a}3/2] ,,,g/ ,,h1 | \
 [,,,h,a1] [aa,,,c] [,c,,,d] | \
 [,'ac{a}3/2] ,,d/ [,,dcc{4}1] | \
 [,c,,,d1] ([,c,,,c/] ,a) ([,,d{a}] ,,c) | \
 [,,d,,a/] {a} {,b} ,,a ,a ,,d | "
-68;C dur;22v;Gigue du mesme;Saint-Luc;;;Conc_2121;3/4;",c/ ,a1 | [,,dcc{4}2] ,,,c1 {,,a}3/2 {,,,a}/ [,c{4}1] | \
+68;C dur;22v;Gigue Du Mesme;Laurent de Saint-Luc;;;Conc_2121;3/4;",c/ ,a1 | [,,dcc{4}2] ,,,c1 {,,a}3/2 {,,,a}/ [,c{4}1] | \
 [,'ac{a}3/2] ,,,,,a/ ,,,,,c1 {a}/ ,c [a,,,a1] | \
 [c,,,c3/2] ,,,,d/ ,,,c1 [,,de3/2] [,ac/] [,cd1] | \
 [,'a,c3/2] ,,,c/ ,,,a1 ,,,,c3/2 ,,,,d/ ,,,c1 | "
-69;C dur;22v;Gavotte du mesme;Saint-Luc;;;Conc_2122;C;"(c/ a) (,c ,a) | \
+69;C dur;22v;Gavotte Du Mesme;Laurent de Saint-Luc;;;Conc_2122;C;"(c/ a) (,c ,a) | \
 [,c,,,d1] [,,'c{a}] [,,d,,a1] {,a}3/4 ,a/ | \
 [,,'cc{a}1] {a}/ {,a} [c,d{,,a}1] [,'c{4}] | \
 [,'ac{a}1] ,,d1 (c/ a) (,c ,a) | "
-70;C dur;23r;Menuet du mesme;Saint-Luc;;;Conc_2123;3;"[,,dcc{4}1] c [,a{a}] | \
+70;C dur;23r;Menuet Du Mesme;Laurent de Saint-Luc;;;Conc_2123;3;"[,,dcc{4}1] c [,a{a}] | \
 [,c,,,d1] (,c/ ,a) [,,d,,a1] | \
 [,a{,a}1] [,,,c{,,a}] [,,'c{a}] | \
 [,,d{4}/] ,,c ,,d ,a ,,d1 | \
 [,,d,,d1] c [,a{a}] | "
-71;A dur;23r;Le Prudent. Allemande du mesme;Saint-Luc;;;Conc_2112;C;"e/ | \
+71;A dur;23r;Le Prudent. Allemande Du Mesme;Laurent de Saint-Luc;;;Conc_2112;C;"e/ | \
 [ece,,a3/2] ,c/ e1 ['d{,,a}] | \
 [e{,a}1] 'd3/4 ,e/4 [,'cc{a}3/2] ,a/ | \
 [,,'e,,a/] ,,,g ,,a1 [,ae,,c3/2] ,c/ | \
 [,,aVe,e1] {,,,a}3/4 ,,c/4 [,,'cd{,,a}3/2] ,,a/4 ,,,d | "
-72;A dur;23v;Courante du mesme;Saint-Luc;;;Conc_2113;3;"e/ | \
+72;A dur;23v;Courante Du Mesme;Laurent de Saint-Luc;;;Conc_2113;3;"e/ | \
 [ece,,a3/2] e/ 'd ,e | \
 [,cee1] ,,,d/ (,e ,c ,a) | \
 [,,ee,a3/2] [,a,,,c/] [,c,,,e] ,,a | \
 [,ac,a3/4] [,,ee/4] [,,'cd{,,a}3/2] ,,a/4 ,,,d | \
 [,,a,,a3/2] ,,c/ ,,e ,a | "
-75;A dur;23v;Sarabande du mesme;Saint-Luc;;;Conc_2114;3;"[,ce,,a1] [,'cc{a}1] {,,a}3/4 ,a/4 | \
+75;A dur;23v;Sarabande Du Mesme;Laurent de Saint-Luc;;;Conc_2114;3;"[,ce,,a1] [,'cc{a}1] {,,a}3/4 ,a/4 | \
 [,,e,,a1] [,c,,,e] [,,a{,a}] | \
 [,ae,,c3/4] [,,,d{,,a}/4] [,,aVe{,a}1] {,,,a}3/4 ,,c/4 | \
 [,,'cd{,,a}3/2] ,,a/ [,,a,,a] ,,,,,c | "
-73;A dur;23v;Le Sauteur. Gigue du mesme;Saint-Luc;;;Conc_2115;3;",,e1 | \
+73;A dur;23v;Le Sauteur. Gigue Du Mesme;Laurent de Saint-Luc;;;Conc_2115;3;",,e1 | \
 [,,'a2] ,,,,c1 | \
 [,,aVe2] [,,c,c1] | \
 [,,ee2] ,,,,c1 | \
@@ -383,52 +383,52 @@ V[,bd,,d1] (,b/ ,a) ([,,d,a] ,,c) | \
 [,,'e,,a2] ,,,e1 | \
 [,,'e,,a2] [,a,,a1] | \
 [,ce,,a2] {,,a}1 | "
-74;A dur;24r;Gavotte du mesme;Saint-Luc;;;Conc_2116;C;",c1 e | \
+74;A dur;24r;Gavotte Du Mesme;Laurent de Saint-Luc;;;Conc_2116;C;",c1 e | \
 [,cee2] [,c,d/] ,e [,c,,c] ,a | \
 [,,ee1] ,,,,c1 [,,e,,a/] ,a ,c1 | \
 [,,e,,a/] [,a,,,c] [,c,,,e1] [,e,,a/] ,c [,a{,,,a}] ,,e | \
 [,,c{,,a}1] ,,,e ,c e | "
-76;A dur;24r;Menuet du mesme;Saint-Luc;;;Conc_2117;3;"(,c/ ,a) ([,,e,,a] ,,c) [,,a{,,a}] ,,,d | \
+76;A dur;24r;Menuet Du Mesme;Laurent de Saint-Luc;;;Conc_2117;3;"(,c/ ,a) ([,,e,,a] ,,c) [,,a{,,a}] ,,,d | \
 [,,aVe{,a}1] {,a} [,,c{a}] | \
 [,,e,,a1] ,a/ (,,e [,,c{,,,a}] ,,a) | \
 ([,,c{,,a}/] ,,a) ,,c ,,e ,,c1 | \
 (,c/ ,a) ([,,e,,a] ,,c) [,,a{,,a}] ,,,d | "
-77;C dur;24r;Sans titre;Saint-Luc;;;;C;"(,c/ ,a) | \
+77;C dur;24r;[Marche?];Laurent de Saint-Luc;;;;C;"(,c/ ,a) | \
 [,,dcc{4}1] ,,,c ,,,,c ,,,c | \
 [,,dcc{4}1] ,,d/ ,a (,c ,a) ,c a | \
 [c{,,a}1] (e/ c a) ,c [,a{,a}] ,,d | \
 [,a{a}/] ,,d ,a ,c ,a1 (,c/ ,a) | "
 78;C dur;24v;"La Feste de la Naissance de Mgneur Le Prince de
- Lokowis. Allemande du mesme";Saint-Luc;;;;C;",f/ | \
+ Lokowis. Allemande Du Mesme";Laurent de Saint-Luc;;;;C;",f/ | \
 [,fhh{4}3/2] [,f{,,a}/] [,h{,a}1] ['g{a}] | \
 [h{4}3/2] ,c/ ,d e ,a a | \
 [c{,,a}3/4] e/4 ['cc{,a}3/4] ,c/4 [,'ac{a}3/4] ,,d/ | \
 [,,dcc{4}3/2] ,,,c/ ,,,e (,,,,c ,,,,d) ,,,c | "
-79;C dur;24v;Courante du mesme;Saint-Luc;;;;3;"c/ | \
+79;C dur;24v;Courante Du Mesme;Laurent de Saint-Luc;;;;3;"c/ | \
 [ccd{4}3/2] (,d/ ,c ,a) | \
 [,,d,,a1] (,d/ ,c) [,a{,a}] ,,d | \
 [,,'c{a}3/2] (,,,,d/ ,,,,c ,,,,a) | \
 [,,d,c1] [,,'c,a1] ,,,,,d3/4 ,,d/4 | \
 [,a,c,c1] ,,,c/ ,,a ,,c ,,,c | "
-80;C dur;24v;Gigue du mesme;Saint-Luc;;;;6/4;",f1 | [h{a}3/2] {,,a}/ {,a}1 [,,'f{a}3/2] ,,,h/ ,,f1 | \
+80;C dur;24v;Gigue Du Mesme;Laurent de Saint-Luc;;;;6/4;",f1 | [h{a}3/2] {,,a}/ {,a}1 [,,'f{a}3/2] ,,,h/ ,,f1 | \
 [,,h{4}2] ,,,h1 ,,h3/2 a/ ,f1 | \
 [,,d,,a3/2] ,a/ ,c1 [,'aa{,a}3/2] ,c/ ,,d1 | \
 [,,'cc{a}2] ,,,c1 [,,c{a}] [,,d,,a] [,a,,,c] | "
-81;C dur;25r;Sarabande du mesme;Saint-Luc;;;;3;"[,,dcc{4}3/2] ,a/ [,c,,,d1] | \
+81;C dur;25r;Sarabande Du Mesme;Laurent de Saint-Luc;;;;3;"[,,dcc{4}3/2] ,a/ [,c,,,d1] | \
 [,'ac{a}3/2] ,,d/ [,,'cc1] | \
 [,,d,,a1] [,,,'c,c3/2] ,,,,d/ | \
 [,,,,'c{4}3/2] ,,,,a/ [,,,a{,,,a}1] | \
 [,,,c{,,a}3/2] ,,,c/ [,,a{,b}1] | \
 [,,'cc{a}3/2] [,,d,,a/] [,a,c,c1] | \
 [,,,c{4}1] [,,,'c,a{,,,a}3/2] ,,,b/ | "
-82;C dur;25r;Le Traquenard du mesme;Saint-Luc;;;Conc_5172;C;",,d3/4 ,a/4 ,c3/4 ,d/4 [,'c3/4] ,a/4 | \
+82;C dur;25r;Le Traquenard Du Mesme;Laurent de Saint-Luc;;;Conc_5172;C;",,d3/4 ,a/4 ,c3/4 ,d/4 [,'c3/4] ,a/4 | \
 ,,d1 [,c,,,d3/4] [a,,,a/4] [c,,,c3/4] \
 [e,,,d/4] [c,,,c3/4] [a,,,a/4] | \
 [,c,,,d1] [,c,,,d3/4] [a,,,a/4] [c,,,c3/4] \
 [c,,,c/4] [a,,,a3/4] [,c,,,d/4] | \
 [,'ac{a}1] [,,c{a}3/4] [,,d,,a/4] [,a,,,c3/4] \
 [,a,,,c/4] [,,d,,a3/4] [,,c{a}/4] | "
-83;C dur;25r;Menuet du mesme;Saint-Luc;;;;3;"[,,dcc{4}1] ,,,c ,,d | \
+83;C dur;25r;Menuet Du Mesme;Laurent de Saint-Luc;;;;3;"[,,dcc{4}1] ,,,c ,,d | \
 ,,,c1 ,,,,c ,,,c | \
 [,,d{4}1] ,,d/ ,a [,c{a}] ,d | \
 [,'c{4}1] ,,d c | \
@@ -436,131 +436,131 @@ V[,bd,,d1] (,b/ ,a) ([,,d,a] ,,c) | \
 [h{4}1] ,f h | \
 [,f{4}1] ,,h ,f | \
 [,,h{4}1]"
-84;B dur;25v;Le Bal du Melgruben fanfaree du mesme;Saint-Luc;;;;C;"[,,b{d}/] ,a ,b a c [a{,a}] ,b | \
+84;B dur;25v;Le Bal du Melgruben fanfaree Du Mesme;Laurent de Saint-Luc;;;;C;"[,,b{d}/] ,a ,b a c [a{,a}] ,b | \
 [,'a{,a}3/2] ,,d/ ,,b1 ,,b | \
 [a{d}/] ,b a c a c [a{,a}] c | \
 ['aa{d}3/2] ,b/ [,a{d}] ,b [,a{,a}] ,,d | "
-85;B dur;25v;La Marche des Masques du mesme;Saint-Luc;;;;C;"[,,baa{d}3/2] ,,d/ ,a3/2 ,,b/ | \
+85;B dur;25v;La Marche des Masques Du Mesme;Laurent de Saint-Luc;;;;C;"[,,baa{d}3/2] ,,d/ ,a3/2 ,,b/ | \
 [aa{d}3/2] ,,,,,d/ [a,,,a1] [f{d}] | \
 ['e{,a}3/2] ,f/ a ,b [,a{,a}] ,,d | \
 [,'a{d}3/4] ,,d/4 [,,b{,,,a}1] [,,d{,,a}] [,,'aa{,a}] | \
 [,,ba{d}3/2] ,,,a/ ,,b1 [,,d{,a}] | "
-86;B dur;26r;Arlequin dançant au Bal;Saint-Luc;;;;3;"[,,ba{d}1] a3/2 f/ | \
+86;B dur;26r;Arlequin dançant au Bal;Laurent de Saint-Luc;;;;3;"[,,ba{d}1] a3/2 f/ | \
 ['e{,a}3/2] e/ [f{a}1] | \
 [a,,,,a/] ,b a c [a{,a}] ,b | \
 [,a{d}/] ,,d ,a ,b [,a{,a}] ,,d | \
 [,,b{d}/] ,,a ,,b ,,d [,a{,a}] ,b | "
-87;B dur;26r;Scharamouche dançant avec la Guittarre;Saint-Luc;;;;3;"[,,baa{d}1] [,,baa3/2] ,,b/ | \
+87;B dur;26r;Scharamouche dançant avec la Guittarre;Laurent de Saint-Luc;;;;3;"[,,baa{d}1] [,,baa3/2] ,,b/ | \
 [,,da,a1] ,,,a3/2 ,,d/ | \
 [,aba{d}1] [,cbc{a}3/2] ,c/ | \
 ([adda{,a}1] a3/2) {,,a}/ | \
 [aaba{,,,a}1] [aabaa3/2] (,,b/4 ,,a) | \
 [,,,cb{,,a}/] {,a} {a} {,a} {,,a} {,,,a} | "
-88;B dur;26v;Le Bourgeois Gentilhomme;Saint-Luc;;;;C;"[aa{d}2] [,,b{,,,a}3/2] [,,d{,,a}/] | \
+88;B dur;26v;Le Bourgeois Gentilhomme;Laurent de Saint-Luc;;;;C;"[aa{d}2] [,,b{,,,a}3/2] [,,d{,,a}/] | \
 [,,'aa{,a}3/2] ,,,c/4 ,,a ,,,a3/2 ,,,a3/2 {,,a}/ | \
 [,,ba{,,,a}3/2] [,,d{4}/] [,ab{d}3/2] [,b{,,a}/] | \
 [,,'d{,a}3/2] ,,,f/4 ,,a ,,,f2 | \
 [,ab{d}3/2] ,a/ c3/2 ,a/ | "
-89;B dur;26v;La Belle Viennoise. Menuet;Saint-Luc;;;;3;"[,,baa{d}1] ,,,a/ ,,,a ,,,a ,,,a | \
+89;B dur;26v;La Belle Viennoise. Menuet;Laurent de Saint-Luc;;;;3;"[,,baa{d}1] ,,,a/ ,,,a ,,,a ,,,a | \
 [,,ba{,,,a}1] {,,,a} [,,d{,a}] | \
 [,ab{d}1] ,,b/ ,,b ,a ,a | \
 [aa{d}1] a f | \
 [aa{d}1] (,a/ ,b) a1 | \
 [aa{d}1] (,a/ ,b) a1 | "
-90;B dur;26v;Pantalon;Saint-Luc;;;Conc_45;C;"[,,baa{d}2] (,a/ ,b) a1 | \
+90;B dur;26v;Pantalon;Laurent de Saint-Luc;cf. Conc_45?;;;C;"[,,baa{d}2] (,a/ ,b) a1 | \
 [,'a{d}1] ,,d/ ,a ,,b2 | \
 ([,a{d}/] ,b) a1 (,a/ ,b) a1 | \
 [,,b{d}1] (,b/ ,a) [,,d,,a1] [,,b{a}] | \
 [,,d{,a}1] ,,,a ,,,a ,,,a | "
-91;F dur;27r;Le Triomphe de Bachus;Saint-Luc;;;;C;"[hh{,a}3/2] f/ ['f{,,a}3/2] ,h/4 f | \
+91;F dur;27r;Le Triomphe de Bachus;Laurent de Saint-Luc;;;;C;"[hh{,a}3/2] f/ ['f{,,a}3/2] ,h/4 f | \
 [,h{,a}3/2] {a}/ ,,,,,a f h a | \
 [ff{d}1] [ed{,a}] ['c{4}3/2] ,d/4 c | \
 [e{,a}1] f/ e [c{,,a}1] [e{4}] | "
-92;F dur;27r;Les Mattuttins;Saint-Luc;;;;6/4;",,d/ | \
+92;F dur;27r;Les Mattuttins;Laurent de Saint-Luc;;;;6/4;",,d/ | \
 [ad{,a}3/4] [a,,,,a/4] [c,,,,b/] ['c{4}3/4] a/4 c/ | \
 ['e{,a}3/4] ,f/4 e/ ,d3/4 ,f/4 e/ | \
 [f{a}3/4] h/4 [f{,,a}/] [e{,a}3/4] c/4 a/ | \
 [c{4}3/4] a/4 c/ ,,d3/4 ,a/4 ,c/ | "
-93;C dur;27v;Le Paysan du mesme;Saint-Luc;;;;C;"[,c{4}1] [c{,,a}] | \
+93;C dur;27v;Le Paysan du mesme;Laurent de Saint-Luc;;;;C;"[,c{4}1] [c{,,a}] | \
 [,,d,,a1] ([,d{,a}/] ,c) [,'ac{a}3/2] ,a/ | \
 [,c{4}1] ,,d1 [,c,,,d/] ,d ,c1 | \
 [,a,,,c/] ,c ,a1 [,,d,,a/] ,a ,,d1 | \
 [,,'cc{a}1] ,,,c1 [,a,,,c/] ,c [,a{a}1] | "
-94;C dur;27v;Le Savoyard avec la Curiosité et la Varieté du mesme;Saint-Luc;;;;C;"[hfh{4}2] ,f1 h | \
+94;C dur;27v;Le Savoyard avec la Curiosité et la Varieté Du Mesme;Laurent de Saint-Luc;;;;C;"[hfh{4}2] ,f1 h | \
 ['gf{a}3] [e{,a}1] | \
 [c{,,a}1] [a{,,,a}] [,cd{4}] [,ac{a}] | \
 [,c{4}1] ,c/ a c1 [,a{a}] | \
 [,c{4}1] ,c/ a c1 [,ac{a}] | "
-95;C dur;27v;L'Esclave du mesme;Saint-Luc;;;;C;",,h/ a | \
+95;C dur;27v;L'Esclave Du Mesme;Laurent de Saint-Luc;;;;C;",,h/ a | \
 [,f{4}1] {,,,a} {,,a} [h{4}] | \
 ['g{a}1] {,a} [,f{,,a}] [,h{,a}] | \
 [,f{,,a}1] [a{,,,a}] [,c{4}] [a{a}] | \
 [,f{4}/] a ,,h ,a ,,,h1 ,,h/ a | "
-96;C dur;28r;Le Ramonneur du mesme;Saint-Luc;;;;C;"[,,dcc{4}1] ,,c ,,d [,a{a}] | \
+96;C dur;28r;Le Ramonneur Du Mesme;Laurent de Saint-Luc;;;;C;"[,,dcc{4}1] ,,c ,,d [,a{a}] | \
 [,c{4}1] ,a ,c [a{a}] | \
 ([,c{4}/] ,a) (,c ,d) (,c ,d) (,c ,a) | \
 [,,d{4}1] ,,c ,,d [,a{a}] | "
-97;C dur;28r;Les Juifs du mesme;Saint-Luc;;;;C;"[,,dcc{4}2] [,,d{,,a}1] [,a{a}] | \
+97;C dur;28r;Les Juifs Du Mesme;Laurent de Saint-Luc;;;;C;"[,,dcc{4}2] [,,d{,,a}1] [,a{a}] | \
 [,cdc{4}2] ['a{a}3/2] ,c/4 a | \
 [c{4}1] e c [a{a}] | \
 [,c{4}1] a ,c [,a{a}] | \
 [,,dcc{4}2] ,,,c2 | \
 [,,,,c{4}2] [,,'cc{a}2] | "
-98;G dur;28r;Femme joyant de la Vie;Saint-Luc;;;;C;"[,ff{a}1] ,,f ,f ,,f | \
+98;G dur;28r;Femme joyant de la Vie;Laurent de Saint-Luc;;;;C;"[,ff{a}1] ,,f ,f ,,f | \
 ([,,c{a}/] ,,d) ,a1 ,,,c ,,a | \
 [,,'c{a}1] (,,a/ ,,c) ,,,c1 ,,,,a | \
 [g{a}1] ,f e [,'e] | "
-99;G dur;28v;La Dance des Ours du mesme;Saint-Luc;;;;C;"([,,c/] ,,d) ,a1 ,,,c ,,c | \
+99;G dur;28v;La Dance des Ours Du Mesme;Laurent de Saint-Luc;;;;C;"([,,c/] ,,d) ,a1 ,,,c ,,c | \
 [,'a{,,,a}2] [,,'c{a}2] | \
 ([,,c{a}/] ,,d ,,c ,,a) ,,,c (,,a ,,c ,,d) | \
 [,,'a{,,,a}2] [,,aba2] | \
 ([,,a{,,,a}/] ,,c ,,a) ,,,c"
-100;D dur;28v;Les Barquerolles du mesme;Saint-Luc;;;;6/8;"[ee{,,,a}3/2] [,,e,,a3/2] | \
+100;D dur;28v;Les Barquerolles Du Mesme;Laurent de Saint-Luc;;;;6/8;"[ee{,,,a}3/2] [,,e,,a3/2] | \
 [,e,,,a3/4] ,c/4 ,e/ [,aVf,a1] ,,,,a/ | \
 [,aa,e1] ,,,,a/ [,a,c3/4] ,,,,e/4 ,,,c/ | \
 [,c,,,a3/4] ,a/4 ,c/ [,'e,,a1] ,,f/ | \
 [,e,,a3/4] c/4 e/ [,cee,a3/2] | "
-101;D dur;29r;La Cornemuse du mesme;Saint-Luc;;;;C;"[,'a{,,,a}1] ,,a [,'a] ,,a | \
+101;D dur;29r;La Cornemuse Du Mesme;Laurent de Saint-Luc;;;;C;"[,'a{,,,a}1] ,,a [,'a] ,,a | \
 [,'a{,,,a}1] ,,a [,'a] ,,a | \
 [,'e{,,,a}1] ,,a [,'e] ,,a | \
 [,'e{,,,a}1] ,,a [,'e] ,,a | \
 ['e{,,,a}1] ,,a 'e ,,a | \
 ['e{,,,a}1] ,,a 'e ,,a | "
-102;C dur;29r;L'Esprit follet du mesme;Saint-Luc;;;;C;"[,cd{4}3/2] [,a,,,c/] [,,d,,a1] {,a}3/4 ,a/4 | \
+102;C dur;29r;L'Esprit follet Du Mesme;Laurent de Saint-Luc;;;;C;"[,cd{4}3/2] [,a,,,c/] [,,d,,a1] {,a}3/4 ,a/4 | \
 [,,'c{a}3/2] ,,a/ ,,,c1 {,a} | \
 [c,d{,,a}1] ['a{,a}3/4] ,c/4 [,ac{a}1] (,c/ ,d) | \
 [,'c{4}1] (,d/ ,c) [,'a,,,c1] ([,,d{a}/] ,,c) | "
-103;C dur;29v;Les Grenadiers du mesme;Saint-Luc;;;;C;"[,,dcc{4}3/2] ,,,c/ ,,d ,a ,c a | \
+103;C dur;29v;Les Grenadiers Du Mesme;Laurent de Saint-Luc;;;;C;"[,,dcc{4}3/2] ,,,c/ ,,d ,a ,c a | \
 [ccd{4}3/2] {a}/ ,,,,,d ,,,,a ,,,,c ,,,,d | \
 [,acc1] ,a3/4 ,a/4 [,a,,e1] [,a,,a] | \
 [,ac{a}1] (,,,,c/ ,,,,d) ,,,c (,,,,d ,,,,c ,,,,a) | "
-104;C dur;29v;Le Tambour Ture du mesme;Saint-Luc;;;;C;"[,fhh2] h2, | \
+104;C dur;29v;Le Tambour Ture Du Mesme;Laurent de Saint-Luc;;;;C;"[,fhh2] h2, | \
 ['c{a}3/2] a/ [,cd,,d2] | \
 [c{4}/] ,c c ,c ,,d1 ,,,c | \
 ,,,c/ ,,,,c ,,,c ,,,,c ,,,,,d1 {a} | \
 [,f{4}1] h ,f ,,h | \
 [,,,#h{4}2]"
 105;F dur;30r;"La feste du nom de Son Altesse Monseigneur
- Le Prince de Lokowis. Marche de St-Luc";Saint-Luc;;;;C;"[aVd{,a}3/2] c/ ['c{4}3/2] ,d/4 c | \
+ Le Prince de Lokowis. Marche de St-Luc";Laurent de Saint-Luc;;;;C;"[aVd{,a}3/2] c/ ['c{4}3/2] ,d/4 c | \
 [e{,a}1] ['f{a}/] ,h/4 f [h,,,,a1] ([f{d}/] e) | \
 ['c{4}3/2] c/ (e c) e [,c,,,a] | \
 [aa,,a1] [c,,,,b] ['c,,,,d3/2] a/ | "
-106;F dur;30v;Allemande du mesme;Saint-Luc;;;;C;",,a/ | [,,aad{,a}3/2] ,,b/ (,,d ,,b ,,a) ,,,c | \
+106;F dur;30v;Allemande Du Mesme;Laurent de Saint-Luc;;;;C;",,a/ | [,,aad{,a}3/2] ,,b/ (,,d ,,b ,,a) ,,,c | \
 [,,,aVd{,a}3/2] ,,,,,b/ (,,,,,d ,,,,,b ,,,,,a) {a} | \
 [ad{,a}3/2] [c{,,a}/] [e{,a}1] {d}3/4 f/4 | \
 ['c{4}1] ,/4 (,f/4 ,h) f [h,,,,a1]"
-107;F dur;31r;Courante du mesme;Saint-Luc;;;;3;"a/ | \
+107;F dur;31r;Courante Du Mesme;Laurent de Saint-Luc;;;;3;"a/ | \
 [aVd{,a}3/2] c/ (e a) | \
 ([f{d}/] e) ['c{4}3/2] a/4 ,c | \
 [a{,a}1] ,,d/ ,a ([,,d{,,a}] ,,b) | \
 [,,'aa{,a}1] ,,,a e | \
 [c{,,a}1] ,c/ a c e | "
-108;F dur;31r;Sarabande du mesme;Saint-Luc;;;;3;"[hh{,a}1] [,'f{,,a}1] [,h{4}/] f | \
+108;F dur;31r;Sarabande Du Mesme;Laurent de Saint-Luc;;;;3;"[hh{,a}1] [,'f{,,a}1] [,h{4}/] f | \
 ['e{,a}3/2] [,f{,,a}/] [a{,,,a}1] | \
 [c,,,,b1] [,,d,,a1] [,,'b{d}3/4] ,,a/4 | \
 [,,,'c{4}3/2] ,,,a/4 ,,,,c [,,,a{,a}1] | \
 [,,a{,a}1] ,a/ ,c ,d ,,a | "
-109;F dur;31v;Gigue du mesme;Saint-Luc;;;;3;"h1 | \
+109;F dur;31v;Gigue Du Mesme;Laurent de Saint-Luc;;;;3;"h1 | \
 {,a}1 ,h h | \
 {,,a}1 ,f h | \
 {,,,a}1 ,d f | \
@@ -569,108 +569,108 @@ V[,bd,,d1] (,b/ ,a) ([,,d,a] ,,c) | \
 ,,,,,a1 ,,d a | \
 {a}1 ,,b [,'c] | \
 [aVd{,a}2]"
-110;F dur;31v;Air en Rondeau du mesme;Saint-Luc;;;Conc_2205;C;"(h/ f) | \
+110;F dur;31v;Air En Rondeau Du Mesme;Laurent de Saint-Luc;;;;C;"(h/ f) | \
 [,h{,a}1] [,h{,a}/] f ['f{a}/] ,h/4 f | \
 [h,,,,a1] ,,,,,a/ {a} ,,,,,a {,a} | \
 [f{a}1] [f{,,a}] [e{,a}] | \
 ['c{4}1] (h/ f) (,h ,f) | \
 [,h{,a}1]"
-111;F dur;32r;Menuet du mesme;Saint-Luc;;;;3;"[,,a{,a}3/4] ,,b/4 ,,d1 [,,,c{4}] | \
+111;F dur;32r;Menuet Du Mesme;Laurent de Saint-Luc;;;;3;"[,,a{,a}3/4] ,,b/4 ,,d1 [,,,c{4}] | \
 [,,'ca{,a}3/2] [,,b{a}/] [,,d,,a1] | \
 [,a{d}/] (,,d ,,b ,,a) (,,,c ,,,a) | \
 ([,,,c{4}/] ,,,a) (,,,c ,,,e) ,,,c1 | \
 [,,a{,a}3/2] ,,b/4 ,,d1 [,,,d{4}] | "
-112;F dur;32r;Autre Menuet pour les Cor des Chasses du mesme;Saint-Luc;;;;3;"[,,,add{,a}1] ,,d/ ,,d ,,d ,,d | \
+112;F dur;32r;Autre Menuet Pour Les Cor des Chasses Du Mesme;Laurent de Saint-Luc;;;;3;"[,,,add{,a}1] ,,d/ ,,d ,,d ,,d | \
 [,,'aa{,a}1] ,,,,,d/ ,,,,,d ,,,,,d ,,,,,d | \
 [,,,ad{,a}1] ,,d/ ,,d ,,d ,,d | \
 [,,'aa{,a}1] ,,,,,d/ ,,,,,d ,,,,,d ,,,,,d | "
 113;C dur;32v;"La Defaittes des Français par les Allemand
- devant Turin. Marche de St-Luc";Saint-Luc;;;;C;",,d/ | [,,dcc{4}1] ,,,c ,,d1 ,c/ a | \
+ devant Turin. Marche de St-Luc";Laurent de Saint-Luc;;;;C;",,d/ | [,,dcc{4}1] ,,,c ,,d1 ,c/ a | \
 [ccd,,d1] {a} ,,,,,d1 [,,d,c3/4] [,a,a/4] | \
 [,,'cc3/2] ,,,a/ [,,d,c1] [,a,,a] | \
 [,c,,,d/] [,a,,a] [,,d,c] [,a,a] [,,'cc1] {a}3/4 ,,d/4 | "
-114;C dur;33r;Menuet en Rondeau du mesme;Saint-Luc;;;;3;"[,,dcc{4}1] [,'a{a}2] | \
+114;C dur;33r;Menuet en Rondeau Du Mesme;Laurent de Saint-Luc;;;;3;"[,,dcc{4}1] [,'a{a}2] | \
 ([,c{a}/] ,d ,c ,a) (,,d ,,c) | \
 [,,dcc{4}1] [,'a{a}2] | \
 ([,c{4}/] ,d ,c ,a) ,,d1 | \
 [cc{4}1] [ed{,a}2] | \
 ['c{a}1] [(a,,,,,(/] [c),,,,c)] [,c,,,d1] | "
-115;C dur;33v;Allemande du mesme;Saint-Luc;;;;C;",,,c/ | [,,,ccd{4}2] [,,,'c,c3/2] ,,,c/ | \
+115;C dur;33v;Allemande Du Mesme;Laurent de Saint-Luc;;;;C;",,,c/ | [,,,ccd{4}2] [,,,'c,c3/2] ,,,c/ | \
 [,,,ccd{4}1] {,,,a}1 {,,a}/ ,,,c (,,d ,,c) | \
 [,,aa{,a}1] (,d/ ,c) [,'a1] {,,,a}3/4 ,,d/4 | \
 [,,'cc{a}3/2] ,,a/ ,,,c1 [,aa{,a}] | "
-116;C dur;34r;Courante du mesme;Saint-Luc;;;;3;"c/ | \
+116;C dur;34r;Courante Du Mesme;Laurent de Saint-Luc;;;;3;"c/ | \
 [ccd{4}3/2] (e/ c a) | \
 ,c1 ,,d h | \
 ['g{a}3/2] ,,,,,a/ {a} {,a} | \
 [h{,,a}1] {4}1 ([h{,,a}/] g) | \
 [,h{,a}3/2] ,h/ [,'f{,,a}1] | \
 [aa{,,,a}1] [,'c{4}3/2] a/ | "
-117;C dur;34v;Sarabande du mesme;Saint-Luc;;;;3;"[,,dcc{4}1] ,,,c3/2 ,,d/ | \
+117;C dur;34v;Sarabande Du Mesme;Laurent de Saint-Luc;;;;3;"[,,dcc{4}1] ,,,c3/2 ,,d/ | \
 [,a,,,c1] ,,,c3/2 ,c/ | \
 [aa{,,,a}1] [,'cd{,,a}1] {,a}3/4 ,a/4 | \
 [,'ac{a}3/2] ,,d/ [,,dcc{4}] {,,,a} | \
 ([h{,,a}/] g) h (,f ,h) f | "
-118;C dur;34v;Menuet du mesme;Saint-Luc;;;;3;"[,f{4}1] [h{,,a}] ['g{a}] | \
+118;C dur;34v;Menuet Du Mesme;Laurent de Saint-Luc;;;;3;"[,f{4}1] [h{,,a}] ['g{a}] | \
 [h{4}1] {,,a} {4} | \
 [ed{,a}1] [cc{,,a}] [aa{,,,a}] | \
 [,'c{4}1] (,a/ ,c) ,,d1 | \
 [ed{,a}1] [cc{,,a}] [aa{,,,a}] | \
 [,c{4}1] ,c/ a ['a{,,,a}/] ,c/4 a | "
-119;C dur;35r;Gaillard du mesme;Saint-Luc;;;;C;"[,fh{4}2] [h,h2] | \
+119;C dur;35r;Gaillard Du Mesme;Laurent de Saint-Luc;;;;C;"[,fh{4}2] [h,h2] | \
 ['gf3] [hh1] | \
 ['gf3/2] [ed/] ['cc3/2] [aa/] | \
 [,'cd3] [cc1] | \
 [aa3/2] [,cd/] [,ac3/2] [,,de/] | \
 [,,'cc3/2] ,,,a/ [,,d,c3/2] [,ac,a/] | "
-120;C dur;35v;Chaconne du mesme;Saint-Luc;;;;3;"[,cdc{4}3/2] ,c/ | \
+120;C dur;35v;Chaconne Du Mesme;Laurent de Saint-Luc;;;;3;"[,cdc{4}3/2] ,c/ | \
 [aa{,,,a}1] [aa,,a3/2] a/ | \
 [ccdcc{,,a}1] [ccdcc3/2] c/ | \
 [ed{,a}1] ['cc{a}3/2] [aa/] | \
 [,cd{4}1] :||: c1 [,'c{a}3/4] ,a/4 | \
 [,,d,,a1] [a,,,a1] [,'a{,a}3/4] ,,d/4 | \
 [,,'cc{a}1] [,cd{,,a}] [,,'d,,a] | "
-121;g moll;36v;La Prise de Barçellonne. Allemande du mesme;Saint-Luc;;;Conc_2209;C;",,,c/ | \
+121;g moll;36v;La Prise de Barçellonne. Allemande Du Mesme;Laurent de Saint-Luc;;;Conc_2209;C;",,,c/ | \
 [,,,ca{a}3/2] ,a/ (,,b ,,d) ,a1 | \
 [,,,c{,,a}1] (,,a/ ,,b) [,,'a,b{4}3/2] ,,,c/ | \
 [,,,'ba{,,,a}3/2] ,,,,a/ (,,,,,b ,,,,,d) ,,,,a1 | \
 [,,,c{,,a}1] {4}3/4 ,,a/4 [,,'a{,,,a}3/2] ,,,c/ | "
-122;g moll;37r;Courante du mesme;Saint-Luc;;;Conc_4153;3/2;",a/ | [,abc3/2] ,a/ c1 ,,,c3/4 c/4 ['a,a1] ,,,a3/4 ,b/4 | \
+122;g moll;37r;Courante Du Mesme;Laurent de Saint-Luc;;;Conc_4153;3/2;",a/ | [,abc3/2] ,a/ c1 ,,,c3/4 c/4 ['a,a1] ,,,a3/4 ,b/4 | \
 [,ab3/2] ,a/ c1 [c,(b/] [,,d)] ['ba1] ,,,,a3/4 c/4 | \
 [,cabc{a}3/2] c/ ['a,,,,a] ,b [,'a{d}1] (,,d/ ,,b) \
 [a,b{,,,a}1] | "
-123;g moll;37v;Sarabande du mesme;Saint-Luc;;;Conc_4154;3;"[,,bc{a}1] [,,'ab{,,,a}3/2] ,,a/ | \
+123;g moll;37v;Sarabande Du Mesme;Laurent de Saint-Luc;;;Conc_4154;3;"[,,bc{a}1] [,,'ab{,,,a}3/2] ,,a/ | \
 V[,,bc3/2] [,,b{a}/] [,,d,,a1] | \
 [,a,,,b1] [,,,c{,,a}1] {4}3/4 ,,a/4 | \
 [,,'a{,,,a}3/2] ,,,c/4 ,,a ,,,c1 | \
 [,,bc{a}1] [,,,'a{,,,a}3/2] ,,,a/ | \
 [,,,cb{,,a}1] {,,a} {,,,a} | "
-124;g moll;37v;Gigue du mesme;Saint-Luc;;;Conc_4143;6/4;"[,,,c{a}3] ,,b2 ,a1 | \
+124;g moll;37v;Gigue Du Mesme;Laurent de Saint-Luc;;;Conc_4143;6/4;"[,,,c{a}3] ,,b2 ,a1 | \
 [cabc{a}3] ,,,,,b2 ,,,,,a1 | \
 [,f{a}3/2] e/ f1 ['e{4}2] ,f1 | \
 [,'e{,,,a}2] ,,,,,d1 [ca,,,b2] [a,d,,a1] | \
 [,'bb{a}2] [,aa{,a}1]"
-125;g moll;38v;Air pour les fluttes du mesme;Saint-Luc;;;Conc_2210;3;"[cabc{a}1] {a}/ ,,,,,a ,,,,,b [e,,,,d] | \
+125;g moll;38v;Air pour les fluttes Du Mesme;Laurent de Saint-Luc;;;Conc_2210;3;"[cabc{a}1] {a}/ ,,,,,a ,,,,,b [e,,,,d] | \
 ['b,,,a/] ,,,,,d [aa,,,c1] {a}3/4 c/4 | \
 [,b,,,d/] ,,,,,b ,,,,,a ,,,,,b [,b,,,d] [a,,,,a] | \
 [,a{d}/] ,,d ,,b ,,d ,a ,b | \
 [,,a,,d/] ,,b [,,'b,a1] {,,,a}3/4 ,,a/4 | "
-126;g moll;38v;Gavotte du mesme;Saint-Luc;;;Conc_4155;C;"[,ab{a}/] ,,d ,,b ,a | \
+126;g moll;38v;Gavotte Du Mesme;Laurent de Saint-Luc;;;Conc_4155;C;"[,ab{a}/] ,,d ,,b ,a | \
 [,,d,,a/] ,,,,,b ,,,,,a {a} [,,d,a{,b}1] [,,'b{,,,a}3/4] ,,a/4 | \
 [,,b{a}/] ,,a ,,,c1 ,b1 {a}3/4 ,b/4 | \
 [,aa{,a}1] (,b/ ,a) ([,,d{,,a}] ,,b) [,,a{4}] ,,,c | "
-127;g moll;39r;Menuet du mesme;Saint-Luc;;;Conc_4156;3;",,,c1 [,,ab] ,,,,a | \
+127;g moll;39r;Menuet Du Mesme;Laurent de Saint-Luc;;;Conc_4156;3;",,,c1 [,,ab] ,,,,a | \
 [,,bc1] [,,de] ,,,a | \
 [,a(b/] [,,a)] ,,,c ,,a c (,,b ,,d) | \
 ['ba1] ,a ,,d | \
 [,f,f/] e ['e,,e3/2] e/ | \
 [f,,,f1] [f,,,f] [e,,,d] | "
-128;g moll;39r;Menuet du mesme;Saint-Luc;;;Conc_4157;3;"[,abc{a}1] [c,,,,b] ['b,,,a] | \
+128;g moll;39r;Menuet Du Mesme;Laurent de Saint-Luc;;;Conc_4157;3;"[,abc{a}1] [c,,,,b] ['b,,,a] | \
 [cabc{a}1] (,,,,,b/ ,,,,,d) ,,,,a1 | \
 ([,b,,,d/] ,a) (,,d ,,b ,,a) ,,,c | \
 [,,,'ba/] (,,,,b ,,,,a) (,,,,,d ,,,,,b ,,,,,a) | \
 [,abc{a}1] [c,,,,b] ['b,,,a] | "
-129;g moll;39v;Chaconne du mesme;Saint-Luc;;;Conc_2211;3;",,,c1 ,,a | \
+129;g moll;39v;Chaconne Du Mesme;Laurent de Saint-Luc;;;Conc_2211;3;",,,c1 ,,a | \
 ,,b1 [,,bc] [,,de] | \
 [,ab1] ,,a [,ab] | \
 [,cbc1] [,ede1] [c,(b/] [,,d)] | \
@@ -678,103 +678,103 @@ V[,,bc3/2] [,,b{a}/] [,,d,,a1] | \
 ,,b1 [,,bc] [,,de] | \
 [,ab1] {d} [,,,cb] | "
 130;F dur;40r;"L'Entrée de Son Altesse Royalle dans le
- Dauphinée. Allemande du mesme";Saint-Luc;;;;C;",,,a/ | \
+ Dauphinée. Allemande Du Mesme";Laurent de Saint-Luc;;;;C;",,,a/ | \
 [,,,aVd{,a}/] ,,,,,d ,,,,a ,,,,c ,,,,d ,,,c ,,a ,,,a | \
 [,,dcc{,,a}3/2] ,,d/ [aad{,,,a}1] [,,'c3/4] c/4 | \
 [,'c,,,d/] ,,,,a ,,,,,d ,,,,,b [a,d,,a1] [cc{a}] | \
 [ed{,a}/] {a} {,a} {,,a} [fd{,,,a}3/2] f/ | "
-131;F dur;40v;Entrée du mesme;Saint-Luc;;;;C;"[ed{,a}2] ['cc{4}2] | \
+131;F dur;40v;Entrée Du Mesme;Laurent de Saint-Luc;;;;C;"[ed{,a}2] ['cc{4}2] | \
 [ed{,a}3/2] ,,,,,d/ {,a}3/2 [f{a}/] | \
 [h,,,,a3/2] [,,h,,a/] [a,,,a3/2] [c,,,,b/] | \
 ['c,,,,d3/2] a/ [aVd{,a}2] | \
 [ed{,a}2] [cc{,,a}3/2] ,,d/ | "
-132;F dur;40v;Gigue du mesme;Saint-Luc;;;;6/4;"[,,,aVd{,a}2] ,,a/ ,,,c ,,a ,,,a | \
+132;F dur;40v;Gigue Du Mesme;Laurent de Saint-Luc;;;;6/4;"[,,,aVd{,a}2] ,,a/ ,,,c ,,a ,,,a | \
 [,,de{,a}2] ,,,e1 ,,,c ,,,e ,,,a | \
 [,,,cc{4}3/2] ,,a/ ,,b1 ,,a ,,,c ,,,a | \
 [,,,,'c{a}3/2] ,,,,,a/ ,,,,,b1 [,,,a,a] {a} {,a} | "
-133;F dur;41r;Marche du mesme;Saint-Luc;;;;C;"[aVd{,a}1] {,a} [,,d,,a] [,,,c,d] | \
+133;F dur;41r;Marche Du Mesme;Laurent de Saint-Luc;;;;C;"[aVd{,a}1] {,a} [,,d,,a] [,,,c,d] | \
 [,,'aa{,a}1] ,,,a [,,d{,,a}] [,,d{4}] | \
 [,,'aa{,a}1] ,,,a ,,d1 (,a/ ,c) | \
 [aVd{,a}1] e/ e e1 e | \
 [aVd{,a}1] ,,d a1 (a/ c) | "
-134;F dur;41v;Gavotte du mesme;Saint-Luc;;;;C;",,,a1 ,,d | \
+134;F dur;41v;Gavotte Du Mesme;Laurent de Saint-Luc;;;;C;",,,a1 ,,d | \
 [,,'aa{,a}1] (,,,c/ ,,,a) [,,d{,,a}1] [,,,c{4}] | \
 [,,'a{,a}1] (,,,c/ ,,,a) [,,d{,,a}1] [,,,c{4}] | \
 [,,aa{,a}1] (,,b/ ,,d) ,a ,,d ([,,b{d}] ,,a) | \
 [,,,c,d/] (,,,,,b ,,,,,a) {a} [,,,a{,a}1] [,,dc{,,a}] | "
-135;F dur;41v;Bourée du mesme;Saint-Luc;;;;C;"(a/ c) | \
+135;F dur;41v;Bourée Du Mesme;Laurent de Saint-Luc;;;;C;"(a/ c) | \
 ['e{,a}1] ,f/ a {,,a} h {4} f | \
 ['e{,a}3/2] ,f/4 e ,d1 (f/ e) | \
 ['c{,,a}1] {,,,a}3/4 a/4 [,c{4}3/4] a/4 ['a{,a}/] ,c/4 a | "
-136;F dur;42r;Sarabande du mesme;Saint-Luc;;;;3;"[ed{,a}1] ,d3/2 f/ | \
+136;F dur;42r;Sarabande Du Mesme;Laurent de Saint-Luc;;;;3;"[ed{,a}1] ,d3/2 f/ | \
 [ccd{,,a}1] ,,d3/2 e/ | \
 [aaa{,,,a}1] ,,b3/2 c/ | \
 [,'c,,,d1] [,cd{d}3/2] a/ | \
 [,ab{d}1] [,,'d,,a3/2] ,,,f/4 ,,a | \
 V[,,bc{a}3/2] ,,d/ [,,a{,a}] ,,c | "
-137;F dur;42r;Menuet du mesme;Saint-Luc;;;;3;"[aVd{,a}1] [,,d,,a] [,'c,,,d] | \
+137;F dur;42r;Menuet Du Mesme;Laurent de Saint-Luc;;;;3;"[aVd{,a}1] [,,d,,a] [,'c,,,d] | \
 [a{,a}1] [a,,,,a] [c,,,,d] | \
 ['e{,a}1] (f/ e) ([,f{d}] ,d) | \
 ([c{4}/] a) (c e) c1 | \
 [aVd{,a}1] [,,d,,a] [,'c,,,d] | \
 [a{,a}1] [a,,,,a] [c,,,,d] | "
-138;F dur;42r;Autre Menuet du mesme;Saint-Luc;;;;3;"[aVd{,a}2] [cc{4}1] | \
+138;F dur;42r;Autre Menuet Du Mesme;Laurent de Saint-Luc;;;;3;"[aVd{,a}2] [cc{4}1] | \
 [ed{,a}1] (,,,,,d/ ,,,,,b ,,,,,a) {a} | \
 [aVd{,a}2] [cc{4}1] | \
 [ed{,a}1] (,,,,,d/ ,,,,,b ,,,,,a) {a} | \
 [aVd{,a}2] [cc{4}1] | \
 [ed{,a}1] [ccd{,,a}] [aac{,,,a}] | "
 139;f# moll;42v;"Tombeau sur la Mort de Mr François
- Ginter. Allemande de St-Luc";Saint-Luc;;;Conc_4144;C;",e/ | \
+ Ginter. Allemande de St-Luc";Laurent de Saint-Luc;;;Conc_4144;C;",e/ | \
 [,eeee{,a}3/2] ,,e/ ,,,g1 ,,f | \
 [,,cdd{,a}3/2] ,,e/ [,,'a1] {4}3/4 ,,,d/4 | \
 [,,aVe{,a}3/2] ,,c/ ,,e1 [,,e{,,a}] | \
 [,ee{,,,a}1] ,,e/ ,e ,,c e 'd ,e | "
-140;f# moll;42v;Courante du mesme;Saint-Luc;;;Conc_4145;3;",,a/ | \
+140;f# moll;42v;Courante Du Mesme;Laurent de Saint-Luc;;;Conc_4145;3;",,a/ | \
 [,,aVe{,a}3/2] ,,c/ ,,e1 | \
 [,,e{,,a}1] [,,'c,e{,,,a}3/2] ,,e/ | \
 [,,edde{4}3/2] ,,c/ [,,'a] ,,,d | \
 [,,aVe{,a}3/2] [,,c{a}/] [,,e,,a1] | \
 [,,,d,c1] [,,,'d,e3/2] ,,,,e/ | \
 [,,,,e{,a}3/2] ,,a/ ,,c ,,e | "
-141;f# moll;43r;Sarabande du mesme;Saint-Luc;;;Conc_4146;3;"[,eeee{,a}1] [ddedd3/2] ,,,g/ | \
+141;f# moll;43r;Sarabande Du Mesme;Laurent de Saint-Luc;;;Conc_4146;3;"[,eeee{,a}1] [ddedd3/2] ,,,g/ | \
 [,,,'e{,a}3/2] ,,,,g/ ,,,,e1 | \
 [,,fe{,a}1] [,,'ed{,,a}3/2] ,,e/ | \
 [,ee{,,,a}1] [,,'c3/2] ,e/ | \
 [,'de{4}1] ,,,,,e ,,,,,c | \
 [,ee,,a1] [,'cc{a}3/2] ,c/ | \
 [,ca{,a}1] [,'a] [,,ee] | "
-142;f# moll;43v;Gigue du mesme;Saint-Luc;;;Conc_4147;6/8;"[,,aVe{,a}3/4] [,,,,d{a}/4] [,,,,ea/] [,,,,ec3/4] \
+142;f# moll;43v;Gigue Du Mesme;Laurent de Saint-Luc;;;Conc_4147;6/8;"[,,aVe{,a}3/4] [,,,,d{a}/4] [,,,,ea/] [,,,,ec3/4] \
 ,,,d/4 [,,,,'de/] | \
 [,,,,e{,a}1] ,,,,,e/ ,,,,e1 [,,,d,e/] | \
 [,,a{,a}3/4] ,,c/4 [,,e{,,a}/] [,,e,e{,,,a}1] [,,'c/] | \
 [,,edde{4}1] ,,,,,e/ [,,edd1] [,,,d,e/] | \
 [,,a{,a}3/4] ,,c/4 ,,e/ [,,c{a}3/4] ,,e/4 ,a/ | "
-143;f# moll;43v;Gavotte du mesme;Saint-Luc;;;Conc_4148;C;"[,,,e{,a}1] [,,,'d/] ,,,,e | \
+143;f# moll;43v;Gavotte Du Mesme;Laurent de Saint-Luc;;;Conc_4148;C;"[,,,e{,a}1] [,,,'d/] ,,,,e | \
 ,a1 {,,a}/ ,,e [,ee{,,,a}1] ,,c/ ,e | \
 [,'de{4}1] (,,,,,e/ ,,,,,c) [,ee,,a1] [,cc{a}] | \
 [,'aa{,a}1] {,,a}/ ,,e {,,,a} ,,,,e ,,e ,,c | "
-144;f# moll;44r;Menuet du mesme;Saint-Luc;;;Conc_4149;3;"[,,,ee{,a}1] [,,,'dd{4}2] | \
+144;f# moll;44r;Menuet Du Mesme;Laurent de Saint-Luc;;;Conc_4149;3;"[,,,ee{,a}1] [,,,'dd{4}2] | \
 [,,,ee{,a}1] [,,,ee/] [,,cd] [,,ee1] | \
 [,,cd1] [,,,ee{,a}] [,,,dd{4}] | \
 [,,,ee{,a}1] [,,,ee/] [,,cd] [,,ee1] | \
 [,,cd1] [,,,ee{,a}] [,,,dd{4}] | \
 [,,,ee{,a}1] [,,,ee/] [,,cd] [,,ee1] | "
-145;A dur;44v;Allemande du mesme;Saint-Luc;;;;C;",c/ | [,cee,a1] [,,'e3/4] ,,c/4 ,,a1 [e,,,,e3/4] ,,,,a/4 | \
+145;A dur;44v;Allemande Du Mesme;Laurent de Saint-Luc;;;Conc_5386;C;",c/ | [,cee,a1] [,,'e3/4] ,,c/4 ,,a1 [e,,,,e3/4] ,,,,a/4 | \
 ['d,,,c3/2] ,,,,e/ ,,,,c1 ,,,,a | \
 [,c,,,e1] [,'a,,a3/4] ,e/4 [,,c,c1] [,c{,,a}] | \
 [,,e,,a1] [,,'c3/4] ,,a/4 [,,c{a}1] ,,,,c | "
-146;A dur;44v;Courante du mesme;Saint-Luc;;;;3;",,a/ ,,e ,a | \
+146;A dur;44v;Courante Du Mesme;Laurent de Saint-Luc;;;Conc_5387;3;",,a/ ,,e ,a | \
 ,c3/2 ,,,,,a/ [,c,,,e] [e,,,a] | \
 ['d,,,c3/2] ,,,,a/ ,,,,,e ,c | \
 e/ ,,,,a ,,,,c ,,c e3/4 d/4 | \
 V[e,,,,a1] (i/ g) ,h i | "
-147;A dur;45r;Sarabande du mesme;Saint-Luc;;;;3;"[,cee,a1] [,,'e3/4] ,a/4 [,cc{a}1] | \
+147;A dur;45r;Sarabande Du Mesme;Laurent de Saint-Luc;;;Conc_5388;3;"[,cee,a1] [,,'e3/4] ,a/4 [,cc{a}1] | \
 [,,aVe{,a}3/2] [,,c{a}/] [,,e,,a1] | \
 [,ae,,c3/4] ,,,d/4 [,,aVe,e1] ,,,,a3/4 ,,c/4 | \
 [,,'cd{,,a}3/2] ,,a/4 ,,,d [,,a,,a/] {a} | \
 [,aa{,a}1] [,,ed{,,a}] [,,c,e{,,,a}] | "
-148;A dur;45v;Gigue du mesme en Rondeau;Saint-Luc;;;;3/8;",c/ | \
+148;A dur;45v;Gigue Du Mesme en Rondeau;Laurent de Saint-Luc;;;Conc_5389;3/8;",c/ | \
 [,,aVe,a1] [,,c{,,a}/] | \
 [,,e,,a3/4] ,a/4 ,,e/ | \
 ([,,c{a}/] ,,e) [,,a{,a}] | \
@@ -783,43 +783,43 @@ V[e,,,,a1] (i/ g) ,h i | "
 [,,ee3/4] ,a/4 [,,e,a/] | \
 [,,e,c1] [,,'c{,,a}/] | \
 [,,aVe,a1] :| "
-149;A dur;45v;Menuet du mesme;Saint-Luc;;;;3;"[,cee,a1] [,,'e/] ,,c ,,a1 | \
+149;A dur;45v;Menuet Du Mesme;Laurent de Saint-Luc;;;Conc_5390;3;"[,cee,a1] [,,'e/] ,,c ,,a1 | \
 ,c1 {a} {,,a} | \
 [,cee,a1] [,,'e3/4] ,,c/4 ,,a1 | \
 ,c1 {a} {,,a} | \
 [,ce,,a1] (,e/ ,c ,a) ,,e | \
 [,e,,a1] ,,,,c1 [,a,,e3/4] [,,cd/4] | "
-150;A dur;46r;Gavotte du mesme;Saint-Luc;;;;C;"[,cee/] ,a [,,e,c] ,,c | \
+150;A dur;46r;Gavotte Du Mesme;Laurent de Saint-Luc;;;Conc_5391;C;"[,cee/] ,a [,,e,c] ,,c | \
 [,,a,e1] (,,c/ ,,e) [,,,,e{,,,a}] (,,,d ,,,e) ,,c | \
 [,,,'dc{,,a}1] ([,,,,e{,,,a}/] ,,,,c) [,,aVe{4}1] (,,c/ ,,e) | \
 [,ae,,c1] {a}3/4 ,c/4 [,,e,,a/] ,,c [,,e{,,,a}3/4] ,a/4 | "
-151;A dur;46r;Marche des Grecs du mesme;Saint-Luc;;;Conc_2084;C;"[,,aVe,a3] ,,a1 | \
+151;A dur;46r;Marche des Grecs Du Mesme;Laurent de Saint-Luc;;;Conc_2084;C;"[,,aVe,a3] ,,a1 | \
 [,,c{,,a}1] ,,e ,a ,c | \
 [,,e,,a1] ,,,,c ,,,,,e ,,,,c | \
 [,,aVe,a3] ,,a1 | \
 [,,c{,,a}1] ,,e ,a ,c | \
 [,,e,,a1] [,,,d,c] [,,a,,e] [,,c,a] | "
-152;A dur;46v;Allemande du mesme;Saint-Luc;;;;C;",,a/ | \
+152;A dur;46v;Allemande Du Mesme;Laurent de Saint-Luc;;;;C;",,a/ | \
 [,,aVe,a1] ,,,e/ ,,,,c [,c,,,e1] ['d,,,c] | \
 [ece,,a1] e/ ,c [,,e,,a1] [,c,,,e] | \
 [,e,,a1] ,,,,e/ ,,,,a ,,,,,c1 [,a,,,c] | \
 [,c,,,e1] ,,,,c/ ,,,,,e ,,,,,a1 [,,e,,a] | \
 [,ae,,c1] ,,,,a/ ,,,,,c [,,c{a}1] [,c{,,a}] | "
-153;A dur;46v;Courante du mesme;Saint-Luc;;;;3;"e/ | \
+153;A dur;46v;Courante Du Mesme;Laurent de Saint-Luc;;;;3;"e/ | \
 [ece,,a3/2] ,,,,c/ ,,,,,e ,,,,c | \
 [,,aVe,a3/2] ,c/ ,,e ,c | \
 [,,a,e3/4] [,,c,a/4] [,,'c,c3/2] ,,,e/4 ,,c | \
 [,,e,,a3/2] ,,e/ ,a ,c | \
 [,,a,e3/4] ,,c/4 [,,'c,a3/2] ,,a/ | \
 [,,,'dc3/2] ,,,,c/ ,,,,e ,,,d | "
-154;A dur;47r;Pour Endormir L'Enfans. Air du mesme;Saint-Luc;;;;C;",,,e1 ,,,,c | \
+154;A dur;47r;Pour Endormir L'Enfans. Air Du Mesme;Laurent de Saint-Luc;;;;C;",,,e1 ,,,,c | \
 [,,aVe,a2] [,,c{,,a}1] | \
 [,,e,,a1] ([,,c{,,a}1] ,,e/) ,a | \
 [,,'e,,a3/2] ,,c/ ,,a1 | \
 [,,aVe,a1] [,c,,,e] [,e,,a] | \
 [,'a,,,c2] [,,e,,a1] | \
 [,,'c{a}1] (,,c/ ,,e) [,,'a{,a}1] | "
-155;A dur;47r;Gigue du mesme;Saint-Luc;;;;3/8;",,a/ | \
+155;A dur;47r;Gigue Du Mesme;Laurent de Saint-Luc;;;;3/8;",,a/ | \
 [,,ee3/4] ,a/4 ,c/ | \
 [,,cd3/4] ,,e/4 [,,a,e/] | \
 [,,,dc3/4] ,,a/4 ,,c/ | \
@@ -827,155 +827,155 @@ V[e,,,,a1] (i/ g) ,h i | "
 [,,a,,e3/4] ,,,,,c/4 ,,,,,a/ | \
 [,ac{a}3/4] ,c/4 [,,e,,a/] | \
 [,,'c{,,a}3/4] ,,,,c/4 ,,,,a/ | "
-156;A dur;47v;Les Sujets font hommage et se Rejouissent;Saint-Luc;;;;6/8;",,,,c/ | \
+156;A dur;47v;Les Sujets font hommage et se Rejouissent;Laurent de Saint-Luc;;;;6/8;",,,,c/ | \
 ([,,a,,a/] ,,c ,,e) ([,,c{,,a}] ,,e) ,a | \
 [,,e,,a/] ,,,,c ,,,e ,,,,c ,,,,,e ,,,,c | \
 ([,,a,,a/] ,,c ,,e) ([,,c{,,a}] ,,e) ,a | \
 [,,e,,a/] ,b ,c ,,,,,c ,c ,b | \
 [,ccdc{,,a}/] ,,,d ,,c ,,,,c1 :| "
-157;A dur;47v;Gavotte du mesme;Saint-Luc;;;;C;"[,,a,,a/] ,,e [,,'c] ,,a | \
+157;A dur;47v;Gavotte Du Mesme;Laurent de Saint-Luc;;;;C;"[,,a,,a/] ,,e [,,'c] ,,a | \
 [,cc{a}/] ,e d ,c [e{,a}] d ,e e | \
 ['d{,,a}/] ,,,,e ,,,,c ,,,,a [e,,,,e] d e ,c | \
 [,e,,a1] [,c,,c1] [,a,,e/] ,,,d ,,,e ,,e | "
-158;A dur;47v;Bourée du mesme;Saint-Luc;;;;C;"(,,a/ ,,c) | \
+158;A dur;47v;Bourée Du Mesme;Laurent de Saint-Luc;;;;C;"(,,a/ ,,c) | \
 [,,'e,,a1] (,,c/ ,,e) ,a (,,e ,,c ,,a) | \
 [,ccd1] (,,,,c/ ,,,,e) ,,,d ,,,,e ,,,d ,,,,c | \
 [e,,,e1] (,,,,e/ ,,,,c) [b,,,b1] ([d,,,,c/] e) | \
 ['d,,,c3/2]"
-159;A dur;48r;Menuet du mesme;Saint-Luc;;;;3;"[,ce,,a1] [,,a,,e/] ,,,,a [,,'c,c1] | \
+159;A dur;48r;Menuet Du Mesme;Laurent de Saint-Luc;;;;3;"[,ce,,a1] [,,a,,e/] ,,,,a [,,'c,c1] | \
 [,,e,,a1] ,,e/ ,a [,'a{d}/] ,,e/4 ,a | \
 [,c{4}1] (,e/ ,c) [,a{,,,a}] ,,e | \
 [,,c{,,a}/] ,,a ,,c ,,e ,,c1 | \
 [,ce,,a1] [,,a,,e/] ,,,,a [,,'c,c1] | "
-160;c moll;48r;Allemande du mesme;Saint-Luc;;;;C;",,d/ | [,,dcb{4}2] ,/ ,,d/ [,,'b{,,,a}] ,,,d | \
+160;c moll;48r;Allemande Du Mesme;Laurent de Saint-Luc;;;;C;",,d/ | [,,dcb{4}2] ,/ ,,d/ [,,'b{,,,a}] ,,,d | \
 [,,,c{,,a}1] [,,dc{,,a}] [,ac{,,,a}] [,bd{4}] | \
 [,'ac{a}1] {,a} [,,dc{,,a}] [,,'ca{,,,a}] | \
 [,,dc{,,a}1] [,ad{,a}] [,'ac{a}3/2] ,,d/ | \
 [,,dcb{4}3/2] ,a/ ,,d ,a ,b a | "
-161;c moll;48v;Courante du mesme;Saint-Luc;;;;3;"c/ | \
+161;c moll;48v;Courante Du Mesme;Laurent de Saint-Luc;;;;3;"c/ | \
 [cb{4}3/2] (d/ c a) | \
 [,b,,,d1] (,d/ ,b) [,a{,a}] ,,d | \
 [,,'cc{,a}3/2] (,,,d/ ,,,c ,,,a) | \
 [,,d,b1] (,,,,d/ ,,,,b ,,,,a) ,,,,,d | \
 [,a,c,c1] ([,a{a}/] ,b) a ,a | \
 V[,b,,,d3/2] a/ c1 | "
-162;c moll;48v;Chaconne du mesme;Saint-Luc;;;;3;"[,bdc{4}1] ,,d1 c3/4 c/4 | \
+162;c moll;48v;ChaConne Du Mesme;Laurent de Saint-Luc;;;;3;"[,bdc{4}1] ,,d1 c3/4 c/4 | \
 [ca,,,c1] [ca,,,b3/2] c/ | \
 [c,d{b}1] 'a1 {,a}3/4 ,b/4 | \
 [,'ac{a}3/2] ,,d/4 ,a ,,d1 :||: \
 [,bdc{4}1] [,,'b{,,,a}3/2] ,,,d/ | \
 [,,,cb{,,a}3/2] ,b/ [,'a{,a}] ,,d | "
-163;c moll;49r;Gigue du mesme;Saint-Luc;;;;6/8;"[,,dcb{4}3/2] ,,,c1 ,,d/ | \
+163;c moll;49r;Gigue Du Mesme;Laurent de Saint-Luc;;;;6/8;"[,,dcb{4}3/2] ,,,c1 ,,d/ | \
 (,a3/4 ,b/4 ,d/) [,'b1] ,a/ | \
 V[,b,,,d3/2] {a}1 [,b,,,d/] | \
 [(a,,,(a3/4] [c,,,b/4] [d),,,d)/] ['b,,,b1] [a,,,a/] | \
 [c,,,b1] [c,,,b/] [,,dd1] [,a,a/] | \
 [,,'cc1] [,,d,b/] [,,d,d3/4] ,a/4 [,,'cc/] | "
-164;c moll;49r;Gavotte du mesme;Saint-Luc;;;;C;",,d/ ,a ,b a | \
+164;c moll;49r;Gavotte Du Mesme;Laurent de Saint-Luc;;;;C;",,d/ ,a ,b a | \
 [c,,,,d/] ,,,,a ,,,,b ,,,,d [aacc3/4] a/4 [,'b{a}3/4] ,a/4 | \
 V[,bd{4}1] ,,d1 d ,,,,,d3/4 d/4 | \
 {d}/ ,a c d {b} ,,d c a | "
-165;c moll;49v;Bourée du mesme;Saint-Luc;;;;C;"(,b/ ,a) | \
+165;c moll;49v;Bourée Du Mesme;Laurent de Saint-Luc;;;;C;"(,b/ ,a) | \
 [,,d{4}1] ,,,,,d/ {a} [,b,,,d1] [,b,,,d/] [a,,,a] | \
 [c,,,b1] (,,,,b/ ,,,,a) [,b,,,d1] [a,,,a/] [c,,,b] | \
 [d,,,d1] ,,,c3/4 c/4 ['a,,d/] ,b [,'a,a3/4] ,,d/4 | "
-166;c moll;49v;Menuet du mesme;Saint-Luc;;;;3;"[,,dcb{4}1] c {a} | \
+166;c moll;49v;Menuet Du Mesme;Laurent de Saint-Luc;;;;3;"[,,dcb{4}1] c {a} | \
 [,'b,,,d3/2] ,a/ [,b{a}1] | \
 [,,d{b}/] ,a ([,b{,a}] ,a) ([,,d{a}] ,,c) | \
 [,,d{4}/] ,,c ,,d ,a ,,d1 | \
 [,,d,,d1] [ca,,,c] {a} | \
 V[,b,,,d3/2] [a,,,a/] [c,,,b1] | "
-167;g moll;49v;L'Apollon Ouverture du mesme;Saint-Luc;;;Conc_3994;C;"(,a/4 ,c ,e) | \
+167;g moll;49v;L'Apollon Ouverture Du Mesme;Laurent de Saint-Luc;;;Conc_3994;C;"(,a/4 ,c ,e) | \
 [,f{a}3/2] ,e/ ,f1 [e,,,e] | \
 [f,,,f3/2] ,,,,e/ ,,,,f1 [,e,e] | \
 [,f,f3/2] e/ ['e,d3/2] ,f/ | \
 [,'ef3/2] ,c/ ,a1 ,,d | \
 [cab3/2] c/ ['c,a3/2] ,e/ | "
-168;g moll;50v;Allemande du mesme;Saint-Luc;;;Conc_4081;C;",,,c/ | \
+168;g moll;50v;Allemande Du Mesme;Laurent de Saint-Luc;;;Conc_4081;C;",,,c/ | \
 [,,,ca{a}1] {,,,a} [,,,ca{a}1] ,a/ ,,d | \
 V[,,bcv1] [,,d,,a] [,a,,,b1] ([,,d,,d/] ,,b) | \
 [,,'a,a1] ,,,,a/ ,,,,,d [,a,,,b1] [,,,'b,a] | \
 [,,,cab3/4] [,,a,,d/4] [,,'a,a3/2] ,,,c/ | "
-169;g moll;50v;Courante du mesme;Saint-Luc;;;Conc_4082;3;",,,c/ | \
+169;g moll;50v;Courante Du Mesme;Laurent de Saint-Luc;;;Conc_4082;3;",,,c/ | \
 [,,,ca{a}3/2] ,,a/ ,,b ,,d | \
 ,a1 ,,,c/ {a} ,,,,,a c (,,,,,b ,,,,,d) | \
 ['ba,,a3/2] ,,,,b/ ,,,,a ,,,,,d | \
 [c,,,,b1] [e,,,,d] [,'e,,a] | \
 [,f{a}3/2] ,,,,,a/ ,,,,,b ,,,,,d | "
-170;g moll;51r;Sarabande du mesme;Saint-Luc;;;Conc_4083;3;"[,f{a}1] ,,f3/4 e/4 ['e{,,,a}/] ,f/4 e | \
+170;g moll;51r;Sarabande Du Mesme;Laurent de Saint-Luc;;;Conc_4083;3;"[,f{a}1] ,,f3/4 e/4 ['e{,,,a}/] ,f/4 e | \
 [f{a}1] [f,,,f/] [,e,e] [,f,f] [e,d] | \
 [,'ef/] ,,d [,f,f1] ,,d3/4 e/4 | \
 ['e,f1] ,,,,a3/4 ,f/4 [,f{a}1] | "
-171;g moll;51r;Gigue du mesme;Saint-Luc;;;Conc_4084;6/8;"[,f{a}3/4] e/4 [f{4}/] ['e{,,,a}3/4] ,f/4 [,'e,,a/] | \
+171;g moll;51r;Gigue Du Mesme;Laurent de Saint-Luc;;;Conc_4084;6/8;"[,f{a}3/4] e/4 [f{4}/] ['e{,,,a}3/4] ,f/4 [,'e,,a/] | \
 [,f,f{a}3/4] [,,de/4] [,,ff/] [,,'de{4}3/4] [,,,ff/4] \
 [,,,ee{,,,a}/] | \
 [,,,ff{a}3/4] ,,,,,a/4 ,,,,,b/ [,,d,,a3/4] {a}/4 [,a{,b}/] | "
-172;g moll;51v;La Venus. Air du mesme;Saint-Luc;;;Conc_2208;C;"[,,,c{a}1] | \
+172;g moll;51v;La Venus. Air Du Mesme;Laurent de Saint-Luc;;;Conc_2208;C;"[,,,c{a}1] | \
 [,a,,e3/2] ,,d/ [,,b{a}1] | \
 [,,d,,d1] [,,'a,a2] | \
 [,,bc{a}1] (,,d/ ,,b) [,,a{4}] ,,,c | \
 [,,,'b{,,,a}3/2] ,,,,c/ ,,,,a1 | \
 [,,,d{a}/] ,,,b ,,,c ,,a ,,b ,,,c | \
 [,,a{,,,a}/] ,,,c ,,a ,,b ,,d ,,a | "
-173;g moll;51v;Rigodon du mesme;Saint-Luc;;;Conc_4085;C;",a1 | \
+173;g moll;51v;Rigodon Du Mesme;Laurent de Saint-Luc;;;Conc_4085;C;",a1 | \
 [,f{a}2] ['e{,,,a}2] | \
 [f{a}1] {a}/ ,,,,,a ,,,,,b1 {a} | \
 [c,,,b1] [e,,,,d] [,f,,a] [,'e{,,,a}] | \
 [,f{a}/] ,e ,f e ,f1 ,,f | "
-174;G dur;51v;Second Rigodon;Saint-Luc;;;Conc_4086;C;"c1 | \
+174;G dur;51v;Second Rigodon;Laurent de Saint-Luc;;;Conc_4086;C;"c1 | \
 [,ac{a}2] [,c,,,d2] | \
 [,'ac{a}1] {a}/ ,,,,,a [,a,,,c1] [,c,,,d] | \
 [,e,,a1] [c,,,c] [e,,,,d] [,,'e,,a] | \
 [,f{a}/] ,e ,f e ,f1 ,f | "
-175;g moll;51v;Menuet du mesme;Saint-Luc;;;Conc_4087;3;"[f{a}1] ['e{,,,a}2] | \
+175;g moll;51v;Menuet Du Mesme;Laurent de Saint-Luc;;;Conc_4087;3;"[f{a}1] ['e{,,,a}2] | \
 [,f{d}1] e [f{4}] | \
 [e{,,,a}1] (f/ e) ([,f,,a] ,e) | \
 [,f{a}/] ,e ,f e ,f e | \
 [f{a}1] ['e{,,,a}2] | "
-176;G dur;51v;Menuet en Rondeau;Saint-Luc;;;Conc_4088;3;"[,,cc{a}1] [,a,,,c] [,,,'ba] | \
+176;G dur;51v;Menuet en Rondeau;Laurent de Saint-Luc;;;Conc_4088;3;"[,,cc{a}1] [,a,,,c] [,,,'ba] | \
 [,,,cc1] [,,a,e] [,,cc] | \
 [,,d,e1] [,,'cc] {a} | \
 [,,a,a/] ,,,c ,,a ,,c ,,a1 | \
 [,,cc{a}1] [,a,,,c] [,,,'ba] | \
 [,,,cc1] [,,a,e] [,,cc] | "
-177;G dur;52r;Le Départ de la flotte. Allemande du mesme;Saint-Luc;;;Conc_2206;C;",,,c/ | \
+177;G dur;52r;Le Départ de la flotte. Allemande Du Mesme;Laurent de Saint-Luc;;;Conc_2206;C;",,,c/ | \
 [,,,cac{a}2] [,,aba{,a}1] {,,,a}3/4 ,a/4 | \
 [,,'cc{a}3/2] ,,a/ ,,,c1 [,a{,a}] | \
 [cc{,,a}1] [,e,,a/] c [,c,,,e1] [e,,,,a3/4] ,f/4 | \
 [,'e,,a3/2] ,c/ ,a1 [ba,,,d] | \
 [ca,,,c3/2] e/ ['e,,,,a3/2] ,f/4 e | \
 [gf{a}1]"
-178;G dur;52r;Courante du mesme;Saint-Luc;;;Conc_3537;3;",,,c/ | [,,,ca{a}3/2] ,,a/ ,,c {,a} | \
+178;G dur;52r;Courante Du Mesme;Laurent de Saint-Luc;;;Conc_3537;3;",,,c/ | [,,,ca{a}3/2] ,,a/ ,,c {,a} | \
 [,,d{,,a}1] [,,'c{,,,a}1] {4}3/4 ,,d/4 | \
 [,ad,,c3/2] ,,,c/ [,,dc,a] ,,,b | \
 [,,cc{a}1] {,,,a}/ ,,,c ,,a ,,,b | \
 [,,,c{,,a}1] c/ b c ,a | "
-179;G dur;52r;Sarabande du mesme;Saint-Luc;;;;3;"[g{a}/] ,,,,,a [c,,,,c1] ,,,,,d3/4 e/4 | \
+179;G dur;52r;Sarabande Du Mesme;Laurent de Saint-Luc;;;;3;"[g{a}/] ,,,,,a [c,,,,c1] ,,,,,d3/4 e/4 | \
 [,'e,,a3/2] ,f/ [e,,,,d1] | \
 [,a,,,c1] [c,,,c1] ,,,,,d3/4 e/4 | \
 [e,,,a3/2] ,f/ [,f{a}1] | \
 [f{a}1] ['e,,,,d1] ,,,,,a3/4 ,f/4 | \
 [,'e,,a3/2] [c,,,c/] [e,,,d1] | "
-180;G dur;52v;Gigue du mesme;Saint-Luc;;;Conc_4150;6/8;"([,f{a}/] ,a) ,f ,a ,,c ,a | \
+180;G dur;52v;Gigue Du Mesme;Laurent de Saint-Luc;;;Conc_4150;6/8;"([,f{a}/] ,a) ,f ,a ,,c ,a | \
 [,,'c{a}/] ,,,,a ,,,c ,,,,a ,,,,,c ,,,,a | \
 [,f{a}/] g ,f k ,h h | \
 ['gf{a}/] ,,,,,c {a} ,,,,a ,,,,,a ,,,,,d | "
-181;G dur;52v;Le Combat Naval;Saint-Luc;;;Conc_2207;C;"[,acc{a}/] {,a} {a} ,,,,,a ,,,,,c ,,,,,d ,,,,a ,,,,c | \
+181;G dur;52v;Le Combat Naval;Laurent de Saint-Luc;;;Conc_2207;C;"[,acc{a}/] {,a} {a} ,,,,,a ,,,,,c ,,,,,d ,,,,a ,,,,c | \
 [,a,,e/] ,,,,f ,,,,e ,,,,c ,,,,a ,,,,c ,,,,e ,,,,a | \
 [c,,,c/] ,,,,d ,,,,c ,,,,a ,,,,,d ,,,,a ,,,,c ,,,,,d | "
-182;G dur;53r;Bourée du mesme;Saint-Luc;;;Conc_4152;C;",f1 | \
+182;G dur;53r;Bourée Du Mesme;Laurent de Saint-Luc;;;Conc_4152;C;",f1 | \
 [g{a}1] ,f [k{,a}] {,,,a} | \
 [ccccc{,,a}1] ,,,,,c [ccccc] ,,,,,c | \
 [ec,,,d1] ,,,,,a [,f,,a] [,'e{,,,a}] | \
 [,f{a}/] ,e ,f e ,f1 g | \
 [g{a}1] ,c [e{,a}] ,a | "
-183;G dur;53r;Menuet du mesme;Saint-Luc;;;Conc_2860;3;"[,,cc{a}1] [,,'a{,,,a}2] | \
+183;G dur;53r;Menuet Du Mesme;Laurent de Saint-Luc;;;Conc_2860;3;"[,,cc{a}1] [,,'a{,,,a}2] | \
 [,,,cc{,,a}2] [,,a{,a}1] | \
 [,,cc{a}1] ([,,d{,a}/] ,,c) ([,,,e{,,a}] ,,,c) | \
 [,a{,,,a}1] ,,,,a/ (,,,,,d ,,,,,c ,,,,,a) | \
 [,ac{a}1] [,a{,a}/] ,,d ([,,c{,,,a}] ,,a) | \
 [,,'cc{a}3/2] [,,c{a}/] [,,d,,a1] | "
-184;G dur;53r;Gigue du mesme;Saint-Luc;;;Conc_4151;6/8;",a/ | \
+184;G dur;53r;Gigue Du Mesme;Laurent de Saint-Luc;;;Conc_4151;6/8;",a/ | \
 [,acc{a}1] [,,d,,a/] [,a,,,c1] [,,c{a}/] | \
 [,c,,,d1] [,a,,a/] [,,dc1] [,a,,e/] | \
 [,,'cc1] [,,a,,a/] [,,,c,c1] [,,a,,d/] | \
