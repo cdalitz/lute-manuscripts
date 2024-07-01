@@ -2,7 +2,7 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNota
 1;;1r;Lobett denn Herrenn alle Heiden;;;OT;;C;"[aabc2] [,efec1] [aabc] | [acd,a2] [cdda] | [cdda1] [cdf,c] [dffc] [hfff] | \
 [hhh,k1] ,l [hhk,,h2] | z1 [cdf,c] [cef,c] [dffc] | \
 [dffc/] ,a [f,,cd1] [hhl,,h] ,,,k |";germantab
-2;;1r;Coniugium tibi sit blandum;;Dreslerus;OT;;C;"[fd2] [fd3/4] [dc/4] | [cd1] [f,d] [da] [cd] | [ac2] [,dda1] [cdda] | \
+2;;1r;Coniugium tibi sit blandum;Dreslerus;;OT;;C;"[fd2] [fd3/4] [dc/4] | [cd1] [f,d] [da] [cd] | [ac2] [,dda1] [cdda] | \
 [cdda1] [acd,a] [cda] [abd,a] | \
 [abb,d1] [,dfec] [,cdca/] ,a/4 d c a d c |";germantab
 3;;1v;Ich stünd an einem Morgen;Ivo de Vento;;OT;;C;"f1 [fh/] ,h [cd] [cd] [cd] ,d | [fhi1] [cdf/] [ab] [acd] [ac] [,ddef] [,,de] | \
@@ -13,7 +13,7 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNota
 5;;3r;Susanna 5 vocum;Orlando di Lasso;;OT;ConcR860;C;",d2 b1 [bd] | [b,e1] [d,b] [fd] ,,,,f | [f,dd1] [f,ddf] [,dedb] [,dff,d] | \
 [,dddf1] [,dddf] [fddd] [h,ff,a] | \
 [if,h,f1] [ffg,,f] [,fg,d] [dfg,d] |";germantab
-6;;3v;Gaudete filiae Jerusalem;Meilandus;;OT;Kargel1586 / 17r - S- SkmaSackska / 3v;C;",d2 [f,d] | [fd1] [cd] [fd] [ha] | [cdda/4] a c d [cdaa/] ,c/4 ,a [acd,a2] | \
+6;;3v;Gaudete filiae Jerusalem;Meilandus;;OT;ConcR884;C;",d2 [f,d] | [fd1] [cd] [fd] [ha] | [cdda/4] a c d [cdaa/] ,c/4 ,a [acd,a2] | \
 [cdda1] [fddef] [cdda] [cdf,c] |";germantab
 7;;4v;Peterken;Clemens non Papa;;OT;ConcR3634;C;",f1 ,f/ ,f [gf1] [df/] d | [cd1] [ac] [ha] [hf] | \
 [h,i1] [he] [hf,,h/] ,,i [h,ff] [h,hf] | [fd,e/] ,a [df,c1]";germantab
@@ -23,14 +23,14 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNota
 [,bbcd1] [,aba,d] [,bdca/4] ,d a ,b ,d ,b ,a ,,d |";germantab
 9b;;8r;Dulcis memoria A S N;;;OT;ConcR856;C;"[,dfec2] [,dfec/4] ,c ,,f ,,e ,,f ,c ,d ,f | \
 [,ddef1] [,cdca] [,aaac/4] ,c ,d ,a ,c ,a ,,e ,,c |";germantab
-10;;9r;Gott ist mein Lichtt;;Psalm 27;OT;ConcR850;C;",a/ ,,,c/4 ,,a ,,b ,,d ,a ,c [,df] ,a ,c ,d [a,,c] ,c ,d a | \
+10;;9r;Gott ist mein Lichtt;;Psalm 27;OT;ConcR850 - ConcM45;C;",a/ ,,,c/4 ,,a ,,b ,,d ,a ,c [,df] ,a ,c ,d [a,,c] ,c ,d a | \
 [ca,ac/] ,a/4 ,c ,d a c d";germantab
 11;;10v;O s'io potessi o donna;;incomplete [missing foglio];OT;ConcR868;C;"[hd,f,d2] [hd,f,d/] d/4 g h h d f h | \
 [fd,ef1] [fd,ef] [dabc/4] a c d [caa,c/] a/4 c | \
 [abb,d/4] c d a";germantab
 12;;11r;Plus ne me peult M L D (M D L?);;;OT;ConcR1790;C;"[ha1] h/ ,a | ,f/4 f h i [hf/] f [df,c] c/4 d f d c ,f | \
 [cdf1] ,a/ ,,f [cdf1] [,df/] c |";germantab
-13a;;12r;Confite mihi Domini A S N;;Psalm 117;OT;ConcR2848;C;",,a2 [c,a1] ,,a | [caa,c1] [caa,c/] c [caa,c] ,a [,daac1] [,cee,c] [cce,,c/] ,,,,,e | \
+13a;;12r;Confite mihi Domini A S N;;Psalm 117;OT;ConcR2848 - ConcM135 - ConcM145;C;",,a2 [c,a1] ,,a | [caa,c1] [caa,c/] c [caa,c] ,a [,daac1] [,cee,c] [cce,,c/] ,,,,,e | \
 [cca,b1] [caa,c] [c,fe,c/] ,,e/4 ,,c ,,f ,,e ,,f ,,e ,,c ,,e |";germantab
 13b;;12v;Secunda pars;;Narrate omnia mirabilia ejus;OT;ConcR2849;C;",a1 ,a/4 ,,d ,a ,c [cd1] c/ ,c | [,daac1] ,d/ ,c [,aaac1] ,,,a/ ,,,c | \
 [,ddef/] ,,,c ,,,a ,,,,e [,aaac] [,c,c] [,daac] [,,cc] |";germantab
@@ -46,10 +46,10 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNota
 [,ffec/] ,e/4 ,c ,,f ,c";germantab
 17;;18r;Chi Passa. Schiess(?) balzen(?);;;OT;ConcR178;3;"[cef,c1] |: [cef,c3/2] [cef/] ,,,,c1 | [,efec1] [,ca,b] c/ a | \
 [,efec1] ,,,e/ ,,,c ,,,b ,,,,e | [,aabc1] h/ f e c |";germantab
-18;;18v;Bona Sera;;Scandello;OT;ConcR1242;C;"[ddff3/2] [ddff/] [cdda1] [aabc] | [dfg,d3/2] [dfg,d/] [ddff1] [cdda] | \
+18;;18v;Bona Sera;Scandello;;OT;ConcR1242;C;"[ddff3/2] [ddff/] [cdda1] [aabc] | [dfg,d3/2] [dfg,d/] [ddff1] [cdda] | \
 [aabc3/2] [aabc/] [,efec1] [aabc] | [abb,d/] [abb,d] [,ddef] ,,,e [,dff,d2] | \
 [ddff3/2] [ddff/] [cdda1] [aabc] |";germantab
-19;;18v;S'io canto;;Scandello;OT;ConcR2001;C;"[cdf,c1] [cdda2] [a,d,a/] ,a/4 ,c | [,dfec1] [,cee,c] z/ [,cee,c] [,dfec] [,dfec] | \
+19;;18v;S'io canto;Scandello;;OT;ConcR2001;C;"[cdf,c1] [cdda2] [a,d,a/] ,a/4 ,c | [,dfec1] [,cee,c] z/ [,cee,c] [,dfec] [,dfec] | \
 [cdda/4] ,d a c [a,d,a] ,c ,d a [,dfec/] [,acc,a] [,,feec] ,,e |";germantab
 20a;;19r;Mitt lieb bin Ich Vmbfangen herz allerliebste mein;;;OT;ConcR1927;C;"[cdda2] [acd,a1] [ddf,,d] | [cdda/] [cdda] [acd,a1] [,efec3/2] [aacc/] | \
 z/ [cdda1] [cdfec/] [ccfe] ,,e/4 ,,c ,,f/ ,,e | \

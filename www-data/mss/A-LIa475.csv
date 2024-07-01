@@ -5,7 +5,7 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNota
 [effc2] z1 [effc] |";germantab1AB
 2a;;2r;Si Vaga / 2 taiell / 1;;;OT;ConcR2061;C;"[d,b/] [c,d/4] ,,c [,,da] ,a | [ab,d/4] ,,,a ,,,c ,,,d [,dff/] [,a,b,,d] | \
 [,b,,a/4] ,d a c [db,c] ,d a c |";germantab1AB
-2b;;2r;Al suon / 2;;;OT;;C|;"[,dda{a}1] [cdda] | [fhi,f2] | [ffh,a/] [dfg,d1] [cdda/] | \
+2b;;2r;Al suon / 2;;;OT;ConcR3676;C|;"[,dda{a}1] [cdda] | [fhi,f2] | [ffh,a/] [dfg,d1] [cdda/] | \
 [acd,a1] [acd,a/] [acd,a] | [cdda1] [dab,,d] | [acd,a1] [cdda] | \
 [acd,a2] | [cdda2] :| [cdda1] z/ [cdda] |";germantab1AB
 3;;2v;Adesto;;;OT;;C;"[cdda2] [cdf,c1] [ddf,,f] | [cdda1] [cdda/] [aacc1] [cdda/] [cdda3/4] [d,,c/4] | \
@@ -531,7 +531,7 @@ z/ [aacc] | [fcd,a1] [effc] [hhik,h] [cdda] |";germantab1AB
 [acd,e/] [c,,a] [effc1] [ffh,,f3/2] || [ffh,,f/] | \
 [hf,gh1] [he,e,h] [eff,,a] [aacc] | \
 [acd,a/] c [effc1] [fcd,a3/2] || [fcd,a/] |";germantab1AB
-182;;88r;Da Ißrael aus Egipten zog / L B;;;OT;ConcR2000;C;"[,aaac2] [ccd,,c1] [a,,,e/] [,cc] | [cdf,c1] [fcd,,c2] [ccd,a1] | \
+182;;88r;Da Ißrael aus Egipten zog / L B;;;OT;ConcR2000 - ConcM132;C;"[,aaac2] [ccd,,c1] [a,,,e/] [,cc] | [cdf,c1] [fcd,,c2] [ccd,a1] | \
 [aac,c1] [,dfec] [,ccde2] | [,ccde2] [acd,a1] [a,c,,a/] ,a | \
 [cdf,c1] [fcd,,c] [ec,ce/] [cdda] [ec,,e] ,,,d |";germantab1AB
 183;;88r;Vatter unser im Himelreich / 16 / D M Luter;;;OT;ConcR180;C;"[cdda2] [cdda1] [,dfec] | [acd,a1] [cdda] [,dfec] [,cee,c] | \
@@ -554,13 +554,13 @@ z/ [aacc] | [fcd,a1] [effc] [hhik,h] [cdda] |";germantab1AB
 [ffh,c2] [acc,e] | [ffh,,f3/2] [hff,,e/] [ffh,,f1] [eff,,a/] ,f | \
 [ca,,c/] ,e/4 ,c ,e1 [aac,,a2] || [cdf,c2] [fcd,,c] | \
 [acd,a2] [,dde{a}] |";germantab1AB
-189;;89r;Der 1 Psalm / Wol dem der nicht wandelt / 21 / D M L;;;OT;ConcR1507;C;"[aacc2] [fc,ca1] [ea,c,a] | [ca,bc1] [a,cce] [ca,bc] [ea,c,a] | \
+189;;89r;Der 1 Psalm / Wol dem der nicht wandelt / 21 / D M L;;;OT;Conc1507 - ConcM20;C;"[aacc2] [fc,ca1] [ea,c,a] | [ca,bc1] [a,cce] [ca,bc] [ea,c,a] | \
 [aac,,a2] || [aacc2] | [effc1] [f,d,e] [he,e,h3/2] [eff,,a/] | \
 [ffh,,f1] [effc] [cff,c/] ,e/4 ,c ,e1 |";germantab1AB
-190;;89r;Der 3 Psalm / Ach Herr wie sindt meiner feindt so vil / 22 / Ludwig Öler;;;OT;;C;"[,ccce2] [acc,e1] [acd,a] | [ccd,,c1] [ecc,,b1] [fc,e,c] [ec,de] | \
+190;;89r;Der 3 Psalm / Ach Herr wie sindt meiner feindt so vil / 22 / Ludwig Öler;;;OT;ConcM22;C;"[,ccce2] [acc,e1] [acd,a] | [ccd,,c1] [ecc,,b1] [fc,e,c] [ec,de] | \
 [c,ee,c2] || [acc,e2] | [cdda1] [effc] [fdde] ,c/ [e,,ce] | \
 [cdda1] [a,d,a/] ,c [,dfec2] |";germantab1AB
-191;;89v;Ach Gott vom Himmel sieh darein / D 23 M L;;;OT;ConcR2252;C;"[ca,bc2] [da,c,a1] [c,,bc/] ,,a | [a,dcd1] [h,aa,h] [h,,ffd] [da,c,a] | \
+191;;89v;Ach Gott vom Himmel sieh darein / D 23 M L;;;OT;ConcM30;C;"[ca,bc2] [da,c,a1] [c,,bc/] ,,a | [a,dcd1] [h,aa,h] [h,,ffd] [da,c,a] | \
 [ca,bc2] || [fc,e,c2] | [da,a,d1] [c,da{a}] [a,d,ef] [fc,e,c] | \
 [da,a,d/4] ,,,,c ,,,c ,,,,a [ca,,c/] ,,,b [a,cc,a2] :|";germantab1AB
 192;;89v;Es spricht der unweissen mund woll / D 24 M L;;;OT;;C;"[aacc2] [acc,e1] [,efec] | [,acb,e1] [a,cce] [ca,bc] [eacc] | \
@@ -575,13 +575,13 @@ z/ [aacc] | [fcd,a1] [effc] [hhik,h] [cdda] |";germantab1AB
 195;;89v;In dich hab ich gehoffet herr / 27 / Adam Reißner;;;OT;ConcR2258;C;"[,aaac1] | [,aaac1] [c,de,c] [,cdca] [aab,,a] | \
 [,dfec1] [,cee,c] [,a,bc] || [,da,c/] ,a | \
 [cdf,c1] [effc] [ffh,,f] [effc] | [ccde1] [,ghge] [cc,e,c] ||";germantab1AB
-196;;90r;Ein Veste Burg ist unsser Gott / 28 / D M Luther;;;OT;ConcR1509;C;"[fc,ca1] | [fc,ca1] [fc,ca] [acd,a/] [cd] [effc] | \
+196;;90r;Ein Veste Burg ist unsser Gott / 28 / D M Luther;;;OT;ConcR1509 - ConcM64;C;"[fc,ca1] | [fc,ca1] [fc,ca] [acd,a/] [cd] [effc] | \
 [fhi,f3/4] h/4 [effc] ,,d [c,f,c/] [cef] | [a,cc,a2] || \
 [a,c1] [fc,e,c] | [ef,ce1] [cdda] [acd,a]";germantab1AB
-197;;90r;O Herre Gott begnade mich / 29 / Mattaus Greiter;;;OT;ConcR2035;C;"[,ccce2] [ca,ac1] [c,d,ec] | [a,cce1] [,cdca] [aa,,ce] [c,de,c] | \
+197;;90r;O Herre Gott begnade mich / 29 / Mattaus Greiter;;;OT;ConcR902 - ConcM69;C;"[,ccce2] [ca,ac1] [c,d,ec] | [a,cce1] [,cdca] [aa,,ce] [c,de,c] | \
 [e,cde2] || [acc,e2] | [eacc1] [ff,ce] [h,i,kh3/2] [fc,e,c/] | \
 [ef,ce1] [h,,,,e] [fca,a] [ec,de] | [c,de,c2] ||";germantab1AB
-198;;90r;Der 53 Psalm 30 / Der thöricht spricht es ist kein Gott / Wolfgang Dachstein;;;OT;ConcR1510;C;"[,abc2] [,cee,c1] [,cee,c] | [,acb,e1] [c,ee,c] [,efec] [ea,c,a] | \
+198;;90r;Der 53 Psalm 30 / Der thöricht spricht es ist kein Gott / Wolfgang Dachstein;;;OT;ConcR1510 - ConcM32;C;"[,abc2] [,cee,c1] [,cee,c] | [,acb,e1] [c,ee,c] [,efec] [ea,c,a] | \
 [c,e,ec2] || [,efg,e2] | [aa,c,a1] [,efec] [,efg,e] [,efec/] ,,f | \
 [,c,e,c/] ,,e/4 ,,c ,,e1 [,efec2] :|";germantab1AB
 199;;90v;Es wöll uns Gott genedig sein unnd / 31 / D M Luth:;;;OT;;C;"[ec,de2] [fc,e,c1] [ec,de] | [cdda1] [efh,e] [h,i,kh3/2] [,,fg/] | \
@@ -597,7 +597,7 @@ z/ [aacc] | [fcd,a1] [effc] [hhik,h] [cdda] |";germantab1AB
 202;;90v;Ich ruff zu dir herr Jhesu christ / 37 / D M Luth:;;;OT;ConcR2036;C;"[ca,ac2] [,dfec1] [aab,,a] | [,dfec1] [,aaac] [,db,cd] [aa,c,a] | \
 [ca,bc2] || [ca,bc2] | [fc,e,c1] [cdda] [,dfec] [acd,a] | \
 [dff,,a2] [cff,c1] ,e :| [fhh,,c1] ,d [hd,f,d] [fda{a}] |";germantab1AB
-203;;91r;Auss tiefer noth schrey ich zu dir / 34 / D M Luther;;;OT;ConcR1706;C;"[aacc2] [,efec1] [a,cce] | [cef,c2] [cef,c] | [aacc1] [cef,c] [eff,,a2] || \
+203;;91r;Auss tiefer noth schrey ich zu dir / 34 / D M Luther;;;OT;ConcM17;C;"[aacc2] [,efec1] [a,cce] | [cef,c2] [cef,c] | [aacc1] [cef,c] [eff,,a2] || \
 [fc,e,c2] [e,cce1] [caab] | [aacc1] [,c,,e] [,efec] [aa,c,a] | \
 [ca,cc/] ,,,b/4 ,,,,e ,,,b1 [a,cc,a2] :|";germantab1AB
 204;;91r;Mag ich unglück nit widerstan muß / 36;;;OT;ConcR2069;C;"[,ccce2] [a,d,ef1] [a,cc,a] | [ca,ac1] [fc,e,c] [ec,ce/4] ,,,,e [cdda/] [ec,,e] ,,,d | \

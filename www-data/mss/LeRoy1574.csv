@@ -81,11 +81,11 @@ M:C
 32;;53r;IE ne veux rien. More finelier handled;Lassus arr.;second setting;OT;ConcR1864;C;"c3/4 a/4 [,ef] ,f/8 ,e ,f ,e ,c ,e | \
 [a,c3/4] ,e/4 [,cde3/4] ,,,c/4 | \
 [,,abc/4] ,,,c/8 ,,,b ,,,c ,,,b ,,,,e ,,,b [ea,c,e3/4] c/4 |"
-33;;55r;CE faux amour;Lassus arr.;first setting;OT;;C;"[aacc2] | [acd,a1] [a,dce] | [,efec1] [acd,a] | \
+33;;55r;CE faux amour;Lassus arr.;first setting;OT;ConcR1995;C;"[aacc2] | [acd,a1] [a,dce] | [,efec1] [acd,a] | \
 [cdda1] c/ [,df,c] | [aacc/] [a,dce] [,efec1] | \
 [a,cc,a1] [,ac,,a] | [,cd,a/] ,a [,cdca] ,d | \
 [aa,c,e1] [,cdca] |"
-34;;55v;CE faux amour. More finelier handled;Lassus arr.;second setting;OT;;C;"[aacc3/4] ,,,e/4 ,,,c ,,,a ,,,,e ,,,,c | \
+34;;55v;CE faux amour. More finelier handled;Lassus arr.;second setting;OT;ConcR1995;C;"[aacc3/4] ,,,e/4 ,,,c ,,,a ,,,,e ,,,,c | \
 [acd,a/] ,,,,c [a,dce] c/4 a | \
 [,efec/] ,f/4 ,e [acd,a/] ,d/4 a |"
 35;;58r;LAs voulez vous;Lassus arr.;first setting;OT;ConcR1863;C;",,,c2 | ,,,c2 | [,abc2] | [,a,,c1] ,,a | [,,def1] [,aa] | \
@@ -173,22 +173,22 @@ M:3
 62;;85r;D'Vn grosier;;Wrong page nr 73r;OT;;C;"[,abc1] [,ab/] ,,,c | [,aab1] [,acc] | [,bd,a1] [,bd,a/] ,a | \
 [,,def1] [,dff,d] | [,dff/] ,,,,,d [,bd,a1] | [,abc1] [,,ff] | \
 ,d/ ,,f [,dff1] |"
-63;;85v;I Truste in God - The xi. Psalme;;;OT;ConcR884;C;"[cdf,c2] | [fc,e,c2] | [ec,de2] | [ccd,,c1] [ccde] | \
+63;;85v;I Truste in God - The xi. Psalme;;;OT;ConcM19;C;"[cdf,c2] | [fc,e,c2] | [ec,de2] | [ccd,,c1] [ccde] | \
 [ea,c1] [fc,,e] | [h,i,kh1] [fc,e,c] | [ec,de/] ,,,e ,,,,e [ec,d] | \
 ,,,,,c/ [cce] ,,,e ,,f | [cce,,c2] |"
-64;;86r;O Lorde giue eare to;;Wrong page nr 74r;OT;ConcR887;C;"[,ddef2] | [,cdca2] | [acd,a2] | [cdda1] [acd,a] | \
+64;;86r;O Lorde giue eare to;;Wrong page nr 74r;OT;ConcR887 - ConcM35;C;"[,ddef2] | [,cdca2] | [acd,a2] | [cdda1] [acd,a] | \
 [,da,c1] [,acc,a] | ,,,,a/ [,cd] ,,,c ,d | [,cdca2] | \
 [,,dca2] | [acd,a1] [acc,e] | [cdf,c2] | [cdda2] |"
-65;;86v;I Lift my harte to thee - The xxv. Psalme;;;OT;;C;"[aac,,a2] | [,ea,c1] [,ccce] | [,ac1] [ac,,e] | ,,c1 [ca,,c] | \
+65;;86v;I Lift my harte to thee - The xxv. Psalme;;;OT;ConcM43;C;"[aac,,a2] | [,ea,c1] [,ccce] | [,ac1] [ac,,e] | ,,c1 [ca,,c] | \
 [ea,c,a2] | ,,,,a/ [ac] ,,d ,,,c | [acd,a2] | [ea,c2] | \
 [ec,de2] | [fcd,a1] [ea,c,a] |"
-66;;87r;THe wicked with his - The xxxvj. Psalme;;Wrong page nr 75r;OT;ConcR903;C;"[,bbcd2] | [,bdca1] [,dff,d] | [abb,d1] [,bb,d] | \
+66;;87r;THe wicked with his - The xxxvj. Psalme;;Wrong page nr 75r;OT;ConcR903 - ConcM54;C;"[,bbcd2] | [,bdca1] [,dff,d] | [abb,d1] [,bb,d] | \
 [abd,a1] [cdda] | ,,,,,d/ [ddf] ,,,f ,,g | [ddf,,d2] | \
 [dfg,d2] | [bbd,,b1] [abb,d] | [,dff,d1] [,bbcd] |"
-67;;87v;Giue thankes - The cvii. Psalme;;;OT;;C;"[,aa,c2] | [,abc,a2] | [ccd,,c2] | [haa,,h1] [hf,,ha] | \
+67;;87v;Giue thankes - The cvii. Psalme;;;OT;ConcM125;C;"[,aa,c2] | [,abc,a2] | [ccd,,c2] | [haa,,h1] [hf,,ha] | \
 [fc,e,c2] | [ca,,c/] ,,,,a ,,,,c ,,,,e | ,,,a/ ,,,c ,,a ,,c | \
 [ccd,,c2] | [da,c,a1] [ccd,,c/] a |"
-68;;88r;LOrde to thee - The cxxx. Psalme;;Wrong page nr 76r;OT;ConcR920;C;"[ccd,,c2] | [,aa,c1] [,ca,b] | [,da,c1] [,cde,c] | \
+68;;88r;LOrde to thee - The cxxx. Psalme;;Wrong page nr 76r;OT;ConcM17;C;"[ccd,,c2] | [,aa,c1] [,ca,b] | [,da,c1] [,cde,c] | \
 [,aba,d/] ,d [,cb,,d] ,a | ,,,,,c/ ,,e ,,,e ,,f | \
 [,c,e,c/] ,,e ,,f ,c | [,dfec2] | [,abc,a1] [,cdca] |"
 69;;88v;MOn coeur;;;OT;;C;"[abb,d2] | [abb,d3/4] ,a/4 ,b/ ,d | [abb,d1] [abb/] ,,,,d | \
@@ -197,9 +197,9 @@ M:3
 70;;89r;HArte opprest;;Wrong page nr 77r;OT;ConcR424;C;"[,aaac2] [,aaac] [,aaac] [,abc,a/] ,,a ,,b ,,d [,abc1] [,aaa] | \
 [a,bcd1] [,bd,a] [,efec] ,e/ ,f c ,e \
 [dabc1] [dabc] [dabc/] ,c |"
-71;;89v;PRaise ye the lorde - The cxxxvi. Psalme;;;OT;;C;"[,aa,c/] ,,,,e ,,,,c ,,,,a | [,aa,,e/] ,,,,,c ,,,,,e ,,,,a/4 ,,,,c | \
+71;;89v;PRaise ye the lorde - The cxxxvi. Psalme;;;OT;ConcM152;C;"[,aa,c/] ,,,,e ,,,,c ,,,,a | [,aa,,e/] ,,,,,c ,,,,,e ,,,,a/4 ,,,,c | \
 [acc,e1] [cef,c] | [effc1] [ff,ce] | ,,,,,h/ [ha] ,,a ,,,,h | \
 [haa,gh2] | [ea,c2] |"
-72;;90r;WHen as we sat in Babilon - The cxxxvii. Psalme;;No page nr;OT;;C;"[,aa,c2] | [,da,c1] [aa,c,e] | [ccd,,c2] | [cdf,c2] | \
+72;;90r;WHen as we sat in Babilon - The cxxxvii. Psalme;;No page nr;OT;ConcM153;C;"[,aa,c2] | [,da,c1] [aa,c,e] | [ccd,,c2] | [cdf,c2] | \
 [ccd,,c1] [,ccde] | [cdf,c1] [ed,,c] | [fcd,a2] | \
 [cdda/] ,,a/4 ,,c ,,d/ ,,c/4 ,,d |"

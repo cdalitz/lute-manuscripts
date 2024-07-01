@@ -1,0 +1,110 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;A2r;Passo e mezzo;;;OT;;C;"[cdda1] d [f,a] d | [cdXda1] a [,dXda] ,b | X,,,,,d [,aXb] ,,,a ,,,,,d | \
+[,aba,d2] [daXbXc1] c | [aXbb,d2] [,b,ca] | \
+X[,da,c1] ,,,c ,,a ,,c |";italian7tab
+2;;A2v;Passo e mezzo;;;OT;;C;"[dab,,d2] | [dab,,Xd1] c/ a ,d ,b ,a ,,d | \
+X,,,,,d/ ,,a ,,b ,,d ,a ,c ,d a | [cdXda1] ,a/ ,c ,d a c d |";italian7tab
+3;;A3r;Gagliarda;;;OT;;3;"X[daXb,,Xd1] | [dab,,d2] [dab1] | [dab,,Xd1] c a | \
+X[cXdXda2] [cdd1] | [cdda2] [cdda1] | [aabXc1] ,,d [aabc] | \
+[acXd,a1] ,d [acd,a] | X[,ea,Xc2] [,ea1] | [,ea,c2] [dab,,d1] |";italian7tab
+4;;A3v;Saltarello;;;OT;;3;"[dab,,d1] | X[daXb,,Xd3] [dab1] ,,,a2 | \
+[dab,,Xd1] c a d c a | X[,ea,Xc3] ,e1 ,,a2 | \
+[,ea,c2] [aabc] [cdda] | X[daXb,,d3] [dab1] ,,,a |";italian7tab
+5;;A4r;Saltarello;;;OT;;3;"[aaXbXc2] [aab] [aabc] | [,ea,c4] [,ea,c2] | \
+[aabXc1] ,d a c [dabc2] | X[cXdda3] [cd1] ,,d2 | \
+[aaXbXc2] [aab] [aabc] | [,ea,Xc1] ,c ,e a [cdda2] |";italian7tab
+6a;;A4v;La Pavana del Duca;;;OT;Conc_4501;C;"[aabc2] | X[,ea,Xc2] [,ea1] ,,,,c | [,ea,c2] [aabXc/] d c a | \
+X[cXdXda1] [cd] ,,d ,,,a | [cdda2] [aabc/] ,,a ,,b ,,d | \
+X,,,,c1 ,e ,,a [aabc] |";italian7tab
+6b;;B1r;Saltarello;;;OT;;3;"[aabc2] | [,ea,Xc1] ,c ,e a [,ea,c2] | [,ea,c2] [aabXc] d | \
+[cdXca1] a c d [cdda2] | [cdda4] [aabc2] | \
+[,ea,Xc1] ,c ,e a c e |";italian7tab
+7a;;B1r;Pass'emezo;;;OT;;C;"X[daXbXc2] ,,,,,a | [dabXc2] c | [aabXc2] d | [dabXc2] c1 a | \
+[cdXda2] ,d1 ,c | ,d1 a c/ a c d | [cdda2] [cdd] |";italian7tab
+7b;;B2r;Saltarello;;;OT;;3;"[da,Xc,a2] c1 d c2 | a1 ,e a d c a | [cdXca3] a1 ,d ,c | \
+,d1 a c f d c |";italian7tab
+8a;;B2v;Pass'emezo;;;OT;;C;"[aabc2] [,ea,c] | [aabXc1] c/ d [cdXda1] d/ c | \
+[dab,,Xd2] a/ c d a | c1 d [cdXda2] | ,d1 a c/ a c d |";italian7tab
+8b;;B3r;Saltarello;;;OT;;3;"[aac2] [,ea,c] [aabc] | [dab,,Xd2] c1 a | \
+[cdXda2] ,a1 ,c ,d a | [cdXda2] d/ c a ,d | \
+[aabc2] [,ea,c] [aabc] |";italian7tab
+9;;B4r;Saltarello;;;OT;;3;"X[ea,Xc2] ,,,,,a [ea,c] | [ea,Xc2] ,,,,,a1 c [aa,,,a2] | \
+X[ea,Xc2] ,,,,,a [ea,c] | [ea,c2] ,,,,,a1 c [aa,,,a2] | \
+[ea,c1] c e a c/ a c e |";italian7tab
+10;;B4v;Piva;;;OT;;3;"[,aXbXc,a3] ,,d1 [,abc2] | ,,,,,a2 [,ab] ,,,c | \
+[,,da,Xc3] ,,c1 [,,da2] | [,,a,,c2] ,,c [,,da] | \
+[,abXc,a3] ,,d1 [,abc2] | [,abc,a2] ,,d [,abc] | \
+[,aa,Xc3] ,a1 ,,a2 |";italian7tab
+11;;C1v;Pass'emezo;;;OT;;C;"[bdXca1] a b d | b1 a ,d ,c | [,dda2] f1 e | \
+[fdda2] d1 b | [abb,Xd2] ,,b1 ,a | ,b1 ,d a b |";italian7tab
+12;;C2v;La Bertonzina;;;OT;;3;"[cXdXda2] c [cdda] | [cdda2] [acd,a] [cdda] | \
+[dbb,d4] [cdda2] | [aXcXd,a4] ,,,,a2 | [cdXda2] c [cdda] | \
+[cdda2] [acd,a] [cdda] | [dbb,d2] [ad,,a1] ,c ,d/ ,c ,a ,c |";italian7tab
+13;;C3r;Brando Franzese;;;OT;;C;"[,,dca1] ,a ,b ,,d | [,a,,,a1] ,b ,d ,e | [abXd,a1] ,a ,b ,,d | \
+[,a,,,a2] [,,dca] | [,,dca1] ,a ,b ,,d | [,a,,,a1] ,b ,d ,a |";italian7tab
+14;;C3r;Vensentino;;cf. Conc_45;OT;;3;",,,,a1 ,a ,c ,d [a,,,a2] | [cdXda1] d c a ,d ,c | \
+[,a,,,a2] ,,d [,a,,,a] | [ac,,a3] ,a1 ,,d2 | \
+,,,,a1 ,a ,c ,d [a,,,a2] |";italian7tab
+15;;C3v;Saltarello gagliardo;;;OT;;3;"[aaXcXc2] ,,,,,a [aacc] | [cXdXda1] a c d [cdda2] | \
+[aabc2] [a,a,Xc] [,ea,c] | [aaXc,,a3] [aac1] ,,,c2 | \
+X[cXcXca1] [cdda] ,,d | [cdXda1] a c d [cdda2] |";italian7tab
+16a;;C3v;Pavana;;;OT;;C;"[fh,a1] h f [df] | [cdda2] [acd,a] | [cabXc1] ,,d [ca] [cdda] | \
+[abb,d2] [,da,c] | [cdXda1] d c [abb,d] | \
+[,daa1] ,a/ ,c ,d ,a ,c ,d |";italian7tab
+16b;;C4v;Saltarello;;;OT;;3;"[fXh,a1] h [fh] | [fd2] [cdda] [acd,a] | X[dabc1] ,,a ,,b ,,d [dacb2] | \
+[cdda2] [abb,d] [,da,c] | [cdXda1] a c d [cdda2] |";italian7tab
+17a;;D1r;Pavana;;;OT;;C;"[fg,a1] g [fg] [df] | [bd,d1] ,,,c [bdda] [abb,d] | \
+[bdXda/] a b d [bdda1] [abb,d] | [,d,df2] [,cdca] | \
+[fb,Xd/] ,a ,b ,d [fb,d1] [dabc] |";italian7tab
+17b;;D1v;Saltarello;;;OT;;3;"[fg,a4] [df2] | X[bXbXdd4] ,,,c2 | [bdda4] [abb,d2] | \
+[,d,db4] [,cdca2] | [fb,d4] [dabc2] | [bdda4] [abb,c2] | \
+X[,dda1] ,,,c ,,,a ,,,d ,,,c ,,,a | [,cdca4] ,,,c2 :||:";italian7tab
+18a;;D1v;Pass'emezo della Battaia;;;OT;ConcR1694;C;"X[fd,a2] ,,,,e1 ,,,,c | [fcd,a2] [fcd,a] | [cdXda1] d c a | \
+[cdda2] [dab,,d] | X[dab,,d1] ,,,,,c X[dab,,d] ,,,,a | \
+[dab,,d2] [dab,,d] | [acXd,a1] ,a ,c ,d |";italian7tab
+18b;;D2r;Saltarello del Pass'emezo della Battaia;;;OT;;3;"X[fd,ef2] ,,,,e ,,,,c | X[fcd,a1] ,a ,c ,d [fcd,a2] | \
+[cdXda1] a c d [cdda2] | [cdda4] [da,a,d2] | X[da,a,d2] ,,,,a ,,,,c | \
+X[da,a,d2] ,,,,a ,,,,c |";italian7tab
+19;;D3r;Saltarello;;;OT;;3;",d1 a | [cdd2] ,,,a c1 a | X[,db,,Xd2] ,,,a ,c1 ,a | \
+[acXd,a1] ,d a ,c ,d a | [cdd2] ,,,a :||: ,d1 a |";italian7tab
+20a;;D3v;Pavana gagliarda;;;OT;;3;"X[cXdXda1] | X[cXdXda2] [cdd1] | [cdda1] f/ d c a | \
+[cdda2] [,da,c1] | [abb,d2] [cdda1] | X[daXb,,Xd2] [dab1] | \
+[dab,,d2] [cdda1] | [dab,,Xd2] [dab1] | [dab,,Xd1] ,d/ a c d |";italian7tab
+20b;;D4r;Seconda parte;;;OT;;3;"[cdda1] | [cdda1] ,d/ ,c ,d a | c/ d f d c a | \
+[cdda1] ,d/ ,c ,d a | c/ d f d c a |";italian7tab
+21;;E1r;Saltarello;;;OT;;3;"X[cXdXda2] | [cdda3] X[cXdXd1] ,,,a2 | [,da,c2] [abb,d] [cdda] | \
+X[daXb,,Xd3] [dab1] ,,,a2 | X[daXb,,Xd2] [dab] [aXbXb,Xd] | \
+[aXbXb,Xd4] [ab1] ,,b2 | [abb,d2] [,dba,Xe] ,c1 ,a |";italian7tab
+22;;E1v;La cara cosa;;;OT;ConcR202;3;"[aXcXd,a2] ,,,c [acd,a] | [acXd,a1] ,a ,c/ ,a ,c ,d [acd,a2] | \
+[bdXda1] a/ b d b a b d b a ,d |";italian7tab
+23;;E2r;Il vecchio da conegian;;;OT;;C;"[acd,a2] | [,daa2] [aabc] | [,cdXca1] ,a ,c ,d | \
+[,cdca2] [cdXda1] a | [,da,Xd1] ,c [,aba,Xd] ,d | \
+X[,cXd,a2] ,,,c | ,,,,a2 [,cdca] | [,dda2] [aabc] |";italian7tab
+24;;E2v;Saltarello La vilanella;;;OT;;3;"[cdda2] [cdXda1] a c d | [cdXd1] ,c ,d a [cdda2] | \
+[dabXc1] c d a c d | [cdda3] [cd1] ,,d2 |";italian7tab
+25;;E3r;Il Formigoto;;;OT;;3;"[fb,d,b2] [fb,d,b] [dabc] | [bbd,,b2] [bbd,,b] [abb,d] | \
+[bdXda1] d/ b d b a d a ,d ,c ,a | [aXcXd,a3] [acd1] ,,,c2 |";italian7tab
+26;;E3v;Saltarello del Formigoto Madonna Tenerina;;;OT;;C;"[aabXc3] ,d/ a | [cdXda1] a ,e ,c | [,ea,Xc1] ,a ,c ,e | \
+[aabXc/] ,,a ,,b ,,d ,a ,c ,d a |";italian7tab
+27;;E4r;Il tradiore;;;OT;;3;"X[cXdXda2] | [cdXda3] [cd1] ,,d2 | ,,,a1 ,c ,d a c a c d | \
+X[cdXda3] [cd1] ,,d2 | [cdda2] [dabc] [cdda] | \
+[abb,d4] [abb,d] [,dda2] a1 ,d |";italian7tab
+28;;E4v;Mia mare e anda al merc.o per comprarme un pignolo;;cf. Azzaiolo, Il Terzo Libro delle Villotte 1569;OT;;3;"X[cXdXda2] | X[cXdXda3] [cd1] ,,d2 | [,da,c2] [abb,d] [cdda] | \
+[daXb,,Xd2] ,,,a [cdda] | [abb,d2] ,,b [,db,c] | \
+[aXcXd,a2] ,,,c X[,da,Xc] | ,,,,,d2 [acXd,a1] ,a ,d ,c |";italian7tab
+29;;F1r;Fantasia;;;OT;;C;"[bdda1] ,,b/ ,,d ,a ,b ,d a | b2 d1 f | [gd2] ,,,f1 ,,,d | \
+,,,f1 [dde] ,,,d ,,,b | ,,,a1 [bdd] [,de] ,,,,b |";italian7tab
+30;;F1v;Fantasia;;;OT;;C;"[aac,,a1] c/ a ,d ,c ,a ,,d | [,,cc1] ,,a [,aaa2] | \
+[aa,,Xe1] ,,e/ ,,c ,,e1 ,a | [,aa,Xc1] ,,e ,a ,c |";italian7tab
+31;;F2v;Piangete occhi miei lassi;;;OT;ConcR3665;C;",a4 ,a | [,a,c4] [,a,c] | [,b,c4] ,,,c2 ,,b | \
+[,bdd4] ,,,d2 [,bb] | [,a,a2] ,,,d [abb,d4] | \
+[abd,a1] ,,,,c [a,bcd] ,,,a [aabc2] [abd,d] |";italian7tab
+32;;F3r;Vray dieu damors Iosquin;;;OT;;C;",,,,c2 | ,,,,c2 ,,,,c | ,,,c2 ,,,,c1 ,,,,e | \
+,,,b1 ,,,c ,,a ,,,,,g | [,,,a,h1] ,,,,,g ,,,,,h ,,,a | \
+[,cc1] ,,a ,,c ,,e | ,a2 [,a,c] |";italian7tab
+33;;F4r;Fantasia;;;OT;;C;"[abb,d2] ,d1 ,b | [,db,c2] [,aba,d] | [,bdca2] ,,a | \
+[,aba,d2] ,,,,,a | [,,d,aXc2] ,,,b | X[dabXc2] ,,,,,a | \
+[cdda2] [,da,c] | [abb,Xd2] ,,d | [,db,c2] [dabc] |";italian7tab
+34;;G1r;Fantasia;;;OT;;C;"[,,abXc3] ,,,c1 | [,,abXc1] ,,,c ,,a ,,c | \
+[,,da,c2] ,,,,,a1 [,,ccc] | X[,,da,c2] ,,,b | [,,ccca2] [,,ab] | \
+[,,cXcXca1] ,,a ,,c ,,d | [,,cXcXca1] ,,d ,,c ,,a |";italian7tab

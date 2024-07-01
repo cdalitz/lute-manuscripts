@@ -35,7 +35,7 @@ z1 [edea] [edea] [edea] | [daac/] c/4 d [caca/]";french4tab
 [caca/4] a c d [caca/] c";french4tab
 17;;13v;Finy le bien. Response;;;Cittern;ConcR3014;C;"[daa2] [feae/4] e f h [feae/] h | [kak/] m [nak] ,,m [nakm1] m/ k | \
 [ifia/] k k [ig] [kagi2] |";french4tab
-18;;14v;Godt es mijn licht;;;Cittern;ConcR850;C;"[,ag2] [,dg1] [,ea] | [,gge1] [,ge] [,gge] [fea] | \
+18;;14v;Godt es mijn licht;;;Cittern;ConcR850 - ConcM45;C;"[,ag2] [,dg1] [,ea] | [,gge1] [,ge] [,gge] [fea] | \
 [eaca/] d [baca] a [baca1] [daab] | \
 [edea1] [fdde/] ,a [faae1] [ec/] d |";french4tab
 19;;15v;Si mon traveil;;;Cittern;ConcR1726;C;"[geae1] e [daac/4] c d e [daac/] e/4 g | \
@@ -57,7 +57,7 @@ z1 [edea] [edea] [edea] | [daac/] c/4 d [caca/]";french4tab
 z1 [heeg] [kiak] [mkmk] | [nkkm/] ,,m ,,,m ,i [mkm1] [kaka] |";french4tab
 27;;20v;Quand mon mary vient de dehors;;;Cittern;ConcR875;C;"[de1] [fe/] [fe] [hd1] [ka] | [,mk1] [,ki] [laa] [,,ah/] [,,ah] | \
 [,de1] [,ag] [,dg] [,ce] | [,ag1] [ng/] n [mg] ,e [kh] ,h |";french4tab
-28;;21r;Amour est un grand maistre;;Orig: f. 24r;Cittern;;C;"[daac1] [caca/] [dcac] [edea1] [daac] | [daca1] [caca] [,aac/] d ,a ,,,d | \
+28;;21r;Amour est un grand maistre;;Orig: f. 24r;Cittern;ConcR3212;C;"[daac1] [caca/] [dcac] [edea1] [daac] | [daca1] [caca] [,aac/] d ,a ,,,d | \
 [daac1] [caca/] [dcac] [edea/] e [daac] d |";french4tab
 29;;21v;Ne pense plus;;;Cittern;ConcR2964;C;"[de1] [fe/] [fe] [hd] [ka] [hg] n | \
 [,om/] [,mk] [,ki1] [kaa] [,,ab/] [,,ab] | \
@@ -382,9 +382,9 @@ _127d;;70v;La reprinse;;;Cittern;ConcR3035;C;"[fede3/2] e/ [daac/4] c d e d/ c |
 [caca/] a/4 c [daca/] c [daac2] :||:";french4tab
 142;;76v;Sloef sloef waer hebdi gheweest;;;Cittern;ConcR3013;C;"[daac/4] c d e [daac/] d [edea/4] g h e [geae/] g | \
 [daac/4] c d e [daac] a c d [edea] c d e [geae1] :||:";french4tab
-143a;;77r;Era di magio;;;Cittern;ConcR3084;C;"[fade2] [edea1] e | [daab1] d [caca2] | z1 [caca] [daab] e | \
+143a;;77r;Era di magio;;;Cittern;ConcR3084,ConcM15;C;"[fade2] [edea1] e | [daab1] d [caca2] | z1 [caca] [daab] e | \
 [fede1] ,e/ f [edea1] e | [daab1] c/ a [caca2] :||:";french4tab
-_143b;;77r;Autrement;;;Cittern;ConcR3085;C;"[fed/] ,,e [fa] ,c [edea/4] d e f [edea/] d/4 c | \
+_143b;;77r;Autrement;;;Cittern;ConcR3085,ConcM15;C;"[fed/] ,,e [fa] ,c [edea/4] d e f [edea/] d/4 c | \
 [daab/4] ,,,a ,,,b ,,,d [daab/] ,,,a/4 ,,a";french4tab
 144;;77v;Een venus dierken;;;Cittern;ConcR932;C;"[daab1] [daab/] c d e | [daab1] d [caca] a/ c | \
 [daab/] a c d [edea] d e f | [edea1] e [edea/] c d e |";french4tab
@@ -433,7 +433,7 @@ z/ [ece] [ece3/4] f/4 [hfh/] [ifff] [ifff1] |";french4tab
 [cac2] z1 [cac] |";french4tab
 163;;85v;Sia sia maladetta;;;Cittern;ConcR2975;C;"[cac2] [cac1] [cac] | \
 [daaa/] a/4 c d a c/8 a c d [cac/] a/4 c d c d/8 c a c |";french4tab
-164;;86r;Era di magio;;;Cittern;;C;"[gdd2] [fdf1] [fdf] | [daa/] ,,d ,,c ,,a [cac1] [cac/] a/4 c | \
+164;;86r;Era di magio;;;Cittern;ConcR3084,ConcM15;C;"[gdd2] [fdf1] [fdf] | [daa/] ,,d ,,c ,,a [cac1] [cac/] a/4 c | \
 [daaa/] c/4 d [fdf/] d/4 f [gddd/] d/4 f g d f g |";french4tab
 165;;86v;Chy vol vedere;;;Cittern;;C;"[fdf2] [fdf1] [fdf] | [dcf1] [dcf] [bac/] a/4 b d b d/8 b a ,a | \
 [accc1] [accc] [bac] [dcf] |";french4tab

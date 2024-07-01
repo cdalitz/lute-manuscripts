@@ -8,9 +8,9 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNota
 [daac1] [daac/] c [daac1] c/ a | [caca/] a c d [caca1] ,a |";french4tab
 _3b;;2r;Autrement;;;cittern;ConcR829;C;"[dbd/] ,,c ,,d ,,e [dbd] ,,a ,,c ,,d | [edea/] d e f [edea1] ,d | \
 [dbd/] c d e [dbd] a c d |";french4tab
-4a;;2v;Era di magio;;;cittern;ConcR3084;C;"[fede2] [edea1] e | [daab1] d [caca2] | z1 [caca] [daab] e | \
+4a;;2v;Era di magio;;;cittern;ConcR3084,ConcM15;C;"[fede2] [edea1] e | [daab1] d [caca2] | z1 [caca] [daab] e | \
 [fede1] ,e/ f [edea1] e | [daab1] c/ a [caca2] :||:";french4tab
-_4b;;2v;Autrement;;;cittern;ConcR3085;C;"[fed/] ,,e [fa] ,c [edea/4] d e f [edea/] d/4 c | \
+_4b;;2v;Autrement;;;cittern;ConcR3085,ConcM15;C;"[fed/] ,,e [fa] ,c [edea/4] d e f [edea/] d/4 c | \
 [daab/4] ,,,a ,,,b ,,,d [daab/] ,,,a/4 ,,a";french4tab
 5;;3r;Een venus dierken;;;cittern;ConcR932;C;"[daab1] [daab/] c d e | [daab1] d [caca] a/ c | \
 [daab/] a c d [edea] d e f | [edea1] e [edea/] c d e |";french4tab
@@ -119,7 +119,7 @@ _35b;;16r;Autrement;;;cittern;;C;"[geae1] [geae/] g [geae] g | [hgeg1] g/ e [gea
 [fbd1] [fbd] [edea/4] d e f [edea/] d/4 c |";french4tab
 53;;25v;Or puis qu'amour;;;cittern;;C;"[,aab2] [,aab] | [baca/] ,a a b [acad/4] ,a ,c ,d ,c/ ,d | \
 [,ced1] ,,,b [,ace2] | [,adb1] ,,a [feae/] ,,c [,,de] ,,e |";french4tab
-54;;26r;Ghepeis ghij doet mij trueren;;;cittern;;C;"[daac/4] c d e [daac] e f d [edea] d e f [edea/] c | \
+54;;26r;Ghepeis ghij doet mij trueren;;;cittern;ConcR3666;C;"[daac/4] c d e [daac] e f d [edea] d e f [edea/] c | \
 [daac/] c/4 d [edea/] d/4 e";french4tab
 55;;26v;Niet dan druck en lijden;;;cittern;;C;"[daab/] c d e [daab1] d | [caca1] a/ c [dbab/4] c d e [dbab/] e | \
 [dbab1] d [edea] ,d |";french4tab
@@ -161,7 +161,7 @@ _35b;;16r;Autrement;;;cittern;;C;"[geae1] [geae/] g [geae] g | [hgeg1] g/ e [gea
 [eded3/2] ,c/4 ,a";french4tab
 73;;43v;Hors envieulx;;;cittern;;C;",e2 ,d1 ,d | [ke1] ,a [hd] [hc] | [ka/] ,c [ed] ,e [hg1] [fe] | \
 [edg1] e/ d/4 c [aee/] c [dce] e |";french4tab
-74;;44v;Godt es mijn licht;;;cittern;ConcR850;C;"[,ag2] [,dg1] [,ea] | [,gge1] [,ge] [,gge] [fea] | \
+74;;44v;Godt es mijn licht;;;cittern;ConcR850 - ConcM45;C;"[,ag2] [,dg1] [,ea] | [,gge1] [,ge] [,gge] [fea] | \
 [eaca/] d [caca] a [caca1] [deab] | \
 [edea1] [fcde/] ,a [fcab1] [ec/] d |";french4tab
 75;;45v;Toutes les nuyct;;;cittern;;C;"d1 d/4 e g h [kaak1] k | [mkm1] ,,,g/ k [heeg] g [heeg1] | \

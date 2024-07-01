@@ -286,7 +286,7 @@ z2 [cdda] [dab,,d1] [cdda] | \
 [ab1] f/ ,,d | \
 [da/] [c,d] [ad] ,d | \
 [abd/] ,c/4 ,a ,d ,c ,d ,c ,a ,c |";
-56;;52;[Psalm: Where Righteousness];;staff + tab;OT;ConcR41;none;"[aabc1] [aabc3/2] [,efec/] [aabc1] [abd,a] [,efec2] | \
+56;;52;[Psalm: Where Righteousness];;Psalm 89 (staff + tab);OT;ConcM107;none;"[aabc1] [aabc3/2] [,efec/] [aabc1] [abd,a] [,efec2] | \
 [,dfec1] [aabc3/2] [cef,c/] [ccf,,c1] [cce,,c] [cef,c2] | \
 [,efec1] [aabc3/2] [,efec/] [aabc1] [abd,a] [,efec2] |";
 57;;52;[Psalm?];;;OT;;2/4;"[,dda/] [acd,a3/4] ,d/4 ,c/ | \
@@ -387,7 +387,7 @@ g [hhff,h3/2] f/ |";
 80;;83;bassus philips pau;Peter Phillips;Pavan, duet ground;OT;ConcR95;C;"[,cdca3/2] ,d/ [acd,a] c [dab,,d1] [cdda] [,c,a/] ,d \
 [aadc] ,,c/4 ,,a [,,cc/] ,d | \
 [,cdca2] [acd1] [aab] [fc,e] ,e [ef,c/] c ,f ,d |";
-81;;83;Eradi mag Co[n]tra tenor;;Era di Maggio, contratenor;OT;ConcR197;C;"[cdda2] | \
+81;;83;Eradi mag Co[n]tra tenor;;Era di Maggio, contratenor;OT;ConcR197,ConcM15;C;"[cdda2] | \
 [acd,a1] [acd,a] [,da,c/] ,a/4 ,c ,d ,a ,c ,d | \
 [,cee,c3/2] [,cee,c/] [,da,c1] [acd,a/4] ,c ,d a | \
 [cdda/] ,,,c ,,a ,,c [acd,a1] [acd,a] |";
@@ -397,7 +397,7 @@ g [hhff,h3/2] f/ |";
 83;;85;Laueche pauan;John Johnson;Lavecchia Pavan;OT;Conc_4386;C;"[,cdca/] [,cdc] | \
 [,cdca3/4] ,d/4 [,cdca/] [,cd] [,cd,a] [,,da,c] [,aba,d] [,cdca] | \
 [,ddef/] ,c/4 ,a ,,d ,,b ,,a ,,,c [,ddef1] [,aba,d/] [,aba] |";
-84;;85;Eradi magio ten;;Era di Maggio Tenor;OT;ConcR197;C;"[bbd,,d2] | \
+84;;85;Eradi magio ten;;Era di Maggio Tenor;OT;ConcR197,ConcM15;C;"[bbd,,d2] | \
 [abb,d1] [abb,d] [,d,a/] a/4 b d b a ,d | \
 [,cdca3/2] [,cdca/] [,dda1] [abb,d/4] ,b ,d a | \
 [bbd,,b/] ,,,,,d ,,,,a ,,,,c";
@@ -405,13 +405,13 @@ g [hhff,h3/2] f/ |";
 [acd,a1] ,,,c/ c [a,,,a] ,,d [,,d,ca] ,,c | \
 [,,dca/] ,,d/4 ,a [,cd,a/] [,da,c] [a,d,e] \
 [,db/4] ,,,a ,,,,c ,,,,a [,cdca/] |";
-86;;88;Eradi maggio;;Era di Maggio;OT;ConcR197;2/4;"[dab,,d2] | \
+86;;88;Eradi maggio;;Era di Maggio;OT;ConcR197,ConcM15;2/4;"[dab,,d2] | \
 [cdda1] [cdda] | \
 [abb,d/] c/4 d f d c a | \
 [,ea,c3/2] [,ea,c/] | \
 [aabc1] [cdda/4] ,d a c | \
 [dab,,d3/4] ,,,,a/4 ,,,,c/ ,,,,e |";
-87;;88;Sup;;Era di Maggio, superius;OT;ConcR197;C;"[abb,d2] [,dba,d1] [,dba,d] | \
+87;;88;Sup;;Era di Maggio, superius;OT;ConcR197,ConcM15;C;"[abb,d2] [,dba,d1] [,dba,d] | \
 [,bd,a/] ,a/4 ,b ,d ,b ,a ,,d [,acc,a3/2] [,acc,a/] | \
 [,bdca1] [,dba,d/4] ,a ,b ,d [abb,d/] ,d [a,,,d] ,b |";
 88;;89;the earle of oxfordes gailiard;;;OT;ConcR38;3;"[,bdd3/2] ,d/ ,b1 [,bbc] [,dda3/4] a/4 b/ d | \
@@ -541,7 +541,7 @@ f/ ,,d/4 ,a ,c ,d a c | \
 [ea,c3/2] ,,d/ [a,c1] [c,a] | \
 [ea,c1] [f,d,a/] e c e [f,d,a1] | \
 [eccce/] ,,,,c ,,,,a ,,,,,e [ccd,,c1] ,,,,,e ||";
-118;;121;ps.4.;;Psalm 4;OT;;2/4;"[aacc2] | \
+118;;121;ps.4.;;Psalm 4;OT;ConcM23;2/4;"[aacc2] | \
 [aacc1] [aacc] | \
 [,ea1] [,ac] | \
 [,cd1] [,ef] | \
@@ -664,32 +664,32 @@ z1 [,efec1] [,efec] [,efec] | \
 [b,da1] [,dda/] ,c [,dda] a [b,da] d | \
 [b,da/] a [,dda] ,c [,dda] ,,b [,bd] [,df] | \
 [abb,d3/4] ,a/4 ,,d/ [,,bc] [,,dd] [,b,c] ,,,a ,a |";
-147;;156;ps. 23;;Psalm 23;OT;ConcR891;2/4;"[aab,,a2] | \
+147;;156;ps. 23;;Psalm 23;OT;ConcR891 - ConcM41;2/4;"[aab,,a2] | \
 [abd,a1] [aab,,a] | \
 [,aba,d2] | \
 [,abc,a2] | \
 [,da,c1] [acd,a] | \
 [cdda1] [aab/] ,,,c | \
 [,ef/] ,,,a [,ff,a] [,ef,c] |";
-148;;157;ps. 27;;Psalm 27;OT;;2/4;"[aac,,a2] | \
+148;;157;ps. 27;;Psalm 27;OT;ConcM45;2/4;"[aac,,a2] | \
 [,cde,c2] | \
 [,da,c/] ,c ,a/4 ,c ,d ,a | \
 [acd,a1] [acc,e/] c/4 e | \
 [ffh,a1] [ffh,a] | \
 [ea,c,a1] [fcd,a] | \
 [ca,bc/] ,,,c [ca,cc] ,,,b |";
-149;;158;[Psalm 15, frgmt];;;OT;;C;"[d,aa,d2] [c,aac1] [c,aac] | \
+149;;158;[Psalm 15, frgmt];;;OT;ConcM33;C;"[d,aa,d2] [c,aac1] [c,aac] | \
 [a,bcd2] [,d,b,d] | \
 ,,c1 z1 ,,,,a || \
 [,bdca] [,ddef] [abbd] | \
 [abd,a] [ab,ca] [dab] [cab] [aaa] [,dfe] |";
-150;;158;[Psalm 15];;;OT;;C;"[da,a,d2] [ca,ac1] [ca,ac] | \
+150;;158;[Psalm 15];;;OT;ConcM33;C;"[da,a,d2] [ca,ac1] [ca,ac] | \
 [a,bcd2] [,dff,d] | \
 [,ddef1] [,ddef] [,cdca2] || \
 [,bdca2] [,ddef1] [abb,d] | \
 [abd,a1] ,,,,a [ab,cd/] ,,,,c [d,,,d] ,,,a | \
 [dabc/] c [aabc1] [,aa,c] [,dfec] |";
-151;;159;Psal 15;;;OT;;2/4;"[,ddef2] | \
+151;;159;Psal 15;;;OT;ConcM33;2/4;"[,ddef2] | \
 [,ddef1] [,dfef] | \
 [abb,d/] ,d a c | \
 [dab,,d/] ,,,,a ,,,,c ,,,,e | \
@@ -697,14 +697,14 @@ z1 [,efec1] [,efec] [,efec] | \
 ,,,,a/ [acd] ,,,c ,,,,a | \
 [acd,a2] || \
 [abb,d2] |";
-152;;159;[Psalm 15];;;OT;;C;"[,ddef2] [,ddef1] [,ddef] | \
+152;;159;[Psalm 15];;;OT;ConcM33;C;"[,ddef2] [,ddef1] [,ddef] | \
 [abb,d2] [ddf,,d] | \
 [cdda1] [cdda] [acd,a2] || \
 [abb,d2] [cdf,c1] [dffc] | \
 [ffg,a1] [acd,a] [ddf,,d] [dff,,a] | \
 [cdf,c2] [aac,,a] || \
 [aacc2] [abb,d1] [abd,a] |";
-153;;160;Psal.5. Aux p[ar]oles que ie veux dire;;Psalm 5;OT;ConcR880;2/4;"[,,dca/] ,,a/4 ,,c ,,d ,a ,c ,d | \
+153;;160;Psal.5. Aux p[ar]oles que ie veux dire;;Psalm 5;OT;ConcR880 - ConcM24;2/4;"[,,dca/] ,,a/4 ,,c ,,d ,a ,c ,d | \
 [abd,a1] [c,db,c] | \
 [da,c,a/] ,,,a/4 ,,,,d ,,,,c ,,,,a ,,,,,d ,,,,,c | \
 [da,c,a/] c/4 a c a c d |";
@@ -720,17 +720,17 @@ z1 [,efec1] [,efec] [,efec] | \
 [aac,,a/] ,,d ,a ,c [,a,b] ,,d ,,c ,,a | \
 [aac,,a/] ,,,c [aac,,a] [,,d,,c] [aac,,a3/4] ,d/4 ,c ,a | \
 [acd,a1] [acd/] [,d,,c] [a,,,e] [c,,a] [a,,,e] [,d,,c] |";
-157;;164;Psal.42 Al een hert bred / Als een hert geiasht o heere;;Psalm 42;OT;ConcR923;2/4;"[,dda/] ,,,c ,a ,b | \
+157;;164;Psal.42 Al een hert bred / Als een hert geiasht o heere;;Psalm 42;OT;ConcR923 - ConcM60;2/4;"[,dda/] ,,,c ,a ,b | \
 [acd,a1] [cdda/] d | \
 [cdda1] [acd,a] | \
 [,da,c1] [,cdca] | \
 [,a,c,a/] ,,d [,,c,c] ,,a/4 ,,c | \
 [,,dca2] || \
 [,daac/] ,a/4 ,c ,d ,a ,c ,d |";
-158;;165;bred psal.81 Singt den heere bly / singt den heerre bly;;Psalm 81: Singt den Herrn;OT;ConcR199;2/4;"[acd,a/] ,,c/4 ,,a ,,,c ,,a ,,,c/8 ,,,a ,,,,e ,,,,c | \
+158;;165;bred psal.81 Singt den heere bly / singt den heerre bly;;Psalm 81: Singt den Herrn;OT;ConcR199 - ConcM99;2/4;"[acd,a/] ,,c/4 ,,a ,,,c ,,a ,,,c/8 ,,,a ,,,,e ,,,,c | \
 [acd,a/4] ,a ,c ,d a ,c ,d a | \
 [cdda/4] ,d a c";
-159;;165;[Psalm 81: Sing den Herrn;;unfinished?;OT;ConcR199;C;"[acd,a2] [acd,a] | \
+159;;165;[Psalm 81: Sing den Herrn;;unfinished?;OT;ConcR199 - ConcM99;C;"[acd,a2] [acd,a] | \
 [cdda1] [eacc] [ffg,a2] | \
 [ffh,a2] [ea,c,a] | \
 [cef,c1] [acc,e] [ff,,c2] | \
@@ -738,7 +738,7 @@ z1 [,efec1] [,efec] [,efec] | \
 [acc,e2] [acc,e] | \
 [cdda1] [eff,c] [ffg,a2] | \
 [acd,a1] [cdda] [cd,a2] |";
-160;;166;Psal.113 belg.bef. Languir me fais NB;Claudin de Sermisy arr.;Psalm 113 on chanson Languir me Fais;OT;ConcR200;C;"[,daa3/4] a/4 c/ a [,daa3/4] ,c/4 ,d ,c ,a ,,d | \
+160;;166;Psal.113 belg.bef. Languir me fais NB;Claudin de Sermisy arr.;Psalm 113 on chanson Languir me Fais;OT;ConcM131 - ConcR200;C;"[,daa3/4] a/4 c/ a [,daa3/4] ,c/4 ,d ,c ,a ,,d | \
 [,aba,d/] ,,d ,,b ,,d [,aba,d] ,c [,daac] ,a | \
 [,cdca/] ,,d/4 ,a ,c ,d a ,d";
 161;;168;Coment peult auoir ioye p[er] Francesca Spinakino;Josquin des Pres arr. Francesco Spinacino;Comment peut avoir Roye;OT;;C;",,,c2 [,a,c] | \
@@ -749,7 +749,7 @@ z1 [,efec1] [,efec] [,efec] | \
 [h,,gh3/2] ,,,e/ [h,,fg1] [f,,e] |";
 162;;170;Canson englesa;;Lusty Gallant;OT;ConcR201;C;",,d/ [,b,,a/4] ,d a/ [a,,,a/4] c d/ [f,,,a/4] d c/ | \
 [acdca/] ,,d [,b,,a/4] ,d a/ [a,,,a/4] ,d ,b/ [,a,c/4] ,,d ,,c/ |";
-163;;170;Altra canson Englesa;;;OT;ConcR2955;C;"z1 [acd,a/] f [f,,,a] c [d,,,,a] f | \
+163;;170;Altra canson Englesa;;Lusty Gallant;OT;ConcR2955;C;"z1 [acd,a/] f [f,,,a] c [d,,,,a] f | \
 [h,,,,a/] a [a,,,a] f [f,,,a/4] d c/ [a,,,a/4] ,d ,c ,a | \
 [,c,,a/] ,,d [a,d,a] f [f,,,a]";
 164;;171;Saltarello Englesa;;Light of Love / The Countess of Ormond's Galliard;OT;ConcR20;3;"[acd,a2] f1 [fcd,a] a ,c | \
@@ -758,7 +758,7 @@ z1 [,efec1] [,efec] [,efec] | \
 165;;172;my swete babi;William Byrd arr.;My Sweet Babe, tab + staff;OT;;C;"[acd,a1] [acd] ,,,,a/ ,d/4 ,c [cacc1] | \
 [ecd,a/] ,d [aacc] ,c [cd,a1] [acd,a/] ,,,,c ,,,,e ,,,a [,acc] ,d | \
 [,cd,a1] ,,,c/ ,a ,,d ,,b";
-166;;174;Era di magio;;;OT;ConcR197;2/4;"[,aba,d2] | \
+166;;174;Era di magio;;;OT;ConcR197,ConcM15;2/4;"[,aba,d2] | \
 [,dda1] [,dda] | \
 [,abc/] ,,a/4 ,,b ,,d ,,b ,,a ,,,c | \
 [,,a,c2] | \
@@ -776,7 +776,7 @@ z1 [,efec1] [,efec] [,efec] | \
 169;;176;Chi in donna. Giacomo Gorzanis Sup. / canzone;Gorzanis;Chi Mi Donna, tab + staff;OT;;C;"[fh,a1] [ef,c/] [cdf] [acd] [cdf] [ef,c] [fh,a] | \
 [ef,c/] [acd] [cff] ,e [ef,c1] [fh,a/] [ef,c] | \
 [cff/] ,e/4 ,c ,e1 [ef,c2] ||";
-170;;177;PSALMVS ANGLICVS 128. / Blessed &c.,;;English Psalm 128, tab + staff;OT;;C;"[,,d,a1] ,,,a/ ,a | \
+170;;177;PSALMVS ANGLICVS 128. / Blessed &c.,;;English Psalm 128, tab + staff;OT;ConcM146;C;"[,,d,a1] ,,,a/ ,a | \
 [,b,,a1] ,,,a/ ,d [aa,c1] ,,,c/ ,d | \
 [,bd1] [,bd] [,db] [a,,c] | \
 [a,,,c1] ,e [a,,c2] [aa,c1] [aa,c] |";
@@ -905,19 +905,19 @@ z1 [abd,a1] [aabc] [,db,c] [,dda] [,bbcd]";
 [,cd,a1] ,,,c/ ,d ,c ,a | \
 [,cd,a1] ,,,c/ ,d a c | \
 [dab,,d1] ,,,a/ c [a,,,d] ,d |";
-203;;214;Psal.73 veturs wadro weghn ower lasen. / Waero[m] wilt ghy ons v[er]lat[en];;Psalm 73;OT;;none;"z1 [acd,a1] [acd,a] [cdda] | \
+203;;214;Psal.73 veturs wadro weghn ower lasen. / Waero[m] wilt ghy ons v[er]lat[en];;Psalm 73;OT;ConcM91;none;"z1 [acd,a1] [acd,a] [cdda] | \
 [ffg,a1] [effc3/2] [cdda/] [cdda3/2] [acd,a/4] [,d,a] \
 [cdda/] [acd,a] [cdda2] | \
 z1 [ffg,a/] [ffg,a] | \
 [effc1] [cdda] [acd,a] [,dda] |";
-204;;215;Psalmus 5 / Mr Dallis;Thomas Dallis;Psalm 5;OT;ConcR880;C;"[,,dca2] [abd,a1] [cd] | \
+204;;215;Psalmus 5 / Mr Dallis;Thomas Dallis;Psalm 5;OT;COncR880 - ConcM24;C;"[,,dca2] [abd,a1] [cd] | \
 [dff,,a2] [da,,,a] | \
 [ffg,a1] [da,,,a] [ca,,c] [ca,,c/] ,,d | \
 [a,cc,a2] z2 | \
 [ffg,a2] [ffg,a1] [ffg,a] | \
 [dacc1] [cdda] [aa,c2] | \
 [abd,a/] ,,,,c [,bd,d] ,,,a [aacc2] |";
-205;;215;5 Mr Dallis;Thomas Dallis;Psalm 6;OT;ConcR881;C;"[,ccce2] [,ccce1] [,ccce] | \
+205;;215;5 Mr Dallis;Thomas Dallis;Psalm 6;OT;ConcR881 - ConcM25;C;"[,ccce2] [,ccce1] [,ccce] | \
 [,acb,e2] [,aabc] | \
 [,cdca1] [a,cce] [aaa,c] [,efec/] ,,d | \
 [a,cc,a2] z2 | \
@@ -931,7 +931,7 @@ z1 [ffg,a/] [ffg,a] | \
 207;;217;[Wilhelmuslied];;;OT;ConcR186;C;"z/ [,,d,e/] [,da,c] [,da] [acd,a] [acd] [cdda] a/4 c | \
 [dab,,d/] [cdda] [acd,a] [acd] [,dda] [,,d,a] [,da,c] ,c/4 ,d | \
 [a,d,a/] ,c ,d a [cdda] a/4 c [dab,,d1] |";
-208;;217;[Psalm 81, frgmt];;;OT;;C;"[aacc,a2] [aacc/] ,,a/4 ,,c ,,d ,,c ,,a ,,c | \
+208;;217;[Psalm 81, frgmt];;;OT;ConcM99;C;"[aacc,a2] [aacc/] ,,a/4 ,,c ,,d ,,c ,,a ,,c | \
 [cef,c1] [eacc/4] a c e [fcd,a1] | \
 [fdaa1] [ea,c,a/] ,,,,,c ,,,,,e ,,,,a";
 209;;217;Leve le coeur;;;OT;ConcR77;none;"[,dda2] [,dd/4] ,a ,c ,d ,,d1 | \
@@ -972,7 +972,7 @@ z1 [ffg,a/] [ffg,a] | \
 218;;220;[Almain Slaepen gaen];;;OT;ConcR980;C;"[,,d,a/] [,da,c] [,da] [acd,a] ,d/4 a | \
 [c,,a/] a/4 c [acd,a/] f/4 d [cdda/] [,da,c] [,,,ca/4] ,d ,c/ | \
 [,dda3/4] [,dd/4] ,,,a/ ,,d [,daa]";
-219;;221;Ps. 81. Singt;;Psalm 81: Singt den Herrn;OT;ConcR199;C;"[acd,a2] [acd,a/4] ,a ,c a ,c ,d a ,c | \
+219;;221;Ps. 81. Singt;;Psalm 81: Singt den Herrn;OT;ConcR199 - ConcM99;C;"[acd,a2] [acd,a/4] ,a ,c a ,c ,d a ,c | \
 [,,da1] [ba,c/4] a c e [f,d,a2] | \
 [fdaa2] [ea,c,a/4] ,,,,,c ,,,,,e ,,,,a";
 220;;222;[frgmt];;;OT;;none;"[,,add] [,aca1] [,dda] a/4 c a ,d ,b/ ,a [,dda1] [,ab,,d] | \

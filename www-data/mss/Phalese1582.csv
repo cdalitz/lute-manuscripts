@@ -49,7 +49,7 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNota
 22;;19r;Plus que jamais;;;cittern;ConcR2959;C;"[daac2] [daac1] [daac] | [caca/] a c d [caca1] [daac] | \
 [acad3/2] [acad/] [acad1] [acad] | \
 [caca1] [dcac] [daca/] c/4 a d c a c |";french4tab
-23;;19v;Godt es mijn licht;;;cittern;ConcR850;C;"[,ag2] [,dg1] [,ea] | [,gge1] [,ge] [,gge] [fea] | \
+23;;19v;Godt es mijn licht;;;cittern;ConcR850 - ConcM45;C;"[,ag2] [,dg1] [,ea] | [,gge1] [,ge] [,gge] [fea] | \
 [eaca/] d [baca] a [baca1] [daab] | \
 [edea1] [fdde/] ,a [faac1] [ec/] d |";french4tab
 24;;20v;L'ennuy qui me tourmente;;;cittern;ConcR2897;C;"z1 [gege] [heeg] [gege] | [edea1] [dcac] [caca/] a c/4 a c d | \
@@ -242,7 +242,7 @@ h/ f e d [edea1] h3/4 k/4 |";french4tab
 93;;66r;Gailliarde la Gaye;;;cittern;ConcR3053;3;"d/ e | [gaae3/2] g/ [gaae1] | [gaae1] g [gaae] | [heeg1] h [edea] | \
 [heeg1] h [heeg] | [gege3/2] e/ [,ege1] | \
 [gege1] [gege] e/ ,e |";french4tab
-94;;66v;Era di maio Gailliarde;;;cittern;ConcR2992;3;"d/ e | [fdde3/2] h/ [fdde1] | [fdde1] [eded] [eded] | \
+94;;66v;Era di maio Gailliarde;;;cittern;ConcR2992,ConcM15;3;"d/ e | [fdde3/2] h/ [fdde1] | [fdde1] [eded] [eded] | \
 [daab1] c/ a [caca1] | [caca1] [daab] [eded] | \
 [fdde3/2] f/ [eded1] |";french4tab
 95;;66v;Gailliarde;;;cittern;ConcR2993;3;"a/ c | [daac3/2] e/ [daac1] | [caca1] [daac] [edea] | \
@@ -418,7 +418,7 @@ d/ e [fe1] [fe] e/ [fe] | [hd/] ,a [,kh] ,,k [ka2] |";french4tab
 [daac1] [dcac] [caca/] c/4 a ,a/ a |";french4tab
 163a;;94r;Int soetste vanden mey.;;;cittern;;C;"[daab/] ,,,a ,,,b ,,,a [daa] b a ,a | [accd/] ,a ,c/4 ,a ,c ,d [acad1] [acad] | \
 [baca1] [daab] [dbad] [caca/] a/4 c |";french4tab
-_163b;;94v;Era di maggio. Superius;;;cittern;ConcR3077;C;"[fdde2] [edea1] e | [daab/] ,,,a/4 ,,,b ,,,d ,,,b ,,,a ,,a [caca2] | \
+_163b;;94v;Era di maggio. Superius;;;cittern;ConcR3084,ConcM15;C;"[fdde2] [edea1] e | [daab/] ,,,a/4 ,,,b ,,,d ,,,b ,,,a ,,a [caca2] | \
 [daab/] c/4 d [edea1] [faae/] e/4 f h f e d |";french4tab
 _163c;;94v;Tenor eiusdem;;;cittern;;C;"[dbab2] [badb1] b | [dbab/] ,a/4 ,b ,d ,b ,a ,,,d | \
 [daac1] d [dbad/] ,,,c/4 ,,,d [badb2] |";french4tab

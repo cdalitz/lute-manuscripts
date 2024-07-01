@@ -2,9 +2,9 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNota
 1;;1r;Quando ie penso al martire à 4;Cipriano de Ror;;OT;ConcR1327;C;"[aa,c2] | [acd2] | [acd1] [,ac] | [aa,c1] [aacc] | \
 [ccde1] [,ed] | [aadc1] [a,cc/] ,,d | [,acc/] ,,a [a,cc1] | \
 [f,a1] [,cd] | [aa,c1] [ea] |";
-2;;1r;Psalmus CXXX;;;OT;;none;"[aabc2] [aab,,a1] [,dba,d] [,cdca/] ,,d/4 ,a ,c ,,d ,a \
+2;;1r;Psalmus CXXIX;;;OT;ConcM16;none;"[aabc2] [aab,,a1] [,dba,d] [,cdca/] ,,d/4 ,a ,c ,,d ,a \
 ,c/ [,aa,c] ,,,c/4 ,,a ,,c ,,d ,a ,c [,daac] ,c ,d a";
-3;;1r;Psalmus CXXX;;;OT;;none;"[cda,c2] [,aa,c1] [,ca,b] [,daac] [,cde,c] [,ab,,d/4] ,d ,c ,a [,cee,c2] | \
+3;;1r;Psalmus CXXX;;;OT;ConcM17;none;"[cda,c2] [,aa,c1] [,ca,b] [,daac] [,cde,c] [,ab,,d/4] ,d ,c ,a [,cee,c2] | \
 [,daac2] [,aaac1] [,ca,b] [,daac/4] ,c ,a ,c ,d ,a ,c ,d";
 4;;1v;leve le ceur / X commandement;;;OT;ConcR77;C;"[aacc2] [a,dce1] [cef,c] [effc2] [effc1] \
 [fcd,a2] [fcd,a1] [effc2] [cef,c2] | \
@@ -35,7 +35,7 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNota
 17;;6v;sans titre;;unfinished;OT;;C;"[,efec/] [,efec] [aacc] | [cdda1] [cdda/] [cdf,c] | \
 [aacc/] [,cdca] [,efec1] | [aab,,a1] [,dfec3/4] ,,,,e/4 | \
 [,,da/] [,c,ca] [,aa,c] [,abc,a] | [,,,eec/] ,,e [,aabc1] |";
-18;;7r;Vne Religieuse;;;OT;;C;"c3/2 c/ | ,c1 a | [,df/] ,a ,d a | c/4 ,a ,c ,d a ,d ,c ,a | \
+18;;7r;Vne Religieuse;;;OT;ConcR919;C;"c3/2 c/ | ,c1 a | [,df/] ,a ,d a | c/4 ,a ,c ,d a ,d ,c ,a | \
 [,cde/] ,,,e [f,d] ,,f |";
 19;;7v;sans titre;;ff.8v-9r empty;OT;;C;"[a,cc2] | [,cd3/4] ,a/4 ,c ,a ,c ,d | [acd1] [,ac] | \
 [,a,c1] [aac] | [ccde1] ,e | [aadc1] [aac] | \
@@ -48,7 +48,7 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNota
 [fcde,c1] [c,de] |";
 22;;10v;Godt es mein licht;;f. 11r empty;OT;ConcR850;C;",a2 | [,df1] [a,,c] | [ca,,c/4] a ,d ,c ,a ,c ,d a | \
 [ca,,c/] a/4 c [da,c,a1] | [cda,c/] [ac] [,da,c] [,cd] |";
-23;;11v;Vi au conseil des malins n'a este;;;staff;;;;
+23;;11v;Qvi au conseil des malins n'a este;;;staff;ConcR1507 - ConcM20;;;
 24;;11v;Tenor;;;staff;;;;
 25;;11v;sans titre;;fragment;OT;;C;"[fdaa2] [h,ff,d] [ffh,a] [cdda] [fdaa] [d,ff,d1] [cdda] \
 [dab,,d/] ,,,,a ,,,,c ,,,,,d [ac,ca/] \
@@ -69,10 +69,10 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNota
 33;;13v;Tenor;;;staff;;;;
 34;;13v;Contra Tenor;;;staff;;;;
 35;;13v;Bassus;;;staff;;;;
-36;;14r;Psalmo 11 DIS;;;staff;;;;
-37;;14r;Tenor;;;staff;;;;
-38;;14r;Contra Tenor;;;staff;;;;
-39;;14r;Bassus;;;staff;;;;
-40;;14r;sans titre;;;OT;;C;"[,aa,c2] [,daac1] [,cde,c] [,aba,d] [,,def] [,ddef] [cdda] \
+36;;14r;Psalmo 11 DIS;;;staff;ConcM19;;;
+37;;14r;Tenor;;;staff;ConcM19;;;
+38;;14r;Contra Tenor;;;staff;ConcM19;;;
+39;;14r;Bassus;;;staff;ConcM19;;;
+40;;14r;[Psalm 11 - fragment];;;OT;ConcM19;C;"[,aa,c2] [,daac1] [,cde,c] [,aba,d] [,,def] [,ddef] [cdda] \
 [acd,a] [,da,c] [,cee,c2] [,ddef2] [,cdca1] [,abc,a] [ccd,,] \
 [acd,a] [,ddef] [,cdca] [,aa,c/] ,,d ,a ,c";

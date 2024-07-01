@@ -31,15 +31,15 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
 [,,'a{,a}1] (,,,c/ ,,,a) [,,d,,a1] | \
 (3[,a{5}/] ,b ,d) [,,'a{,a}1] {a}/ ,,b | "
 ;;Fascicle 2;Sonata à Liuto solo;;;;;;
-7;Dis dur;02-1v;Allemande;;;;;C;"f1 | \
+7;Es dur;02-1v;Allemande;;;;;C;"f1 | \
 [ff{,,a}1] {,a}/ d [cb{a}] a [,bd,,a] a | \
 [,'a,a{d}1] [,,'b/] ,,,,,a {a} f ,,g f | \
 ([h,,,,a/] f) [f{a}] ,g [,g{,a}] a [,,ba{,,,a}] d | "
-8;Dis dur;02-2v;Courante;;;;;3/4;"{,,a}/ ,,b/4 ,,d [,,b{a}/] ,b ([,b{d}] ,a) | \
+8;Es dur;02-2v;Courante;;;;;3/4;"{,,a}/ ,,b/4 ,,d [,,b{a}/] ,b ([,b{d}] ,a) | \
 [,b{,,a}/] ,,b [,,'d,,a1] {,a}/ ,,d | \
 [,,'b{a}3/4] {,a}/4 {,,a}/ ,b (a c) | \
 d/ ,,,a {,a} a [,f{,,a}] d | "
-9;Dis dur;02-3v;Bouree;;;;;2/4;"(,,,c/4 ,,,d) | \
+9;Es dur;02-3v;Bouree;;;;;2/4;"(,,,c/4 ,,,d) | \
 [,,bc{,,a}/] [,,bc] ([,,b(c] [,,dd)]) | \
 [,,bc{,,a}3/2] [,,,da{5}/] | \
 ([,,,c{,,a}/4] ,,,a) ,,,c ,,,,b [,,d,,a3/4] ,,,,b/4 | \
@@ -49,17 +49,17 @@ d/ ,,,a {,a} a [,f{,,a}] d | "
 [,bd{4}1] ,b/ a ['a{,,,a}3/4] (,b/8 ,a) | \
 ([c{,,a}/] a) c1 [d{,a}] | \
 [,,'c{a}1] (,,a/ ,,c) ,,,c1 | "
-11;Dis dur;02-5r;Menuet;;;;;3/4;"[,f{,,a}/] ,g f ,f [h,,,,a1] | \
+11;Es dur;02-5r;Menuet;;;;;3/4;"[,f{,,a}/] ,g f ,f [h,,,,a1] | \
 [,,'f{5}1] ,,,,,a [,,g{a}] | \
 [,g{,a}/] ,f ,g a [f{,,,a}1] | \
 [,'f1] {,,a}/ c ['a{5}1] | \
 [,f{,,a}/] a ,,g ,a ,,,h h | "
-12;Dis dur;02-5v;Capriccio;;;;;2/4;"[ff1] | \
+12;Es dur;02-5v;Capriccio;;;;;2/4;"[ff1] | \
 [f{,,a}/] ,f h1 [hg] [ff] | \
 [ff{,,a}1] ,,g/ ,,f ,,g ,,i ,f ,g | \
 [f{,,a}/] ,f h1 [hg] [ff] | \
 [ff{,,a}1] ,,g/ ,,f ,,g ,,i ,f ,g | "
-13;Dis dur;02-6r;Vivace e piano;S.L.Weiss;;;Conc_774;3/8;"[ff{,,a}/] [ff] [hg] | \
+13;Es dur;02-6r;Vivace e piano;S.L.Weiss;;;Conc_774;3/8;"[ff{,,a}/] [ff] [hg] | \
 [dd{,,a}1] [fd{,,,a}/] | \
 [cb{,,,a}/] [cb] [db{4}] | \
 ['aa{4}1] [ca{5}/] | \

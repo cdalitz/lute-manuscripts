@@ -20,13 +20,13 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNota
 6;;5;Paduaner tantz;;;OT;;C;"[f,d,f2] [c,d,f1] c/ a | [,dda2] [f,da1] [c,da] | \
 c/ a [,dda2] [f,da1] | [f,da1] [d,bc] [c,da] a/ ,d | \
 [,cdca1] [,cdca] [,cdca] [,cdca] |";germantab
-7;;6;Auss tieffer nodt schreij ich zu dir;;Psalm 130 - Martin Luther;OT;ConcR1706;C;"[,dda2] | [,cd,a1] [,da,c] [a,b,,a2] | [a,b,,a2] [,da,c1] [a,bc] | \
+7;;6;Auss tieffer nodt schreij ich zu dir;;Psalm 130 - Martin Luther;OT;ConcM17;C;"[,dda2] | [,cd,a1] [,da,c] [a,b,,a2] | [a,b,,a2] [,da,c1] [a,bc] | \
 H[c,da] || [da,,,d2] | [c,da1] [a,bc] | [,dda1] [,cd,a] | \
 [,da,c1] [,cd,a/] ,d ,a ,c | H[,dda] ||";germantab
 8;;7;Herr nun heb den wagen selb;;;OT;;3;"[,dda2] [,da,c1] | [a,,cd1] [a,,,a] [c,da] | \
 [da,,,d1] [a,,,a/] ,d a ,c | H[,da,c] | [c,da2] [da,c1] | \
 [f,,,a1] [cd,a] [da,c] | [ab,,d1] [a,,,a] [c,da] | H[da,,,d] |";germantab
-9;;8;O herr gott begnade mich;;Matthias Greiter;OT;ConcR2035;C;"[,aa,c2] [a,,cd1] [a,,,a] | [,da,c1] [,a,,,d] [,da,c] [a,bc] | \
+9;;8;O herr gott begnade mich;;Matthias Greiter;OT;ConcR902 - ConcM69;C;"[,aa,c2] [a,,cd1] [a,,,a] | [,da,c1] [,a,,,d] [,da,c] [a,bc] | \
 H[c,a,c] | [,da,c/] ,c ,d a [c,da1] | [f,d1] ,,,,a [c,da2] |";germantab
 10;;10;Es wolt ein mägdlein wasser holen;;;OT;ConcR1987;C;"[,dda1] | [,da,c1] [,db,,d] [a,b,d] [a,d,a] | \
 [c,da1] c/ a [,da,c1] a/ c | [da,,,d1] [c,da] [a,bc] [,,da] | \
@@ -102,7 +102,7 @@ c/ d ,,,c c [da,,,d1] [c,da] | \
 [a,bc1] [a,d,a] [,ea,c/] a ,c ,e | H[a,,c,a] ||";germantab
 37;;36;Ich weiss mir ein feins brauns Mägdelein;;;OT;ConcR2056;C;"[,,dca1] | [,,dca/] ,,c ,,d ,a [,,d,a1] ,,,,,c | \
 [,a,,,d1] ,,d [,abc/] ,,d ,a ,c | [,dda2] [,dda/] ,c ,d a |";germantab
-38;;37;Ach gott von Himel sieh darin;;Psalm 12 - Martin Luther;OT;ConcR2252;C;"[,dda2] [da,,,d1] [c,da] | [a,,,d1][,da,c] [a,,cd] [c,da] | \
+38;;37;Ach gott von Himel sieh darin;;Psalm 12 - Martin Luther;OT;ConcM30;C;"[,dda2] [da,,,d1] [c,da] | [a,,,d1][,da,c] [a,,cd] [c,da] | \
 H[,d,ac] | [,d,ac2] [c,da/] a c/4 a c d | \
 [f,de1] ,,,a/ c [da,,,d1] [c,da] |";germantab
 39;;38;Verlorner dienst;;Johannes Buchner;OT;;C;"[,dda1] [,dda] [fc,,,a] | [c,da1] [,da,c] [a,bc] [da,c] | \
@@ -115,7 +115,7 @@ H[,d,ac] | [,d,ac2] [c,da/] a c/4 a c d | \
 [c,da/] a c/4 a c d [f,de1] ,,,,f |";germantab
 42;;42;Ein Feldgeschreij Kalbflaijsch ist …;;;OT;;none;"[,,d,,a2] [a,,c,a1] [a,,c,a] [a,,c,a] [a,,c,a] [a,,c,a] a/4 ,d ,c ,a [,cd,a1] | \
 [,cd,a1] [,cd] ,,,,a [,cd,a] | [,cd,a1] [,cd] ,,,,a [,cd,a] |";germantab
-43;;44;Auss tieffer nodt;;Martin Luther;OT;ConcR1706;C;"[,da,c/] ,,,,a ,,,,c ,,,,d [,da,c1] ,,,,a | \
+43;;44;Auss tieffer nodt;;Martin Luther;OT;ConcM17;C;"[,da,c/] ,,,,a ,,,,c ,,,,d [,da,c1] ,,,,a | \
 [,d,,cd/] ,,,,d ,,,,a ,,,,c [,da,c] ,,b ,,d ,,a | \
 [a,b,,a/] ,d a ,c [,da,c] ,c ,d a |";germantab
 44;;46;Roslyn tanz;;;OT;;C;"[dab,,d1] [dab/] ,,,,,d ,,b/4 ,,a ,,b ,,d [dab/] ,,,,,d | \

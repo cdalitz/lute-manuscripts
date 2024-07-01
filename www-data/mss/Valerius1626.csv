@@ -128,7 +128,7 @@ K:french4tab
 K:french4tab
 [heeg1] | [heeg3/2] [geg/] [heeg1] [kagi] | \
 [daac1] [heeg/] [geg] [edea1] [daac/] [daac] | \
-[bad1] [bad/] b a1 ,a/ ,,c | [,cad3] || ,,,d1 |"
+[bad1] [bad/] b a1 ,a/ ,,c | [,cad3] ||"
 14;;52;Fransche Courante;;Brett's Courant;OT;Conc_3469;3;",,d1 | \
 [,,da{a}3/2] ,a/ [,,d,,c1] | \
 [,a,,,d1] [,c,,a3/2] ,a/4 ,c | \
@@ -145,13 +145,12 @@ d1 | [daa3/2] e/ [daa1] | [edea2] h1 | [heeg3] | \
 [,ab,,d3] ,c1 [,dda2] | \
 [acd,a4] ,,,c2 | \
 [c,,a3] d1 [f,,a2] | \
-[da,c,a2] [ccd,,c] [aa,,,d1] ,d | \
-[acd,a3] ,d1 ,c ,a |
+[da,c,a2] [ccd,,c] [aa,,,d1] ,d |
 [V:Citter]
 K:french4tab
 [gaae4] [eaca2] | [daac4] [caca1] | [acad3] ,d1 ,e2 | \
 [caca4] [caca2] | ,,,c1 ,,,a ,,,c ,,,d [,aae2] | \
-[acad4] ,,,c2 | [caca4] z2 |"
+[acad4] ,,,c2 |"
 16;;59;[Maximilianus de Bossu];;;OT;ConcR3149;C;"[,dd{a}1] | \
 [,dda1] ,d [,dda{a}/] a [bbdd1] | \
 [acd,a3/2] ,d/ [,c,ca1] [,dda] | \
@@ -162,7 +161,7 @@ K:french4tab
 K:french4tab
 d1 | [daac1] d [daac/] e [fade1] | [edea3/2] d/ [caca1] [daac] | \
 [acad1] ,,e [acad] [caca] | [daac2] e/ d [caca1] | \
-[daac3] || d1 |"
+[daac3] ||"
 17;;62;Op 't Engels Lapperken;;;OT;ConcR373;C;"f1 | \
 [f,,,a1] f [e,,,,a] c/ e | \
 [f,,,a1] e/ c [aacc,a2] | \
@@ -204,7 +203,7 @@ K:french4tab
 K:french4tab
 [edea1] | [edea2] [ede1] | [edea2] [kaa1] | [igi2] [kagi1] | \
 [edea2] [eaca1] | [faa2] e/ d | [edea2] [ede1] | \
-[edea2] [ede1] | [edea2] [kaa1] |"
+[edea2] [ede1] |"
 21;;75;Almande Guerre, guerre gay;;Battle Almain;OT;ConcR3020;C;"[,dda{a}/] a b d [fa,d1] [e,,c] | \
 [fcd,a2] [abb,d1] ,d/ a | \
 [bdda1] a [,d,,c] a/ b | \
@@ -244,13 +243,11 @@ K:french4tab
 [,a,,,d1] [,b,,,b] [,d,,c] | \
 [aacc,a2] a1 | \
 [,ea,c3/2] a/ c1 | \
-[aacc2] ,,,,,a1 | \
-[,,dca/] ,,c ,,a ,,c ,,d ,,a |
+[aacc2] ,,,,,a1 |
 [V:Citter]
 K:french4tab
 [daac3/2] d/ [edea1] | [faa3/2] h/ [kaa1] | [kaa3/2] h/ [heeg] | \
-[kagi2] [kagi1] | [heeg2] h1 | [kagi2] [kagi1] || \
-[kagi1] [ka] [mkm] |"
+[kagi2] [kagi1] | [heeg2] h1 | [kagi2] [kagi1] ||"
 26;;91;s Nachts doen een blauw gestarde kleet;;;OT;;C;",,,,,a1 | \
 [,,dca1] [,a,,,e] [,b,,d] [,d,,c] | \
 [aacc3/2] [aac/] ,,,c1 [db,,d] | \
@@ -385,13 +382,12 @@ d/ e [fdde1] [ede] [daac] | [ecca1] ,a ,a |:| [kaa/] h |"
 [,,dca3/2] ,b/ ,a ,,d [f,,,a1] | \
 [d,,,,d1] f/ h [i,,,a3/2] [ab,,d/] | \
 [,d,,,d1] ,,,,d [ab] [,d,,,d] | \
-[,bb,d3] || [ab,,d1] | \
-[,d,,,d3/2] [b,,d/] [ab,,d3/2] [f,,,a/] |
+[,bb,d3] ||
 [V:Citter]
 K:french4tab
 ,a1 | [daac3/2] ,,d/ ,,c ,,a [daac2] | \
 [caca1] d/ e [faa3/4] ,a/ | [,de1] ,,d ,a [,de] | \
-[fade3] || [,aa1] | [,de3/4] ,b/ [,aa3/2] d/ |"
+[fade3] ||"
 41;;154;Het was een ryck mans burgers zoon;;;OT;;C;",,d1 | \
 [,d,,c1] [,,d,,c] [a,,,c] [caa,c] | \
 [,daac1] ,c/ ,a [,c,,,a1] [,,dca] | \
@@ -434,12 +430,11 @@ K:french4tab
 z2 [fdda2] | \
 [h,,f,d2] [f,,,f] | \
 [da,c,a1] ,c/ ,a ,c ,d [d,,c1] | \
-[cdda2] {a} | \
-z2 [fdda2] |
+[cdda2] {a} |
 [V:Citter]
 K:french4tab
 [daac2] [gaae3/2] h/ | [kagi4] | z2 [kaa/] g h k | \
-[mkm2] [kagi] | [heeg1] g/ h k h g e | [gaae4] | z2 [kaa] |"
+[mkm2] [kagi] | [heeg1] g/ h k h g e | [gaae4] |"
 46;;170;Hey Wilder dan Wild;;;OT;;3;"a1 | \
 [acd,a3/2] c/ ,,,,e1 | \
 [,c,,a3/2] ,d/ [a,,,e1] | \
@@ -488,13 +483,11 @@ K:french4tab
 [cdda1] f/ d [cdda3/2] a/ | \
 [c,,a/] d [f,,,a1] [f,,d] [e,,c] | \
 [fcd,a3] || [h,,f1] | \
-[f,,,a1] [d,,,,d] [c,,c3/2] c/ | \
-[a,,,a1] [,d,,c] [,d,,,d] ,,,,a |
+[f,,,a1] [d,,,,d] [c,,c3/2] c/ |
 [V:Citter]
 K:french4tab
 [daa/] e | [geg1] h/ g [geg3/2] e/ | [geg/] h [kagi1] [kagi] [igi] | \
-[kagi3] || [mkm1] | [kagi1] [heeg] [geg3/2] g/ | \
-[ede1] [daac] d [caca] |"
+[kagi3] || [mkm1] | [kagi1] [heeg] [geg3/2] g/ |"
 51;;191;Windeken daer het bosch van drilt;;;OT;Conc_4502;C;"[cdda1] [a,,,,d/] ,d [,c,,a1] [,d,,c] | \
 [,c,,a/] ,,d ,a ,,c [,dda{a}2] || \
 [,dda3/2] [acd,a/] [c,,e1] [a,d,e] | \
@@ -520,13 +513,11 @@ K:french4tab
 [,e,,c1] ,,,,,a ,,,,c | \
 [,aa,c2] || [aacc1] | \
 [,d,,c2] [,cd,a1] | \
-[,dda2] [acd,a1] | \
-[,cd,a3/2] ,a/ [,cd,a1] |
+[,dda2] [acd,a1] |
 [V:Citter]
 K:french4tab
 k1 | [kia3/2] m/ [nkk1] | [nkk3/2] m/ [kaa1] | [igi1] [ede] [ede] | \
-[edea2] || [kagi1] | [heeg2] [gaae1] | [heeg2] [kagi1] | \
-[geg3/2] e/ [ede1] |"
+[edea2] || [kagi1] | [heeg2] [gaae1] | [heeg2] [kagi1] |"
 54;;203;Ballet;Robert Ballard;;OT;ConcR801;C;",,d/ ,a | \
 [,b,,a1] [,a,,,e] [,,d,a] [,,c,,a] | \
 [,,dca1] ,,,c ,,,,a ,,d/ ,a | \
@@ -617,13 +608,12 @@ K:french4tab
 [f,,e2] [d,,c1] | \
 [cdda3/2] a/ ,,,,c1 | \
 [,cd,a1] ,,d/ ,a ,c ,d | \
-[acd,a3] | \
-[,,dca2] [,a,,,a1] |
+[acd,a3] |
 [V:Citter]
 K:french4tab
 ,a1 | [acad/] ,,,c ,,,d ,,,e ,,,g1 | [,eeg2] [,eae1] | [acad3] | \
 [,aak2] [nkkm1] | [mkm3/2] k/ h1 | [geg1] ,e/ e g h | \
-[kagi3] | [daac2] e1 |"
+[kagi3] |"
 64;;248;Comedianten dans;Thomas Campion;What if a day - Merck toch hoe sterck;OT;Conc_4421;C;"[aacc,a1] [,e,,c/] [aacc] [ca,,c1] [a,,,,a/] [ca,,c] | \
 [dab,,d1] c/ [a,,c] [caa,c2] | \
 [dab,,d1] [c,,,c/] [d,,c] [f,,,a1] d/ [f,,,a] | \
@@ -652,13 +642,12 @@ K:french4tab
 [,e,,c2] [a,,,a1] | \
 [,b,,d2] [,a,,c1] | \
 [,,dca2] [,,b,,d1] | \
-[,,b,,d3/2] ,,d/ [,,a,,c1] | \
-[,,b,,d3] |
+[,,b,,d3/2] ,,d/ [,,a,,c1] |
 [V:Citter]
 K:french4tab
 [fade3] | [eedea3/2] f/ [edea1] | [daac3/2] e/ [daac1] | [caca2] ,a1 | \
 [fade3/2] e/ d1 | [caca2] ,a1 | [bad2] [a,c1] | ,,e2 ,,d1 | \
-,,d2 ,,e1 | [,,db3] |"
+,,d2 ,,e1 |"
 67a;;258;Pavane d'Espagne BASSUS;;Spanish Pavan;OT;Conc_4343;C;",,,c1 | \
 [,,dca3/2] ,b/ [,a,,,a1] [,,d,d] | \
 [,,cc,a1] ,,a/ ,,c ,,,c1 [,d,a/] ,b | \

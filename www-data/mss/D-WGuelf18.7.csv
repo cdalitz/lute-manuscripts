@@ -35,11 +35,11 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNota
 13;;I.26v;Alio modo;;;OT;ConcR195;C;"[,daa4] [,dba,d2] [,daa] | [,cdca1] ,a ,c [daa4] | \
 [cdda1] [cdd] [cdda] [acd,a2] | \
 [cdda2] [,dba,d] [,dba1] [,dba,d2] [,dba1] ,,,,,d |";italian7tab
-14;;I.27v;Wol dem menschen der;Conr. Neusidler;ff. 28r-28v empty;OT;ConcR1507;C;"[,daa4] [,ab,,d2] [c,da] | [d,b,d4] [,da,c2] [a,d,a1] [c,da] | \
+14;;I.27v;Wol dem menschen der;Conr. Neusidler;ff. 28r-28v empty;OT;ConcR1507 - ConcM20;C;"[,daa4] [,ab,,d2] [c,da] | [d,b,d4] [,da,c2] [a,d,a1] [c,da] | \
 [,dda4] [,dda2] | [c,da2] a ,d1 a c d | [f,d,a2] d1 c |";italian7tab
 15;;I.29r;Herr Gott ich traw allain auf dich;Melchior Neusidler;;OT;ConcR1508;C;"[fcd,a4] [a,d,e2] [cdda] | [,cdca1] ,a ,c ,d [a,d,e2] ,,,c1 ,d | \
 [,cdca1] ,a [,dda,,a] ,c [,acc,a] ,,a/ ,,c ,,d ,,c ,,a ,,c |";italian7tab
-16;;I.30v;Ain vöste burg;Mel: Neusidler;;OT;ConcR1509;C;"[fcd,a2] | [fcd,a1] ,,c ,,d ,a [fcd,a2] [e,,,c1] c | \
+16;;I.30v;Ain vöste burg;Mel: Neusidler;;OT;ConcR1509 - ConcM64;C;"[fcd,a2] | [fcd,a1] ,,c ,,d ,a [fcd,a2] [e,,,c1] c | \
 [a,d,e1] ,,,,c ,,,,e [c,,a] [ea,c2] [fcd,a] | \
 ,,,c1 e [c,,,e] a [cf,ec]";italian7tab
 17;;I.31v;Mein seel erhebt;M. Neusidler;;OT;;C;"[ccde4] [ccde2] [a,d,e] | \
@@ -53,7 +53,7 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNota
 [,dfec2] [a,d,e] [ccd,,c4] |";italian7tab
 20;;I.34r;Nun welche hie ihr;Conr. Neusidler;;OT;;C;"[aa,c2] | [aa,c,a1] ,d a c [aa,c,a] c d f | \
 [hiff1] ,f/ ,h ,i f h i [hi,f2] [fdda] |";italian7tab
-21;;I.35r;Der thorecht spricht;Mel: Neusidler;;OT;ConcR1510;C;"[,,dca2] | [,acc,a2] [,acc,a] [,,dca] [acd,a] | \
+21;;I.35r;Der thorecht spricht;Mel: Neusidler;;OT;ConcR1510 - ConcM32;C;"[,,dca2] | [,acc,a2] [,acc,a] [,,dca] [acd,a] | \
 [,cdca2] [cdda] [acd,a4] | \
 [ac,,a1] ,,d/ ,a ,c ,,d ,a ,c [,dda,,a2] [,cdca1] ,a |";italian7tab
 22;;I.35v;Nun lob mein seel den;Melchior Neusidler;;OT;ConcR1511;C;"[,dde,,a2] | [,ddef4] [,cdca2] | [,aba,d4] [,,da,c2] | \
@@ -82,7 +82,7 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNota
 31;;I.67v;Singen wir auss;Conr. Neusidler;;OT;ConcR1514;3;"[aabc2] | [aabc4] [,a,a2] | [aabc4] [caa,c2] | \
 [dabc4] [f,de2] | [caa,c4] [caa,c2] | [cdda4] [dabc2] | \
 [f,de4] [ha,f2] | [dabc2] c1 a [caa,c2] |";italian7tab
-32;;I.68r;Dancket dem Herrn;Conr. Neusidler;ff. 69r - 82v empty;OT;Conc_379;none;"[a,bc4] [ab,c] [,ea,c] [a,bc2] [cdda] [da,,d4] [da,,d2] \
+32;;I.68r;Dancket dem Herrn;Conr. Neusidler;ff. 69r - 82v empty;OT;Conc_379 - ConcM51;none;"[a,bc4] [ab,c] [,ea,c] [a,bc2] [cdda] [da,,d4] [da,,d2] \
 [c,da4] [a,bc2] [,ea,c4] [,ea,c] [,ca,c] [ab,c] \
 [cd,a1] a c d";italian7tab
 33;;I.83r;Mitten wir im leben sein;;ff. 84r - 84v missing?;OT;;C;"[a,,c2] [a,,c][c,,,c] [e,,c] | \
