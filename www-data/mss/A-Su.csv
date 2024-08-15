@@ -56,7 +56,7 @@ V[d,d{,a}1] 'a1> c | "
 ,,g/ a (,,f ,,g) ,,,h1 ,f | [,g{,a}/] a ,,h a"
 19;c moll;III.9;Presto;S.L.Weiss;;;Conc_1029;C;"{4}/ ,,d/4 ,a ,b/ ,b/4 a c/ ,b ,,d [,,'c{a}] | \
 ,,,,,d/4 ,,d ,,,c ,,d ,,,,b ,,,c ,,,,,d ,,,,b {4}/ c ,b ,,d | "
-;;Fascicle IV;P. ex C;;;;;;
+;;Fascicle IV;P[artie] ex C;;;;;;
 20;C dur;IV.1;Fantasie;Fichtel;;;;3;"[,cd{4}/] a [c{,,a}1] [e{,a}] | [ed{,a}1] [ccd{,,a}2] | \
 ([,d{,,,a}/8] ,c) ,a ,,d (,,c ,,a) ,,,c1 a | ['a,,,a1] \
 [,cd,,d2] | [,e{,,,a}/] c e1 ,,d | "
@@ -86,7 +86,7 @@ c e | ([c{,,a}/] a) ,c [,aa{,a}/] ,c ,,d | [,,'c{a}/] ,,d \
 29;B dur;V.3;Menuet;S.L.Weiss;;;Conc_3188;3;",d1 [,'a] [,,'b] | [,,'a{,a}1] (3[,,a{,,a}/] ,,b ,,d) \
 [,,'ba{,,,a}1] | [,,a{4}/] ,b [c{5}] ,b [,,d{6}] a | \
 [,'a,a{5}1]> ,c [ac,,,a1] | (3[c{a}/] e f) (e/ c) [e{,a}1] | "
-30;g moll;V.4;Aria (allegro);S.L.Weiss;;;Conc_2391;3;",a/ | [,,,c{a}/4] ,,a ,,b ,,d ,a/ ,,c | [,b,,,d/] ,,,c \
+30;g moll;V.4;Aria (allegro);S.L.Weiss;;;Conc_2391;2;",a/ | [,,,c{a}/4] ,,a ,,b ,,d ,a/ ,,c | [,b,,,d/] ,,,c \
 [,a,,,b] ,,,c | [,,d,,a/4] (,,b ,,a) ,,,c [,,,b{,,,a}/] ,a | \
 [,,'b{a}/] (,,b/4 ,,a) [,,,c{a}/] ,a | "
 ;;Fascicle VI;[no title];;;;;;
@@ -136,88 +136,94 @@ c e | ([c{,,a}/] a) ,c [,aa{,a}/] ,c ,,d | [,,'c{a}/] ,,d \
 45;D dur;IX.3;Menuet;;;;;3;"[,aa{,a}1] {,,,a}/ ,a (,c ,e) | [,'c,,,a1] ,,,,,a {a} | \
 [,aa{,a}1] [,,ec{,,a}] (3[,a{,,,a}] ,c ,e) | [,'c{4}1] \
 {5} {6} | {5}/ c {4} ,c [,e{,,,a}] c | "
-46;D dur;IX.4;Finale;;;;;2;"[,aa{,,,a}/4] ,c ,e c [ea{,a}/] [ga{a}] | (3[e{,a}/] \
+46;D dur;IX.4;[Unfinished piece];;;;;2/4;"[,,,,a{,,,a}/] ,,,,a3/8 ,,,,a/8 (3[,,,,a{,,,a}/4] ,,c ,,a) (3,,,b ,,,,c ,,,,a) | \
+[,,ab{,,,a}/] ,,a3/8 ,,a/8[,,ab{,,,a}1] | \
+[,,ab{,,,a}/] ,,a3/8 ,,a/8 (3[,,ab{,,,a}/4] ,a ,c)"
+47;D dur;IX.5;Finale;;;;;2;"[,aa{,,,a}/4] ,c ,e c [ea{,a}/] [ga{a}] | (3[e{,a}/] \
 c ,e) (3[c{,,a}/] ,e ,c) | (3[,e{,,,a}/] ,c ,a) [,c{4}/] \
 ,,a | [,ea{,,,a}/4] d (e d) [e{,,a}/] ,,e | "
 ;;Fascicle X;Partie ex Gb Liutho Violino Basso;;;;;;
-47;g moll;X.1;Aria;Fichtel;;;;2;",a/ | [cab{a}/] ,a [,ab] [,b,,,d] | [,bd{,b}/] [,ab1] ,,b/ | \
+48;g moll;X.1;Aria;Fichtel;;;;2;",a/ | [cab{a}/] ,a [,ab] [,b,,,d] | [,bd{,b}/] [,ab1] ,,b/ | \
 [,,d,e/] [,,d,c] [,,d,e] [,a,,a] | [,,'b{a}/] ,,a/4 ,,b ,,,c/ \
 ,a | [ca{a}/4] ,e c ,a"
-48;g moll;X.2;Menuet;Fichtel;;;;3;"[ca{a}/] ,e c ,a [e,,,e] ,a | [f{a}1] (,f ,e) ,f1 | \
+49;g moll;X.2;Menuet;Fichtel;;;;3;"[ca{a}/] ,e c ,a [e,,,e] ,a | [f{a}1] (,f ,e) ,f1 | \
 [,a{5}1] [,b{4}] ,,,c | [,,,'ba{,,,a}2] ,,,c1 | ,,,,,d/ \
 ,b [,a{d}1] c | "
-49;g moll;X.3;Paysan;Fichtel;;;;2;"[,,,ca{a}/]> ,,a ,,b/ ,,,c | ,,,,a/ ,,,,c ,,,,e ,,,,a | \
+50;g moll;X.3;Paysan;Fichtel;;;;2;"[,,,ca{a}/]> ,,a ,,b/ ,,,c | ,,,,a/ ,,,,c ,,,,e ,,,,a | \
 [f{a}/] [e{,a}] [,f{,,a}] [e{4}] | [,'e{,,,a}/] ,f/4 e ,,f1 | \
 {4}/ [,bd] [,a{5}] [,,d{6}] | "
-50;g moll;X.4;Finale;Fichtel;;;;2;"[,ab{a}1] [,b,,,d] | [,a{d}/] [,,d,,a] [,,b{a}] [,,a{,,,a}] | \
+51;g moll;X.4;Finale;Fichtel;;;;2;"[,ab{a}1] [,b,,,d] | [,a{d}/] [,,d,,a] [,,b{a}] [,,a{,,,a}] | \
 [,,,ca{a}/] ,,,,,a ,,,,,b {a} | {,,,a}/ c ,e c | {,,,a}/ e \
 c e | {4}/ ,h/4 f h/ c | "
 ;;Fascicle XI;[no title];;;;;;
-51;F dur;XI.1;Aria;;;;;C;"[ad{,a}/] [,'c/4] ,a [,,d{,,a}/] ,,b [,,a{,a}/4] ,,,a \
+52;F dur;XI.1;Aria;;;;;C;"[ad{,a}/] [,'c/4] ,a [,,d{,,a}/] ,,b [,,a{,a}/4] ,,,a \
 ,,,,c ,,,a [,,b{a}/4] ,,,a ,,,,c ,,,a | [,,d,,a/4] ,,,a \
 ,,,,c ,,,a [,a{d}/] ,,,a [,,,'a{4}] ,,,,c"
-52;F dur;XI.2;Menuet;;;;;3;"[,,da{,a}1] a [c{,,a}] | ([e{,a}/] c) (,d ,c) V[,d,,,a1] | \
+53;F dur;XI.2;Menuet;;;;;3;"[,,da{,a}1] a [c{,,a}] | ([e{,a}/] c) (,d ,c) V[,d,,,a1] | \
 [c{,,a}1] ,,d ,,b | [,,a{,a}/] ,,,c (,,,,d ,,,,c) \
 [,,,,d{,a}1] | ,,a1 [,,d{,a}] [a{,,,a}] | "
-53;F dur;XI.3;Allegro;;;;;2/4;",,d/ | [,,'a{,a}/4] ,,b ,,d/ a [,'c{4}] | a1 {,a}/ [,,d{,,a}] \
+54;F dur;XI.3;Allegro;;;;;2/4;",,d/ | [,,'a{,a}/4] ,,b ,,d/ a [,'c{4}] | a1 {,a}/ [,,d{,,a}] \
  | [,,a{,a}/4] ,,b ,,d/ [c{,,a}] [a{,,,a}] | c1 ,,,,,d/ \
 [,,d{,,a}] | [,,a{,a}/4] ,,b ,,d/ e/ [c{,,a}] | "
-54;F dur;XI.4;Menuet;;;;;3;"[a,d{,a}/] ,,d ,,d ,,a ,a ,,b | [,,da{,a}1] ,,a ,,,a | \
+55;F dur;XI.4;Menuet;;;;;3;"[a,d{,a}/] ,,d ,,d ,,a ,a ,,b | [,,da{,a}1] ,,a ,,,a | \
 [f{a}/] e [e{,a}] ,f [,f{,,a}] [a{,,,a}] | [ccd{4}1] \
 [,'c/] ,a ,,d1 | "
 ;;Fascicle XII;Partie ex Cb Liutho Violino Basso;;;;;;
-55;c moll;XII.1;Aria;Fichtel;;;;3;"[,,dcb{4}1] [cb{,,a}] [dd{,a}] | [,,'cc{a}2] ,,d1 | \
+56;c moll;XII.1;Aria;Fichtel;;;;3;"[,,dcb{4}1] [cb{,,a}] [dd{,a}] | [,,'cc{a}2] ,,d1 | \
 [aa,,,c/] d c1 a | ([,b,,,d/] ,a) [,,d{a}] ,,c [,,d{4}1] | \
 ([d{,a}/] c) d a c d | "
-56;c moll;XII.2;Menuet;Fichtel;;;;3;"[cb{4}/] a ,b1 [,,'c{a}] | V[,,d,,d2] [d{,a}1] | [c{,,a}1] \
+57;c moll;XII.2;Menuet;Fichtel;;;;3;"[cb{4}/] a ,b1 [,,'c{a}] | V[,,d,,d2] [d{,a}1] | [c{,,a}1] \
 (,d/ ,b) [,a{,a}] ,,d | [,,'c{a}2] ,,,c1 | {,a}/ d ,d1 d | \
 ['c{,,a}2] [a{,,,a}1] | "
-57;c moll;XII.3;Scherzo;Fichtel;;;;2/4;"[cb{4}/] (,b/4 ,a) ,,d/ c | V[d{,a}/] 'c/4 a [cb{,,a}1] | \
+58;c moll;XII.3;Scherzo;Fichtel;;;;2/4;"[cb{4}/] (,b/4 ,a) ,,d/ c | V[d{,a}/] 'c/4 a [cb{,,a}1] | \
 [a,,,a/] [,b,,,d] [,a,,,c] c | [,'b,,,d/] ,a/4 ,b ,,d/ ,,,c | \
 [,,,d{,a}/] a [,,,c{,,a}] ,b | "
-58;c moll;XII.4;Gig;Fichtel;;;;6/8;"[cb{4}/]> d c/ [h{,,a}] k h | [h{a}1] ,k/ [,k{a}1] d/ | \
+59;c moll;XII.4;[Menuet];Fichtel;;;;3;"[cb{4}1] (,b/ ,a) ,,d1 | V[d{,a}1] [c{,,a}2] | Z2 | \
+[cb{4}1] (,b/ ,a) ,,d1 | V[d{,a}1] [c{,,a}2] | Z1 :||: \
+[,ac{a}1] ,,,c ,a |"
+60;c moll;XII.5;Gig;Fichtel;;;;6/8;"[cb{4}/]> d c/ [h{,,a}] k h | [h{a}1] ,k/ [,k{a}1] d/ | \
 [cb{,,a}/]> ,a ,,d/ [,,d{a}] ,a ,,c | [,,d,,d/]> ,,,c ,,,,b/ \
 {4}1 ,f/ | "
-;;Fascicle XIII;P. ex A#;;;;;;
-59;A dur;XIII.1;Intrada;Fichtel;;;;2/4;"[,,a,,a/4] ,,c ,,e ,a ,c/4 ,e d ,c | [e,,,,a/] {6}/4 {5} \
+;;Fascicle XIII;P[artie] ex A#;;;;;;
+61;A dur;XIII.1;Intrada;Fichtel;;;;2/4;"[,,a,,a/4] ,,c ,,e ,a ,c/4 ,e d ,c | [e,,,,a/] {6}/4 {5} \
 {4}/ i | [,,e,,a/] ,,e/4 ,a (,c ,a) (,,e ,,c) | "
-60;A dur;XIII.2;Polonoise;Fichtel;;;;3/4;"(3,h/ g i) [,,h,,a1] {4} | (3,c/ ,a ,,e) [,ac{5}1] g | \
+62;A dur;XIII.2;Polon[o]ise;Fichtel;;;;3/4;"(3,h/ g i) [,,h,,a1] {4} | (3,c/ ,a ,,e) [,ac{5}1] g | \
 (3,g/ e g) ,,f1 {5} | (3 ,a/ ,,e ,,c) [,,e,,a1] e | "
-61;A dur;XIII.3;Menuet;Fichtel;;;;3;"[ece,,a1] [,c,,,e] V[,e,,a] | [,,,'d{,,a}1] {,,,a} [,,a{4}] | \
+63;A dur;XIII.3;Menuet;Fichtel;;;;3;"[ece,,a1] [,c,,,e] V[,e,,a] | [,,,'d{,,a}1] {,,,a} [,,a{4}] | \
 ([,,c{,,,a}/4] ,,e) ,a/ [,,e{,,a}1] ,,c | V[,,e,,a1] \
 ,,a/ ,,,d ,,a1 | [i,,,,a1] [g{a}] [,h{,a}] | [,g{,,a}1] \
 [,g{,a}/] ,h [g{a}1] | "
-62;f# moll;XIII.4;Trio;Fichtel;;;;3/4;"{,a}1 i [g{a}] | [,h{,a}1] ,g/ ,h ,,k1 | [e{,a}1] [,g{,,a}] \
+64;f# moll;XIII.4;Trio;Fichtel;;;;3/4;"{,a}1 i [g{a}] | [,h{,a}1] ,g/ ,h ,,k1 | [e{,a}1] [,g{,,a}] \
 [,e{,,,a}] | [a{4}2] ,,e1 | [,a,,,c1] [,,e,,a] ,e | \
 [,,c{a}1] [,,a{,a}] ,e | [d{5}1] ,e [,'d{4}] | "
-63;A dur;XIII.5;Finale;Fichtel;;;Conc_4118;2;"[ece,,a1] [dac{,,a}] | [ece,,a3/2] ,,a/4 ,,c | [,,e,,a/] \
+65;A dur;XIII.5;Finale;Fichtel;;;Conc_4118;2;"[ece,,a1] [dac{,,a}] | [ece,,a3/2] ,,a/4 ,,c | [,,e,,a/] \
 ,,e/4 ,a (,c ,a) (,,e ,,c) | [,,a,,a/] ,,e/4 ,c e1 | \
 [i,,,,a/] ,,h [,,h,,a] ,,,k | "
 ;;Fascicle XIV;Partie ex F Liutho Violino Basso;;;;;;
-64;F dur;XIV.1;Intrada;Lauffensteiner;;;Conc_1955;3;"{,a}/> a ,,d/> a ,,a/> ,,d | [,,,a{,a}/]> ,,d a/> a \
+66;F dur;XIV.1;Intrada;Lauffensteiner;;;Conc_1955;3;"{,a}/> a ,,d/> a ,,a/> ,,d | [,,,a{,a}/]> ,,d a/> a \
 ['a,,,,a3/4] ,c/8 a | [c{,,a}/]> ,,d c c ['c{,,a}3/4] ,d/8 c | "
-65;F dur;XIV.2;Bourée;Lauffensteiner;;;Conc_1959;C;",,d1 | [a,d{,a}1] a/ ,c a1 [c,,,,b] | [,'c{4}1] (,a/ ,c) \
+67;F dur;XIV.2;Bourée;Lauffensteiner;;;Conc_1959;C;",,d1 | [a,d{,a}1] a/ ,c a1 [c,,,,b] | [,'c{4}1] (,a/ ,c) \
 ,,d1 [a,d,,a] | [,a,,,b1] [,,d,,a] [,,'b{a}1]> ,,d | \
 [,,'a{,a}1] ,,,c/ ,,a ,,,a1 [e{,a}] | "
-66;F dur;XIV.3;Sarabande;Lauffensteiner;Adagio et non troppo;;Conc_1957;3;"[,,,ad{,a}/]> ,,,a | [,,dcc{,,a}/]> ,a [,,'b1] {4}/> ,,d | \
+68;F dur;XIV.3;Sarabande;Lauffensteiner;Adagio et non troppo;;Conc_1957;3;"[,,,ad{,a}/]> ,,,a | [,,dcc{,,a}/]> ,a [,,'b1] {4}/> ,,d | \
 [,,'a{,a}1] (,,,c/ ,,,a) [a,d,,a/]> ,,d | ([,a,,,b/4] ,c) \
 a/ [,,'b,c{a}1] {4}/> ,,d | [,,aaVd{,a}2] [,,,c{,,a}/] ,,,c | "
-67;F dur;XIV.4;Courante;Lauffensteiner;;;Conc_1956;3;",d/ | [,ded{,a}1]> ,,d ,,,e ,,d | [,,,e{,a}/] ,,d ,,,,d ,,d \
+69;F dur;XIV.4;Courante;Lauffensteiner;;;Conc_1956;3;",d/ | [,ded{,a}1]> ,,d ,,,e ,,d | [,,,e{,a}/] ,,d ,,,,d ,,d \
 [,,,c{4}] ,,d | [,,,e{,a}/] ,,d ,,,,d ,,d [,,,c{4}] ,,d | \
 [,,,e{,a}/] ,,d (,,b ,,a)"
-68;F dur;XIV.5;Menuet;Lauffensteiner;;;Conc_1958;3;"[add{,a}1] ,,d ,,a | {,a}1 (,,,a/ ,,,c) (,,a ,,b) | \
+70;F dur;XIV.5;Menuet;Lauffensteiner;;;Conc_1958;3;"[add{,a}1] ,,d ,,a | {,a}1 (,,,a/ ,,,c) (,,a ,,b) | \
 [,,d{,a}1] ,,,a [,ad,,b] | [,,d,,a1] (,,b/ ,,a) (,,,c ,,,a) | \
 [,ad,,b1] [,,d,,a] a | "
-69;F dur;XIV.6;Gig;Lauffensteiner;;;Conc_1960;6/8;",,d/ | [a{,a}/] (,,d ,,a) ,,,a ,,a [,,d{a}] | [a,,,,a/] \
+71;F dur;XIV.6;Gig;Lauffensteiner;;;Conc_1960;6/8;",,d/ | [a{,a}/] (,,d ,,a) ,,,a ,,a [,,d{a}] | [a,,,,a/] \
 (,,d ,,a) ,,,a a [,,d{,a}] | ([,a{d}/] ,b) ,a [,,d{,,a}] \
 ,a [,,b{4}] | "
 ;;Fascicle XV;Partie ex F Liutho Violino Basso de Mr Weis;;;;;;
-70;F dur;XV.1;Ouverture;S.L.Weiss;;;Conc_649;C;",,d/ | [,,de{,a}1]> ,,d [,,dc{,,a}] ,,d ,a ,c | [aVd{,,,a}1] \
+72a;F dur;XV.1;Ouverture;S.L.Weiss;;;Conc_649;C;",,d/ | [,,de{,a}1]> ,,d [,,dc{,,a}] ,,d ,a ,c | [aVd{,,,a}1] \
 ,,,a/ ,,,c/4 ,,,,c [,,,aVd1] [a,,,,a/] ,,d | [,ad{d}1] \
 [,,da,a/] ,a [,,'b,c{a}1] [,,a{,a}/4] ,,d ,,b ,,a | "
-71;F dur;XV.2;Allegro;S.L.Weiss;;;Conc_3639;3/4;"a1 (e/ c) (e a) | ,,,h/ h (,,h ,,f) ,,h ,,,h | \
+_72b;F dur;XV.2;Allegro;S.L.Weiss;;;Conc_3639;3/4;"a1 (e/ c) (e a) | ,,,h/ h (,,h ,,f) ,,h ,,,h | \
 ,,f/ f ,h f ,,h f | ,,,a/ e [a,,e] ,,,c (,,,e ,,,a) | "
-72;F dur;XV.3;Adagio;S.L.Weiss;;;Conc_3640;C;"[,,,'a{a}1]> ,,a [,,aab] ,,d [,,,'a/] ,,,c/4 ,,a | \
+_72c;F dur;XV.3;Adagio;S.L.Weiss;;;Conc_3640;C;"[,,,'a{a}1]> ,,a [,,aab] ,,d [,,,'a/] ,,,c/4 ,,a | \
 [,,baa{,,,a}/] ,,,,a ,,,,d ,,,,,b [,,da,a] ,,,a a c/4 ,b | \
 [,'a,a{d}3/2] (,a/4 ,c ,d)"
 73;F dur;XV.4;Courante;S.L.Weiss;;;Conc_2392;3;"a/ | [add{,a}1]> ,,d a ,,d | [c{,,a}/] ,,d c ,,d c ,,d | \
@@ -271,7 +277,7 @@ V[,,c{a}] [,,a{,a}] | [,,,'c{,,a}1] [,,,,e{,,,a}2] | \
 88;C dur;XVIII.2;Paysane;Fichtel;;;;2;"[,,d{4}/] ,a ,c a | [c{,,a}1] [e{,a}] | [a{,,,a}/] ,a ,,c \
 ,,,c | [,,d{4}/] (,c/4 ,a) ,,d/ ,a | [,,d{a}/] (,c/4 ,a) \
 ,,d/ ,c | "
-89;C dur;XVIII.3;Sarabande;Fichtel;;;;3;"[,,dc{4}1] c1> V[e{,a}] | [,,'c{a}1] ,,a/ ,,c ,,d1 | \
+89;C dur;XVIII.3;Sarab[ande];Fichtel;;;;3;"[,,dc{4}1] c1> V[e{,a}] | [,,'c{a}1] ,,a/ ,,c ,,d1 | \
 [,,a{,a}1] (,d/ ,c) ,a ,,d | [,,'c{a}1]> ,,a ,,,c1 | \
 ([,c{4}/] ,a) (,,d ,,c) ,,a ,,,c | "
 90;C dur;XVIII.4;Menuet;Fichtel;;;;3;"[c{4}/] ,d c1 [e{,a}] | [,,'c{a}1] ,,a/ ,,c ,,d1 | \
@@ -283,17 +289,17 @@ V[,,c{a}] [,,a{,a}] | [,,,'c{,,a}1] [,,,,e{,,,a}2] | \
 92;C dur;XVIII.6;Gig;Fichtel;;;;6/8;"c/ | [cc{4}/]> ,d ,c/ [,'a{a}] ,,d ,,c | [,,dc{4}3/2] \
 [,,dc1] e/ | [ed{,a}/]> ,d ,c/ [,a{,,,a}/] ,c ,,d | \
 [,,'cc{a}3/2] [,,cc1] [,,,c{,,a}/] | "
-;;Fascicle XIX;P. ex g#;;;;;;
+;;Fascicle XIX;Partie ex G#;;;;;;
 93;G dur;XIX.1;Entrée;;;;;3;"{a}/ {a} ,,,,,c ,,,,,c ,,,,a ,,,,a | [,,,c{a}/] ,,,,a \
 ,,,c ,,,c ,,c ,,c | [,a{a}/] ,,,c ,,c ,,c ,a ,a | \
 [cac{a}/] ,,c ,a ,a c c | "
 94;G dur;XIX.2;Gavotte;;;;;2;"[,,,c{a}/4] ,,a ,,c ,,d ,a/ ,a | ,,,,,c/4 ,,c ,a ,,c \
 {a}/ [,a,,,c] | ,,,,,d/4 ,,d ,c ,,d {a}/ [,c,,,d] | \
 ,,,,,c/4 ,,c ,a ,,c {a}/ ,a | "
-95;G dur;XIX.3;Menuet;;;;;3;"[,ac{a}2] [,c,,,d1] | [,ac{a}1] (,,,c/ ,,,b) ,,,c1 | \
+95;G dur;XIX.3;Men[uet];;;;;3;"[,ac{a}2] [,c,,,d1] | [,ac{a}1] (,,,c/ ,,,b) ,,,c1 | \
 {,,,a}/ ,,,b ,,a ,,c ,,d ,a | [,,'c{a}1] ,,a/ ,,c ,,,c1 |: \
 [ea{,,,a}3] | [ca{,,,a}3] :| "
-96;G dur;XIX.4;Menuet;;;;;3;"[ca{a}1] ,a ,,c/ ,,,c | [ca{a}1] ,a ,,c/ ,,,c | \
+96;G dur;XIX.4;Men[uet];;;;;3;"[ca{a}1] ,a ,,c/ ,,,c | [ca{a}1] ,a ,,c/ ,,,c | \
 ([,c{4}/] ,a) (,,d ,,c) ,,a ,,,c | [,,,'b{,,,a}1] ,,,,c/ \
 ,,,b ,,,,a1 | {,,,a}1 ,,,b ,,a/ ,,d | "
 97;g moll;XIX.5;Trio;;;;;3;"[,,,c{a}/] ,,a ,,b ,,d ,a1 | [,bd{4}1] [,'a{d}2] | \
@@ -367,7 +373,7 @@ V[,d/] ,,,a ,,,c ,,a | V[,,b{a}/] ,,,c/4 ,,a V[,,b] ,a \
 118;f# moll;XXIV.4;Trio;Fichtel;;;;3;"[,ee{,a}1] [,ee{,,a}] [,ee{,,,a}] | [,ee{4}1] [,ee{5}] \
 [,ee{6}] | [,dc{a}1] d ,g/ g | ['e{,a}1] ,g/ e ,e1 | \
 [i,,,,a1] [,,k,,a] [,,h,,a] | [,a{5}1] ,,c/ ,a g1 | "
-;;Fascicle XXV;P. ex C;;;;;;
+;;Fascicle XXV;P[artie] ex C;;;;;;
 119;C dur;XXV.1;Aria;Fichtel;;;;3/4;"[hfh{4}1] ['g{,,,a}/] ,h [,f{,,a}1] | [ed{,a}1] (c/ a) \
 [c{,,a}1] | [aac{,,,a}1] ,a c | [,'c{4}1] (,c/ ,a) ,,d1 | \
 [,c,,,d1] [,a,,,c] [,,d,,a] | [,a,,,c1] c ,,,c | "
@@ -415,19 +421,19 @@ c1 [a{,,,a}] | [,'b{4}/] ,a ,b1 [,a{5}] | "
 132;B dur;XXVII.5;Caprice;Fichtel;;;;2;"[,,ba{d}1] [,,d,,a] | [,'a{d}/] ,,d/4 ,a ,,b/ a | \
 [,f{,,a}/] ,f/4 a ,f/ h | [,h{,a}/] ,f/4 ,h a/ [a{,,,a}] | \
 ([c{,,a}/4] a) (,b ,a)"
-;;Fascicle XXVIII;P. ex Eb;;;;;;
-133;Es dur;XXVIII.1;Aria;Fichtel;;;;2/4;"[,bb{,,a}/] ,f/4 d [f{a}/] [d{,a}] | [,bb,b/4] ,,b ,,,c ,,b \
+;;Fascicle XXVIII;P[artie] ex Eb;;;;;;
+133;Es dur;XXVIII.1;Aria;Fichtel;G# - d - f a - d' - f';;;2/4;"[,bb{,,a}/] ,f/4 d [f{a}/] [d{,a}] | [,bb,b/4] ,,b ,,,c ,,b \
 {,,a}/ [h,,,,a] | [f{a}/] ,g/4 ,f [a,,,,a/] ,b | \
 [,'a{5}/] [,b{4}] [a{,,,a}] a | "
-134;Es dur;XXVIII.2;Scherzo;Fichtel;;;;2;"[,bb{,,a}/] f [f{a}] [d{,a}] | ['c{,,a}/] (a/4 c) ,b/ ,,b | \
+134;Es dur;XXVIII.2;Scherzo;Fichtel;G# - d - f a - d' - f';;;2;"[,bb{,,a}/] f [f{a}] [d{,a}] | ['c{,,a}/] (a/4 c) ,b/ ,,b | \
 [,,d,,a/] (d/4 c) a/ ,b | [,'a{d}/] ,,d/4 ,a ,,b/ ,,,,,a | "
-135;Es dur;XXVIII.3;Paysan;Fichtel;;;;2;"[,bb{,,a}/] ,,b [f{a}] [d{,a}] | ['c{,,a}/] a/4 c ,b/ \
+135;Es dur;XXVIII.3;Paysan;Fichtel;G# - d - f a - d' - f';;;2;"[,bb{,,a}/] ,,b [f{a}] [d{,a}] | ['c{,,a}/] a/4 c ,b/ \
 [,,b{a}] | [,,d,,a/] (d/4 c) ,d/ ,b | [,'a{d}1] [,bb{,,a}] | \
 [,b{,,a}/] c [a{,,,a}] ,,b | "
-136;Es dur;XXVIII.4;Menuet;Fichtel;;;;3;"{,,a}/ ,,b ,b ,,b c ,b | [f{a}1] ['d{,a}] [,f{,,a}] | \
+136;Es dur;XXVIII.4;Menuet;Fichtel;G# - d - f a - d' - f';;;3;"{,,a}/ ,,b ,b ,,b c ,b | [f{a}1] ['d{,a}] [,f{,,a}] | \
 [h,,,,a1] [f{a}] [,,,,a] | ['d{,a}2] [,f{,,a}1] | \
 {a}/ ,,b ,b ,,b c ,,b | "
-137;B dur;XXVIII.5;Trio;Fichtel;;;;3;"[,ab{d}1] [a{,,,a}] [,b{4}] | [,a{5}/] ,,b [,b{4}] ,,b \
+137;B dur;XXVIII.5;Trio;Fichtel;G# - d - f a - d' - f';;;3;"[,ab{d}1] [a{,,,a}] [,b{4}] | [,a{5}/] ,,b [,b{4}] ,,b \
 [a{,,,a}] ,,b | ([c{,,a}/] a) (,b ,a) ,,d ,,b | \
 [,,'aa{,a}1] ,,,c/ ,,a ,,,a1 | "
 ;;Fascicle XXIX;Partie ex B Liutho Violino Basso;;;;;;
@@ -437,13 +443,13 @@ c1 [a{,,,a}] | [,'b{4}/] ,a ,b1 [,a{5}] | "
 139;B dur;XXIX.2;Menuet;Fichtel;;;;3;"[,,ba{d}1] ,a a | [,,'a{,a}1] (,,a/4 ,,b ,,d/) ,,,a1 | \
 [,,ba{d}1] ,a a | [,,'a{,a}1] (,,a/4 ,,b ,,d/) ,,,a1 | \
 [f{a}1] [e{,a}] [,f{,,a}] | "
-140;B dur;XXIX.3;Trio;Fichtel;;;;3;"[,abc{a}1] ,a [,b,,,d] | [,a{d}1] (,,d/ ,,b) ,,a ,,,c | \
+140;g moll;XXIX.3;Trio;Fichtel;;;;3;"[,abc{a}1] ,a [,b,,,d] | [,a{d}1] (,,d/ ,,b) ,,a ,,,c | \
 [,,a{4}1] ([,,b{,,,a}/] ,,a) (,,,c ,,,b) | [,,,ca{a}1] \
 ,,,,a ,,,c | [,,ab{,,,a}1] ,,,,a c | [ea,,e1] ,a [f{a}] | "
 141;B dur;XXIX.4;Finale;Fichtel;;;;2/4;",a/4 ,b | [aa{d}/] [,,b{,,,a}] [,,d{,,a}] [,,'a{,a}] | \
 [,,ba{d}/4] ,,a ,,b ,,d ,,b/ [c{,,a}] | ['a{,,,a}/] \
 ,b/4 ,a [,,dc{,,a}/] [,,b{a}] | "
-;;Fascicle XXX;Partie ex g#;;;;;;
+;;Fascicle XXX;Partie ex G#;;;;;;
 142;G dur;XXX.1;Aria;Fichtel;;;;3;"[cac{a}1] [e,,,,d] ['ba,,a] | [cac{a}1] [,a,,,c] [c,,,d] | \
 [,a,,,c1] (,,d/ ,,c) [,,a{4}] ,,,c | [,,,'b{,,,a}1] \
 ,,,c/ ,,a ,,,,a1 | [,,db,a1] [,,db{a}] [,,db{,a}] | \
@@ -493,15 +499,15 @@ Vk/4 a [,'c{4}/] ,a/4 ,,d [,f{,,a}/4] g V[h{,a}/]"
 {,a}1 [,,de] [,,ff] | [,,de{,a}1] (,a/ ,c) ,d1 | \
 [,,d,,a1] ,a [,,'b{a}] | [,,b,cd1] (,,d/ ,,b) [,,'a{,a}1] | "
 ;;Fascicle XXXIV;(Liuto) ex D#;;;;;;
-156;D dur;XXXIV.1;Allemande;Lauffensteiner (Meyer);;;;C;"e/4 ,e ,,e | V[,,f/] ,,f ,,f ,,f [,,'e3/4] ,a/8 (,c ,a) \
+156;D dur;XXXIV.1;Allemande;Lauffensteiner (according to Meyer);;;;C;"e/4 ,e ,,e | V[,,f/] ,,f ,,f ,,f [,,'e3/4] ,a/8 (,c ,a) \
 (,,e ,,c) ,,a/4 [,,a,,a] [,a{,a}] [,c{4}] | V[,ea{,,,a}/] \
 ['c{,,a}/4] ,e/8 c V[e{,a}/4]"
-157;D dur;XXXIV.2;Courante;Lauffensteiner (Meyer);;;;3;"(e/4 c) (,e ,c) | ,a/ ,,e ,a ,,a ,,,b ,,a | ,,,,a/ ,,,b \
+157;D dur;XXXIV.2;Courante;Lauffensteiner (according to Meyer);;;;3;"(e/4 c) (,e ,c) | ,a/ ,,e ,a ,,a ,,,b ,,a | ,,,,a/ ,,,b \
 ,,,,,a ,,e (,a ,c) | ,,,,a/ ,e {a} ,,c (,c ,a) | "
-158;D dur;XXXIV.3;Menuet;Lauffensteiner (Meyer);;;Conc_816;3/4;"(3[e{,,,a}/] c ,e) (3,e/ ,c ,a) (3[,,e{,,a}/] ,,c ,,a) | \
+158;D dur;XXXIV.3;Menuet;Lauffensteiner (according to Meyer);;;Conc_816;3/4;"(3[e{,,,a}/] c ,e) (3,e/ ,c ,a) (3[,,e{,,a}/] ,,c ,,a) | \
 [,aa{,a}1] ,,a ,a | (3[e{,,,a}/] c ,e) (3,e/ ,c ,a) \
 (3[,,e{,,a}] ,,c ,,a) | "
-159;D dur;XXXIV.4;Finale;Lauffensteiner (Meyer);;;Conc_2934;2;"k/ | {,,,a}/ k ['i{,,a}] k | [,h{,a}/] ,,a ,a e | ,,a/ ,e \
+159;D dur;XXXIV.4;Finale;Lauffensteiner (according to Meyer);;;Conc_2934;2;"k/ | {,,,a}/ k ['i{,,a}] k | [,h{,a}/] ,,a ,a e | ,,a/ ,e \
 [,'c{a}] ,a | [,,'e,,a/] ,,a ,/ ,c/ | V[,d,,a/] ,a ,,e ,a | "
 ;;Fascicle XXXV;Partie ex Cb d Mr Weis;;;;;;
 160;c moll;XXXV.1;Prelude;S.L.Weiss;;;Conc_3200;C;"{4}/ ,,,,b ,,,c ,,d {4}/ ,,,c ,,d ,b | {4}/ ,,d ,b c \

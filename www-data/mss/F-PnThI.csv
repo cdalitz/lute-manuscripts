@@ -61,7 +61,7 @@ _9b;c moll;21;Adagio;Gebel;;;Conc_3433;C;"h1 [cbd] [abd] [aad{,,,a}] | \
 _9c;c moll;23;Lagrimoso;Gebel;;;Conc_3434;3/4;",,,c/4 | \
 ,,d3/4 ,b/4 ,,,a3/4 ,a/4 ,,,,b3/4 ,,d/4 | \
 ,,,,a3/4 ,b/4 a1 z/4 ,,,,,d/4 | \
-,,,,,c3/2 z/4 k/4 ,a3/2 c/4 | \
+,,,,,c3/2 z/4 k/4 ,a3/4 c/4 | \
 [ad{4}1] X,b2 | "
 10a;B dur;23;Unsre müden Äugenlieder;;;;;C;"[,,ba{5}1] [,,da{6}] [,aba{5}] [,,da,a/] a | \
 [,,ba{a}/] [,,aa{,a}] ,,b ,,d/4 ,a [,'c,c{a}3/4] a/4 ,,,a/ | \
@@ -162,7 +162,7 @@ _11d;g moll;26;Variatio III [Nun sich der Tag …];A.Falckenhagen;;;Conc_3437;C;"(
 [,,'d{,a}3/2] ,,,f/4 ,,d ,,,f1 {5} z/4 ,,,a/4 ,,,c ,,a ,,b \
 ,,d ,a ,b a ,,d ,a ,,a [,,baa{d}1] | \
 [,,bca{a}1] [,,dcc] [,,'aa{,a}/] ,,,c [,,,ada1] | "
-_26b;B dur;31;Wach auf - Variatio I;A.Falckenhagen;;;Conc_3441;C;"{d}/4 ,,,,a ,,,a ,,b | \
+_26b;B dur;31;Wach auf - Variat: I;A.Falckenhagen;;;Conc_3441;C;"{d}/4 ,,,,a ,,,a ,,b | \
 {a}/4 ,,b ,,,c ,,,,a {,,,a} ,,,,d ,,,a ,,a \
 {,,a} ,,,c ,,,,b {4} {,,,a} ,,,a ,,b {,,a} | \
 {,a}/4 ,,,f ,,d ,,,f ,,,e ,,d ,,,,d ,,,e \
@@ -264,7 +264,7 @@ z2 z1 e1 | \
 [,ae{d}1] [,cb{a}] [,,'e,,a2] | \
 [,,'a{6}3] ,,b/4 ,,a (,,d ,,b ,,a) ,,,c (,,b ,,a) ,,,c \
 (,,,a ,,,c) (,,a ,,b) [,,de{,a}1] | "
-_45b;d moll;38;Variatio I [Wer nur den lieben];A.Falckenhagen;;;Conc_3447;C;",,a/4 ,,,a ,,,,c ,,,a | \
+_45b;d moll;38;Variatio [Wer nur den lieben];A.Falckenhagen;;;Conc_3447;C;",,a/4 ,,,a ,,,,c ,,,a | \
 ,,,,a/4 ,,,a ,,a ,a ,,,,,e ,,a ,c ,,,,,a ,,,,a ,,a ,a a \
 ,,,,,d ,,a ,c ,,,,,a | \
 {d}/4 ,,e ,a {c} {a} ,,,c ,,b ,c ,,,,,a ,a (,,e ,,c) \
@@ -303,7 +303,7 @@ _45b;d moll;38;Variatio I [Wer nur den lieben];A.Falckenhagen;;;Conc_3447;C;",,a
 [,,,ca{a}2] [,,aa{,a}1] [,,ca{,,,a}] | \
 [,,dc{,,a}1] [,a,c,c] [,cd,,d] [,a{a}/] ,,d | \
 [,,dcc2] {4} ::"
-52;C dur;40;Ach Gott wie manches Herzeleid;;;;;3/2;"[,,dcc{4}2] {,,,a} [,,dc{,,a}] | \
+52;C dur;40;Ach Gott wie manches Herzeleid;;;;Conc_5393;3/2;"[,,dcc{4}2] {,,,a} [,,dc{,,a}] | \
 {,,,a}2 [,,dc{,,a}] {4} | \
 [,,aa{,a}3] ,,c1 [,,dc{,,a}2] | \
 [,aa{,b}3] ,,d1 [,,cc{a}2] | \
@@ -320,7 +320,7 @@ _45b;d moll;38;Variatio I [Wer nur den lieben];A.Falckenhagen;;;Conc_3447;C;",,a
 [,a,,,c1] [,c,,,d] [aa{,a}/] [,cd] [,'ac{a}3/4] ,,d/4 | \
 [,,dcc3] [,,d,,a1] | \
 [,ac{a}1] [,cd,,d] [ada{,a}] [,ac{a}] | "
-55;C dur;41;Ach Gott wie manches Herzeleyd;;;;;3/2;"[,,dcc{4}2] {,,,a} [,,dc{,,a}] | \
+55;C dur;41;Ach Gott wie manches Herzeleyd;;;;Conc_5393;3/2;"[,,dcc{4}2] {,,,a} [,,dc{,,a}] | \
 {,,,a}2 [,,dc{,,a}] {4} | \
 [,,a{,a}3] ,,c1 [,,dc{,,a}2] | \
 [,aa{,b}3] ,,d1 [,,cc{a}2] | \
@@ -338,7 +338,7 @@ _45b;d moll;38;Variatio I [Wer nur den lieben];A.Falckenhagen;;;Conc_3447;C;",,a
 58;G dur;41;Machs mit mir nach deiner Güt;A.Falckenhagen;;;Conc_3448;C;",,c/ (,,d/4 ,,a) ,,c ,,,c ,,a ,,,b ',,,c1 | \
 [,,cc{a}1] [,,db,a] [,a,c,c] [,ac{a}] | \
 [,,db,a1] [,,cc{a}/] {4} [,,aba{,,,a}1] ,/4 ,,,,a ,,,,c ,,,b"
-59;F dur;43;Variat: 2da;;;;;C;"[,,d{,a}/] (,,a/4 ,,b) [,,d{,a}/4] a ,a ,,a [,,b{,a}/] \
+59;F dur;43;Variat: 2da;;;;;C;"[,,d{,a}/] (,,a/4 ,,b) [,,d{,a}/4] a ,a ,,,a [,,b{,a}/] \
 ,,,c/4 ,,a [,,b{,,a}] ,a ,,,c ,,b | \
 [,,a{,a}/4] ,,d ,,,a ,,a {5} ,,,c {4} ,,,,c ,,,a/4 \
 ([,,b{,a}] ,,a) ,,,c ,,,a a (,,d ,,b) | "
