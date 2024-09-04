@@ -1,544 +1,544 @@
-PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
-10;[Passo e mezzo Antico Pavan];;;OT;ConcR147;C;",,d/ ,a | [bdca/] ,,d/4 ,,c ,,d ,a ,b ,d | \
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1;;10;[Passo e mezzo Antico Pavan];;;OT;ConcR147;C;",,d/ ,a | [bdca/] ,,d/4 ,,c ,,d ,a ,b ,d | \
 [,bd,a/] ,,,c [,ad,,a] ,,c | [,d,a/] ,,,c/4 ,a ,b/ [d,,c] | \
 [a,,,d/] ,,,c [,da,c] [,b,,a] |"
-12;[Passo e mezzo Antico Galliard];;;OT;;3;"[abd,a1] ,,,c/ ,d [abd,a1] | [aac,,a1] [abd,a] [abd] | \
+2;;12;[Passo e mezzo Antico Galliard];;;OT;;3;"[abd,a1] ,,,c/ ,d [abd,a1] | [aac,,a1] [abd,a] [abd] | \
 [,df,,d1] ,,,f/ ,,d ,,f/4 ,,d ,,f ,,d | \
 [,dff,d3/2] [,dff/] ,,,,,d1 | [abd,a3/2] ,d/ [abd,a1] |"
-14;[Passo e mezzo Antico Variations];;Divisions 6 and 9 by Nicholas Rans, divisions 7 and 8 by Marck Antoine (p. 369);OT;ConcR437;C;",,d/ ,a | ,,,a/ [abd] ,,,c ,d [abd,a/4] ,a ,,d ,,c ,,d ,a ,b ,d | \
+3;;14;[Passo e mezzo Antico Variations];;Divisions 6 and 9 by Nicholas Rans, divisions 7 and 8 by Marck Antoine (p. 369);OT;ConcR437;C;",,d/ ,a | ,,,a/ [abd] ,,,c ,d [abd,a/4] ,a ,,d ,,c ,,d ,a ,b ,d | \
 [abd,a/] [d,,c] [c,,,a] [a,,,d] [,d,,c] [,b,,,a] [,a,,a] ,,d |"
-18;Mownser.;Daniel Bacheler;Mounsieur's Almain - pp. 19-24 empty;OT;ConcR48;C;"[aaccca3] [aaccca1] | [a,,,e1] [ca,,c3/2] ,,,,a/ [aa,,,d1] | \
+4;;18;Mownser.;Daniel Bacheler;Mounsieur's Almain - pp. 19-24 empty;OT;ConcR48;C;"[aaccca3] [aaccca1] | [a,,,e1] [ca,,c3/2] ,,,,a/ [aa,,,d1] | \
 ,,,e1 [aa,e,c] ,,,b [aaccca3/2] ,,d/ [aac,,a1] | \
 [ef,,,a3/4] f/4 h1 [f,,e] [ef,,,a2] [cef,c3/2] ,f/ [cef,e1] \
 ,a [,c,,a/]"
-25;Almayne;;;OT;;C;",,d/ ,a | [,cd3/2] ,d/ [acd1] | a3 | [,,d,a/] ,a | \
+5;;25;Almayne;;;OT;;C;",,d/ ,a | [,cd3/2] ,d/ [acd1] | a3 | [,,d,a/] ,a | \
 [,bd1] [,db,,d] [,db] [ab,,d] ,,,c/ ,d [ab,,d1] [a,b] \
 [,d,d/] ,b [,b,c] ,a/4 ,b [,a,a/] ,b"
-25;L. Hyryfords Gallyard;;Lord Hereford's Galliard;OT;ConcR189;3;",,d/ ,a | [,cdca1] [,daac] [a,d,e] | \
+6;;25;L. Hyryfords Gallyard;;Lord Hereford's Galliard;OT;ConcR189;3;",,d/ ,a | [,cdca1] [,daac] [a,d,e] | \
 [,cd,a1] [,da,c] [aa,c,a] | [,cd,a2] ,d1 | \
 [,ac,,a2] ,c1 | [,,d,,c2] ,,,a1 | \
 [,ac,,a1] [,cd,a] [,a,a/] ,,d | \
 [,,de1] [,ad,,a] [,ac,,a] |"
-26;[Goodnight, duet treble];John Johnson;;OT;ConcR5;3;",d3/2 ,a/ ,b/4 ,a ,b ,d | a/ ,d/4 a ,b/ a | \
+7;;26;[Goodnight, duet treble];John Johnson;;OT;ConcR5;3;",d3/2 ,a/ ,b/4 ,a ,b ,d | a/ ,d/4 a ,b/ a | \
 ,d/4 a b a b a ,d ,b ,d ,b ,a ,,d ,a ,b ,a/ |"
-28;[Fantasia];;;OT;ConcR238;2;",a2 | ,d2 | ,d1 a | c/ a/4 c d c a c | [d,,c1] d/ c | \
+8;;28;[Fantasia];;;OT;ConcR238;2;",a2 | ,d2 | ,d1 a | c/ a/4 c d c a c | [d,,c1] d/ c | \
 [a,b/] ,d a1 | ,,b/ a [,dd] ,c |"
-30;[Chi Passa];;;OT;;3;"[da,,,a1] | [,aabc1] a [ca,,c] | [caa1] ,,,,c [caa] | \
+9;;30;[Chi Passa];;;OT;;3;"[da,,,a1] | [,aabc1] a [ca,,c] | [caa1] ,,,,c [caa] | \
 [ca,,c1] [ca,,c/] a [,ea,c] a | [ca,,c1] [ca,,c/] ,e a c | \
 [da,,,a/] a d1 [c,,,,a/] a |"
-30;Cottonns.;Cotton;Chi Passa - pp. 31-34 empty;OT;ConcR178;3;",c/ ,d | [aac,,a1] ,,,c ,,,,,a [aa,c,a] \
+10;;30;Cottonns.;Cotton;Chi Passa - pp. 31-34 empty;OT;ConcR178;3;",c/ ,d | [aac,,a1] ,,,c ,,,,,a [aa,c,a] \
 ,,,c/ ,d/4 ,b ,a ,,d ,,c ,,a | \
 [aa,c,a1] [aac] ,,,,,a [,ac,,a/] ,,d [,a,c] ,,c [,,da] ,a |"
-35;[Nusquam Galliard];;;OT;ConcR24;3;",,d/ ,a | [,cd3/2] ,d/ [acd1] | [acc1] [,cde] [,ede] | \
+11;;35;[Nusquam Galliard];;;OT;ConcR24;3;",,d/ ,a | [,cd3/2] ,d/ [acd1] | [acc1] [,cde] [,ede] | \
 [,acc1] ,,,,,a/ ,a [,cd1] | [,ac1] ,,,c/ ,a [,cd1] | \
 [,ac1] ,,,c/ ,a [,cd1] |"
-36;[Galliard];;;OT;ConcR206;3;"c/ d | [fdaa3/2] d/ [cdda1] | [a,d,e1] [,da,c] [,dc] | \
+12;;36;[Galliard];;;OT;ConcR206;3;"c/ d | [fdaa3/2] d/ [cdda1] | [a,d,e1] [,da,c] [,dc] | \
 [,cdca1] ,,,c/ ,d ,c ,a | [,cd,a1] ,,,c/ ,d a c | \
 [dab,,d1] ,,,a/ c [a,,,d] ,d | [,daa1] [,d,ca] ,c/ ,,b |"
-37;[Galliard?];;;OT;;none;"[,dba,d2] [,aba1] [,,def/] [,aba,d1] ,,,a/ \
+13;;37;[Galliard?];;;OT;;none;"[,dba,d2] [,aba1] [,,def/] [,aba,d1] ,,,a/ \
 [,,b,,d3/4] ,,d/4 ,a/ [,bdd1] [,bd/] [,dff3/4] ,f/4 \
 [,dff/] [ab,,d1] [ab/] [ab,,d1] [bbdd/] \
 [ab,,d3/4] ,b/ [,b,,d/] [,dff3/4] ,f/ [,dff/]"
-37;Incip: Galli:;;Galliard, cont.d on p. 36 (???);OT;;3;",,d/ ,a | [,cd,a3/2] ,d/ a1 | [c,da1] [a,d] [,ea,c] | \
+14;;37;Incip: Galli:;;Galliard, cont.d on p. 36 (???);OT;;3;",,d/ ,a | [,cd,a3/2] ,d/ a1 | [c,da1] [a,d] [,ea,c] | \
 [aac,,a1] ,,,c/ ,d/4 ,c ,a ,,d ,,c ,,a | \
 [,ac,,a1] ,,,c [,ddef] | [,cdca3/2] ,c/ [,a,a] ,,d |"
-38;[Ruggiero];;;OT;Conc_3638;C;",,d/ ,a | [,cd,a1] [,cd] [,da,c] [,dc] | \
+15;;38;[Ruggiero];;;OT;Conc_3638;C;",,d/ ,a | [,cd,a1] [,cd] [,da,c] [,dc] | \
 [,cd,a1] ,,,c/ ,d [,cd1] [acd,a] | [cdda1] [aacc] [,cde] [,ed] | \
 [aac,,a1] ,,,c/ ,,d [aac,,a1] ,,,c/ ,,a |"
-39;[Ruggiero, duet treble];;;OT;Conc_3638;C;",c/ ,d | a/ d c a ,d d/4 c d c a ,d | \
+16;;39;[Ruggiero, duet treble];;;OT;Conc_3638;C;",c/ ,d | a/ d c a ,d d/4 c d c a ,d | \
 a/4 c d c a ,d ,c ,a ,,d/ a f d |"
-40;[Downright Squire];;;OT;;3;"[,cdca3/2] ,d/ [acd1] | [cdd1] ,,,a [a,,,e] | \
+17;;40;[Downright Squire];;;OT;;3;"[,cdca3/2] ,d/ [acd1] | [cdd1] ,,,a [a,,,e] | \
 [,da,c3/2] ,c/ [,ab1] | [,cee1] c [,ab] | \
 [a,,c/] ,d ,c ,a [,cdd1] | [,aabc2] [,aab1] | \
 [,da,c3/2] a/ [c,,a1] |"
-42;[Sellenger's Round / Est-ce Mars / The French Tune];;;OT;ConcR19;3;"[,,dca2] [,,dc1] ,,d/ ,,c ,,d ,a [,cd1] | \
+18;;42;[Sellenger's Round / Est-ce Mars / The French Tune];;;OT;ConcR19;3;"[,,dca2] [,,dc1] ,,d/ ,,c ,,d ,a [,cd1] | \
 [,dda3/2] ,c/ ,a1 ,,d f [d,,c] | \
 [c,,e3/2] a/ [,db1] [acd3/2] ,d/ [acd1] |"
-44;[Pepper is Black];;;OT;;3;",,d1 | [,cdca2] ,,d1 | [acd1] ,,,,a [,ac,,a] | \
+19;;44;[Pepper is Black];;;OT;;3;",,d1 | [,cdca2] ,,d1 | [acd1] ,,,,a [,ac,,a] | \
 [,cdca3/2] ,a/ [,,def1] | [a,,,e3/2] ,,,,c/ [,cd,a1] | \
 [,da,c1] [a,b] [c,d,a] | [daa,,d3/2] c/ [acd,a1] | \
 [cdda3/2] ,c/ ,a1 |"
-46;[French Galliard];John Johnson;;OT;ConcR168;3;",b/ ,a | [,,dca3/2] ,,c/ [,,dca1] | \
+20;;46;[French Galliard];John Johnson;;OT;ConcR168;3;",b/ ,a | [,,dca3/2] ,,c/ [,,dca1] | \
 [,,cc,a3/2] ,,d/ [,,cc,a1] | \
 [,,dca3/2] ,a/ [,bd,a1] | [,db,,d3/2] a/ [,db,,d1] | \
 [ab,cd1] [ab,c] [,db,c] | [,bd,a1] [,ab,,d/] ,,d [,ab,,d1] |"
-49;[Song arrangement];;;OT;;none;"[abb,d1] [abb,d] [abb,d2] [abb1] ,,,,d [abb,d] [abb,d] \
+21;;49;[Song arrangement];;;OT;;none;"[abb,d1] [abb,d] [abb,d2] [abb1] ,,,,d [abb,d] [abb,d] \
 [dfg,d] [dfg] [cdda2] z1 [dfg,d1] [dfg,d] [dfg] ,,,,d \
 [fggd] [dfg,d] [bdda/] a/4 b d b a ,d"
-49;Fansy Newm;Newman;;OT;ConcR1354;2;"[,,b,,d2] | [,,b,,d1] ,,,,a/ ,,,,c | \
+22;;49;Fansy Newm;Newman;;OT;ConcR1354;2;"[,,b,,d2] | [,,b,,d1] ,,,,a/ ,,,,c | \
 [,,b,d1] ,,d/ ,a | [,b,,d1] ,,,a/ ,,,c | \
 [,b,d1] ,a | [,,da] ,a/ ,b | [,d,a1] ,,,c/ ,,,d | \
 [,ab1] [,,dd] | [,,bc1] ,b | [,db1] ,b |"
-50;[Inci]pit [Wes]tons pau: / West: pau:;Weston;;OT;ConcR2676;C;"[,,d,a/] ,a | [,bd,a1] [,b,c/] ,d [a,,,a] b [a,c] ,d | \
+23;;50;[Inci]pit [Wes]tons pau: / West: pau:;Weston;;OT;ConcR2676;C;"[,,d,a/] ,a | [,bd,a1] [,b,c/] ,d [a,,,a] b [a,c] ,d | \
 [,b,,a/] ,a [,b,c] ,d [a,,,a] ,d [a,,c] c | \
 [da,,,d1] ,a/4 ,b ,d a"
-54;Cantus Firmus setting?;;;OT;;2;"[a,,c1] ,d/ ,b ,a ,b ,d a | [,d,d/] ,b ,a ,,d [,,bc] ,,d ,a ,b | \
+24;;54;Cantus Firmus setting?;;;OT;;2;"[a,,c1] ,d/ ,b ,a ,b ,d a | [,d,d/] ,b ,a ,,d [,,bc] ,,d ,a ,b | \
 [,d,a/] ,b ,a ,,d [,a,a] ,b ,,d ,a | \
 [,b,,d/] ,a ,,d ,,b ,,d ,a ,b ,d |"
-56;[Galliard];;;OT;;3;"[,,dca1] ,,,c/ ,a [,bdca1] | [,acc1] [,bdca] [,db,,d] | \
+25;;56;[Galliard];;;OT;;3;"[,,dca1] ,,,c/ ,a [,bdca1] | [,acc1] [,bdca] [,db,,d] | \
 [abb,d3/2] ,d/ [,bdca1] | [acc2] [fb,,a1] | \
 [da,c1] ,,b/ d [bdd1] | ,,,a/ b [aacc1] ,,,,,a/ ,d |"
-57;[Galliard];;;OT;ConcR439;3;"[,dda/] a [c,da3/2] a/ | [,dff1] [aa,c/] ,d [cec] ,a | \
+26;;57;[Galliard];;;OT;ConcR439;3;"[,dda/] a [c,da3/2] a/ | [,dff1] [aa,c/] ,d [cec] ,a | \
 [,cee1] [,aa,c3/2] ,c/ | [,da,c/] a [cd,a1] [aa,c/4] ,d ,c ,a | \
 [,c,e/] ,d f1"
-58;A Gall:;;Galliard;OT;;3;"d/ f | [gd,f1] ,d/ ,f [fddd1] | [db,b1] [b,da] [,eb,d/] ,,d | \
+27;;58;A Gall:;;Galliard;OT;;3;"d/ f | [gd,f1] ,d/ ,f [fddd1] | [db,b1] [b,da] [,eb,d/] ,,d | \
 [,dedb1] ,,,d3/2 ,e/ ,d ,b | [,dedb1] [,ded] [dde,,d] | \
 [cd,a3/2] [d,,b/] [f,,d1] |"
-58;A gall: Lychfy;Henry Lichfield;Galliard;OT;ConcR440;3;"[,cde1] | [,cde3/2] ,,,c/ [c,,a1] | [a,d,e1] [,dd,c] [,dc] | \
+28;;58;A gall: Lychfy;Henry Lichfield;Galliard;OT;ConcR440;3;"[,cde1] | [,cde3/2] ,,,c/ [c,,a1] | [a,d,e1] [,dd,c] [,dc] | \
 [,cd,a1] ,,,c/ ,d ,c ,a | [,cd,a1] ,,,c [f,,e] | \
 [e,,c1] ,a [c,aa] | [a,d,e1] [,dd,c/] ,,c"
-60;[Lesson];;;OT;;3;",,,,a/ [,ed] [ac] [,,de] [,,cc] [,,aa] | \
+29;;60;[Lesson];;;OT;;3;",,,,a/ [,ed] [ac] [,,de] [,,cc] [,,aa] | \
 [,,,def/] ,,d/4 ,,b ,,d ,a ,b ,a ,b ,d || \
 [a,,,a/4] ,d ,b ,a [,b,c] ,a ,,d ,,c"
-61;[Lusty Gallant];;;OT;ConcR201;3;"[,bd,a3/2] [,d,,a/] a1 [ab,,a] ,a/ [c,d] [da,c1] | \
+30;;61;[Lusty Gallant];;;OT;ConcR201;3;"[,bd,a3/2] [,d,,a/] a1 [ab,,a] ,a/ [c,d] [da,c1] | \
 [f,d,a2] a1 [a,d,a2] ,,d1 | \
 [,bd,a3/2] ,d/ a1 [a,b,,a3/2] [,da/] [,b,c1] | \
 [,a,a,d3/2] [,,d,df/] [,,c,ca1] [,,d,a2] ,,d1 ||"
-61;Gally: Queen Scottes;Guillaume Morlaye;Queen of Scots Galliard / Conde Claro;OT;ConcR26;3;"[,dda3/2] ,d/ ,,d1 [,daa/] ,,b ,,d1 [,,ba/] ,,a | \
+31;;61;Gally: Queen Scottes;Guillaume Morlaye;Queen of Scots Galliard / Conde Claro;OT;ConcR26;3;"[,dda3/2] ,d/ ,,d1 [,daa/] ,,b ,,d1 [,,ba/] ,,a | \
 [,cd,a1] ,,,c/ ,,c ,,d ,a [,cd,a1] [,cd] [,dda] | \
 [,ab,,d1] ,,,a/ ,,d ,a ,c [,d,,c] ,,c"
-62;[Galliard];;;OT;ConcR23;3;"[,,d,a/] ,a | \
+32;;62;[Galliard];;;OT;ConcR23;3;"[,,d,a/] ,a | \
 [,bd,a1] ,,,c/ ,d [,bd,a1] [,ac,,a] [,bd,a] [,,aa] | \
 [,ac,,a1] ,,,c/ ,,d ,,c ,,a [,ac,,a1] [,,d,d] [,a,a] | \
 [,b,c1] ,,,,d/ ,b [,a,a1] [,b,c]"
-64;Quel bien parler;Pierre Sindrin arr. Albert de Rippe;pp. 65-70 empty;OT;ConcR2472;2;"[,efec1] | [,efec/4] ,e ,,f ,c ,e ,,f [,ca,c] ,e | \
+33;;64;Quel bien parler;Pierre Sindrin arr. Albert de Rippe;pp. 65-70 empty;OT;ConcR2472;2;"[,efec1] | [,efec/4] ,e ,,f ,c ,e ,,f [,ca,c] ,e | \
 [aabc/4] ,e a c [dabc] ,,d ,a ,c | \
 ,,,a/ [da] [c,d] [a,b] |"
-71;[Almain];;;OT;ConcR441;2;"[,bdca1] [,dbac] | [ab,cd2] | [,dba,d3/2] ,b/ | \
+34;;71;[Almain];;;OT;ConcR441;2;"[,bdca1] [,dbac] | [ab,cd2] | [,dba,d3/2] ,b/ | \
 [,db,,d1] [a,,,,a/] ,d | [,bd,a1] [,a,,,e] | \
 [,bd,a1] [,,dc] | [,acc,a2] | [,acc1] ,,,,,a | \
 [,,dca/] ,a [,b,c1] | [,b,,,d1] [,a,a] |"
-73;[Chi Passa];;;OT;ConcR178;3;"[ca,bc1] | [ca,bc3/2] d/ [ca,bc1] | \
+35;;73;[Chi Passa];;;OT;ConcR178;3;"[ca,bc1] | [ca,bc3/2] d/ [ca,bc1] | \
 [ca,bc1] ,,,b/ d c a | [ca,bc3/2] ,,,,c/ [ca,bc1] | \
 [ca,bc1] [ac,,e] [cdda] | [da,c,a2] [cdda1] | \
 [aabc1] [,c,,a] [,ea,c] |"
-74;Je suis desheritee. Chanson.;Cadéac / Lupus arr. Albert de Rippe;;OT;ConcR1718;2;",,,,c2 | ,,,,c1 ,,,,c | [,,aac/] ,,,c ,,,a ,,,,d | \
+36;;74;Je suis desheritee. Chanson.;Cadéac / Lupus arr. Albert de Rippe;;OT;ConcR1718;2;",,,,c2 | ,,,,c1 ,,,,c | [,,aac/] ,,,c ,,,a ,,,,d | \
 [,,aac/] ,,,,a [,,aa,d] ,,,,,c | [,abc,a1] ,,,c | \
 ,,,,,a/ [,abc] ,,a ,,,c | [,daac/] ,a [caac] ,d |"
-74;Si comme.;Jean Maillard arr. Albert de Rippe;Si Comme Espoir;OT;ConcR1481;2;"[,aaac2] | [,aaac/4] ,,,,a ,,,,c ,,,,d ,,,,c ,,,,a ,,,,c/8 ,,,,a ,,,,,d ,,,,,c | \
+37;;74;Si comme.;Jean Maillard arr. Albert de Rippe;Si Comme Espoir;OT;ConcR1481;2;"[,aaac2] | [,aaac/4] ,,,,a ,,,,c ,,,,d ,,,,c ,,,,a ,,,,c/8 ,,,,a ,,,,,d ,,,,,c | \
 [aab,,a3/4] ,e/4 a/ c | ,,,,,a/ [dab] c a | \
 [,da,c/] ,c ,a ,,d |"
-76;[Galliard];;;OT;ConcR205;3;",,,c/ ,,a | [,abc3/2] ,,d/ [,abc1] | [,,aa1] [,,d,d] [,ac,a] | \
+38;;76;[Galliard];;;OT;ConcR205;3;",,,c/ ,,a | [,abc3/2] ,,d/ [,abc1] | [,,aa1] [,,d,d] [,ac,a] | \
 [,bdca1] [,bd] ,,,c/ ,,,,a | [,bd1] ,,,c ,,,,a | \
 [,acc3/2] ,,d/ [,acc1] | [,acc1] [,bdca] ,,d |"
-76;[Galliard];;pp. 77-78 empty;OT;ConcR442;3;"[,aa,c/] ,c | [,aa,c/] ,c ,d a [,da,c1] | \
+39;;76;[Galliard];;pp. 77-78 empty;OT;ConcR442;3;"[,aa,c/] ,c | [,aa,c/] ,c ,d a [,da,c1] | \
 [,cdca1] [aab,,d] [ccd,,c] | \
 [a,bc,a/] ,,,c/4 ,,a ,,b ,,d [d,bc,a/] | \
 [ca,bc1] [f,,c] [ca,bc] | [ca,bc1] [aab,,a/] ,,a ,,,c ,,b |"
-79;[E Lume Alta Galliard];;;OT;ConcR15;3;"[cdda1] [acd,a] ,c [cdda] [acd,a3/2] ,c/ | \
+40;;79;[E Lume Alta Galliard];;;OT;ConcR15;3;"[cdda1] [acd,a] ,c [cdda] [acd,a3/2] ,c/ | \
 [cdda1] [acd,a3/4] c/4 a/ ,d [,c,,c] ,a [,ce,,c1] ,,,e/ ,,f | \
 [,cee,c1] [,aa,c] [,cfe,c] [,ce] [,aa,c3/2] ,c/ |"
-80;[Galliard];;;OT;ConcR443;3;",,b/ ,,d | [,aba,d3/2] ,,d/ [,aba,d1] [,aba] [,bbcd] | \
+41;;80;[Galliard];;;OT;ConcR443;3;",,b/ ,,d | [,aba,d3/2] ,,d/ [,aba,d1] [,aba] [,bbcd] | \
 [,aba,d1] ,,,a/ ,,d [,a,a] ,b [,dbac1] [b,cd] [cdda] | \
 [da,a,d1] ,,,a/ c [a,,,d] c [dabc1] [ddda] [cdd] |"
-82;[Pavan];;;OT;ConcR25;C;"[,,dca1] a/ ,,b [abd,a1] [cdda] | \
+42;;82;[Pavan];;;OT;ConcR25;C;"[,,dca1] a/ ,,b [abd,a1] [cdda] | \
 [dfg,d3/4] ,g/4 [df/] [bd] [,fgfd1] [,ddf,d/] ,,,e | \
 [,bd,a/] ,,,c [,a,a] ,,,,,d [,,d,,b/4] ,,,c \
 ,,,a ,,,,d [,,da,b] ,,c [,,da/] |"
-84;[Galliard];;pp. 85-88 empty;OT;;3;"[,dda/] [,dd] [,dda] [,dd] [,dda] [,dd] | \
+43;;84;[Galliard];;pp. 85-88 empty;OT;;3;"[,dda/] [,dd] [,dda] [,dd] [,dda] [,dd] | \
 [,dda3/2] a/ [,dda1] | [bd,a1] [a,d,e] [,dda] | \
 [,cd,a1] ,,,c/ ,d [,cdca1] | [dbb,d/] d [dbb,d] d [dbb,d] d |"
-89;[Galliard];;;OT;ConcR444;3;"[acd/] ,d a1 [aac] | [acd/] ,d a1 [aac] | \
+44;;89;[Galliard];;;OT;ConcR444;3;"[acd/] ,d a1 [aac] | [acd/] ,d a1 [aac] | \
 [eca/] ,,d ,,c ,,a [,ccde1] | [cce,,c3/2] ,f/ c e | \
 [fc,e,c1] [acd,a] [cdda] |"
-90;[Galliard];John Johnson;;OT;ConcR445;3;"[aac1] | [acd1] [aac] [cd3/2] ,d/ [aac1] | \
+45;;90;[Galliard];John Johnson;;OT;ConcR445;3;"[aac1] | [acd1] [aac] [cd3/2] ,d/ [aac1] | \
 [cca1] [ccc] [bc] [cef] [ce/] ,,d [aac1] | \
 [acd1] [ac/] ,,c [fca1] [cef] [ce/] ,,d [eac] c |"
-91;[Galliard];John Johnson;;OT;ConcR446;3;"[aac1] [acd] [aac] | [acd3/2] ,d/ [aac1] | \
+46;;91;[Galliard];John Johnson;;OT;ConcR446;3;"[aac1] [acd] [aac] | [acd3/2] ,d/ [aac1] | \
 [cca1] [ccc] b | [cef3/2] ,,d/ [aac1] | \
 [acd3/2] ,,c/ [fca1] | [cef3/2] ,,d/ [eac1] | \
 [acd3/2] ,,c/ [,efe1] |"
-92;[Galliard];;p. 93 empty;OT;;3;"[,aba,d1] [,aba,d] ,d | [,cdca1] [,,def] ,,,e | \
+47;;92;[Galliard];;p. 93 empty;OT;;3;"[,aba,d1] [,aba,d] ,d | [,cdca1] [,,def] ,,,e | \
 [cdda1] [cdda3/2] f/ | [ea,c1] [fcdca] ,,,c | \
 [ab,cd1] [ab,cd3/2] d/ | [cdda1] [da,a,d1] ,,,,d/ c | \
 a/ ,d [,dda1] [,ddca] |"
-94;fansy by franc Mylla.;Francesco da Milano;Fantasia - pp. 95-98 empty;OT;ConcR447;C;"[a,,c3/2] ,,a/ [a,c1] ,,d | a1 ,,c [c,a] ,,c | \
+48;;94;fansy by franc Mylla.;Francesco da Milano;Fantasia - pp. 95-98 empty;OT;ConcR447;C;"[a,,c3/2] ,,a/ [a,c1] ,,d | a1 ,,c [c,a] ,,c | \
 ,,d1 ,a c/ ,,d ,,c ,,a | [e,,c1] [c,a] ,,c [a,d] | \
 ,,a1 ,e [a,cc,a3/2] ,,,,,c/ |"
-99;[Scottish galliard];;pp. 100-102 empty;OT;ConcR187;3;"[,dda/] ,d [,dda1] [,dda] | [,dda/] a [cd,a1] [,dda] | \
+49;;99;[Scottish galliard];;pp. 100-102 empty;OT;ConcR187;3;"[,dda/] ,d [,dda1] [,dda] | [,dda/] a [cd,a1] [,dda] | \
 [c,,a/] d f h [fh,aa1] | [fh,a3/2] h/ [fh,a1] | \
 [d,,,a/] c [aa,,c] ,d [,c,c] ,a |"
-102;[Galliard];;;OT;;3;"[,,d,a/] ,a | [,bd,a1] [,dda] | \
+50;;102;[Galliard];;;OT;;3;"[,,d,a/] ,a | [,bd,a1] [,dda] | \
 [a,dcd1] ,,,,a/ ,d/4 ,b [,acc1] | \
 [abb,d1] [,db,,d] [,bd,a] | \
 [,acc1] ,,,,,a/ ,,d [,acc1] | \
 [abb,d1] [,bdd] ,d | [abb,d3/2] ,d/ [,bdd1] |"
-103;[Labandalashot Galliard];;p. 104 -106 empty;OT;ConcR182;3;"[,,dca1] [,acc,a] | [cdca1] ,a/ ,c [,dda,c1] | \
+51;;103;[Labandalashot Galliard];;p. 104 -106 empty;OT;ConcR182;3;"[,,dca1] [,acc,a] | [cdca1] ,a/ ,c [,dda,c1] | \
 [,acc,a1] ,,,c/ ,,a [,acc,a1] | [cdca1] ,,d/ ,a [,cdca1] | \
 [,cdc1] [,,dca] [,acc,a] | [,cd,a/] ,a ,d ,c [,dda,c1] |"
-107;Downe viencella;;Dont Vient Cela - p. 108 -114 empty;OT;ConcR852;3;"[a,,c1] [a,bc] [a,b/] ,,,c | [a,d,a/] d c a [,da,c1] | \
+52;;107;Downe viencella;;Dont Vient Cela - p. 108 -114 empty;OT;ConcR852;3;"[a,,c1] [a,bc] [a,b/] ,,,c | [a,d,a/] d c a [,da,c1] | \
 [,da,c1] ,,,,c/ [,da] [a,bc1] [c,da/] ,,,,e | \
 [da,,c1] [f,g,a] ,,,c/ [da] [d,d] ,,b |"
-115;[Galliard];;;OT;;3;"[,aa,c1] [,da] [,ca,b] | [,da,c3/2] ,d/ [,ca,b1] | \
+53;;115;[Galliard];;;OT;;3;"[,aa,c1] [,da] [,ca,b] | [,da,c3/2] ,d/ [,ca,b1] | \
 [,aa,c1] [,da] [a,d,e] | [c,da3/2] c/ [acd,a1] | \
 [dab,,d1] d [c,da] | [acd,a1] e [a,,,c/] ,d | \
 [,dba,d1] [,d,ca] [,c,c] |"
-116;[Galliard];;;OT;;3;"c/ d | [fd,a3/2] d/ [c,,a] a | \
+54;;116;[Galliard];;;OT;;3;"c/ d | [fd,a3/2] d/ [c,,a] a | \
 [,dda1] [ad,,a/] ,c/4 ,a ,d ,c ,d/8 ,c ,a ,c | \
 [cdda3/2] a/ [,dda1] | [,da,c1] [a,,,e/] ,,d [cdda1] |"
-117;[Scottish galliard];;;OT;ConcR187;3;"[,,def3/2] ,,f/ [,,def1] | \
+55;;117;[Scottish galliard];;;OT;ConcR187;3;"[,,def3/2] ,,f/ [,,def1] | \
 [,,da/] ,,c/4 ,,d ,,f ,,d ,,f/8 ,,d ,,c ,,a | \
 [,acc,a2] [,,,cd1] | [,,bcd3/2] ,,a/ ,,,c ,,a | \
 [,,bcd1] [,,bc] [,,,cd] |"
-118;[New Year's Gift Galliard];Anthony Holborne;;OT;ConcR256;3;"[aac,,a1] [,f,ec] ,e | [a,,c,a3/2] ,a/ [,cdca] ,a | \
+56;;118;[New Year's Gift Galliard];Anthony Holborne;;OT;ConcR256;3;"[aac,,a1] [,f,ec] ,e | [a,,c,a3/2] ,a/ [,cdca] ,a | \
 [aa,e,a1] [,f,ec] ,e | [aa,c,a3/2] ,d/ ,c ,a1 | \
 [,cdca1] [,adc,a] [,acc] | [,,dca3/2] ,a/ [,cdc1] |"
-118;[Galliard];;p. 119 empty;OT;;3;"[bd,a1] [a,d,e] [,dda] | [acd,a1] ,,,c/ ,d [,cd,a1] | \
+57;;118;[Galliard];;p. 119 empty;OT;;3;"[bd,a1] [a,d,e] [,dda] | [acd,a1] ,,,c/ ,d [,cd,a1] | \
 [bd,a1] [a,d,e] [,dda/] a | [,cd,a1] ,,,c/ d [bd,a1] | \
 [,dff3/2] ,,,d/ [d,,c] ,b | [bd,a1] [a,,,e/] ,,d [,d,a1] |"
-120;[Quadro Pavan];John Johnson;p. 122 empty;OT;ConcR68;C;",,d/ ,a | [,cd,a1] ,,,c/ c [a,,,a] ,d [,cd] [,ac] | \
+58;;120;[Quadro Pavan];John Johnson;p. 122 empty;OT;ConcR68;C;",,d/ ,a | [,cd,a1] ,,,c/ c [a,,,a] ,d [,cd] [,ac] | \
 [,,d,a/4] ,a ,c ,d a/ [cd] [ac] [,df] ,,d/4 ,d ,c/ | \
 [,daa1] [,,de] [,ab/4] ,c ,d/ [,d,ca] ,c |"
-123;[Almain];Richard Greene;;OT;ConcR207;C;"[,,dca1] ,,,c/ ,a [,bd,a1] [,d,ac] | \
+59;;123;[Almain];Richard Greene;;OT;ConcR207;C;"[,,dca1] ,,,c/ ,a [,bd,a1] [,d,ac] | \
 [ab,,d1] [,dda/] ,b [,acc1] [aa,c,a] | \
 [,d,a,c1] [,a,c,e] [,bdca] [,a,a/] ,,d | \
 [,ac,,a1] ,,,c/ ,,d [,ac] ,,,c ,,,,,a1 |"
-124;[Galliard];;;OT;ConcR449;3;"[a,d/] ,d [,bd1] [bd,a] | [a,d3/2] ,d/ [,bd1] | \
+60;;124;[Galliard];;;OT;ConcR449;3;"[a,d/] ,d [,bd1] [bd,a] | [a,d3/2] ,d/ [,bd1] | \
 [,dff1] [,,da/] ,a ,b ,,d | [,acc1] ,,,c/ ,,a ,,c [,bd] | \
 [,dff/] a [,d,d] ,b [,a,a] ,,d |"
-126;[Sinkapace Galliard / Church's Galliard;;pp. 127-128 empty;OT;ConcR13;3;"[,dda1] [,dd] [,dda] | [fdaa3/2] d/ [cd,a1] | \
+61;;126;[Sinkapace Galliard / Church's Galliard;;pp. 127-128 empty;OT;ConcR13;3;"[,dda1] [,dd] [,dda] | [fdaa3/2] d/ [cd,a1] | \
 [a,d,e3/2] [,dd,c/] [,dca1] | ,,,,a/ [,cd] ,,,c ,d [acd,a1] | \
 [cdda1] [cdd] [cdda] | [acd,a1] ,,,,,c/ ,,d [,ab,,d] ,c |"
-129;[Fantasia];Francesco da Milano;;OT;ConcR1265;2;"f2 | h1 f | ,d1 c | [df1] [fd] | h1 ,a | [fc1] [cd] | \
+62;;129;[Fantasia];Francesco da Milano;;OT;ConcR1265;2;"f2 | h1 f | ,d1 c | [df1] [fd] | h1 ,a | [fc1] [cd] | \
 [df1] c/ a | [cd1] [da] | [ac1] [fa/] ,,d | ,a/ d [ac1] |"
-130;[Passo e mezzo Antico Variations];;;OT;;C;"[,dda3/2] a/ [bdda1] [bdd] | \
+63;;130;[Passo e mezzo Antico Variations];;;OT;;C;"[,dda3/2] a/ [bdda1] [bdd] | \
 [ab,,d/] ,,d/4 ,a ,b ,a ,b/8 ,a ,b ,d [ab,,d/] ,d [,c,,a] a | \
 [,dda/] a [bdd] ,,,a [a,b]"
-132;[Fancy];;;OT;;C;"[,af2] [,df3/2] a/ | [cd1] [,df] [df] [ca/] a | \
+64;;132;[Fancy];;;OT;;C;"[,af2] [,df3/2] a/ | [cd1] [,df] [df] [ca/] a | \
 c1 ,,,,c [,,aa3/2] ,,,c/ | [,,de1] ,,,a/ ,a [aab1] ,,a/ ,,,c | \
 [da1] [,,de/] f [h,fa1] ,,,,h |"
-133;Fernyers;;Fancy;OT;;C;"a2 [ca1] e | [fc1] ,e [ef] ,,,c | [ce,ec1] ,,c [acd,a] ,,,b | \
+65;;133;Fernyers;;Fancy;OT;;C;"a2 [ca1] e | [fc1] ,e [ef] ,,,c | [ce,ec1] ,,c [acd,a] ,,,b | \
 [,acc1] ,c ,,,b/ ,a [ca1] | \
 [,,,ce/] ,,e/4 ,,c [a,c1] [aaa,c/]"
-134;[Fantasia];Albert de Rippe;;OT;ConcR1482;2;",a2 | ,a1 ,,c | [,ac1] ,,,c | [aa,c2] | [aa,c1] ,,,,e | \
+66;;134;[Fantasia];Albert de Rippe;;OT;ConcR1482;2;",a2 | ,a1 ,,c | [,ac1] ,,,c | [aa,c2] | [aa,c1] ,,,,e | \
 [a,,ce1] [,c,,a] | [,c,ca1] ,,,,,e | [,a,c1] ,,,,,c/ ,,,,,a | \
 [,,d,,c1] ,,,b/ ,,,c | [,,d,,c1] [,,ab] | [eaccca2] |"
-136;[In Nomine];Robert Parsons arr. H R;;OT;ConcR217;C;",,a2 ,,a1 ,c | [,cd1] ,c [,cd] [,,a,bc] | \
+67;;136;[In Nomine];Robert Parsons arr. H R;;OT;ConcR217;C;",,a2 ,,a1 ,c | [,cd1] ,c [,cd] [,,a,bc] | \
 [,ca,bc1] [,,,,bc] [,,a,bc] [,,,ac] | \
 [,,a,bc1] ,c [,ca] [,ca,bc] | \
 [,ca,bc1] [,,a,bc] [,ca,bc] [,da,c] |"
-138;[Fantasia];Francesco da Milano;;OT;ConcR1323;2;"f3/2 d/ | c/ d f1 | ,d1 c/ ,c | [da/] ,c [cd1] | \
+68;;138;[Fantasia];Francesco da Milano;;OT;ConcR1323;2;"f3/2 d/ | c/ d f1 | ,d1 c/ ,c | [da/] ,c [cd1] | \
 [a,d1] ,c/ ,,b | [,daa/] ,,b ,,d ,,,,e | \
 [,,b,c/] ,,,,e [,,a,f1] | [f,,c1] ,,,,e |"
-139;[Trenchmore, treble and ground duet];John Johnson;;OT;Conc_4454;3;"[,,dca1] ,,,c/ [,,dca1] ,,,c/ [,,dca1] ,,,c/ [,,dca1] ,,,c/ | \
+69;;139;[Trenchmore, treble and ground duet];John Johnson;;OT;Conc_4454;3;"[,,dca1] ,,,c/ [,,dca1] ,,,c/ [,,dca1] ,,,c/ [,,dca1] ,,,c/ | \
 [,,cc,a1] ,,,c/ [,,cc,a1] ,,,c/ [,,cc,a1] ,,,c/ [,,cc,a1] ,,,c/ || \
 ,c1 ,d/ a1 c/ a1 ,d/"
-142;[Passamezzo Pavan, duet treble];;;OT;ConcR4;C;"d2 d1 c | a1 c/ d f d f/4 d c a | \
+70;;142;[Passamezzo Pavan, duet treble];;;OT;ConcR4;C;"d2 d1 c | a1 c/ d f d f/4 d c a | \
 c1 ,d/ ,c ,d a c/4 a c d |"
-144;[First Dump, treble and ground duet];John Johnson;;OT;ConcR59;3;"[,ac,,a1] ,b [,ac,,a] | [,bd,a1] ,d [,bd,a] | \
+71;;144;[First Dump, treble and ground duet];John Johnson;;OT;ConcR59;3;"[,ac,,a1] ,b [,ac,,a] | [,bd,a1] ,d [,bd,a] | \
 [,ac,,a1] a/ ,d [,ac,,a1] | [,,dca1] ,,,c ,,,,a || \
 ,a1 a ,d | ,b3/2 ,a/ ,,d1 | ,,c3/2 ,,d/ ,,c1 |"
-146;[Wakefield on a Green, treble and ground duet];John Johnson;;OT;ConcR277;3;",a2 ,,d1 | ,,c3/2 ,,d/ ,,c1 | ,,d2 ,,d1 | ,,d2 ,,d1 | \
+72;;146;[Wakefield on a Green, treble and ground duet];John Johnson;;OT;ConcR277;3;",a2 ,,d1 | ,,c3/2 ,,d/ ,,c1 | ,,d2 ,,d1 | ,,d2 ,,d1 | \
 ,a/ ,c ,d ,a ,c ,,d | \
 ,,c/ ,,a/4 ,,c ,,d/ ,,c/4 ,,d ,a/ ,,d/4 ,a |"
-148;[French Galliard, duet treble];John Johnson;;OT;ConcR168;3;",b/ ,a | ,,d1 ,,d/ ,a/4 ,b ,d ,b ,,a ,,d | \
+73;;148;[French Galliard, duet treble];John Johnson;;OT;ConcR168;3;",b/ ,a | ,,d1 ,,d/ ,a/4 ,b ,d ,b ,,a ,,d | \
 ,,c/4 ,,a ,,,c ,,,b ,,,c ,,,b ,,,c ,,a ,,c ,,,c ,,a ,,c |"
-150;[Dump, treble and ground duet];;;OT;ConcR285;C;"f3/4 d/4 c/ a ,d ,c ,a1 | \
+74;;150;[Dump, treble and ground duet];;;OT;ConcR285;C;"f3/4 d/4 c/ a ,d ,c ,a1 | \
 ,,d3/4 ,,b/4 ,,a/ ,,,c ,,,a ,,,,e/4 ,,,,c ,,,,a1 || \
 ,,,a3/4 ,,,c/4 ,,a/ ,,b ,,d ,,a ,a1 | \
 [f,d3/2] d/ c ,d a1 ||"
-151;[Chi Passa, duet treble];John Johnson;;OT;ConcR178;3;",a/ ,c | ,e3/2 a/ c d | c1 ,e ,a | h1 f/ d c a | \
+75;;151;[Chi Passa, duet treble];John Johnson;;OT;ConcR178;3;",a/ ,c | ,e3/2 a/ c d | c1 ,e ,a | h1 f/ d c a | \
 ,e/ a c ,a ,c ,e | a/ c d"
-154;[Passo e mezzo Moderno Galliard, treble and ground duet];;;OT;;3;"[ac,,a3/2] ,d/ [ac,,a1] | [cd,a1] a [,dd] | \
+76;;154;[Passo e mezzo Moderno Galliard, treble and ground duet];;;OT;;3;"[ac,,a3/2] ,d/ [ac,,a1] | [cd,a1] a [,dd] | \
 [c,,a3/2] ,d/ [ac,,a1] | ,,,,,a/ [aac] ,,,c ,,,,,a [aac1] | \
 [ac,,a1] ,d [ac,,a] | [cd,a3/2] a/ [,dda1] |"
-156;[duet treble];;;OT;;3;",b/ ,d | a/ ,,d/4 ,a ,b ,a ,b ,d a1 a f2 | \
+77;;156;[duet treble];;;OT;;3;",b/ ,d | a/ ,,d/4 ,a ,b ,a ,b ,d a1 a f2 | \
 d/ ,,b/4 ,,d ,a ,b ,d a b1 a/ ,,d/4 ,a"
-158;[Goodnight, duet treble];John Johnson;p. 161 empty;OT;ConcR5;3;",d3/2 ,a/ ,b/4 ,a ,b ,d | a/ ,d/4 a ,b/ a ,d/4 ,a ,b ,a | \
+78;;158;[Goodnight, duet treble];John Johnson;p. 161 empty;OT;ConcR5;3;",d3/2 ,a/ ,b/4 ,a ,b ,d | a/ ,d/4 a ,b/ a ,d/4 ,a ,b ,a | \
 b/4 a ,d ,b ,d ,b ,a"
-162;[Cara cosa, duet treble];;;OT;ConcR202;3;"X,e1 X,e X,e | X,e3/4 d/4 c/ a X,e1 | \
+79;;162;[Cara cosa, duet treble];;;OT;ConcR202;3;"X,e1 X,e X,e | X,e3/4 d/4 c/ a X,e1 | \
 a/ ,e a d c a/4 c | d/ ,a/4 ,c ,d a c d"
-164;[Delight Pavan];John Johnson;;OT;ConcR12;2;"[,,dca3/4] ,,c/4 ,,d/ ,a | [,bdca1] [,abc] | \
+80;;164;[Delight Pavan];John Johnson;;OT;ConcR12;2;"[,,dca3/4] ,,c/4 ,,d/ ,a | [,bdca1] [,abc] | \
 [,b,d/] ,,d/4 ,a ,b ,a ,b ,d [,b,d/] ,,d ,b ,d | \
 [aa,c,a3/4] ,d/4 [,bd,a3/4] ,d/4 [,a,,,e3/4] ,b/4"
-166;[Delight Galliard];John Johnson;p. 167 empty;OT;Conc_4441;3;",,d/ ,a | [abd3/2] ,d/ [abd1] | [aab1] [bdd] [,dd] | \
+81;;166;[Delight Galliard];John Johnson;p. 167 empty;OT;Conc_4441;3;",,d/ ,a | [abd3/2] ,d/ [abd1] | [aab1] [bdd] [,dd] | \
 [aac3/2] ,d/ [abd1] | [,dff3/2] ,f/ [,bd] ,d | \
 [aac,,a1] ,,,,,a/ ,d [,bd,a1] | [,a,a/] ,,d [,,dd] ,,,a"
-168;[Quadro Pavan];;;OT;;C;",c/ ,e | \
+82;;168;[Quadro Pavan];;;OT;;C;",c/ ,e | \
 [aac/] ,,,,,a ,,,c ,,a [,acc] ,,a/4 ,,c [,,d,a] ,a [,cd/] | \
 [,acc/] ,,,,,a [,ac] [,,d,e] [,,aa/4] ,,c ,,d/ [,adc] [,ac] |"
-169;[Quadro Pavan];;p. 172 empty;OT;;C;"a/ c | [e,,,,a/] a [,c,c] [,e,e] [aac] ,,,,,a [,aacc] ,,,b | \
+83;;169;[Quadro Pavan];;p. 172 empty;OT;;C;"a/ c | [e,,,,a/] a [,c,c] [,e,e] [aac] ,,,,,a [,aacc] ,,,b | \
 ,,,,,a/ [,ac] a [c,d] [ea,,,a] [fd/4] ,c ,a ,,d [ea/] |"
-173;[Fantasia];Francesco da Milano;;OT;ConcR450;2;"[f,,a3/2] d/ | [c,,a/] a ,d ,b | [,a,,,d/] ,,d ,,b ,,a | \
+84;;173;[Fantasia];Francesco da Milano;;OT;ConcR450;2;"[f,,a3/2] d/ | [c,,a/] a ,d ,b | [,a,,,d/] ,,d ,,b ,,a | \
 [,a,c/] ,,,a ,,,,d ,,,,c | [,b,,a/] ,d a ,d | \
 ,b/ ,a ,,d ,,b |"
-175;[Arthur's Dump];Philip van Wilder;pp. 176-181 empty;OT;ConcR451;C;",,,,a/ ,,d/4 ,,,c a/ ,,,,a [,dd] a/4 ,,,c [,cd/] a/4 ,,,c | \
+85;;175;[Arthur's Dump];Philip van Wilder;pp. 176-181 empty;OT;ConcR451;C;",,,,a/ ,,d/4 ,,,c a/ ,,,,a [,dd] a/4 ,,,c [,cd/] a/4 ,,,c | \
 [,ac/] a/4 [,,cc] ,,,,,a/ [,cd] [,ac] a/4 ,,,c ,,,,,a/ [,ac] |"
-182;[Sellenger's Round, duet treble];;;OT;ConcR19;3;",d3/2 ,d/ ,d3/4 a/4 c/ | d1 d/ d3/4 f/4 h/ | \
+86;;182;[Sellenger's Round, duet treble];;;OT;ConcR19;3;",d3/2 ,d/ ,d3/4 a/4 c/ | d1 d/ d3/4 f/4 h/ | \
 f1 d/ f/4 d c a c/ | d1 d/ d3/4 c/4 a/ |"
-183;[The New Hunt's Up, duet treble];John Johnson;;OT;ConcR279;3;"z1 z1 ,a1 | a3/2 ,e/ ,f/4 ,e ,c ,e | ,f2 ,a1 | \
+87;;183;[The New Hunt's Up, duet treble];John Johnson;;OT;ConcR279;3;"z1 z1 ,a1 | a3/2 ,e/ ,f/4 ,e ,c ,e | ,f2 ,a1 | \
 a3/2 ,e/4 ,c ,e a c ,e | a3/2 c/ e1 |"
-186;[The New Hunt's Up, duet ground];John Johnson;;OT;;3;"z1 z1 ,,,,,a1 | [,,cc,a2] [,,abc1] | [,,cc,a2] ,,,,,a1 | \
+88;;186;[The New Hunt's Up, duet ground];John Johnson;;OT;;3;"z1 z1 ,,,,,a1 | [,,cc,a2] [,,abc1] | [,,cc,a2] ,,,,,a1 | \
 [,,cc,a2] [,,abc1] | [,,cc,a2] [,,cc,a1] | \
 [,c,,,e2] [,a,,,e1] | [,,d,a1] [,,c,c] [,,c,e] | \
 [,,ee,c3/2] ,,f/ [,,e,,c] ,,c |"
-187;[Pavan];;;OT;ConcR18;C;"[,bd,a/] ,,d/4 ,,c ,,d ,a ,b/8 ,a ,b ,d [,bd,a/] ,,,c \
+89;;187;[Pavan];;;OT;ConcR18;C;"[,bd,a/] ,,d/4 ,,c ,,d ,a ,b/8 ,a ,b ,d [,bd,a/] ,,,c \
 [,ad,,a/4] ,,c ,,d/8 ,,c ,,a ,,c | \
 [,,d,a/4] ,,c ,,d ,a [,b,,a] ,,d ,a ,b"
-188;[Weston's Pavan];Weston;;OT;ConcR184;C;"[aacc,a2] [aacc,a3/2] ,d/ | \
+90;;188;[Weston's Pavan];Weston;;OT;ConcR184;C;"[aacc,a2] [aacc,a3/2] ,d/ | \
 [abd,a1] [abd/] ,,,,c [abb,d1] [,dff,d] | \
 [,bdca1] [,acc,a] [,,d,ab/] ,,,,c [,,d,db] ,,,a | \
 ,,,,,a/ [aac] ,,,c ,,d [aac,,a1] ,,,c |"
-190;[Lady Rich's Galliard / Dowland's Bells (first 5 bars)];John Dowland;pp. 191-224 empty;OT;Conc_4418;3;"[ha,,,a3/2] f/ [ea,,,a1] | [cef,c3/2] ,,,,a/ [aa,c,e1] | \
+91;;190;[Lady Rich's Galliard / Dowland's Bells (first 5 bars)];John Dowland;pp. 191-224 empty;OT;Conc_4418;3;"[ha,,,a3/2] f/ [ea,,,a1] | [cef,c3/2] ,,,,a/ [aa,c,e1] | \
 [ccd,,c1] f [eff,,a] | [cef,c2] ,,,e1 | \
 [aa,c,a3/2] c/ [f,,,,c1] | [cef,c]"
-225;[Quadro Pavan];;p. 226 empty;OT;ConcR452;C;",,d/ ,a | ,,,,a/ [acd] ,,,c ,,,,a [acd,a1] ,,d/ ,a | \
+92;;225;[Quadro Pavan];;p. 226 empty;OT;ConcR452;C;",,d/ ,a | ,,,,a/ [acd] ,,,c ,,,,a [acd,a1] ,,d/ ,a | \
 [acd,a1] ,,,,,c/ [,dd] [,db,,d1] [,dd,a/] ,c | \
 ,,,a/ [cd] ,,d ,,,a [cdda1] ,d/ a |"
-227;Quadro Cotton;Clement Cotton;Quadro Pavan;OT;ConcR7;C;",,d/ ,a | [,cdca1] ,,,c/ ,d [a,,,a] c [a,,a] ,d | \
+93;;227;Quadro Cotton;Clement Cotton;Quadro Pavan;OT;ConcR7;C;",,d/ ,a | [,cdca1] ,,,c/ ,d [a,,,a] c [a,,a] ,d | \
 ,,,,a/ [,cd] ,,,c ,d [,d,ca] ,c/4 ,a ,d/ ,c | [,dda1] ,d/ a"
-228;[Fantasia];Francesco da Milano;;OT;ConcR1314;2;"f2 | i3/2 h/ | f1 e | [f,d1] d/ c | [ab/] c d ,a | \
+94;;228;[Fantasia];Francesco da Milano;;OT;ConcR1314;2;"f2 | i3/2 h/ | f1 e | [f,d1] d/ c | [ab/] c d ,a | \
 [c,d1] [a,c] | ,,d/ ,e/4 ,c [,ea1] | [a,,c/] ,,a ,,b ,d/4 ,b |"
-230;[Fancy];;;OT;ConcR438;2;",,,,,d2 | [,,b,,d1] ,,,,a/ ,,,,c | [,,b,d1] ,,d/ ,a | \
+95;;230;[Fancy];;;OT;ConcR438;2;",,,,,d2 | [,,b,,d1] ,,,,a/ ,,,,c | [,,b,d1] ,,d/ ,a | \
 [,b,,d1] ,,,a/ ,,,c | [,b,d/] ,a/4 ,b ,a/ ,,d/4 ,,b | \
 [,,dd/] ,,b/4 ,,d ,,b/ ,,,c |"
-232;[Conde Claro / Hornpipe, variations];Guillaume Morlaye;;OT;ConcR26;3;"[,dda3/2] ,d/ ,,d1 | ,,,a1 [,da] ,,,a | \
+96;;232;[Conde Claro / Hornpipe, variations];Guillaume Morlaye;;OT;ConcR26;3;"[,dda3/2] ,d/ ,,d1 | ,,,a1 [,da] ,,,a | \
 [,db1] ,,,a/ ,,d ,,b ,,a | [,cdc1] ,,,,a [,cdc] || \
 [,dda3/2] ,c/ [,a,a1] | ,,d1 [,,ba] ,,a |"
-234;[Fancy];;;OT;;C;",,,,d2 [,,,a,d1] ,,,c | [,,,da1] ,,,,c [,,,cd] ,,b | \
+97;;234;[Fancy];;;OT;;C;",,,,d2 [,,,a,d1] ,,,c | [,,,da1] ,,,,c [,,,cd] ,,b | \
 [,,d,d1] [,a,ac] [,b,ca] ,,a | [,,ff,d1] ,d [a,,f] [c,de] | \
 [da,c1] [,cb] [cdda] [,dff] |"
-235;fansye;;;OT;;2;"a2 | a1 ,c | ,d1 a | [c,d2] | [a,d1] [c,a] | \
+98;;235;fansye;;;OT;;2;"a2 | a1 ,c | ,d1 a | [c,d2] | [a,d1] [c,a] | \
 [a,c1] [,dd/] ,c | [,df1] [a,d/] ,,c | [c,a/] e f1 | \
 [,a,c1] e/ c |"
-236;Fansie / M;;Galliard;OT;;3;",d/ a | [bb,d,b1] ,,,,,b [a,b,d] | ,,,,a1 [,d,,b] ,,b | \
+99;;236;Fansie / M;;Galliard;OT;;3;",d/ a | [bb,d,b1] ,,,,,b [a,b,d] | ,,,,a1 [,d,,b] ,,b | \
 [,c,,a3/2] ,,c/ ,,d ,a | [acd,a3/2] [acd/] ,,,c1 | \
 [f,g,a3/2] g/ [f,g1] | [d,e3/2] f/ [d,e1] |"
-236;Fantasia];;;OT;ConcR453;2;"[,,,c,a2] | [,,,c,a1] ,,,,,c | [,,,c,d1] ,,,,,a | \
+100;;236;Fantasia];;;OT;ConcR453;2;"[,,,c,a2] | [,,,c,a1] ,,,,,c | [,,,c,d1] ,,,,,a | \
 [,,,c,d1] ,,,,a | [,aa,c1] ,,,a | [,aa,c1] [,,,ce] | \
 [,,aa1] ,,,,c | [,aaac1] ,,,c | [,,de1] [,,ab] | \
 [,abcca/] ,a/4 ,c ,d ,c"
-239;[Part-song arrangement?];;p.240-242 empty;OT;;3;"a/ h3/4 f/4 d1 [a,,c] [d,f] c/4 ,,d [aab1] [aab,,a] | \
+101;;239;[Part-song arrangement?];;p.240-242 empty;OT;;3;"a/ h3/4 f/4 d1 [a,,c] [d,f] c/4 ,,d [aab1] [aab,,a] | \
 [,ea,c/4] a [cdd] ,,,,a [hd,f,d1] [,ff,,a] \
 [,e,e/] ,f [,ff] ,e [aa,c,a1] |"
-243;A Doomp e.e.;E. E.;Dump;OT;;3;"[,acc,a1] a [,d,c] | [,bd,a1] ,,,c/ ,a [,b,,a] ,d | \
+102;;243;A Doomp e.e.;E. E.;Dump;OT;;3;"[,acc,a1] a [,d,c] | [,bd,a1] ,,,c/ ,a [,b,,a] ,d | \
 [,acc,a1] a/ ,c [,d,c] a | ,,,,a/ [,cd] ,,,c ,,,,a [,cdc1] || \
 [,ac,,a/] ,c/4 ,d a/ ,,,c"
-244;[Galliard Rondo];;;OT;;3;"[,cd,a/] ,d [acd1] [aacc] | [acd,a1] ,,,c/ ,d [acd,a1] | \
+103;;244;[Galliard Rondo];;;OT;;3;"[,cd,a/] ,d [acd1] [aacc] | [acd,a1] ,,,c/ ,d [acd,a1] | \
 c/ e f ,,,,a [d,,a] c | ,,,,a/ [acd] ,,,c [,df] [acd,a1] | \
 [fhh,a3/2] a/ [c,,a1] |"
-247;.paven. Ambrose;Ambrose Lupo / John Ambrose;Pavan;OT;ConcR412;C;"[,efec1] ,a/ ,c | [,efec1] [aac,,a] [ca,b/] a [aac,,a1] | \
+104;;247;.paven. Ambrose;Ambrose Lupo / John Ambrose;Pavan;OT;ConcR412;C;"[,efec1] ,a/ ,c | [,efec1] [aac,,a] [ca,b/] a [aac,,a1] | \
 ,,,,c/ [,aac] ,,,b ,,d [,acc,a2] | \
 [hffg,a1] [af/] c/4 e [aac,,a3/4] c/4 e/ c/4 e |"
-248;[Chi passa Variations];;;OT;ConcR178;3;",,c/ ,,d | [aac,,a1] ,,,c ,,,,,a | [,b,c,a1] [,a,a] [,,d,d] | \
+105;;248;[Chi passa Variations];;;OT;ConcR178;3;",,c/ ,,d | [aac,,a1] ,,,c ,,,,,a | [,b,c,a1] [,a,a] [,,d,d] | \
 [,ac,,a1] ,,,c ,,,,,a | [,ac,,a/] ,,d [,a,c] ,,c [,,da] ,a | \
 [,bbcd1] ,,,c/ ,b [,a,a] ,,d [,,d,d]"
-251;[Chi passa];;p. 252-256 empty;OT;ConcR178;3;"[,bdca1] | ,,,,,a/ [adc] ,,,c ,,d ,,c ,,a | \
+106;;251;[Chi passa];;p. 252-256 empty;OT;ConcR178;3;"[,bdca1] | ,,,,,a/ [adc] ,,,c ,,d ,,c ,,a | \
 ,,,,,a/ [aac] ,,,c ,,d [aac,,a1] | \
 [,bdca1] [,a,a/] ,,d ,,c ,,a | [,,cc/] ,,d ,a ,,c ,,d ,a |"
-257;haat [?] (Galliard);;p. 258-262 empty;OT;;3;"[bd,a1] [abb,d] [,dba,d] | \
+107;;257;haat [?] (Galliard);;p. 258-262 empty;OT;;3;"[bd,a1] [abb,d] [,dba,d] | \
 ,,,,a/ [,bd] ,,,c ,d/4 ,b [,acc,a1] | \
 [,bdca1] [,dba,d] [,bdca] | [,acc,a3/2] ,,d/ [,acc,a1] | \
 [,bdca/] ,d [abb,d1] [,dba,d] | \
 [,bdca1] ,,,c/ ,b [,a,ac1] |"
-263;[Quadro Pavan];;;OT;;C;",,,c/ ,,a | ,,,,,a/ [aac] ,,,c ,,,,,a [,ac] ,,,e ,,,c ,,,a | \
+108;;263;[Quadro Pavan];;;OT;;C;",,,c/ ,,a | ,,,,,a/ [aac] ,,,c ,,,,,a [,ac] ,,,e ,,,c ,,,a | \
 ,,,c/ [,ac] [,aca] ,,,,b [,a,a] ,,,,c ,,,c [aac] | \
 ,,,,a/ [acd] ,,,c c [a,,,a] [,cd] [,d,,c] ,,c |"
-264;[Lavecchia Galliard];;pp. 265-267 empty;OT;Conc_4388;3;"[eff,,a1] | [eff,,a3/2] f/ [eff,,a1] | [ac1] [cd] [ef] | \
+109;;264;[Lavecchia Galliard];;pp. 265-267 empty;OT;Conc_4388;3;"[eff,,a1] | [eff,,a3/2] f/ [eff,,a1] | [ac1] [cd] [ef] | \
 [fc,,a1] d/ c a ,d | [,cdca2] [cdda1] | [cdda3/2] d/ [cdda1] | \
 [cdd1] [aab/] d c a |"
-268;[Packington's Galliard];;first part of duet, p. 269 empty;OT;ConcR36;3;"[abd3/4] ,d/4 ,b/ ,a [,bd1] | [,acc3/2] ,,d/ [,acc1] | \
+110;;268;[Packington's Galliard];;first part of duet, p. 269 empty;OT;ConcR36;3;"[abd3/4] ,d/4 ,b/ ,a [,bd1] | [,acc3/2] ,,d/ [,acc1] | \
 [b,d/] a [,d,d] ,b [,b,a] ,a | [,bbcd3/2] ,d/ [,bbcd1] | \
 [db,,d3/4] b/4 a/ ,d [ab,,d1] |"
-270;[The Old Medley];John Johnson;;OT;ConcR37;C;"[abdca2] [abdca1] [abdca] | \
+111;C dur;270;[The Old Medley];John Johnson;;OT;ConcR37;C;"[abdca2] [abdca1] [abdca] | \
 [aad,,a3/4] ,,d/4 ,,c/ ,,a [aac,,a1] [abd,a] | \
 [b,da/] a [abb,d1] [,df,,d/] ,,f/4 ,,d ,,g/ [,,f,,d] | \
 [,bbcd3/4] ,,d/4 ,,b ,,,d ,,,c ,,,a"
-272;[The Old Medley];John Johnson;;OT;ConcR37;C;"[ca,bc2] | [ca,bc1] [ca,b] | [ccde2] | [ccde1] [cda] | \
+112;D dur;272;[The Old Medley];John Johnson;;OT;ConcR37;C;"[ca,bc2] | [ca,bc1] [ca,b] | [ccde2] | [ccde1] [cda] | \
 [da,c1] [ccde] | [acd,a1] [acd] | [,dda2] | \
 [,da,c1] [,da] | [f,d,a3/2] d/ | [cd,a1] [acd,a] | \
 [,da,c1] ,c/ ,a | [,cde1] [,da,c] |"
-273;[Part-song arrangement?];;;OT;;none;",,,,c2 ,,,,c ,,,c [,a,c1] ,,,a [a,,,d] ,,,,c/ ,,,,a [a,,,d1] \
+113;;273;[Part-song arrangement?];;;OT;;none;",,,,c2 ,,,,c ,,,c [,a,c1] ,,,a [a,,,d] ,,,,c/ ,,,,a [a,,,d1] \
 [,d,,c] [,b,,a] [,a,,,d] [,,d,a/] ,b ,,d1 [aa,,,a2] [a,,,,a1] \
 [,df] [,bd] [,ab] [,,d,a/] ,b [,bd1] [,acc2]"
-274;[In Nomine];Robert Parsons arr. H R;pp. 275-278 empty;OT;ConcR217;C;",,,c2 ,,,c1 [,a,c] | [,ab1] [,ab] [,ab] ,,,c | \
+114;;274;[In Nomine];Robert Parsons arr. H R;pp. 275-278 empty;OT;ConcR217;C;",,,c2 ,,,c1 [,a,c] | [,ab1] [,ab] [,ab] ,,,c | \
 [,abc1] [,,bc] [,,bc] [,,dca] | ,,,c1 [,ab] ,a [,abc] | \
 [,abc1] ,,,c [,abc] [,cdca] | \
 [,aa,c1] [,,b,d/] ,,d [,aa,c1] [,,aa] |"
-279;[Galliard];;;OT;;3;"[,cd,a1] [,dda] [ab,,d] | [abdd1] ,,d/ d [bbdd1] | \
+115;;279;[Galliard];;;OT;;3;"[,cd,a1] [,dda] [ab,,d] | [abdd1] ,,d/ d [bbdd1] | \
 [acd,a1] [bdda] [db,cd] | [f,dd3/2] g/ [f,dd1] | \
 [db,cd3/2] b/ [db,cd1] | [bdda1] ,,d/ d [bdda1] |"
-280;[Dump?];;pp. 283-286 empty;OT;;3;"[,acc,a3/2] [,ac/] ,,,c1 | [,c,,,a/] ,d ,f ,d ,f/4 ,d ,c ,a | \
+116;;280;[Dump?];;pp. 283-286 empty;OT;;3;"[,acc,a3/2] [,ac/] ,,,c1 | [,c,,,a/] ,d ,f ,d ,f/4 ,d ,c ,a | \
 [,cdca3/2] [,cd/] ,,,e1 | \
 [c,,,a/] a c/4 a ,d ,c [,d,,a] ,c ,a ,,d |"
-287;[Omnino Galliard];John Johnson;p. 288 empty;OT;ConcR9;3;"[,,dca3/4] ,a/4 ,b/ ,d [a,,,a1] | \
+117;;287;[Omnino Galliard];John Johnson;p. 288 empty;OT;ConcR9;3;"[,,dca3/4] ,a/4 ,b/ ,d [a,,,a1] | \
 [,bd,a1] ,,d [ab,,d] | [ab,,d3/2] ,d/ [,bd,a1] | \
 [,acc,a3/2] ,,d/ [,acc,a1] || \
 [,,d,a/] ,,d/4 ,a ,b ,a ,b ,d [a,,,a/] ,d |"
-289;[Quadro Galliard];;p. 290-294 empty;OT;ConcR454;3;",,d/ ,a | [,cdca1] ,,,c/ ,d ,c ,a | \
+118;;289;[Quadro Galliard];;p. 290-294 empty;OT;ConcR454;3;",,d/ ,a | [,cdca1] ,,,c/ ,d ,c ,a | \
 [,cdca1] ,d [,cdca] | [,dda/] ,a/4 ,c ,d a c d | \
 [cdda/] a/4 c d/ c"
-295;[Almain];;p. 296-304 empty;OT;ConcR441;C;"[,bd,a1] [,d,,c] [ab,,d] [ab] | \
+119;;295;[Almain];;p. 296-304 empty;OT;ConcR441;C;"[,bd,a1] [,d,,c] [ab,,d] [ab] | \
 [,dba,d3/2] ,b/ [,dba,d1] [aab,,a/] ,d | \
 [,bd,a1] [,a,c,e] [,bd,a] [,,da,b] | \
 [,acc,a1] ,,,c/ ,,d [,acc1] ,,,,,a | \
 [,,dca1] [,,cc,a] [,,dca] [,aba,d] |"
-305;[Ruggiero];;p. 306-318 empty;OT;Conc_3638;C;"[,,dca/] ,a | [,cdca1] [acd] [,ddac] [,dca] | \
+120;;305;[Ruggiero];;p. 306-318 empty;OT;Conc_3638;C;"[,,dca/] ,a | [,cdca1] [acd] [,ddac] [,dca] | \
 [,cdca3/4] ,d/4 [,cdc1] [a,d,a] | \
 [,da,c1] [,cd,a] [,a,a/] ,,d ,,c ,,a | \
 [,acc,a2] [,acc1] [,,,c,a/] ,,a | \
 [,,cc,a1] [,a,c,e] [,,d,,c] [,,db] |"
-319;Knoles. Gall.;Knowles;p. 320-327 empty;OT;ConcR455;3;"[,,dca3/4] ,a/4 ,c/ ,d [aac,,a1] | \
+121;;319;Knoles. Gall.;Knowles;p. 320-327 empty;OT;ConcR455;3;"[,,dca3/4] ,a/4 ,c/ ,d [aac,,a1] | \
 [acd,a3/2] ,d/ [acd,a1] | [,aa,c3/4] ,c/4 ,d/ a [cce,,c1] | \
 [eef,c3/2] ,f/ [eef,c1] | [,cdca/] ,d a c [e,,,,e1] |"
-328;[Lesson / Fancy?];;;OT;;2;"[a,,,,a1] ,a/ c | [da/] c d/4 c d f | [ha1] h | \
+122;;328;[Lesson / Fancy?];;;OT;;2;"[a,,,,a1] ,a/ c | [da/] c d/4 c d f | [ha1] h | \
 [if1] [fh] | [hi1] [fh/] h | [if1] [hi] | [fh/] h [df] f |"
-330;[Intabulation of a canzonet];;pp. 331-356 empty;OT;;3;"z1 a/ | c1 [d,,c/] | [f,,e1] [h,,f/] | [a,d/] c [da,,,a] | \
+123;;330;[Intabulation of a canzonet];;pp. 331-356 empty;OT;;3;"z1 a/ | c1 [d,,c/] | [f,,e1] [h,,f/] | [a,d/] c [da,,,a] | \
 ,,,,c/ [c,d] [a,b,,d] | [a,a,a/] ,e/4 ,c [,ea,c/] | \
 [aa,,,a/] ,,,c d | ,,,e/ c [a,b] |"
-357;gall. Lord Stra:;;Lord Strange's Galliard;OT;;3;"[fd,df1] [fd,d] [ha,a,h] [if,h,f3/2] h/ [if,h,f1] | \
+124;;357;gall. Lord Stra:;;Lord Strange's Galliard;OT;;3;"[fd,df1] [fd,d] [ha,a,h] [if,h,f3/2] h/ [if,h,f1] | \
 [fg,a3/2] [df/] [bd,a1] [abdca] ,,,c/ b [d,,,,d1] | \
 [fc,d,b1] ,,,d/ d [b,da1] [abd,a] ,,,c/ b [a,,,,d] ,d |"
-357;galli;;Galliard;OT;;3;"[eff2] [gha1] | [hh,f,h3/2] k/ [hh,f,h1] | \
+125;;357;galli;;Galliard;OT;;3;"[eff2] [gha1] | [hh,f,h3/2] k/ [hh,f,h1] | \
 [aa,c,e1] [,cee,c3/2] ,,f/ | [,cee,c1] [,aabc2] | \
 ,,,,e/ [,aabc3/2] a/ c | [ea,c,a3/2] [cc,,a/] [a,,,e1] | \
 [fc,e,c1] [f,a,e] [e,,,c/] c |"
-358;[Quadro Galliard];;;OT;ConcR456;3;",d/ a | [c,da3/2] d/ [f,,a1] | [,db,c1] [a,b,d] [cdda] | \
+126;;358;[Quadro Galliard];;;OT;ConcR456;3;",d/ a | [c,da3/2] d/ [f,,a1] | [,db,c1] [a,b,d] [cdda] | \
 [,db,,d3/2] ,b/ [,ab,,d1] | [,,d,,c1] [,ab,,d] [,c,,a] | \
 [cdda3/2] d/ [c,,a1] | [a,d,e1] [,da,c] [,acc,a] |"
-359;A Dump;;Militis Dump (Bergamasca Ground);OT;ConcR55;C;",a/ ,b | [,db,,d1] ,,,a/ ,b [,ab,,d1] ,b/ ,d | \
+127;;359;A Dump;;Militis Dump (Bergamasca Ground);OT;ConcR55;C;",a/ ,b | [,db,,d1] ,,,a/ ,b [,ab,,d1] ,b/ ,d | \
 [ab,,d1] a/ ,d [,b,,d1] ,a | \
 [,,da1] [,,b,c/] ,,a/4 ,,b [,,a,a/] ,,b [,,da] ,,a |"
-360;Quipass:;;Chi Passa;OT;ConcR178;3;"[aac,,a1] ,,,c [aac] | [aac,,a2] [aac,,a1] | \
+128;;360;Quipass:;;Chi Passa;OT;ConcR178;3;"[aac,,a1] ,,,c [aac] | [aac,,a2] [aac,,a1] | \
 [aac,,a3/2] [aac/] ,,,c1 | [aac,,a] [,,d,a] [,a,,,e] | \
 [abd,a1] ,,,c/ ,a [abb,d1] | [,daa1] [aaac] ,,,,,a | \
 [,,dca1] [,,dc] ,,,c |"
-362;Cotton.;Clement Cotton;Goodnight, duet treble;OT;ConcR5;C;"[,ab,,d1] ,,,,a [,abac] [bbcd] ,,,c/ ,b [,db,c1] ,,,,a/ \
+129;;362;Cotton.;Clement Cotton;Goodnight, duet treble;OT;ConcR5;C;"[,ab,,d1] ,,,,a [,abac] [bbcd] ,,,c/ ,b [,db,c1] ,,,,a/ \
 [,bd] [,a,a] ,,d [,adc] ,,c ,,,,a [,cd,a] ,,,c ,,,,a [,cd,a1] |"
-364;[Galliard to Westminster / To Me I Must];;;OT;ConcR261;3;"[c,,a3/2] d/ [f,,a1] [da,,,d] ,,,a [c,,a] | \
+130;;364;[Galliard to Westminster / To Me I Must];;;OT;ConcR261;3;"[c,,a3/2] d/ [f,,a1] [da,,,d] ,,,a [c,,a] | \
 [a,,,e1] ,,,,a [,d,,c] [cdca] ,,,c [c,,a] | \
 [aacc3/2] ,,d/ [aacc1] ,,,e [,cd] [c,,a] | \
 [aacc/] ,,a ,,c ,,d [,acc1]"
-365;[Galliard];John Johnson;;OT;ConcR446;3;"[aac3/2] [acd/] [aac1] | [acd3/2] ,d/ [acc1] | \
+131;;365;[Galliard];John Johnson;;OT;ConcR446;3;"[aac3/2] [acd/] [aac1] | [acd3/2] ,d/ [acc1] | \
 [cca1] [ccc] [bc] | [cef1] [ce/] ,,d [aac1] | \
 [acd1] [ac/] ,,c [fca1] | [cef1] [ce/] ,,d [cac1] |"
-366;[L'o]eil [gr]at.;arr. Albert de Rippe;Chanson L'Oeil Gracieux;OT;ConcR2694;2;",,,,c2 | [,a,ac1] [,,,c,a] | [,da,c/] [,c,c] [,dfa] [a,,,e] | \
+132;;366;[L'o]eil [gr]at.;arr. Albert de Rippe;Chanson L'Oeil Gracieux;OT;ConcR2694;2;",,,,c2 | [,a,ac1] [,,,c,a] | [,da,c/] [,c,c] [,dfa] [a,,,e] | \
 [ca,ac/] ,,d [dabc] ,,a | [dabc/] ,,d [cab] ,,a | \
 [cabc/] [a,,,,a/4] ,d [cabc/] a | [caa/] ,,,,c [,a,,c1] |"
-368;[Labandalashot Galliard];;;OT;ConcR182;3;"[,dda2] [acd,a1] | [cdda2] [da,a,d1] | \
+133;;368;[Labandalashot Galliard];;;OT;ConcR182;3;"[,dda2] [acd,a1] | [cdda2] [da,a,d1] | \
 [acd,a1] ,,,c/ ,d [acd,a1] | [,dda3/2] ,d/ [,,da1] | \
 [,a,a/] ,c [,dda1] [a,d,e] | [c,da/] a d c [dab,,d1] |"
-369;[Passo e mezzo Antico Pavan, duet treble];Marc Antoine;See p. 14-17;OT;ConcR457;C;",,d/ ,a | [abd1] ,,,c [ab,,a] [,a,c] | \
+134;;369;[Passo e mezzo Antico Pavan, duet treble];Marc Antoine;See p. 14-17;OT;ConcR457;C;",,d/ ,a | [abd1] ,,,c [ab,,a] [,a,c] | \
 [,bdca1] ,,,c/ ,d [abd,a1] [,d,c/] ,b | \
 [,dba,d1] ,,,a/ ,,d [,,b,,a/4] ,,a ,,b ,,d ,a/ ,b |"
-375;The grownd.;;P.A. Pavan, duet ground for bass lute;OT;ConcR458;C;",,,c/ ,,a | [aab,,a/] ,,a ,,,c ,,a [aab,,a] ,,d ,a ,,d | \
+135;;375;The grownd.;;P.A. Pavan, duet ground for bass lute;OT;ConcR458;C;",,,c/ ,,a | [aab,,a/] ,,a ,,,c ,,a [aab,,a] ,,d ,a ,,d | \
 [aab,,a/] ,,a ,,,c ,,a [aab,,a] ,,d ,a ,c | \
 [cdda/] a [,d,a] a"
-376;[Pavan];;;OT;;C;",,d/ ,a | ,,,,a/ [,bd] ,,,c ,,,,a [,bd,a] ,,,c [,ad,,a] ,,c | \
+136;;376;[Pavan];;;OT;;C;",,d/ ,a | ,,,,a/ [,bd] ,,,c ,,,,a [,bd,a] ,,,c [,ad,,a] ,,c | \
 ,,,,a/ [,bd] ,,,c a [,df] a [,bd,a] ,d | \
 ,,,,,d/ [,ab] ,,,a ,,,,,d [,ab]"
-379;[Quadro Pavan];;bandora;;;C;"[dda,,a2] [dda1] ,,a | [dda,,a1] [,aa/] ,b [,da,,a] ,a ,b ,d | \
+137;;379;[Quadro Pavan];;bandora;;;C;"[dda,,a2] [dda1] ,,a | [dda,,a1] [,aa/] ,b [,da,,a] ,a ,b ,d | \
 ,,,,d/ [b] ,,a ,,,,d [aba,d] ,d ,b ,a | \
 [aba,d1] [,da,c] [abc,a] c |"
-379;[Quadro Galliard];;bandora;;;3;"[dda,,a3/2] [dda/] ,,,,,a1 ,,,a [dda] ,,,,,a | \
+138;;379;[Quadro Galliard];;bandora;;;3;"[dda,,a3/2] [dda/] ,,,,,a1 ,,,a [dda] ,,,,,a | \
 [aba,d3/2] [abac/] ,,,,d1 [,da,c] [abc,a] [cdca] | \
 [dda,,a3/2] [dda/] ,,a1 [,dce] [daac] [acc,a] | \
 [cdca3/2] [cdc/] ,,,a1"
-380;[Chi Passa];;bandora;;ConcR178;3;"[cd,a3/2] [cd/] ,,c1 | ,,,a1 [cd] ,,c | [cdca3/2] d/ c a | \
+139;F dur;380;[Chi Passa];;bandora;;ConcR178;3;"[cd,a3/2] [cd/] ,,c1 | ,,,a1 [cd] ,,c | [cdca3/2] d/ c a | \
 [cdca2] [cd1] | [daa,,a2] ,,,,d1 | [aba1] ,,,a [cdc] | \
 [daa,,a3/2] [daa/] ,,,,,a1 | ,,,,,a1 [daa] ,,,,,a |"
-380;[Chi passa];;bandora;;ConcR178;none;"[acc,a2] [acc,a1] [acc,a] [acc,a] [acc,a] [acc,a3/2] ,d/ ,c ,a \
+140;G dur;380;[Chi passa];;bandora;;ConcR178;none;"[acc,a2] [acc,a1] [acc,a] [acc,a] [acc,a] [acc,a3/2] ,d/ ,c ,a \
 [acc,a1] [acc,a] [,dca3/2] ,,,,,a/ [,dc,c1] [,dc,a/] ,c \
 [,dca/] d c a [,dca1] [,dca] |"
-380;chayng thy minde;Richard Martin;;OT;;C;"[,bdca1] [,bd] [,dba,d] [aac,,a] [,bd,,b] \
+141;;380;chayng thy minde;Richard Martin;;OT;;C;"[,bdca1] [,bd] [,dba,d] [aac,,a] [,bd,,b] \
 ,d/ ,b [,acc,a1] ,,,c || \
 [aabc1] d [cdda] [a,d,d] [,da,c] ,,c/ ,d [,cdca1] ,,d ||"
-381;My Ladie Richis galliard;John Dowland;Lady Rich's Galliard / Dowland's Bells;OT;Conc_4418;3;"[ha,,,a3/2] f/ [ea,,,a1] | [cef,c3/2] ,,,,a/ [aa,c,e1] | \
+142;;381;My Ladie Richis galliard;John Dowland;Lady Rich's Galliard / Dowland's Bells;OT;Conc_4418;3;"[ha,,,a3/2] f/ [ea,,,a1] | [cef,c3/2] ,,,,a/ [aa,c,e1] | \
 [ccd,,c1] f [eff,,a] | [cef,c2] ,,,e1 | \
 [aa,c,a3/2] c/ [ea,,,a1] | [cef,c3/2] h/ [f,,,,c1] | \
 [ea,,,e1] [c,,,a/] a [aa,,c] ,e |"
-382;Mystris Norrishis delight;?John Dowlland;;OT;;3;"h/4 f e/ c | [aa,,,a3/2] f/ h/4 f e c | \
+143;;382;Mystris Norrishis delight;?John Dowlland;;OT;;3;"h/4 f e/ c | [aa,,,a3/2] f/ h/4 f e c | \
 [aac,,a3/2] h/4 f e/ c | [aac,,a3/4] c/4 e f h/ [,f,,e] g |"
-382;The Emperer's Allmayne;;The Emperor's Almain / Alliance Almain;OT;ConcR459;2;",a/ | c/4 e [f,,e/] [ea/4] ,c [cd/] | \
+144;;382;The Emperer's Allmayne;;The Emperor's Almain / Alliance Almain;OT;ConcR459;2;",a/ | c/4 e [f,,e/] [ea/4] ,c [cd/] | \
 [ac/] [,df,c] [,cee/4] ,,f ,,e/ | \
 [,df,c/4] [a,,,e] [c,,a] ,,d [,,c,e] ,,a [b,c] ,a |"
-383;The droke of parmes Almayne;;The Duke of Parma's Almain;OT;ConcR320;C;"[fdaa/] | c/ [h,,,,d] [d,,,d] [hd,f,d] [f,aa3/4] h/4 f/ c/4 d | \
+145;;383;The droke of parmes Almayne;;The Duke of Parma's Almain;OT;ConcR320;C;"[fdaa/] | c/ [h,,,,d] [d,,,d] [hd,f,d] [f,aa3/4] h/4 f/ c/4 d | \
 [f,,a/] ,,,,a [db,,d] [cdda] [acd,a1] \
 [da,c,a/4] ,,,,,c ,,,,,d ,,,,a |"
-383;O dear lyfe…dg:;;O Dear Life when shall it be;OT;;C;"[aabc1] d [cdda] [,ea,c] [a,,,d3/4] ,,d/4 \
+146;;383;O dear lyfe…dg:;;O Dear Life when shall it be;OT;;C;"[aabc1] d [cdda] [,ea,c] [a,,,d3/4] ,,d/4 \
 ,,b/ [a,d] [caa,c1] ,,,,,,a | \
 [cdda1] f [da,c/] ,d [adb] ,a [ccfe1] \
 ,,e/ ,f [,efec1] ,,,,,,a |"
-384;An almayne douland;John Dowland;Sir John Smith's Almain;OT;ConcR43;C;"[fdaa/] f/4 f f/ [fcd,a] [cdda3/4] [d,,c/4] [f,,e/] [c,,a] | \
+147;;384;An almayne douland;John Dowland;Sir John Smith's Almain;OT;ConcR43;C;"[fdaa/] f/4 f f/ [fcd,a] [cdda3/4] [d,,c/4] [f,,e/] [c,,a] | \
 [a,b/4] ,d [,da/] [dd,c] ,c ,,,a/4 [cd] ,,d ,,,a [cdd1] |"
-385;A pavion by Mr Mathias;Mathias Mason;;OT;Conc_4411;C;"[hf,g,a1] ,e/ f [ec,,,a] ,a ,,c [ce,,,c/4] ,c | \
+148;;385;A pavion by Mr Mathias;Mathias Mason;;OT;Conc_4411;C;"[hf,g,a1] ,e/ f [ec,,,a] ,a ,,c [ce,,,c/4] ,c | \
 [,a,,,e/] a [,acc,a] ,c [,e,,c] a c ,,,,a | \
 [ea,,,e/] a [c,d,,c/4] e f/ [ec,,,a] ,a"
-386;galliard Alfonsus;;;OT;ConcR34;3;"[aabc3/4] c/4 [da/] ,,,c [da,b] c | \
+149;;386;galliard Alfonsus;;;OT;ConcR34;3;"[aabc3/4] c/4 [da/] ,,,c [da,b] c | \
 [aa,c3/4] ,,a/ [aab/] ,,,c ,,,e [,ed] | \
 [da,c3/4] ,c/4 [cd,a/] ,a [a,,,e] ,,e | \
 [,df,c3/4] ,,,,e/4 ,,a/ ,,,,c [a,b,d] ,,d |"
-386;A galliard holborne;Anthony Holborne;p. 387-396 empty;OT;ConcR66;3;"[abd,a1] f [dd,,c/] c | [abbcd3/2] ,a/2 [a,d] ,,b | \
+150;;386;A galliard holborne;Anthony Holborne;p. 387-396 empty;OT;ConcR66;3;"[abd,a1] f [dd,,c/] c | [abbcd3/2] ,a/2 [a,d] ,,b | \
 [,bdcd1] a [,dfa/] [,bd] | [,acc1] ,,,,,a2 | \
 [aabc1] d [cd,ac] | [a,dcd1] ,b [,dfa] |"
-397;[Fragment];;bandora;;;none;"[cdca] [cd] ,,c [cdca] [cdca] [dda,,a] [cdca] [dda,,a] \
+151;;397;[Fragment];;bandora;;;none;"[cdca] [cd] ,,c [cdca] [cdca] [dda,,a] [cdca] [dda,,a] \
 [bbcd] [,,d,,d] [,,d,,d] [bbcd] [bbcd] [,dd,bd] ,,,c [,,,aa] \
 ,,,,d ,,,,a [aba,d] [aba,d] [cdca] [cdc] [dda,,a] |"
-397;[Goodnight, fragment];John Johnson;bandora;;ConcR5;none;"[dda,,c1] ,,,,a ,,,,c [aba,d2] [,da,c1] [abc,a] [abc] [abc] [acc,a] [acc,a] | \
+152;;397;[Goodnight, fragment];John Johnson;bandora;;ConcR5;none;"[dda,,c1] ,,,,a ,,,,c [aba,d2] [,da,c1] [abc,a] [abc] [abc] [acc,a] [acc,a] | \
 [abc,a1] ,,,,c [aba,d] [,dca3/2] ,,,,c/ \
 [aba,d1] [,dca3/2] ,b/ ,,,,,a [daa,,a]"
-397;[Fragment];;bandora;;;none;"[bbcd] ,,a ,,c [,dd,b] [acc] [,aaa,a] [,dca] [,dca] [dda,,a] | \
+153;;397;[Fragment];;bandora;;;none;"[bbcd] ,,a ,,c [,dd,b] [acc] [,aaa,a] [,dca] [,dca] [dda,,a] | \
 [dda,,a] ,,,,a ,,,,b [dba,d] [,dd,b] [acc,a] [,aa,,a] [bbcd] |"
-397;[The Hunt's Up];;bandora;;ConcR2;3;"[,dca1] [a,c,a/] [,dca] [,dca] | \
+154;;397;[The Hunt's Up];;bandora;;ConcR2;3;"[,dca1] [a,c,a/] [,dca] [,dca] | \
 [,dca/] [,da,c] [a,c,a1] [,dca/] [,dca] [daa,,a1] \
 c/ a [,fe,c] ,e [a,bc2] [a,bc1] [a,bc] [a,bc] | \
 [daa,,a2] [daa/] c [da,c] ,c"
-398;[Passo e mezzo Antico];;bandora;;;C;",,,,,a/ [dd] ,,a ,,,,,a [dda,,a1] [cdca] | \
+155;;398;[Passo e mezzo Antico];;bandora;;;C;",,,,,a/ [dd] ,,a ,,,,,a [dda,,a1] [cdca] | \
 ,,,,,a/ [dd] ,,a ,,,,,a [dda] ,,,,,a [b,c] a | \
 ,,,d/ [bb] ,,c ,,,d [bbcd1] [,dd,b] |"
-398;Expectate [pavan].;;bandora;;;C;"[abc,a3/2] ,,,,c/ [aba,d1] [abc,a] | \
+156;;398;Expectate [pavan].;;bandora;;;C;"[abc,a3/2] ,,,,c/ [aba,d1] [abc,a] | \
 [aabc1] [aba,d] ,,,a/ ,,,d [aa,c3/4] ,d/4 | \
 [acc,a3/2] a/4 b [dba,d/] f [bb,a] a/4 ,d | \
 [abc,a3/2] [abc/] [dda,,a1]"
-399;Expect: Gally.;;bandora;;;3;"[abc1] | [abc3/2] ,d/ [abc1] | \
+157;;399;Expect: Gally.;;bandora;;;3;"[abc1] | [abc3/2] ,d/ [abc1] | \
 [aab1] [abc,a/] ,,,,c ,,,,d ,,,a | \
 [aabc3/2] ,,c/ ,,b ,,,e | [aabc2] [aba,d1] [aba,d2] [bbcd1] | \
 f1 [db,,,a] b |"
-400;Dordo;Philippe Verdelot arr.;"Madrigal: Dormendo un Giorno; p. 402-418 empty";OT;ConcR2129;C;",,,,a2 [,,,cd3/2] ,,,,f/ | [,,bc1] [,,d,d] [,a,a] [,a,c] | \
+158;;400;Dordo;Philippe Verdelot arr.;"Madrigal: Dormendo un Giorno; p. 402-418 empty";OT;ConcR2129;C;",,,,a2 [,,,cd3/2] ,,,,f/ | [,,bc1] [,,d,d] [,a,a] [,a,c] | \
 [,b,ca1] ,,,c [,ab/] ,,,a [,,d,d1] | \
 [,a,,c1] [,ac] [,bd,a/4] ,a/8 ,b ,d ,b ,d ,b"
-419;The grownd.;;Passo e mezzo Antico Galliard;OT;;3;"[,abc3/2] ,a/ ,,b1 ,,,c ,a ,,b | \
+159;;419;The grownd.;;Passo e mezzo Antico Galliard;OT;;3;"[,abc3/2] ,a/ ,,b1 ,,,c ,a ,,b | \
 [,dda3/2] ,d/ ,,d1 ,,,a ,d ,,d | \
 [,abc3/2] ,a/ ,,b1 ,,,d ,a ,,b | \
 [,aa,c3/2] ,a/ ,,a1 ,,,,c ,a ,,a |"
-419;[Passo e mezzo Antico];;;OT;;C;"[,abc1] ,,,,,a [,abc] [,aa,c] | \
+160;;419;[Passo e mezzo Antico];;;OT;;C;"[,abc1] ,,,,,a [,abc] [,aa,c] | \
 [,abc1] ,,,,,a/ ,,d [,abc1] [,c,c] | \
 ,,,a/ ,d ,,d ,,,a [,dda1] [,ab,d] | \
 ,,,a/ ,d ,,d ,c [,a,a] ,,d [,,ba] ,,a |"
-419;[Chi Passa, fragment];;;OT;ConcR178;3;"[,aaac1] [,aa,c2] | ,a1 [,a,,c] ,a | \
+161;;419;[Chi Passa, fragment];;;OT;ConcR178;3;"[,aaac1] [,aa,c2] | ,a1 [,a,,c] ,a | \
 [,abc,a1] [,,abc3/2] ,,,c/ | [,,a,c1] [,aa,c] [,aa] | \
 [,aa,c1] [,abc] ,,,,,a/ ,,a | \
 [,abc1] [,cd,a/] ,,c [,aa,c] ,,,,a |"
-419;[duet ground];;;OT;ConcR288;3;"[,aa,c1] [,aa,c] [aab,,a/] ,,,,,c | \
+162;;419;[duet ground];;;OT;ConcR288;3;"[,aa,c1] [,aa,c] [aab,,a/] ,,,,,c | \
 [a,,,,d/] ,,,,a ,,,,c [,aa] ,,,,,d ,,,,a | \
 [,a,,c/] ,,,,d [,aa,c] ,,,b [,aa] ,,,,a | \
 [,a,,,d/] ,,,,,c [,abc,a] ,,d [,,bc] ,,a |"
-419;A grow[nd];;duet ground;OT;;3;",,,,c/ [,aa] | [,,bc/] ,,d [,a,,,a] ,,b [,,d,a] ,,b | \
+163;;419;A grow[nd];;duet ground;OT;;3;",,,,c/ [,aa] | [,,bc/] ,,d [,a,,,a] ,,b [,,d,a] ,,b | \
 [,,a,d/] ,,,c [,aa,c] ,,,,a [,aa,c1] | \
 [aac,,a1] ,,,c/ ,,d ,,c ,,a | [aacc,a1] z2 |"
-420;[Galliard Variations];;;OT;ConcR23;3;",,d/ ,a | [,bdca1] ,,,c/ ,d [,bdca1] | \
+164;;420;[Galliard Variations];;;OT;ConcR23;3;",,d/ ,a | [,bdca1] ,,,c/ ,d [,bdca1] | \
 [,acc,a1] [,bdca] [,da,c] | \
 [,ac,,a1] ,,,c/ ,,d ,,c ,,a | \
 [,,cc1] [,,d,d] [,a,a] | [,b,c1] ,,,,d/ ,b [,a,a1] |"
-423;[Bergamasca Variations];;;OT;Conc_45;C;"[,c,,a3/4] ,a/4 ,c/ [,dda1] ,c/ | \
+165;;423;[Bergamasca Variations];;;OT;Conc_45;C;"[,c,,a3/4] ,a/4 ,c/ [,dda1] ,c/ | \
 [,ac,,a3/4] ,,d/4 ,,c/ [,,d,a1] a || \
 [,c,,a1] ,,d/ [,dda1] c/ | \
 [,ac,,a1] a/ [,,d,a1] a/ || \
 [,c,,a3/4] ,d/4 a/ [,d,a3/4] a/4 c/"
-424;[Passo e mezzo Antico Variations];;;OT;;C;"[aabc1] [aab/] ,,,c [aabc1] [aabc] | \
+166;;424;[Passo e mezzo Antico Variations];;;OT;;C;"[aabc1] [aab/] ,,,c [aabc1] [aabc] | \
 [cdda1] [cdd/] ,,,a [cdda1] [cdda] | \
 [aabc1] [aab/] ,,,c [aabc1] [aabc] | \
 [,aabc1] [,aab/] ,,,,c [,aabc1] [,aabc] |"
-425;[Fragment];;;OT;;3;"[ca,bc3/2] ,d/ a c | [ddff1] ,,,,,a [c,da1] | \
+167;;425;[Fragment];;;OT;;3;"[ca,bc3/2] ,d/ a c | [ddff1] ,,,,,a [c,da1] | \
 [aab,,a1] [aaa,c] ,e | [aac,,a1] ,,,c/ ,,a ,,c ,,d | \
 [aac/] ,,,c ,,,,,a2 |"
-426;nom:t:;John Taverner arr. Nicholas Strogers;;OT;ConcR224;C;"a2 a | [da,c2] [da,c1] c | [a,b2] [,db] | \
+168;;426;nom:t:;John Taverner arr. Nicholas Strogers;;OT;ConcR224;C;"a2 a | [da,c2] [da,c1] c | [a,b2] [,db] | \
 [,b,c1] ,a ,,,c ,,b | [,abc1] ,b [,abc] ,,a | \
 [,,bc2] [,,bc,a1] ,,d | [,a,a,d1] ,b [,d,a] ,,,,,c |"
-426;[inci]pit [D]ump / Dump philli;Philip van Wilder;Arthur's Dump;OT;ConcR451;C;",,,,a/ ,,d/4 ,,,c a/ ,,,,a [,dd] a/4 ,,,c [,cd/] a/4 ,,,c | \
+169;;426;[inci]pit [D]ump / Dump philli;Philip van Wilder;Arthur's Dump;OT;ConcR451;C;",,,,a/ ,,d/4 ,,,c a/ ,,,,a [,dd] a/4 ,,,c [,cd/] a/4 ,,,c | \
 [,ac/] a/4 ,,,c ,,,,,a/ [,cd] [,ac] a/4 ,,,c ,,,,,a/ [,ac] |"
-429;[Psalm: Where Righteousness, setting 1];;;OT;ConcM107;none;"[,d,a1] [bdda] [acd,a] [bdda] [dab,,d] [acd,a2] | \
+170;;429;[Psalm: Where Righteousness, setting 1];;;OT;ConcM107;none;"[,d,a1] [bdda] [acd,a] [bdda] [dab,,d] [acd,a2] | \
 [acd,a1] [dda] [f,,d] [ff,c] [ea,c] [f,,,a2] | \
 [acd,a1] [bdda] [cd,a] [bdda] [da,,b] [acdca2] |"
-429;[Psalm: Where Righteousness, setting 2];;;OT;ConcM107;none;"[,dd,,c1] ,,,a/4 a b d [acd,a1] [bdda/] a/4 b [dab/] c/4 d [acd,a2] | \
+171;;429;[Psalm: Where Righteousness, setting 2];;;OT;ConcM107;none;"[,dd,,c1] ,,,a/4 a b d [acd,a1] [bdda/] a/4 b [dab/] c/4 d [acd,a2] | \
 [acd,a1] [bd,a/4] a b d [f,,d1] ,,,c/4 f e c f e c e [fg,,a2] |"
