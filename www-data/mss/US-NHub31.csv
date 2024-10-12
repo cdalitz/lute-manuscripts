@@ -25,7 +25,7 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNota
 22;;17v;Aus tieffer not schrey Ich zu dier Herr gott;;;OT;;;[c,a,c4] [c,a2] ,,,,c | [c,a,c1] d a c [d,bc] c d a [c,a,c2] c1 a [,da,c2] ,d ,c | ;germantab
 23a;;18v;Passamezo Im abzug;;;OT;;;z2 [c,da2] [c,da] ,,,,,a | [,d,a1] ,c ,d a [c,da2] ,,,,,a | [c,d2] [f,aa] [d,bc] [c,da] | [a,,,e2] [,da,c] [,c,ca] ,a1 ,c | ;germantab
 23b;;19r;Saltarello;;;OT;;;z2 [c,da2] [c,da] [c,da] ,,,,,a [c,da] [c,da]  [,d,a1] ,c ,d a [c,da2] ,,,,,a [c,da] [c,da]  ,,,,,a [f,aa] [da,c4];germantab
-24;;19v;Pass é Mezo;;;OT;;;[da,c,a2] [da,c,a1] c a c d a | [cdda1] ,a/ ,c ,d a c d [c,da1] d [c,da] c |;germantab
+24;;19v;Pass é Mezo;;;OT;ConcR920;;[da,c,a2] [da,c,a1] c a c d a | [cdda1] ,a/ ,c ,d a c d [c,da1] d [c,da] c |;germantab
 25;;21r;Feldt geschraÿ;;;OT;;;,,,a1 ,d ,,,a1 ,d [,dda4] ,,,a1 ,d ,,,a1 ,d [,dda4] ,,,a1 ,d ,,,a1 ,d [,dda4] | ,,,a ,c ,d a [c,da4];germantab
 26;;22v;Gassenhauer;;;OT;;;,,,a1 ,c ,d a ,d a [b,da2]  d1 b a ,d | ,,,,d ,a ,b ,d a b d3 ;germantab
 27;;23v;Kaiser Maximilian Tantz;;;OT;;;[b,d,,b4] [b,d2] ,,,,,b [b,d,,b] ,,,,d1 ,,,,a ,,,,a [ab,,d4] [ab] ,,,,d [ab,,d4] ,,,,c ,,,,a ,,,,,d :|;germantab
@@ -34,5 +34,3 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNota
 30;;25v;Cara Cóssa;;;OT;;;[aac,,a2] > [aac,,a] [aac,,a] [aac,,a] > [aac] ,,,,,a [aac,,a] [,,d,a1] ,,a ,,b ,,d [,ab,,d2] [,ab1] ,,,a [,ab,,d2] [abb,d] [abb,d] [abb,d];germantab
 31;;26r;Ein türgkisch Tannz;;;OT;;;[a,d,a4] [a,d,a] [d,bc] c1 a [,dda4] :||: [,c,ca4] [,dda2] [,abc] [,,dca8] :||: z4 [,dda8] [,b,c4] [aa,c2] [,dda] [,b,c4] ;germantab
 32;;26v;La traditora;;;OT;;;[,dda1] ,c ,d a b d | [f,dd2] [f,d] [da,c] | [bdda1] d/ b d b a ,d a ,d ,c ,a | ;germantab
-;;;;;;;;;;
-;;;;;;;;;  ;

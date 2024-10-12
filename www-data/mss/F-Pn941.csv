@@ -1,175 +1,227 @@
 PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
-;;;Taken from Coelho (1995);;;;;;;
-1;;2r;[Bou]ffons;;;OT;ConcR829;C;"[aabc/] ,d a c [dabc1] [dabc] | [cdda1] [cdd] ,,,a [cdda] | \
-[aabc1/] ,,a ,,b ,,d ,a ,,d ,a ,c |";italian7tab
-2;;2r;autre [b]ouffo[s]s fa ut;;;OT;ConcR829;none;[cdda] ,d a c ,d [dab,,d] [cdda] [a,,,d] [,d,,c] [acdca] ||;italian7tab
-3;;2r;Rugier fa ut;;;OT;Conc_3638;C;"[acdca1] | [acdca1] ,d [cdda] [cd] | [acdca3] ,d1 | \
-[acdca1] [,d,,c/] [,b,,a] [,ab,,d1] [,,d,,b] |";italian7tab
-4;;2r;Rugier fa ut;;;OT;Conc_3638;C;"[acdca1] | [acdca1] [,ac] [c,,a] c | [acdca3] ,d1 | \
-[acdca1] [,d,,c/] [,b,,a] [,ab,,d1] [,,d,,b] | \
-[,acc,a2] ,,,c1 [,ac] |";italian7tab
+1;;2r;[Bou]ffons;;;OT;ConcR829;C;"[aabc] ,d a c [dabc] [dabc] | [cdda] [cdd] ,,,a [cdda] | \
+[aabc] ,,a ,,b ,,d ,a ,,d ,a ,c |";italian7tab
+2;;2r;autre [b]ouffo[s]s fa ut;;;OT;ConcR829;none;"[cdda] ,d a c ,d [dab,,d] [cdda] [a,,,d] [,d,,c] [acdca] || \
+[cdda] ,d a c ,d [dab,,d] [cdda] [a,,,d] [,d,,c] [,cb,,d] \
+[,cdca] [cdda] ||";italian7tab
+3;;2r;Rugier fa ut;;;OT;Conc_3638;C;"[acdca] [acdca] ,d [cdda] [cd] [acdca] ,d \
+[acdca] [,d,,c] [,b,,a] [,ab,,d] [,,d,,b] ,,,a [aacc,a] | \
+[aa] [aacc,a] [aacc,a] ,,,c";italian7tab
+4;;2r;Rugier fa ut;;;OT;Conc_3638;C;"[acdca] [acdca] [,ac] [c,,a] c [acdca] ,d \
+[acdca] [,d,,c] [,b,,a] [,ab,,d] [,,d,,b] \
+[,acc,a] ,,,c [,ac] | ,,,,,a ,,,,,a ,,,c ,,,,,a ,,,a";italian7tab
 5;;2v;[Bou]ffons fa ut;;;OT;ConcR829;none;"[,,d,a] ,,c ,,d ,a [abb,d] [abb,d] [,ab,,d] [ab,,d] [,,d,a] \
-,a ,b ,a ,,d ,,c ,,a";italian7tab
+,a ,b ,a ,,d ,,c ,,a [aac,,a] [aac,,a] | [,,d,a] ,,c ,,d ,a";italian7tab
 6;;2v;[Bou]ffons fa ut;;;OT;ConcR829;none;"[,,d,a] ,,c ,,d ,a ,c ,,d ,a ,c [,d,a] ,c ,,,a [,d,a] \
-[,cd,a] ,a ,c ,d ,c ,a ,,d |";italian7tab
-7;;2v;[Rugi]er fa ut;;;OT;Conc_3638;none;,d a [cdda] [cdda] [dab,,d] [acdca] [cdda] [cdd] {a};italian7tab
-8;;3r;[Ru]gier fa ut;;var.;OT;Conc_3638;none;,d a [cdda] [cdda] [dab,,d] [acdca] [cdda] [cdd] {a};italian7tab
+[,cd,a] ,a ,c ,d ,c ,a ,,d [aac,,a] [aac] [aac,,a] |";italian7tab
+7;;2v;[Rugi]er fa ut;;;OT;Conc_3638;none;",d a [cdda] [cdda] [dab,,d] [acdca] [cdda] [cdd] {a} | \
+[f,,,a] [d,,a] [c,,a] [a,,,d] [,d,,c] [acdca] [acd] ,,,,a \
+[acdca] c d a [c,,a] |";italian7tab
+8;;3r;[Ru]gier fa ut;;var.;OT;Conc_3638;none;",d a [cdda] [cdda] [dab,,d] [acdca] [cdda] [cdd] {a} | \
+[f,,,a] [c,,a] [d,,a] [a,,,d] [c,,a] [,d,,c] [a,,,d] \
+[,c,,a] [,d,,c] [,a,,,d] |";italian7tab
 9;;3r;Rugier siciliano fa ut;;;OT;Conc_3638;none;"[aacc,a] ,,d [aacc,a] [aacc,a] [acdca] [aaa,c] ,e \
-[aacc,a] ,,,c [aac]";italian7tab
-10;;3v;[Rug]ier in [sopr]ano;;;OT;Conc_3638;C|;",d/ a | [cdda1] [cdda] | [dab,,d1] [acdca] | \
-[cdda1] [cdd/] ,,,a |";italian7tab
-11;;3v;[Rug]ier fa ut;;;OT;Conc_3638;none;"[acdca/] ,d | [acdca1] [acdca] [cdda] a/ ,d | [acdca1] [acd] ,,,,a [acdca/] ,d | \
-[acdca1] [aaa,,d] [aaa,,c] [aaab] |";italian7tab
+[aacc,a] ,,,c [aac] | a c [a,,e] [c,,a] [e,,,a] ,,,,a \
+[,ea,c] ,,,,c [,ea] ,a ,c [,ea,c]";italian7tab
+10;;3v;[Rug]ier in [sopr]ano;;;OT;Conc_3638;C|;",d a | [cdda] [cdda] | [dab,,d] [acdca] | \
+[cdda] [cdd] ,,,a | [cdd] a c | [dab,,d] [cdda] | \
+[abb,d] [,da,c] | [acdca] [acd] ,,,,a |";italian7tab
+11;;3v;[Rug]ier fa ut;;;OT;Conc_3638;none;"[acdca] ,d1 [acdca] [acdca] [cdda] a/ ,d [acdca] [acd] ,,,,a [acdca/] ,d \
+[acdca] [aaa,,d] [aaa,,c] [aaab] | \
+[aacc,a] [aac] ,,,,,a [aacc,a/] ,,d";italian7tab
 12;;3v;[Rug]ier fa ut;;var.;OT;Conc_3638;none;"[acdca] [acdca] ,a ,c ,d a ,d ,c ,a [acdca] ,d d c a ,d ,c ,a \
 ,,d ,,c ,,a";italian7tab
-13;;4r;[Ru]gier fa ut;;;OT;Conc_3638;C|;"[cd,a1] [cd,a/] [cd,a] | [da,c1] [da,c] | [cd,a1] ,d | \
-,,,a1 [f,,e] |";italian7tab
-14;;4r;La Zingare;;;OT;ConcR1081;none;[acdca] ,d [acdca] [acdca] ,d a [cdda] a ,d [acdca] [acd];italian7tab
-15;;4v;[…] ris de […]ane;;;OT;;none;"[aabc] [aabc] [caabc] [aabc] ,,,,,a [caabc] ,,,,c [aacc] \
-d [c,,,a] a [caabc]";italian7tab
+13;;4r;[Ru]gier fa ut;;;OT;Conc_3638;C|;"[cd,a1] [cd,a/] [cd,a] | [da,c1] [da,c] | [cd,a] ,d \
+,,,a [f,,e] [da,c] [cd,a] [a,,,e] [,da,c] [,cdca] ,,d | \
+,,,,a [acdca] [acda] [acdca] |";italian7tab
+14;;4r;La Zingare;;;OT;ConcR1081;none;"[acdca] ,d [acdca] [acdca] ,d a [cdda] a ,d [acdca] [acd] || \
+[,da,c] ,c ,d [acdca] ,a ,,,d [aacc,a] ,,d ,a";italian7tab
+15;;4v;[…] ns de […]ane;;;OT;;none;"[aabc] [aabc] [caabc] [aabc] ,,,,,a [caabc] ,,,,c [aacc] \
+d [c,,,a] a [caabc] | ,,,,c ,,,,a [dba,,d] | [dba,,d] | \
+[dba,,d] | ,,,,,a ,,,,,c ,,,,,d ,,,,a";italian7tab
 16;;4v;[…]ine;;;OT;;none;"[caabc] [caa] ,,,,c [aabc] [cdda] [cdd] ,,,a [cdda] \
-[cdda] [cdd] ,,,a [aabc] [caabc]";italian7tab
-17;;5r;[…]inede […]mo;;;OT;;C|;",a/ ,c [,ea,c] ,a | [,ea,c/] [aabc] ,,a [aabc] | \
-[cdda1] [cdd/] ,,,a |";italian7tab
+[cdda] [cdd] ,,,a [aabc] [caabc] | \
+[daabc] [caa] ,,,,c [aabc] [cdda] [cdd] c";italian7tab
+17;;5r;[…]inede […]mo;;;OT;;C|;",a ,c [,ea,c] ,a | [,ea,c] [aabc] ,,a [aabc] | \
+[cdda1] [cdd/] ,,,a | [cdd1] ,,,a | [cdda1] a/ [cdda] | \
+[aabc1] ,,a/ [aabc] |";italian7tab
 18;;5r;Tant que viveray;;;OT;ConcR854;none;"[fdda] [fdd] [dab,,d] [cd,a] a ,d a [cd,a] [cd,a] \
-[abb,d] [fdda] [fdda] [eacc]";italian7tab
-19;;5v;Altesa;;;OT;;3;"[dab,,d1] | [cdda3/2] a/ c1 | [,d,a3/2] a/ c1 | [a,,,d3/2] c/ a1 | \
-[a,,,d3/2] c/ d1 |";italian7tab
+[abb,d] [fdda] [fdda] [eacc] [fdda] [cdaa] [cdaa] \
+[acc,a] [,d,a] ,c ,c ,c";italian7tab
+19;;5v;Alteza;;;OT;;3;"[dab,,d] [cdda] a c [,d,a] a c [a,,,d] c a \
+[a,,,d] c d [cdda] [dabc] a [cdda] [dab,,d] [dab,,d]";italian7tab
 20;;5v;[…]o […] […]cer;;;OT;;none;"[cdda/] [cdd/4] ,,,a [cdda1] [,da,c] [acdca1] ,,c ,,d ,a ,c ,d a c \
-[dabc,a] ,d c d f ,,d ,a ,c";italian7tab
-21;;6r;Spagnoletta;;;OT;Conc_4501;3;",,d/ ,a | [,b,,a3/2] ,a/ ,b1 | [,d,,,d3/2] ,b/ ,d1 | \
-[ab,,d2] ,,,,d1 | [ab3/2] b/ d1 |";italian7tab
-22;;7r;[Fo]rtune [he]las [pou]rquoy;;;OT;ConcR466;C|;",a/4 ,c | [,da,c/] [,da] [,da,c] [acd] | [cdd{a}3/4] d/4 [c,,a/] a/4 ,d | \
-[,c,,a/] [,aa,c] |";italian7tab
-23;;7v;[Alle]ma[n]de […];;;OT;;C;a | [,cd,a] c [,dda] a/ c | [add,a1] ,d [,cdca] ,c/ ,d;italian7tab
-24;;8r;[A]lmna[n]de d'amour;;;OT;ConcR764;C|;"[ab,,d3/4] ,d/4 [,b,,a/] ,a/4 ,,d | [,acc,a3/4] [,acc/4] ,,,,,a/ [,acc,a] | \
-[ab,,d/] c [c,,,d] a |";italian7tab
-25;;8v;[Gail]liarde;;;OT;;none;"[aacc,a1] [aacc,a] [aacc,a] | [acdca1] ,,d/ ,a ,c ,d | a ,c [,ea,c] a ,c ,e | \
-[aacc,a1] [aac] ,,,,,a ||";italian7tab
-26;;8v;[Gai]liarde;;;OT;;3;",d/ c | [cdd{a}3/2] d/ f d | [c,,a/] a ,d ,b ,a ,,d | \
-[,ab,,d3/2] ,d/ a c |";italian7tab
-27;;9r;Allemande;;;OT;Conc_4438;C;,,d2 | [,dda2] {a}1 a | b1 d [b,,a2] | [abd2] ,,,,a1 ,d |;italian7tab
-28;;9v;[Alle]ma[n]de […];;Var.;OT;Conc_4438;C;",,d2 | ,d2 ,,,a1 a | b1 d [bd2] | [ab2] ,,d1 ,d | \
-,b1 ,a [,bd2] |";italian7tab
-29;;10v;[Prae]ludium;;;OT;ConcR1371;C;"[aabc,a1] | [aabc1] ,,,a ,,,,d [,d,,c] | [,bd,a/] ,a ,b ,,,,a [,a,,,e1] [aa/] ,,,,,e | \
+[dabc,a] ,d a c d ,,d ,a ,c";italian7tab
+21;;6r;Spagnoletta;;;OT;Conc_4501;3;",,d ,a | [,b,,a] ,a ,b | [,d,,,d] ,b ,d \
+[ab,,d] ,,,,d | [ab] b d | [bbdd] [bbd] | \
+[,db,,d] [,db] | [ab,,d] ,,,,d | [ab] ||";italian7tab
+22;;7r;[Fo]rtune [he]las [pou]rquoy;;;OT;ConcR466;C|;",a/4 ,c | [,da,c/] [,da] [,da,c] | [acd] [cdd,,a3/4] d/4 [c,,a/] a/4 ,d | \
+[,c,,a/] [,aa,c] [,cee] [,ee] | [,aa,c/] [,aa/4] ,,,,c ,a ,c |";italian7tab
+23;;7v;[Alle]ma[n]de […];;;OT;;C;"a | [,cd,a] c [,dda] a c [add,a] ,d [,cdca] ,c ,d | \
+[acd,a] [acd] [,daac] [,cdca] [,acc,a] [,cdca] ,a |";italian7tab
+24;;8r;[A]lma[n]de d'amour;;;OT;ConcR764;C|;"[ab,,d3/4] ,d/4 [,b,,a/] ,a/4 ,,d | [,acc,a3/4] [,acc/4] ,,,,,a/ [,acc,a] | \
+[ab,,d/] c [c,,,d] a | [,dba,d3/4] [,dba/4] ,,,,,d/ [,dba,d] | \
+[,bd,a/] ,a/4 ,b ,d ,b ,a ,,d |";italian7tab
+25;;8v;[Gail]liarde;;;OT;;none;"[aacc,a] [aacc,a] [aacc,a] [acdca] ,,d ,a ,c ,d a ,c [,ea,c] a ,c ,e \
+[aacc,a] [aac] ,,,,,a || [ea,c] [ea,c] c a ,d";italian7tab
+26;;8v;[Gai]liarde;;;OT;ConcR3654;3;",d c | [cdd{a}] d f d | [c,,a] a ,d ,b ,a ,,d | \
+[,ab,,d] ,d a c | d c [acd,a1] f |";italian7tab
+27;;9r;Allemande;;;OT;Conc_4438;C;",,d2 | [,Xdda2] {a} a | b1 d [b,,a2] | [abd2] ,,,,a1 ,d | \
+[,ab,,Xd1] ,c [,d,d{a}] | [,d,ca2] ,,,a [,c,c1] |";italian7tab
+28;;9v;[Alle]ma[n]de […];;Var.;OT;Conc_4438;C;"X,,d2 | ,d2 ,,,a1 a | b1 d [bd2] | [ab1] X,,d2 ,d | \
+,b1 ,a [,bd2] | [,aXb1] ,c X,d ,,,d2 | X[,d,c1] ,,,a [,c,c2] |";italian7tab
+29;;10v;[Prae]ludium;;;OT;ConcR1371;C;"[aabc,a] | [aabc1] ,,,a ,,,,d [,d,,c] | [,bd,a] ,a ,b ,,,,a [,a,,,e1] [aa/] ,,,,,e | \
 [,bdca/4] ,a ,,d ,,b ,,d ,a ,b ,d a ,d ,b ,a ,b ,d a c |";italian7tab
-30;;11r;La barriere romano;;;OT;;C;[cdda1] [cdd/] ,,,a [cdd1] f/ d | [c,,a1] a [,d,a] {a} |;italian7tab
-31;;11v;[Bar]riera;;;OT;ConcR1092;C;[cdda1] c/ c c1 f | [cdda2] ,d | [cdda1] c/ c c1 f |;italian7tab
+30;;11r;La barriere romano;;;OT;;C;"[cdda] [cdd] ,,,a [cdd] f d [c,,a] a [,d,a] {a} || \
+[cdda/] [cdd] ,,,a [cdd] a ,d [acdca] [acd] ,,,,a [acdca]";italian7tab
+31;;11v;[Bar]riera;;;OT;ConcR1092;C;"[cdda] c c c f | [cdda] ,d | [cdda] c c c f | [cdda] ,d | \
+[cdda] c c a ,d | [,cdca] |";italian7tab
 32;;13r;[…] reginella;;;OT;;none;"[acdca] [acdca] [,da,c] [acdca] [cdda] [acdca] ,a ,,d ,,,,a ,d \
-[acdca] ,a ,,d [aacc,a] ,,d ,a [acdca]";italian7tab
-33;;13v;[Title torn off];;;OT;;;;italian7tab
-34;;13v;[Vol]ta;;;OT;;3;c1 a ,c | [,d,a1] a ,d | [acd,a1] ,d a | [cdda1] {a} ,,,a |;italian7tab
+[acdca] ,a ,,d [aacc,a] ,,d ,a [acdca] || \
+[,cdca] [,da,c] [acdca]";italian7tab
+33;;13v;[Title torn off];;;OT;;none;"y/4 y y ,,a ,,b [,,d,a] ,,d ,,b ,,a ,,,c ,,a ,,,c ,,a ,,d ,,b \
+,,,c ,,a ,,,c ,,,a ,d a ,d [,d,a] {a} ||";italian7tab
+34;;13v;[Vol]ta;;;OT;;3;"c a ,c | [,d,a] a ,d | [acd,a] ,d a | [cdda] {a} ,,,a | \
+d c a c d a | [c{a}] a ,d |";italian7tab
 35;;14r;Volte;;;OT;;3;"[aacc,a] ,,d [aacc,a] ,,a ,,c ,,d ,a ,c ,a ,,d ,a ,d ,c ,a \
-[acdca] ,,d ,d ,c ,a";italian7tab
-36;;14v;[Gal]liarde;;;OT;;3;",,d1 ,a | [acd,a1] ,,,,a/ ,d ,c ,a | \
-[acd,a/] ,a/4 ,c ,d ,c ,a ,,d ,a ,,d ,,c ,,a |";italian7tab
+[acdca1] ,,d/ ,d ,c ,a";italian7tab
+36;;14v;[Gal]liarde;;;OT;;3;",,d ,a | [acd,a1] ,,,,a/ ,d ,c ,a | \
+[acd,a] ,a ,c ,d ,c ,a ,,d ,a ,,d ,,c ,,a | \
+[aaac,,a] ,,,c";italian7tab
 37;;14v;[Vol]ta;;;OT;;none;"d c a [,d,a] ,c ,d [a,,a] c d [cdda] {a} | \
 a c d [f,,a] d c [da,c] [acdca] [cdda] {a} |";italian7tab
-38;;15r;Matasis/Fantasia???;;;OT;;none;",,a ,,c [,,d,a] ,a [,c,,a] ,a ,,d [aacc] ,,,c ,,,,,a | \
+38;;15r;[Ma]tasis/Fantasia???;;;OT;;none;",,a ,,c [,,d,a] ,a [,c,,a] ,a ,,d [aacc] ,,,c ,,,,,a | \
 ,,a ,,c [,,d,a] ,d [,c,,a] ,a ,,d [aacc] ,,,c ,,,,,a |";italian7tab
-39;;15r;[…]llade;;;OT;;none;"[,ab,,d] [,,aa] ,,c ,,d ,,,a [aacc] [,,d,a] | \
+39;;15r;[…]llade;;;OT;;none;"[,ab,,d] [,,aa] ,,c ,,d ,,,a [aacc] [,,d,a] || \
 ,,d ,,,c ,,,,a [,ab,,d] [,,aa] ,,c ,,d ,,,a [aacc] \
-[,,c,a] ,a ,b [,da,c] [,a,,,d] [,b,,a] ,a ,,d ,,,a \
-[aacc] [,,d,a] |";italian7tab
-40;;15v;[…]ana;;Passamezzo antico;OT;;C;"[aabc/4] ,,a ,,b ,,d ,a ,,d ,,b ,,a [aabc/] [,dd] ,a ,c | \
-[cdda/4] a c d f d c a [cdda/] ,b ,a ,,d |";italian7tab
-41;;16r;[Ric]ercato;;;OT;;C;"[aacc,a2] [aacc,a/] c d a | \
-h/ f/4 d c a ,d ,c ,a ,,d ,,b ,,a ,,,c ,,,a/ |";italian7tab
-42;;16v;[Fan]tasia;;;OT;;none;[aacc,a] c e a h f e f c e a c ,d;italian7tab
-43;;17r;Courante;;;OT;;C;"[,,d,a/] [,d,a] [,,d,a] [,d,a] a [cdda] {a} | \
-c/ f [cdda] [cdd] [d,,c] d [cdda] {a} |";italian7tab
-44;;17v;[Cou]rante [S]antino;;;OT;ConcR1413;none;,a ,c [,da,c] [,c,,a] [,a,,,e] [,,d,,c] [aacc,a] y y y;italian7tab
-45;;17v;[Cou]ra[n]te;;;OT;;none;,,d [,bd,a] [,a,,,a] [,bd,a] [,d,,c] [aac,,a] ,d a y y y;italian7tab
-46;;18r;Courante;;;OT;ConcR2502;3;",d1 | [,d,a3/2] a/ b1 | [a,,,d2] [,d,,b1] | \
-[acdca3/2] ,a/ ,c1 |";italian7tab
-47;;18v;[Cou]rante;;;OT;;3;",d1 | [,d,a2] b1 | [a,,,d2] ,,,,b1 | [ac,ca3/2] ,d/ ,c1 | \
-[,,d,a2] f1 |";italian7tab
+[,,c,a] ,a ,b [,da,c]";italian7tab
+40;;15v;[…]ana;;Passamezzo antico;OT;;C;"[aabc/] ,,a ,,b ,,d ,a ,,d ,,b ,,a [aabc] [,dd] ,a ,c | \
+[cdda] a c d f d c a [cdda] ,b ,a ,,d |";italian7tab
+41;;16r;[Ric]erca[to];;;OT;;C;"[aacc,a2] [aacc,a/] c d a | \
+h/ f/4 d c a ,d ,c ,a ,,d ,,b ,,a ,,,c ,,,a/ ,,,,d ,,,,c ,,,,a";italian7tab
+42;;16v;[Fan]tasia;;;OT;;none;[aacc,a] c e a h f e f c e a c ,d a ,d ,c ,a ,c ,,d ,a;italian7tab
+43;;17r;[Cou]rante;;;OT;;none;"[,,d,a] [,d,a] [,,d,a] [,d,a] a [cdda] {a} | \
+c/ f [cdda] [cdd] [d,,c] d [cdda] {a} | \
+c d [fdda] f";italian7tab
+44;;17v;[Cou]rante [S]antino;;;OT;ConcR1413;none;",a ,c [,da,c] [,c,,a] [,a,,,e] [,,d,,c] [aacc,a] [aac] a c [e,,c] \
+[c,,a] [a,,,e] [,d,,c] [acdca] [acd] c d [f,,a] [d,,c] [c,,a]";italian7tab
+45;;17v;[Cou]ra[n]te;;;OT;;none;",,d [,bd,a] [,a,,,a] [,bd,a] [,d,,c] [aac,,a] ,d a [,ddaa] [,a,,,a] \
+[,bd,a] [,d,,c] [ab,,d] [c,,a] [d,,c] c a [,da,c] ,d";italian7tab
+46;;18r;Courante;;;OT;ConcR2502;none;",d [,d,a] a b [a,,,d] [,d,,b] [acdca] ,a ,c [,,d,a] f [f,,d] f \
+[dab,d] [dab] ,,,,,b || ,d ,d ,,,a a c";italian7tab
+47;;18v;[Cou]rante;;blotted out for the major part;OT;;none;;italian7tab
 48;;18v;[Cou]ra[n]te;;;OT;;none;"f d  [c,,a] [,d,,c] [a,,,d] [c,,a] [dab,,d] [dab] \
-[c,,a] c [a,,,d] a";italian7tab
-49;;19r;Vilanella;;;OT;;none;,c/ ,a ,c ,d [acdca3/2] ,d/ [acd1] ,,d;italian7tab
-50;;19r;Tordiglione;;;OT;ConcR2812;C|;"[abdca1] ,,d/ ,a | [abdca1] [,da] | [,db,,d1] [,db] | \
-[,bdca1] ,,d/ a |";italian7tab
-51;;19v;[Qua]tre  [Bra]nde;;;OT;;C|;"[,cd,a/] ,d ,c ,a | [,,d,a/] ,,c ,,d ,a | [,cd,a/] ,d a ,d | \
-[,cd,a1] [,ac,,a] |";italian7tab
-52;;20r;[B]ranle;;Sellenger's Round;OT;ConcR19;none;[,,d,a] ,,d [,,d,a] ,a ,c [,dda{a}] [,dda] a [c,,a] a [acd,a];italian7tab
-53;;20r;Branle du camp[agne];;;OT;;none;[fcd,a] f [acd,a] | a [cdda] c [acd,a] ,d [,cdd] [,,d,,a];italian7tab
+[c,,a] c [a,,,d] a [,d,,c] a ,d [acdca] [acd] || f [d,,a] d";italian7tab
+49;;19r;[Vil]lanella;;;OT;;none;",c ,a ,c ,d [acdca3/2] ,d/ [acd/] ,,d [cdda/4] [cd1] [acdca] ,d/4 \
+[acd/] ,,d ,a ,c ,d a [cdda/]";italian7tab
+50;;19r;Tordiglione;;;OT;ConcR2812;C|;"[abdc1] ,,d ,a | [abdca] [,da] | [,db,,d] [,db] | \
+[,bdca] ,,d a | ,d ,b ,a ,,d | [aacc,a] [aac] | \
+[abb,d] [abb] ,,,,c |";italian7tab
+51;;19v;[Qua]ttre  [Bra]nde;;;OT;;C|;"[,cd,a/] ,d ,c ,a | [,,d,a/] ,,c ,,d ,a | [,cd,a/] ,d a ,d | \
+[,cd,a1] [,ac,,a] | [,cd,a/] ,d ,c ,a | [,,d,a] ,,c ,,d ,a |";italian7tab
+52;;20r;[Br]anle;;Sellenger's Round;OT;ConcR19;none;"[,,d,a] ,,d [,,d,a] ,a ,c [,dda{a}] [,dda] a [c,,a] a [acd,a] ,d a [,dda{a}] ,,,a | \
+[,,d,a] ,,d [,,d,a] ,a ,c [,dda{a}] [,dda]";italian7tab
+53;;20r;Branle du camp[agne];;;OT;;none;"[fcd,a] f [acd,a] | a [cdda] c [acd,a] ,d [,cdd] [,,d,,a] | \
+[,dda/] ,c [,dda] a [cdda] a c d [fcda]";italian7tab
 54;;20v;[Bra]nle [P]oitou;;;OT;ConcR636;C|;"[,,aa{a}/] ,,b ,,d ,a | [,,da{a}/] ,,a ,,b ,,d | \
-[,,aa{a}/] ,,,c/4 ,,a ,,,a/ ,,d |";italian7tab
-55;;21r;Seco[n]do;;;OT;;;;italian7tab
-56;;22v;[…]de duca [Fio]re[n]za;;;OT;ConcR1224;C;"[cdda{a}1] [cdd/] d c1 [acdca1] | [,da,c1] [,da/] ,c [,da,c1] [,,da,c] | \
-[,db,,d1] [,db/] ,,,,,c [aabc,a1] [acdca] | \
-[cdda{a}1] ,,,a [cdd2] |";italian7tab
-57;;23r;[Ba]llet de fiore[nza];;;OT;ConcR1224;C;"[cdda1] {a}/ d | [c,,,a1] [acdca] | \
-[,da,c1] {a}/ a | [,d,,c1] [,c,,,c] |";italian7tab
+[,,aa{a}/] ,,,c ,,a ,,,a ,,d | [,,ba{a}/] ,,a ,,,c ,,,a | \
+[,,aa{a}/] ,,,c ,,a ,,b ,,a ,,b |";italian7tab
+55;;21r;Seco[n]do;;;OT;;C|;"[,,ba{a}/] ,,d ,,b ,,,c | [,,aa{a}/] ,,b ,,a ,,,a | \
+[,,,ca/] ,,,e ,,,c ,,,,e | [,,,a{a}/] ,,,c ,,,a ,,,,c | \
+[,,,,ea/] ,,,a ,,,c ,,,,e |";italian7tab
+56;;22v;[…]de duca [Fio]re[n]za;;;OT;ConcR1224;C;"[cdda{a}1] [cdd] d c [acdca] [,da,c] [,da] ,c [,da,c] [,,da,c] \
+[,db,,d] [,db] ,,,,,c [aabc,a] [acdca] \
+[cdda{a}] ,,,a [cdd] |";italian7tab
+57;;23r;[Ba]llet de fiore[nza];;;OT;ConcR1224;C;"[cdda1] {a} d | [c,,,a1] [acdca] | \
+[,da,c] {a} a | [,d,,c] [,c,,,c] | \
+[,ab,,Xd1] ,d ,,,,,c | [,d,,,a1] [add,a] ,c | \
+[,daa{a}] [,daa] {a} |";italian7tab
 58;;23v;[Bal]le [gen]tille;;;OT;ConcR2813;C|;"[,,d,a1] ,a ,c/ ,e1 | [aacc,a] ,,,c c/ a | \
-[,ea,c/] [a,,,e] [aaa,c] ,e |";italian7tab
-59;;24r;Balle [gen]tille;;;OT;ConcR2813;C|;"[,,d,a1] a/ ,c/4 ,e | [aacc,a1] ,,,c/ c/4 a | \
-[,ea,c/] [a,,,e] [aaa,c] ,e |";italian7tab
+[,ea,c/] [a,,,e] [aaa,c] ,e | [aacc,a1] ,,,c/ ,,,,,a | \
+[,,d,a] ,,c ,,d ,a ,c ,a ,c ,e |";italian7tab
+59;;24r;Balle [gen]tille;;;OT;ConcR2813;C|;"[,,d,a/] a/ ,c/4 ,e | [aacc,a/] ,,,c c/4 a | \
+[,ea,c/] [a,,,e] [aaa,c] ,e | [aacc,a/] ,,,c ,,,,,a | \
+[,,d,a/] ,,c ,,d ,a ,c ,a ,c ,e";italian7tab
 60;;24v;[…]acini;;;OT;;none;",a ,c [,d,a] a d [c,,a] a ,d [acdca] ,,d | \
 f d [c,,a] a ,d [,aba,d] ,c ,d [acdca] ,,d |";italian7tab
 61;;25r;Passe mezo d'Italia g fa ut;;;OT;ConcR437;none;",,d/ ,a [,cd,a] | ,,d a [acd,a] | ,d ,c ,a [cdd] | \
-,,d a [acd,a] ,d ,a ,c";italian7tab
-62;;25v;{Pas]semezzo [d'Ital]ia in [sopr]ano [f]a ut;;;OT;ConcR437;C;",d/ a | [cdda1] a [cdda/] d c a | [c,,a1] [,d,,c] [a,,,d] [c,,a] | \
-[dab,,d1] [dab/] ,,,,,c [dab,,d] ,,,,a ,,,,c ,,,,a |";italian7tab
-63;;25v;[Pass]eme[zzo] [d'Italia] in [sopran]o fa ut;;;OT;ConcR437;C;",a/ ,,d | [aacc,a/] ,,,c ,,d [aacc] [,,de] [aacc] [a,d,e] [,d,,a] | \
-[aacc/] [acdca] [acd] [,da] [,ac] [,cd] [aac] [c,aa] [,ea,c] |";italian7tab
-64;;26r;Passemezzo fa ut;;;OT;;C;",,d/4 ,,c ,,d ,a | [abd,a3/4] ,a/4 ,b ,d ,b ,a [abd,a3/4] ,,,,a/4 d c a ,d ,b | \
-[,ab,,d3/4] ,,,,,d/4 ,,a ,,b ,,d ,,b ,,a \
-[,ab,,d3/4] ,,,,,d/4 ,,d ,a ,,b ,,d ,a |";italian7tab
-65;;26v;[Pa]sseme[zzo];;Var.?;OT;;C;"[,,d,a/4] ,,c [,,d,a] ,a | [abdca3/4] ,,,,a/4 ,a ,b ,d a ,d \
-[abdca3/4] ,,,,a/4 d [c,,a] a ,d ,b |";italian7tab
-66;;27r;[Pa]ssemezzo primo;;;OT;;C;",a1 | [abd,a1] ,,,,c ,,,,d ,,,a | [aacc1] [,,d,d] ,,,a [,,cc] | \
-[abd,a1] ,,,c [abd] ,d |";italian7tab
-67;;27v;Passemezzo secondo;;;OT;;;;italian7tab
-68;;28v;Passemezzo [Ter]zo];;;OT;;;;italian7tab
-69;;29r;Passamezzo siciliano;;;OT;ConcR848;C|;",,,c/4 ,,a | [aabc,a/] ,,,c [aab] a/4 c | \
-[dabc/] a [aaa,c] ,e | [aabc/] ,,,c [aab] a/4 c |";italian7tab
-70;;30r;Passamezzo siciliano;;;OT;ConcR848;C;",,d3/2 ,a/ | [abdca1] ,,d/ b [a,,,a] ,d [,b,,a] ,a \
-[abdca1] ,,d/ a [,d,,c] ,b [,a,,a] ,,d |";italian7tab
+,,d a [acd,a] ,d ,a ,c [,dda] | [,dda] [,dda] |";italian7tab
+62;;25v;{Pas]semezzo [d'Ital]ia in [sopr]ano [f]a ut;;;OT;ConcR437;none;",d/ a [cdda] a [cdda] d c a [c,,a] [,d,,c] [a,,,d] [c,,a] \
+[dab,,d] [dab] ,,,,,c [dab,,d] ,,,,a ,,,,c ,,,,a";italian7tab
+63;;25v;[Pass]eme[zzo] [d'Italia] in [sopran]o fa ut;;;OT;ConcR437;none;",a/ ,,d [aacc,a] ,,,c ,,d [aacc] [,,de] [aacc] [a,d,e] [,d,,a] | \
+[aacc] [acdca] [acd] [,da] [,ac] [,cd] [aac] [c,aa] [,ea,c]";italian7tab
+64;;26r;Passemezzo fa ut;;;OT;;none;",,d/ ,,c ,,d ,a [abd,a1] ,a/ ,b ,d ,b ,a [abd,a1] ,,,,a/ d c a ,d ,b \
+[,ab,,d1] ,,,,,d/ ,,a ,,b ,,d ,,b ,,a";italian7tab
+65;;26v;[Pa]sseme[zzo];;Var.?;OT;;none;"[,,d,a] ,,c [,,d,a] ,a [abdca] ,,,,a ,a ,b ,d a ,d \
+[abdca] ,,,,a d [c,,a] a ,d ,b";italian7tab
+66;;27r;[Pa]ssemezzo primo;;;OT;;C;",a  [abd,a] ,,,,c ,,,,d ,,,a | [aacc] [,,d,d] ,,,a [,,cc] | \
+[abd,a] ,,,c [abd] ,d | [abd,a] ,,,,c ,,,,d ,,,a |";italian7tab
+67;;27v;Passemezzo secondo;;;OT;;C;",,d ,a | ,,,,a [,bdc] X,,,c ,d [,bdca] ,,d [aacc,a] ,d | \
+[,cdca] ,d a ,,,,c ,,,,d a [,daa] ,b |";italian7tab
+68;;28v;Passemezzo [Ter]zo];;;OT;;C;",,d ,a ,b ,d | [,bd,a] ,,d ,a ,b ,d a b a [,,d,a] ,,,a [,,cc] | \
+[,bd,a] ,,d ,a ,b ,d a b a";italian7tab
+69;;29r;Passamezzo siciliano;;;OT;ConcR848;C|;",,,c ,,a | [aabc,a] ,,,c [aab] a/4 c | \
+[dabc/] a [aaa,c] ,e | [aabc/] ,,,c [aab] a/4 c | \
+[d,,c/] [,,de] [,ab] [,dd] |";italian7tab
+70;;30r;Passamezzo siciliano;;;OT;ConcR848;C;",,d3/2 ,a/ | [abdca1] ,,d b [a,,,a] ,d [,b,,a] ,a \
+[abdca1] ,,d/ a [,d,,c] ,b [,a,,a] ,,d | \
+[,aba,d1] ,,,a ,d [,d,,,d] ,b";italian7tab
 71;;30v;Passamezo;;;OT;;C|;"[,,d,a/] ,,c ,,d ,a | [abd,a1] ,,d/ ,a | [abd,a/] ,,d [aadc,a] ,,c | \
-[abd,a/] ,a ,,d a |";italian7tab
-72;;31r;Passamezo siciliano;;;OT;ConcR848;C|;",,,c/ ,,a | [aabc,a/] ,,,c [aab] ,b | [,a,,,a/] ,,d [,,b,,a] ,,a | \
-[aabc,a/] ,,,c [aab] [,,d,,c] |";italian7tab
+[abd,a/] ,a ,,d a | [,d,,a/] ,b ,a ,,d |";italian7tab
+72;;31r;Passamezo siciliano;;;OT;ConcR848;C|;",,,c/ ,,a | [aabc,a/] ,,,c [aab] ,b | \
+[,a,,,a/] ,,d [,,b,,a] ,,a | \
+[aabc,a/] ,,,c [aab] [,,d,,c] | \
+[,a,,,f] [,c,,a] [,d,,c] [a,,,e] |";italian7tab
 73;;32r;Canario;;;OT;ConcR481;none;"c [c,,a] a ,d [a,,,a] [,d,,c] ,,,,,d [,c,,a] [,d,a] || \
 c [c{a}] a ,d [a,,,a] [,d,,,c] ,,,,,d [,c,,a] [,d,a] |";italian7tab
-74;;32r;Bergamasca;;;OT;Conc_45;C|;"[acdca1] [acd] | [cdd{a}1] [cdd] | [aacc,a1] [aac] | \
-[acdca1] ,,,c |";italian7tab
-75;;32v;Ballet;;;OT;Conc_3457;C;",d/ a | [cdda1] [acd,a] [,dda] f | [fdaa1] d/ c a ,d | \
-[,cd,a1] [,dda/] a c d [acd,a1] |";italian7tab
-76;;32v;[Pa]vane de Spagne;;;OT;Conc_4405;C;"[,dda] a b a/ ,d | [,cd,a1] ,d a ,d | [,c,,a1] ,d a ,c | \
-[,daa1] a [b,,a] a |";italian7tab
-77;;33r;Passamezo d'italie;;;OT;ConcR437;C;",,d/ ,a | [abd,a1] [,d,,a] [,b,,a/] ,a [,,d,a] ,,c | \
+74;;32r;Bergamasca;;;OT;Conc_45;C|;"[acdca1] [acd] | [cdd{a}] [cdd] | [aacc,a] [aac] | \
+[acdca] ,,,c || [acd,a1] [,d,,a] ,c | [,a,,,a] [,,d,,c] | \
+[,,d{a}] [,,c,,a] | [,,d,a] [acd,a] [,d,,a] a |";italian7tab
+75;;32v;Ballet;;;OT;Conc_3457;C;",d a | [cdda1] [acd,a] [,dda] f | [fdaa] d c a ,d | \
+[,cd,a] [,dda] a c d [acd,a] | [,dda,,a] ,,,,a ,,,a ||";italian7tab
+76;;32v;[Pa]vane despaigne;;;OT;Conc_4405;none;"[,dda] a b a ,d [,cd,a] ,d a ,d | [,c,,a] ,d a ,c | \
+[,daa] a [b,,a] a |";italian7tab
+77;;33r;Passamezo d'italie;;;OT;ConcR437;C;",,d ,a [abd,a1] [,d,,a] [,b,,a/] ,a [,,d,a] ,,c | \
 [,,d,a/] ,a [,b,,a] ,d [abd,a] ,a/4 ,b ,d ,b ,a ,,d |";italian7tab
-78;;34r;Quattre branle;;;OT;;C;"[,cd,a1] ,c/ ,a [,,d,a] ,,c ,,d ,a | \
-[,cd,a/] ,d a ,d [,cd,a1] [,ac,,a] | \
-[,dda1] ,c/ ,a [,,d,a] ,,c ,,d ,a |";italian7tab
-79;;34v;Passamezo;;;OT;;C|;",d/ a | [cdd,,a1] [cdd] | [cdd,,a/] d c a | [c,,a1] ,d/ a | \
-[c,,a/] [,d,,c] [a,,,d] [c,,a] |";italian7tab
-80;;35r;Gaillarde;;to Passamezzo;OT;ConcR2814;3;",d/ a | [cdda1] {a}/ d ,,a c | [,d,,c1] [a,,,d] [c,,a] | \
-[dab,,d1] ,,,a [dab] |";italian7tab
-81;;35v;Brant de bourgogne;;;OT;;C|;[,,d,a/] ,b [,a,a] ,,d | [,b,,a/] ,d [aac,,a1] | y y y y;italian7tab
-82;;37r;Gaillarde;;;OT;ConcR1581;3;"c/ d [fdda1] [h,,f] | [fdda3/2] d/ c1 | \
-[,ab,,d/] ,d [acdca] ,d a ,c |";italian7tab
-83;;37r;sans titre;;;OT;;C|;"[,,d,a/] ,a [,c,,a] ,d | [aac,,a/] ,,,c [aac] f | \
-[e,,,,a/] a [aaa,c] ,e | [aac,,a/] ,,,c [aac1] |";italian7tab
-84;;37v;[Gaillarde];;;OT;;3;",d/ a | [cdd{a}3/2] d/ f d | [c,,a/] a ,d ,b ,a ,,d | \
-[,ab,,d3/2] ,d/ a c |";italian7tab
-85;;37v;[Pass]amezo;;;OT;;C|;",d/ a | [cdd1] ,,,,a/ f | f/ d [c,,,a] a | \
-[cdd{a}/] ,,,,a ,,,a d |";italian7tab
-86;;38v;[Pava]ne [d'Es]pagne;;;OT;Conc_4343;C;[,d,,a/] a b d a1 ,d | [,cdca1] [,da,c] [,dba,d] [,cd,a] |;italian7tab
-87;;38v;[Cana]rio;;;OT;ConcR481;3;[,d{a}3/2] a/ c1 | ,,,,a3/2 a/ c1 | ,,,a1 d c |;italian7tab
-88;;39r;Courant;;;OT;;3;"f/ d | [cd,a2] [a,,,e1] | [,da,c2] [,da,c1] | [,aba,d2] ,,,a1 | \
-[,aba,d3/2] d/ c1 |";italian7tab
-89;;39r;[Cour]ant;;;OT;;3;"c/ | [cdda3/2] d/ [c,,a1] | [acd,a3/2] ,d/ a1 | \
-[,dda2] ,,,,,a1 |";italian7tab
-90;;39v;[T]ordigliono;;;OT;ConcR2812;C|;"[abdca1] ,,d/ ,a | [abdca1] [,da,c] | [,db,,d1] [,db,,d] | \
-[abdca1] ,,d/ a |";italian7tab
-91;;40r;Gaillard;;f. 40v empty;OT;ConcR2814;3;",d/ a | [cdda3/2] d/ ,,a c | [,d,,c1] [a,,,d] [c,,a] | \
-[dab,,d1] ,,,a [dab] |";italian7tab
-92;;41r;[S]pagnoletto;;;OT;Conc_4501;3;",,d/ ,a | [,bd,a3/2] ,a/ ,b1 | [,db,,d3/2] ,b/ ,d1 | \
-[ab,,d3/2] ,b/ ,d a |";italian7tab
-93;;41v;sans titre;;f. 42r empty;OT;;none;"[cdd] a [cdda] [dab,,d] ,,,,a [d,,,c] ,,,,e | \
-[cdda] c c [acd,a] [acd] | \
+78;;34r;Quattre branle;;;OT;;C;"[,cd,a] ,c ,a [,,d,a] ,,c ,,d ,a | \
+[,cd,a] ,d a ,d [,cd,a] [,ac,,a] | \
+[,dda] ,c/ ,a [,,d,a] ,,c ,,d ,a |";italian7tab
+79;;34v;Passamezo;;;OT;;C|;",d a | [cdd,,a] [cdd] | [cdd,,a] d c a | [c,,a] ,d a | \
+[c,,a] [,d,,c] [a,,,d] [c,,a] | [aab,,d] ,,,a [dab] ,,,,c |";italian7tab
+80;;35r;Gaillarde;;to Passamezzo;OT;ConcR2814;3;",d a | [cdda] {a} d ,,a c | [,d,,c] [a,,,d] [c,,a] | \
+[dab,,d] ,,,a [dab] | ,,,,a [dab,d] ,,,,e | \
+[cdda] {a} d [c,,a] |";italian7tab
+81;;35v;Brant de bourgogne;;;OT;;C|;"[,,d,a] ,b [,a,a] ,,d | [,b,,a] ,d [aac,,a] | \
+[aa,,,a] ,d ,c ,a [acd,a] ,,,c || [,,d,a] a [abd,a] ,d a |";italian7tab
+82;;37r;Gaillarde;;;OT;ConcR1581;3;"c d [fdda] [h,,f] [fdda] d c [,ab,,d] ,d [acdca] ,d a ,c [cdda] || \
+,,a ,,b [,,d,a] ,a";italian7tab
+83;;37r;sans titre;;;OT;;C|;"[,,d,a] ,a [,c,,a] ,d | [aac,,a] ,,,c [aac] f | \
+[e,,,,a] a [aaa,c] ,e | [aac,,a] ,,,c [aac] | \
+[,d,a] ,c [,a,,,a] ,,c [,,d,a] ,a [,c,,a] ,,d |";italian7tab
+84;;37v;[Gaillarde];;;OT;ConcR3654;3;",d a | [cdd{a}] d f d | [c,,a] a ,d ,b ,a ,,d | \
+[,ab,,d] ,d a c | d c [acd,a] f |";italian7tab
+85;;37v;[Pass]amezo;;;OT;;C|;",d a | [cdd] ,,,,a f | f d [c,,,a] a | \
+[cdd{a}] ,,,,a ,,,a d | [c,,a] a [,daa{a}] ,b [,ab,,d] ,,,a";italian7tab
+86;;38v;[Pava]ne [d'Es]pagne;;;OT;Conc_4343;none;"[,d,,a] a b d a ,d [,cdca] [,da,c] [,dba,d] [,cd,a] [,d,a] a b a \
+[,dda] [f,,a] d b [ab,,d] ,b ,,,,d";italian7tab
+87;;38v;[Cana]rio;;;OT;ConcR481;3;"[,d{a}1] a c | ,,,,a a c | ,,,a d c || [aca,a1] ,,,c | \
+,d a c | ,,,,a a c | ,,,a d c |";italian7tab
+88;;39r;Courant;;;OT;;3;"f d | [cd,a] [a,,,e] | [,da,c] [,da,c] | [,aba,d] ,,,a | \
+[,aba,d] d c | [a,,,d] c a | [,,d,a] ,a ,,d | \
+[,cd,a] ,,,c [acd,a] ||";italian7tab
+89;;39r;[Cour]ant;;;OT;;3;"c | [cdda] d [c,,a] | [acd,a] ,d a | [,dda] ,,,,,a | \
+,d a c d | [f,,a] d f | [da,c] c d |";italian7tab
+90;;39v;[T]ordigliono;;;OT;ConcR2812;C|;"[abdca] ,,d ,a | [abdca] [,da,c] | [,db,,d] [,db,,d] | \
+[abdca] ,,d a | ,d ,b ,a ,,a [aacc,a] [aac] | \
+[abb,d] [abb] ,,,,c |";italian7tab
+91;;40r;Gaillard;;f. 40v empty;OT;ConcR2814;3;",d a | [cdda] d ,,a c | [,d,,c] [a,,,d] [c,,a] | \
+[dab,,d] ,,,a [dab] | ,,,,a [dab,c] ,,,,e | \
+[cdda] {a} d [c,,,a] |";italian7tab
+92;;41r;[S]pagnoletto;;;OT;Conc_4501;3;",,d ,a | [,bd,a] ,a ,b | [,db,,d] ,b ,d | \
+[ab,,d] ,b ,d a | [bd,a] [aa,c] [,bcd] [,dff] | \
+[ab,,d] [ab] ||";italian7tab
+93;;41v;[unreadable];;f. 42r empty;OT;;none;"[cdd] a [cdda] [dab,,d] ,,,,a [d,,,c] ,,,,e | \
+[cdda] a c [acd,a] [add] | \
 [c,,,,c] d [f,,,,a] [d,,,,a] ,,,,,c ,,,,,d ,,,,a |";italian7tab
 94;;42v;[Bou]ffons;;;OT;ConcR829;none;"[,,d,a] ,a [,bd,a] ,,d [,aba,d] [,ab] ,,,a [,aba,d] | \
 [,,d,a] ,a ,b [,a,a] ,,d ,,c ,,a [aac,,a] [aac] ,,,c [aac,,a] |";italian7tab
