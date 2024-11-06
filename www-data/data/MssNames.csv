@@ -59,7 +59,7 @@ A-M1840;A-M;Ms. VI-1840;Melk, Benediktiner-Stift Melk, Bibliothek;;;;;;;;MA,EN,F
 A-M1987;A-M;Ms. VI-1987;Melk, Benediktiner-Stift Melk, Bibliothek;;;;;;;;MA,EN,FTab
 A-ROI;A-RO;Lauten-Ms. 1;Rohrau, Graf Harrach'sche Familiensammlung;Weiss Sylvio - Lautenmusik;;;Weiss Sylvio - Lute music;Salzburg;;;BL,FTab
 A-ROII;A-RO;Lauten-Ms. 2;Rohrau, Graf Harrach'sche Familiensammlung;Lautenmusik von unbekannten Componisten;;;Lute music from unknown composers;Salzburg;;;BL,FTab,ITab
-A-SaeMus17;A-Sae;Mus. Ms. 17;Salzburg, Archiv der Erzdiözese Salzburg;Codex Mondsee;»Conscripsit Frater Caelestinus Rohrmoser Professus Lunaelacensis ~ 1730«;»Conscripsit Frater Caelestinus Rohrmoser Professus Lunaelacensis ~ 1730«;Codex Mondsee;Kloster Mondsee;1730;;MA,FTab
+A-SaeMus17;A-Sae;Mus. Ms. 1 (Zimelien 17);Salzburg, Archiv der Erzdiözese Salzburg;Codex Mondsee;»Conscripsit Frater Caelestinus Rohrmoser Professus Lunaelacensis ~ 1730«;»Conscripsit Frater Caelestinus Rohrmoser Professus Lunaelacensis ~ 1730«;Codex Mondsee;Kloster Mondsee;1730;;MA,FTab
 A-Su;A-Su;ms. codex M.III.25;Salzburg, Universitätsbibliothek;;;;;;;;BL,FTab
 A-SB1732;A-SB;Ms. 1732;Stift Schlierbach;;;;;;1732-33;;MA,FTab
 A-SEI;A-SEI;ms. sans cote;Seitenstetten, Stiftsbibliothek;;;;;;;;BL,FTab
@@ -494,7 +494,7 @@ F-Pn6222;F-Pn;Rés Vm7 ms. 6222;Paris, Bibliothèque National;;;;;;1715-1720;https
 F-PnRothschild_I_411;F-Pn;Rothschild, I, 411;Paris, Bibliothèque National;;;;;;;;CT,FTab
 F-PnThI;F-Pn;Rés. Vma ms. 1213 (olim: Bibl. Mad. Thibault);Paris, Bibliothèque National;Weiss à Rome;Titelseite verwechselt mit F-PnThII;Titelpage taken from F-PnThII;Weiss à Rome;Bibl. Mad. Thibault;> 1740;https://gallica.bnf.fr/ark:/12148/btv1b10020231q;BL,FTab
 F-PnThII;F-Pn;Rés. Vmc ms. 61 (olim: Bibl. Mad. Thibault);Paris, Bibliothèque National;In Venetiis 7.7br.1712;Titelseite verwechselt mit F-PnThI;Titelpage taken from F-PnThI;In Venetiis 7.7br.1712;Bibl. Mad. Thibault;around 1712;https://gallica.bnf.fr/ark:/12148/btv1b52511501b;BL,FTab
-F-PnVm7-370;F-Pn;Rés Vm7 ms. 370;Paris, Bibliothèque Nationale, Département de la musique;Ms Seb. Brossard;;;Ms Seb. Brossard;;;;BL,FTab
+F-PnVm7-370;F-Pn;Rés Vm7 ms. 370;Paris, Bibliothèque Nationale, Département de la musique;Ms Seb. Brossard;;;Ms Seb. Brossard;;;https://gallica.bnf.fr/ark:/12148/btv1b52524166w;BL,FTab
 F-PnVm7-6265;F-Pn;Rés Vm7 ms. 6265;Paris, Bibliothèque Nationale, Département de la musique;Ms. Falconet;;;;;;https://gallica.bnf.fr/ark:/12148/btv1b52518177t;TH,BL,FTab
 F-PnVm7-675;F-Pn;Rés Vm7 ms. 675;Paris, Bibliothèque Nationale, Département de la musique;;;;;;;https://gallica.bnf.fr/ark:/12148/btv1b10545925g;BG,BL,FTab
 F-PnVmb7;F-Pn;Rés. Vmb. ms. 7;Paris, Bibliothèque Nationale, Département de la musique;Ms. Barbe;;;Ms. Barbe;;;http://gallica.bnf.fr/ark:/12148/btv1b530592353;BL,FTab
@@ -583,7 +583,7 @@ GB-LblRA58;GB-Lbl;Royal Appendix 58;London, The British Library;;;;;;1530;http:/
 GB-LblStowe389;GB-Lbl;Ms. Stowe 389;London, The British Library;;;;;;1558;;RL,FTab
 GB-LbmBotnia;GB-Lbl;Add. Ms. 16889;London, The British Library;Botnia manuscript;Andere Seiten enthalten Bilder oder Texte;Other pages contain text or pictures;;;;;BL,FTab
 GB-LblSloane1021;GB-Lbl;Ms. Sloane 1021;London, The British Library;Stammbuch;Das Manuskript wurde fälschlicherweise Stobaeus zugeschrieben, weil seine Unterschrift darin an einer Stelle auftaucht.;The manuscript has been ascribed wrongly to Stobaeus, as he signed on one place.;Liber Amicorum;;1635;;RL,FTab
-GB-LbmSloane;GB-Lbl;Ms. Sloane 2923;London, The British Library;Sloane Manuskript;;;Sloane Lutebook;;;;BL,FTab
+GB-LblSloane2923;GB-Lbl;Ms. Sloane 2923;London, The British Library;Sloane Manuskript;;;Sloane Lutebook;;;;BL,FTab
 GB-LnaC108.63;GB-Lna;box C/108/63 (fragment);London, The National Archives;;;;The Lute, vol XLVIII, pp. 58-70;;ca. 1670;;BL,FTab
 GB-Lwa105;GB-Lwa;Ms. 105;London, Westminster Abbey Library, Ms 105;;;single leaf of lute tablature;;;ca. 1615;;RL,FTab
 GB-Mr;GB-Mr;ms. s.c.;Manchester, John Rylands Library;Tabley Lutebook;;;;;;https://luna.manchester.ac.uk/luna/servlet/media/book/showBook/Manchester~91~1~433323~222201;BL,FTab
@@ -783,7 +783,7 @@ NewsidlerM1566-1;;Intabolatvra di Livto di Melchior Neys[i]dler. Il Primo Libro;
 NewsidlerM1566-2;;Intabolatvra di Livto di Melchior Neysidler. Il Secondo Libro ;;;;;;;1566;https://purl.org/rism/BI/1566/30;Print,RL,ITab
 NewsidlerM1573;;Melchior Newsidler: Tabvlatvrae continens preaestantissimas e selectissimas quasque cantiones, in usum Testudinis, à Melchiore Neusydler Italice inuulgatas, Nunc types germanicis redditas: per Benedictum de Drusina;;;Intavolatura Liuto von Melchior Neusidler von 1566, beide Bände von der italienischen in die deutsche Tabulatur übertragen von Benedikt Drusina ;Intavolatura Liuto by Melchior Neusidler from 1566, both volumes translated from Italian to German tablature by Benedikt Drusina ;;;1573;https://digital.blb-karlsruhe.de/id/1176874;Print,RL,DTab
 NewsidlerM1574;;Melchior Newsidler: Teütsch Lautenbuch Darinnenn kunstliche Muteten, liebliche Italianische, Frantzösische, Teütsche Stuck, fröliche Teütsche Täntz, Passo e mezo, Saltarelle, vnd drei Fantaseien Alles mit fleiß außgesetzt, auch artlich vnd zierlich Coloriert durch Melchior Newsidler, Burger vnd Lautenist in Augspurg.;;;;;;;1574;https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00047078-9;Print,RL,DTab
-NL-At;NL-At;Ms. 205.B.32;Amsterdam, Toonkunst-Bibliotheek;In RISM VIII ohne siglum aufgeführt;;;;;1660-1680;;BL,FTab
+NL-At;NL-At;Ms. 205.B.32;Amsterdam, Toonkunst-Bibliotheek, part of Allard Pierson Collection, Universiteit van Amsterdam;In RISM VIII ohne siglum aufgeführt;;;;;1660-1680;;BL,FTab
 NL-At.208.A.27;NL-At;Ms. 208.A.27;Amsterdam, Toonkunst-Bibliotheek;;Dieses Manuskript gehörte ursprünglich mit CH-BuF.X.39 zusammen.;Originally this manuscript belonged together with CH-BuF.X.39;;;;;RL,DTab
 NL-DHnmi50535;NL-DHnmi;ms. 50.535;Den Haag, Haags Gemeentemuseum / Nederlands Muziekinstituut;Suite à Luthe Solo / par Kühnel;Kühnel ;Kühnel ;Suite à Luthe Solo / par Kühnel;Harrach;;;BL,FTab
 NL-DHnmi50536;NL-DHnmi;ms. 50.536;Den Haag, Haags Gemeentemuseum / Nederlands Muziekinstituut;Concerto a Liuto / Violino / et Basso / Sigre Kühnold;Kühnel;Kühnel;Concerto a Liuto / Violino / et Basso / Sigre Kühnold;Harrach;;;BL,FTab
