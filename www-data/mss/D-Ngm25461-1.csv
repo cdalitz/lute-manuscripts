@@ -25,7 +25,7 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
 {,a}/ e {,,a} c {,,,a} a | \
 {4}/ a (,c ,a) [,,#d1] |: \
 ""bis""{,a}/ ,,a {a} ,,b ,,,,,a ,,d :| "
-6;F dur;5r;Polonoise;;NOTO;;;3/4;"[ad{,a}/] (e/4 a) c/ c/4 ,c V,d1 | \
+6;F dur;5r;Polonoise;;;;;3/4;"[ad{,a}/] (e/4 a) c/ c/4 ,c V,d1 | \
 [,,d,,a/] (,,b/4 ,,a) ([,,b{a}/] ,,a/4) ,,,c [,,a{,a}1] | \
 {5}/ ,a (f e) ,f a | \
 [,'c{4}/] (,a/4 ,c) ,,d1 ,,,,,d | "
@@ -43,7 +43,7 @@ V,,i/ ,,,h {,a} ,,,h | "
 [,,,a{,a}/4] ,,,,c ,,,a ,,,c [,,aa{,a}] [,,,cc] [,aa] [,,bc] | \
 [,,de{,a}/] [,,aa] [aa/4] [,ab] [aa] [,ab] | \
 [aa/] {5}/4 [,ab] [,,de{4}] [,,bc] [,,aa{4}] [,,,cc] | "
-10;C dur;6v;[Aria];;"British national anthem ""God save our gracious Queen""";;;3;"[,,ddcc1] [,,ddcc] [,aaa] | \
+10;C dur;6v;[Aria];;"British national anthem ""God save our gracious Queen""; ff. 7r-7v empty";;;3;"[,,ddcc1] [,,ddcc] [,aaa] | \
 [,,caa3/2] [,,dc/] [,aca1] | \
 [,cdc1] [,cda] [a,de] | \
 [,cdc3/2] [,aaa/] [,,dcc1] | \
@@ -58,7 +58,7 @@ V,,i/ ,,,h {,a} ,,,h | "
 [h{4}1] [,fg] [,fh{4}] [,fh] | \
 [,,hh{4}/] [aa] [cc] [ed] [cc{4}1] [cc/] [aa] | \
 [,cd{4}1] [,cd/] [aa] [,a,c{4}1] [,a,c/] ,c | "
-13;c moll;8v;Mineur;;;;;C;"c1 | \
+13;c moll;8v;Mineur;;ff. 9v-12v empty;;;C;"c1 | \
 ([,b{4}/] ,a) ,b a [,b{4}] ,a ,,d ,,c | \
 V[,,d{4}1] ,,,c [,,,c{4}] ,b | \
 [,,d{4}1] ,b [,,d{4}] ,b | \
@@ -68,7 +68,7 @@ V[,,d{4}1] ,,,c [,,,c{4}] ,b | \
 [,ab{5}/] [,ab] [,ab{d}] [,,b,a] [,,d,b{,a}] [,,a,,d] | \
 [,,b,a{5}/] [aa] [aa{5}] [,bd] [,bd{,a}] [,ab] | \
 [,ab{5}1] [,,de{,a}] z/ ::"
-15;B dur;13r;sans titre;;;;;2/4;"[f{5}1] [a{5}/4] (,b ,a) ,,d | \
+15;B dur;13r;[sans titre];;;;;2/4;"[f{5}1] [a{5}/4] (,b ,a) ,,d | \
 [,,b{5}/] [,,,a] ,,,,,b ,,,a | \
 [,a{5}/] ,a [,b{5}] ,b | \
 [a{5}/4] (c a) ,b [,a{5}1] | \
@@ -78,7 +78,13 @@ V[,,d{4}1] ,,,c [,,,c{4}] ,b | \
 [,df{5}/] {5} [fa{5}] {5} | \
 ([aa{,a}/4] c a) ,b [,a{5}1] :||: \
 [c{,,a}/] ,b [,b{,,a}/4] (a c) ,b | "
-17;B dur;14v;Angloise;;;;;2/4;"([,,'b{5}/4] ,,a ,,b ,,d) [,a{5}/] z/ | \
+17;B dur;14v;Angloise;;ff. 15r-41v empty;;;2/4;"([,,'b{5}/4] ,,a ,,b ,,d) [,a{5}/] z/ | \
 ([,,'b{5}/4] ,,a ,,b ,,d) [,a{5}/] z/ | \
 [,bd{,a}/] [,bd] [,,de{,a}] [,,de] | \
 ([,,b{,a}/4] ,,a ,,b ,,d) [,a{,a}/] ,,d | "
+18;G dur;42r;[Der Vogelfanger bin ich ja: from Il Flauto Magico];W.A. Mozart;ff. 42v-43r empty;;;2/4;"[g,,g/] g/4 ,h | [,f{a}/] ,f ,f ,e/4 ,f | \
+[,he{,,,a}/] [gf] [he{,,,a}] ,h/4 ,,e | \
+,a3/4 ,a/4 k3/4 k/4 | \
+g/ ,a [,f,g3/4] [gf/4] |"
+19;F dur;43v;[sans titre];;;;;3/8;",,d | [,,d{,a}3/4] ,,a/4 [,,,a{,a}/] | [,,,c{,a}/] ,,,a ,,a | \
+,,d3/4 ,,a/4 ,,,a/ | [,,,,,d{4}1] ,,,c/ | ,,,a/ ,,,a ,,,c | ,,a1 ,,,c/ |"

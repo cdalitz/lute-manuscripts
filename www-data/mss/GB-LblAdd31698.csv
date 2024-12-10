@@ -1,10 +1,10 @@
 PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
-1;B dur;3v;sans titre;;;;;C;"[,aba{5}1] [a,ba{,,,a}] [,baa{4}] [,baa{,a}] | \
+1;B dur;3v;[sans titre];;;;;C;"[,aba{5}1] [a,ba{,,,a}] [,baa{4}] [,baa{,a}] | \
 ""pia""[,aba{5}1] [a,ba{,,,a}] [,baa{4}] [,baa{,a}] | \
 ""for""[,aba{5}1] V[,,baa{5}] [,aba{5}] [aab{5}] | \
 [ddf{5}1] [ddb{,,,a}] [ddb{,,a}] [cbb{,,a}] | \
 ""pia""[,,,da{5}1] [,,,dd{,,,a}] [,,,dd{,,a}] [,,,'cb{,,a}] | "
-2;B dur;4r;sans titre;;;;;C;"[,,baa{5}/] {4} | \
+2;B dur;4r;[sans titre];;;;;C;"[,,baa{5}/] {4} | \
 V[,,ba{,,,a}/] {5} [,,da,a] {,a} [aba{d}1] [,,dc{,,a}/] \
 [,aca{,,,a}] | \
 [,b(b{4}/] [,,a)] [,aba{5}1] [,,dc{,,a}] [,,'de{,a}3/4] \
@@ -25,23 +25,23 @@ V[,,ba{,,,a}/] {5} [,,da,a] {,a} [aba{d}1] [,,dc{,,a}/] \
 [,,dcb{5}] [,,dcb{5}] | \
 [,aba{5}1] [,aba{5}] [,abd{5}] [,abd{5}] | \
 [,bbc{5}1] [,bbc{5}] [,baa{5}] [,baa{5}] | "
-6;B dur;5v;prel;;pp 7r-9r Staff for Theorboe Lute;;;C;"{5}/4 ,,,,a ,,,a ,,,,a {5} ,,,,a ,,,a ,,,,a {5} ,,,a ,,b ,,,a \
+6;B dur;5v;prel;;[Copied] - pp 7r-9r Staff for Theorboe Lute;;;C;"{5}/4 ,,,,a ,,,a ,,,,a {5} ,,,,a ,,,a ,,,,a {5} ,,,a ,,b ,,,a \
 {5} ,,,a ,,b ,,,a | \
 {5}/4 ,,b ,a ,,b {5} ,,b ,a ,,b {5} ,a a ,a {5} ,a a ,a | "
-7;B dur;10r;Lovely Nancy with var;;;;;3/4;",a3/4 ,,d/4 | \
+7;B dur;10r;Lovely Nancy with var;;4 variations - var 2 is missing in original;;;3/4;",a3/4 ,,d/4 | \
 [,,b,a{5}1] [,,'ba{,,,a}] [,,b,a{5}3/4] ,a/4 | \
 [,,d{,a}1] [,,da,a] [,,d{,a}3/4] ,b/4 | \
 [,'a{5}1] ([f{,,,a}3/4] a/4) ([,b{,,a}3/4] ,a/4) | \
 [,,f{,a}1] [,,'d] ,a3/4 ,,d/4 | \
 [,,b,a{5}1] [,,'ba{,,,a}] [,,b,a{5}3/4] ,a/4 | "
-8;B dur;11r;sans titre;;;;Conc_1833;C;"[aa{5}1] ,a/ c [,,d{,a}1] {6}/ ,b | \
+8;B dur;11r;[sans titre];;"f. 11v empty; f.12r tuning";;Conc_1833;C;"[aa{5}1] ,a/ c [,,d{,a}1] {6}/ ,b | \
 [,a{5}/] ,,b [,,,c{,,a}] ,,d ([,,'b{,a}] ,,a) [,,,c{,,a}] ,,,a | \
 [,,ba{,,,a}1] [,,bc{,,a}] [,,'ba{,,,a}/] ,,d [,a{5}] [,b{4}] | "
 9;B dur;12v;Men;;;;;3/4;"[aa{5}3/4] (f/4 a1) ,b | \
 (3[,a{5}/] ,b ,d) [,'a{,a}1] [,,d{,,a}] | \
 [,,'b{,,,a}/] ,,,a [,,,c{,,a}] ,b ([,,d{,a}] ,,a) | \
 V,,b1 {5} a/ ,a | "
-10;B dur;13r;sans titre;;;;Conc_1833;C;"[aab{5}1] ,a/ [c,b{,,a}] [,,d{,a}1] {6}/ [,bda] | \
+10;B dur;13r;[sans titre];;[Copied 1813];;Conc_1833;C;"[aab{5}1] ,a/ [c,b{,,a}] [,,d{,a}1] {6}/ [,bda] | \
 [,a{5}/] ,,b [,,,c{,,a}] ,,d ([,,'b{,a}] ,,a) \
 ([,,,c{,,a}] ,,,a) | \
 V[,,ba{,,,a}1] [,,bc{,,a}] [,,'ba{,,,a}3/4] ,,d/4 \
@@ -50,22 +50,22 @@ V[,,ba{,,,a}1] [,,bc{,,a}] [,,'ba{,,,a}3/4] ,,d/4 \
 [,,b)1] {d} {d} ,,,a/ (,,,,b | \
 ,,,,a/) ,,,a ,,b1 [,,'ba{,,,a}] (3,a/ [,,(d] [,,b)]) | \
 [,,da{6}1] ,,,,,d ,,,,,d (,,d/ ,,b) | "
-12;B dur;14r;Giga;;;;;6/8;"{5}/ ,,,a ,,b ,a ,,b ,,,a | \
+12;B dur;14r;Giga;;[Copied May 1813] - f. 14v empty;;;6/8;"{5}/ ,,,a ,,b ,a ,,b ,,,a | \
 {6}/ ,,,a ,,d ,b ,,d ,,,a | \
 {5}/ ,,,a ,,b ,a ,,b ,,,a | \
 [,,d{,a}1] ,,,a/ [,,,'a1] {a}/ | \
 ,,,,,a/ ,,d ,,,a ([,b{,a}] ,a) ,,d | "
-13;B dur;15r;Menuet;;;;;3/4;"[,,baa{5}1] {d} [,,,'a] | \
+13;B dur;15r;Menuet;;f. 15v empty;;;3/4;"[,,baa{5}1] {d} [,,,'a] | \
 [aab{5}1] {d} ,a/ ,,b | \
 [,,'a{,,a}/] ,,,c [,b{4}] ,,d [,a{,,a}] ,,b | \
 [,,b{,a}1] [,,'a{,,a}3/4] ,,,c/8 ,,a [,,ba{,,,a}1] | \
 [,,,'a,a1] {,a} ,b/ ,,d | "
-14;B dur;16r;[M]en;;;;Conc_882;3/4;"[aab{5}1] [a,('b/] [,,a)] [c,b1] | \
+14;B dur;16r;[M]en;;f. 16v empty;;Conc_882;3/4;"[aab{5}1] [a,('b/] [,,a)] [c,b1] | \
 [c,b{,,a}1] [c,('b/] [,,a)] [c,b1] | \
 [,,d{,a}1] ,,d/ (,a ,b) a | \
 [,'a,a{5}1] ,,d/ ,a [,,'b1] | \
 ""pia""[aab{5}1] [a,('b/] [,,a)] [a,b1] | "
-15;B dur;16v;Fantasie;;;;;C;"[,,baa{5}1] [,,aab{4}] [,,ba{,,,a}] [,,da,a] [,baa{,a}] \
+15;B dur;16v;Fantasie;;f. 17v empty;;;C;"[,,baa{5}1] [,,aab{4}] [,,ba{,,,a}] [,,da,a] [,baa{,a}] \
 [,aba{d}] [,aba{,b}] [,bbc{a}] [aabaa{,,,a}2] \
 ,/8 (,b/8 ,a) (,,d ,,b ,,a ,,b) (,,,a ,,,c) (,,a ,,b ,,d) \
 (,a ,b) a ,f e #f3/2 a/ ,a a ,,b ,a ,,,a ,,b ,,,,a ,,,a"
@@ -77,44 +77,44 @@ f1 f [,b{,a}] | \
 [,,da,a1] {,a} [,a{d}] | \
 [,b,,,d1] {,a} [,a{d}] | \
 [,,da,a1] [,,da{,a}] [,a,a{d}] | "
-17;B dur;18r;sans titre;;fragment;;;C;"[,,baa{5}1] [,,baa{5}] [,,dcb{5}] [,,dcb{5}] | \
+17;B dur;18r;[Fragment- exercise?];;f. 18v empty;;;C;"[,,baa{5}1] [,,baa{5}] [,,dcb{5}] [,,dcb{5}] | \
 [,aba{5}1] [,aba{5}] [,abd{5}] [,abd{5}] | \
 [,bbc{5}1] [,bbc{5}] [,baa{5}] [,baa{5}] | \
 [,aba{5}1] [,aba{5}] [aab{5}] [aab{5}] | "
-18;B dur;19r;sans titre;;;;;2/4;"[aab{5}1] (c/4 a) (,b ,a) | \
+18;B dur;19r;Allegro;;f. 20r staff;;;2/4;"[aab{5}1] (c/4 a) (,b ,a) | \
 ([c,b{,,a}/] a) ['a,b{,,,a}1] | \
 ([,b{4}/4] ,a) ,,d ,a ([,b{,,,a}] ,a) ([,,d{,,a}] ,,b) | \
 [,,'a{,a}/] ,,,c/4 ,,a ,,,a/ [,,ba{,,,a}] | \
 {,,a}/4 ,,b ,,,c ,,b {,,,a} ,,b ,,,a ,,b"
-19;B dur;20v;[Gigue];;;;;6/4;",,b/ a | \
+19;B dur;20v;[Gigue];;;;;3/4;",,b/ a | \
 [a{5}/] ,b ,a [,a{5}] ,,d ,,b | \
 [,,b{5}/] ,,a ,,,c [,,,a{5}1] ,,b/ | \
 [,,b{5}/] ,,a ,,,c [,,,a{5}1] ,,b/ | \
 [,a{,a}3/2] ,,d/ ,,b a | \
 [a{5}/] ,b ,a [,a{5}] ,,d ,,b | "
-20;B dur;21r;sans titre;;;;Conc_1833;3/4;"{5}/ (,,b ,,a ,,b) {6} ,,d | \
+20;B dur;21r;[sans titre];;;;Conc_1833;3/4;"{5}/ (,,b ,,a ,,b) {6} ,,d | \
 {5}/ ,a ,,b ,a {4} ,b | \
 {,,,a}/ a {4} ,b {5} ,a | \
 ([,,d{,a}/] ,,b ,,a) ,,,c ,,a ,,,a | \
 {5}/ (,,b ,,a ,,b) {6} ,,d | "
-21;B dur;21r;sans titre;;;;Conc_1833;3/4;"{5}/4 ,,b ,,,,a ,,b {,,,a} ,,b ,,,a ,,b {6} ,,d ,,,a ,,d | \
+21;B dur;21r;[sans titre];;;;Conc_1833;3/4;"{5}/4 ,,b ,,,,a ,,b {,,,a} ,,b ,,,a ,,b {6} ,,d ,,,a ,,d | \
 ""arpeg""[,a,a{5}1] [,a,a{5}] [,ba{4}] | \
 [a,b{,,,a}1] [,ba{4}] [,a,a{5}] | \
 [,,d{,a}/4] ,a (,,d ,,b ,,a) (,,b ,,a) (,,,c ,,,a) \
 (,,,,b ,,,,a) ,,,,,d | "
-22;B dur;21r;sans titre;;;;Conc_1833;3/4;"[,,baa{5}1] [,,ba{,,,a}] [,,da{6}] | \
+22;B dur;21r;[sans titre];;f. 21v empty;;Conc_1833;3/4;"[,,baa{5}1] [,,ba{,,,a}] [,,da{6}] | \
 [,a,a{5}1] [,aba{5}] [,baa{4}] | \
 [a,ba{,,,a}1] [,baa{4}] [,aba{5}] | \
 [,,d{a}/4] ,a (,,d ,,b) (,,a ,,b ,,a) (,,,c \
 ,,,a) (,,,,b ,,,,a) ,,,,,d | "
-23;B dur;22r;sans titre;;;;Conc_1834;C;",,b/4 ,a a ,a ,,a ,,d a ,,d ,,b ,a a ,a ,,,c ,,b ,c ,,b | \
+23;B dur;22r;[sans titre];;;;Conc_1834;C;",,b/4 ,a a ,a ,,a ,,d a ,,d ,,b ,a a ,a ,,,c ,,b ,c ,,b | \
 ,,,a/4 ,,a a ,,a ,,,,b ,,a a ,,a ,,,,a ,,b a ,,b \
 ,,,,,b ,,b a ,,b | "
-24;B dur;22v;sans titre;;;;Conc_1834;C;",,,,,b/4 ,a a ,a ,,,,,a ,,d a ,,d ,,,,,b ,a a ,a \
+24;B dur;22v;[sans titre];;;;Conc_1834;C;",,,,,b/4 ,a a ,a ,,,,,a ,,d a ,,d ,,,,,b ,a a ,a \
 {a} ,,b ,c ,,b | \
 {,a}/4 ,,a a ,,a {,,a} ,,a a ,,a {,,,a} ,,b a ,,b \
 {5} ,,b a ,,b | "
-25;B dur;23r;Allegretto;;;;;2/4;"{d}/4 ,,,,a ,,,a ,,b ,a a (,b ,a) | \
+25;B dur;23r;Allegretto;;f. 23v staff;;;2/4;"{d}/4 ,,,,a ,,,a ,,b ,a a (,b ,a) | \
 [,,da,a/] {a} {,a}1 | \
 {4}/4 ,,,,a ,,,a ,,b ,a a (,b ,a) | \
 [,,da,a/] {a} {,a}1 | \
@@ -129,55 +129,55 @@ f1 f [,b{,a}] | \
 ,,,,,a/ a ,,,,,d a {,a} a | \
 [,,e{d}/] a ,b ,,e (,,d ,,b) | \
 ([,,a{,a}/] ,,b) (,,d ,,a) [,,,'a1] | "
-28;B dur;24r;[Double];;of 'Men con Var'?;;;3/4;"{5}1 (3{5} ,a a) (3{5} ,b c) | \
+28;B dur;24r;[Var];;see 'Men con Var';;;3/4;"{5}1 (3{5} ,a a) (3{5} ,b c) | \
 (3{5}/ ,a a) ,f/ e (e f) | \
 {5}1 (3{5}/ ,a a) (3{5} ,b c) | \
 (3{5}/ ,a a) ,f/ e (e f) | "
-29;F dur;24v;sans titre;;;;;3/4;"([,,d{,a}3/4] ,,a/4) {,a}1 z/ z/4 [,,da{6}/] | \
+29;F dur;24v;[sans titre];;;;;3/4;"([,,d{,a}3/4] ,,a/4) {,a}1 z/ z/4 [,,da{6}/] | \
 [,a,a{5}3/4] ,,d/4 [,,de{,a}1] z/ z/4 a/4 | \
 ([,,'bc{,,a}3/4] ,,a/4) [,,'aa{,a}1] z/ z/4 [,,b{5}/4] | \
 [,,a{5}/] ,,,c [,,,'a{6}1] z/ z/4 ,,d/ | \
 [,a,a{5}3/4] ,,d/4 [,,da{,a}1]"
-30;B dur;25v;sans titre;;;;Conc_3856;3/4;"{a}/ ,a ,,,,,b ,a {a} ,a | \
+30;B dur;25v;[Menuet];;[Copied];;Conc_3856;3/4;"{a}/ ,a ,,,,,b ,a {a} ,a | \
 {,b}/ ,a (,,d ,,b) [,,'a] ,,,c | \
 ([,,,b{,,,a}/] ,,,c) ,,a ,,,b [,,,,'a1] | \
 ,,,,,d/ ,b ,,,,,a ,b {,a} ,b | "
-31;B dur;26r;[Alleg]ro;A.Falckenhagen;;;Conc_1076;2/4;"#f1 a | \
+31;B dur;26r;[Alleg]ro;A.Falckenhagen;f. 26v empty;;Conc_1076;2/4;"#f1 a | \
 (3[,a{5}/] a ,a) [,,'b1] | \
 [,,d{,a}/] ,a ([,b{,a}] ,a/4) ,,d | \
 [,a{5}/] a [,,'b1] | \
 ""pia""(3{,a}/ ,,d ,a) (3[,(b] [,a)] ,,d) | \
 [,a{d}/] a [,,'b1] | \
 ""for""{a}/ ,b ([,'b{,a}] ,a) | "
-32;B dur;27r;sans titre;;;;;C;",,,b/4 ,,a ,a ,,a ,,,a ,,,d ,a ,,,d ,,,b ,,a ,a ,,a \
+32;B dur;27r;[sans titre];;ff. 27v-28r empty;;Conc_1834;C;",,,b/4 ,,a ,a ,,a ,,,a ,,,d ,a ,,,d ,,,b ,,a ,a ,,a \
 ,,,,c ,,,b ,,c ,,,b | \
 ,,,a/4 ,,a a ,,a ,,,,b ,,a a ,,a ,,,,a ,,b a ,,b \
 ,,,,,b ,,b a ,,b | "
-33;B dur;28v;sans titre;;fragment;;;C;"[abb{5}1] [aab{5}] [,aba{5}] [,aba{5}] | \
+33;B dur;28v;[fragment];;f. 29r empty;;;C;"[abb{5}1] [aab{5}] [,aba{5}] [,aba{5}] | \
 [,baa{,a}1] [,baa{,a}] [,bda,a] [,baa{,a}] | \
 [,aba{5}1] [,aba{5}] [,baa{4}] [,baa{4}] | \
 [,aba{,,,a}1] [,aba{,,,a}] [,,dcb{,,a}] [,,dcb{,,a}] | "
-34;B dur;29v;sans titre;;;;;C;"[,a,,,b1] ,,b [,a,,,b] [a{,a}] | \
+34;B dur;29v;[sans titre];;;;;C;"[,a,,,b1] ,,b [,a,,,b] [a{,a}] | \
 [a{a}1] [,b{4}] [,a{,a}] {5} | \
 [,a{,,a}1] ,,d/ ,,b [,,a{,,a}] b [,,b{,,,a}] [,,d{,,a}] | \
 [,,d{,a}3/2] ,,b/ [,,b{5}2] | \
 [,a{5}1] [c,,,,b] ,c [a,,,,a] | "
-35;B dur;30r;sans titre;;;;Conc_1833;3/4;"{5}/ ,,b ,,a ,,b {6} ,,d | \
+35;B dur;30r;[sans titre];;;;Conc_1833;3/4;"{5}/ ,,b ,,a ,,b {6} ,,d | \
 {5}/ ,d ,b ,a {4} ,b | \
 {,,a}/ a {4} ,b {5} ,a | \
 ([,,d{,a}/] ,,b ,,a) ,,,c ,,a ,,,a | \
-{5}/ (,,b ,,a ,,b {6} ,,d | "
-36;B dur;30r;sans titre;;;;;3/4;"{5}/4 ,,b ,,,,a ,,b {,,,a} ,,b ,,,a ,,b {6} ,,d ,,,a ,,d | \
+{5}/ (,,b ,,a ,,b) {6} ,,d | "
+36;B dur;30r;[sans titre];;f. 30v empty;;Conc_1833;3/4;"{5}/4 ,,b ,,,,a ,,b {,,,a} ,,b ,,,a ,,b {6} ,,d ,,,a ,,d | \
 ""arpeg""[,a,a{5}1] [,b,a{5}] [,ba{4}] | \
 [a,b{,,,a}1] [,ba{4}] [,a,a{5}] | \
 [,,d{,a}/4] ,a (,,d ,,b ,,a) (,,b ,,a) (,,,c ,,,a) \
 (,,,,b ,,,,a) ,,,,,d | "
-37;B dur;31r;sans titre;;;;;C;"{5}/4 ,a ,,b ,a ,,,a ,,b ,,,,a ,,,a [,abaa{5}2] | \
+37;B dur;31r;[sans titre];;;;;C;"{5}/4 ,a ,,b ,a ,,,a ,,b ,,,,a ,,,a [,abaa{5}2] | \
 [,abaa{,,,a}2] [,abaa{,,,a}] | \
 [daba{5}2] [daba{5}] | \
 [cabc{5}2] [cabc{5}] | \
 [bbbb{5}2] [bbbb{5}] | "
-38;F dur;31v;[A]llegro;A.Falckenhagen;;;Conc_1074;2/4;"(,,d/4 ,,a) | \
+38;F dur;31v;[A]llegro;A.Falckenhagen;f. 32v-33r empty;;Conc_1074;2/4;"(,,d/4 ,,a) | \
 a/ [,,a,,a] [,,b,,b] [,,d,,d] | \
 [,,'a{,a}/] ,,,c/4 ,,a ,,,a/ ""pia""(,,d/4 ,,a) | \
 a/ [,,a,,a] [,,b,,b] [,,d,,d] | \
@@ -194,7 +194,7 @@ a/ [,,a,,a] [,,b,,b] [,,d,,d] | \
 ,,d/ [a,d,,a] [,a{d}] [c{5}/4] ,,b [,,'a{4}/] \
 [a{,,,a}/4] ,,a [,,,c{5}/] [,'c,c{4}] | \
 [,ca{,a}/] V,d ::"
-41;F dur;34r;sans titre;;;;Conc_3857;C;"(,,d3/4 ,,b/4) | \
+41;F dur;34r;[sans titre];;f. 34v empty;;Conc_3857;C;"(,,d3/4 ,,b/4) | \
 [,,'a{,a}1] (,,,c/ ,,,a) ,,a1 [,,dc{,,a}] | \
 ['a,a{,,,a}1] {4}/ {5} [,,d{6}1] {,a}/ [a,a] | \
 ([,a{d}/] ,c) a [,,d,,a] [,a{d}] ,,d ([,,'b{5}] ,,a) | \
@@ -212,27 +212,35 @@ V[,,bc1] {a} [,,dc,a] | \
 [,,dbaa1] [,,'b,a{a}3/2] (,,a/4 ,,b) | \
 [,,b,a1] [,,'a] {,,,a} | \
 ""pia""Vc1 ,,,c [,,aba] | "
-44;B dur;37r;Men;Lauffensteiner;;;Conc_1358;3/4;"V[,,baa{5}1] a [a,b{,,,a}] | \
+44;Eb dur;36v;[sans titre];;;;;2/4;",,b/ | [,ab/] (a/4 c) (d a) ([,b{,a}] ,a) | \
+([,ba{a}/4] ,d) c ,b [,,d{6}/] (,a/4 ,b) | \
+([,d{,,,a}/4] ,a) (,,d ,,b) [,,d{a}] (,a ,b) ,,d |"
+45;g moll;36v;[sans titre];;;;;C;"[,,cca{a}1] [,,cca{a}] [,acc{a}] [,acc{a}] | \
+[cac{a}1] [cac{a}] [aac{a}] [aac{a}] | \
+[,cdc{a}1] [,cdc{a}] [bad{a}] [bad{a}] | \
+[cac{a}1] [cac{a}] [eed{a}] [eed{a}] | \
+[gff{a}1] [gff{a}] [hfh{a}] [hfh{a}] |"
+46;B dur;37r;Men;Lauffensteiner;;;Conc_1358;3/4;"V[,,baa{5}1] a [a,b{,,,a}] | \
 ['aab{5}1] (f/ a) [c{,,a}1] | \
 ['a{,,,a}1] [,b{4}/4] ,,d [,a{5}] ,,b | \
 [,,d{,a}1] ,,,a ,,,a | \
 [,,,'a{,a}1] ,b/ ,,d ,a1 | \
 [,,,'a{,a}1] (,,d/ ,,a) V,,b1 | "
-45;B dur;37r;Presto;Lauffensteiner or S.L.Weiss;;;Conc_1354;C;",,,a1 | \
+47;B dur;37r;Presto;Lauffensteiner or S.L.Weiss;;;Conc_1354;C;",,,a1 | \
 ([,,b{5}/] ,,d) (,a ,b) a1 [c,b{,,a}] | \
 [,,'a{,a}1] ,,,c/ ,,a ,,,a1 [f{,,,a}] | \
 ([,f{,,a}/] ,d) ,f f ([,d{,,,a}] ,a) ,d a | \
 [,'ba{4}2] (,a/8 ,b) [,a,a{5}1] a | "
-46;B dur;37v;Moderato;;;;;C;"""for""(3,,,f/ f ,a) (3,,,f f ,a) (3,,,a f ,a) (3,,,a f ,a) | \
+48;B dur;37v;Moderato;;;;;C;"""for""(3,,,f/ f ,a) (3,,,f f ,a) (3,,,a f ,a) (3,,,a f ,a) | \
 (3,,,,a/ f ,a (3,,,,a f ,a) (3{d} f ,a) (3{d} f ,a | \
 ""pia""(3,,,f/ f ,a) (3,,,f f ,a)"
-47;B dur;38v;[La]rgo;;;;;C;"[aab{5}1] | \
+49;B dur;38v;[La]rgo;;;;;C;"[aab{5}1] | \
 [cbb{,,a}1] [a,da{6}/] ,b [,aba{5}] [,b{4}] [a,b{,,,a}/] \
 [,bd{,,a}/4] [,ab] | \
 [,,fe{,a}2] [,,'d] | \
 ,/4 (,,b/4 ,,a) (,,,c ,,,a) ,,,,c (,,,a ,,,c) \
 [,,(a] ,,b (3[,,d)] [,(a] [,b)]) [,'b/] (,a/4 ,b) | "
-48;B dur;39v;Echo Andante;;;;;3/4;"""for""[,,,aa{5}1] [,,'ba{,,,a}] (3[,,d{,a}/] [,(a] [,b)]) | \
+50;B dur;39v;Echo Andante;;;;;3/4;"""for""[,,,aa{5}1] [,,'ba{,,,a}] (3[,,d{,a}/] [,(a] [,b)]) | \
 [,b,a{d}1] [,'a{5}3/4] ,,d/8 ,a [,,#d{,a}1] | \
 ""Echo pi:""[,,,aa{5}1] [,,'ba{,,,a}] (3[,,d{,a}/] \
 [,(a] [,b)]) | \
