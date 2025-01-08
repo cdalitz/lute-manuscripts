@@ -83,7 +83,7 @@ e 'a ,a ,,a ,a ,c a"
 ,,,,c ,,,c ,,d ,,b | [,,'a,d3/2] ,a/ ,,,c ,,b | "
 32;F dur;56;Prelude;F. Dufault;;;Conc_423;-;"(,,d/ ,,,e ,,,,d) ,,d2 {,a}1 (,,,,d ,,,e ,,d2) {,,a} \
 ,,,,c ,,,c ,,d1> ,,d {,,,a}1 ,,,,a ,,,a ,,d ,a [,,'b]"
-33;F dur;58;Courante;F. Dufault;;;Conc_291;3;",,d/ | {,a}/ ,,,e ,,d ,,f [,,'d/]> ,,,f | \
+33;F dur;58;Courante;F. Dufault;;;;3;",,d/ | {,a}/ ,,,e ,,d ,,f [,,'d/]> ,,,f | \
 ,,a1 [,,,'c{4}1]> ,,a | [,,,'a{,,,a}3/2] ,,,c/4 ,,a ,,,a1 | \
 ,,b/ ,,,,a [,,'a,,d1]> ,,a | "
 34;F dur;60;Gigue;F. Dufault;;;Conc_425;C;"a/ | [aVd1]> [,'cd] a ,,f [,,'d] ,,,f | ,,,e/ ,,d \
@@ -206,14 +206,14 @@ c ,,a ,,,c | "
 [,,,c,b1]> ,,,c | [,,,a,a1]> ,,d ,,,,c1> ,,b | "
 79;d moll;154;Gigue P.;G. Pinel;;;Conc_1205;C;"[,aVf/] | e/ ,,f [e,'d] ,,a [cab] ,c | [ada/] c/4 ,d \
 [,'c/] ,,,c [,aaa] (,,,c/4 ,,,a) [,,e,c/] [,,,,'a] | "
-80;B dur;156;Allemande de Mercure;J.Mercure;;;Conc_318;C;"a/4 a | [aab,,a1] ,,,,a/ ,,,a [aab] f/4 f 'e/> ,f | \
+80;B dur;156;Allemande de Mercure;J.Mercure;;Bb-d-f-a-d'-f';Conc_318;C;"a/4 a | [aab,,a1] ,,,,a/ ,,,a [aab] f/4 f 'e/> ,f | \
 a a ,f a/> ,,g a/ [,,'f] a ,,f [aa'd/]> ,,,f | "
-81;B dur;158;Courante de Mercure;J.Mercure or V.Gaultier;;;Conc_264;3;"f/ f | [fdf,,a3] | {,a}/ f 'e f {a} c | ,,,,,c/ a \
+81;B dur;158;Courante de Mercure;J.Mercure or V.Gaultier;;Bb-d-f-a-d'-f';Conc_264;3;"f/ f | [fdf,,a3] | {,a}/ f 'e f {a} c | ,,,,,c/ a \
 ,,d c a ,b | [,'a,,,a3] ,,d/4 ,a ,,b/ ,b | "
-82;B dur;160;Gigue de Mercure;J.Mercure;;;Conc_1232;3;",a1 | [,abaaa2] ,b1 | [,'b2] ,a1 | [,,'d2] ,,,f1 | \
+82;B dur;160;Gigue de Mercure;J.Mercure;;Bb-d-f-a-d'-f';Conc_1232;3;",a1 | [,abaaa2] ,b1 | [,'b2] ,a1 | [,,'d2] ,,,f1 | \
 ,,,e1 a ,,g | [,,'f2] [,,ff1] | [,,'d,d2] ,,b1 | \
 ,,,c1 ,,b ,a | "
-83;B dur;162;Sarabande de Mercure;J.Mercure;pp.163-165 empty staves;;Conc_487;3;",,,,,a1 [,abaa2] | [,,'d{c}2] [,ad,d1] | [,,baa1] \
+83;B dur;162;Sarabande de Mercure;J.Mercure;pp.163-165 empty staves;Bb-d-f-a-d'-f';Conc_487;3;",,,,,a1 [,abaa2] | [,,'d{c}2] [,ad,d1] | [,,baa1] \
 [,,'d{c}1]> ,,b | [,,'aa{,a}3/2] ,,,,d/4 ,,,c ,,a1 | \
 ,,,,a/ ,,,a ,,b1 ,,,,,a/ ,,a | "
 84;B dur;166;Courante de gauttier;V.Gaultier;;Bb-d-f-bb-d'-f';Conc_66;3;",a1 | [,aaaaa1] [,'b] [aa] | [,,af1] [,,ce] [,aa] | \

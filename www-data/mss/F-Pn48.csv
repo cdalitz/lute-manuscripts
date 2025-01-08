@@ -60,13 +60,13 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
 [,,c{,,a}/] ,c ,,,d/4 ,,c ,a/"
 21;Bb dur;74v;Prelude;;;;;none;"[aabaaa/] a a [add{c}] [,db{a}] [,bb{a}] [,ba{,a}] \
 [,aa{,a}] {,,a} ,,,c ,,d ,,d {,,,a} ,,,a ,,b ,,d ,a {,,,,a} ,b"
-22;Bb dur;75v;Prelude;;;;Conc_910;none;",,b/ ,,,a ,,,,a ,,b3/2 ,,b/ ,,b1 ,,,,,a ,,b ,,,,a ,,,a \
+22;Bb dur;75v;Prelude;;;B d f a d' f';Conc_910;none;",,b/ ,,,a ,,,,a ,,b3/2 ,,b/ ,,b1 ,,,,,a ,,b ,,,,a ,,,a \
 ,,b3/2 ,,,a/ ,,,c1 ,,b ',,,a3/2 ,,,,b/ ,,,,a1"
-23;Bb dur;76v;Allemande Mons. Mercure;;;;Conc_318;C;"a/4 a | [aabaaa1] ,,,,a/ ,,,a [aab] f/4 f 'e3/4 ,f/4 | \
+23;Bb dur;76v;Allemande Mons. Mercure;;;B d f a d' f';Conc_318;C;"a/4 a | [aabaaa1] ,,,,a/ ,,,a [aab] f/4 f 'e3/4 ,f/4 | \
 a/ a/4 ,f a/ ,,g/4 a ',,f/ a/4 ,,f [a,'d3/4] ,,,f/4 |"
-24;Bb dur;77v;Gigue Mons. Mercure;;;;Conc_1232;3;",a1 | [,abaaa2] ,b1 | ',b2 ,a1 | '[,,d{,a}2] ,,,f1 | \
+24;Bb dur;77v;Gigue Mons. Mercure;;;B d f a d' f';Conc_1232;3;",a1 | [,abaaa2] ,b1 | ',b2 ,a1 | '[,,d{,a}2] ,,,f1 | \
 ',,,e1 a ,,g | ',,f2 [,,ff1] | ,,,a1 ,,d ,,b | ,,,c1 ,,b ,a |"
-25;Bb dur;78v;Courante Mercure;;;;Conc_1188;3/4;",,a/ V,,b ,,d | [,abaa3] | {a}/ ,b {,a} a ,,,,,a ,a | \
+25;Bb dur;78v;Courante Mercure;;;B d f a d' f';Conc_1188;3/4;",,a/ V,,b ,,d | [,abaa3] | {a}/ ,b {,a} a ,,,,,a ,a | \
 [,,da{,a}3/2] ,,b/ ',,a ,,,c | \
 {,,,a}/ ,,,,a ,,,a ,,,a ,,,c ,,,a |"
 26;Bb dur;79v;Gauotte Mons. Gumprecht;;;;Conc_1486;C;",,b1 a/ ,a c1 ,,,c/ c | [aba3/2] ,,,a/ ,,,f/4 ,,d ,a/ ,,,,,a1 | \
