@@ -789,7 +789,7 @@ if ($handle  AND !feof($handle)) {
 												. substr($treffer[0][$i_treffer],4) . $test_expression . "\">" . $treffer[0][$i_treffer] 
 // mit ausgeklappten Konkordanzen
 //												. "</a></b>:<br>" . $arrConc_sort[0] . "<br>",${$MConc . 'comment'});
-												. "</a></b><br>",${$MConc . 'comment'});
+                                                                                      . "</a></b>",${$MConc . 'comment'});
 
 											else
 												${$MConc . 'comment'}  =  str_replace($treffer[0][$i_treffer],"<a href=\"index.php?id=" 
