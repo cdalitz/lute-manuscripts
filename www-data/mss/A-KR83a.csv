@@ -6,11 +6,11 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
 2;g moll;4v;Adagio;;N. 2;;;3;",a/ | [,abc{a}3/2] c/ ,a ,,b | [,,de3/2] [,bd/] ,a ,,,b | \
 [,,,c{a}3/2] ,,b/ [,,d{4}] ,,,,c | ,,,,e/ ,,,c \
 [,,,'c{,,,a}1]> ,,,,e | [,,,cf{a}3/2] ,,a/ ,,b ,,,c | "
-3;g moll;5r;sans titre;;N. 3;;;3;"[,,bc{a}/] [,,,'a] [,,d,b1] [,ac,a] | [,c,,,d3/2] ,c/ [b,,a] / \
+3;g moll;5r;[No title];;N. 3;;;3;"[,,bc{a}/] [,,,'a] [,,d,b1] [,ac,a] | [,c,,,d3/2] ,c/ [b,,a] / \
 ,,,,,d | [ca,,,b1] [ee,,,a] [ff{a}] | [,'e{,,,a}1]> \
 ,e [,f{a}1] | [f,,,f1] [e,,,d] [a,,,a] | [cbb,b/] ,,,a \
 ,,,c ,,a [aab1] | "
-4;F dur;5v;sans titre;;N. 4;;;3;"[ad{,a}1] [,c,,,d] [a,,,a] | [,,d,,a1] {,a}/ ,,d [,ad,,b1] | \
+4;F dur;5v;[No title];;N. 4;;;3;"[ad{,a}1] [,c,,,d] [a,,,a] | [,,d,,a1] {,a}/ ,,d [,ad,,b1] | \
 [,,b{a}1] [,,d,,a] [,,b,,b/] ,,a | [,,,'c{4}3/2] ,,,,d/4 ,,,c \
 [,,,,d{,a}1] | [ed,a1] [ed,,a] [cd,,,c] | [cd,,,c1] ,c/ c \
 [acd,,a1] 3 | "
@@ -18,23 +18,23 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
 [,b{4}1] [,,ca{,,,a}1]> ,a | [,,dc{,,a}1] [,,'d,a{,a}] \
 [,,c{a}] | [,,d,b{4}1] :||: [,bd1]> ,b | [,ad{a}1] \
 [cabc1]> c | [caa{,,,a}1] [aa1]> ,,a | "
-6;a moll;8v;sans titre;;N. 6;;Conc_16;3;",c1 | [,c,,,a1] ,,a2 | [,,c{b}1] ,,,,c1> ,,c | \
+6;a moll;8v;[No title];;N. 6;;Conc_16;3;",c1 | [,c,,,a1] ,,a2 | [,,c{b}1] ,,,,c1> ,,c | \
 [,,d,,a1] ,,a [,,'c/] ,,d | [,a,c,c1] {a}1> ,c | \
-[,cdc{4}3] [,,aa{,a}/] ,a [,,'e{,,a}3/2] ,a/4 ,,e | "
-7;a moll;9r;sans titre;;N. 7;;;C;"e2 d/ ,c ,d c | [,'c/] ,,a ,d [,'c/4] ,a ,c/ ,,,c \
+[,cdc{4}3] | [,,aa{,a}/] ,a [,,'e{,,a}3/2] ,a/4 ,,e | "
+7;a moll;9r;[No title];;N. 7;;;C;"e2 d/ ,c ,d c | [,'c/] ,,a ,d [,'c/4] ,a ,c/ ,,,c \
 [,'a,a] ,,d/4 ,a | ,c/ ,,,,c (,,a/4 ,,c ,,d) ,a \
 [,,'c/] {,,a} [,,'a] ,,,d/4 ,,a | "
-8;a moll;9v;sans titre;;N. 8;;;3;",,a1 | [,,ae1] ,,,,,a/ ,,,c [,,,'a] ,,,,c/4 ,,,a | \
+8;a moll;9v;[No title];;N. 8;;;3;",,a1 | [,,ae1] ,,,,,a/ ,,,c [,,,'a] ,,,,c/4 ,,,a | \
 ,,,,c/ ,,d ,,,,a ,,,a [,,'c] ,,a | [,,,dc1] {,,a}1> ,,,,a | \
 ,,,,,d/ ,,a ,,,,,c ,a ,,,d ,c | "
-9;D dur;10v;sans titre;;N. 9;;;C;",,,,a/ | [,,,,aVf1] ,,a/4 (,,,,,e ,,,,,f ,,,,,a) ,,,,,c/ \
+9;D dur;10v;[No title];;N. 9;;;C;",,,,a/ | [,,,,aVf1] ,,a/4 (,,,,,e ,,,,,f ,,,,,a) ,,,,,c/ \
 ,,,,a/4 ,,,c [,,,,,'a/]> {a} | {,a}/4 ,,a ,,,,a/ ,a/4 \
 (,,e ,,f ,,a) {a} ,,c ,c ,a [,,'ee,a/]> ,,,,f | "
 10;d moll;11v;Cour: de Monseur Le Compte logi;Losy;N. 10;;Conc_1455;3;",,a1 | [,,aaa1]> ,,,c ,,,a/ ,,,,c | [,a,,a1] {,,a}/ ,,,c \
 ,,d ,,b | [,,'aa{,a}3/2] ,,,c/4 ,,a ,,,a1 | [,,,c{,,a}1] \
 ,,,,,c ,,,,,e/ ,,a | [,,,aa{,,,a}3/2] ,,,,c/4 ,,,a \
 ,,,,a/ ,,,,,d | "
-11;d moll;11v;sans titre;;N. 11 - Bourée / Gavotte;;Conc_3870;C;"e/> c | [aaa{,,,a}1]> ,c ,a1 [f{a}/] e | [c{4}1] ,,,,,d \
+11;d moll;11v;[No title];;N. 11 - Bourée / Gavotte;;Conc_3870;C;"e/> c | [aaa{,,,a}1]> ,c ,a1 [f{a}/] e | [c{4}1] ,,,,,d \
 [ccd] [e{,a}] | [,aa,,b1] ,c/ ,d [,'cb{a}1]> a | [,,e,,a1] \
 ,,,,c ,,,e e/> c | "
 12;A dur;12v;Du Monseur F.Ignace Hinterleitner Ouverture;Hinterleithner;N. 12 Not in printed work;;Conc_1388;C;"[,,aeca1]> ,,c ,,e1> ,a | [,c,,,a1]> ,,,,,c ,,,,,e1> [,e,,a] | \
@@ -58,11 +58,11 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
 18;d moll;16v;Cour:;;N. 18;;;3;",,a/ ,a ,,e | [,aVf,a1] {,,,a}/ ,a [,,d,c] ,,b | \
 [,,'a,d1] {,a}/ ,,,,c ,,,,a a | {,,a}/ c ,c ,a ,,e e | \
 ['a,a{,,,a}1] ,a/ ,f ,h f | {,,a}/ h ,f ,,,,,h ,,,h f | "
-19;d moll;17r;Sarab:;;N. 19;;;3;"[adaaa1]> ,c ,a/ e | [,,ee,a1]> ,,,c [,adee1] | \
+19;d moll;17r;Sarab:;;N. 19;;;3;"[adaaa3/2] ,c/ ,a e | [,,ee,a1]> ,,,c [,adee1] | \
 [,,'cc{a}/] ,d [,'c1] [,acd] | [,,ee1] ,,,,,a/ ,,,,c \
 [,aa,d1] | [,'aa,ca3/2] ,,,e/4 ,,e ,a1 | "
 20;d moll;17v;Menuette;;N. 20;;;3;"[,aaaa{,,,a}1]> ,a [,ca,,e1] | [,da,a1] [,ce,,a2] | \
-[,a,,,(b/] [,,,,,a)] {a} ,d ,c ,a | [,,'e,,a1]> ,,c ,,a/ {a} | \
+[,a,,,(b/] [,,,,,a)] {a} ,d ,c ,a | [,,'e,,a3/2] ,,c/ ,,a {a} | \
 [,,aad{,a}1]> ,,a [,,aad1] | [,,dcc{4}1] [,,'baa{,,,a}2] | "
 21;d moll;18r;Menuette;;N. 21;;;3;"[,aaaa{,,,a}1] [,aaa/] ,c ,d c | [eaaa{,,,a}1] [eaa/] \
 c [eaaa1] | [kaaa{,,,a}1] k/ m [naa1] | [i,h,,a/] k i \
@@ -76,7 +76,7 @@ c [eaaa1] | [kaaa{,,,a}1] k/ m [naa1] | [i,h,,a/] k i \
 ,,,c ,,,,c/ ,,e | ,,,,a/ ,a ,,,,,d1 ,c/ ,,,,,c | \
 ,,,,,a/ ,,d ,,,,,c1 ,a/ ,,,,,a | "
 25;e moll;21r;Sarabande;;N. 25;;;3;"[ccccc{,,a}1]> ,e ,d1 | [ge,,,g1]> ,e [cVf,,c1] | \
-[,b,,,c1]> ,,,b ,,,c/ ,c | [,'b,b,c2] [,cccc1] | \
+[,b,,,c3/2] ,,,b/ ,,,c ,c | [,'b,b,c2] [,cccc1] | \
 [,acc{a}1]> e [,aab{,a}1] | [,a,cc{,,a}1]> c [,,dcc1] | "
 26;e moll;21v;Menuette;;N. 26 p. 22r empty;;Conc_3765;3;"[,ccc{,,a}1] ,c/ ,e c1 | [c,,,c1] [b,c,b2] | ,,,,a1 \
 [,cc,,d] ,,a | [,bc,,c1] (,,c/ ,,a) (,,,c ,,,b) | \
@@ -88,9 +88,9 @@ c [eaaa1] | [kaaa{,,,a}1] k/ m [naa1] | [i,h,,a/] k i \
 ,,,a ,,,c ,,,,a ,,,,c ,,d | ,,,,d/ ,,a ,,,,,d ,,,a ,,,c \
 [,,,,,'b] | ,,,,,a/ ,,d a h 'f ,h | "
 29;F dur;24r;Sarab:;;N. 29;;Conc_3380;3;"[,,ded{,a}1]> ,,d ,,f1 | [,,bcd1]> ,,b [,,dcc1] | \
-[,,acd1]> ,,,,,a [,,,c,b/] ,,,a | [,,,'a{4}1]> ,,,,c \
+[,,acd3/2] ,,,,,a/ [,,,c,b] ,,,a | [,,,'a{4}1]> ,,,,c \
 [,,,ad{,,,a}1] | [adaaa/] ,c [,'aa{,a}1]> ,,d | \
-[,,'cc{a}1]> ,,,a ,,,,c/ ,,d | "
+[,,'cc{a}3/2] ,,,a/ ,,,,c ,,d | "
 30;F dur;24v;Gigue;;N. 30;;Conc_3382;12/8;",,d/ | [,,ded{,}3/2] ,,d/> ,,b ,,d/ [,,aa/]> [,,bc] [,,de/] \
 [,ab1] ,a/ | [,,de1] a/ [,,bc/]> [,,aa] [,,bc/] ,,,,c/> \
 ,,,c ,,d/ ,,,,,d/> ,,,,c ,,b/ | "
@@ -116,9 +116,9 @@ c [eaaa1] | [kaaa{,,,a}1] k/ m [naa1] | [i,h,,a/] k i \
 ,,,,,c1> ,,,c [,,,'a1] | ,,,,c1> ,,,,,d ,,,,a1 | [,,,,,'c1]> \
 {a} ,a1 | [,,cc1]> ,,,a [,,d,c1] | [,,a,d1]> ,,,,c \
 V[,,c,a1] | [,,d,,d2]) ,,c1 | "
-37;C dur;30r;Chaconne;;N. 37;;;3;"[,,dcc{4}1] [,,dcc/] ,,b [,,aadd{,a}1] | [,accd{,a}1] \
+37;C dur;30r;Chaccogne;;N. 37;;;3;"[,,dcc{4}1] [,,dcc/] ,,b [,,aadd{,a}1] | [,accd{,a}1] \
 [,accd/] ,a [,cdcc{,,a}1] | [aadaa{,,,a}1] ,,c/ c \
-[,cdcc{,,a}] {,a} | [,,d,a{a}1]> ,a [,,'c/] ,,,a :| \
+[,cdcc{,,a}] {,a} | [,,d,a{a}3/2] ,a/ [,,'c] ,,,a :| \
 [,,dccd{4}/] {,,,a} [,,dcc{,,a}] {,,,a} [,,aadd1] | "
 38;G dur;33v;Allem;;N. 38;;;C;",,,c/ | [,,,ca{a}1] [,,,,af/]> ,,,,,d [,,,,,'c/]> ,,,,a \
 {a}/> ,,,c | ,,d/4 ,c ,,c ,a ,,,e ,,d {,,,a}/ ,,,,a/4 ,,,b \
@@ -127,7 +127,7 @@ V[,,c,a1] | [,,d,,d2]) ,,c1 | "
 [,c,,,d1] ([e,,,,e/] c) [,e,,a1] [,'c,,c] | [,a,,e1] \
 [,c,c] [,,e(e/] [,,,c)] ([,a,,e] ,c) | [,'c,,,a1]> \
 ,a [,aab{,,,a}1] :| "
-40;G dur;34v;Cour;;N. 40;;;3;",a/ ,,,c/> (,,a | ,,c1) {a} [,cd] | [,,'c1]> ,a ,,,c/ \
+40;G dur;34v;Cour;;N. 40;;;3;",a/ ,,,c/> (,,a | ,,c1) {a} [,cd] | [,,'c3/2] ,a/ ,,,c \
 [,,,'b] | ,,,,c1 ,,,c/ ,,d ,,,,a1 | (,,,b1 ,,,c/) (,,c ,,a) \
 ,,,,,d | ,,,,,c1 ,,d/ ,a ,,,c c | "
 41;G dur;35r;Menuette;;N. 41;;;3;"[ca{a}1] [ea,,e2] | [ga{a}3/2] (g/4 f) ,f1 | \
@@ -147,8 +147,8 @@ c 'a/> ,,a ,,c c [,bVd] ,,,d | "
 46;c moll;38r;Menuette;;N. 46;;;3;"[,b{4}/] ,d (,b ,a) ,,d ,a | ([,,c{a}/] ,,d) (,,c ,,a) \
 (,,,c ,,,a) | [,,d,(b/] [,,,,d)] (,,,,b ,,,,a) ,,,,,d ,b | \
 [,a,,,(c/] [,,,,,d)] ,,,,,c ,,,,,a {a}1 | "
-47;c moll;38v;Echo;;N. 47;;;3;",,,c/ | [,,dcb{4}1]> ,b [,a,,,c/] a | [,b,,,d1] ,,d3/2 :||: \
-c/ [,,c,a/] [,,d,b] | [,,'d,a{a}1]> ,a ,,c/ ,,,a | \
+47;c moll;38v;Echo;;N. 47;;;3;",,,c/ | [,,dcb{4}3/2] ,b/ [,a,,,c] a | [,b,,,d1] ,,d3/2 :||: \
+c/ [,,c,a] [,,d,b] | [,,'d,a{a}3/2] ,a/ ,,c ,,,a | \
 [,,dcb1] {4}3/2 :||: ,,d/ ,a | "
 48;a moll;39v;[Allemande];;N. 48;;Conc_1726;C;"e/ | [ecde1] ,,,,,a/4 (e/8 c a ,c) [,ace/]> ,,,e ,,,d ,c ,,c \
 ,a | V[,,d,,a/] ,,,e [,c,'c] [a,,a] [c,,,c] ,,d/4 e \
@@ -168,7 +168,7 @@ a1 ,a ,,c | ,,d1 ,c ,,c | ,,,e1 ,,d ,e | "
 'd/4 ,f | [df{,a}/] [,'d/4] {a} {b} ,d ,,d ,b ,,,,,b d 'c \
 (,a [,c,,,d]) ,,b ,d ,,,d | "
 54;f moll;44v;[Courante];;N. 54;;;3;"d/4 c a ,c | V,d1 {,a}/ ,,,c ,,,d ,,b | ,,d/ ,,,,a ,,,,c \
-,,,d ,,b ,,,,,d | ,,,,d1> ,,,d [,,,'c/] ,,,a | ,,,,,d/ \
+,,,d ,,b ,,,,,d | ,,,,d3/2>,,,d/ [,,,'c] ,,,a | ,,,,,d/ \
 (,,,,a ,,,,c1>) [,,,,,'b] | "
 55;f moll;45v;Sarab;;N. 55;;;3;"[,g{,a}1] [,'f/] a h1 | ['ff{,,a}1]> h [,g{,a}1] | \
 i/ ,i [i,g{a}1] [h,,,g/] f | ['ff,,,g1]> ,g [,g,,g1] | \
@@ -183,11 +183,11 @@ i/ ,i [i,g{a}1] [h,,,g/] f | ['ff,,,g1]> ,g [,g,,g1] | \
 ,d/ ,,,d {4} ,,,c ,d ,c | [,d,d{,a}/] [,c,c] [,d,d] \
 c [,d,d1] | [,d{,a}/] ,,,d c ,,b [d,d1] | "
 59;f moll;47v;Tombeau du feu son E. Monsgr Le General Sereni Allemande de C. Berhandski;Berhandtzky;N. 59;;;C;",,d/ | [,,ddd1]> ,,,f [,,,'d1]> ,,,,f | [,,,df{,a}1] ,,,,d \
-[,,#dcc1]> ,,d | [,,dcb1]> ,,d ,a/ ,a V[,b,,,d1] | \
+[,,#dcc1]> ,,d | [,,dcb3/2] ,,d/ ,a ,a V[,b,,,d1] | \
 [aad{,,,a}1] [,,caa/] c [,'b{a}1]> ,a | [,bdc{4}2] \
 ,,,,,d/ ,a ,,,,,b ,,d | "
-60;f moll;48v;Courente de C. Berhandsky, nomée la noble pensée;Berhandtzky;N. 60;;;3;",,d/ ,,,f ,,d | [,,,'dd{,a}1]> ,,,,f ,,,,d/ ,,,,f | \
-[,,,,'c{4}1]> ,,,,c ,,,,d/ ,,,c | {,a}/ ,,,d ,,,,d ,,d ,a ,c | \
+60;f moll;48v;Courente de C. Berhandsky, nomée la noble pensée;Berhandtzky;N. 60;;;3;",,d/ ,,,f ,,d | [,,,'dd{,a}3/2] ,,,,f/ ,,,,d ,,,,f | \
+[,,,,'c{4}3/2] ,,,,c/ ,,,,d ,,,c | {,a}/ ,,,d ,,,,d ,,d ,a ,c | \
 [add{,a}1] {a}/ ,a [,#bd,,a/]> a | [,ad,,b3/2]"
 61;f moll;49v;Sarab;Berhandtzky;N. 61;;;3;"[,ddd{,a}/] ,f d ,f ,d ,f | [,'c,c{4}/]> ,a ,,d/ ,,,,,b \
 {b} ,d | {a}/ ,c ,d c {,a} d | ,,,a/ ,,,c ,,,d ,,b ,,d ,a | "

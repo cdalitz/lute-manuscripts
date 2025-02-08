@@ -1,0 +1,63 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+;;Handwritten copy from a now lost manuscript;;;;;;;
+1;d moll;1;Prelude;;;;;3;",,,,a/ ,a a ,a e ,c ,,e ,c ,,,,,a ,c e c [a,,,a] ,c | \
+[aVd,,a] ,,e ,a (,,,,,a ,,,,,b ,,,,,a) |"
+2;d moll;1;Prelude;;;;;3;"[e,,,,a/] ,c a ,,e ,a ,,,,,a ,,,,,b ',,,,,a | \
+{a} ,,a ,a c 'a | ,,e ,,,,,a ,,e ,c {a} {,a} ,,a ,a ,c"
+3;d moll;1;1. Allamanda;;;;;3/4;"[aa,,a] a [,c,,,e] | [,a,,,b] a '[,,e,,a] | [,a,,,b] {a} ,d ,c ,a | \
+[,,e,,a] ,a [,aa,a] :||: [,aa,a] [e{,a}] c [a{,,,a}] |"
+4;d moll;2;2. Menuetto;;;;;C;"[,,aa{,a}1] [,a,,,b/] [,c{a}] | '[,,e,,a2] [e{,a}1] | \
+[,c,,,a1] [aa,,a2] | [,c,,,a/] ,a ,c ,d ,c1 | \
+[,,a{,a}/] [,a,,,b] [,c{a}] | '[,,e,,a2] [e{,a}1] | \
+[,ca,,e1] '[aa,,a3/2] ,c/ |"
+5;d moll;3;3. Gavotto;;;;;3;"[,aa,a1] ,,e ,a | [,ca,,a] ,e [,a,,,c] | '[ca{a}] ,e c | \
+'[,c,,,a/] ,a ,c ,e [,ca1] || [,aa,a] ,,e ,a | \
+[,c,,,a] ,e [,a,,,c] |"
+6;d moll;3;4. Menuetto;;;;;C;"[,aa,a/] e [,c,,,e] c '[a,,,a] [,,e,,a] | \
+[,a,,,b] a [,c{a}] ,a '[,,e,,a] ,,a | \
+([c{a}] e f) ,c [e{,a}] [c{,,a}] |"
+7;d moll;4;5. Sarabanda;;;;;3;"[,af,a{,,,a}1] [,afe] [,afe] | '[,,ee,a3/2] ,,c/ ',,a1 | \
+[,,cc{a}1] ,,c/ ,,e ,a ,c | '[,a,,,a3/2] ,,e/ [,af,a1] :||: \
+[ee{,,,a}1] e/ g e ,f |"
+8;F dur;4;6, Cora[nto];;;;;3;"[,,aad1] '[,,a{,a}3/2] ,,c/ | [,,dcc1] {,,,,a}2 | \
+[,a{,,,a}1] '{,,,,a}3/2 ,c/4 ,a | [,c,,,d1] {,,,,a}2 | \
+[ad{,a}1] ',,a3/2 ,,a/ | '[,,c{a}3/2] [,,c{,a}/] [,,(d{,,a}1] | \
+[,a{,a}/] [,,d)] '[,,c{a}3/2] ,,c/ |"
+9;d moll;5;7. Balletto;;;;Conc_92;C;"[,aaaa/] ,c a c e ,,,,,e ,c | '[a,,,a] ,c a ,c ,,,,,a | \
+[,,a,d] ,,c ,,d ,,c [,,a,,a] [,a{,,,a}] ,,d '[,,c{,,a}]"
+10;d moll;6;8. Rygadon;;;;;C;"[,a{,,,a}/] ,,a [,aa,a] [,ca,,e] [aVd,,a1] a/ c [e{,a}1] | \
+[e{,a}1] c/ e [f{a}] e c a | \
+,,,,,a/ ,c e c '[a,,,a1] (,c/ ,a) :||:"
+11;d moll;6;9. Mars;;;;;C;"[,aaaa1] [e,,,,e/] c '[aa,,a1] ,c/ ,a ,c | \
+[aVd,,a/] [cc] [c,,,,d] {,,,,a} e ,,,,,a {a} ,,,,,a | \
+[ed/] {,a} {a} ,,,,,a [,a,,,b] {a} (,d ,c) ,a |"
+12;d moll;7;10. Aira;;;;;C;"[,aa,a1] ,c/ ,a '[,,e,,a3/2] ,,a/ | [,aa,a1] ,,e/ ,a [,ca,,a1] ,c | \
+[,aa,a/] a ,c ,a [,,e,,a] ,,,c ',,,a ,,,,c |"
+13;d moll;8;11. Aier;;;;;3;"[aa,,,b1] [,c,,,d/] [aVd,,a1] [,,a{,a}/] | \
+[,,b{a}] ,,d [,,a{,a}] [,,,c{,,,,a}] ,,,c | \
+[,,d{,,a}] [,,a{,a}] ,,,c | '[,,,a{,,,a}] ,,,c ,,a ,,b | \
+,,d {,,,,a} [,,,aVd] {,a} :||:"
+14;d moll;8;12. Corantto (unfinished);;;;;3;"[,a{,,,a}/] ,,a ,,,,a ,,,a ,,a ,a | [,,e,,a] ,,a [,a,,,b] | \
+{a} c ,d ,c ,a | '[,,e,,a] (,a ,,e) [,af,a] :||:"
+;;;;;From here on in 'polish tablature' i.e. upside down;;;;
+15;d moll?;9;1. Allamanda;;;;;C;"[,cd,a1] [,cd] [,daa1] {a}/ ,c [,a,,,a3/2] ,a/ ,c ,d [,c,,a3/2] ,a/ ,,d \
+[a,,,,a3/2] ,c/ ,d a [c,,a] a/ ,d ,c [,a,,,a3/2]"
+16;d moll?;10;2. Taniec;;;;;3;"[e/] a ,e ,c ,e a | [ce1] [,aa{,,a}2] | [,ce/] ,a ,,e ,,c ,,e ,a | \
+[,cee1] ,,,,,a :||: [,ce1] [,ef] ,c/ ,a |"
+17;d moll?;11;3.Rygadon;;;;;3;"[,cd,a1] {,,,a} ,,c/ ,,d ,a [,cd,a1] ,,,,a/ ,,,,c ,,,,e ,,,,c \
+[,cd,a1] {,,,a} ,,c/ ,,d ,a [,cd,a1] [,cd/] ,a ,c ,d"
+18;d moll?;11;4. Menuetto;;;;;3;"[,cd{,,,a}/] ,,c ,,d ,a ,,d ,a | [,,d{,,,a}3/2] [,,cc/] ,,,,,a1 | \
+[,cd,a/] ,a ,c ,d ,c ,d | [,cd,a1] ,,d {,,,a} |"
+19;d moll?;12;Basa[c]alle;;;;;3;"[,cd,a1] {,,,a} :||: (,,c/ ,,d) ,a [,cd1] {,,a} (,,c/ ,,d) ,a \
+[,cd1] {,a} (,,c/ ,,d) ,a [,acc1] ,,,,,a ,,d/ ,a ,,c [,cde1]"
+20;d moll?;15;La Marche;;Nr. 6;;;3;"[,cd,a1] {,,,a} [a,,,,a/] ,d | [,c,,a] ,a ,,d1 [a,,,,a] | \
+[c,,a/] a ,d ,c ,a ,,d | [,,cc] ,,a ,,,c1 ,,,,,e/ ,,,,c |"
+21;;16;Mais;;Nr. 7;;;3;",c/4 ,d [,f,,e1] ,f [,f,,e] [,a,,,e] [,c,,a] ,,d \
+,a/4 ,c [,d,a] a ,c ,d [,a,,,a3/2] ,,d/ [,,da1] {,,,a} :||:"
+22;;17;Menuetto;;Nr. 8;;;3;",c/ ,d a1 ,,,c | [a,,,,a2] a1 | [cd,a1] d/ c a ,d | \
+[ac,,a/] ,d ,c ,a [,cd,a1] | ,c/ ,d a1 ,,,c |"
+23;;18;Hyrwany;;Nr. 9;;;3;"[,aa{,,a}/] ,c ,d ,c ,d ,a | [cd,a1] a/ ,d ,c ,a | \
+[cd,a1] a/ ,d ,c ,a | [,cee] ,a ,c ,a ,,e ,c |"
+24;F dur;20;[Menu]etto;;Nr. 10;;;3;"[,daa1] ,,d/ ,,,,a {,,,a} ,,d | [,cd,a2] {,,,a}1 | \
+[,cd,a1] [,daa] a | [cd,a1] a/ c d a | \
+[cd,a1] a/ ,d ,c ,a |"
