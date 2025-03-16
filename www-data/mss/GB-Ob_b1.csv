@@ -1,0 +1,220 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1;;3v;[No title];John Wilson;"ff.1v-2v accord sequences; f.3r empty";TH;;C;"[,cde,c3] ,,,,e1 | [cde1] ,,,d/ ,,,e [,ccd1] ,,,,e | \
+[,cde1] ,,,,,c [,ccde] ,,,,c/ ,,,,e | [,cde1] ,,,,,c [,ccde] ,,,,c/ ,,,,e | \
+,,,,a1 ,,,c [,fhh] ,,,g/ ,,,h |"
+2;;3v;[No title];John Wilson;;TH;;C;"[,dff2] [,,b,,d1] [,,a,a/] ,,,c | [,dbac2] [,,dcd1] ,,b | \
+[,baa1] [,ab] {a}/ [,,ff] [,,de1] | \
+[,a,a,d1] [,,dc,c/] ,,a [,,b,,a] ,,,,c [,,d,e] ,,b |"
+3;;4r;[1];John Wilson;;TH;;C;"[,cde3] [,,cd1] [,c,de] [,a,b] [,,cd/] ,,d ,a ,c | \
+[,cde1] ,,,c/ ,,,a [,,cce3] [,,,bd1] [,,c,ce] [,,a,b] | \
+[,,,bd/] ,,,c ,,a ,,c [,,cce1] ,,,,c/ ,,,,a [,,c,ee1] \
+,,,,d [,c,,d{,a}] [,aa{b}] |"
+4;;4r;[2];John Wilson;;TH;;C;"[,cee3] ,,,,e1 [,acd/] ,e ,c ,a/4 ,c [,cee1] ,,,d | \
+[,cab3/4] ,c/4 ,b1 [,a,de/] ,,c [,,ee1] \
+{,a} ,,,e/4 ,,c ,,,d/ {,,a} [,,a{,,,a}] ,,,,e ,,,c1 |"
+5;;4v;[3];John Wilson;;TH;;C;"[,cde{5}2] [,a,c{4}1] ,,,a [,,d,e{,,,a}2] [,,aa{,,a}1] ,,c/ ,,a | \
+[,c,d{,a}1] ,a [,de{a}] ,,f [,ccc{,a}2] ,e1 ,c | \
+,,,,d/ ,,c/4 ,e ,,,e/ ,,c [,ccce1]"
+6;;4v;[4];John Wilson;;TH;;C;"[,bbc{,a}2] [,a,d{a}1] ,,d [,bbc,a2] [,,d,,b1] ,d | \
+[,aba,d2] {4}1 ,d/ ,b [,a,a,d1] ,,,c [,,d,d] ,,,a/ ,,,,d | \
+[,,d,ca2] ,,c [,dd{5}1] ,b ,a ,,d |"
+7;;5r;[5];John Wilson;;TH;;C;"[,bbcd2] [,,b,da1] [,,da,b] [,aba,d2] [,dba{,,a}1] [,,,c{,a}] | \
+[,ddd{a}1] [,,b,,a] [,dd,,b] [,a,,,d] [,,d,d{,,,a}] [,,ca{,,a}] [,,dc{,a}] [,,a,d{a}] | \
+[,,c,,a1] ,,,a [,,d,d] ,,,,c/ ,,,,a \
+[,,d,ca1] ,,,,a [,,d,ca] ,,c |"
+8;;5r;[6];John Wilson;;TH;;C;",,d2 ,b1 ,,d ,f ,,,c/ ,,a [,fc] ,d [,bd1] | \
+[,adc1] ,,c [,ddd] ,,,,f [,fgh] ,,,,a/ ,,,,c [,fd,d1] [,dfa/] [,bd] | \
+[,acc1] ,,,,,a [,a,c,e] ,,,,,a [,bdca] {,,,a}/ \
+{,,a} [,,dc{,a}1] [,,a,d{a}] |"
+9;;5r;[7];John Wilson;;TH;;C;"[,bdca3] ,,,,,a/ ,,,,,c [,a,c,e1] ,d [,b,ca] ,,,,,d | \
+[,dd,,b1] ,b [,b,a,d] ,a [,b,c{,a}] ,a/ ,b [,a,d{a}1] ,,d/ ,a | \
+[,ac,,a/] ,,a [,acc] ,,,a [,,a,d1]"
+10;;5v;[8];John Wilson;;TH;;C;"[,cdca2] [,f{,,,a}1] [,d{,,a}] [,cdc{,a}] ,d/ ,c [,,fe{a}1] ,,d | \
+[,adc,a2] ,,c1 {a} [,,,ca{,a}2] [,,da{,,a}1] ,,c/ ,,,a | \
+[,,c,e{,,,a}1] ,,a [,a,e{,,,a}] ,,,d/ ,c [,dd{5}1]"
+11;;5v;[9];John Wilson;;TH;;C;"[,daac2] {,,a}/ ,c a ,,e [,af1] ,,e/ ,a [,cee1] ,,,,,c | \
+[,,ae/] ,,,c [,aaa] ,,,,e [,,aaf1] ,,,,e/ ,,,,c [,c,de] \
+,a ,,d ,,c [,,de{,a}1] ,,c/ ,,,e |"
+12;;6r;[10];John Wilson;;TH;;C;"[,af2] ,,,e1 ,,e/ ,a ,c2 [,ef1] [,ce] | \
+[,ac1] ,,a [,ccd/] ,e ,c ,a [,,ee1] ,a/ ,c [,ea,c2] | \
+,,,,,c1 [,ca,b/] ,,,,c [,ccce1]"
+13;;6r;[11];John Wilson;;TH;;C;"[,abc,a2] [,,b,c{5}1] ,,a [,abc,a] {a} [,b,c{,a}] ,,d/ ,,b | \
+[,ba{a}1] ,,b [,dba] ,,a [,cbc,a2] ,a1 ,c/ ,a | \
+[c,f,,c1] ,,e [,af,,d] [,,d,,c]"
+14;;6v;[12];John Wilson;;TH;;C;"[,af2] ,,c1 [,af] [,ccc] [,acb/] ,,a [a,d,e] ,,,b ,,,c/4 ,c ,a ,,d | \
+[,,ccc2] [,,ab{,,a}1] ,,d ,,,,,a [,fcc] [,fd,e] [,adc/] ,,c |"
+15;;7r;[13];John Wilson;;TH;;C;"[,ccc{,a}3/2] ,e/ [,f,,e] ,h [,ec,d1] [,ccce] [,,g,ge3/2] [,,h,,g/] [,e,,d] [,f,,e] | \
+[,ea,a1] ,c [e,g,,e/] ,,h1 ,,g/ \
+[,cc,a1] ,,a [,a,e,e] [,c,d/] ,a |"
+16;;7r;[14];John Wilson;;TH;;C;",c2 ,,a1 ,,e [,,,de3/2] ,,a/ ,,c ,,,,e [,ec,d1] | \
+[,cb,b1] ,,c [,cc{,,,a}] ,,b [,,g,,g{4}/] ,,h1 ,,g/ [,,gg{a}1] [,,ef] | \
+[,egg2] ,,,,g1 [,cee] [,ec,d3/2] ,,,,e/ [,e,gg1] ,,,f |"
+17;;7v;[15];John Wilson;;TH;;C;"[bdda3] d1 [f,,,e] ,f d2 | [bf,a1] ,d [,d,ca] ,b/ ,,,,c [a,b,d1] ,,,,,d/ ,,,,a [,dd,b1] ,,b | \
+[,d,ca1] ,b2 [,a,c,a/] ,,,,,c [,a,c,d1] \
+[,,dd{a}/] ,,,,,a [,,dc,b1] ,,,a |"
+18;;7v;[16];John Wilson;;TH;;C;"[cdda2] {a}1 [,,bc] [,,de{a}] ,,,,f [,,ff2] | \
+[,dff{a}1] [,,de/] [,,ff] [,,,de1] [,,bc] [c,da] d [f,,,e] ,f | \
+[dd,,c2] [dc,,a/] ,,d [cd1] {,,,a} [,da,a] [,c,c] ,,,,,a |"
+19;;8r;[17];John Wilson;;TH;;C;"[,def,d2] {4}1 ,,d [,,effd] ,,g [,,daac2] | \
+[,,ea,d1] [,,da,b] [,bd{b}] ,,b [,daa{a}2] ,,d1 [,,ea] | \
+[,b,c1] [,d,e] [,,ef2] [,,dd{a}] ,d1 ,f |"
+20;;8r;[18];John Wilson;;TH;;C;"[,dff2] [,,b,,d1] [,,a,a/] ,,,c [,dbac2] [,,dcd1] ,,b | \
+[,baa1] [,ab] {a}/ [,,ff] [,,de1] \
+[,a,a,d] [,,dc,c/] ,,,a [,,b,,a] ,,,,c [,,d,e] ,,b |"
+21;;8v;[19];John Wilson;;TH;;C;"[,bdd2] ,,,,,b1 ,,,,,d [,b,da2] [,db,b1] ,,,d | \
+[,bbcd2] [,,,c{,a}1] [,,,d{a}] [,bbc,a2] [,,d,db1] [,,b,da] | \
+[,,,dd{a}1] ,,,,c/ ,,,,a [,,,dc{a}] ,,,,d1 \
+,,,,c/ [,,,cd{,a}3/2] ,,,d/ ,,b ,,,c ,,d ,,b |"
+22;;8v;[No title];John Wilson;;TH;;C;"[,bcddb3] ,,,,d1 ,,,d/ ,,b ,,c ,,,d [,,,cd] ,,,d ,,b ,,,,b | \
+[,c,da1] ,b [,c,db] ,,,,a/ ,,,,b | \
+{5}1 [,bcddb3/2] ,,,,,d/ ,,,,,c ,,,,,b |"
+23;;9r;[20];John Wilson;;TH;;C;"[,efgge2] [,efg1] ,,,f/ ,,,g [,,,fg{a}] ,,,g ,,e {,a} [,ee{,,a}1] ,,c | \
+[,cc{,,,a}2] ,,b1 ,e [,ff{4}/] ,e ,c ,a [,,e,ec] ,,f ,c1 |"
+24;;9v;[21];John Wilson;;TH;;C;"[,egg2] ,,,,g1 ,,,d [,eef] ,,,g/ ,,,f [,dcd] ,e1 ,d/ | \
+[,eefg2] ,,,,,g1 ,,,,e [,ec,d] ,,,,b/ ,,,,,e [,ee,,d1] ,,,,,e/ ,,,,,d |"
+25;;10r;[No title];John Wilson;;TH;;C;"[,d,db2] [,de,,b1] [,bd] [,,ea{,,a}2] [,,db{,a}1] ,,b | \
+[,,,db{a}2] y/ ,,e/ ,,c ,,e [,,b{b}2] y/ ,d/ ,b ,,e | \
+[,,d,db1] ,,e ,b [,,b,d{b}/] ,,d [,,ed{a}2] [,,eb{,a}1] ,,d |"
+26;;10v;[No title];John Wilson;;TH;;C;"[,c,db2] [,,e{,,a}1] ,b | [,c,db1] ,e [,g,,a] ,,g | \
+[,g,,a/] ,e ,,h ,,g [,c,db1] ,b/ ,c | \
+[,,d,db3/2] ,,e/ ,b1 [,,b,d{b}/] ,,d |"
+27;;11r;[No title];John Wilson;;TH;;C;"[,d,db2] [,de,,b1] [,bd{5}] | [,,ea{,,a}2] [,,db{,a}1] ,,b/ ,,d | \
+[,,ed{a}2] y/ ,,e/ ,,d ,,e | [,,b{b}2] y/ ,e/ ,b ,,e | \
+[,,d,db1] ,,e ,b [,,b,d{b}/] ,,d |"
+28;;11v;[No title];John Wilson;;TH;;C;"[,eeeg2] {a}1 ,,,,,b | [,e,,,c1] [,,e{5}] [,gf{4}] ,e | \
+[,dc{,,,a}1] ,,a/ ,,,d [,ea1] ,,,d/ ,,,b | \
+[,g,,g{,,,a}1] ,,,,f/ ,,,,d [,g,,e{,,,a}1] ,,,,,g |"
+29;;12r;[No title];John Wilson;;TH;;C;"[,eefg2] [,,e{a}/] ,,g ,,e ,,,g | [,eef1] ,,,,g [,egg2] | \
+,,,b/ ,,,d ,,,b ,,,,e [,ec,d1] ,,,,,e | \
+[,ee,,d1] {a} [,,h,ge] ,,g |"
+30;;12v;[No title];John Wilson;ff.13r-144v Songs by John Wilson (Staff);TH;;C;"[,bbbd3] ,,,,c/ ,,,,a | [,dbac2] [,bbbd1] ,d | \
+,e1 ,,,,,d [,ed{,,a}] ,d | [,d,d{,,,a}1] ,b/ ,a [,b,b1] [,,d] | \
+[,a,d{4}1] ,,,b/ ,,,a [,b,b2] |"
+31;;145r;I am confirmd in my beleife;John Wilson;;TH;;C;"[,abacd6] | [,aba{4}6] | {a}2 [,dda] ,,,,d [,db,c] [,ba,a] [,aba,d] | \
+[,,aaf{a}3] ,,,a1 [,,bc] [,,de] | [,dff4] ,,,e1 ,,,f | \
+[,daa2] {a}3/2 ,,,,,a/ [,,da,c2] |"
+32;;145v;Draw neere you Lovers;John Wilson;;TH;;C;"[,cde,c2] [,a,d,e] | [,ca,a2] [,d,,c1] ,f | [,acde2] [,,aaf] | \
+[,,a,c1] ,,c [,,dca3/2] ,,,,,e | [,cde,c2] [,,c,,a1] [,,a{a}/] ,,c | \
+[,,d,e{,,,a}2] [,acc,a] | \
+[,,a,a1] [,,d,,c] [,,c,d{4}2] [,,c,de] [,c,,b] |"
+33;;147r;Thou greate and good;John Wilson;;TH;;C;"[bdda2] [,ddd{a}3] ,,,,,a1 [,bdd,b2] | \
+{5}2 [,bdd,b] | [,,b,,a1] ,,,c ,,d/ ,,b [,,,d{a}1] [,b,da] [a,,,d] [a,,,b] ,d | \
+[,c,ca1] ,,,,,d [,bdd,b2] |"
+34;;147v;Rebellious fools that scorne;John Wilson;;TH;;C;"{,,,a}2 [,cdca] | [,dda2] ,,,,e/ ,,,a [,a,c] ,c | \
+[,d,e/] ,,,g [,f,h1] [,a,a] ,,d | \
+[,,d,e1] [,,c,c] [,,d,e{,,,a}2] [,cdca] [,acc3/2] ,,,a/ |"
+35;;148v;Henceforth Farwell to woemankind;John Wilson;;TH;;C;"[,cde,c2] {5} | [,cde,c2] ,,f1 ,,d/ ,,c | [,,d,ec2] {5} | \
+[,,d,,c1] [,a,c,e] [,,dca2] | {,,,a}1 [,c,,a] [,a,,,e] [,,d,,c] | \
+[,,c,,b1] [,,d,,c] [,adc,a] ,,c [,,d,e{,,,a}4] |"
+36;;150r;Were thy Heart soft as thou art faire;John Wilson;"f.151r empty; ff.151v-156v Songs by John Wilson (Staff)";TH;;C;"[,cde,c2] {5} | [,,cde{,a}2] [,acde] | [,,aaf2] [a,,,e1] [,d,,c] | \
+[,ca,c2] [,d,,c1] ,,a | [,ccde4] | [,c,,b1] [,e,,c] [,a,,,e] [,,d,a] | \
+[,a,,,e1] [,,d,,c] [,cc,,b3/2] {b}/ |"
+37;;157r;Thus darksett of my light;John Wilson;;TH;;C;"[,cde,c3] ,,,,,e1 [,ca,a2] [,c,de1] ,a | \
+,,,,,c1 [,cde/] ,,,c [,aaa1] {a} | {,a}1 [,ccde2] ,,,b1 | \
+[,acc1] ,,,a/ ,,,,e [,,c,c1] [,,a,a] [,dc,c2] |"
+38;;158v;See how this violett;John Wilson;;TH;;C;"[cdda2] [c,d,e1] a | [,dda1] {a}2 ,,,,,a/ ,,,,,c | \
+[,aba,d2] [cdda] | [a,d,e2] [,dda] | [,,daa1] ,,c [,,dca2] | \
+[,abc3] [a,d,e1] | [,dda2] [,dff1] [,,de] |"
+39;;159v;Since thou hast view'd som Gorgon;John Wilson;;TH;;C;"[,cde,c2] {5} | [,cde/] ,,,c [,,c,f] ,,a [,ccde3/2] ,,,,c/ [,c,,a1] [,a,,,e] [,cde,c2] | \
+[,cde3/2] ,,,c/ [,dda2] | \
+[,ac/] ,,,a ,,,,e ,,,,c [,c,ca1] ,,,,,e/ ,,,,,c |"
+40;;160v;I yeild faire Enimy;John Wilson;ff.161v-170v Songs by John Wilson (Staff);TH;;C;"[,,d{5}2] [,cde,c] [,cde] [,daac] | [,ccde2] [,,e,ec] [,aaac3/2] ,,,,e/ [,daa2] | \
+[,,a,a1] [,,,d,e] [,,dc,c] ,,,b | [,acc,a3/2] {b}/ [,ccc{,a}2] | \
+[c,d,,c2] [,efg,e] | [,eefg4] | [,,bbb{5}4] |"
+41;;171r;Cloris I faine would try to love againe;John Wilson;;TH;;C;"[,cde,c2] {5} | [,cde,c1] [,a,,,e] [,da,b] ,c | \
+[,caac1] ,a [,,d,ec2] | [,acc,a2] [,acc1] [,,,de] | \
+[,cde1] [,d,a] [,,a,e] ,,,c | [,da,c1] [,acc] ,,,,,a2 |"
+42;;172v;I goe Deare Saint away;John Wilson;;TH;;C;"[,ddd{a}2] [,dddf1] ,,,,d | [a,,,b1] ,d [,c,ca] [,d,a] | \
+[,def,d2] ,,,d1 [,,,c{,a}] [,bbcd2] [,bdd] | \
+[,,dc1] [,,b,,a] [,ddda{a}2] | \
+[,,ea,d3/2] ,,,,a/ [,d,,b1] [a,,,d] |"
+43;;173v;Cruell Clarinda tell me why;John Wilson;f.174r Song by John Wilson (Staff);TH;;C;"[bdda2] [,d,,c] [,fd,e3] ,,,f1 | [,dddf/] ,,,,d [a,,,b] ,d ,,,,a1 [,fgh/] ,,,f | \
+[,bdd1] [d,,c] [,bdd] ,,,,,b | [,bbc{,a}2] [a,,,d1] [,d,,c] | \
+[,bbcd3/2] ,,,a/ [,bbc1] ,,,d |"
+44;;174v;The wound Love gave me th'other day;John Wilson;f.176r-177r Songs by John Wilson (Staff);TH;;C;"[,dddf2] [,fd,e] | [b,,a1] [a,,,a] [,d,ab/] ,,,c [,,,d,b1] | \
+[,bdd2] ,,,,d/ ,,,a [,bdd1] | [f,,d1] [d,,c] [b,,a] [a,,,d] | \
+[a,,,b1] ,d [,b,,a/] ,,,,,d [,,d,,b1] |"
+45;;177v;Laus Christi;John Wilson;;TH;;C;"[,cdeec4] | [,cde{5}4] | [,,deec3] [,c,,,a/] ,a | \
+[,cdca2] [,a,d,e] | [,cdeec3/2] ,,,,,a/ [,,a{a}1] ,,c/ ,,,e | \
+[,ccd{,a}2] [,ccce3/2] ,,,b/ [aacc4] | [,acc,a2] [,,deec] |"
+46;;179v;Martiall libro x° xlvii Epige;John Wilson;;TH;;C;"[,cdca2] [aacc] | [a,d,e2] [,daa] | [,cdca2] [a,c,e/] ,,,,,c ,,,,,a1 | \
+[,cdca2] [,acc1] [a,d,e2] [,d,a1] [,cdca2] | \
+[,cde,c1] ,,,,,e [,da,b] ,c | [,d,,c1] ,,,,e [,aab2] |"
+47;;180v;Petronius Arbiter fragment;John Wilson;;TH;;C;"[,accca2] [,,c{a}1] ,,a | [,,c,ca2] [,cee,c] | \
+[,a,,,e/] ,,,,b ,,,,c1 [c,f,,c] ,,e | \
+[,a,c,e2] [,,d,,c1] [,c,,,b] | [,cde,c2] [,cde1] ,,,c | \
+[a,,,e1] [,,ab] [,acc2] |"
+48;;181v;Statius Lib:5 ad Somnum- Pars Prima;John Wilson;;TH;;C;"[,ddd{a}4] [b,,a1] [a,,,d] [a,,,b] ,d | \
+[,,d,a{,,,a}1] ,,,,c [,,d,e{,,,a}] ,,,,a | \
+[,,dd{a}1] [,,d,e{,,,a}] [,,d,e{,,,a}] [,cdca3/2] ,,,,c/ | \
+[b,d,e1] a [b,,a] [a,,,e] |"
+49;;182r;Pars Secunda;John Wilson;;TH;;C;"[,bdd,b3/2] ,,,,,a/ [,,b{a}1] ,,,d | [,bbc{,a}2] [,bdd,b] | \
+[,bdd1] ,,,c [d,,a] b | [,bbcd1] {,a} [,d,d{,,a}2] | \
+[,d,db2] [,b,da1] ,,,,,b | [,bbcd3] [,,d,,b1] | \
+[,bbc,a2] [,,b{a}1] ,,,d |"
+50;;183r;Pars Tertia;John Wilson;;TH;;C;"[,bdd,b2] [,d,db] | [,b,da2] [,,ea,d3/2] ,,,c/ | \
+[,ddd{a}3] ,,,d/ ,,,c | {a}/ ,,d ,,b ,,,d [,bbc{,a}2] | \
+[,bbcd2] [,bbc{,a}] | \
+[,,,cd/] ,,,d ,,b ,,,,b [,b,,a1] [,,e,,d] |"
+51;;183v;Horatius Lib 1 Ode 18;John Wilson;;TH;;C;"[,cde3] ,,,,e/ ,,,b | [,ccd2] [,cde3/2] ,,,c/ | \
+[,aab1] ,,,c [,cdd] ,,c | [,cde2] [,,cc] | \
+[,,a,f/] ,,c ,,d ,,,,e [,a,,c] ,c ,d1 |"
+52;;185r;Horatius lib:1 Ode 30;John Wilson;;TH;;C;"[,aba{4}2] [,aba,d] {4} [,aba,d] | {4}2 [,aba,d] | \
+[a,d,d3/2] ,,,,c/ [,b,ca1] ,,,,,d/ ,,,,,c | \
+,,,,,a1 [,bdd,b2] ,,,,,d1 | [,,aaa{a}2] [,,bc{,a}] | \
+[,aba,d2] [,dff1] ,,,e |"
+53;;185v;Horatius Lib 1 Ode 19;John Wilson;;TH;;C;"[,aba{4}2] [,dff,d] | [,b,cd1] ,a [,,def2] | \
+[,,,aa{a}3/2] ,,,c/ [,,ae1] ,,,,f | [,bbc,a2] [,,da,c] | \
+[,aba,d2] [,bbcd] | {,a}1 {,,a} [,,,c{,,,a}] ,,a | \
+[,aba,d2] [,,b{a}1] ,,a [,aba,d2] [,bbcd] |"
+54;;186v;Horatius lib:1 Ode 32;John Wilson;;TH;;C;"[,aba{4}2] [,aba,d] | [,,b,d1] ,,,,c [,bb,a] ,,a | \
+,,,,,d1 ,,,,f [,dff] ,,,,,d | [,dff1] ,,,e [,bbc] ,,,a | \
+[a,b,d1] ,,,,c/ ,,,,a [,a,,,d1] [,,d,,c] |"
+55;;187v;Horatius lib:1 Ode 7 - Pars Prima;John Wilson;;TH;;C;"[,cdeec2] {5} [,cdeec] [,ccd{,a}] | [,acc,a3] [,a,c,e1] | \
+[,cdca2] [,acc,a] | [,cd,,c1] ,,,,,b [,ed,,c] ,c [e,h,,e] ,,f {,a} [,ccde] | \
+[,cde,c3/2] ,,,,,e/ [,,a,a1] ,,,c |"
+56;;188v;Pars Secunda;John Wilson;;TH;;C;"[,cdca2] [,cdc{,,,a}] | [,cdca2] [,a,c,e] | [,,dca1] ,,,,c [a,d,e2] | \
+[,aaa1] ,,,,e [,dd,c] ,,c | [,c,,a1] [,a,,,e] [,,dca2] [,accca4] | \
+[,cdca2] [,cdc{,,,a}] | [,cdca2] [,,,d,e1] [,,,e,c] |"
+57;;189v;Horatius Ode 7 Epodon;John Wilson;Hec Ode solemni gravitate modulanda est;TH;;C;"[a,,,d1] [,d,,c] [,,dca] ,,,,c | [a,d,d2] [,dda] | \
+[a,,,d1] [,d,,c] [,,dca2] [,abc3/2] ,,,e/ [,dff2] | \
+[,dff,d1] ,,,,,b [,bbc,a2] |"
+58;;190v;Horatius Lib.3 Ode 15;John Wilson;;TH;;C;"[,bdca3] ,,,,,d1 [,a,,,b] ,,d [,,c,,a] [,,d,,c] | \
+[,a,c,e1] ,,,,,a [,,d,a] [,acc2] ,,,a1 [,,,cd] [,,dd] | \
+[,dff2] [,fd,d] | [,,,df1] [,acc2] ,,,a1 | \
+[a,b,d1] [,d,,c] [,d,,a] ,b"
+59;;191v;Horatius Epod. 2 - Pars Prima;John Wilson;;TH;;C;"[,accca4] [,accca] | [,cdca2] [,acc] [,acc,a] [,aab] | \
+[,acc1] ,,,,,e [,,d,a] ,,c | {,,a}2 [,aabc] [,cde,c] [,cde] | \
+[,cdd1] ,,c [,cde2] | [,c,ee1] ,,,d/ ,,,,c [,c,,a1] [,a,,,e]"
+60;;193v;Pars Secunda;John Wilson;f.195v Song by John Wilson (Staff);TH;;C;"[,accca4] | [,aa,c{a}4] | [,aab2] [,acc] | [,a,a1] [a,d2] [,,c,c1] | \
+[,,d,a3/2] ,,c/ [,,a{,,,a}3/2] ,,,c/ | {,,aa}2 [,aabc] [,aabc] [,cee] | \
+[,acc2] [,aab1] ,,,,e/ ,,,,c |"
+61;;197r;Horatius Lib.1 Ode 38;John Wilson;;TH;;C;"[,abacd2] {4} | [,abacd2] {4} | [a,b,d1] [,d,,c] [,b,ca3/2] ,a/ | \
+[,,dca2] [,,aaa{a}3/2] ,,,,,a/ | [,,da,c1] ,,,,,d [,,ba,a] ,,,,e | \
+[,,def{a}4] [,dda2] [a,b,d3/2] ,,,,c/ \
+[,,dca2] [,a,a,d1] [,,d,,c] |"
+62;;197v;Horatius Lib.1 Ode 23;John Wilson;;TH;;C;"[,bbcd2] {,a} | [,bbc,a2] [,bdd,b] | [,bbcd2] ,,,,,d1 [,b,da3/2] ,,,,c/ [a,,,d1] [,dbac2] | \
+[,bb,a1] [,,a{,,,a}] {4} [,a,a,d] | [,,da,c1] ,,,,,d [,bbcd2] | \
+[,bdd3] [,,d,,b1] [,aba,d2] [,bdca]"
+63;;198v;Horatius Lib.1 Ode 10;John Wilson;;TH;;C;"[,bdca2] {,,,a} | [,b,ca1] ,,,,c [a,d,d] ,,,,a | \
+[,acc3] [,b,ca1] | [,a,bc2] [,dcc] | \
+[,bdd1] ,,,,,b [,a,a,d] ,,,,a/ ,,,,c | \
+[,bbcd2] [,bbc{,a}] | [,bbcd3] ,,,d/ ,,,c |"
+64;;199v;Horatius Lib.1 Ode 13;John Wilson;;TH;;C;"[,ddd{a}4] | [,ddd{a}4] | [,dda2] [,db,b] [,,ec,d] [,cdca] | \
+[,bbc{,a}2] [,bbcd3/2] ,,,a/ | [,bbc2] [,bdd] [,bbcd] [,dbac] | \
+[a,b,d3] [,d,,c1] | [a,d,e2] [,dddf1] [,b,,a] |"
+65;;200v;Horatius Lib.1 Ode 22;John Wilson;;TH;;C;"[,daac2] {,,a} | [,ceeec3] [,c,,a1] | [,abc,a1] [,,,a,c] [,a,c,d] ,c | \
+[,daac3/2] ,,,,e/ [,daa2] | [a,,,e1] [,d,a] [,cdca2] \
+[,a,,,d1] [,,da,c] [,,b,ea] [,,a{a}] | \
+[,,,ca{,a}2] [,dfe{,a}] |"
+66;;202r;Horatius Lib.4 Ode 10;John Wilson;;TH;;C;"[,ddd{a}3] [,,,c{,a}1] [,d,a{,,a}4] [,d,ab] | \
+[,bdd,b3] [,,b,,a1] [,d,d{a}4] | [b,,a1] [a,,,d] [a,,,b] ,d | \
+[,cdcc2] [,,,d{,,,a}3/2] ,,b/ | [,,d,e{,,,a}2] [,cdca] | \
+[,d,ab2] [,bdda] | [,,ec,d2] [,bdd,b1] {5}"
+67;;203r;Horatius Lib.1 Ode 11;John Wilson;;TH;;C;"[,aaac2] [,cee3/2] ,,,c/ | [c,da2] [c,d,e1] a | \
+[a,,,c1] ,,d [,d,ca] ,c/ ,,,,c | [,,bce1] [,,aaf2] [,c,,a1] | \
+[,d,ac3/2] ,,,,a/ [,aba,d2] | \
+[,,d,,c1] [,a,,,d] [,c,ca] [,d,,c]"
+68;;204r;Peroratio Ovidij;John Wilson;;TH;;C;"[,ddd{a}3] ,,,c1 [,d,d{a}] [,,b,,a] [,,d,,b3/2] ,,,,,d/ | \
+[,b,,a1] [,,e,,d] [,bdd,b2] {5} [,bdd,b3/2] ,,,,,d/ | \
+[,cdca3] [,d,d{a}1] | [,,b,,a1] [,,d,,b] ,,,,,d [,c,ca]"

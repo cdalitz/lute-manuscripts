@@ -31,7 +31,7 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
 [,c{4}/] ,,,e ,,e ,c ,,e ,c | \
 [,e{,,,a}/] ,,e ,e [,,c{,,a}] e 'd | \
 [e,,,,a/] ,c e ,,e ,a [,c{a}] | "
-7;D dur;6;Rigodon Du Mesme;Laurent de Saint-Luc;St.L-WV 5.80;;;C;",,a1 | \
+7;D dur;6;Rigodon Du Mesme;Laurent de Saint-Luc;;;;C;",,a1 | \
 [,,,'b{,,,a}1] [,,,c{a}] [,,a{,,,a}] [,,c{a}] | \
 [,,'a{,,,a}1] {,,a} [,,a{,a}] [,a{,,,a}] | \
 [,,'e,,a1] [,a{,a}] [,c{a}] [,e,,,a] | \
@@ -54,7 +54,7 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
 ([,c,,,a/] ,a) (,,e ,,c) (,,,e ,,,c) (,,,,e ,,,,c) | \
 [,e,,a/] c e [,a,,,c] [c,,,,e1] [,e,,a] | \
 [,'c,,,a3/2] ,a/4 ,,e ,a1 {,,,a} ::"
-12;D dur;9;Menuet Du Mesme;Laurent de Saint-Luc;St.L-WV 5.79;;;3;"([,a{,,,a}/] ,c) (,e ,c) [,a,,,a] ,,e | \
+12;D dur;9;Menuet Du Mesme;Laurent de Saint-Luc;;;;3;"([,a{,,,a}/] ,c) (,e ,c) [,a,,,a] ,,e | \
 [,a,,a/] ,,a ,a ,,a ,,,b ,,a | \
 [,e,,a/] c (e c) ([,e,,,a] ,c) | \
 [,e,,a/] ,,f ,e ,,f ,,,e ,,f | "
@@ -264,7 +264,7 @@ V[,,b{a}1] ,,,c/ ,,,a ,,,,b1 [c,,,,d] | \
 [,b,,,d1] (,a/ ,b) [,,d,,a1] [,b{,a}] | \
 [,'a{d}1] ,,d/ ,a ,,b1 ,a | \
 [,,'d,,a1] ,,,f/ ,,d [,,,e{,,,a}1] ,,d | "
-52;F dur;47;La Retirade. Fantaisie Du Mesme;Laurent de Saint-Luc;St.L-WV 43;;;C;"[,,aa{,a}1] ([,,,a,(a/] [,,,c,b)]) [,,,e,d1] [,,,'c{4}] | \
+52;F dur;47;La Retirade. Fantaisie Du Mesme;Laurent de Saint-Luc;;;;C;"[,,aa{,a}1] ([,,,a,(a/] [,,,c,b)]) [,,,e,d1] [,,,'c{4}] | \
 [,,aa{,a}3/2] ,,,c/ ,,,a ,,,c ,,a ,,b | \
 [,,dc{,,a}1] (,a/ ,c) [a,,,a1] [c,,,,c] | \
 [,'c,,,d1] ,,d1 e/ (,,,,,a ,,,,,b ,,,,,d) | "
