@@ -101,10 +101,10 @@ a/ | [aXcaba1] {,,,,a}/ ,d ,a ,c | [,,aaa1] ,,,,,a [f,a{a}3/4] ,a/4 | \
 [a,a,a1] f '[d,,a3/4] ,d/4 | [aaa1] {,,a}/ b [d{_a}1] | \
 [,,a,a{a}1] [b{,a}] ,,a/ a | '[,a,a,a3/2] ,a/ [a{,,a}] b | \
 X[d{_a}1] [,,a{a}/] ,,,,a ',a3/4 ,,,b/4 |"
-27;C;45;Sarabande de Vigneon;;Cesolut;Angélique;Conc_4298;3;"%%tabunderscoreis8
+27;C dur;45;Sarabande de Vigneon;;Cesolut;Angélique;Conc_4298;3;"%%tabunderscoreis8
 d/ | ,c/ d ',a d ,,a d | ,,,a/4 ,a f/ 'd b ,,a a | \
 ,,,,a/ ,,a b ,,,,c [a,a,Xd] a |"
-28;C;46;Gigue de bethune;;Cesolut;Angélique;Conc_4299;C;"%%tabunderscoreis8
+28;C dur;46;Gigue de bethune;;Cesolut;Angélique;Conc_4299;C;"%%tabunderscoreis8
 [,,a{,,a}3/4] ,,,,,a/4 ',,a3/4 ,a/4 [a{,,a}3/4] ,,a/4 'a3/4 b/4 | \
 [da{,,,a}3/4] ,a/4 d/ (d/4 b) '[a{,,a}3/4] ,,a/4 a3/4 ,,,,b/4 | \
 ',,,,a3/4 b/4 '[b,,,,a3/4] a/4"
@@ -192,7 +192,7 @@ X[ba,,a{,a}2] [a,a{,,a}1] (b/ a) |"
 X[ba,,a{,a}1] [dc{_a}] [fd{a}] | 'X[,,,,ba{,,,,,a}3/2] ,,a/ '[,,,,a{4}1] | \
 '[ba,,a{6}3/2] a/ X[ba,,a3/4] a/4 | '[a,b{,,,,a}3/2] ,a/ [,aXc{,a}1] | \
 [,a,a{,,,a}1] '[,,a,a{,,,,a}3/2] (,,,,b/4 ,,,,a) |"
-50;C dur;85;Sarabande;;Cesolut;Angélique;;3;"%%tabunderscoreis8
+50;c moll;85;Sarabande;;Cesolut;Angélique;;3;"%%tabunderscoreis8
 X[dba1] X[da,a3/2] d/ | X[dba{,,a}1] {6}2 | '[b{,,,a}3/4] b/4 X[ba,,b3/2] b/ | \
 X[d{5}1] X[db2] | X[b,,b{_a}3/2] d/ X[g,,,,a1] | \
 [e{a}/] b '[ba{,,,a}3/2] ,b/ |"
@@ -248,7 +248,7 @@ X[dca/2] d/ X[f{a}1] |"
 [,,aXbd{6}1] ,a a | '[a,a,,a{,,a}3/2] ,a/ ,,a1 | \
 [d{_a}1] ([f{a}/] d) ,d a | '[,a,a{,,,,,a}2] [,a,a,a1] | \
 [,,aXbd{6}1] ,a a | '[a,a,,a{,,a}3/2] b/ [d{5}1] |"
-64;C dur;100;Courante de Bethune;;;Angélique;Conc_4255;3;"%%tabunderscoreis8
+64;C dur;100;Courante de Bethune;;;Angélique;;3;"%%tabunderscoreis8
 ,,a/ | [,,a{,,a}1] ,,,,,a [,,a{a}] | [,,a{_a}3/4] ,a/4 '[,a{,a}1] ,,a/4 ,a | \
 a1 {,,a} ,,,,,a3/4 ,,a/4 | a1 ',,a ,,,a/4 ,,a ,a/ | \
 ,,,,a/ ,,a a b [d{_a}1] |"
@@ -281,7 +281,7 @@ X[,c{,,,,a}1] ,,,,a a | [f{a}1] a f/ f |"
 ',,,,,a/ ,,,,,a/4 {a} | ,,,,,a1 {,,a} [,,a,,a] {_a} | \
 [,,a,,a1] ,,a/ ,a [a,a{,,a}1] a/ b | \
 [da{,,,a}1] d/ b '[a,a{,,a}1] a b |"
-71;C dur?;108;Prelude de Bethune;;;Angélique;;none;"%%tabunderscoreis8
+71;C dur;108;Prelude de Bethune;;;Angélique;;none;"%%tabunderscoreis8
 {,,a}/ ,,,,,a ,,a {,,,,,a} ,,,,,a ,,,a ,a {,,a} ,,a a {,,,,a} \
 ,,,,a ,,a a X[ba,,a{,a}] [,aXcac{,,,,,a}] ,a [,aXcaca] \
 [d,a{_a}] {,,,,a} ,,,,a ,,a X,c |"

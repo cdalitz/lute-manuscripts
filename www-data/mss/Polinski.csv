@@ -1,5 +1,5 @@
 PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
-;;Handwritten copy from a now lost manuscript;;;;;;;
+;;Lost manuscript, formerly in the collection of Aleksander Polinski (1845-1916);;;;;;;
 1;d moll;1;Prelude;;;;;3;",,,,a/ ,a a ,a e ,c ,,e ,c ,,,,,a ,c e c [a,,,a] ,c | \
 [aVd,,a] ,,e ,a (,,,,,a ,,,,,b ,,,,,a) |"
 2;d moll;1;Prelude;;;;;3;"[e,,,,a/] ,c a ,,e ,a ,,,,,a ,,,,,b ',,,,,a | \
@@ -25,7 +25,7 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
 [,a{,a}/] [,,d)] '[,,c{a}3/2] ,,c/ |"
 9;d moll;5;7. Balletto;;;;Conc_92;C;"[,aaaa/] ,c a c e ,,,,,e ,c | '[a,,,a] ,c a ,c ,,,,,a | \
 [,,a,d] ,,c ,,d ,,c [,,a,,a] [,a{,,,a}] ,,d '[,,c{,,a}]"
-10;d moll;6;8. Rygadon;;;;;C;"[,a{,,,a}/] ,,a [,aa,a] [,ca,,e] [aVd,,a1] a/ c [e{,a}1] | \
+10;d moll;6;8. Rygodan;;;;;C;"[,a{,,,a}/] ,,a [,aa,a] [,ca,,e] [aVd,,a1] a/ c [e{,a}1] | \
 [e{,a}1] c/ e [f{a}] e c a | \
 ,,,,,a/ ,c e c '[a,,,a1] (,c/ ,a) :||:"
 11;d moll;6;9. Mars;;;;;C;"[,aaaa1] [e,,,,e/] c '[aa,,a1] ,c/ ,a ,c | \
@@ -44,7 +44,7 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
 [a,,,,a3/2] ,c/ ,d a [c,,a] a/ ,d ,c [,a,,,a3/2]"
 16;d moll?;10;2. Taniec;;;;;3;"[e/] a ,e ,c ,e a | [ce1] [,aa{,,a}2] | [,ce/] ,a ,,e ,,c ,,e ,a | \
 [,cee1] ,,,,,a :||: [,ce1] [,ef] ,c/ ,a |"
-17;d moll?;11;3.Rygadon;;;;;3;"[,cd,a1] {,,,a} ,,c/ ,,d ,a [,cd,a1] ,,,,a/ ,,,,c ,,,,e ,,,,c \
+17;d moll?;11;3.Rygodan;;;;;3;"[,cd,a1] {,,,a} ,,c/ ,,d ,a [,cd,a1] ,,,,a/ ,,,,c ,,,,e ,,,,c \
 [,cd,a1] {,,,a} ,,c/ ,,d ,a [,cd,a1] [,cd/] ,a ,c ,d"
 18;d moll?;11;4. Menuetto;;;;;3;"[,cd{,,,a}/] ,,c ,,d ,a ,,d ,a | [,,d{,,,a}3/2] [,,cc/] ,,,,,a1 | \
 [,cd,a/] ,a ,c ,d ,c ,d | [,cd,a1] ,,d {,,,a} |"
@@ -56,7 +56,7 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
 ,a/4 ,c [,d,a] a ,c ,d [,a,,,a3/2] ,,d/ [,,da1] {,,,a} :||:"
 22;;17;Menuetto;;Nr. 8;;;3;",c/ ,d a1 ,,,c | [a,,,,a2] a1 | [cd,a1] d/ c a ,d | \
 [ac,,a/] ,d ,c ,a [,cd,a1] | ,c/ ,d a1 ,,,c |"
-23;;18;Hyrwany;;Nr. 9;;;3;"[,aa{,,a}/] ,c ,d ,c ,d ,a | [cd,a1] a/ ,d ,c ,a | \
+23;;18;Wyrwany;;Nr. 9;;;3;"[,aa{,,a}/] ,c ,d ,c ,d ,a | [cd,a1] a/ ,d ,c ,a | \
 [cd,a1] a/ ,d ,c ,a | [,cee] ,a ,c ,a ,,e ,c |"
 24;F dur;20;[Menu]etto;;Nr. 10;;;3;"[,daa1] ,,d/ ,,,,a {,,,a} ,,d | [,cd,a2] {,,,a}1 | \
 [,cd,a1] [,daa] a | [cd,a1] a/ c d a | \

@@ -3,7 +3,7 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
 [,,a{,,a}1] '[,,a,,a{_a}3/2] ,a/ | [,,,a,a3/2] ,,a/ [,,,,a{a}1] | \
 'a3/2 {_a}/ {a}1 | '[,a,a,a3/2] a/ ,,a1 :||: \
 d1 '[d{,,a}] f/ a | [b{,a}3/2] d/ ,a {_a} |"
-2;C dur;3v;2. Courante;;;Angelique;;3;"%%tabunderscoreis8
+2;C dur;3v;2. Courente;;;Angelique;;3;"%%tabunderscoreis8
 [,,a{,,a}1] ,a [a,a/] b | '[,a,a,a3/2] ,,a/4 ,a ,,a1 | \
 ,,,,a/ ,,a ,,,,,a ,,a ,a {_a} | {_a}/ ,,a a b Xd1 |"
 3;C dur;4r;3. Passage;;;Angelique;;3;"%%tabunderscoreis8
@@ -22,7 +22,7 @@ d/ | [dca{,,a}3/2] f/ 'd3/4 b/4 | [a,a1] [b,,,a] [d,,,,a] | \
 [,,,,,a{_a}1] ,,a | [,,,,a{a}1] ,a '[,,,a,a3/2] ,,a/ | \
 [,,abd{,,a}1] [,,abd] '[,,,a{,,,,,a}3/2] [,,a{,,,,a}/] | \
 [,aca{,,,a}1] ,a/ a '[a,a{,,a}3/2] ,a/ | [,aca{,,,,,a}2] :||:"
-7;C dur;6r;8. Sarab[ande];;;Angelique;;3;"%%tabunderscoreis8
+7;C dur;6r;[8.] Sarab[ande];;;Angelique;;3;"%%tabunderscoreis8
 d/ | ,c/ d ',a d ,,a d | ,,,a/4 ,c f/ 'd ,d ,,a a | \
 ,,,,a/ ,,a b [,,,,(c] [a,a,d)] a |"
 8;C dur;6v;9. Guigue;;;Angelique;Conc_5272;3;"%%tabunderscoreis8
@@ -93,7 +93,7 @@ Xf1 | '[ba{,a}3/2] a/ b1 | {_a}1 d ,,a | '[d{,,a}3/2] f/ g1 | \
 '[,,a,a3/2] [,a,a/] ([a,a] b) | '[,a,a,a2] :||: [d,a{_a}1] | \
 V[f,a{a}1] [d,,a,a3/2] ,d/ |"
 25;a moll;25r;27. Gavotte;;;Angelique;;C;"%%tabunderscoreis8
-',,,,a1 {_a} | ,,,,a/ ,,,a [,aaa1] '[,,a{,,,,a}] '[,a{,,,a}] | \
+',,,,a1 {_a} | ,,,,a/ ,,,a [,,aaa1] '[,,a{,,,,a}] '[,a{,,,a}] | \
 [a,a{,,a}1] ,,,,a [a,a{6}] ,,,,a | \
 [,a,a{,a}3/4] ,c/4 ',a/ ,,a [,,,a{_a}] ,,,,a ,,,,,b ,,,a |"
 26a;a moll;25v;28. [Courante];;;Angelique;;3;"%%tabunderscoreis8
@@ -106,7 +106,7 @@ V[f,a{a}1] [d,,a,a3/2] ,d/ |"
 [a,a{,,,,a}1] a '[,a{,,,a}] | [,,a{,,a}1] ,,a/ {,a} [,,,a{_a}1] | \
 [,,,,a{a}1] [,,,a{,a}] '[,,,,,b{_a}] | ([,,,,,c{,,,,a}/] ,,,,,b) ,,,,,c X,,,a ,,a ,a | \
 [a,a{,,,,a}1] a '[,a{,,,a}] |"
-28;g moll;27v;30. Echau de Mons. Le conte Logis;;;Angelique;Conc_1418;3;"%%tabunderscoreis8
+28;g moll;27v;30. Echau de Mons. le conte Logis;;;Angelique;Conc_1418;3;"%%tabunderscoreis8
 ,a1 | [daaa,a1] d [,a{_d}/] f | V[ga,,,a2] :||: \
 '[f{a}1] | [,f{_a}3/2] f/ [,,f{,a}1] | '[,b,c{,,a}3/2] ,d/ [,a{,,,a}1] | \
 [,a,,a{b}3/2] ,a/ ',,a ,a | '[,,,a{,,,,,a}3/2] ,,,,a/ ,,,,,a1 |"
@@ -114,7 +114,7 @@ V[f,a{a}1] [d,,a,a3/2] ,d/ |"
 [da,a,a1] (d/ b) (,b ,a) | ([,b{,,a}/] ,d) (,b ,a) ,,a1 | \
 {b}1 ,a ,,,,a | ([,,,,b{,,,,,a}/] ,,,,d) (,,,,b ,,,,a) ,,,,,a1 | \
 '[da,a,a1] d {_d}/ f |"
-30;;30r;[32. Prelude];;;Angelique;;none;"%%tabunderscoreis8
+30;g moll;30r;[32. Prelude];;;Angelique;;none;"%%tabunderscoreis8
 ',,,,a3/2 ,,,,a/ ,,,a ,,,c ',,,a ,,,,a ,,,a {,,,a} ,a {,,a} ,,,,,a \
 ,b3/4 ,d/4 ',b ,a ,,a ,,,a ,,,,a ,,,,,a {,a}"
 31;C dur;30v;[33.] Rigaudon;;;Angelique;Conc_1785;C;"%%tabunderscoreis8
@@ -135,7 +135,7 @@ V[f,a{a}1] [d,,a,a3/2] ,d/ |"
 '[baa,a{a}3/2] a/ b1 | '[,a{,,,a}3/2] ,,a/ ,,,a1 | '[,,,,a{4}2] [,,,b{,,,,,a}1] | \
 ([,,,c{6}/] ,,,b) (,,,c ,a ,,,c1) | '[b,a,a{a}3/2] a/ b1 | \
 '[,a{,,,a}3/2] ,,a/ ,,,a1 |"
-35;F dur;33v;[37.] Gavotte;;;Angelique;;C;"%%tabunderscoreis8
+35;F dur;33v;[37.] Gavotte;;;Angelique;Conc_2601;C;"%%tabunderscoreis8
 (b/ a) | [b,a,a{a}1] {,,,,a}/ ,,a ([,,c{,,,a}1] [,,a{,,a}]) | \
 '[,,,a{,a}1] {_a}/ ,,a [,,,,a{a}1] {a}/ {_a} | \
 [,,,,a{a}/] ,a [,,,,ca{a}1] [,,a,,a{_a}/] d |"
@@ -154,7 +154,7 @@ f1 | [f,a,a{a}3/2] g/ f1 | [,fa{_a}3/2] ,h/ ,f1 | \
 {4}1 [,,,,a{a}] ,,,a | [,,a{_a}1] ,,,,,a ,,a | \
 [,a{,a}/] a b1 ,,,,c | '[a{,,a}3/2] ,a/ ,,a1 :||: \
 {,,,,a}/ ,,a '{a}1 {_a} | {,,,a}/ ,a ',,,,,a1 {a} |"
-40;C dur;37v;42. Marche de Prince Louiss;;;Angelique;;C;"%%tabunderscoreis8
+40;C dur;37v;42. Marche de Prince Louijs;;;Angelique;;C;"%%tabunderscoreis8
 '[,,a,,a{,,a}3/2] ,a/ [aaa{,,a}1] ,,a | [dca{,,a}1] i '[dca{6}3/2] ,,,,,a/ | \
 '[,,a{,,a}/] ,,,a ,,a ,a [aaa{,,a}] ,a a ,,a | \
 [dca{6}1] i [dca{,,a}] {,a} |"
@@ -163,7 +163,7 @@ f1 | [f,a,a{a}3/2] g/ f1 | [,fa{_a}3/2] ,h/ ,f1 | \
 '[,,,a{,,,,,a}3/2] ,,,,a/ ,,,,,a1 | '[,,a{,,a}2] [,a{,,,a}1] | \
 [a{,,a}2] ([b{,a}1] | [d{_a}1]) ,,a ,a | \
 '[,,,a,a2] {,,,,,a}1 :||:"
-42;C dur;38v;44. Marche de Mons. Conte Castell.;;;Angelique;;C;"%%tabunderscoreis8
+42;C dur;38v;44. Marche de M. Conte Castell.;;;Angelique;;C;"%%tabunderscoreis8
 [,,abd{,,a}1] '[,a,a{,,,a}] [aca{,,a}3/2] ,,,,,a/ | \
 ""pi:""[,,abd{,,a}1] [,a,a{,,,a}/] a/4 b [aca{,,a}3/2] ,,,,,a/ | \
 ""for.""[,,a{,,a}/] ,a/4 a [,a,a,a/] a/4 b \
@@ -171,7 +171,7 @@ f1 | [f,a,a{a}3/2] g/ f1 | [,fa{_a}3/2] ,h/ ,f1 | \
 43;C dur;39v;45. Menuet;;;Angelique;;3;"%%tabunderscoreis8
 [d{,,a}/] ,d d f d1 | [d{,,,a}1] ,a d | [f{,,,,a}1] 'd ,e | \
 [d{,,,,,a}/] ,d d f d1 | [d{,,a}/] ,d d f d1 |"
-44;C dur;40r;[46.] Prelude;;;Angelique;;none;"%%tabunderscoreis8
+44;C dur;40r;[46.] prelude;;;Angelique;;none;"%%tabunderscoreis8
 ,,a/ ,c d ,,,a ,a d ,,,,a ,,a b ,,,,,a ,,,a a {a} ,,,,a ,a \
 {_a} ,,,,,a ,,a '[,,a{a}{,a}]"
 45;C dur;40v;47. Menuet;;;Angelique;;3;"%%tabunderscoreis8
@@ -225,7 +225,7 @@ a/ b | d1 ,,,,,a [,a{,,,a}] | [,ca{,,a}2] i/ h | \
 ,,a/ ,a | '[a,a{,,a}1] a ,,a | [da{,,,a}1] d [da] | \
 '[,a,a,a1] a b | '[a,a{,,a}2] a1 | '[,a{,,,a}1] a ,a | \
 '[,,a{,,,,a}1] ,,a [,,,a{,,,,,a}] |"
-57;a moll;49v;58. Gavotte;;;Angelique;;C;"%%tabunderscoreis8
+57;a moll;49v;58. Gavotte;;cf. Conc_1976;Angelique;;C;"%%tabunderscoreis8
 [f,a{,,,,a}1] '[da{,,,a}/] ,d [a,a{,,a}1] [b{,a}] | \
 [,,,,a{a}/] {_a} {,a} ,,,a [{b}{_a}] {_a} {,a} | \
 [,,,,a{,,a}/] {,,,a} {,,,,a} [,,,a,b] \
@@ -246,7 +246,7 @@ a/ | [aca{,,a}1] ,,a d3/4 {a}/4 | [d{_a}3/2] a3/4 b/4 d b | \
 '[a,a3/2] {,,a}/ [,a{,,,,,a}/] (,,,b/4 ,,,a) | \
 [,,ab3/2] {,,a}/ [,,,,,a{_a}3/2] [,,,,a{a}/] | \
 '[,,,a,a3/2] [,,a{_a}/] [,,,,a{a}3/2] [,,,a{,a}/] |"
-62;G dur;54v;63. Menuet;;[Un coeur qui veut estre volage];Angelique;Conc_4300;3;"%%tabunderscoreis8
+62;G dur;54v;63. Men[uet];;[Un coeur qui veut estre volage];Angelique;Conc_4300;3;"%%tabunderscoreis8
 [,a,a,a1] | [,ca{,,a}3/2] [,a{,,,a}/] [,,a{,,,,a}1] | \
 [,,,a{,,,,,a}1] ,,,,a/ ,,,a [,,a{,,a}] ,,,a | \
 [,,,,a{a}{,a}1] ,,,,a [,a,a{,,,a}] | \
@@ -266,7 +266,7 @@ a/ | [aca{,,a}1] ,,a d3/4 {a}/4 | [d{_a}3/2] a3/4 b/4 d b | \
 [d{,,a}1] '[d{_a}3/2] ,e/4 d |"
 66;C dur;56v;67. [Lied];;f. 57r: zu leiden und lachen;Angelique;;3;"%%tabunderscoreis8
 ,,,,,a1 | [,,abd{,,a}1] ,,a [,a,a{,,,a}] | [aca{,,a}1] [aca] [,,,,,a{_a}] | \
-[,,,,a{a}3/2] ,,a/ [,,,a,a] | [,,abd{,,a}] {6} [,,,,,a{_a}] | \
+[,,,,a{a}3/2] ,,a/ [,,,a,a1] | [,,abd{,,a}] {6} [,,,,,a{_a}] | \
 [,,,,a{a}1] '[,,,,,a{,,,a}] {a} | [{_a}{,,a}1] {6} ,,,b |"
 67;C dur;57v;68. [Lied];;f. 58r: Es ist in der Welt das mich thut plagen;Angelique;;3;"%%tabunderscoreis8
 [a,a{,,,,a}1] ,a [aaa] | [,,a,a3/2] ,a/ [a,,,,a1] | \
@@ -311,7 +311,7 @@ Xf1 | '[,d{,a}1] (,f/ ,d) a ,a | '[,,b{,,,,a}3/2] ,,,,a/ [,a,,c1] | \
 [fd{,a}1] ',a3/2 (a/ | [ba{,a}1]) ',a2 | (3[a{,,,,,a}/4] b d) b/ ,c b ,a ,c | \
 '[,,b{,,,,a}1] [,,bda] ,,,,a/ ,,,,,a | \
 [,a,,a{a}/] {_a} '[,a,,a{,a}3/2] ,,a/ |"
-78;d moll;65r;79. Men[uet] Wo bleibest du so lange;;;Angelique;;3;"%%tabunderscoreis8
+78;d moll;65r;79. Men[uet] Wo bleibest du so lang;;;Angelique;;3;"%%tabunderscoreis8
 [,a,,a{,a}1] a b | [a,,,a{,,b}3/2] b/ a1 | [,a{,,,a}1] [,a,,,a] a | \
 '[,,b{,,,,a}3/2] ,,,a/ ,,,,a1 | [,a,,a{,a}1] a [ba] | \
 [a,,,a{,,b}3/2] b/ a1 |"
@@ -381,7 +381,7 @@ f1 | [f,a{,,,,a}3/4] d/4 '[da{,,,a}3/4] ,d/4 [a,a{,,a}/] a1 [,a,a,a/] | \
 '[,,,a{,,,,,a}1] [,,,a,a{,a}] [aca{,,a}3/2] c/ | \
 [,b,a{,,,a}3/2] a/ [c{,a}1] [d{_a}] | '[c{,a}1] [daca{a}] :||: \
 [,a,a,a3/2] ,a/ |"
-95;C dur;77v;[96.] [Lied?];;;Angelique;;C;"%%tabunderscoreis8
+95;C dur;77v;[96.] [March];;;Angelique;;C;"%%tabunderscoreis8
 [dca{,,a}/] [dca/4] [dca] [dca{_a}/] [dca] '[d,,a,a3/2] ,d/4 [a,a{,,a}] b d/ | \
 [,,a{,,a}/4] ,a ,,a ,a [a,a{6}] ,a a b [a,a{,,a}] b"
 96;C dur;78v;[97.] Rigodon;;;Angelique;;C;"%%tabunderscoreis8
@@ -393,7 +393,7 @@ f1 | [f,a{,,,,a}3/4] d/4 '[da{,,,a}3/4] ,d/4 [a,a{,,a}/] a1 [,a,a,a/] | \
 ([,c{,,a}/] ,d) (,c ,a) ,,a1 | [da{,,,a}3/2] b/ [a,a{,,a}1] | \
 [,a{,,,a}1] a [,,a{,,,,a}] | [,a{,,,,,a}/] ,,a ,,,a ,,,,a ,,,,,a1 | \
 [,ca{,,a}/] (,d ,c ,a) ,,a1 |"
-98;C dur;79v;[99-] Chaconne;;;Angelique;;3;"%%tabunderscoreis8
+98;C dur;79v;[99.] Chaconne;;;Angelique;;3;"%%tabunderscoreis8
 [,,a{,,a}1] {,,,a}/ ,a [a,a{,,a}1] | [,a,a,a1] d/ f 'd ,d | \
 [a,a{,,a}1] [b,,,a/] d '[b{a}] a | '[,a,,,a3/2] ,,a/4 ,a a1 |"
 99;C dur;80v;[100.] Schmied Cour[ante];;;Angelique;Conc_1378;3;"%%tabunderscoreis8

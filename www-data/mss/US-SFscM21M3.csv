@@ -17,7 +17,7 @@ X[fg,d/] g f d ,g1 |";italian7tab
 [aXb,,d1] ,,,,,,,a [ab] | ,,,,a1 ,,,,c ,,,,e | \1
 [bXdXda1] ,,,,,,a [bdd] | ,,,,d1 [,d,,b] ,,,,,d | \
 [aXcXdca1] {10} [acd] |";italian7tab
-6;;23;Corente in semitono;;;OT;ConcR2797;3;"Xd1 | [dbbcd2] [f,,d1] | [db,c1] f [b,,a] | \
+6;;23;Corente in semitono;;;OT;ConcR512;3;"Xd1 | [dbbcd2] [f,,d1] | [db,c1] f [b,,a] | \
 [,f{8}1] d b | a1 [,bd] [,ab] | [,,dd1] f d | \
 Xb1 [bd] [ab] | [,df1] ,,,f ,,,d |";italian7tab
 7;;23;sans titre;;;OT;;3;"[,,bc1] | [,,dd/] ,,b X,,d ,a ,b ,,d | \
@@ -143,7 +143,7 @@ d1 ,,,,,d [da] [,,d,,c] [,a,,,d] [,c,,a] | \
 46;;68;Corrente della Regina di Francia;;;OT;Conc_1756;3;",,d/ ,a ,c ,d | [acdca3/2] c/ [a,,,,e] ,d | \
 [,c,,a1] ,,d a | [acdca3] | [,dd{a}3/2] a/ [,d,,c] a | \
 [,c,,a1] {10} ,a | [,cd2] ,,d1 |";italian7tab
-47;;69;Và pur superba và;;;OT;;3;",,d1 | [,,d{a}3] | [,a,,,d1] [,,d,a3/2] ,,b/ | [,,a{a}3] | \
+47;;69;Và pur superba và;;;OT;ConcR2534;3;",,d1 | [,,d{a}3] | [,a,,,d1] [,,d,a3/2] ,,b/ | [,,a{a}3] | \
 ,d1 [,c,,a3/2] ,d/ | [a,,,e1] ,,d [,d,,c] | \
 [,d,,,d1] [,c,,a3/2] a/ | [,d{a}3/2] a/ c1 | \
 [d,,c1] [c,,a3/2] a/ | [acdca2] :||:";italian7tab
@@ -171,7 +171,7 @@ d1 ,,,,,d [da] [,,d,,c] [,a,,,d] [,c,,a] | \
 [aaXbc,a1] X,,,c [aaXb] ,,,,,c | \
 [,aXb,,d1] ,,,,a [,ab,,c] ,,,,e | \
 X[cXdXda1] {a} [cdd] [d,,c] |";italian7tab
-55;;77;Corrente;;;OT;ConcR2797;3;"d1 | [dbb,d2] [f,,d1] | [d,,c2] [b,,a1] | \
+55;;77;Corrente;;;OT;COncR512;3;"d1 | [dbb,d2] [f,,d1] | [d,,c2] [b,,a1] | \
 [dbb,d1] d b | a1 [,bd] [,ab] | [,bdd1] f d | \
 b1 [bd] [ab] | [,df1] ,,,f ,,,d | X,,,c1 a ,d |";italian7tab
 56;;77;Ballo da Colla;;;OT;;C;"[cdda1] [cdda/] [cdda] [cdda1] [a,,,e] | \

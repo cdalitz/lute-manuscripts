@@ -13,7 +13,7 @@ b1 ,,,a ,,,,d | ,,,,b ,,d ,,b |";italian7tab
 [c{a}3/2] a/4 c ,d1 | [a{,a}3/2] ,d/4 a ,b1 |";italian7tab
 7;;7;Volta alla Francese detta la piaceuole;;;OT;;3;",a/ ,b ,d1 [,bd] | ,a1 ,,b ,,,c | ,,,,d1 [,,aa3/2] ,,,c/4 ,,a | \
 ,,b1 ,,,,,d {11} | ,d1 {10} {,,a} | {,a} a ,b |";italian7tab
-8;;8;Corrente detta la Fauorita;;;OT;;3;"d1 | [a,,,d3/2] ,d/4 a ,b1 | [bd1] ,a d | [ab/] ,a ,b ,d a b | \
+8;;8;Corrente detta la Fauorita;;;OT;ConcR1706;3;"d1 | [a,,,d3/2] ,d/4 a ,b1 | [bd1] ,a d | [ab/] ,a ,b ,d a b | \
 [d,,c1] a/ b d a |";italian7tab
 9;;9;Corrente detta l'Amigona;;;OT;;3;"a2 b1 | d3/2 b/ [ab1] | ,d/ a b d f b | [ab1] d/ b a ,d | \
 ,b/ ,d ,b ,a ,,d ,,b |";italian7tab
@@ -45,7 +45,7 @@ i3/2 g/ f1 | [d,g3/2] ,,e/ [f,d1] | [g,,f3/2] [f,d/] d1 |";italian7tab
 ,,,,a1 ,,d ,a | ,b1 ,,,a ,,,,d | ,,,,b3/2 d/ b1 |";italian7tab
 22;;28;Volta chromatica detta la Sauia;;;OT;;3;",,d1 ,a ,,b | ,,d1 ,,,,a [,,b,c] | ,,,,e1 ,,,c ,,d | \
 {a}1 ,,,a f | ,,,e1 ,d f | h1 ,,,,h ,,g |";italian7tab
-23;;29;Volta detta la Robartella;;;OT;;3;",d/ a b d1 f | [da1] ,c [bd] | ,,d/ ,a ,b ,d a1 | \
+23;;29;Volta detta la Robartella;;;OT;ConcR741;3;",d/ a b d1 f | [da1] ,c [bd] | ,,d/ ,a ,b ,d a1 | \
 ,,,a/ ,,,c ,,,d ,,b ,,d1 | ,,,,a1 ,,,,,d ,,,,,b |";italian7tab
 24;;30;Volta detta L'osestana;;;OT;;3;",,,a2 ,,,c1 | ,,a1 ,,,a ,,d | ,,a3/2 ,,b/ ,,d1 | ,,b1 ,,,,c ,,b | \
 ,d2 [a,,,e1] | [c,,a1] ,d f | c3/2 d/ f1 |";italian7tab
@@ -95,25 +95,25 @@ f1 ,c ,,d | ,f1 ,,,,a [,d,,c] | ,,c1 [,c,,e] ,,d |";italian7tab
 ,,,a/ ,b ,a ,,d ,,,c ,,c |";italian7tab
 43;;49;Volta detta la virtuosa Ambasciatri(c)e;;;OT;;3;"a1 ,b ,,d | [abd,a3/2] b/ a1 | f1 h ,,,g | [if,h3/2] h/ i1 | \
 [,gf,h1] ,,,,,i f | [,g,df1] ,,d ,,f | [,fgfd1] ,,,,,a ,b |";italian7tab
-44;;50;Canzon Prima detta l'Astarosta Lauto Corista;;;OT;Conc_3465;C;"f2 f1 f | b1 ,d/ a b1 b | [ab1] ,,d [ab] [cb] | \
+44;;50;Canzon Prima detta l'Astarosta Lauto Corista;Lute I;;OT;Conc_3465;C;"f2 f1 f | b1 ,d/ a b1 b | [ab1] ,,d [ab] [cb] | \
 [da1] a/ b d1 [dc] |";italian7tab
-45;;52;Canzon Prima detta l'Astarosta Lauto piu grando un Tasto;;;OT;;C;"[aabc,a2] [aabc,a1] [aabc,a] | [,da,c1] ,a/ ,c [,da,c1] [,da,c] | \
+45;;52;Canzon Prima detta l'Astarosta Lauto piu grando un Tasto;Lute II;;OT;;C;"[aabc,a2] [aabc,a1] [aabc,a] | [,da,c1] ,a/ ,c [,da,c1] [,da,c] | \
 [a,,,e/] ,,,,c ,,,,a ,,,,c ,,,,e ,,,,a ,,,,,e ,,,,,c | \
 [aabc,a1] ,,,,,c [,ab,,d] ,,,,a |";italian7tab
-46;;54;Canzon Seconda detta la gran Marasale Lauto corista;;;OT;;C;"[,bbc{,a}2] [,bbc{,a}1] [,bbc{,a}] | [,,dd1] [,,bc] [,,dd] [,ab] | \
+46;;54;Canzon Seconda detta la gran Marasale Lauto corista;Lute I;;OT;;C;"[,bbc{,a}2] [,bbc{,a}1] [,bbc{,a}] | [,,dd1] [,,bc] [,,dd] [,ab] | \
 [abd,a/] ,d/4 ,b ,a ,,d ,,b ,,a ,,,c ,,,a ,,,,d \
 ,,,,c ,,,,a ,,,,,d ,,,,,b ,,,,,a |";italian7tab
-47;;56;Canzon Seconda detta la gran Marasale Lauto piu grando un Tasto;;;OT;;C;",,,,a2 ,,,,a1 ,,,,a | [,,aa1] [,,,ce] [,,aa] [,,bc] | \
+47;;56;Canzon Seconda detta la gran Marasale Lauto piu grando un Tasto;Lute II;;OT;;C;",,,,a2 ,,,,a1 ,,,,a | [,,aa1] [,,,ce] [,,aa] [,,bc] | \
 [,,a{a}1] ,,d/ ,,b ,,a ,,,c ,,,a ,,,,e | \
 [,,,,cd1] [,,,a,c] [,a,,,d] [,c,,a] |";italian7tab
-48;;58;Canzon Terza detta la Regiana. Lauto corista;;;OT;;C;"a2 a1 a | [abd1] ,,d/ ,a ,b1 [a,d] | [,bd/] b a ,d ,b ,d a ,b | \
+48;;58;Canzon Terza detta la Regiana. Lauto corista;Lute I;;OT;;C;"a2 a1 a | [abd1] ,,d/ ,a ,b1 [a,d] | [,bd/] b a ,d ,b ,d a ,b | \
 [,da/] ,,,c ,,a ,,c";italian7tab
-49;;60;Canzon Terza detta la Regiana Lauto piu grando un Tasto;;;OT;;C;"c2 c1 c | [ca2] ,a1 [ca] | [,df1] ,d/ a c1 [,df] | \
+49;;60;Canzon Terza detta la Regiana Lauto piu grando un Tasto;Lute II;;OT;;C;"c2 c1 c | [ca2] ,a1 [ca] | [,df1] ,d/ a c1 [,df] | \
 [a,b1] ,,b/ ,,d [,df1] [a,b] | [,,ee1] [,df] [,cf,,c] ,,e |";italian7tab
-50;;62;Corrente detta la fauorita Gonzaga Lauto Corista;;;OT;ConcR512;3;"d1 | [dbbcd2] [f,,d1] | [db,c2] [b,,a1] | [abb,d1] d b | \
+50;;62;Corrente detta la fauorita Gonzaga Lauto Corista;Lute I;;OT;ConcR512;3;"d1 | [dbbcd2] [f,,d1] | [db,c2] [b,,a1] | [abb,d1] d b | \
 a1 [,bd] [,ab] | [,,dd1] f d | b1 [bd] [ab] | \
 [,df1] ,,,f ,,,d |";italian7tab
-51;;63;Corrente detta la fauorita Gonzaga Lauto piu grando un Tasto;;;OT;;3;"f1 | [fcaa2] [ha,f1] | [f,,e2] [d,,c1] | [cd,a1] f d | \
+51;;63;Corrente detta la fauorita Gonzaga Lauto piu grando un Tasto;Lute II;;OT;;3;"f1 | [fcaa2] [ha,f1] | [f,,e2] [d,,c1] | [cd,a1] f d | \
 c1 {a} {,a} | [,,a{,,a}] ,,,,c ,,,,a | [,ab,,d1] ,,,,,d ,,,,,c | \
 ,,,,,a1 ,c ,,b |";italian7tab
 52;;64;Volta detta la Gioiosa;;;OT;;3;",,,,e1 ,,d ,c | c3/2 e/ f1 | [e,,d1] ,,,e ,,d | \

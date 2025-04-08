@@ -1,0 +1,174 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;1v;Recit;;;Staff;;;;
+2;;2r;Toccata di G.M.Z.;;;OT;;none;"[effcca2] f/4 h e f ,h e ,f ,h ,e ,f ,a ,c ,,d ,a ,,c ,,d ,,a \
+,,c ,,,c ,,a ,,,b ,,,c";italian7tab
+3;;4r;Corr.e;;End at bottom of f.3v;OT;;none;",a1 | ,d3/2 ,b/ ,a1 | ,,d3/2 ,a/ ,b1 | [,ab,,d2] {11}1 | \
+[,a,,,d1] [,b,,a] [,d,,c] | [,bbcd2] {8} | \
+[a,,,d1] [c,,a] [d,,c] | [cdda2] {a}1 |";italian7tab
+4;;4v;Tocata;;;OT;;none;"[aabcca/] {13} ,,,,,a ,,,,c ,,,c ,a ,,b1 | \
+,,,,,a/ ,,,,,c ,,,,,e ,,,,a ,,,,c ,,,,e ,,,a ,,,c1 | \
+,,,e/ ,,,c ,,,a ,,,,e ,,,a ,,,,e ,,,,c ,,,,a1 |";italian7tab
+5;;7r;Toccata di A.F.;Andrea Falconieri?;;OT;;none;"[aabcca3] [aab1] | (,,b/4 ,,a) ,,,c/ (,,d/4 ,,b ,,a/) \
+,a/4 ,,d ,,b/ (,b/4 ,a) ,,d/ (,d/4 ,b ,a/) a1 |";italian7tab
+6;;8v;Fantasia d'A.F.;Andrea Falconieri?;;OT;;none;"[na,,,a1] [na] | [la{9}] [la] [la] | [if{10}] [if] [if] | \
+[hi{11}] [hi] [hi] | [hi{9}] [hi] [hi] | [fi{8}] [fi] [fi] | \
+[fi{a}] [fi] [fh] |";italian7tab
+7;;10r;Toccata di G.P.C.;;;OT;;none;"[abdca{10}4] | [ffgh] | [hffg] | ,,g/ ,,f ,,g ,,f ,,g ,,f \
+ ,,g ,,f ,,g ,,f ,,g ,,f ,,g ,,i | [,fgh2] [,gfh] | \
+[,gff] [a,dda] |";italian7tab
+8;;12v;Toccata di A.F.;Andrea Falconieri?;Bottom f.14v fragment in different hand;OT;;none;"[aaccca2] ,,,,,a/ ,a ,,b ,,,c | ,,,,,c ,,d ,,,a ,,,,a ,,,,,d ,a ,,b ,,,c | \
+,,,,a ,c ,,d ,,,c ,,,,c ,d ,,a ,,,a |";italian7tab
+9;;15r;Corr.te D A.F;Andrea Falconieri?;;OT;;none;",a1 | [aabc,a3/2] c/ [d,,c1] | [c,,a2] [a,,,d1] | \
+[,db,c3/2] ,b/ ,d1 | [a,,,d] [,d,,a] ,b | \
+[,ab,,d3/2] ,,d/ [,,b,,a1] | [,,d{8}] ,,b [,,a{a}] |";italian7tab
+10;;15v;Toccata di G.M.Z.;;;OT;;none;"[,daaa{a}2] ,,,a/4 a c d f c ,d a c ,d ,a ,c ,d ,,d \
+,a ,,b ,,d ,,a ,,b ,,,c ,,a ,,,a ,,,c";italian7tab
+11;;17v;Toccata di A.F.;Andrea Falconieri?;;OT;;none;"[cdda4] | {a}/ f c ,d f d f/4 (d c a) | \
+[cdda2] [cdd,,c3/2] (,,,,,d/4 ,,,,,e) | \
+[ffg,a2] {10}3/2 (f/4 h | i1)";italian7tab
+12;;19v;Romanescha;;;OT;;none;"[ddff2] {11}1 ,,g/ ,,f [,dde2] [aabc3/2] d/ c3/2 a/ | \
+[cdda2] {a}3/2 d/ c1 [,da{a}1] a/ c [,d,,c1] [a,,,e] [c,,a] |";italian7tab
+13;;23v;Corr.te;;;OT;;none;"f1 f f | d1 a/ b d a | [bd1] [bd] [bd] | [ab1] ,,d/ ,a [,b,,a] ,d | \
+[,b,c,d1] [,a,a,d] [,b,c,d] |";italian7tab
+14;;24v;Corr.te di G.M.C.;;;OT;;none;",d1 | [,d,a3/2] a/ ,d a | [,c,,a1] ,,d [,d{a}] | \
+[,d{a}3/2] a/ b d | [a{8}1] ,b a | [bbd,,b3/2] d/ f1 | \
+[g,,f1] [f,,d2] |";italian7tab
+15;;25r;Corr.te;;;OT;;none;"d1 | [ddf,,d] {11}/ f h1 | [fd,,f3/2] h/ f h | \
+d1 {11} ,,,f | [ddf3/2] l/ i [h,i] | [f,g3/2] h/ [f,g1] |";italian7tab
+16;;25v;Corr.te di G.G.;;;OT;;none;",a1 | [aabcca3/2] c/ d1 [c{9}] a ,e | \
+a ,,,,,a ,,,c [aab2] h1 | [h{11}3/2] f/ d1 [c{a}1] a c d |";italian7tab
+17;;26v;Corr.te;;;OT;;none;",,d1 | ,a ,,b [,d,,c] | [a,,,d3/2] ,d/ [,b,,a1] | \
+[,a,,,d] ,,b ,,,a | ,,,,c ,,,,,d ,,,,c | ,,,,,a2 ,,,,c1 | \
+,,,,e ,,,,a ,,d |";italian7tab
+18;;27r;Corr.te;;;OT;;none;",,d1 | [,daa/] {a} a1 ,d | [,daa1] [a,,,a/] ,d a b | \
+[,d,a1] {a}/ ,,d ,a ,c | ,d1 ,,,a/ ,,,,d ,,,a ,,,c |";italian7tab
+19;;28r;Balletto Inglese di G.M.Z.;;start similar to Simpson, The Division Viol / 58;OT;;none;"[,daa{a}3/2] ,d/ [,a,,,a] c d f | [cdda1] {a} [cdd] [acd,e] | \
+[c,,a/] d f c [e,,,,a] f h e | [fc,,a2] {10}1 [acd] ||";italian7tab
+20;;28v;Corr.e di d.o Balletto;;;OT;;none;"[fdaa3/2] d/ c1 | [da,,,a3/2] c/ [a,,,a1] | [cdda2] {a}1 | \
+[cdd3/2] ,,,,d/ ,,,,c1 | [acdca2] [,dd,,c1] | \
+[ad,,,d3/2] ,d/ [,c,,a1] | [cdda2] {a}1 |";italian7tab
+21;;29r;Follia;;;OT;;none;",,,a1 ,,d ,c | a1 ,,,,a ,,,,e | ,,,c1 d a | ,b1 ,,b ,,,c | \
+,,,,d1 ,,,,,d ,,,,,a | {8}1 ,,,,,d ,,,,b | ,,,a1 {a} ,,,,,b |";italian7tab
+22;;31r;Va pur Superba va, Canzone;;;OT;ConcR2534;none;",d1 | [,df{11}3] | [abb{8}1] [,da{a}3/2] ,b/ | \
+[,a,,,a2] d1 | [c{a}3/2] d/ f1 | [,d{9}1] [a{8}] [c{a}] | \
+[d,,,,a1] [f{a}3/2] d/ | [d{11}1] h [h,,f] |";italian7tab
+23;;31r;Amor che pensi tu;;;OT;;none;"[f,,,a1] h | i1 [h,,,,a3/2] f/ | [f,,,a1] f f | \
+[f{10}1] [d{9}3/2] c/ | [abb{8}1] [d,,,,a] [b,d,,b] | \
+[abb{8}1] [,dba{11}3/2] ,b/ | [abb{8}2] [abb1] |";italian7tab
+24;;31v;D'amare non sa';;;OT;;none;",d1 | [da{11}3/2] f/ [c,,a1] | [da{11}2] h1 | \
+[hi{11}3/2] f/ ,i1 | [fh{a}2] c1 | [d{11}1] [c{10}3/2] a/ | \
+[,d{9}1] [a,,,,d] ,d | [ad1] [add,a] ,c |";italian7tab
+25;;32r;Corrente;;;OT;;none;",,b1 | [,,ba,d3/2] ,,d/ ,,b1 | [,,da{a}1] [,aba,d] [,,da] | \
+[,aba,d2] ,,,a1 | ,,d1 ,a ,b | [,d,,c3/2] a/ ,d1 | \
+[,b,,a1] ,d [,aba,d] | [,,da{a}2] ,,,a1 |";italian7tab
+26;;32v;Corr.te;;;OT;;none;",a/ ,b ,d1 ,b | [,a,,,d1] ,,b a | [,b,,a1] [,,,d{a}/] ,a ,b1 | \
+[,ab,,d1] ,,b/ ,,d ,a1 | [,,aa1] [,,bc] [,,de] | \
+[,aff1] ,a/ ,c ,d1 |";italian7tab
+27;;33v;Corr.te;;;OT;;none;",b1 | [,bbcd3/2] ,d/ ,b1 | [,ab,,d1] ,b/ ,a ,,d ,,b | \
+[,,dd1] ,,,,,b ,,,,,a | {a}1 ,d a | b1 ,,,a ,,,,d | \
+,,,,c1 [,d,,a] ,b |";italian7tab
+28;;34v;Toccata. A. F;Andrea Falconieri?;;OT;;none;"[cdda{a}2] ,,,a ,,,,,c3/2 ,,,,,a/ ,,,,,c1 [aa,c,d] [aa,c,e] \
+[,bf,a] [,bd,a] [aad,,a] [acbc] [cbda] [ddea] [ddda] \
+(c/4 d f/) ,d/4 a c/";italian7tab
+29;;36r;Corr.e;;;OT;;none;",,b2 ,,,d1 | ,,,c1 ,,,,d ,,b | [,,d,,b1] ,,,,,a {a} | \
+[d{8}2] [b,,a1] | [a,,,d1] ,b ,,,,c | [,d,,a2] [,b,a1] | \
+[,ab,,d3/2] ,,d/ ,,b1 | [h{11}1] ,i h |";italian7tab
+30;;36v;Pallav.a Corr.e F;;;OT;;none;",c1 | [ccde1] ,c ,c | [,ccd3/2] ,a/ ,,d ,,c | \
+[,,de1] ,,,,,c/ ,,c ,,d ,a | [,c2] [,cc,,a] | \
+[,da{a}2] [acd{8}1] | [,da{9}1] ,a/ ,c ,d a |";italian7tab
+31;;37v;Corr.te;;;OT;;none;",b/ ,d a b | [,d,,,d1] ,a ,d | [a,,,d1] [,d,,c] [,b,,a] | \
+[,a,,,d2] ,,b1 | [,b,,a/] ,a ,b ,d ,b1 | [,a,,c1] ,,b [,,d,d] |";italian7tab
+32;;38v;Corr.te;;;OT;;none;",,b1 | [,,bac3/2] ,,a/ ,,b1 | [,,bcd1] [,,da{a}] ,,b/ ,,d | \
+[,ab,,d3/2] ,,d/ ,a1 | ,,b1 ,,,a ,d | [,dd,,c3/2] ,c/ ,d1 | \
+[,db,,d1] [a,,,,a] ,d/ a |";italian7tab
+33;;39r;Corr.e;;;OT;;none;",,,a1 ,,,c ,,,e | [,aff3/2] ,,d/ ,,f1 | [,ade1] ,,,f [,ade] | \
+[,aff2] {11}1 | [,a,,,d1] [,b,,a/] ,a ,b [,d,,c] | \
+[a,,,d1] {8}/ ,d [a,,a] c |";italian7tab
+34;;39v;Aria;;;OT;;none;"[,bbc{8}2] [,bdca1] [,dba,d] | [abb{8}1] ,,,,d [abb] [d,,c] | \
+[b,,a/] d [a,,,d1] [,db,,d] a/ ,d | ,b1 {8} [,bb] [dd,,c] | \
+[fb,,a1] [h,,f,d] [f,,,f] ,d/ ,,g |";italian7tab
+35;;41v;Toccata;;;OT;;none;"[abd2] [aac] [abd] [,bbc] | [,ddd2] [,bbc] [bb,a] ,a | \
+[,bbcd2] [,db,c] [abd,a] [aab,,d] | \
+[aad,,a1] ,d [aaccca2] ,,,,,c1 [aac,,e2] ,d1 | \
+[abd{10}2] ,,,,,a1 [,ddd,b2] {a}1 |";italian7tab
+36;;43r;Ruggiero;;;OT;Conc_3638;none;",,d/ ,a | [acd,a1] [a,d,e/] ,,,,a [cdda] ,,,,c [aacc] ,,,,,a | \
+[acd,a1] {10}/ ,,,,a [acd1] ,,d/ ,a | \
+[acd,a1] [,a,,,,e/] ,,c [,c,,a] ,,c [,,acc] ,,,b |";italian7tab
+37;;43v;Corr.te;;;OT;ConcR1706;none;"d1 | [a,,,d3/2] ,d/ a ,b | [bd1] ,a d | [ab/] ,a ,b ,d a b | \
+[d,,c1] a/ b d a |";italian7tab
+38;;44r;Corr.e A.F.;Andrea Falconieri?;;OT;;none;",,d1 | [,dda{a}3/2] a/ [b{9}1] | [a{11}1] ,d [,c{10}] | \
+[,dda{a}/] ,c ,d a b ,d | [a{8}/] ,d a b d a |";italian7tab
+39;;44v;Corr.te;;;OT;;none;"a1 | f3/2 ,,,,a/ (d/4 b a/) | b1 ,,d [a,b] | [,d,d1] a [,b,c] | \
+[,adc,a3/2] ,,d/4 ,a [,b{8}/] [,,d{a}] | \
+[aadc,a3/2] ,,d/4 ,a ,b1 |";italian7tab
+40;;45v;Corr.te;;;OT;;none;"d1 c/ a | #h1 f/ (d c a) | [cf,,c2] ,e1 | \
+[af,,,a1] d/ (c a) ,e | a1 ,,f/ (,,d ,,b) ,,a |";italian7tab
+41;;46r;Corr.te;;;OT;;none;"a1 | [af1] a [ce] | [df1] a [ha] | ,,g1 h f | \
+[ha2] ,a1 | [,,bc1] ,a [,,ab] | [,,bc1] ,a [,,aa] | \
+[,ab,d1] ,,d/ ,,b ,,d1 |";italian7tab
+42a;;46v;Placida. Aria;;;OT;;none;"a/ ,d | [abdca1] {10}/ ,a ,b ,d [,a,,,a] ,b [,,d,a1] {10} \
+b a ,d [,b,,,a] ,a [,,d,,b] ,a ,b ,d";italian7tab
+42b;;47r;2a Parte;;;OT;;none;"a1 | [abd{10}3/2] ,d/ ,b1 [,a{a}] ,,d [,,c,,a] | \
+,,d ,,,,a ,,,c [abd2] [,,b,,a1] | \
+[,,d,,b1] ,,d/ ,a ,b1 [,a,,,d] ,a/ ,b ,d1 |";italian7tab
+43;;47v;Corr.e;;;OT;;none;"a1 | [abd,a3/2] c/ [da,,,a1] | [ca,,c3/2] [a{9}/] ,e1 | \
+[af,,,a2] ,,,c1 | [af3/2] [,d,,a/] ,b1 | [,a,,,d3/2] [,b,,,a/] ,a1 | \
+[,,d,,b3/2] [,a{a}/] ,,d1 | [,acc,a2] ,,,c1 |";italian7tab
+44;;49r;la Patriarchessa Cor. A.F;Andrea Falconieri?;;OT;;none;"a1 | [abdca3/2] ,d/ ,b1 {a} [,a,,,a3/2] ,,d/4 ,a | \
+,,d1 ,,,,a {10} [a,,,d] ,b d | [b,,a1] ,d [a,,,d] ,b [,a,,,d3/2] ,,d/4 ,a | \
+[,b{8}1] ,b/ ,d a b d1 b a |";italian7tab
+45;;49v;Firentine Cor.e;;first 3 bars of 3rd variation, see also Conc_276;OT;;none;"a1 | [a,,,a2] (c/4 a) (,d ,c) | [,d{a}1] ,,,,a [,a,,,a] | \
+[,c,,a1] {10} [,d,,c] | [a,,,e1] ,,d a | \
+[a,,,a3/2] ,d/ ,c1 | [,d{a}1] [,a,,,a3/2] (,c/4 ,a) |";italian7tab
+46;;50v;Corr.e F;;;OT;;none;",a/ ,b ,d1 ,d | [,db{11}3/2] ,b/ ,a1 | [a{8}3/2] ,d/ ,b1 | \
+[,d{9}1] ,,b a | [,b{10}1] ,a/ ,b ,d ,b | \
+[,a{11}1] ,,d/ ,a [,b{8}] ,a |";italian7tab
+47;;51r;Corr.te;;;OT;ConcR1081;none;"c/ a | [,df3/2] a/ c1 | [da,c2] [acd,a1] | [cdda2] {a}1 | \
+[cdd3/2] f/ e1 | [c,,a3/2] e/ [f,a1] | [ha2] [eg,,e1] | \
+[ccee2] ,,,,,c1 |";italian7tab
+48;;51v;Corr.te di G.M.Z.;;;OT;ConcR3687;none;"a1 | [abdca3/2] ,d/ a1 | [abdca1] ,d/ ,b ,a ,,d | \
+[aabcca2] [aab1] | [a{8}/] ,d a b d1 | \
+[bdd{a}1] d/ b [a{8}1] |";italian7tab
+49;;52v;Corr.e;;;OT;;none;"f/ d | b3/2 ,,,d/ ,,,c1 | ,,,a3/2 ,,,c/ ,,,d1 | \
+,,b2 ,,,,d1 | [a{8}3/2] b/ d1 | [b{a}3/2] d/ [a{8}1] | \
+[,d{9}3/2] b/ d1 | [f{10}2] a1 |";italian7tab
+50;;53r;la Sauli Corr.e del F;;;OT;;none;"a1 | [a{10}3/2] ,d/ ,b1 | [a,,,d3/2] ,d/ ,b ,d | \
+[,a,,,a2] ,,,c1 | [,b,,a3/2] ,d/ ,b ,d | \
+[,a,,,d/] ,b ,a ,b ,a ,b |";italian7tab
+51;;53v;la Isola Corr.e di G.M.Z.;;;OT;ConcR2035;none;"a1 | [acd,e3/2] c/ a1 | [c,,a3/2] f/ [e,,,,a1] | \
+[fc,,a2] {10}1 | [fc3/2] h/ f1 | [e,,,,a3/2] f/ [c,,a1] | \
+[a,,,e3/2] c/ [,d,,c1] | [,c,,a2] [,d,,c1] |";italian7tab
+52;;54r;Corr.e;;;OT;;none;"h1 | [a,,,,a3/2] c/ d1 | [f,,,,c1] ,e [df] | \
+[c,,,c1] ,f ,e | [df1] ,,,,,a ,,,,,c | ,,,,,d1 ,,d ,a | \
+[,b,,a3/2] ,d/ [,a,,,d1] |";italian7tab
+53;;54v;la Vsodimare Corr.e;;;OT;;none;"f1 | [ffg,a3/2] h/ i1 | [h,,,,a/] f h i h1 | \
+[ffg,a3/2] ,i/ ,g1 | ,f3/2 ,,d/ ,a1 | [,b,,a1] ,,d [,d,,c] | \
+[a,,,d1] [,d,a/] ,b ,a ,,d |";italian7tab
+54;;55v;Corr.e di G.G;;;OT;;none;"f1 | [ffg,a2] [h,,g1] | [i,,h1] [h,,f] [f,,d] | \
+[da,c3/2] ,,,d/ ,,,c ,,,a | [a,,,d1] ,b d | \
+[bdd{a}1] (b/ a) (,d ,b | ,a/) ,,d [,a,,,d3/2] ,,d/4 ,a |";italian7tab
+55;;56r;Corr.e;;;OT;;none;"c/ e f1 [ef] | ,d1 c [ac] | [,df1] [a,c/] c a ,d | \
+[,cd1] ,,,c/ ,,,e ,,,c ,,,a | ,,,,e1 [,c,,a/] ,d ,c ,a |";italian7tab
+56;;56v;Corr.e Dian.a;;;OT;;none;"a1 | [abd{10}3/2] ,d/ ,b1 | [,acc,a1] ,b ,d | \
+[,bd,a1] {10}/ ,d ,b1 | [,aba{11}3/2] ,b/ ,a1 | \
+[,,dd{12}3/2] ,a/ [,b,,,a1] | [,dd{a}3/2] a/ b d |";italian7tab
+57;;57v;la Marina Corr.e F.;;;OT;;none;",a1 | [,aaac3/2] ,c/ ,a ,c | [,d,,c1] ,a c | \
+[cc,,b3/2] a/ ,d ,c | [,d,,c1] ,,a [,d{9}] | \
+[a{8}/] (,d ,c ,a) (,,d ,,b |";italian7tab
+58;;58v;Corr.te;;;OT;;none;"a1 | [,b,,a2] [,a,,,d1] | [,b,,a2] [,d,,,b1] | \
+[aab,,a2] ,,,c1 | [a,,,d3/2] b/ d1 | [b,,a2] [a,,d1] | \
+[,d,d1] [,b,c] [,a,a] | [a,,,d2] ,b1 | \
+[a,,,d1] [,d,,c] [,b,,a] |";italian7tab
+59;;59v;Corrente di G.M.Z.;;;OT;;none;"c1 | [caaa{9}1] d/ c a ,d | [,cee{12}1] ,d/ ,c ,a ,,e | \
+[,aaac1] {9} [,aaa] | [,aaa{9}2] ,,d1 | [,,de{a}1] [,,de] [,,de] | \
+[,,de{a}1] (,,f/ ,,d) (,,,f ,,,e) |";italian7tab
+60;;61r;Balletto G.S.A.;;;OT;;none;"e/ | e3/2 ,h/ e f | h1 e [ha] | [fc1] c/ e f1 | \
+[ef1] [ac] [e,f] | [ce1] ,e/ a c1 |";italian7tab
+61;;51v;Follie;;;OT;;none;"#h1 | f/ d c a ,e ,c | [cef{9}3/2] a/ c1 | \
+[df,,,a1] [fh] [hi] | [fh{a}1] [hi] [fh] | \
+[fh1] [fh] [fh] |";italian7tab
+62;;62v;Spinola Corr.e F.;;;OT;;none;"a1 | [a,,,d3/2] b/ d f | [b,,a1] [a,,,d3/2] ,d/4 a | \
+,d1 ,,,,,d/ a ,d ,b | a2 [,d,,c1] | \
+[a,,,d/] b [a,,a] ,d [,b,c] ,a |";italian7tab
+63;;63v;La Zanarda Corr.e F;;f. 65v Notelength indications;OT;;none;"c1 | ,a1 ,,,,c [,ca,b] | [,d,,c1] [a,,,a/] c d a | \
+[c,,a3/2] a/ ,d1 | [f,a1] ,d f | [da,c1] f/ d [c,,a1] |";italian7tab
