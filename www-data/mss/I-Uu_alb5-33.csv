@@ -1,0 +1,55 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;1r;Canzonetta(?);;;OT;;none;c/ d f f f d c a ,d f d c a ,d a c d d d c c a a;italian7tab
+2;;2v;[Corrente];;;OT;;none;"[a,,c3/2] c/ d1 | [d,,,,a3/2] c/ a1 | [caa,c2] ,,,,c1 | \
+[caa2] [d,,c1] | [c,,a3/2] a/ [,d,,c1] | [a,,,d3/2] ,d/ ,b1 | \
+[,a,,,d3/2] ,b/ ,d1 | [,d,,,d3/2] ,b/ ,a1 |";italian7tab
+3;;4r;Monaca;;;OT;Conc_4438;none;",,d | [,dda] {a} a | [bdda] d b | [abd,a] [abd] ,d | \
+[abd,a] ,a ,b | [,d,,,d] [,d,,,b] [a,,,,a] [a,,,e] | \
+[,daa{a}] ,,,,a ,,,a | ,,d [,dda] {a} |";italian7tab
+4;;5v;Monaca;;;OT;Conc_4438;none;",,d | [,daa2] {a}1 a | [bdda1] d/ b d b a ,d | \
+[abd,a2] [abd1] ,d | [abd,a1] b/ a b a ,d ,b |";italian7tab
+5;;6v;Monaca;;;OT;Conc_4438;none;",,d | [,daa] {a} | a b d f | ,,,,,a [b,,,,b] ,,,,,d | \
+[abd,a] ,d ,b | [,a,,,d] [,,d,,b] [,a,,,d] [,b,,a] [,,d,,b] | \
+[,aba,d] ,c ,d |";italian7tab
+6;;7v;Rotta della Monaca;;;OT;ConcR3715;none;",,d1 | [,dda2] [acd,a1] | [bdda3/2] d/ b1 | [abd,a2] [abd1] | \
+[abd,a3/2] ,a/ ,b1 | [,aba,d3/2] ,c/ ,d1 | [acd,a3/2] ,d/ a1 | \
+[cdda] [cdd] ,,,a :||:";italian7tab
+7;;8v;Corrente […];;;OT;;none;",a1 | X[,a,,,d3/2] ,,d/ ,,b1 | X[,,a{a}3/2] ,,b/ ,,d1 | \
+,,b1 ,,,,,d ,,b | ,d1 [,d,,c] ,c/ ,d | \
+[a,,,d3/2] c/ d1 | [c,,a1] ,d {a} |";italian7tab
+8;;10r;Monaca franzese;;;OT;ConcR3691;none;"[aabc2] | [aabc1] d c a | [,d,,c1] ,b/ ,a ,b ,d ,a1 | \
+[,b,,a1] ,a ,,d/ ,a ,b ,,d | [,aba,d2] [,aba1] a/ c |";italian7tab
+9;;11v;Ballo del Gran Duca;;;OT;ConcR3692;none;"[cdda2] [cdd1] a | [cdda2] [acd,a] | [,da,c2] d1 c/ a | \
+[,da,c2] [,,d,,c] | [,dba,d1] ,c [,db,c] ,,a | \
+[acd,a1] ,d [add,a] ,c/ ,,b | [cdda{a}2] [cdd1] {a} |";italian7tab
+10;;13v;Rotta del ballo di fiorenza;;;OT;;none;",d/ a | [c,,a1] a/ c [c,,a1] [a,,,a] | \
+[,d,,c1] ,c/ ,d [,d,,c1] [,,d,,c] | \
+[,a,,,d1] ,c/ [,d,,c] [add,a1] ,c | [cdda] {a} [cdd] f/ d |";italian7tab
+11;;15v;C.te(?) santino;;;OT;;none;"[ef1] f [hf] h | [fd] [ef] [cf] [af] | a3/2 a/ c1 e | \
+[ff] [ef] [cf] [cf] | [af] a c e | [ff] [ef] [cf] [cf] |";italian7tab
+12;;16r;saltarello;;;OT;;none;",,a/ ,,c1 | [acd,a3/2] ,e/ a1 | [caabc3/2] a/ c1 | \
+[aacc2] ,,,,,a1 | [aac3/2] ,,,,,c/ ,,,,,e1 | \
+[acd,a3/2] ,,,,c/ ,,,,e1 | [caabc3/2] ,,,,a/ ,,,,c1 | \
+[aacc,a2] ,,,c1 |";italian7tab
+13;;16v;Piva;;;OT;;none;"[af] ,a [af] ,a | [af] ,a ,c ,e | [af] ,a [af] ,a | \
+[af] ,a ,c ,e | [e,,,,a] a [e,,,,a] a |";italian7tab
+14;;17v;Amor per che non g[...];;;OT;;none;"a2 [,b,,a1] [,a,,,d] | [,b,,,b] ,d [abb,d] ,d | \
+[,b,,a2] a1 [b,,a] | [d,,c2] [f,,d1] h | [eff,,a3] :||: \
+a1 | [abd,a2] [abd1] [abd] | [dd,,c2] [dd1] [dd] |";italian7tab
+15;;18v;Corrente;;;OT;;none;"[aabcca4] | [aabcca1] a/ ,a ,,b ,,,c ,,,,c ,,,,,d | \
+[aabcca4] | [aabcca1] ,e/ ,a ,b ,a ,,d ,,b | \
+,,a ,,,c ,,,a ,,,,d ,,,,c ,,,,a ,,,,,d ,,,,,c |";italian7tab
+16;;19v;Corrente;;;OT;ConcR343;none;",d/ | [fdaa2] [d,,c1] | [c,,,c2] [h,,f1] | [fdaa2] {a}1 | \
+[c,,a1] a/ c d f | [ddff,d3/2] f/ [c,,a1] | \
+[a,,,e3/2] c/ [,d,,c1] | [,c,,a1] ,a/ ,c ,,d1 |";italian7tab
+17;;20v;balletto;;;OT;ConcR1052;none;"[a,d2] f | [d,,c1] [c,a] [a,b] [,ea] | \
+[aacc] ,d [,b,,a] ,a/ ,e | [,dda1] [,b,,a] [,a,c] ,,d [,a,,,a] ,,c | \
+[,,dca2] [a,d1] [f,a] |";italian7tab
+18;;21v;[No title];;cf. I-BDGchilesotti / 112?;OT;;none;"[cdda{a}1] c c c | [cdda{a}2] c | [fdaa{a}1] f f f | \
+[fdaa{a}2] f | [cdda{a}1] c c c | [cdda{a}2] a1 ,d |";italian7tab
+19;;22v;[No title];;;OT;;none;"f2 f1 f | d1 a/ c d1 a | [bd2] [bd1] [dd] | \
+[ab1] ,,d/ ,a [,b,,a1] ,d | [,b,c,d2] [,a,a,d1] [,b,c,d] | \
+[,,d,,b] {a}/ ,,,,,a ,,,,,b {a} |";italian7tab
+20;;24r;Corrente;;unfinished?;OT;;none;"[cdd1] {a}/ d c d |[a,,,d1] [,d,,c] ,,,,,e | \
+[acdca/] [,,d,,c] [,a,,,d] ,c ,d ,,,,d | \
+[acdca1] ,c/ d [cdda] {a} |";italian7tab

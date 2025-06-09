@@ -355,7 +355,7 @@ d2 [cdda3] f1 | [dab,,d2] [dab1] c a ,d |";italian7tab
 [,d,,c1] [,a,,,d] [,b,,a] ,d/ ,b |";italian7tab
 75a;;V.32r;Passo e mezzo in sopran anthico. 1. parte;;;OT;;C;",,d2 ,a1 | [abd,a2] [abd,a1] | [abd,Xa3/2] ,d/ ,b1 ,a | \
 [abd,a1] ,,d/ ,a ,b a ,b | ,d/ a b a";italian7tab
-75b;;V.32r;Parte seconda;;cf. I-TnIV43-2 / 20r;OT;;C;"a1 ,d | [abd,a1] ,,d/ ,a ,b ,d a b | \
+75b;;V.32r;Parte seconda;;;OT;;C;"a1 ,d | [abd,a1] ,,d/ ,a ,b ,d a b | \
 a/ ,d ,b ,a ,,d ,,b ,,d/4 ,a ,b ,d |";italian7tab
 75c;;V.32v;Terza parte;;;OT;;C;"a1 ,,d/ ,a ,b ,d | [abd,a1] ,,,c ,,,,a/ ,,,,c ,,,,d ,,,a | \
 ,,,c1 a ,,d/ ,a ,b/4 ,a ,b ,d |";italian7tab
@@ -479,7 +479,7 @@ a3/2 ,d/ [,cdca] ,d [add,a] ,c |";italian7tab
 [abb,d] [,dff1] ,f [abd2] [,acc3/2] ,,d/ ,a1 ,,,a ,,,,d";italian7tab
 86;;VI.4v;Gagliarda;Nicolai;;OT;ConcR1574;none;",,d1 ,a ,c [,daa,,a2] ,,,a1 ,b [,aba,d2] [,,da,c] [,,b,,a] \
 ,,d1 ,,b [,daa,,a2] ,,,a1 ,c ,d a c ,,,a ,,,,,,a";italian7tab
-87;;VI.4v;Gagliarda;;;OT;;3;"[abb,d2] [abd,a] [bdda] | [abb,d3] b1 [dbb,d2] | \
+87;;VI.4v;Gagliarda;;;OT;ConcR1944;3;"[abb,d2] [abd,a] [bdda] | [abb,d3] b1 [dbb,d2] | \
 [b,,a1] a [,dff,d2] [,bd,a] | [,aba,d3] ,d1 a b | \
 [dab,,d3] b1 a ,d |";italian7tab
 88;;VI.5r;Ripresa di q.sta gagliarda;;;OT;;3;"[dfg,d2] ,,,,d1 d [dfg,d] d | [fggd3/2] f/ h i1 i | \
@@ -517,7 +517,7 @@ d1 c [acd,a2] f1 d | [cdda3] d1 [cdd,,,a2] | \
 101;;VI.13r;La medesima gagliarda di un altro maestro;Hort: Perla;;OT;ConcR1123;3;"f2 [cdda] h | [fdaa3] d1 c2 | [dabc2] [acd,a] f | \
 [cdda3] a1 ,d2 | [,cdca2] ,c1 [,cdca2] ,c1 | \
 [,cdca3] ,,d1 ,a ,c |";italian7tab
-102;;VI.13v;Gagliarda;Nicol.;;OT;ConcR1133;3;"[aabc3] d1 c a | [,ea,c3] a1 [caa,c2] | a1 ,d ,c ,a [,cee2] | \
+102;;VI.13v;Gagliarda;Nicol.;;OT;;3;"[aabc3] d1 c a | [,ea,c3] a1 [caa,c2] | a1 ,d ,c ,a [,cee2] | \
 [,aa,c4] ,,,,c2 | ,a1 ,c [,da,c2] [acd,a] |";italian7tab
 103;;VI.13v;La medesima gagliarda di un altro maestro;M. Neusidler;;OT;ConcR1133;3;"[aabc2] ,,,,,a1 d c a | [,ea,c2] ,,,,,,a1 ,a ,c ,e | \
 [aabcca1] c d ,c ,d a | [c,,a1] d f ,d [ab] c |";italian7tab

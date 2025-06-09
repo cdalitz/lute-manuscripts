@@ -1,0 +1,36 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;1v;[No title];;accompaniment? - f.1r staff;OT;;none;"[ccd,,c3] | [ccde3] [,ccd1] [ccde2] | [ccee3] ,e1 [aacc2] | \
+,c1 [ca,a2] ,a1 [,ccde3] | [,ccde] [,ccde] | [ca,b] [aacc] | \
+[cdda] ,,,,d";italian7tab
+2;;2v;[No title];;accompaniment?;OT;;none;"[ccd,cc] [aac,,e] [,,,ca] | [ccd,cc] [,,c,,e] [,ccde] | \
+[,ccde] | [ca,a] [aacc] | \
+M:3
+[aacc] ,,,a [aacc] [,ccde] [ca] | \
+[,da,c] [,da] [acc,a] a [,c,b] |";italian7tab
+3;;8v;[No title];;"f. 9r empty; ff.9r-12r staff";OT;;none;",,,a/ | [,,,af3/2] ,,,,e/ [,,,ae1] ,,,,c | \
+{a}1 ,,d/ ,a ,c ,a ,c ,d | a1 ,,,c/ ,d [acd1] f/ d | \
+c/ a c d";french5tab
+4;;12v;[No title];;f. 13r staff;OT;;none;",,,c1 ,,d ,,,c ,,,,d | ,,,a1 ,,,c ,,,,a ,,d/ ,a | \
+,b1 ,,,,a/ ,,,,c ,,,,d ,,,a ,,,c ,,a | \
+,,b1 {d}/ ,,,d [,bbcd2] ||";french5tab
+5;;13v;[No title];;unfinished, upside down, f.14r empty;OT;;3;"f1 | f3/2 h/ f1 | c3/2 ,d/ c1 | ,d1 ,a a | ,c ,,d ,c | \
+d3/2 f/ d1 | ,c ,,d ,a |";italian7tab
+6;;14v;[fragment];;ff. 15r-15v empty;OT;;none;",,a/ [,fa] ,e [,fa] [,a,d] ,,,,a ,,,,c ,,,,a ,,,,c ,,,,d \
+,,,,,a ,,,,d [,,,dca] ,,,,,f ,,,,,h ,,,,,k ,,,,,h ,,,,,k";italian7tab
+;;Backwards part (2° count);;;;;;;;
+7;;*3r;[No title];;ff. *1r-*2v staff;OT;ConcR3723;none;",,,c1 | ,,,c3 ,,,,c/ ,,,,a | {e}3/2 {f}/ {h} {f} {h}1 | \
+{a}1 ,a3/4 ,c/4 ,a3/4 ,c/4 ,a3/4 ,,d/4 | \
+,,c/ a c e a e 'f3/4 h/4 |";french5tab
+8;;*3v;capriccio;;;OT;;none;"[,af2] [,af1] [,af] | ,h3/2 ,f/ ,e1 ,f | \
+,h/ ,a ,f1 [,fe] [,df] | [,ca3/2] ,,,c/ ,,,a ,a ,,,,c ,,c | \
+,a/ ,,,,c ,,,,b ,,a";french5tab
+9;;*4v;[No title];;f. *5v empty;OT;;none;",a/ | [,af3/2] ,c/ ,d3/4 a/4 c d f d | \
+c/ h l/4 h g/ h ,a ,c/4 ,a ,,e/ |";french5tab
+10;;*6r;[No title];;;OT;;none;"{c}3/4 h/4 h/ h g ,d ,e ,d | [,ca/] c c c c ,,,,c ,,,,c ,,,,c | \
+,,,,b3 {c}1 | [,aabb{c}3] ||";french5tab
+11;;*7r;Corrente;;;OT;;none;"a/ | [af3/2] h/ f a c/4 d f c | \
+d/4 ,e [ae] ,e [ae/] ,,e [,ae] ,,e | \
+[,ae/] ,,b ,,a/4 ,,b ,,d ,,a";french5tab
+12;;*7v;[No title];;;OT;;none;"c/ | [ca3/2] h/4 i a/ l n o | \
+[na3/2] ,,d/4 ,,f ,,a/ ,,d ,,,b ,a | \
+[,abc1] ,,,a [,,,ce] [,,,ae] |";french5tab

@@ -1,0 +1,45 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;1r;[No title];;;OT;;none;"[cdda/] [acd,a] [,da,c] [,,d,,c] [,,b,,d] [aabc,a] \
+[,caa,c] ,,,,,d [add,a] ,c [cdda{a}] [cdd] \
+f c ,d ,,d ,,a ,,,a {a} ,,d ,,a ,,,a ,,,,a";italian7tab
+2;;1v;Ballo del Gran [Duca/Turco?];;;OT;ConcR3698;none;"[fdaa{a}4] | [fdaa{a}2] [fdaa{a}] | [d,,c1] [d,,c] [c,,a] f | \
+[fdaa{a}] d c | [a,,,a] [,d,,c] | [add,a] ,c ,b | \
+[cdda{a}] [cdd] f c d |";italian7tab
+3;;3v;Ballo franzese;;;OT;Conc_3457;none;",d/ a | [c,,a1] [a,,,a] | [,d,a] f | [fdaa{a}] d [c,,a] | \
+a ,d [,c,,a] | [d,,,,c] c [a,,,,d] | ,d [,c,,a] [,daa{a}] | \
+,,,,a ,,,a :||:";italian7tab
+4;;4v;Corrente;;;OT;ConcR598;none;",d1 | [,d,a2] {a}1 | [a,,,e2] [b,,a1] | [d,,,b2] [f,,,a1] | \
+d [b,,a] | [a,,,e2] [,d,a1] | [acd,a] ,,,c [acd] | \
+[,daa] {a} a b d | a1 ,,,,a ,,,c | [acd] :||:";italian7tab
+5;;5r;Corrente;;;OT;ConcR143;none;"f1 | [f,,d3/2] g/ f1 | [d,,,d3/2] f/ d1 | [bdda2] {a}1 | \
+[,dd3/2] d/ b1 | [a,,,d3/2] b/ a1 | [,d,,b3/2] a/ ,d1 | \
+[acd,a2] ,,,,a1 |";italian7tab
+6;;6v;[Corrente];;;OT;;none;"b3 | [bdda3/2] d/ b1 | [a,,,a3/2] b/ a1 | [,dda2] ,,,,a1 | \
+,,,a2 f1 | [f,,d3/2] g/ f1 | [d,,,d3/2] f/ d1 | \
+[bbdd2] ,,,,,b1 | [bbd] ,,,c |";italian7tab
+7;;7v;Massara(?);;;OT;;none;"[,daa{a}] a b d | [acd,a] [,daa{a}] ,,,,a ,,,a | \
+[abb,d2] c1 d | ,,,,d2 [b,,a1] ,d | [acd,a2] ,,,c | \
+[acd1] [bbdd] d b |";italian7tab
+8;;8v;[…]tino;;;OT;;none;",d a | [b,,a] [d,,,d] | [f,,d] d [b,,a] [a,,,,d] ,d | \
+[add,a] ,c ,,b | [,daa{a}] | [a,,,d] b d | [b,,a] a b | \
+[a,,,d] b d a |";italian7tab
+9;;10r;Gagliarda [...];;;OT;;none;"[,daa{a}/] a b ,d [acd,a1] | [,daa{a}] ,,,,a ,,,a | \
+[,daa{a}/] ,,,,a ,,,,,d ,,,,,c [aacc,a1] | [acd,a] ,,,,a [acd] | \
+[,daa{a}/] ,c ,a ,,d [,aba,d1] |";italian7tab
+10;;12r;Barriera;;;OT;ConcR1092;none;"[cdda1] c c c | [cdda2] f | [cdda2] ,d1 ,,d | \
+[cdda1] c c c | [cdda2] f | [cdda2] ,d1 ,,d | \
+[cdda1] c c c |";italian7tab
+11;;16r;[No title];;;OT;;none;"[cdda{a}1] ,d c ,d | [acd,a] ,,,,c ,,,,,c | ,d ,,,,,d [acd,a] | \
+[cdd{a}] ,d c ,d | [acd,a] ,,,,c ,,,,,c | ,d ,,,,,d [acd,a] |";italian7tab
+12;;18v;favorita;;;OT;;none;"[bdda2] [bdd1] a | [bdda2] [bdda] | [abb,d2] [abb1] c | \
+[d,,,d2] [d,,,d]| [bdda2] {a}1 a | b ,d d b a ,d | \
+[acd,a2] [acd] |";italian7tab
+13;;21r;[No title];;;OT;;none;"[bbdd] [bbd] [bbd] ,,,c/ ,,,a | [abb,d] [abb] [abb] [abb] | \
+[bdda] [bdd] [bdd] ,,,,d/ ,,,,b | [acd,a] [acd] [acd] [acd] | \
+[bbdd] [bbd] [bbd] ,,,c/ ,,,a |";italian7tab
+14;;22r;[No title];;;OT;;none;",,,,a a ,d | [,c,,a] ,a ,,d | ,,,,a a ,d | [,c,,a] ,a ,,d | \
+,,,,a a ,d | [,c,,a] ,a ,,d | [,,c,,a] ,,d ,a |";italian7tab
+15;;23r;[No title];;"f. 24v empty; cf. I-PESalb2-34 / 13v?";OT;;none;"[abd,a] [aacc,a] | [,,da{a}] [aacc,a] ,,d ,a | \
+[abd,a] ,,,,a [abd] | [,b,,a] [,d,,,d] | [a,,,,a] [b{a}] [,d,,,d] | \
+[abb,d] ,,,,d [abb] | [abb,d] [,da,,d] | \
+[abd,a] [,a,,,a] [,,d,,b] |";italian7tab

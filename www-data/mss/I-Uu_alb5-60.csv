@@ -1,0 +1,27 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;2r;[No title];;;OT;;none;"[abb,d/] ,,b ,,,d [,,,cd] ,,a ,,c ,,d [,,,ac] ,,,,d ,,,a ,,,,c \
+[,,,cd] ,,,a ,,,c ,,,d ,,,c ,,,a \
+,,,,d ,,,,c ,,,,d ,,,a ,,,,c [,,,cd] {8} :||:";italian7tab
+2;;2v;[Fragment];;;OT;ConcR3720;none;",,d/ ,,b ,,,d [,,,cd] ,,,a ,,,c ,,,d [,,,a,d] ,,,,d ,,,a ,,,,c \
+[,,,cd] ,,,a ,,,c ,,,d ,,,c ,,,a \
+[,,,ac] ,,,,d ,,,a ,,,c ,,,d ,,,c";italian7tab
+3;;3r;[Unfinished];;f. 3v empty;OT;ConcR3720;none;",,d/ ,,b ,,,d [,,,cd] ,,,a ,,,c ,,,d [,,,a,d] ,,,,d ,,,a ,,,,c \
+[,,,cd] ,,,a ,,,c ,,,d ,,,c ,,,a ,,,,d ,,,,c ,,,,d \
+,,,a ,,,,c [,,bcd]";italian7tab
+4;;4r;[No title];;"f. 5v empty; remainder in staff";OT;ConcR3723;none;",,,c/ | ,,,c3 ,,,,c/ ,,,,a | ,,,,,e3/2 ,,,,f/ ,,,,,h ,,,,,f ,,,,,h1 | \
+,,,,,a1 ,a/ ,c/4 ,a ,c3/4 ,a/4 y3/4,,d/4 | \
+,,c/ a c e a e f3/4 h/4 |";italian7tab
+;;Backwards part (2° count);;;;;;;;
+5;;*1r;Toccata;;;OT;ConcR3705;none;"""Arpegg""[abdca1] | f/4 i e f a b ,b a ,,d ,b ,,c ,,d ,,,c ,,,d ,,,,d ,,,c | \
+,,,,a ,,,,d ,,,,,e ,,,,a ,,,,,a ,,,,,b {a} ,,,,,a {10}/";italian7tab
+6;;*5v;Corrente;;;OT;ConcR3706;none;",d/ | [b,,a3/2] d/ f1 | b3/2 ,,,a/ ,,,d1 | \
+[a,b3/2] ,d/ [,cd1] | [,daa{a}3] | [,da3/2] f/ d1 | \
+[f,,d3/2] d/ b1 | [a,,,d3/2] a/ ,d1 |";italian7tab
+7;;*6r;Toccata;;;OT;ConcR3707;none;"[aabcca1] {13} | (c/4 d) ,e a (,a ,b) (,,a ,,b) (,,,b ,,,c) \
+(,,,,c ,,,,d) ,,,,a ,,,,c ,,,,,d (,,,,a ,,,,c) ,,,,,a (h i)";italian7tab
+8;;*7r;Passagaglia;;f. *8v empty;OT;;none;"e/ f ,,,,a {10} [acd] ,,,c ,,d [ac] [aac] ,,,c | \
+[,,de] ,,,,e [,cd] ,,,a [,acc] ,,a ,,c | \
+[,,d,a1] ,c/ ,a ,c ,d a |";italian7tab
+9;;*9r;Toccata;;;OT;ConcR3708;none;"[aabcca2] | {14}/4 c d a h c d ,e a ,a ,c ,e \
+a ,a ,b ,,d ,a ,,b ,,d ,a ,,,c";italian7tab
+10;;*10r;Toccata;;;OT;ConcR3721;none;,,,c/4 ,,a ,,b ,,,c ,a ,c ,d ,a a c d a h d f h a d c a;italian7tab
