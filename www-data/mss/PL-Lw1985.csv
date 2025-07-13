@@ -447,21 +447,21 @@ V[,,da1] ,,d [,a,,,b] | \
 [e,,,,e1] 'c/ ,c [a,,,a] ,a | \
 [e{,a}/] c a ,c {d} a | \
 {a}/ ,c ,,,,,a [,,'e] ,a1 ::"
-90;f moll;65r;[Courante];;;;Conc_477;3;",c/ a c | \
+90;f moll;65r;[Courante];;;Bb-d-f-a-d'-f';Conc_477;3;",c/ a c | \
 [dd3] | \
 [ff{,,a}1] h 'f | \
 ['dd{,a}3/2] ,f/4 d ,f1 | \
 V[e{4}3] | \
 ,,,,,c/ ,c ,,d a c ,,,,,a | \
 {b}/ ,,d ,a1 {a}/ ,c | "
-91;f moll;65v;[Gigue];;;;Conc_479;3;"[add{,a}2] c1 | \
+91;f moll;65v;[Gigue];;;Bb-d-f-a-d'-f';Conc_479;3;"[add{,a}2] c1 | \
 Vd2 ,d1 | \
 ,b1 c ,,d | \
 V,,e1 a ,,d | \
 [,,'b1] a c | \
 [,'c2] ,,d1 | \
 a2 ,,,d1 | "
-92;f moll;66r;Sarabande;;#92 Sarabande 'H' 66v empty;;;3;"[,,ddd{,a}1] [,,ddd/] ,,b [,,#dc{,a}1] | \
+92;f moll;66r;Sarabande;;#92 Sarabande 'H' 66v empty;Bb-d-f-a-d'-f';;3;"[,,ddd{,a}1] [,,ddd/] ,,b [,,#dc{,a}1] | \
 [,,,'d{,a}3/2] ,,,,f/4 ,,,d [,,,,f{,,a}1] | \
 [,,dcb1] [,,dcb/] ,,d ,,,,d ,a | \
 [,,'cc3/2] ,,c/ V[,,d{4}1] | \
@@ -514,7 +514,7 @@ Vf1 ,a 'e | \
 [,'cd1] a c/ ,,c | \
 [,cd1] [,'a,c3/2] ,,c/ | \
 [,,de1] [,,,'c] ,,,a/ ,a | \
-,,,,c ,,,c ,c ,,f [,,de1] | \
+,,,,c/ ,,,c ,c ,,f [,,de1] | \
 [,,'cc3/2] ,,d/ [,a,,d1] | \
 [,,,c'c1] [,,aaa3/2] ,,c/ | "
 103;C dur;72v;sans titre;;;;Conc_766;3;"[,'c/] ,d | \

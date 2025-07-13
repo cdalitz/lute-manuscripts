@@ -1,8 +1,8 @@
 PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
-1;f moll;1v;Allemande;V.Gaultier;;;Conc_325;C;"a1 | \
+1;f moll;1v;Allemande;V.Gaultier;;Bb-d-f-a-d'-f';Conc_325;C;"a1 | \
 [add{,a}1] 'c/ (a/4 c d/) (,,,a/4 ,,,c ,,,d/) (,,,c/4 ,,,a) | \
 ,,,,c/4 ,d c/ ,,d [,,'b] {,a}/4 ,,,d ,,b ,,d [,,,'a/] ,,,c | "
-2;f moll;2v;Gigue;Valentin Strobel;Allemande;;Conc_479;3;"a1 | \
+2;f moll;2v;Gigue;Valentin Strobel;;Bb-d-f-a-d'-f';Conc_479;3;"a1 | \
 [add{,a}2] c1 | \
 Vd2 ,d1 | \
 ,b1 c ,,d | \
@@ -10,13 +10,13 @@ Vd2 ,d1 | \
 ,,b1 a c | \
 [,'c2] ,,d1 | \
 a2 ,,,d1 | "
-3;f moll;3v;sans titre;;;;Conc_477;3;",c/ a c | \
+3;f moll;3v;sans titre;;;Bb-d-f-a-d'-f';Conc_477;3;",c/ a c | \
 V[dd{,a}3] | \
 [ff{,,a}3/2] h/ f1 | \
 ['dd{,a}3/2] ,f/4 d ,d1 | \
 [fd,,,a3/2] d/ 'c a | \
 ,,,,,c/ ,c ,,d [aa] c ,,,,,a | "
-4;f moll;4v;Sara;;;;Conc_478;3;"{,a}1 [,,dd3/2] ,,d/ | \
+4;f moll;4v;Sara;;;Bb-d-f-a-d'-f';Conc_478;3;"{,a}1 [,,dd3/2] ,,d/ | \
 [,,'b{,,a}3/2] ,,b/ ,,d1 | \
 {,a}/ ,,,d ,,,a1 ,,,,,a/ ,,,c | \
 ,,,,,c/ ,,,,c ,,,a1 ,,,,,a/ ,,,c | \
