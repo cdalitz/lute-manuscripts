@@ -1,232 +1,624 @@
 PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
-1;;1r;XLVII. Ich Rew Vnnd klag;;;OT;ConcR1545;;;germantab
-2;;1v;XLVIII. Von Edler Arth / Eyn frewleyn Zarth;;;OT;ConcR1935;;;germantab
-3;;2r;XLIX. Ich Stell Nicht ab;;;OT;;;;germantab
-4;;2v;L. Marie Sangiois;;;OT;;;;germantab
-5;;2v;LI. Patientia;Wolff Heckel;;OT;ConcR2260;;;germantab
-6;;3r;LII. Il estoit une fillete;Wolff Heckel;Jannequin?;OT;ConcR1728;;;germantab
-7;;3v;LIII. Ie svis aymes;Wolff Heckel;Crequillon?;OT;ConcR2194;;;germantab
-8a;;3v;LIIII. Iesv omen Sanctis: I. Pars: Val: Back: LIIII;;;OT;ConcR1812;;;germantab
-8b;;4v;LV. Sit Nomen Domini: Secunda Pars;;;OT;ConcR1813;;;germantab
-9;;5r;LVI. Pver Natvs in Betlehem;;;OT;;;;germantab
-10a;;5v;LVII. Dum Transisset Sabba: I. Pars. Mat: W:;;Hollander?;OT;ConcR2261;;;germantab
-10b;;6v;LVIII. Et Valde mane Secunda Pars;;;OT;ConcR2262;;;germantab
-11;;8r;LIX. Ach Prentzia;;;OT;;;;germantab
-12a;;8v;LX. Dilexi Quoniam I. Pars;;;OT;ConcR2263;;;germantab
-12b;;9v;LXI. O Domine Secunda Pars;;;OT;ConcR2264;;;germantab
-13;;10v;LXII. Ie prens en gre Matth: Waisel;;Clemens Non Papa;OT;ConcR1358;;;germantab
-14;;11v;LXIII. Deus Qui sedes;;;OT;;;;germantab
-15a;;12v;LXIIII. Erravi Sicut Ovis .4. Vo: I. Pars Val: Bac:;;;OT;ConcR1147;;;germantab
-15b;;13v;LXV. Delicta Ivventutis meae. Secun: Pars;;;OT;ConcR1814;;;germantab
-16;;14r;LXVI. Ach Elselein Hold Buse M: Sachsen:;;;OT;;;;germantab
-17;;14v;LXVII. Sih Ists Die Sich heltt: Wolff: Heck:;;Senfl?;OT;ConcR2265;;;germantab
-18;;15r;LXVIII. Freundlicher Held / Wolffg: Heckels;;Senfl?;OT;ConcR2266;;;germantab
-19;;15v;LXIX. Mein Vleis Vnd müh;;;OT;ConcR2073;;;germantab
-20;;15v;LXX. Ach Vnfalls Neyd;;;OT;;;;germantab
-21;;16r;LXXI. Ein Meidlein sag mir freundlich zu;;;OT;;;;germantab
-22;;16v;LXXII. Ick Sege Adiu / wi twe moten;;;OT;ConcR1752;;;germantab
-23;;16v;LXXIII. Jetzt Scheiden bringt mir schwer;;;OT;;;;germantab
-24;;17v;LXIIII. Ach Edler Hort Vernimb;;;OT;;;;germantab
-25;;17v;LXXV. Ey Wie So Gar freündlich;;;OT;;;;germantab
-26;;18r;LXXVI. Wo Soll Ich Mich hinkeren;;;OT;ConcR2267;;;germantab
-27;;18v;LXXVII. Tröstlicher Lieb Ich mich stets:;;;OT;ConcR2268;;;germantab
-28;;19r;LXXVIII. Zart Schöne Fraw;;;OT;ConcR2108;;;germantab
-29;;19v;LXXIX. Was Würd Es Doch des Wunders ;;Senfl;OT;ConcR2019;;;germantab
-30;;20r;LXXX. So Wündsch Ich Ihr eyn gutte nacht ;;;OT;ConcR1522;;;germantab
-31;;20v;LXXXI. Ach Gott Wem sol ichs klagen;;;OT;;;;germantab
-32;;21r;LXXXII. Ich habs Bewagt;;;OT;;;;germantab
-33;;21v;LXXXIII. Hilff herre Gott / Wolff Heckels;;;OT;ConcR1988;;;germantab
-34;;21v;LXXXIIII. Die Brunlein die da flissen. W H:;;Senfl?;OT;ConcR2011;;;germantab
-35;;22v;LXXXV. Elend Ich Rieff Vnd;;;OT;;;;germantab
-36;;23r;LXXXVI. Ach Jupiter Wolff: Heck:;;Fulda?;OT;ConcR2269;;;germantab
-37;;23v;LXXXVII. Elend Bringet Peyn;;;OT;;;;germantab
-38;;24r;LXXXVIII. Per Illud Ave / Wolffgang Heck:;;Josquin;OT;ConcR1600;;;germantab
-39;;24v;LXXXIX. Cum Sancto Spiritu Ioss Quind I: N:;;;OT;ConcR2270;;;germantab
-40;;25r;XC. Ein Frantzosisch Stuckleyn;;;OT;;;;germantab
-41;;25v;XCI. La loysillon;;La la la l'oysillon du bois;OT;ConcR2271;;;germantab
-42;;26r;XCII. Languir me fais W: H:;;;OT;ConcR200;;;germantab
-43;;26v;XCIII. Ie suis desheritee;;;OT;ConcR1718;;;germantab
-44;;27r;XCIIII. Cest a grand tort;;;OT;ConcR1757;;;germantab
-45;;27v;XCV. Mille Regres Wolff Heckels;;Josquin?;OT;ConcM3;;;germantab
-46;;28r;XCVI. Mon petit;;;OT;ConcR2272;;;germantab
-47;;28v;XCVII. Frisque et gaillard Matth: Wais:;;Clemens Non Papa?;OT;ConcR1758;;;germantab
-48;;29v;XCVIII. Non chi non voglio, W: H:;;Archadelt;OT;ConcR2273;;;germantab
-49;;30v;XCIX. Non est bonum hominem M: W:;;;OT;ConcR2274;;;germantab
-50;;30v;[Preambulum Wolffgang Heckels];;Only first 2 measures;OT;ConcR2275;;;germantab
-51;;31v;C. Quanto e madonna mia M W:;;ff. 32v-32av empty;OT;ConcR1542;;;germantab
-52a;;33r;I. Pass è mezo [antico];;;OT;;;;germantab
-52b;;33r;Saltarello;;;OT;;;;germantab
-53a;;33v;II. Pass e mezo [antico];;;OT;;;;germantab
-53b;;33v;Saltarello;;;OT;;;;germantab
-54a;;34r;III. Pass e mezo Venetianer [Romanesca];;;OT;;;;germantab
-54b;;34r;Saltarello;;;OT;;;;germantab
-55a;;34v;IIII. Pass è mezo [antico];;;OT;;;;germantab
-55b;;34v;Saltarello;;;OT;;;;germantab
-56a;;35r;V. Pass e mezo Matth: Waisels;;;OT;ConcR2277;;;germantab
-56b;;35v;La sua Padoana;;;OT;;;;germantab
-56c;;36r;El suo Saltarello;;;OT;;;;germantab
-57a;;36v;VI. Pass è mezo [antico];;;OT;;;;germantab
-57b;;36v;Saltarello;;;OT;ConcR1596;;;germantab
-58a;;37r;VII. Pass è mezo [Romanesco];;;OT;;;;germantab
-58b;;37r;Saltarello;;;OT;;;;germantab
-59a;;37v;VIII. Pass è mezo [antico];;;OT;;;;germantab
-59b;;37v;Saltarello;;;OT;;;;germantab
-60a;;38r;IX. Pass è mezo [antico];;;OT;;;;germantab
-60b;;38r;Saltarello;;;OT;;;;germantab
-61a;;38v;X. Pass è mezo [Romanesca];;;OT;;;;germantab
-61b;;38v;Saltarello;;;OT;;;;germantab
-62a;;39r;XI. Pass è mezo [antico];;;OT;;;;germantab
-62b;;39r;Saltarello;;;OT;;;;germantab
-63a;;39v;XII. Pass è mezo [moderno];;;OT;;;;germantab
-63b;;40r;Saltarello;;;OT;;;;germantab
-64a;;40v;XIII. Pass è mezo [antico];;;OT;ConcR2278;;;germantab
-64b;;41r;Saltarello;;;OT;;;;germantab
-65a;;41v;XIIII. Pass e mezo [moderno];;;OT;;;;germantab
-65b;;41v;Saltarello;;;OT;;;;germantab
-66a;;42r;XV. Pass è mezo [moderno];;;OT;;;;germantab
-66b;;42r;Saltarello;;;OT;;;;germantab
-67a;;42v;XVI. Pass è mezo [moderno];;;OT;;;;germantab
-67b;;42v;Saltarello;;;OT;;;;germantab
-68a;;43r;XVII. La Fantina Wolff: Heck:;;;OT;ConcR3201;;;germantab
-68b;;43v;XVIII. La Fantina;;Duet;OT;ConcR3202;;;germantab
-69;;43v;XIX. Gagliarda Cypriana Math: Wai:;;;OT;ConcR2279;;;germantab
-70;;44r;XX. Pavana Wolff: Heckels;;;OT;ConcR2280;;;germantab
-71a;;44v;XXI. Padvaner Wolff: Heck;;;OT;ConcR2281;;;germantab
-71b;;44v;Saltarello;;;OT;ConcR2282;;;germantab
-72a;;45r;XXII. Les Bvffons Wolffgang Heckels;;Duet;OT;ConcR3213;;;germantab
-72b;;45v;XXIII. Les Bvffons Wolffgang Heckels;;Duet;OT;ConcR3214;;;germantab
-73;;46r;XXIIII. Gagliarda Todesca Math Wais:;;;OT;ConcR2283;;;germantab
-74;;46v;XXV. La Traditora gagliarda M: W:;;;OT;ConcR2284;;;germantab
-75;;47r;XXVI. La rocha el fuso M: W:;;;OT;ConcR1384;;;germantab
-76;;47v;XXVII. Chi Pass gagliarda;;;OT;ConcR178;;;germantab
-77a;;47v;XXVIII. La Cara cossa gagliarda;;;OT;ConcR202;;;germantab
-77b;;48r;XXIX. La Cara cossa gagliarda;;;OT;ConcR202;;;germantab
-77c;;48r;XXX. La Cara cossa gagliarda;;;OT;ConcR202;;;germantab
-77d;;48v;XXXI. La Cara cossa gagliarda;;;OT;ConcR202;;;germantab
-78;;48v;XXXII. La Gamba Wolffg: Heck:;;;OT;ConcR3209;;;germantab
-79;;49r;XXXIII. Le Forze de Hercule W: Heck:;;;OT;ConcR3211;;;germantab
-80;;49r;XXXIIII. El Burato gagliarda;;;OT;ConcR1454;;;germantab
-81a;;49v;XXXV. Pass è mezo [Romanesca];;;OT;;;;germantab
-81b;;50r;Saltarello;;;OT;;;;germantab
-82a;;50v;XXXVI. Pass è mezo [moderno];;;OT;ConcR1817;;;germantab
-82b;;51r;Saltarello;;;OT;ConcR1818;;;germantab
-83;;51v;XXXVII. Pass è mezo [antico];;;OT;;;;germantab
-84a;;52r;XXXVIII. Pass è mezo [moderno];;;OT;;;;germantab
-84b;;52r;Saltarello;;;OT;;;;germantab
-85a;;52v;XXXIX. Pass è mezo [antico];;;OT;;;;germantab
-85b;;53v;Saltarello;;;OT;;;;germantab
-86;;54r;XL. Gagliarda;;;OT;;;;germantab
-87a;;54v;XLI. Pass è mezo [antico];;;OT;;;;germantab
-87b;;55r;Saltarello;;;OT;;;;germantab
-88a;;55v;XLII. Pass è mezo [moderno];;;OT;;;;germantab
-88b;;56r;Saltarello;;;OT;;;;germantab
-89a;;57r;XLIII. Pass è mezo [moderno];;;OT;ConcR2285;;;germantab
-89b;;57v;Saltarello;;;OT;ConcR2286;;;germantab
-90;;58v;XLIIII. Pass è mezo [antico] Wolff: Heck:;;;OT;ConcR2287;;;germantab
-91;;59v;XLV. Val cerca gagliarda M: W:;;;OT;ConcR833;;;germantab
-92;;59v;XLVI. Pass è mezo [Romanesca];;;OT;;;;germantab
-93;;60r;XLVII. Gagliard;;;OT;;;;germantab
-94a;;60v;XLVIII. Der Köngische tantz;;;OT;;;;germantab
-94b;;60v;Saltarello;;;OT;;;;germantab
-95a;;60v;XLIX. Der Köngische tantz;;;OT;;;;germantab
-95b;;60v;Saltarello;;;OT;;;;germantab
-96a;;61r;L. Der Könginn tentzley;;;OT;ConcR2288;;;germantab
-96b;;61r;Saltarello;;;OT;;;;germantab
-97a;;61r;LI. Der Fürstenn tantz;;;OT;;;;germantab
-97b;;61r;Saltarello;;;OT;;;;germantab
-98a;;61v;LII. Der Fürstenn tantz;;;OT;;;;germantab
-98b;;61v;Saltarello;;;OT;;;;germantab
-99a;;61v;LIII. Der Fürsten tantz;;;OT;;;;germantab
-99b;;61v;Saltarello;;;OT;;;;germantab
-100a;;62r;LIIII. Chürfürst Moritz tantz;;;OT;;;;germantab
-100b;;62r;Saltarello;;;OT;;;;germantab
-101a;;62r;LV. Chürfürst Augustus tantz;;;OT;;;;germantab
-101b;;62r;Saltarello;;;OT;;;;germantab
-102a;;62v;LVI. Der Chürfürstin zu sachsen tentzleyn;;;OT;;;;germantab
-102b;;62v;Saltarello;;;OT;;;;germantab
-103a;;62v;LVII. Graff Johann Von Nassaw tantz;;;OT;ConcR2289;;;germantab
-103b;;63r;Saltarello;;;OT;;;;germantab
-104a;;63v;LVIII. Was Wollenn wir auff den abent;;;OT;ConcR980;;;germantab
-104b;;63v;Saltarello;;;OT;;;;germantab
-105a;;63v;LIX. Der Wittenberger Studentten tantz;;Bassus;OT;ConcR951;;;germantab
-105b;;63v;Saltarello;;;OT;;;;germantab
-105c;;64r;LX. Der Wittenberger Studentten tantz;;;OT;ConcR951;;;germantab
-105d;;64r;Saltarello;;;OT;ConcR3488;;;germantab
-105e;;64v;LXI. Der Wittenberger Studentten tantz;;;OT;ConcR951;;;germantab
-105f;;64v;Saltarello;;;OT;ConcR3488;;;germantab
-106a;;64v;LXII. Superbie tentzleyn;;;OT;;;;germantab
-106b;;65r;Saltarello;;;OT;;;;germantab
-107a;;65r;LXIII. Superbie tentzleyn;;;OT;ConcR2290;;;germantab
-107b;;65r;Saltarello;;;OT;;;;germantab
-108a;;65v;LXIIII. Ein Ander Gütter tantz;;;OT;;;;germantab
-108b;;65v;Saltarello;;;OT;;;;germantab
-109a;;65v;LXV. Per Transibat Clericus;;Salve puella, tenor;OT;ConcR2028;;;germantab
-109b;;65v;Saltarello;;;OT;;;;germantab
-109c;;66r;LXVI. Per Transibat Clericus;;Salve puella, discantus;OT;ConcR2028;;;germantab
-109d;;66r;Saltarello;;;OT;;;;germantab
-109e;;66r;LXVII. Per Transibat Clericus;;Salve puella, bassus;OT;ConcR2028;;;germantab
-109f;;66r;Saltarello;;;OT;;;;germantab
-110a;;66v;LXVIII. Rosinen tentzleyn;;;OT;;;;germantab
-110b;;66v;Saltarello;;;OT;;;;germantab
-111a;;66v;LXIX. Rosinen tentzleyn;;;OT;;;;germantab
-111b;;67r;Saltarello;;;OT;;;;germantab
-112a;;67r;LXX. Das Kaltte gebratens;;;OT;;;;germantab
-112b;;67r;Saltarello;;;OT;;;;germantab
-113a;;67v;LXXI. Das Kaltte Gebratens;;;OT;;;;germantab
-113b;;67v;Saltarello;;;OT;;;;germantab
-114a;;67v;LXXII. Mein Büle Ist Von flandern;;;OT;;;;germantab
-114b;;67v;Saltarello;;;OT;;;;germantab
-115a;;68r;LXXIII. Ein Ander Gütter tantz;;;OT;;;;germantab
-115b;;68r;Saltarello;;;OT;;;;germantab
-116a;;68r;LXXIIII. Einn Ander tantz;;;OT;;;;germantab
-116b;;68r;Saltarello;;;OT;;;;germantab
-117a;;68v;LXXV. Der Almoter tantz;;;OT;;;;germantab
-117b;;68v;Saltarello;;;OT;;;;germantab
-118a;;69r;LXXVI. Es Hatt Einen Schrie geschrieyett;;;OT;;;;germantab
-118b;;69r;Saltarello;;;OT;;;;germantab
-119a;;69v;LXXVII. Ich Weis Eine schone Müllerin;;;OT;ConcR2291;;;germantab
-119b;;69v;Saltarello;;;OT;ConcR2292;;;germantab
-120a;;70r;LXXVIII. Ich Hatt Mir Eyn Anneleyn fürge[nommen]:;;;OT;;;;germantab
-120b;;70r;Saltarello;;;OT;;;;germantab
-121a;;70v;LXXIX. Heckerling Vnd haberstro;;;OT;ConcR2674;;;germantab
-121b;;70v;Saltarello;;;OT;ConcR2675;;;germantab
-122a;;70v;LXXX. Hastü Mich Betrogen;;;OT;;;;germantab
-122b;;71r;Saltarello;;;OT;;;;germantab
-123a;;71r;LXXXI. Das Meidlein Das ist hubsch vnd fein;;;OT;ConcR974;;;germantab
-123b;;71r;Saltarello;;;OT;;;;germantab
-124a;;71v;LXXXII. Ein Gütter tantz Matth: Waiss:;;;OT;ConcR2293;;;germantab
-124b;;71v;Saltarello;;;OT;ConcR2294;;;germantab
-125a;;71v;LXXXIII. Ein Ander tantz;;;OT;;;;germantab
-125b;;71v;Saltarello;;;OT;;;;germantab
-126a;;72r;LXXXIIII. Ein Gütter tantz;;;OT;;;;germantab
-126b;;72r;Saltarello;;;OT;;;;germantab
-127a;;72r;LXXXV. Ho Ho Seind wir schir inss Dorff;;;OT;;;;germantab
-127b;;72r;Saltarello;;;OT;;;;germantab
-128a;;72v;LXXXVII. Ein Ander tantz;;;OT;;;;germantab
-128b;;72v;Saltarello;;;OT;;;;germantab
-129a;;73r;LXXXVIII. Es Solt Ein Meydleyn Melcken;;;OT;;;;germantab
-129b;;73r;Saltarello;;;OT;;;;germantab
-130a;;73r;LXXXIX. Ein Ander tentzleyn;;;OT;;;;germantab
-130b;;73r;Saltarello;;;OT;;;;germantab
-131a;;73v;XC. Liebe Junckfraw kethe;;;OT;;;;germantab
-131b;;73v;Saltarello;;;OT;;;;germantab
-132a;;73v;XCI. Ich Bin Beim pauern zur;;;OT;;;;germantab
-132b;;73v;Saltarello;;;OT;;;;germantab
-133a;;74r;XCII. Ein Ander Gütter tantz;;;OT;;;;germantab
-133b;;74r;Saltarello;;;OT;;;;germantab
-134a;;74r;XCIII. Süsenlein Wil tu mitt;;;OT;;;;germantab
-134b;;74r;Saltarello;;;OT;;;;germantab
-135a;;74v;XCIIII. Ein Ander Gütter tantz Matth Wais:;;;OT;Conc_4438;;;germantab
-135b;;74v;Saltarello;;;OT;;;;germantab
-136a;;75r;XCV. Ein Gütter Hofe tantz W: H:;;;OT;ConcR2295;;;germantab
-136b;;75r;Saltarello;;;OT;ConcR2296;;;germantab
-137a;;75v;XCVI. Ein Ander Güt tentzleyn;;;OT;;;;germantab
-137b;;75v;Saltarello;;;OT;;;;germantab
-138a;;75v;XCVII. Ein Ander Güt tentzleyn;;;OT;;;;germantab
-138b;;76r;Saltarello;;;OT;;;;germantab
-139a;;76r;XCVIII. Ein Ander Gütter tantz;;;OT;;;;germantab
-139b;;76r;Saltarello;;;OT;;;;germantab
-140a;;76v;XCIX. Ein Ander Güt tentleyn;;;OT;;;;germantab
-140b;;76v;Saltarello;;;OT;;;;germantab
-141a;;76v;C. Ein Ander Gütter tantz Wolff H:;;;OT;ConcR2297;;;germantab
-141b;;76v;Saltarello;;;OT;ConcR2298;;;germantab
+1;;1r;XLVII. Ich Rew Vnnd klag;;;OT;ConcR1545;C;",,,c1 ,,,e/4 ,,,c ,,,a ,,,c ,,a/ ,,c ,,d1 | \
+,a/4 ,,d ,,c ,,a ,,d/ ,,c [,cd1] [a,c] | \
+[,ea/] a ,c/4 ,a ,c ,e";germantab
+2;;1v;XLVIII. Von Edler Arth / Eyn frewleyn Zarth;;;OT;ConcR1935;C;"[cdda1] ,d/4 a c d [cdda/] a/4 c d c a ,d | \
+[acd,a/] ,a/4 ,c ,d ,c ,a ,,d [,da,c1] a/4 ,d ,c ,a |";germantab
+3;;2r;XLIX. Ich Stell Nicht ab;;;OT;;C;"[,d,a1] | [c,da2] [da,c1] c/ a | [,,aa1] f [cd,a] a/ ,d | \
+[acd1] [f,de/] ,,,a [,a,c1] e | \
+[f,d,a1] ,,,,e ,,,a/ ,,,c [,,de1] |";germantab
+4;;2v;L. Marie Sangiois;;;OT;;C;"[aa,c2] [acd,a1] [dabc] | [cdda1] [abbd] [aaa,c] [,efec] | \
+[a,bc1] [aa] [ac,c] [da] | [ccd1] [aab] [a,de] [,efec] | \
+[a,bcd1] ,,b/ [,a,,c]";germantab
+5;;2v;LI. Patientia;Wolff Heckel;;OT;ConcR2260;C;"[c,a,c2] [c,a,c1] [d,,c,a] | [c,a,c2] [a,b,,a/] ,d a ,c | \
+[,da,c2] [,da1] ,,,,c | [a,d,a2] [a,b,,a/4] ,d ,c ,a ,d/ ,c | \
+[,da,c4] |";germantab
+6;;3r;LII. Il estoit une fillete;Wolff Heckel;Jannequin?;OT;ConcR1728;C;"[d,,cd1] [cd,a] [d,cd] [cd,,,d] | \
+[ab,,a1] [aa,c] [,bdd/] ,,d [,bb,d] [a,b] | \
+[,daa/] [a,,c] [b,da] [a,,,d] [,dda] [abd,a] [,a,c] [,a,c] |";germantab
+7;;3v;LIII. Ie svis aymes;Wolff Heckel;Crequillon?;OT;ConcR2194;C;",,,a2 ,,,a1 ,,,a | ,,,c2 ,,,c | [,dff2] [,dff1] [,d,e] | \
+[ac,c1] ,,,c/ ,,,a [ac,c2] | [cd,a2] [cd,a/] ,d a/4 ,d a c |";germantab
+8a;;3v;LIIII. Iesv omen Sanctis: I. Pars: Val: Back: LIIII;;;OT;ConcR1812;C;"[cdf,c2] [cdf,c] | [cdda2] [aacc] | [,dfec2] ,c | \
+[,df,c2] [cdf,c] | [cdda2] [aacc] | [,dfec/] ,c ,d [ac] [cd] d [fc,ce1] | \
+[,,aa1] [ea/] c [acc,e1] ,,d/ c |";germantab
+8b;;4v;LV. Sit Nomen Domini: Secunda Pars;;;OT;ConcR1813;C;"[,af2] [,df1] [,ce] | [,ef1] [b,c] [c,a,c2] | \
+[,,,ac1] [,,,,eb] [,a,bc] [,a,d,e] | [,dfe,c1] [,ce] [,ef] [b,c] | \
+[c,a1] [fca] [ccde] [b,cd] |";germantab
+9;;5r;LVI. Pver Natvs in Betlehem;;;OT;ConcR1504;3;"[aa,c1] | [aa,c2] [aa,c1] | [cdda2] [cdda1] | \
+[dab,,d2] [abb,d1] | [,dba,d2] [dba,d1] | [dab,,d2] [fdaa1] | \
+[ea,c] [,,da/] c d/4 c a c |";germantab
+10a;;5v;LVII. Dum Transisset Sabba: I. Pars. Mat: W:;;Hollander?;OT;ConcR2261;C;"a2 a/4 ,d ,c ,a ,,d ,a ,c ,d | a1 a c/ a/4 c e c a ,d | \
+[a,d2] ,,d1 [a,d] |";germantab
+10b;;6v;LVIII. Et Valde mane Secunda Pars;;;OT;ConcR2262;C;"a2 a1 a | c1 a/4 ,d ,c ,a [,cd2] | \
+,,d/4 a c e [f,d1] [ca] [f,d] | \
+,,f/ f e c [e,f1] [cd/] a |";germantab
+11;;8r;LIX. Ach Prentzia;;;OT;;C;"[,d,a1] | [,d,ac2] [,a,ca/] ,d ,c ,a | \
+[,,def1] [,,bc/] d [,,da/4] d c a d/ c | \
+[da,,,d2] y1 [a,b,,d1] |";germantab
+12a;;8v;LX. Dilexi Quoniam I. Pars;;;OT;ConcR2263;C;",,,,,d2 ,,,,,d1 ,,,,,d | ,,,,d2 ,,,,d1 ,,,,c | \
+[,,b,c1] ,,,,d ,,b/ ,,,,c [,,b,a] ,,,,,d | \
+[,b,,a2] [,,b,,d1] [,,ff] | [,df1] ,,,e/ ,,,c [,d,e1] [,dff] |";germantab
+12b;;9v;LXI. O Domine Secunda Pars;;;OT;ConcR2264;C;"[,ab2] [,b,c1] [,d,a] | [dab2] [a,d1] [,df] | \
+[dab1] [,,b,,d] [d,b,,d] [,,b,,d] | \
+[,,,cd1] [,,,ac] [,,,cd] [,,aa] | \
+[,,b,,d1] [d,b] [d,b,,d] [d,b] | [ab1] [,df] [ab] [cd] |";germantab
+13;;10v;LXII. Ie prens en gre Matth: Waisel;;Clemens Non Papa;OT;ConcR1358;C;"[,ddef2] [,dfec1] [acbc] | [cdda/] a c/4 a c d [cdda1] [ffg,a] | \
+[dfg,d/] ,g ,f ,d [dfg,d1] [cdda] | \
+[acd,a/] ,d [,cd] ,a";germantab
+14;;11v;LXIII. Deus Qui sedes;;;OT;;C;",,b2 ,,b | ,,b2 ,,d | [da2] ,,b1 [da] | \
+[da/] ,,d ,,b ,,a [f,,c2] | [h,ff1] ,d [dab] [h,,i] | \
+[h,,f/] f d c [a,d2] |";germantab
+15a;;12v;LXIIII. Erravi Sicut Ovis .4. Vo: I. Pars Val: Bac:;;;OT;ConcR1147;C;,a2 c | c1 ,d a c | [d,,c/4] c a c d a c d [ca] a c d a/ c |;germantab
+15b;;13v;LXV. Delicta Ivventutis meae. Secun: Pars;;;OT;ConcR1814;C;"d2 a1 ,a | d2 [da1] c | [f,d1] [d,,c] ,b/ c a ,d | \
+[ab1] [ca] ,d/ a [,df1] | [,c,3/4] ,e/8 ,c [a,d/4] ,e";germantab
+16;;14r;LXVI. Ach Elselein Hold Buse M: Sachsen:;;;OT;ConcR2002;3;"[aabc1] |: [aabc/] ,d a c [dabc1] | [cda,c2] [abb,d1] | \
+[cda,c/] a c d [fcd,a1] | [hdf,,d3/2] ,,,,a/ [haa,,h1] | \
+[fdda3/2] d/ [cdda1] |";germantab
+17;;14v;LXVII. Sih Ists Die Sich heltt: Wolff: Heck:;;Senfl?;OT;ConcR2265;C;",,b2 ,b/ ,a/4 ,b ,d ,b ,a ,,d | \
+[,a,a,d1] ,,,f [,,b,d/] ,,a/4 ,,b ,,d ,,b ,,a ,,,c | \
+[,d,ac1] [,dba,d] [da] [,,da,c] [,,b,,a] |";germantab
+18;;15r;LXVIII. Freundlicher Held / Wolffg: Heckels;;Senfl?;OT;ConcR2266;C;"[,ac,,a2] [,acc,a1] [,acc,a] | [,cdca/] ,a/4 ,c ,d ,c ,a ,,d \
+[,acc,a/4] ,,a ,,c ,,e ,,c ,,e ,a ,c |";germantab
+19;;15v;LXIX. Mein Vleis Vnd müh;;;OT;ConcR2073;C;"[aa,c2] [aa,c/] ,,,a ,,,c/4 ,,,a ,,,,d ,,,,c | \
+[ab,,a/] ,a ,b ,d [ab,,a] ,a/4 ,b ,d ,b ,a ,,d | \
+[ca,,c/4] a ,d ,c";germantab
+20;;15v;LXX. Ach Vnfalls Neyd;;;OT;;C;"[,dda1] ,d/4 ,c ,d a [,dda/] ,c ,d/4 ,c ,a ,,d | \
+[,a,a,d/4] ,,d ,a ,c [,ab,,d/] ,,,,a ,,,,c ,,,,a ,,,,c ,,,,e |";germantab
+21;;16r;LXXI. Ein Meidlein sag mir freundlich zu;;;OT;ConcR2080;C;"[fcd,a2] [cdda1] [cdda] | [fcd,a1] [fcd,a] [dabc] [dabc] | \
+[cdda2] y1 [cdda1] | [fcd,a1] [ha,f] [ha,f/] f d c | \
+[acd,a1] [fcd,a] [,ffc] e |";germantab
+22;;16v;LXXII. Ick Sege Adiu / wi twe moten;;;OT;ConcR1752;C;",,d/ ,,c/4 ,,d ,a ,,d ,,c ,,d [,aaac1] [,a,,c] | \
+[,c,ca1] ,,,c ,,,e [,,de] | [,df,,d1] ,,,f [aab,,a] [aab,,a] | \
+[caaa1] [d,,c/] [c,,a] [a,,,e] [,d,,c] [,cdca1] |";germantab
+23;;16v;LXXIII. Jetzt Scheiden bringt mir schwer;;;OT;;C;"[,db,,d1] ,d/4 ,b ,a ,,d [,db,,d] ,,a ,,,c ,,,a ,,,c ,,,a ,,,,d ,,,,c | \
+[,b,c,a/] ,a ,b/4 ,a ,b ,d";germantab
+24;;17v;LXIIII. Ach Edler Hort Vernimb;;;OT;;C;"[,ab,,a1] ,d/ ,b [,ab,,a] ,,,,,c ,,,,,d ,,,,a | \
+[,da,c/] c a ,d [a,,cd] d c a | \
+[c,a,c/] a ,c/4 ,a ,c ,e [a,,cd1] d |";germantab
+25;;17v;LXXV. Ey Wie So Gar freündlich;;;OT;;C;"[,a,,c1] ,,d/ ,a ,b ,a ,,d ,,b | [,da,c1] ,,d/ ,,b [,,a,c1] ,d | \
+[,,b,,a1] a [,da,c/] c a ,d | [a,,cd1] d ,a [c,da] |";germantab
+26;;18r;LXXVI. Wo Soll Ich Mich hinkeren;;;OT;ConcR2267;C;"[aabc] | [aabc1] [aabc] [,da,c] [abb,d] | \
+[dab,,d/] ,,,,a ,,,,c ,,,,e [cdda1] [cdd/] ,,,a | \
+[dab,,d1] [cdda/] d c a [aabc] ,,d |";germantab
+27;;18v;LXXVII. Tröstlicher Lieb Ich mich stets:;;;OT;ConcR2268;C;"[ca,,c/] a c d [ca,,c] a c/4 a ,d ,c | \
+[,df,c/] ,,,,a ,,,,c ,,,,d \
+[,df,c] ,,,,a ,,,,c/4 ,,,,a ,,,,,d ,,,,,c |";germantab
+28;;19r;LXXVIII. Zart Schöne Fraw;;;OT;ConcR2108;C;"[ca,,c2] [ca1] ,,,,c | [c,da/4] a ,d ,c ,d a c d [c,da1] [a,,,e] | \
+[,d,,c/] ,c ,a/4 ,c ,d a [c,da1] [,abc] |";germantab
+29;;19v;LXXIX. Was Würd Es Doch des Wunders ;;Senfl;OT;ConcR2019;C;"[,dda/] ,c ,a/4 ,,d ,a ,c [,d,ac/] a c/4 a c d | \
+[cdda/] a/4 c [a,,,e/] [,d,,c] [acd,a/4] ,a ,c ,d";germantab
+30;;20r;LXXX. So Wündsch Ich Ihr eyn gutte nacht ;;;OT;ConcR1522;C;"[,dda1] | [,dda1] [acd,a] [,da,c] [abb,d] | \
+[,cdca1] ,a/ ,c ,d ,c ,a ,d | \
+[acd,a1] [,da,c] [acd,a/] ,a ,d ,c | \
+[,dda2] y1 [cdda1] |";germantab
+31;;20v;LXXXI. Ach Gott Wem sol ichs klagen;;;OT;;C;"a2 a/4 ,d a c d1 | c1 a/4 c d f h1 ,,,,h | \
+[h,,,h1] ,,,f [f,,e] [d,,c/4] ,,a ,,b ,,d |";germantab
+32;;21r;LXXXII. Ich habs Bewagt;;;OT;;C;"[,dda2] [,c,ca1] [,c,ca] | [,d,ac/] a c ,d [a,b,d] c [d,,c1] | \
+[c,da/] ,d a/4 ,d a c [d,b,,d2] | \
+y1 [,db,,d] [,b,ca] [,a,aa/] ,,d |";germantab
+33;;21v;LXXXIII. Hilff herre Gott / Wolff Heckels;;;OT;ConcR1988;C;"[a,d,a3/2] ,d/ [,bd,a1] [,ab/] [,dd] | \
+[aa,c2] [bd,a1] [a,b,d] | [ab,,d1] [,d,a/] ,b [,a,c] ,,d [,a,c1] | \
+[,bd1] [,db,,d] [,db,,d] [,b,da] | [,a,c2] [,,dd1] ,b |";germantab
+34;;21v;LXXXIIII. Die Brunlein die da flissen. W H:;;Senfl?;OT;ConcR2011;C;",,d/4 ,,b ,,d ,a ,b ,a ,b ,,d [,a,a] ,,d ,a ,b ,d ,b ,d ,a | \
+[,b,c/4] ,a ,b ,d a ,d a ,b";germantab
+35;;22v;LXXXV. Elend Ich Rieff Vnd;;;OT;;C;",,,,c2 ,,,,c/ ,,,,a ,,,,c/4 ,,,,d ,,,a ,,,,c | \
+[,,,cd1] ,,,,c/4 ,,,,a [,,,ac] ,,,,a ,,,,c/ ,,,,a ,,,,,d ,,,,,c | \
+[,ab,,a2] ,,c1 [,ab] |";germantab
+36;;23r;LXXXVI. Ach Jupiter Wolff: Heck:;;Fulda?;OT;ConcR2269;C;"[,db2] [,db1] [a,a/] ,,,c | [cd,a/] ,d a c [d,,a,d1] ,,,c | \
+[d,,cd1] ,,,c [cd,a3/2] ,b/ | [,df1] ,,,f [d,ff] ,,,e/ [,b,c] |";germantab
+37;;23v;LXXXVII. Elend Bringet Peyn;;;OT;;C;"[c,a,c/] a c d [c,a,c] a c/4 a ,d ,c | \
+[,db,c1] ,,a/ ,,,c [,da,c] a ,c/4 a ,c ,d |";germantab
+38;;24r;LXXXVIII. Per Illud Ave / Wolffgang Heck:;;Josquin;OT;ConcR1600;C;",,d2 [ab/] ,d ,b/4 ,d a c | [db1] d [da] ,,b/ ,,d | \
+[ca1] ,b/ ,d a/4 ,d ,c ,a ,d ,c ,a ,c |";germantab
+39;;24v;LXXXIX. Cum Sancto Spiritu Ioss Quind I: N:;;;OT;ConcR2270;C;",d2 ,d3/4 ,c/4 ,d ,c ,d/8 ,c ,a ,c | \
+,d1 a [fb] ,d | [fd/] ,b [fa/4] d f/8 d c d [f,d1] [h,,f] |";germantab
+40;;25r;XC. Ein Frantzosisch Stuckleyn;;;OT;ConcR2608;C;"[,aa,c2] [,da,c1] [,da,c] | [a,bc1] [a,bc] [c,de/] ,d a c | \
+[da,,,d/] ,,,,a ,,,,c ,,,,d [c,da1] [da,,,d] | \
+[da,c/] c [a,b,d] ,,,,a [a,a,c1] ,e |";germantab
+41;;25v;XCI. La loysillon;;La la la l'oysillon du bois;OT;ConcR2271;C;",,,c2 [,,bc] | ,,b1 a [d,bc/] ,,a/4 ,,b ,,d ,,b ,,a ,,b | \
+[d,,c1] ,,,c [a,,c/] ,,,a [,,,cd1] | \
+[,,b,d/] ,,,a [ab,,d1] [,bb] [,df,,d] |";germantab
+42;;26r;XCII. Languir me fais W: H:;;;OT;ConcR200;C;"[,ddef2] [,ddef1] [,ddef] | \
+[,aba,d1] [,aba/] ,,,,,d [,aa,c/4] ,,d ,,c ,,a ,,d ,,c ,,a ,,c | \
+[,cdca2] y1 [,cdcs] | [,ddef1] [,df,c] [a,bc/] ,c";germantab
+43;;26v;XCIII. Ie suis desheritee;;;OT;ConcR1718;C;",,,,c1 ,,,,c/ ,,,,a ,,,,c ,,,,a ,,,,c ,,,,d | \
+[,,aac1] [,,aa/] ,,,,d [,,aac] ,,,,a [,,,a,d] ,,,,,c | \
+[,abc,a/4] ,,a ,,b ,,d ,a ,,d ,,b ,,a";germantab
+44;;27r;XCIIII. Cest a grand tort;;;OT;ConcR1757;C;"[,dda/] ,b ,d a [cdda] d [fdda1] | \
+[,da,c1] [da,a,d] [,dda/4] d c a d/ c | \
+[dab/] ,,d [,a,,,d] ,b [,d,,c1] [ab,,d] |";germantab
+45;;27v;XCV. Mille Regres Wolff Heckels;;Josquin?;OT;ConcM3;C;"[,aa,c2] [,aa1] ,,,c | \
+[a,b,d/4] ,,a ,,b ,,d ,a ,c ,d ,a [a,dca1] ,d/4 ,b ,a ,,d | \
+[,df,c1] [,df/] ,,,,c ,,,,c [,df] [,b,ca] [a,,,d] |";germantab
+46;;28r;XCVI. Mon petit;;;OT;ConcR2272;C;"[c,da2] c/4 a ,d ,c [,d,a/] ,,b | \
+[caa,c1] d/4 c a c [dabc] ,,a ,,b ,,d ,a ,c ,d a |";germantab
+47;;28v;XCVII. Frisque et gaillard Matth: Wais:;;Clemens Non Papa?;OT;ConcR1758;C;",,,,c1 ,,,,c/ ,,,,c ,,,c/4 ,,,b ,,,c ,,a ,,,c/ ,,,,c | \
+,,,c/4 ,,,b ,,,c ,,a [,,cc/] ,,a ,,c/8 ,,a ,,c ,,d [,,c,c/]";germantab
+48;;29v;XCVIII. Non chi non voglio, W: H:;;Archadelt;OT;ConcR2273;C;"[,daa2] [,daa/4] ,c ,d a ,d ,b ,a ,,d | \
+[,db,,d1] [,daa] [,db,,d] [,db,,d/] a | \
+[,c,ca/4] ,a ,,d ,,c ,,d ,a ,c ,d [,c,ca1] [,daa] |";germantab
+49;;30v;XCIX. Non est bonum hominem M: W:;;;OT;ConcR2274;C;",a2 ,a/ ,,e/4 ,a ,c/ ,a/4 ,c | \
+[cd1] ,a [c,d/] a/4 c [e,c/] c/4 e | \
+[f,a1] [c,a] [a,c/4] ,,a ,,c ,,d [,df1] |";germantab
+50;;31v;C. Quanto e madonna mia M W:;;ff. 32v-32av empty;OT;ConcR1542;C;"[cc,e3/2] c/ [cdf] a c/4 a c d | \
+[cdf1] [cce] [cdf] ,,,e/ [ccd] | \
+[aab/] c [dab/4] c d a";germantab
+51a;;33r;I. Pass è mezo [antico];;;OT;;C;"[,bdca1] [,bdc/] ,,,,a [,bdca] ,a/4 ,b ,d ,b ,a ,,d | \
+[,aba,d/4] ,,a ,,b ,,d ,a ,,d ,,b ,,a";germantab
+51b;;33r;Saltarello;;;OT;;3;"[,bdca/4] ,a ,b ,d a ,d [,bdca] a ,d ,b ,a ,,d | \
+[,aba,d/4] ,,a ,,b ,,d ,a ,,d [,aba,d] ,,d ,a ,b ,d ,a |";germantab
+52a;;33v;II. Pass e mezo [antico];;;OT;ConcR2275;C;"[bdda/4] a ,d ,b ,d a b d [bdda/] a/4 b d b a ,d | \
+[abb,d/4] ,a ,b ,d a ,d ,b ,a";germantab
+52b;;33v;Saltarello;;;OT;ConcR3724;3;"[bdda/4] a ,d a b d [bdda] a d b a ,d | \
+[abb,d/4] ,a ,b ,d a ,d [abb,d] ,d a b d a |";germantab
+53a;;34r;III. Pass e mezo Venetianer [Romanesca];;;OT;;C;"[cdda/4] a ,d ,c ,d a c d [cdda] a d c a ,d ,c ,a | \
+[acd,a/4] ,a ,,d ,,c ,,d ,a ,c ,d";germantab
+53b;;34r;Saltarello;;;OT;;3;"[cdda/4] a ,d a c d [cdda/] a/4 ,d ,c ,a | \
+[acd,a/4] ,a ,c ,d a ,d [acd,a] ,a ,c ,d a c |";germantab
+54a;;34v;IIII. Pass è mezo [antico];;;OT;;C;"[da,c,a1] [da,c,a/] ,,,,,a [aa,c,a] c [da,c,a] a | \
+[cdda/] ,a/4 ,c ,d a c d [c,da/] d [d,,a] c |";germantab
+54b;;34v;Saltarello;;;OT;;3;"[da,c,a3/4] c/4 a/ [da,c,a] f/4 d c a | \
+,,,c/4 a c d c a ,,,a a c ,d a c |";germantab
+55a;;35r;V. Pass e mezo Matth: Waisels;;;OT;ConcR2277;C;"[caa,c/] [caa] | [caa,c1] [caa/] ,,,,e [caa,c] ,,,,a [aac,,e] ,,,,,c | \
+[aac,,a1] [aac/] ,,d [aac,,a1] [acd,a/] [acd] | \
+[acd,a1] [acd/] ,d [acd,a1] [,aaac] |";germantab
+55b;;35v;La sua Padoana;;;OT;ConcR3725;3;"[caa,c/] | [caa,c1] [caa/] | [caa,c3/4] ,,,,a/4 [caa,c/] | \
+[aac,,a1] [aac/] | ,,,,,a1 [acd,a/] | [acd,a3/4] ,d/4 [acd,a/] | \
+[,da,c/] ,c [,acc,a] | [cce,,c1] [cce/] | ,,,,,c1 [caa,c/] |";germantab
+55c;;36r;El suo Saltarello;;;OT;ConcR3726;3;"[caa,c1] | [caa,c3/2] [ca/] ,,a1 | [caa,c/] ,,,,e ,,,,c ,,,,a ,,,,,e ,,,,,c | \
+,,,,,a/ [aac] ,,,c ,,d ,,c ,,a | [aac,,a1] ,,,c [acd,a] |";germantab
+56a;;36v;VI. Pass è mezo [antico];;;OT;;C;"[abd,a/] ,,,c [abd,a] ,,,,c [abd,a] ,,,,c [abd,a] ,,,a | \
+[dab,,d/] ,,,a [dab,,d] ,,,,,c [dab,,d] ,,,,a ,,,,c ,,,,,d | \
+[abd,a/] ,,,c [abd,a] ,a";germantab
+56b;;36v;Saltarello;;;OT;ConcR1596;3;"[bd,a3/4] [abd/4] ,,,c/ [abd,a/4] ,a ,b ,d a c | \
+[dab,,d3/4] ,,,a/4 [dab,,d/] [dab,,d] ,,,a [dab,,d] | \
+[abd,a3/4] [abd/4] ,,,c/ [abd,a] ,d/4 ,b ,a ,,d |";germantab
+57a;;37r;VII. Pass è mezo [Romanesco];;;OT;;C;"[bbdd1] [bbd/] ,,,d [bbdd1] [bbdd] | \
+[abb,d/4] ,a ,b ,d a ,d ,b ,a [abb,d] ,a ,b ,d a b d a |";germantab
+57b;;37r;Saltarello;;;OT;;3;"[bbdd3/4] [bbd/4] ,,,d/ [bbdd] ,,,d [bbdd] | \
+[abb,d3/4] a/4 b d a ,d [abb,d] ,d a c d a |";germantab
+58a;;37v;VIII. Pass è mezo [antico];;;OT;;C;"[c,da/] a c/4 a c d [c,da/] a/4 c d c a c | \
+[dbb,d1] [dbb/] ,,,,c [dbb,d] ,,,a ,,,c ,,,,d |";germantab
+58b;;37v;Saltarello;;;OT;;3;"[c,da/4] a ,d a c d [c,da] a c a d c | \
+[dbb,d/] [dbb] ,,,,d [dbb] ,,,,d [dbb,d] |";germantab
+59a;;38r;IX. Pass è mezo [antico];;;OT;;C;"[dab,,a1] [dab/] ,,,,,c [dab,,d] ,,,,a [dab,c] ,,,,e | \
+[cdda/4] a ,d ,c ,d a c d [cdda1] [cdd/] ,,,a |";germantab
+59b;;38r;Saltarello;;;OT;;3;"[dab,,a3/4] [dab/4] ,,,,,a/ [dab,,a/4] ,,,,,c ,,,,,d ,,,,a ,,,,c ,,,,e | \
+[cdda/4] a ,d a c d [cdda/] [cdd/] [cdda] |";germantab
+60a;;38v;X. Pass è mezo [Romanesca];;;OT;ConcR3727;C;"[cdda3/2] a/ [cdda1] d | [cdda1] a/ c d c a ,d | \
+[acd,a1] ,a [acd,a] ,d | [acd,a2] [acd1] ,,,,a |";germantab
+60b;;38v;Saltarello;;;OT;;3;"[cdda/] a c d [cdda1] | [cdda1] a/ ,d ,c ,a | \
+[acd,a/] ,a ,,d ,a ,c ,d | [acd,a/] ,d a ,c ,d a |";germantab
+61a;;39r;XI. Pass è mezo [antico];;;OT;;C;",,,c/ ,,a ,,b ,,,d [,abc] ,,,c/4 ,,a ,,b ,,d ,a ,c | \
+[,dda/] ,a/4 ,c ,d a c a ,,,a/ ,d ,,d ,,,a |";germantab
+61b;;39r;Saltarello;;;OT;;3;"[,abc3/4] ,a/4 ,,b/ ,,,c/4 ,,a ,,b ,,d ,a ,c | \
+[,dda/] ,a/4 ,c ,d a [,dda3/4] ,d/4 ,,d/ | \
+[,abc3/4] ,a/4 ,,b/";germantab
+62a;;39v;XII. Pass è mezo [moderno];;;OT;;C;"[aac,,a1] ,,,c/ ,c [,a,c] ,,d [,,c,,a] ,,a | \
+[aac,,a1] ,,,c/ [,,de] [,,cc] [,,d,e] [,,aa] [,,cc] | \
+[acd,a1] ,,,c/ c a ,d ,c ,a |";germantab
+62b;;40r;Saltarello;;;OT;;3;"[aac,,a1] ,,,c/ ,,d ,,c ,,a | \
+[aac,,a/] [,,de] [,a,c] [,,c,e] [,,da] [,a,c] | \
+[acd,a1] ,,,c/ ,d ,c ,a | \
+[acd,a/] ,d/4 a r a ,d ,c";germantab
+63a;;40v;XIII. Pass è mezo [antico];;;OT;ConcR2278;C;"[abd,a1] ,,d/ ,a [abd,a] ,d [abd,a] ,d | \
+[abd,a1] ,,d/ a [,d,,a] ,b [,a,,a] ,,d | \
+[,aba,d1] ,,,a/ ,,a [,aba,d] ,,d [,aba,d] ,b |";germantab
+63b;;41r;Saltarello;;;OT;;3;"[abd,a1] ,,,c/ ,a [abd,a] ,d | [abd,a1] ,,,c/ ,a [abd,a] ,d | \
+[,aba,d1] ,,,a/ ,,a [,aba,d] ,,d | \
+[,aba,d/] ,,d [,aba,d] ,b ,d ,a |";germantab
+65a;;41v;XIIII. Pass e mezo [moderno];;;OT;;C;"[cdda/] ,d/4 a c d c a [cdda/] ,d/4 a c d [d,,a] c | \
+[dab,,d/4] ,,a ,,b ,,d ,a ,,d ,,b ,,a";germantab
+64b;;41v;Saltarello;;;OT;;3;"[cdda/4] a ,d ,c ,d a [cdda] d c ,d a c | \
+[dab,,d/4] ,,d ,a ,,d ,,b ,,a [dab,,d] ,,d ,a ,c ,d a |";germantab
+65a;;42r;XV. Pass è mezo [moderno];;;OT;;C;"[acd,a/4] ,a ,,d ,,c ,,d ,a ,c ,d [acd,a] ,d ,c ,d ,c ,,d ,a ,c | \
+[cdda/4] a ,d ,c ,d ,c ,d a";germantab
+65b;;42r;Saltarello;;;OT;;3;"[acd,a/4] ,a ,,d ,a ,c ,d [acd] ,a ,,d ,a ,c a | \
+[cdda/4] a ,d a c d [cdda] a d c a ,d |";germantab
+66a;;42v;XVI. Pass è mezo [moderno];;;OT;;C;"[aac,,a/] ,,,c/4 ,,a ,,c ,,d ,a ,,d [aac,,a/] ,,,c/4 ,,a ,,c ,,d ,a ,,c | \
+[acd,a/] ,,d/4 ,a ,c ,d a ,d";germantab
+66b;;42v;Saltarello;;;OT;;3;"[aac,,a/4] ,,a ,,c ,,d ,a ,,c [aac,,a] ,,a ,,c ,,d ,a ,,c | \
+[acd,a3/4] [acd/4] ,,,,a/ [acd] ,,,,a [acd,a] | \
+[aac,,a3/4] [aac/4] ,,,,,a/";germantab
+67a;;43r;XVII. La Fantina Wolff: Heck:;;Duet;OT;ConcR3201;3;"[cdda1] | [cdda1] a/ c [dab,,d1] | \
+[dab1] [ad,,a/] ,c/4 ,a ,c ,d a ,c | \
+[cdda1] ,d/ a c d | [cdda1] ,,d [cdda] |";germantab
+67b;;43v;XVIII. La Fantina;;Duet;OT;ConcR3202;3;"[aac,,a1] | [aac,,a3/2] ,a/ [acd,a1] | \
+[acd1] [,aabc] [,aa] | [aac,,a1] ,,,c/ ,,a ,,c ,,d | \
+[aac,,a1] ,,,c [aac,,a] |";germantab
+68;;43v;XIX. Gagliarda Cypriana Math: Wai:;;;OT;ConcR2279;3;"[,dba,d1] [,dba] [abb,d] | [,db,,d1] ,,,a/ ,b [,aba,d1] | \
+[,aba1] [,bdca/] ,a ,b/4 ,a ,b ,d | [aac,,a1] ,,,c ,,,,,a | \
+a/ c [dab,,d1] c/ a |";germantab
+69;;44r;XX. Pavana Wolff: Heckels;;;OT;ConcR2280;3;"[,aba,d1] [,aba/] ,,,,,d [,aba,d] ,,a ,,,c ,,,a | \
+[abb,d1] [abb/] ,,,,d [abb,d1] [abb,d] | \
+[bbdd1] [bbd/] ,,,d [ddf,,d] ,,,d [ddff1] | \
+[,dda1] [,dd/] ,,,a [,dda1] [,dda] |";germantab
+70a;;44v;XXI. Padvaner Wolff: Heck;;;OT;ConcR2281;C;"[cdda3/2] a/ [,dda1] a/4 c d f | \
+[ha,f,d1] [ha,f/] ,,,,,d [ha,f,d1] [f,def] | \
+[dabc/] c a ,d [cd,e] c d/4 c d a |";germantab
+70b;;44v;Saltarello;;;OT;ConcR2282;3;"[cdda3/2] a/ [,dda1] | [cdda1] d/ c d f | \
+[ha,f,d2] [ha,f/] ,,,,,d | [ha,f,d1] [ha,f/] ,,,,,d [f,def1] | \
+[dabc3/2] c/ a ,d |";germantab
+71a;;45r;XXII. Les Bvffons Wolffgang Heckels;;Duet;OT;ConcR3213;C;",,d/ ,,c ,,d ,a ,c ,,d ,a ,c | \
+[cdda/] a c d f d c a | \
+[,d,a/] ,c ,a ,,d ,a ,d ,c ,a |";germantab
+71b;;45v;XXIII. Les Bvffons Wolffgang Heckels;;Duet;OT;ConcR3214;C;"[,dda3/2] a/ [cdda1] [cdda] | \
+[dab,,d2] [dab1] ,,,,,d | \
+[dab1] [a,d,e] [,d,,c] [,dba,d] |";germantab
+72;;46r;XXIIII. Gagliarda Todesca Math Wais:;;;OT;ConcR2283;3;",,d/ ,a | [,bdca3/2] ,d/ [,bdca1] | \
+[,bdca1] [,dba,d/] ,a ,b ,d | \
+[abb,d3/2] ,,,d/ ,,,c ,,,a | [abb,d/] ,a ,b ,d [a,,,d] b |";germantab
+73;;46v;XXV. La Traditora gagliarda M: W:;;;OT;ConcR2284;3;"[,d,a/] ,c ,d/4 ,c ,d a b a b d | \
+[f,dd1] [f,d] [d,bc] | [b,da/] a/4 b d b a ,d a ,d ,c ,a |";germantab
+74;;47r;XXVI. La rocha el fuso M: W:;;;OT;ConcR1384;3;"[acd,a1] [acd] [,daac] | [cdca3/2] ,a/ ,,d1 | \
+,a/ ,c [,daac1] [aac,,a] | [acd,a2] ,,,c1 | \
+[acd,a1] [acd] [,daac] | [,cdca1] ,a/ ,,d ,,c ,,a |";germantab
+75;;47v;XXVII. Chi Pass gagliarda;;;OT;ConcR178;3;"[cef,c1] |: [cef,c1] ,,f/ ,c ,e ,f | [cef,c1] [a,c,e] [acd,a] | \
+[,ea,c1] ,a/ ,c ,e a | [ca,bc1] a/ c [haa,,h1] | \
+[ea,c,a3/2] c/ [aac,,d1] |";germantab
+76a;;47v;XXVIII. La Cara cossa gagliarda;;;OT;ConcR202;3;"[acd,a1] [acd] [acd,a] | [acd,a/] ,a ,c ,d [acd,a1] | \
+[,dda/] ,c ,d a b ,d | [abb,d1] [abb] [abb,d] | \
+[b,da/] a b d [b,da1] |";germantab
+76b;;48r;XXIX. La Cara cossa gagliarda;;;OT;ConcR202;3;"[bdda3/2] [bdd/] ,,,a1 | [fddd1] [dabc] [bdda] | \
+[abb,d/] ,a ,b ,d a ,d | [abb,d1] [abb] [abb,d] | \
+[,dda/] ,c ,d a c d |";germantab
+76c;;48r;XXX. La Cara cossa gagliarda;;;OT;ConcR202;3;"[cea,c3/2] [cea/] ,,,,c1 | [cea1] ,,,,c [cea,c] | \
+[aabc/] ,,a ,,b ,,d [aabc1] | [cdda/] a c d [cdda1] | \
+[dab,,d1] [dab] [dab,,d] |";germantab
+76d;;48v;XXXI. La Cara cossa gagliarda;;;OT;ConcR202;3;"[aac,,a1] [aac] [aac,,a] | [aac,,a/] ,,a ,,c ,,d [aac,,a1] | \
+[,,dca/] ,,c ,,d ,a ,b ,,d | [,ab,,d/] ,,a ,,b ,,d [,ab,,d1] |";germantab
+77;;48v;XXXII. La Gamba Wolffg: Heck:;;;OT;ConcR3209;3;"[aac,,a1] [aac] [aac,,a] | [aac,,a/] ,,a ,,c ,,d [aac,,a1] | \
+[,,d,a/] ,,c ,,d ,,a ,,b ,,d | [,ab,,d/] ,,d ,a ,,b ,,d ,a |";germantab
+78;;49r;XXXIII. Le Forze de Hercule W: Heck:;;;OT;ConcR3211;C;"[,d,a3/2] a/ [b,da1] ,d | [abb,d2] [abb1] ,,,,d | \
+[,d,a/] ,c ,d a [,d,,b1] ,,,,,d | [acd,a2] [acd1] ,,,,a | \
+[,d,a/] ,c ,d a [b,da1] [d,,c/] [b,,a] |";germantab
+79;;49r;XXXIIII. El Burato gagliarda;;;OT;ConcR1454;3;"[cdda1] [cdd] [cdda] | [cdda/] a c d [cdda1] | \
+[dab,,d1] [dab] [dab,,d] | [acd,a3/2] [acd/] ,,,,a1 :||: \
+[,dda/] ,c ,d a c d |";germantab
+80a;;49v;XXXV. Pass è mezo [Romanesca];;;OT;;C;"[abb,d2] [abb,d1] [abb,d] | [,dba,d3/2] [,bd,a/] [,aba,d1] [,bd,a] | \
+[,dba,d2] [,bd,a/] ,a/4 ,b ,d ,b ,a ,,d | \
+[aac,,a/] ,,c [aac,,a] ,,d [aac,,a1] [aac/] ,,,,,a |";germantab
+80b;;50r;Saltarello;;;OT;;3;"[abb,d3/2] [abb/] ,,,,d1 | [abb,d1] [abb] [abb,d] | \
+[,dba,d2] [,bd,a1] | [,dba,d2] [abb,d1] | \
+[,bdca1] ,d/ ,b ,a ,,d | [aac,,a3/2] [aac/] ,,,,,a1 | \
+[acc,,a1] [aac] [aac,,a] |";germantab
+81a;;50v;XXXVI. Pass è mezo [moderno];;;OT;ConcR1817;C;"[bdda1] [,dda/] ,c [,dda] a b d | [bdda1] [f,dd] [da,c] [bdda] | \
+[abb,d1] ,,d/ ,a ,b ,d a b | [abb,d/] ,a ,b ,d";germantab
+81b;;51r;Saltarello;;;OT;ConcR1818;3;"[bdda3/2] [bd/] ,,d1 | [bdda1] [bdda] a/ ,d | \
+[abb,d3/2] [abb/] ,,,c1 | [abb,d/] ,a ,b ,d [abb,d1] | \
+[bdda3/2] d/ [bdda1] | [abb,d1] [,da,c] ,c/ ,a |";germantab
+82;;51v;XXXVII. Pass è mezo [antico];;;OT;;C;",,d/ ,a | [abd,a1] ,,,c [abd,a] [,aba,d] | \
+[abd,a1] ,,,c/ a ,d ,b [,a,a] ,,d | \
+[,aba,d1] ,,,a/ a ,d ,b [,a,a] ,,d |";germantab
+83a;;52r;XXXVIII. Pass è mezo [moderno];;;OT;;C;"[aac,,a/] ,,,c [aac,,a] ,,d [aac,,a] ,,a [aac,,a] ,,,c | \
+[,cdca/4] ,a ,,d ,,c ,,d ,a ,c ,d [,cdca/] ,,,,a ,,,,,d ,,,,,c";germantab
+83b;;52r;Saltarello;;;OT;;3;"[aac,,a/] ,,,c [aac,,a] [aac,,a] ,,a [aac,,a] | \
+[,cdca/] ,a/4 ,,d ,a ,c ,d [,cdc/] ,,,,a ,,,,,e/4 ,,,,,c | \
+[aac,,a/] ,,,c [aac,,a]";germantab
+84a;;52v;XXXIX. Pass è mezo [antico];;;OT;;C;"a/ c | [dab,,d1] ,,,c/ [c,d] [a,b] [,da] [a,b] [c,d] | \
+[dabc/] c [a,b,,a] h f ,d [c,d] [a,b] | \
+[cdda1] ,d/ f ,,,a d [c,d] [a,b] |";germantab
+84b;;53v;Saltarello;;;OT;;3;"a/ c | [dab,,a1] ,,,c/ [c,d] [a,b] [,da] | \
+[a,b,,a/] h f ,i [c,d] [a,b] | \
+[c,da/] ,d f d [c,d] [db] |";germantab
+85;;54r;XL. Gagliarda;;;OT;;3;"[,ddef1] [,ddef] [ddf,,d] | [cdda3/2] a/ [,ddef1] | \
+[,ddef1] [,ddef] [ddb,,d] | [cdda1] ,,,a/ ,c [aab,,a1] | \
+[,da,,c1] [,db,,d] [,cdca] | [,ddef2] [,ddef1] :|";germantab
+86a;;54v;XLI. Pass è mezo [antico];;;OT;ConcR3728;C;"[cda,c2] [cda,c1] d | [c,a,c1] ,d/ c a ,d ,c ,a | \
+[ac,,a1] ,,d [ac,,a] ,d | [acd,a1] ,,,,c ,,,,a [acd] | \
+[,da,c/] ,c ,a ,,d";germantab
+86b;;55r;Saltarello;;;OT;ConcR3729;3;"[caa,c3/2] a/ ,d1 | ,,,,c/ [caa] a ,d [,c,,c] ,a | \
+[acd,a/] ,,,c [ac] ,d a ,d | [acd,a1] ,,,c/ ,d [acd,a1] |";germantab
+87a;;55v;XLII. Pass è mezo [moderno];;;OT;;C;"[acd,a1] [acd/] ,a ,c ,d a ,d | [acd,a1] ,,d/ ,a ,c ,d a ,c | \
+[,dda/] ,c ,d a c d f d |";germantab
+87b;;56r;Saltarello;;;OT;;3;"[acd,a3/2] [acd/] ,,,c1 | [acd,a/] ,a ,c ,d a ,c | \
+[,dda/] ,c ,d a c d | [cdda/] a d c a ,d |";germantab
+88a;;57r;XLIII. Pass è mezo [moderno];;;OT;ConcR2285;C;"[cdda1] [cdd/] a [,daa] a [cdda] d | \
+[cdda1] [cdda] [ddda] [cdda] | \
+[dab,,d1] c/ a ,d ,b ,a ,,d | \
+[,aba,d1] [dab,,d] [da,a] [dab,,d] |";germantab
+88b;;57v;Saltarello;;;OT;ConcR2286;3;"[cdda3/2] [cdd/] ,,,a1 | [cdda/] a ,d ,b ,a ,,d | \
+[,aba,d3/2] [,aba/] ,,,,,d1 | [,aba,d1] [,aba] [,aba,d] | \
+[cdda/] a c d f d |";germantab
+89;;58v;XLIIII. Pass è mezo [antico] Wolff: Heck:;;;OT;ConcR2287;C;"[fdaa1] [dabc] [cdda3/2] a/ | [,daa1] [aa,a/] c [dabc] ,,,a ,,,,d ,,,,c | \
+[abb,d/] d [cdda] [a,b] [cdda1] [cdd/] a | \
+[,dda/] a c/4 a c d |";germantab
+90;;59v;XLV. Val cerca gagliarda M: W:;;;OT;ConcR833;3;"[dabc1] [cdda] [abb,d] | [,db,c3/2] ,b/ [,ab,,d1] | \
+[abb,d3/2] ,d/ [,bd,a1] | [,db,c3/2] ,b/ [,ab,,d1] | \
+[abb,d3/2] ,d/ [,bd,a1] | [,dda3/2] ,b/ ,a ,,d |";germantab
+91;;59v;XLVI. Pass è mezo [Romanesca];;;OT;;C;"[b,da1] | ,,,d/ a b d [bbdd1] ,,,d/ a b d [bbdd1] | \
+,,,,d/ ,a ,b ,d [abb,d1] | ,,,,d/ ,a ,b ,d [abb,d1] |";germantab
+92;;60r;XLVII. Gagliard;;;OT;;3;"[,ddef1] [,ddef] [acd,a] | [cdda2] [,abcd1] | \
+[,dfec1] [,dff,d] [cdda] | [d,ff,d2] [d,ff,d1] :||: \
+[d,bcd1] [ddb,c] [fcd,a] | [cdda3/2] a/ [,dfec1] | \
+[ddf,,d1] [abb,d] [,ddef] |";germantab
+93a;;60v;XLVIII. Der Köngische tantz;;;OT;;C;"[,dda1] |: [,cdca/] ,a ,c ,d [,cdca1] [,daac] | \
+[abb,d/] ,a ,b ,d [abb,d1] [abb] | \
+[,daac1] [,dba,d] [,ddca] ,c | [,dda3/2] [,dd/] ,,,a1 [,dda] :|";germantab
+93b;;60v;Saltarello;;;OT;;3;"[,dda1] |: [,cdca1] ,a/ ,c [,daac1] | \
+[abb,d1] ,a/ ,b [ab,d1] | [,daac1] [,dba,d] [,cdca] | \
+[,dda1] [,dd] [,dda] :| [,dda1] [,dd] [cdda] :||:";germantab
+94a;;60v;XLIX. Der Köngische tantz;;;OT;;C;"[aacc1] |: [,ea,c1] ,e [a,c,e] e | [cdda/] a ,d ,c ,a ,,d ,,c ,,a | \
+[aacc1] [acd,a] [aaa,c] ,e | [aac,,a1] ,,,c [aac] [aacc] :|";germantab
+94b;;60v;Saltarello;;;OT;;3;"[aac,,a1] |: [,ea,c1] [,ea] [a,c,e] | [cdda/] a ,d ,c ,a ,,d | \
+[aacc1] [acd,a] [,ea,c] | [aac,,a1] ,,,c [aac,,a] :| \
+[aac,,a1] ,,,c [ea,c,a] :||:";germantab
+95a;;61r;L. Der Könginn tentzleyn;;;OT;ConcR2288;C;"[ha,g,a2] [ha,g1] ,,,,,a | [ea,c,a1] c/ a ,e a c e | \
+[f,de1] [ea,c] c/ a ,e ,c | [ca,bc2] [ca,b1] ,,,,c :||:";germantab
+95b;;61r;Saltarello;;;OT;ConcR3730;3;"[aa,c,a/] ,e a c a ,e | [,cdca/] ,a ,c ,d a c | \
+[ea,c,a1] [f,de] [aac,,a] | [fcd,a2] [fcd,a1] :||: \
+[ea,c1] [ea,c,a2] |";germantab
+96a;;61r;LI. Der Fürstenn tantz;;;OT;;C;"[aacc1] ,,,,,a [aacc] ,,d | [aacc1] ,,,c [aacc] ,,,,c | \
+[,cd,e1] ,,,a [aacc] ,,,c | [,cdca2] [,cdc1] ,,,,a :||: \
+[,cdca1] [,cdc] ,,,,a ,,,,,e |";germantab
+96b;;61r;Saltarello;;;OT;;3;"[aacc1] ,,,,,a [aacc] | [aac1] ,,,,,a ,,,,c | \
+[,cd,e1] ,,,a [aacc] | [,cdca1] [cdc] ,,,,a :||: \
+[,cdca1] [,cdc] ,,,,,e | [,,da,c1] [,,da] ,,,,,c |";germantab
+97a;;61v;LII. Der Fürstenn tantz;;;OT;;C;"[acd,a/] ,e a c a ,e ,c ,a | [,cdca/] ,a ,c ,a ,c ,d ,c ,a | \
+[,,da,c1] [,dbac] [,ddca] ,c |";germantab
+97b;;61v;Saltarello;;;OT;;3;"[acd,a/] ,e a c a ,d | [,cdca/] ,a ,c ,d ,c ,a | \
+[,,d,,c1] [,db,c] [,cdca] | [,ddef1] [,dde] ,,,,f |";germantab
+98a;;61v;LIII. Der Fürsten tantz;;;OT;;C;"[cdda/] a ,d ,c ,d a c d | [cdda1] a/ c d c a c | \
+[,daac1] [dabc] [d,da] c | [dab,,d2] [dab1] ,,,,,d :||:";germantab
+98b;;61v;Saltarello;;;OT;;3;"[cdda/] a ,d a c d | [cdda/] a c d c a | \
+[,daac1] [dabc] [cdda] | [dab,,d1] [dab] ,,,,,d | \
+[dab,,d1] d/ c a ,d |";germantab
+99a;;62r;LIIII. Chürfürst Moritz tantz;;;OT;;C;"[,d,a/] ,c ,a ,c ,d ,c ,d a | [cdda2] [cdda1] ,,,a | \
+[,cdca1] [,daac] [,ddca] ,c | [,ddef2] [,dde1] ,,,,f :|";germantab
+99b;;62r;Saltarello;;;OT;;3;"[,d,a/] ,c ,a ,c ,d a | [cdda3/2] [cdd/] ,,,a1 | \
+[,cdca1] [,daac] [,cdca] | [,ddef3/2] [,dde/] ,,,,f1 | \
+[f,aa1] f/ e f h |";germantab
+100a;;62r;LV. Chürfürst Augustus tantz;;;OT;;C;"[,dba,d1] |: [,dba,d1] ,a/ ,b ,d a ,d ,b | \
+[,dba,d1] ,a/ ,b ,d a ,d ,b | [,dba,d1] ,b/ ,a [,,da1] ,,a |";germantab
+100b;;62r;Saltarello;;;OT;;3;"[,dba,d1] |: [,dba,d1] ,a/ ,b ,d a | [,dba,d1] ,a/ ,b ,d a | \
+[,dba,d1] ,b/ ,a [,,da1] | [,aba,d3/2] [,aba/] [ha,f1] | \
+[f,aa1] [da,c] [c,da] |";germantab
+101a;;62v;LVI. Der Chürfürstin zu sachsen tentzleyn;;;OT;;C;"[,bd,a/] ,a ,b ,d ,b ,a ,b ,d | [a,b,d/] ,,a ,,b ,,d [a,b,d1] [cdda] | \
+[dabc1] [abd,a] [aaa,c] ,,,b | [aac,,a2] [aac1] ,,,,,a :|";germantab
+101b;;62v;Saltarello;;;OT;;3;"[,bd,a/] ,a ,b ,d a ,d | [a,b,d1] ,,,,d [cdda] | \
+[dabc1] [abd,a] [,aabc] | [aac,,a3/2] [aac/] ,,,,,d1 :||: \
+[f,d,a3/2] [f,d/] ,,,,a1 | [abb,d1] [abb,d] [cdda] |";germantab
+102a;;62v;LVII. Graff Johann Von Nassaw tantz;;;OT;ConcR2289;C;"[aa,c,a/] ,d ,b ,a ,b ,d a c | [dab,,d3/2] c/ a1 [b,da] | \
+[a,b,d1] [,b,ca] [,daa] ,b/ ,a | [abb,d3/2] ,d/ ,b1 [b,da1] |";germantab
+102b;;63r;Saltarello;;;OT;ConcR3731;3;"[aa,c,a1] ,b/ ,d a c | [dab,,d1] d/ c a ,d | \
+[aa,c,a/] ,d ,b ,a ,b ,d | [abb,d2] [da,c1] | \
+[a,b,d1] [,b,ca] [,daa] |";germantab
+103a;;63v;LVIII. Was Wollenn wir auff den abent;;;OT;ConcR980;C;"[aa,c1] ,,,,,a [ca,,c] ,,,b/ c | [ea,c1] c/ a [c,a,c1] [ea,c] | \
+[c,d,,c1] [a,c,,e] [a,a,a] [,ea,c] | \
+[aac,,a1] ,,,c [aac] ,,,,,a :||:";germantab
+103b;;63v;Saltarello;;;OT;;3;"[aa,c3/2] [aa/] ,,,c1 | [ca,bc1] ,,,c [ca,bc] | \
+[ea,c1] c/ a [c,a,c1] | [ea,c1] ,,,,a [,ea,c] | \
+[aa,c,a3/2] [aa,c/] ,,,,,a1 :||: [f,d,a1] f/ e [c,a,c1] |";germantab
+104a;;63v;LIX. Der Wittenberger Studentten tantz;;Bassus;OT;ConcR951;C;"[,,d,a1] ,a/ ,b ,d ,b ,a ,,d | [aac,,a3/2] [aac/] ,,,,,a1 [,bd,a] | \
+[,da,c1] [,ab,,d] [,bd,a] ,a/ ,,d | [aac,,a2] [aac1] ,,,,,a :||:";germantab
+104b;;63v;Saltarello;;;OT;;3;"[,,d,a/] ,,c ,,d ,a ,b ,,d | [aac,,a1] [aac,,a] [,bd,a] | \
+[,da,c1] [,ab,,d] [,bd,a] | [aac,,a1] [aac] ,,,,,a :||: \
+[,,dca/] ,,c ,,d ,a ,c ,,d |";germantab
+104c;;64r;LX. Der Wittenberger Studentten tantz;;;OT;ConcR951;C;"[,dda3/2] a/ [c,da1] a/ ,d | [acd,a1] [acd] ,,,,a [f,d,a] | \
+[dabc1] [c,da] [a,,,e] [,da,c] | [acd,a2] [acd1] ,,,,a :||: \
+[,dda/] ,c ,d a [,dda1] ,c/ ,d |";germantab
+104d;;64r;Saltarello;;;OT;ConcR3488;3;"[,dda/] ,c ,d a c ,d | [acd,a1] ,,,,a [da,c] | \
+[c,da1] [a,,,e] [,da,c] | [acd,a1] [acd] ,,,,a :||: \
+[,dda/] ,c ,d a [,dda1] |";germantab
+104e;;64v;LXI. Der Wittenberger Studentten tantz;;;OT;ConcR951;C;"[aabc/] ,,a ,,b ,,d ,a ,c ,d a | [ca,bc/] a c d [ca,bc1] [ca,b] | \
+[dabc1] [cdda] [aabc/] c d a |";germantab
+104f;;64v;Saltarello;;;OT;ConcR3488;3;"[aabc/] ,,d ,a ,c ,d a | [ca,bc/] a c d [ca,bc1] | \
+[dabc/] c a c d a | [ca,bc/] a c d [ca,bc1] :||:";germantab
+105a;;64v;LXII. Superbie tentzleyn;;;OT;;C;",,,,a/ ,,c ,,d ,a ,,d ,,c ,,d ,a | \
+[,,d,a1] ,a/ ,c ,d ,c ,a ,,d | \
+[aac1] [acd,a] [aaa,c] [,ea,c] | \
+[a,cc,a2] [a,c1] ,,,,,a :||:";germantab
+105b;;65r;Saltarello;;;OT;;3;",,,,a/ ,,c ,,d ,a [,,d,a1] | [,cd,a1] ,d/ ,c ,a ,,d | \
+[aacc1] [acd,a] [,ea,c] | [aa,c,a1] [aa,c] ,,,,,a :||: \
+[c,da1] d/ c a ,d |";germantab
+106a;;65r;LXIII. Superbie tentzleyn;;;OT;ConcR2290;C;"[aac,,a2] [aac1] ,,,,,a | [,ac,,e] ,,a ,,c ,,e [,ac,,e1] [a,c,e] | \
+[,ea,c1] [,ac,,e] [cce,,c] ,,,e | [,aabc2] [,aab1] ,,,,c :||: \
+,,,,,a/ ,,a ,,c ,,d";germantab
+106b;;65r;Saltarello;;;OT;;3;"[aac,,a3/2] [aac/] ,,,,,a1 | [,ac,,e/] ,,a ,,c ,,e [a,c,e1] | \
+[,a,c1] [,ac,,e] [cce,,c] | [,aabc1] [,aab] ,,,,c :||: \
+,,,,,a/ ,,a ,,c ,,d ,a ,,d |";germantab
+107a;;65v;LXIIII. Ein Ander Gütter tantz;;;OT;;C;"[da,a,d1] [da,a,d] f [ha,f] | [f,aa1] [da,a,d] [ha,f] [f,aa] | \
+[dabc1] [dbb,d] [ddda] [cdda] | [da,a,d1] [da,a,d2] y1 :||: \
+[abb,d1] [abb,d] ,,,c/ ,d [abb,d1] |";germantab
+107b;;65v;Saltarello;;;OT;;3;"[da,a,d1] [ha,f] [f,aa] | [da,a,d1] [ha,f] [f,aa] | \
+[dabc1] [dbb,d] [c,da] | [da,a,d3/2] [da,a/] ,,,,,d1 :||: \
+[abb,d1] [abb,d] [,dba,d] | [abd,a1] [abb,d] [,dba,d] |";germantab
+108a;;65v;LXV. Per Transibat Clericus;;Salve puella, tenor;OT;ConcR2028;C;",,,,a/ ,,c ,,d ,a ,,d ,a ,c ,d | [,c,ca2] [,c,c1] ,,,,a | \
+[,c,ca1] [,a,,,e] [,c,ca] [,,da,c] | [aa,c,a2] [aa,c1] ,,,,,a :||: \
+[,cd,a/] ,a ,c ,d a ,c ,d a |";germantab
+108b;;65v;Saltarello;;;OT;;3;",,,,a/ ,,c ,,d ,a ,c ,d | [,cd,a/] ,a ,c ,d [,c,ca1] | \
+[,c,ca1] [,a,,,e] [,,da,c] | [aa,c,a3/2] [aa,c/] ,,,,,a1 :||: \
+[,cd,a/] ,d a ,c ,d a |";germantab
+108c;;66r;LXVI. Per Transibat Clericus;;Salve puella, discantus;OT;ConcR2028;C;"[,dda/] ,c ,d a ,d ,c ,d a | [cdda/] a c d [c,da1] ,,,a | \
+[acd,a1] [fcd,a] [aa,c] e | [fcd,a2] [fcd1] ,,,,a :||:";germantab
+108d;;66r;Saltarello;;;OT;;3;"[,dda1] ,d/ ,c ,d a | [c,da/] a c d [cdda1] | \
+[acd,a1] [fcd,a] [ea,c] | [fcd,a3/2] [fcd/] ,,,,a1 :||: \
+[dab,,d1] ,,,,,d/ ,,,,a ,,,,c ,,,,e |";germantab
+108e;;66r;LXVII. Per Transibat Clericus;;Salve puella, bassus;OT;ConcR2028;C;"[,aba,d/] ,,a ,,b ,,d ,a ,,d ,,b ,,a | \
+[,aba,d2] [,aba1] ,,,,,d | [,,d,a1] [,da,c] ,,,,a ,c | \
+[,dda2] [,dd1] ,,,a :||: [abb,d1] [abb] ,,,,d [abb,d] |";germantab
+108f;;66r;Saltarello;;;OT;;3;"[,aba,d1] [,aba,d/] ,,a ,,b ,,d | [,aba,d1] [,aba] ,,,,,d | \
+[,,d,a1] [,da,c] [,cd,a] | [,dda1] [,dd] ,,,a :||: \
+[abb,d1] [abb] ,,,,d | [,dba,d/] ,b ,d a [,b,c1] |";germantab
+109a;;66v;LXVIII. Rosinen tentzleyn;;;OT;ConcR3732;C;"[abb,d/] ,a ,b ,d a b d a | [b,d1] [a,b] [,bdd/] ,a ,b ,d | \
+[aab2] [aab1] ,,,c :||: ,,,d/ a ,d ,b";germantab
+109b;;66v;Saltarello;;;OT;ConcR3733;3;"[abb,d/] ,d a b d a | [b,d1] [a,b] [,bdd] | \
+[aabc3/2] [aab/] ,,,c1 :||: ,,,d/ a ,d ,b ,d a |";germantab
+110a;;66v;LXIX. Rosinen tentzleyn;;;OT;ConcR3734;C;"[,dff3/2] ,,f/ [,dff1] [,,de] | [,bbc1] [,aba] [,,b,d/] ,,a ,,b ,,d | \
+[,aaac2] [,aaa1] ,,,,c :||: [,,b,c/] ,,a ,,b ,,d ,a ,b ,d a |";germantab
+110b;;67r;Saltarello;;;OT;ConcR3735;3;"[,dff3/2] ,,,f/ [,,de1] | [,bbc1] [,aaa] [,,d,d] | \
+[,aaac3/2] [,aaa/] ,,,,c1 :||: [,,b,c/] ,,d ,a ,b ,d a | \
+[,b,c1] [,a,a] [,,d,d] | [,aaac3/2] [,aaa/] ,,,,c1 :||:";germantab
+111a;;67r;LXX. Das Kaltte gebratens;;;OT;;C;"[,db2] ,d1 ,,b | [,db1] a [,db] ,d | \
+[,bd1] ,a/ ,b ,d ,b ,a ,,d | [,ab1] ,,d [,ab] ,,b | \
+[,dba,d2] [,dba1] ,,,,,d |";germantab
+111b;;67r;Saltarello;;;OT;;3;"[,db2] [,db1] | [,db3/2] a/ [,db1] | \
+[,bd1] ,a/ ,b ,a ,,d | [,ab3/2] ,,d/ ,,b1 | \
+[,dba,d1] [,dba] ,,,,,d | [,dba,d3/2] a/ [,dba,d1] |";germantab
+112a;;67v;LXXI. Das Kaltte Gebratens;;;OT;;C;"[fd,a2] [fd1] ,,,a | [fd,a3/2] h/ [fd,a1] f | \
+[da,c1] [c,da] [da,c] ,c | [c,da2] [c,d1] ,,,a :||: \
+[c,da/] a c d [c,da1] [da,,,d] |";germantab
+112b;;67v;Saltarello;;;OT;;3;"[fd,a1] [fd] ,,,a | [fd,a3/2] h/ [fd,a1] | \
+[da,c1] a/ c d a | [c,da3/2] a/ [,daa1] :||: \
+[c,da1] a/ c [da,,,d1] |";germantab
+113a;;67v;LXXII. Mein Büle Ist Von flandern;;;OT;;C;"[,dda/] ,c ,a ,c [,dda] ,a ,b ,d | \
+[abb,d/] ,a ,b ,d [abb1] ,,,,d | \
+[,daac1] [dab,,d] [cdda/] a d c |";germantab
+113b;;67v;Saltarello;;;OT;;3;"[,dda/] ,c ,d a [,dda1] | [abb,d/] ,a ,b ,d [abb,d1] | \
+[,daac1] [dab,,d] [cdda] | [dab,,d/] ,,a ,,b ,,d [dab,,d1] :||:";germantab
+114a;;68r;LXXIII. Ein Ander Gütter tantz;;;OT;;C;"[,bdca1] ,a/ ,b ,d ,b ,a ,,d | \
+[,aba,d3/2] [,aba/] ,,,,,d1 [abb,d] | \
+[aab,,d1] [abd,a] ,d/ ,b ,a ,,d | \
+[aac,,a2] [aac1] ,,,,,a :||:";germantab
+114b;;68r;Saltarello;;;OT;;3;"[,bdca1] a/ ,d ,b ,a | [,aba,d1] [,aba] [,aba,d] | \
+[abb,d3/2] [aab,,d/] [abd,a1] | [aac,,a1] [aac] ,,,,,a :||: \
+[abb,d3/2] [abb/] ,,,,d1 | [cdda1] [dab,,d] [cdda] |";germantab
+115a;;68r;LXXIIII. Einn Ander tantz;;;OT;;C;"[dab,,a1] ,,,,,c [dab,,d/] ,,,,a c a | \
+[,ea,c2] [,ea1] ,,,,c | \
+[dab,,d1] [cdda] [abb,d] [aaa,c/] ,e | \
+[aac,,a2] [aac1] ,,,,,a :||:";germantab
+115b;;68r;Saltarello;;;OT;;3;"[dab,,a1] [dab,,d] c/ a | [,ea,c3/2] [,ea/] [,ea,c1] | \
+[dab,,d1] [abb,d] [,ea,c] | [aac,,a3/2] [aac/] [aac,,a1] :||: \
+[dab,,d1] [c,da,c] [fcd,a] | [hdf,,d1] [hdf] [hdf,,d] :||:";germantab
+116a;;68v;LXXV. Der Almoter tantz;;;OT;ConcR3736;C;"[aabc3/2] ,,a/ [aabc1] [cdda] | [da,a,d/] ,,,,a ,,,,c ,,,,d [c,da2] | \
+[a,b,d2] [a,bcd1] ,d/ ,b | [,aba,d2] [,aba1] ,,,,,d | \
+[,da,c1] ,c ,d/ ,c ,d a |";germantab
+116b;;68v;Saltarello;;;OT;ConcR3737;3;"[aabc1] [aabc/] ,,a [aabc] [c,da] | \
+[da,a,d/] ,,,,a ,,,,c ,,,,d [c,da1] | \
+[aabc1] ,,,,d ,d/ ,b | [,aba,d3/2] [,aba/] ,,,,,d1 | \
+[,da,c1] [,da,c/] ,c ,d a |";germantab
+117a;;69r;LXXVI. Es Hatt Einen Schrie geschrieyett;;;OT;;C;"[,dda1] a c/ a c d | [fdaa2] [fda1] ,,,a | \
+[abb,d1] [cdda] [dabc] f | [cdda1] a [,dda] c :||: \
+[dab,,d2] [dab,,d1] [cdda] |";germantab
+117b;;69r;Saltarello;;;OT;;3;"[,dda2] [aabc1] | [cdda3/2] a/ c d | [fdaa2] [fdaa1] | \
+[fdaa2] [fdaa1] | [abb,d2] [cdda1] | [dabc2] [fdde1] | \
+[cdda3/2] d/ c a | [,dda2] ,,d1 :||:";germantab
+118a;;69v;LXXVII. Ich Weis Eine schone Müllerin;;;OT;ConcR2291;C;",,,,a2 | [,d,a1] [c,da] [a,,,e] [,d,,c] | \
+[,cd,a1] [,cd] [,a,a,d] [,d,,c] | \
+[,cd,a1] [,,d,,c] [,a,a,d] [,cd,a] | \
+[,dda2] [,dd1] ,,,a | [,d,a1] c d/4 c a ,d";germantab
+118b;;69v;Saltarello;;;OT;ConcR2292;3;"[,d,a2] [c,da1] | [a,,,e2] [,dda1] | [,cd,a/] ,a ,c ,d [,cd,a1] | \
+[,a,a,d2] [,d,ac1] | [,cd,a2] [,,d,,c1] | [,a,a,d2] [,c,ca1] | \
+[,dda/] ,c/4 ,a ,,d/ ,,b ,,d/4 ,,b ,,a ,,,c |";germantab
+110a;;70r;LXXVIII. Ich Hatt Mir Eyn Anneleyn fürge[nommen]:;;;OT;;C;"[aa,c1] |: [,aba,d1] [,aba] [,cdca/] ,,d ,a ,c | \
+[,daac/] ,c ,a ,,d [,aa,c] ,c ,d a | \
+[cdda1] [aabc] [aaa,c] [,aabc] |";germantab
+119b;;70r;Saltarello;;;OT;;3;"[aa,c1] |: [,aba,d1] [,aba,d] [,cdca] | \
+[,daac/] ,c [,aa,c] ,c ,d a | [cdda1] [aabc] [,aabc] | \
+[aac,,a1] [aac] [aa,c] :| [aac,,a1] [aac] [aabc] :||:";germantab
+120a;;70v;LXXIX. Heckerling Vnd haberstro;;;OT;ConcR2674;C;"[aabc/] ,d a c [aabc1] [cdda] | \
+[dab,,d1] ,,,,,d [dab,,d] [ha,f] | \
+[fdda1] [d,bc] [ab,,d] [cdda] | \
+[dab1] ,,,,,d [dab,,d] [dab] :||:";germantab
+120b;;70v;Saltarello;;;OT;ConcR2675;3;"[aabc1] a/ ,d a c | [dab,,d1] [,dab,,d] [ha,f] | \
+[fdda1] [dabc] [cdda] | [dab,,d1] [dab] ,,,,,d :||: \
+[aabc/] ,d a c d f |";germantab
+121a;;70v;LXXX. Hastü Mich Betrogen;;;OT;;C;"[,da1] |: [,da1] [,c,c] [,da] [a,b] | \
+[c,d1] ,a/ ,c ,d a c a | [da1] [c,d] [c,d] [a,b] | \
+[c,a/] a c d [c,a1] [,da] :|";germantab
+121b;;71r;Saltarello;;;OT;;3;"[,c,c1] |: [,da2] [a,b1] | [c,d/] a c d [c,d1] | \
+[da1] [c,d] [a,b] | [c,a/] a c d [c,a1] :||:";germantab
+122a;;71r;LXXXI. Das Meidlein Das ist hubsch vnd fein;;;OT;ConcR974;C;"[fcd,a2] [fcd1] ,,,,a | [ea,c,a2] [ea,c1] ,,,,,a | \
+[cdda1] [aabc] [,aa,c] ,e | [aa,c,a2] [aa,c1] ,,,,,a :||: \
+[aabc1] d [cdda] [,daac] | [abb,d1] ,d/ ,b [,aba,d1] ,,d |";germantab
+122b;;71r;Saltarello;;;OT;;3;"[fcd,a1] [fcd] ,,,,a | [ea,c,a1] ,,,,,a [ea,c] | \
+[c,da1] [a,d,e] [,ea,c] | [aa,c,a1] [aa,c] ,,,,,a :||: \
+[aabc/] ,d a c d a |";germantab
+123a;;71v;LXXXII. Ein Gütter tantz Matth: Waiss:;;;OT;ConcR2293;C;"[aac,,a1] |: [aac,,a3/2] ,,a/ [aac,,a1] [,ea,c] | \
+[aac,,a/] ,,a ,,c ,,d [aac,,a1] [aa,c] | \
+[dab,,d1] [abd,a] [,aa,c] ,,,b | \
+[aac,,a1] ,,,c/ ,,d [aac1] [aac,,a] :||:";germantab
+123b;;71v;Saltarello;;;OT;ConcR2294;3;"[aac,,a1] :| [aac,,a1] ,,a/ ,,c [,ea,c1] | \
+[aac,,a1] ,,a/ ,,c [caa,c1] | [dab,,d1] [abd,a] [,ea,c] | \
+[aac,,a1] ,,,c [aac,,a] :||: [aac,,a/] ,e a c [da,c,a] f |";germantab
+124a;;71v;LXXXIII. Ein Ander tantz;;;OT;;C;"[dabc2] [dabc1] ,,,c | [a,b,d2] [a,b1] ,,,,d | \
+[c,da1] [da,c] [c,da/] a/ d/ c/ | [dab,,d2] [dab1] ,,,,,d :||: \
+[a,b,d1] d [a,b,d] d |";germantab
+124b;;71v;Saltarello;;;OT;;3;"[dabc3/2] [dab/] ,,,c1 | [a,b,d1] [a,b] ,,,,d | \
+[c,da1] [da,c] [c,da] | [dab,,d1] [dab] ,,,,,d :||: \
+[a,b,d1] d [a,b,d] | [a,b,d1] d [a,b,d] |";germantab
+125a;;72r;LXXXIIII. Ein Gütter tantz;;;OT;ConcR3738;C;"[,a,,c/] ,,d ,a ,c [,d,,c] ,c ,d a | \
+[cdda/] a c d [c,da1] [a,d,e] | \
+[,daa1] [,db,c] [,ddca3/4] ,c/4 ,d ,c ,a ,c |";germantab
+125b;;72r;Saltarello;;;OT;ConcR3739;3;"[,aaac/] ,,d ,a ,c ,d a | ,,,a1 [cdd] [a,d,e] | \
+[,daa1] [,db,c] [,cdca] | [,ddef3/2] [,dde/] ,,,,f1 :||: \
+[,daac/] ,c ,d a [c,a,c] e |";germantab
+126a;;72r;LXXXV. Ho Ho Seind wir schir inss Dorff;;;OT;;C;"[aabc/] c d f [h,ff,d1] [h,ff] | [fdde1] [cdda] [dabc] a | \
+[ca,bc2] [ca,b1] ,,,,c :||: [aabc1] [cdda] [dabc] a | \
+[cdda1] a c/ d c d |";germantab
+126b;;72r;Saltarello;;;OT;;3;"[aabc/] c d f [h,ff,d1] | [fdda1] [cdda] [dabc] | \
+[ca,bc1] [ca,b] ,,,,c :||: [aabc1] [aabc] [cdda] | \
+[dabc/] a c a c d |";germantab
+127a;;72v;LXXXVII. Ein Ander tantz;;;OT;;C;"[ffg,a/] ,i f h [ffg,a] d c a [,dda/] ,c ,d a [c,da] ,d a c | \
+[dabc/] a c d [fcd,a1] [fcd,a] |";germantab
+127b;;72v;Saltarello;;;OT;;3;"[ffg,a/] h f d c a | [,dda/] a c ,d a c | \
+[dabc/] a c d [fcd,a1] | [aac,,a3/2] [aac/] ,,,,,a1 :||:";germantab
+128a;;73r;LXXXVIII. Es Solt Ein Meydleyn Melcken;;;OT;;C;"[,acc,a1] ,,,,,c ,,,,,e ,,,,a | [,aabc2] [,aab1] ,,,,c | \
+,,,,e/ ,a ,,e ,,c ,a1 ,,e | [,aabc2] [,aab1] ,,,,c :||: \
+[,aabc1] ,,,,,c ,,,,,e ,,,,a |";germantab
+128b;;73r;Saltarello;;;OT;;3;"[a,cc,a/] ,,,,,c ,,,,,d ,,,,a ,,,,c ,,,,e | \
+[,aabc3/2] [,aab/] ,,,,c1 | ,,,,e/ ,a ,,e ,,c ,a ,,e | \
+[,aabc3/2] [,aab/] ,,,,c1 :||:";germantab
+129a;;73r;LXXXIX. Ein Ander tentzleyn;;;OT;;C;"[,dda2] [,dda/] ,c ,d a | [cdda/] a c d [f,,a] d c a | \
+[,dff1] [da,c] [,,da] c | [dab,,d2] [dab1] ,,,,,d :||:";germantab
+129b;;73r;Saltarello;;;OT;;3;"[,dda1] ,d/ ,c ,d a | [c,da/] d f d c a | \
+[,dff1] [da,c] [c,da] | [dab,,d3/2] [dab/] ,,,,,d1 :||: \
+[dbb,d1] d/ c a ,d |";germantab
+130a;;73v;XC. Liebe Junckfraw kethe;;;OT;;C;"[f,da2] [f,da1] [ha,f] | [d,bc2] [d,bc1] [c,da] | \
+[a,d,e1] ,,,,c [f,d,a] d | [c,da2] [c,d1] ,,,a :||: \
+[c,da/] a c d [c,da1] [a,d,e] |";germantab
+130b;;73v;Saltarello;;;OT;;3;"[f,da1] [f,d] [ha,f] | [d,bc1] [d,b] [c,da] | \
+[a,d,e1] ,,,,c [f,d,a] | [c,da3/2] a/ ,d1 | \
+[c,da1] ,,,a [a,d,e] | [,da,c1] a/ ,d ,c ,a |";germantab
+131a;;73v;XCI. Ich Bin Beim pauern zur;;;OT;;C;"[f,da2] [f,d1] ,,,a | [ha,f2] [ha1] ,,,f | \
+[f,da1] [da,c] [d,da] c | [dab,,d2] [dab1] ,,,,,d :||: \
+[,b,,d/] ,a ,b ,d a c d c |";germantab
+131b;;73v;Saltarello;;;OT;;3;"[f,da3/2] [f,da/] ,,,a1 | [ha,f3/2] [ha/] ,,,f1 | \
+[f,da1] [da,c] [c,da] | [dab,,d3/2] [dab/] ,,,,,d1 :||: \
+[dab,,d/] c a ,d ,b ,a |";germantab
+132a;;74r;XCII. Ein Ander Gütter tantz;;;OT;ConcR3740;C;"[f,da2] [f,da/] d c a | ,d/ ,c ,d a c d f c | \
+[dabc1] [cdda] [,,bc] a | [caa,c2] [caa1] ,,,,c :||:";germantab
+132b;;74r;Saltarello;;;OT;ConcR3741;3;"[f,da1] f/ d c a | ,d/ a c d f c | \
+[dabc1] [cdda] [,,bc] | [caa,c1] [caa] [caa,c] | \
+[dab,,d1] [dab,,d/] ,,,,a ,,,,c ,,,,d |";germantab
+133a;;74r;XCIII. Süsenlein Wil tu mitt;;;OT;;C;"[,dda/] b ,,,,d a ,,,a b ,,,c d | [fcd,a2] [fcd1] ,,,,a :||: \
+[dabc1] ,,,c [dabc] [fdda] | [bbdd1] b [abb,d2] |";germantab
+133b;;74r;Saltarello;;;OT;;3;"[,dda/] a ,d a b d | [fcd,a3/2] [fcd/] ,,,,a1 :||: \
+[dabc1] ,,,c [fdda] | [bbdd1] b [abb,d] | [,dda/] ,c ,d a b1 |";germantab
+134a;;74v;XCIIII. Ein Ander Gütter tantz Matth Wais:;;;OT;Conc_4438;C;",a1 | [aa,c,a1] [ca,bc] [da,c,a] a | \
+[caa,c1] a/ c [,da,c1] ,,b | [acd,a1] [,,,c,d] [c,a,,c] ,,,b | \
+[,ac,,a1] ,,,c ,,,,,a ,a | [aa,c,a/] ,d a c";germantab
+134b;;74v;Saltarello;;;OT;;3;",a1 |: [aa,c,a1] [aa,c] [ca,bc] | [da,c,a1] a/ c [da,c,a] a | \
+[caa,c/] a c d [caa,c] a | [,da,c/] ,c ,d a [c,a,c] ,d |";germantab
+135a;;75r;XCV. Ein Gütter Hofe tantz W: H:;;;OT;ConcR2295;C;"[cdda1] [cdd/] ,,,a [cdda] ,a/4 ,c ,d ,c ,a ,,d | \
+[aac,,a/] [,,da,c] [,adc] [aac,,a] [acd,a1] [acd/] ,,,,a | \
+[cdda1] [cdd/] ,,,a";germantab
+135b;;75r;Saltarello;;;OT;ConcR2296;3;"[ccda/] | [,dda/4] a c a c d [cdda] a ,d ,c ,a ,,d | \
+[aac,,a/4] ,,a ,,c ,,d [aac,,a/] [acd,a1] [acd,a/] |";germantab
+136a;;75v;XCVI. Ein Ander Güt tentzleyn;;;OT;;C;"[f,d2] f1 ,,d | [cd/] a c d [cd1] [f,d] | \
+[da1] [c,d] [da] [ac] | [dc/] a c d [cd1] ,d |";germantab
+136b;;75v;Saltarello;;;OT;;3;"[f,d3/2] f/ ,,d1 | [cd/] a c d [f,d1] | \
+[da1] [c,d] [da/] ,c | [cd3/2] c/ ,d1 | \
+[fdda3/2] [fdd/] ,,,a1 |";germantab
+137a;;75v;XCVII. Ein Ander Güt tentzleyn;;;OT;;C;"[ca1] c/ a ,d a c d | [f,g3/2] d/ f d c a | \
+[da1] [c,d] [c,b] a | [c,a3/2] c/ ,,a1 [c,a] |";germantab
+137b;;76r;Saltarello;;;OT;;3;"[ca1] c/ a c d | [f,g1] f/ d c a | \
+[da1] [c,d] [a,b] | [c,a1] ,,a c | \
+[,aa,c1] ,,,,c/ ,,,,a ,,,,c ,,,,e |";germantab
+138a;;76r;XCVIII. Ein Ander Gütter tantz;;;OT;;C;"[aacc2] [aac1] ,,,c | [ac,ca2] ,,,c1 [ac,ca] | \
+[a,c,e1] [,daac/] ,c [,daac1] ,,c | \
+[acd,a2] [acd1] ,,,,a | [fcd,a2] [fcd1] ,,,,a | \
+[eacc1] f [eacc] ,a |";germantab
+138b;;76r;Saltarello;;;OT;;3;"[aacc2] [aacc1] | [acd,a/] ,a ,c ,d a ,c | \
+[,da,c/] ,c ,a ,c ,d ,a | [acd,a2] [acd1] :||: \
+[fcd,a3/2] [fcd/] [fcd,a1] |";germantab
+139a;;76v;XCIX. Ein Ander Güt tentleyn;;;OT;ConcR3742;C;"[f,aa/] e f h f e c a | [c,da/] a c d [c,d1] ,,,a | \
+[acd1] [f,de] [,a,c] e | [c,ca2] [fc,c1] ,,,,a :||:";germantab
+139b;;76v;Saltarello;;;OT;ConcR3743;3;"[f,aa1] [f,aa/] d c a | [c,da/] a c d [c,da1] | \
+[acd3/2] [f,de/] [ea,c1] | [fc,ca1] [fc,c] ,,,,a :||: \
+[c,da/] a/4 c d c";germantab
+140a;;76v;C. Ein Ander Gütter tantz Wolff H:;;;OT;ConcR2297;C;"[cdda/] a c d [cdda1] [dabc] | [abb,d/] ,a ,b ,d [abb,d1] [,daac] | \
+[abb,d1] [dabc] [d,da] c | [dab,,d2] [dab1] ,,,,,d :||:";germantab
+140b;;76v;Saltarello;;;OT;ConcR2298;3;"[cdda/] a c d [cdda1] | [cdda1] c [dabc] | \
+[abb,d/] ,a ,b ,d [abb,d1] | [abb,d1] a [,daac] | \
+[abb,d1] [cdda] [dabc] |";germantab

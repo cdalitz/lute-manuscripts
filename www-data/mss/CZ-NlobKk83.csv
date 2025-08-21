@@ -2,7 +2,7 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
 1;d moll;4;L'Altesse Royalle. Sarabande de Gallot, V.;Jacques Gallot;;;Conc_139;3;"[,a{,,,a}3/4] ,a/4 [,'aa,a1] [,aa3/4] ,a/4 | \
 [,,e,,a3/4] ,,e/4 ,,,,c3/4 ,,,c/4 ,,e3/4 ,,,,c/4 | \
 V,,,,d3/4 ,,,a/4 ,,a3/4 ,a/4 [,,,,'c3/4] ,,,,a/4 | "
-2;d moll;6;C'est L'amour qui nous ménace. Gavotte de L'opera de Lully;Gallot le Jeune or Lully;C'est l'amour qui nous menace from 'Roland';;Conc_1284;C;"[,a,,a1] [,,a,,d] | \
+2;d moll;6;C'est L'amour qui nous ménace. Gavotte de L'opera de Lully;Gallot le Jeune or Lully;from 'Roland';;Conc_1284;C;"[,a,,a1] [,,a,,d] | \
 [,a,,,b1] [,ca] [,'cb{a}3/2] ,a/ | \
 [,,'e,,a1] [,,ee] [,c,c] [,d,a] | \
 [,a,,,b1] [,c{a}] [,,'e,,a3/2] ,a/ | \
@@ -14,7 +14,7 @@ V,,,,d3/4 ,,,a/4 ,,a3/4 ,a/4 [,,,,'c3/4] ,,,,a/4 | "
 [,,,'c{4}3/2] ,,,a/4 ,,,,c ,,,a1 | \
 ,,d1 [,,'e{,,a}3/2] ,a/ | \
 [,aaa{,,,a}3/2] ,c/ [a,,,a1] | "
-4;a moll;10;[Chaconne / La villanelle];Pierre Gallot / Le Jeune;;;Conc_163;3;",,,,,a1 ,,,,c [,,aVe] | \
+4;a moll;10;[Chaconne / La villanelle] Gallot;Pierre Gallot / Le Jeune;;;Conc_163;3;",,,,,a1 ,,,,c [,,aVe] | \
 ,,,,,a1 ,,,,,c V,,d | \
 ,,,e1 [,a{,,,a}] [,,d,,a] | \
 [,,ce{,,a}1] [,,,'d/] ,,a/4 ,,,d ,,a1 :: \
@@ -26,14 +26,14 @@ V,,,,d3/4 ,,,a/4 ,,a3/4 ,a/4 [,,,,'c3/4] ,,,,a/4 | "
 ['a,,,3/2] ,c/4 a ,a1 | \
 [e{,,,a}3/2] f/ e1 | \
 [c{,,a}1] [e{,a}] ['c{a}3/4] a/4 | "
-6;a moll;12;Gigue de Gallot;Pierre Gallot;;;Conc_162;3;",c1 | \
+6;a moll;12;Gigue de Gallot;Pierre Gallot;pp. 14-21 missing?;;Conc_162;3;",c1 | \
 [,,'d,,a3/2] [,,c{a}/] [,,a{,a}1] | \
 [,c{,,a}1] ,c [e{,a}] | \
 ['d{,,a}1] ,c [g,,,g] | \
 V[h,,,,a3/2] g/ ,h1 | \
 [,'g{,,a}3/2] ,h/ ,,h1 | \
 V[,,i{,,,a}2] ,,,,,a1 | "
-7;g moll;22;Apollon opera de Mr de Lully;Gallot le Jeune or Lully;;;Conc_1291;C;"[cab{a}3/2] ,a/ V[,b,,,d1] (,b/ ,a/4) ,,d | \
+7;g moll;22;Apollon opera de Mr de Lully;Pierre Gallot or Lully;pp. 24-25 missing?;;Conc_1291;C;"[cab{a}3/2] ,a/ V[,b,,,d1] (,b/ ,a/4) ,,d | \
 [,,'bc1] V[,,,ca{a}] ,a [,'c,c] | \
 [aca{a}1] V,d/ a ['ba,,a3/2] [c,,,c/] | \
 [e,,,e1] ,a V[fa{a}1] ,,,,,a3/4 e/4 | "
@@ -56,12 +56,12 @@ V[,e,,e/] {,a} [,ea3/4] ,c/4 [,'a,,e3/4] ,,e/4 ,a/ [,,'cd] | "
 [,,cd/] ,,,,e [,,e,d1] [,,a,e] | \
 {4}/ ,,,d ,,,,,e ,,,e [,,,'d,c1] | \
 ,,,,,a/ ,,,,e {4} {a} ,,,,e ,,,,d | "
-12;f# moll;34;Courante Gallot le Jeune;Pierre Gallot / Le Jeune;;;Conc_2198;3;",,a/ [,,,'d3/4] ,,a/4 | \
+12;f# moll;34;Courante Gallot le Jeune;Pierre Gallot;;;Conc_2198;3;",,a/ [,,,'d3/4] ,,a/4 | \
 ,,,,e1 ,,e [,,'c,d{a}3/4] ,,,d/4 | \
 [,,a{,a}1] [,,,'d,c/] ,,a/4 ,,,d ,,a/ ,,,,e | \
 [,,,,'de1] {4}/ ,,,,e ,,,d3/4 ,,,,,c/4 | \
 [,,e,ea1] {a}/ ,,,,d [,,'c] ,,e | "
-13;f# moll;36;La belle malade. Courante du V. Gallot;Jacques Gallot;#13;;Conc_1615;3;",a/ ,,e ,a | \
+13;f# moll;36;La belle malade. Courante du V. Gallot;Jacques Gallot;;;Conc_1615;3;",a/ ,,e ,a | \
 [,,'c1] ,,,e ,,c/ ,,,d | \
 [,,ade1] [,,,'d{4}/] ,,a/4 ,,,d ,,a/ ,,,,,e | \
 ,,,,e1 {,a}2 | \

@@ -2,7 +2,7 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
 1;C dur;61;Prelude;S. L. Weiss;;;Conc_954;C,1;"{4}/// h g ,h ,f h ,,h ,f {4} ,,d ,,c ,,a \
 ,,,c ,,d ,,,,c ,,,c {4} c ,c ,,d e c ,d ,c \
 {,,,a} ,c a ,,a ,a"
-2;C dur;62;Allem:;S. L. Weiss;;;Conc_955;C,1;"c/// | \
+2;C dur;62;Allem:;S. L. Weiss;Variant: Sm 506 [Conc_956];;Conc_955;C,1;"c/// | \
 [ccd{4}3/8] e/// [ca{5}] ,d [,'c{a}] ,a | \
 [,,'d,,a//] (,,,,,a/// ,,,,,c) V[,,,,,d//] [c,d{,,a}] | \
 [e,d{,a}] [c,d{,,a}] [a,d{,,,a}///] e ['c,c] ,d | \
@@ -70,12 +70,12 @@ V[,,d,,a//] (,,c/// ,,a) ([,,,c,c] ,,,a) | \
 ([e{,a}///] c) ,d e ,a a | \
 [,,'c{a}//] V[,,d,,a/] | \
 [,,,e{,a}///] ,,d ([,,,e{,,a}] ,,,c) ,,d ,,,c | "
-16.1;C dur;80;Ouverture.;S. L. Weiss;;;Conc_663;C,1;",f/// | \
+16a;C dur;80;Ouverture.;S. L. Weiss;;;Conc_663;C,1;",f/// | \
 [,fhh{4}3/8] 'g//// ,h ,f3/16 ,f//// h3/16 ,,h//// | \
 [a,h{,,,a}3/16] (,,,,a//// ,,,,c3/16) ,,,,d//// \
 ,,,,,c3/16 e//// [c,c{a}3/16] ,d//// | \
 [,'c,c{4}3/16] ,a//// ,,d//"
-16.2;C dur;80;allegro;S. L. Weiss;;;Conc_4074;3,1;"{4}// ,,d ,c | ,a// [c,,c] ,,c | [c,a//] [aa///] ,c [a,c] ,a | \
+16b;C dur;80;allegro;S. L. Weiss;;;Conc_4074;3,1;"{4}// ,,d ,c | ,a// [c,,c] ,,c | [c,a//] [aa///] ,c [a,c] ,a | \
 [,cd//] [,,d,,d] ,,,,c | [,,d,a//] ([,,cc///] ,,a) ,,c ,,,c | \
 [,,ac//] ,,,,d/// ,,a ,a ,,d | "
 17;C dur;82;Cour:;S. L. Weiss;;;Conc_3069;3,1;",f/// ,h g | \
