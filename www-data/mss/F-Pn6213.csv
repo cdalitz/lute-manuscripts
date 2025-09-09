@@ -60,7 +60,7 @@ V[,,bca3/2] ,,d/ ,,,,,a1 | \
 [a,,,a1] ,,,,,d {d} 'c | \
 [eae3] :: e1 | \
 e1 c [a,a] [,c,c] | "
-10;d moll;6;Allemande;Pinel;#10;;Conc_135;C;",a1 | \
+10;d moll;6;Allemande;Pinel;;;Conc_135;C;",a1 | \
 [,aaa{,,,a}3/2] [,'c/] V[,daaa] ,a [,,dcc3/4] ,,b/4 | \
 [,,aad/] {,a} e3/4 e/4 [edda/] 'c [cc,,,d3/4] a/4 | \
 [aaaaa1] [,'cd,,a3/4] a/4 [,aba{d}/] ,c [,'cb{a}3/4] ,a/4 | "
@@ -111,13 +111,13 @@ V[,d{,a}1] ,,,a [,,d,c/] ,,b | \
 ,,a/ ,a ,c ,e ,,,,,c ,a | \
 ,,,d/ ,,c ,a ,c ,,,,,a ,,e | \
 [,,eec3/2] ,a/ [,aVfee] ,a | "
-20;D dur;18;Courante;D.Gaultier;#20 Ulisse;;Conc_210;3;",,f/ [,,'e] ,,c | \
+20;D dur;18;Courante;D.Gaultier;Ulisse;;Conc_210;3;",,f/ [,,'e] ,,c | \
 ,,a1 ,,,,e ,,c | \
 [,,,cc1] [,,'a,,e3/2] ,,,c/ | \
 [,,,'ba1] {,,,a}/ ,,a ,,c ,,e | \
 [,a,,e1] ,,,,,c3/2 ,c/ | \
 [,,'e,,a1] ,,,e3/2 ,,,c/ | "
-21;D dur;18;Double;D.Gaultier;#21;;Conc_211;3;",,f/ [,,'e] ,,c | \
+21;D dur;18;Double;D.Gaultier;;;Conc_211;3;",,f/ [,,'e] ,,c | \
 ,,a1 {,a}/ ,,c [,,'a] ,,c | \
 [,,,c{,,a}/] ,,,b ,,,c ,,,,a [,,a,,e] ,,,c | \
 [,,,'ba1] {,,,a}/ ,,a ,,c ,,e | \
@@ -177,14 +177,14 @@ V[cc,,,d1] [ca,,,c3/2] ,,,,,a/ | \
 [,,d,ca1] ,,,a/ ,a [,,c{a}1] ,,,c/ ,,,a | \
 [,,dc{,,a}1] ,,,,c/ ,,,c V[,,,ed1] [,,cc/] ,,d | \
 [,,'d,a{a}3/2] ,,,g/ ,,d1 {4} | "
-32;A dur;27;Courante;Gaultier;#32;;;3;",,a/ | \
+32;A dur;27;Courante;Gaultier;;;;3;",,a/ | \
 [,,ae3/2] ,c/ ,,e ,,,d | \
 [,,a,e1] [,,'c,c3/2] ,,,d/ | \
 [,,ee1] ,,,,,a3/2 {a}/ | \
 [,,e{,a}1] ,,a [,a,,e] | \
 [,c,,,e1] ,,a e/ 'c | \
 [,e,,a3/2] ,a/ [,,e,c1] | "
-33;A dur;28;Courante;Gaultier;#33;;;3;",,a1 | \
+33;A dur;28;Courante;Gaultier;;;;3;",,a1 | \
 [,,aVe1] ,,,,,a/ ,,c ,,e ,,,e | \
 ,a/ ,,e [,,'c{,,a}3/2] ,,a/ | \
 [,,aeca3/2] ,c/ ,c1 | \

@@ -14,7 +14,7 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
 ['a,a,a3/2] ,c/4 a [,c,,,a1] | \
 [,c,e1] a [c,d{,,a}] | \
 [add{,a}1] [aad/] a {4}1 | "
-4;d moll;8;Gigue de Gautier Le Vieux;V.Gaultier;"""La Poste"" or ""L'Estourdie""";;Conc_62;C;"[,aVf3/2] [,,'d/] ,a ,,a ,,b [,,,'c] | \
+4;d moll;8;Gigue de Gautier le vieux;V.Gaultier;"""La Poste"" or ""L'Estourdie""";;Conc_62;C;"[,aVf3/2] [,,'d/] ,a ,,a ,,b [,,,'c] | \
 [,,ae/] {,,,a} ,a [,'c] [a,,,a] ,,,,,d [c,,,,b] ,,,,c | \
 [e,,,,a/] ,a 'c a/4 c e/ [,'c] a ,a | "
 5;d moll;10;L'Immortelle Courante de Gautier Le V;V.Gaultier;;;Conc_95;3;",,a/ [,,,'c] ,,a | \
@@ -64,7 +64,7 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
 15;d moll;32;Gigue de Gautier Le V;V.Gaultier;;;Conc_890;C;"e3/2 'c/ e [,'c] a3/4 ,,e/4 | \
 [,aVf/] ,a ,c ,,a a [,ab] ,,,c [,'c/4] ,a | \
 [,,ee/] ,,,,,a1 ,,,c/4 ,,e ,a/ ,,,,d [,c,,'c3/4] ,,e/4 | "
-16;d moll;34;L'Offrande Allemande de Blan-Rocher;F. Dufaut;Ch. De Blancrocher, Allemande l'Offrande;;Conc_1069;C;"[,,aVea{,,,a}3/2] [,,,'c/] ,,a ,,,,c [,,,ad] [,,,cc] | \
+16;d moll;34;L'Offrande Allemande de Blan-Rocher;F. Dufault;;;Conc_1069;C;"[,,aVea{,,,a}3/2] [,,,'c/] ,,a ,,,,c [,,,ad] [,,,cc] | \
 [,,aaVd{,,,a}/] ,,,,,a ,,,,a/4 (,,a ,,c ,,e) ,a/ [,ce] \
 [aa] [cc] | \
 [ed/] {,,,a} ['cc] [aa] [cce,,a1] [acf] | "
@@ -119,42 +119,42 @@ V[f{,,,a}1] ['e{,,a}] {,a} | \
 [,e{,,,a}1] ,,,,a/ ,e c ,,,,c | \
 [e,,,e1] ,a [,c,c] | \
 [,,ee1] ,,,,,a/ ,,e [,a,,,c1] | "
-27;D dur;106;Courante de Gautier de P;D.Gaultier;Ulisse;;Conc_210;3;",,f/4 [,,'e/] ,,c/4 | \
+27;D dur;106;Courante de Gautier de P.;D.Gaultier;Ulisse;;Conc_210;3;",,f/4 [,,'e/] ,,c/4 | \
 ,,a1 ,,,,e ,,c | \
 [,,,c'c1] [,,a,,e3/2] ,,,c/ | \
 [,,,'ba1] {,,,a}/ ,,a ,,c ,,e | \
 [,a,,e1] ,,,,,c3/2 ,c/ | \
 [,,e,,a1] ,,,e3/2 [,,,'c/] | "
-28;D dur;108;Double de la Courante;;;;;3;",,f/4 [,,'e/] ,,c/4 | \
+28;D dur;108;Double de la Courante;;;;Conc_211;3;",,f/4 [,,'e/] ,,c/4 | \
 ,,a1 {,a}/ ,,c [,,'a] ,,c | \
 [,,,c{,,a}/] ,,,b ,,,c ,,,,a [,,a,,e] ,,,c | \
 [,,,'ba1] {,,,a}/ ,,a ,,c ,,e | \
 [,a,,e1] [,a,,,c] ,,,,e/ ,,,d | "
-29;D dur;110;Courante de Gautier de P;D.Gaultier;;;Conc_10;3;",e/ [,'c] ,,e | \
+29;D dur;110;Courante de Gautier de P.;D.Gaultier;;;Conc_10;3;",e/ [,'c] ,,e | \
 [,aVf3/2] ,,,e/ ,,c [,,,'c] | \
 [,,a,e1] ,a [,,,,'c/] ,,e | \
 ,a1 {,,,a}/ e ,,,,a1 | \
 [c,c1] [c,a{,,,a}3/2] ,e/ | \
 [,'c,,,a1] ,,a/ ,a ,c ,,c | "
-30;D dur;112;Courante de Gautier de P;V.Gaultier;;;Conc_756;3;",,a/ | \
+30;D dur;112;Courante de Gautier de P.;V.Gaultier;;;Conc_756;3;",,a/ | \
 ,,,,e/ ,,,c [,,,,'c3/2] ,,,,,e/ | \
 [,,,,ef1] {,,,a} ,,a/ ,,,,,e | \
 [,,c,,'c1] [,,'e] [,,fd] | \
 [,,e,,a1] ,,,e/ {a} [,a{,a}1] | \
 [,c{,,a}1] [,'e/] c/4 ,e c/ ,,e | "
-31;D dur;114;Sarabande de Gautier de P;V.Gaultier;;;;3;"[,ea{,,,a}1] 'c/ ,e/4 c e1 | \
+31;D dur;114;Sarabande de Gautier de P.;V.Gaultier;;;;3;"[,ea{,,,a}1] 'c/ ,e/4 c e1 | \
 ,,,,a1 e/ ,,,,c ,,,,e1 | \
 ,a1 [,c,c] [,e,e] | \
 [c,c1] [e,e/] c [,ef1] | \
 ,,a/ ,e [,'c] ,,,c [,e,,e1] | "
-32;D dur;116;Gigue de Gautier de P;Gaultier;;;Conc_207;C;"V,,f3/2 [,,'e/] ,a ,,c [,ea] [c,,c] | \
+32;D dur;116;Gigue de Gautier de P.;Gaultier;;;Conc_207;C;"V,,f3/2 [,,'e/] ,a ,,c [,ea] [c,,c] | \
 [e,,,e/] {,,,a} e c e ,,,,a [c,,,c] ,,,,,e | \
 [,e,,a/] {,,,a} ,e ,,,,a [c,,,c] c [,e,,e] ,,,c | "
 33;D dur;118;Gigue;;;;Conc_4176;C;",a/ | \
 [,aVf{,,,a}3/2] [,,ee/] ,a ,,c [,ce] ,,a | \
 [,,f,a/] ,e [,'c] ,a e ,,e [,,'c] ,,a | \
 [,,c{,,a}/] c ,e ,,,e [,,cc] ,c ,,,,e ,,,,c | "
-34;D dur;120;La Superbe Allemande de Dufaux;F. Dufaut;;;Conc_2016;C;"e/ | \
+34;D dur;120;La Superbe Allemande de Dufaux;F. Dufault;;;Conc_2016;C;"e/ | \
 [eef{,,,a}1] z/4 ,f/4 [,'e] ,,h ,,f/ e/4 [,,'e] \
 [g,,g/] i/4 k | \
 [e,a/] g/4 'e ,,,,f/ [,,,,'e] [f,,,f] [e,,e] \
