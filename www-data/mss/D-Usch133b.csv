@@ -1,0 +1,318 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;G dur;1r;1. Pantalon;;;Mandora;;C;"[aefa2] ,e | [cf] c | [ace] ,c | [,eaa] ,,f | [aefa] ,e | \
+[cf] c | [eca] e | [faaa] ,,,a | [feaa] f | [cf] c |";french5tab
+2;G dur;1r;2. Ballet du Roy;;;Mandora;ConcR696;C;",a/ | ,c | [,ef1] ,,,a [,ef] [,ca] | [,af] ,,,a [,af] ,f/ a | \
+[cf1] ,,,d [cf] [aef] | [fc] ,,,f [,fc] ,f/ a |";french5tab
+3;G dur;1v;3. En revenant de S. Nicolas;;;Mandora;Conc_4434;C;",,c/ ,,e | [,af1] ,,,a [,af] '[,ca] | \
+[aefa] ,,,a [aef] ,e/ ,f | [ae1] ,,f [,fc] [ace] | \
+[aefa] ,,,a [aef] ,,c/ ,,e |";french5tab
+4;G dur;2v;4. Ballet des Grenoüilles;;;Mandora;;C;"a1 | [aaa3/2] ,f/ ,e ,c [,af1] | ,,a/ ,,,f ,,,e ,,,c ,,,a1 ,f/ a | \
+[cf1] [ae] [,fe] [,ef] | [aca] ,,a [ac] ,e/ ,f |";french5tab
+5;g moll;3r;5. Courante.;;Sa beauté extrême;Mandora;Conc_278;3;",a1 | [,afa3/2] ,c/ ,a1 | [ace] ,,a ,,f | \
+[,afa3/2] ,c/ ,d1 | ,c ,,d ,d | [adad3/2] ,f/ a1 | \
+b ,d a | ,f ,,d ,,,c |";french5tab
+6;g moll;3v;6. La Vignonne;;;Mandora;Conc_273;3;"a1 | [aaa2] [,fcc1] | [,dfa] [,ca3/2] ,a/4 ,c | \
+,a1 ,,,a a | b ,,,f b | a ,,,a f | [ec] ,,a f |";french5tab
+7;G dur;4r;7. Courante La Vallette;;;Mandora;;3;",,a1 | [,af3/2] ,c/ ,,e1 | [,acf] ,,,a/ ,,,c ,,,e ,,,f | \
+[,ca3/2] ,e/ ,c1 | [,ce] ,,a a | [,efa3/2] c/ a1 | \
+[,fe] a [,ef] |";french5tab
+8;G dur;5v;8. Gailliarde;;;Mandora;;3;"[,afa1] ,,,a/ ,c [,af1] | [ace] ,,c/ a a ,g | \
+[aca1] [,aae] [,,cf] | [,efa] ,c/ ,,a [eca1] | \
+[fa1] ,,,a/ ,c ,e ,f |";french5tab
+9;g moll;6r;9. Gailliarde;;;Mandora;;3;"[,afa2] | a1 ,,c ,,e | [,af2] a1 | ,,,e/ ,,,f ,,,e ,,,c ,,,e1 | \
+[,af3/2] ,,d/ ,,c1 | ,,,f1 ,c ,a | [ace3/2] ,d/ ,c1 |";french5tab
+10;G dur;6v;10. Courante;;;Mandora;;3;",e1 |  [,efa3/2] ,f/ ,e1 | [,ca] ,a [eca] | [fa] ,,,a ,,a | \
+[fa] ,c ,e | ,f ,,c ,,,f | [,efa3/2] ,f/ ,e1 |";french5tab
+11;g moll;7v;11. C[ourante] La Princesse;;;Mandora;ConcR421;3;",,a1 | [,af3/2] ,c/ ,,e1 | [,,fa3/2] ,c/ ,d ,f | \
+[aca1] ,,a ,c | e ,,a ,d | [adad2] ,f1 | [ad3/2] b/ a1 |";french5tab
+12;G dur;8r;12. J'endure un fascheux ennuy;;;Mandora;ConcR948;C;",e1 ,,a | [,fd1] ,,,f [,efa] ,f/ ,e | ,c1 ,,a ,e/ ,f a ,,a | \
+,,c ,e ,f ,,e ,,f ,c ,e ,,f | [aca2] :||:";french5tab
+13;g moll;8v;13. Le Cure de Mole;;;Mandora;Conc_1040;C;"[,aaa1] | a1 [a,,a] ,f [a,,a] | ,d [,fa] a/ ,d [,d,a1] | \
+,f/ ,d [,ca,a3/2] ,a/4 ,c ,a1 ,,,a :||: [,a,a1] | \
+,c1 [,d,a] ,a/ [,f,a/] a |";french5tab
+14;g moll;9r;14. Heureux sejour;;;Mandora;Conc_1660;C;",a/ ,c | [,daa1] [,ca,a3/2] ,d/ [,aaa1] | [,ee,a1] [,aaa] [,ca,a] [,aaa] | \
+,a1 [,,e,a] ,,c/ ,,e ,a1 | ,,,a3 :||: ,a ,c | \
+[,daa1] [,ca,a3/2] ,d/ [,aaa1] |";french5tab
+15;G dur;9v;15. Volte;;;Mandora;;3;"[,eaa1] ,c | [,a1] [,ca,a3/2] ,e/ | ,f1 ,,,f a | [,eaa1] [,ca,a2] | \
+[,eaa1] ,c ,a | [,,e,a/] ,,a ,,c ,,e ,a ,c |";french5tab
+16;G dur;10r;16. Sus sus bergere;;;Mandora;;C;"[,aaa1] | [,,e,a1] ,,a [,aaa] ,c/ ,a | [,,e,a1] ,,a [,aaa2] | \
+[,ca,a2] [,eaa/] ,a ,c ,e | [,f,f1] [,eaa] [,ca,a] [,e,a/] ,f |";french5tab
+17;G dur;10v;17. Au trop heureux;;part B on f. 11r (bottom);Mandora;;C;"[,aaa2] | [,ace,a3/2] ,f/ [,eaa1] ,f/ a | \
+[c,,f1] [a,,e] [,f,c] [,eaa] | \
+[,ca,a1] [,ca,a1] [,e,,a/] ,f ,a ,c ,g ,,,c | \
+a1 [ace,a] :||:";french5tab
+18;G dur;10v;18. Un Passage;;;Mandora;;none;",,e/ ,a ,c ,e ,f a ,,,a [aef] c e [faaa] e/4 c a c d c a \
+,f ,e ,c [,efa] :||";french5tab
+19;g moll;11r;19. Quitez vos campagne;;Bottom: part B of f. 10v (1);Mandora;;C;"[aa,a2] | [,ca,a2] [,d,a/] ,d ,c ,a | \
+,,e/ ,,c ,,a ,,,,a [,aaa] ,a [,c,,d/] ,d | \
+,f1 [,daa] [,ca,a] [,daa/] ,f |";french5tab
+20;G dur;11v;20. Belle Caliste;;;Mandora;;3;"a1 | [aef2] ,,,a1 | [aef1] ,,,a ,f | [,eaa3/2] ,c/4 ,e ,f1 | \
+,,,f1 [aa,a3/2] ,f/4 a | ,f1 ,,,f [,fc] | [,eaa3/2] ,f/ a1 |";french5tab
+21;G dur;12r;21. Courante;;;Mandora;;3;",a/4 ,c ,e ,f | [aa,e3/2] c/ [aa,e1] | \
+a1 [,f,f] [,eaa3/2] ,f/ [,eaa1] ,e | \
+[,ca,a1] [,aaa3/2] ,a/ | [,,cf1] ,,c ,,e |";french5tab
+22;G dur;12v;22. Courant;;;Mandora;;3;"a1 | [ad,d3] | [,fd1] ,,,,d [,fd] | [ad,d3] | [,daa1] ,d ,,,a | \
+[,fd,d2] [,daa1] | ,d1 [,ca,a3/2] ,a/4 ,c | \
+,a1 ,,,a ,,a | [fa2] :||:";french5tab
+23;G dur;13r;23. La Royale;;;Mandora;Conc_1666;3;"a/4 c e | f1 ,,,a f | [e,,,a1] f g | [a,,,a3/2] ,f/ ,e ,c | \
+[,eaa1] [,ca,a3/2] ,a/4 ,c | [,eaa1] ,a ,f |";french5tab
+24;G dur;13v;24. La Mingarde;;;Mandora;;3;"a1 c | [,eaa3/2] ,f/ a1 | ,,,a1 [cf] ,,,f | [aa,e3] | \
+[,fcf3/2] a/ c1 | [,eaa3/2] ,f/ a1 | [,aaa3/2] ,c/ ,e1 | \
+[,ca,a] ,c ,a |";french5tab
+25;G dur;14v;25. Passage;;;Mandora;;none;"[,aaa3/2] ,c/ ,e ,f a1 ,,,a [aefa] ,c/ ,a [,,eca3/2] ,a/ ,c ,,,,a \
+[,ceca1] [,aa,c] [,aa,e] [,aaa] [,aac] [,aae]";french5tab
+26;g moll;15r;26. a qui atera le temps;;;Mandora;;C;"[ad,d3/2] a/ [ad,d] a [,f,,d] a | \
+[,daa1] ,c/ ,a [,,eca2] | [,aaa/] ,c ,d ,f [ad,d] a [,f,,d] a | \
+[,daa/] ,f [,ca,a2] :||:";french5tab
+27;G dur;15v;27. Courante;;La Vallette;Mandora;;3;",a1 | [,aaa3/2] ,c/ ,a1 | [,,cf1] ,,a/ ,,c ,,e ,,f | \
+[,ca,a3/2] ,e/ ,c ,a | [,,eca1] ,,a a | [aa,e3/2] c/ a1 |";french5tab
+28;G dur;16v;28. Sarabande;;Marion pleure;Mandora;Conc_1050;3;",,,a1 '[,ea] '[,ea] | ,,,a1 '[,ea2] | ,,,a1 [,fa] [,fa] | \
+,,,a1 '[,ea2] | ,,,,a1 '[,ca] '[,ca] | ,,,,a1 '[,ca2] | \
+,,,,a1 ,,,,c ,,,,e |";french5tab
+29;G dur;17v;29. Un jour Coridon et sa dame;;;Mandora;;3;"[aa,e1] a '[aa,e] | [,f,f2] ,f1 | '[,eaa2] ,e1 | \
+'[,ca,a2] ,c1 :||: '[,ca,a1] ,c [,ca] | '[,ca,a2] ,a1 | \
+'[,ca,a2] ,e/,f | [aa,a1] '[,ca,a] ,c | [,ca1] '[,ca,a2] |";french5tab
+30;G dur;18r;30. Gailliarde;;;Mandora;;3;",a/ ,c | ,e/ ,,f ,,,a ,e [,eaa3/2] ,c/ | \
+[,eaa/] ,f a c [,g,c] a c ,g | [aca1] ,,,,a [aca] :||:";french5tab
+31;G dur;18v;31. Courante;;;Mandora;;3;",a/ ,c ,e ,f | 'a1 ,,,a/ c a1 | ,,f1 [ace2] | \
+[a'efa3] | [cf,f3] | '[aaa2] f1 | '[ec,,a1] '[c,,c2] | \
+'[aa,e1] [,f,f2] | '[,eaa3/2] ,f/ [a,,e1] |";french5tab
+32;G dur;19v;32. J'aimeray tous jours ma fille;;;Mandora;Conc_4502;C;"[,eaa1] | ,c/ ,a '[,,eca1] [,aaa] [,ca,a/] ,e | \
+,f/ ,c [,eaa1] ,a [,eaa] | ,c/ ,a [,,eca1] [,aaa] [,ca,a] | \
+,,e1 ,a ,,,a [fa] :||:";french5tab
+33;g moll;20r;33. Courante;;;Mandora;;3;"[a,,a1] | [ace,a3] | '[,d,a1] ,a [a,,d] | \
+[,f,,d3/2] a/ '[,d,a1] | '[,c,,a1] ,,e ,a/ ,c | \
+',d1 ,,,a '[,da] | ,f1 ,,,,d [,fd] | '[a,,d3/2] b/ d1 |";french5tab
+34;g moll;20v;34. Branle du Baucane;;1° and 2°;Mandora;;C;",d/ ,f | 'a1 ,,,d '[ad] [,fd,d] | '[ad,d1] f d 'b | \
+'a1 ,,,d [,f,,d3/2] ,d/4 ,f | a1 ,,,d ,,a ,d |";french5tab
+35;g moll;21v;35. Branle gay;;;Mandora;;3;",a/4 ,c ,d1 | ,,,a1 '[,ca,a3/2] ,a/ | \
+,c1 ,,a [,,cf/] ,,e | ,a/ ,c '[,,e,a3/2] ,,c/4 ,,e | \
+,a3/2 ,,,a/4 ,c ,d1 |";french5tab
+36;g moll;22r;36. Branle amené;;;Mandora;;3;"[,aaa1] ,c ,d | '[,c1] ,,,,a/ ,d '[,a,a1] | \
+'[,,eca1] '[,aaa2] | [,c,,a1] ,,a [,,cf/] ,,e | \
+'[,aaa1] '[,,eca3/2] ,,c/4 ,,e | ',a1 ,,,a ,,a :||:";french5tab
+37;g moll;22v;37. Branle Poictu;;;Mandora;Conc_1660;3;"[a,,d1] | [,f,,d3/2] a/ '[,d,a1] | \
+'[,c,,a1] ,,a '[,d,a] | ,,f1 [,f,,d3/2] a/ | \
+'[a,,d3/2] c/ d1 | [c,,f3/2] d/ [f,,a1] | \
+[e,,,a3/2] f/ h e |";french5tab
+38;G dur;23r;[Passage];;;Mandora;;none;"[f,,a1] e/4 c a c | d/4 c a ,f a ,f | ,e/4 ,c [,efa1] :||: \
+[f,,a1] e/4 c a c |";french5tab
+39;g moll;23v;38. Branle Montirente;;;Mandora;;3;",a1 | '[,aaa3/2] ,c/ ,d1 | ,a1 '[,,eca3/2] ,,c/4 ,,d | \
+[,aaa1] ,a '[,,d,a] | ,,d1 [ba,f] [ad,d] | \
+[a,,d1] c d | f [h,,,d] d |";french5tab
+40;G dur;24v;39. Courante;;;Mandora;;3;",a1 | '[,af3/2] ,c/ [,,eca1] | [,afa3/2] ,c/ ,e a | \
+[ca3/2] e/ c1 | [af3/2] c/ e g | h3 | ',a1 ,c ',e |";french5tab
+41;G dur;25v;40. Sarabande;;;Mandora;;3;"[,efa1] '[,ef] ,e | '[,efa3] | '[,efa1] [,ef] ,e | \
+[,fcf3] | '[,ca,a1] [,ca] ,c | '[,ca,a2] [,a,a/] ,c | \
+,e1 [,ca,a3/2] ,a/4 ,c | ,a1 ,,,a ,,a :||:";french5tab
+42;G dur;26r;41. Le Cure de Mole;;;Mandora;;C;"[,a,a1] | a1 '[a,,a] ,f [,a,,a] | \
+,d1 [,f,,d] a/ ,f [,d,a1] | ,f/ ,d [,ca,a3/2] ,a/4 ,c ,a1 | \
+,,,a3 :||: [,a,a1] ,c [,d,a] ,a |";french5tab
+43;g moll;26v;42. Variations;R. Mésangeau;;Mandora;;C;"[,aaa1] 'a [a,,,a/] ,,,,b [,f,,d1] | \
+[ada1] ,,,d [,db] ',a | [,f,f/] ,,,d [,f,c] ',,,a [ac,,1] [,dfa] | \
+[,cf1] ,,,,a/ ',,e '[,aa1] ,,,a |";french5tab
+44;g moll;27v;43. Courante;;Isabelle;Mandora;Conc_3505;3;",a/ ,c | '[,d,a3/2] ,f/ '[a,,d1] | \
+[,f,,d3/2] a/ [,d,a] ,f | ',c1 ,,a ,,,,a | \
+'[,ca2] a/ b | '[d,,,a1] ,d [bf/] d |";french5tab
+45;g moll;28v;44. La Bouree;;;Mandora;Conc_4359;C;",d/ ,c | ',a1 ,,,a '[,aa] ,c/ ,d | \
+,f1 ,,,,d ,,d ,c | [,a,a/] ,,e ,a ,c ,a ,c ,d ,a |";french5tab
+46;G dur;29r;[Passage];;;Mandora;;none;",a/ ,,e ,a ,,c ,,e ,a ,c ,e ,f a1 ,,,a [aef1] c/ e [faaa] \
+e/4 c a c  c";french5tab
+47;C dur;29v;45. Le Pomperton;;Le Pont Breton;Mandora;Conc_2612;3;"[,,cf1] | ,,c1 '[,,cf3/2] ,,e/ | '[,aa1] ,,,a [,f,f] | \
+,f1 [,f,f3/2] a/ | c1 ,f :||: [a,,a1] | \
+,e1 [,f,c] ,c | '[,e,a1] ,a '[,c,,a] |";french5tab
+48;g moll;30r;46. Sarabande;;;Mandora;;3;"[,d,a/] a/ | '[c,,d3/2] d/ c1 | '[a,d3/2] c/ [,df1] | \
+'[,ca,a3] ,a/4 ,c | ,a1 ,,,a :||: '[ca/] 'd | \
+f1 ,,a '[ca] | d1 ,,,f '[c,,d] |";french5tab
+49;g moll;30r;[Passage];;;Mandora;;none;",a/ ,c ,a ,c ,d ,f c1 ,,,a [cdfa1] ,f/ ,d ,f ,c ,d ,a ,c \
+[,,eca1] ,a/ ,c1";french5tab
+50;G dur;30v;47. Passage;;;Mandora;;none;"[,aaa3/2] ,c/ ,e ,f a ,,,a [aef1] ,,,a ,c/ ,a [,,eca3/2] ,a/ \
+,c1 ,,,a [,ceca1] ,a/ ,,e ,a ,,c ,,e";french5tab
+51;G dur;31v;48. Gailliarde;;;Mandora;;3;"[,aaa3/2] [,c,f/] | ,e/ ,f a ,,e ',,c1 ,g | \
+[aca1] ,,,,a/ ,e ,f ,e ,c ,a | ,c/ ,,a ,,,,a ,f ,e1 ,,,a/ ,c |";french5tab
+52;G dur;32v;49. Quant je remue tout branle;;;Mandora;Conc_4434;C;",,c/ ,,e | [,afa1] ,,a '[,a,,c] '[,c,,a] | \
+'[,e,a1] ,,f ,,,a ,e/ ,f | [aaae1] c/ ,f ,,,c a ,f | \
+',e1 ,,,a [fe] c/ e |";french5tab
+53;G dur;33v;50. Janneton;;;Mandora;Conc_2629;C;"[,eaa1] [,ca] [,ac] [a,a/] ,,,f | \
+'[aa,e1] [,f,f] '[,eaa3/2] ,f/ | \
+[a,,,e1] [,a,f/] ,,,e [,f,c] ,,e [,efa1] | \
+[,c,,a3/2] ,,c/4 ,,e ,,f1 ,,,a :||:";french5tab
+54;g moll;34v;51. Branle 1;;;Mandora;;C;"[f,,a1] [f,a] '[d,,a] [f,a/] d | \
+'[c,,a1] '[a,a] [,f,a] [d,a] | \
+[c,,a/] d [f,a] d '[c,,a1] [a,a] :||: \
+[a,,a/] c '[d,a1] [c,,a] [a,a] |";french5tab
+55;g moll;35r;52. Branle 2;;;Mandora;;C;"[,a,a/] ,c [,da] ,f '[a,,a1] [a,a] | \
+[a,,a/] c [d,a] f '[c,,a1] '[a,a] | \
+[,a,a/] ,c [,da] ,f '[a,,a1] [,a,a] | \
+[f,,a] [f,a] [a,,a] ,,a :||:";french5tab
+56;g moll;35v;53. Branle 3;;;Mandora;Conc_4359;C;"[,a,a1] '[a,a] [,d,a] [,ca] | \
+[,a,a/] ,c [,da] ,f '[a,,a1] '[a,a] | \
+[,a,a1] '[a,a] '[,d,a] '[,ca] | \
+[,a,a/] ,c [,da] ,f '[a,,a1] ,,a :||:";french5tab
+57;G dur;36r;54. Branle 4;;;Mandora;;C;"[,e,a1] [,fa] | '[a,,a1] [,ea] '[c,,a] [a,a/] f | \
+'[a,,a1] [a,a] [,a,a/] ,c [,ea] ,f | \
+'[a,,a1] '[,ea] '[,c,,a] [a,a/] f | '[a,,a1] ,,a :||:";french5tab
+58;g moll;36v;55. Lobon et Margot;;;Mandora;Conc_3480;C;"[,aaa1] a | '[,daa2] [,f,f] | '[aa,a1] ,,a ,a a | \
+'[,daa2] [,f,,d1] ,,,,b | [aceca2] ,a1 a | \
+',d1 ,,,a [,f,,,d3/2] ,d/4 ,f |";french5tab
+59;g moll;38r;56. La Vignonne;;;Mandora;Conc_273;3;",d/ ,f a c | [dd3/2] f/ d1 | [dd1] [dc2] | \
+[dd2] ,,a1 | [dd2] a1 | [c1] ,,,,a ,,a | [ace2] ,f1 | \
+[,fd1] ,,b [a,a] |";french5tab
+60;G dur;38v;57. Branle de uilage;;;Mandora;;none;",a/ ,c [,e,a1] [,ea] [,c,a] [,aa] [a,,a] [a,a] [,a,a] [,aa] ,c \
+[,e,a] [,ea] [,c,a] [,aa] [a,,a2] [,aa1] :||:";french5tab
+61;g moll;39r;58. Gauotte;;Le Curé de Maule;Mandora;;C;"[,aaa1] a | [adad1] [,fd,d] [adad2] | \
+[,daa2] [,fd,d1] [adad] | [,fd,d1] [,daa] [,ca,a2] | \
+[,aaa2] :||: ,a1 ,c | [,daa1] ,d [,fd,d] [,daa] | \
+[,ca,a2] ,a1 ,c |";french5tab
+62;C dur;39v;59. Courante;;Commence Le 8 Octobris 1626;Mandora;;3;",c3/4 ,e/4 | [af1] ,a [ac] | [acd1] [,,a3/2] ,c/4 ,e | \
+,f1 ,,,f ,,c | [aa2] ,e3/4 ,f/4 | c1 ,,,a/ e c1 | \
+[,f,,c1] c [,e,a] |";french5tab
+63;F dur;40v;60. Courante;;;Mandora;Conc_1764;3;",a1 | [,af1] ,,,f ,,c | [aac2] a1 | [af1] ,,d c3/4 a/4 | \
+,e1 [,fc] ,,a/ ,,,f | [ca,e1] ,,,a ,,d |";french5tab
+64;C dur;41v;61. Entree;;;Mandora;;none;"[af/] c e ,a c ,,d [aac] ,,a ,,,f [,,ae] ,,d \
+[,,cf] ,,,e ,,,c ,a ,,e c ,,,a [,af] ,c ,e a c";french5tab
+65;c moll;42v;62. Air;;;Mandora;;C;",a1 | [af] [,ef] [aab] [ce] | [df] c/ a [ca1] [,ef] | \
+[af] [ce] [df] c3/4 a/4 | [ca1] ,,,a [ca] :||:";french5tab
+66;B dur;43r;63. Remi Remi;;;Mandora;Conc_5202;C;",d1 | [,d,d3] d1 | [d,a3] f1 | [faaa3] [ba,f1] | \
+[adad3] ,,d1 | [,,d,a1] ,,d [,a,f3/2] ,c/ | \
+[,d,d2] [ad3/2] b/ | [d,a1] [f,,a] [ca,f3/2] d/ |";french5tab
+67;c moll;43v;64. Air duple;;;Mandora;;C;",a1 | [af1] [,ef] [aab] [ce] | [df1] c/ a [ca1] [,ef] | \
+[af1] [ce] [df] c/ a | [ca1] ,,,a [ca] ,c/ ,e |";french5tab
+68;G dur;44v;65. E[n]tree;;;Mandora;;none;"[,ce,a2] a ,,a ,,c [fa1] f ,,a/ ,,,f ,,,c1 ,,a ,a f ,c ,e ,,,c \
+,f1 ,,c ,,e ,,,e ,a ,,a ,,e [,,cf]";french5tab
+69;G dur;45r;66. Entree;;;Mandora;;none;"[,af1] ,,,a/ ,c ,e ,,f a a [aefa1] a ,c ,a [ace,a] a [ace] ,,c [fa] \
+f1 ,,a/ ,,,f ,,,e1";french5tab
+70;G dur;45v;67. Pantalon;;;Mandora;;C;"[,eaa1] ,e [,fcf] ,f | [,ca,a1] ,c [,eaa] ,a | \
+[,eaa1] ,e [,fcf] ,f | [,ca,a1] a [,af] ,,,a | \
+[,eaa1] [,eaa] [,acf] [,acf] |";french5tab
+71;G dur;46v;68. Passamezo;;;Mandora;;C;",,a1 [,af] ,c | [,eaa1] ,,f a ,,,c | [,aae1] ,,,a ,,c ,,e | \
+[,af1] ,,,a a ,f | [,ef1] ,,d ,,c ,,a | [,acf2] ,,,f1 ,,,e |";french5tab
+72;g moll;47v;69. Pauana;;;Mandora;Conc_4405;C;",,a1 | [,afa1] ,d ,c ,a | [,ce,a1] a ,d ,f | \
+[ad1] ,,f ,,e ,c | [,af1] ,c ,d ,c | \
+[,af1] a ,f ,d |";french5tab
+73;g moll;48v;70. Ballet;;;Mandora;;C;",a/ ,c | [,df1] ,c/ ,d [,fd1] ,d/ ,f | \
+[ad1] ,,,d [ada] ,f/ a | [ba1] [ad] [,fd] a/ ,f |";french5tab
+74;g moll;49r;71. Ballet;;;Mandora;;C;"a1 | [ad3/2] ,f/ [,df1] ,c/ ,a | [ec1] ,,a [ace] ,a/ ,c | \
+[,df1] ,d [,fd] d/ b | [ad1] ,,,d [add] a |";french5tab
+75;G dur;49v;72. Courante;;;Mandora;;3;",e1 | [,ca,a3/2] ,e/ ,f1 | [,eaa1] [,ca,a3/2] ,a/4 ,c | \
+,a1 ,,,a ,c | ,e1 ,,f a | ,,e1 ,,c ,g | \
+a1 ,,,,a ,,a | [ac2] :||:";french5tab
+76;G dur;50r;73. Courante;;;Mandora;;3;",a1 | [,af1] ,,,a/ ,c ,e ,f | [,ca,a1] [,a,a] a/ ,f | \
+[,e,a1] ,,f [,ce] | [,ef1] ,,a [cf] | \
+[aeaa2] f1 | [e,a1] f [cg] |";french5tab
+77;G dur;50v;74. Courante;;;Mandora;;3;",,a1 | [,aaa3/2] ,c/ ,a1 | [,caa3/2] ,e/ ,f a | \
+,e1 ,,f ,f | ,e1 [,ca,a3/2] ,a/4 ,c | \
+,a1 ,,,a ,,a | [fa2] ,c1 |";french5tab
+78;g moll;51r;75. Courante;;;Mandora;;3;"a1 | [adad3] | [,fd1] ,,,,d [,fd] | [adad3] | \
+[,daa1] [,da] ,d | [,fcf2] [,daa1] | \
+,d1 [,ca,a3/2] ,a/4 ,c | ,a1 ,,,a ,,a | [fa2] :||:";french5tab
+79;G dur;51v;76. Sarabande;;;Mandora;;3;",,,a1 | [aef2] ,,,f1 | [,fc2] ,,,a1 | [,ef2] ,,,,a1 | \
+[ac2] ,,c1 | [fa2] ,,,e1 | [,aa1] ,,,c ,,,a | \
+,e1 ,c ,,,,a | [,af2] :||:";french5tab
+80;G dur;52r;77. Sarabande;;;Mandora;;3;"[ae1] ,,,a [aef] | [,fc1] ,,,f [,fc] | [aef1] ,,,a [aef] | \
+[,ca1] ,,,,a a | [c,,f1] [a,,e] [,fc] | [aef2] ,,,a1 | \
+[,ef1] [,ca,a3/2] ,a/4 ,c |";french5tab
+81;G dur;52v;78. Sarabande;;;Mandora;;3;"[ae1] ,,,a [ae] | [cf1] ,,,f [cf] | [ae1] ,,,a [ae] | \
+[,ca1] ,,,,a [,ca] | [ae1] ,,f ,,,a | [cf1] ,,,f [ae] | \
+,,,,a1 [,ca3/2] ,a/4 ,c |";french5tab
+82;G dur;53v;79. Sarabande;;La Sarabande Espagnole;Mandora;;3;"[,aaa3/2] ,c/ ,e1 | [,fcf3/2] a/ ,f1 | [,eaa3/2] ,c/ ,e1 | \
+,c1 ,,,,a ,c | [aeaa3/2] c/ a1 | [,fcf3/2] a/ ,f1 | \
+[,eaa3/2] ,f/ ,e1 |";french5tab
+83;g moll;54v;80. Sarabande;;;Mandora;;3;"[adaa1] [ada] [ad] | [adad2] ,,,a1 | [ba,f1] [ba] a | \
+[,fd,d2] ,,,,d1 | [adad1] [ada] [,fd,d] | [,daa2] ,,,a1 | \
+[,fd,d1] [,fd] [,daa] | [,ca,a2] ,,,a1 |";french5tab
+84;G dur;55v;81. Ballet du grand Turq;;;Mandora;Conc_1776;C;"[ae,a3/2] ,f/ ,e ,,f [cf1] | [aa,e1] c/ e f ,a [,ca1] | \
+[,eaa1] ,f/ ,e ,c ,a [,ca1] | [,af1] h/ f [eca1] c/ a |";french5tab
+85;G dur;56v;82. Duple;;;Mandora;Conc_1776;C;",a/4 ,c ,e ,f a c | [ae,a3/2] ,f/ ,e ,,f ,f c | \
+a ,,,e c e f ,a ,c ,,a |";french5tab
+86;c moll;57v;83. Courante;;;Mandora;;3;"a1 | [af1] ,,,f/ a [,da] ,b | [,ab1] [df3/2] c/4 d | \
+c1 ,,d a | [aab] ,,,f ,c | [,da] ,,b/ a ,d1 |";french5tab
+87;c moll;58v;84. Courante;;Sa beauté extreme;Mandora;Conc_278;3;"a1 | [af3/2] c/ a1 | [,ef1] ,,,a a | [ab3/2] c/ d f | \
+c1 ,d d | [dab] ,,d ,a | [,ba] ,d [,ab] |";french5tab
+88;c moll;59v;85. Courante;;;Mandora;;3;"a1 | [af] c a | [,ef] a c | d ,,,f/ ,a ,c ,e | \
+[af1] ,,,f ,,a | ,,b a ,d | [,db] [,bd3/2] ,a/4 ,b |";french5tab
+89;g moll;60v;86. Lauignone;;;Mandora;Conc_273;3;"a1 | [a,,d2] [,fd1] | [,df1] [,ca3/2] ,a/4 ,c | \
+,a1 ,,,a a | b ,,,f d | a ,,,d f | e ,,a ,a |";french5tab
+90;G dur;61v;87. Air;;Ballet du Grand Turc, part 3;Mandora;Conc_1776;C;"[ae,a3/2] a/ [c,,f] f [e,a] f | [f,,a3] h1 | [h,,,,a3] f1 | \
+[e,a1] e [c,,c] a | [ac,,a3] ,f1 | [,f,c3] ,e1 | \
+[,e,a1] ,c/ ,a";french5tab
+91;G dur;62v;88. ballet;Charles de Lespine;;Mandora;Conc_1761;C;"[,af1] ,,,a/ ,a [,ca] ,e ,f a | [,ef1] ,,,a ,e ,a/ ,c | \
+[,ef/] ,f a1 [ace] [,gc] | a1 ,,a ,c ,f/ a |";french5tab
+92;C dur;63v;89. Courante;;;Mandora;;3;",a1 | [af3/2] c/ e1 | [ea1] c ,,d | ,,c a ,,d | \
+[,af] ,,,f ,,d | ,,c ,,e [,af] | ,,a/ ,e ,c3/2 ,e/ |";french5tab
+93;C dur;64v;90. Air;;;Mandora;;C;"[aac2] ,a1 ,c/ ,e | [af] c e f h ,a ,c ,a | \
+[acd1] ,,a/ c ,e ,,f ,,,a ,,d |";french5tab
+94;C dur;65v;91. Courante;;;Mandora;;3;"a1 | [aacf3/2] ,,,f/ ,,,e ,,,c | ,,,a1 [ca] ,,d | \
+[eac3/2] f/ h1 | [acd1] c [ef] | [ca] ,,,a/ e c a |";french5tab
+95;C dur;66v;92. Courante;;;Mandora;;3;",c/ ,e | [af3/2] c/ e1 | [ef1] [ca3/2] a/4 c | a1 ,,d ,,c | \
+,,a1 ,e a | [ca1] ,,,a/ e c1 | [ce1] [ef3/2] c/4 e |";french5tab
+96;g moll;67v;93. Courante;;;Mandora;;3;"a1 | [ad1] ,,f ,,d | [,db1] ,f [a,a] | [b,,f1] [a,,d3/2] ,f/4 a | \
+,f1 [,ca] a | [,ab3/2] ,c/ ,d ,f | [,ca1] [fab] f |";french5tab
+97;g moll;68v;94. Saraban:;;;Mandora;;3;",,,a1 | [ada] [ada] ,,,a | [ada2] ,,,,f1 | \
+[bf] a ,,d | ,f1 a ,,,d | [ada] [ada] ,f | \
+[,db] ,,,f ,f | [,df] [,ca3/2] ,a/4 ,c |";french5tab
+98;G dur;69v;95. Courante;;;Mandora;;3;",,a1 | [,af3/2] ,c/ ,e ,f | a1 [,gc3/2] ,e/4 ,g | \
+a1 ,,a3/2 c/ | e1 a [f,c] | e ,,a [ec] | \
+c1 ,,,c ,e3/4 ,g/4 |";french5tab
+99;g moll;70v;96. Courante;;;Mandora;;3;"a1 | [adaa3/2] ,f/ ,d ,c | [,df1] [,ca3/2] ,a/4 ,c | \
+,a1 ,,b [f,a] | [,f,f3/2] a/ ,d ,f | ,c1 ,,d ,,b |";french5tab
+100;g moll;71v;97. Ballet;;;Mandora;;C;"[adaa3/2] ,f/ [,df] ,d [,ca] ,a | [,,ec] ,,a ,a ,c [,df1] ,,,a | \
+[,fd1] ,d/ ,f a1 ,,,d | [b,,f3/2] a/ [,fd1] d/ b |";french5tab
+101;c moll;72v;98. Courante;;;Mandora;;3;"h1 | [ha,f3] | [fb1] h [df] | c1 ,,,a [,fb] | \
+[,ea1] [,fb] ,,,f | ,,,e [ca] ,,d | ,,,f1 [da] ,c | \
+,,,a1 ,d f |";french5tab
+102;c moll;73v;99. Courante;;;Mandora;;3;",a1 | [af3/2] c/ d1 | [df1] [ca3/2] a/4 c | a1 ,,b ,,a | \
+,,,f1 f d | c ,a d | [ab3/2] d/ c a |";french5tab
+103;G dur;74v;100. Ballet;;;Mandora;;C;"[af3/2] a/ [,ef] ,a a c | [df1] ,,,f [f,d3/2] d/ | \
+c/ ,d d f h1 ,,b/ ,,d | [,af3/2] ,,,a/ ,c";french5tab
+104;G dur;75v;101. Courante;;;Mandora;;3;",,a1 | [,af3/2] ,c/ ,a1 | [,ca1] ,a/ ,c ,e ,c | \
+,e1 ,,,a ,,f | [ae2] [,ce1] | [aaf3/2] c/ d1 | ,,c1 d c |";french5tab
+105;G dur;76v;102. [Courante];;;Mandora;;3;",,a1 | [,af2] [,ce1] | [,ef1] ,,c c | d1 ,,a ,c | \
+d1 f h | i1 ,e ,g | [hh1] f ,,h | ,h1 ,,a [,ef] |";french5tab
+106;G dur;77v;103. [Courante];;;Mandora;Conc_5206;3;",,a1 | [,af3/2] ,c/ ,a1 | ,c1 ,,a d/ b | a1 ,,,a ,,a | \
+[aa3] | ,c1 ,,a ,e | [,ac] d c | d ,,a ,c |";french5tab
+107;G dur;78v;104. [Courante];;;Mandora;;3;",,a1 | [,af3/2] ,c/ ,e1 | [,ea1] ,c ,,,f | [,cae1] ,a ,,,f | \
+,,,h1 ,,,a ,e | [aef1] ,,e [c,c] | [dca3/2] f/ h1 |";french5tab
+108;G dur;79v;105. [Sarabande];;;Mandora;;3;",,,a1 | [aef] [aef] ,,a | [dc2] ,,,c1 | b1 ,c e | \
+a1 ,a ,,,f | [fac1] [fac] ,,a | [ec2] [b,,c1] | \
+a1 [,ca3/2] a/ | ,a2 :||:";french5tab
+109;g moll;80r;106. Aufzug;;;Mandora;;C;"[adf3] ,c1 | [,df] ,c/ ,a [,ce2] | [fc3/2] a/ [bf1] [adf] | \
+[,fbf2] [adf] | a1 ,f [,df3/2] ,d/ | [,ce,a4] :||: \
+[ada3/2] a/ [,fd3/2] a/ |";french5tab
+110;g moll;80v;107. Aufzug;;;Mandora;;C;",,a/ ,,c [,,ec1] ,a [,ce] | [,df1] ,c/ ,a [,ca1] ,,a | \
+,,c/ ,,e [,af1] [,ca/] ,d ,f ,d | [,ce,a4] | \
+,,a/ ,,c [,,ec1] ,a [,ca] |";french5tab
+111;G dur;81v;108. Italianisches Air;;;Mandora;ConcR1208;C;",a/ ,c | [,d,a1] [,ca] [,af] ,,,a | [,af1] ,c/ ,d [,fd1] [,df] | \
+[,ce] ,,a ,c ,d/ ,f | [a,,d1] [,fd] [,df/] ,d ,f a |";french5tab
+112;G dur;82v;109. Courante;R. Mésangeau?;Caliste;Mandora;;3;",a1 | [,af3] | [ace3/2] c/ [a,a] ,f | [,ef1] ,a [,fc/] a | \
+[c,,f1] [,g,c3/2] ,e/4 ,g | [ace2] ,,a1 | [,ef1] [,fc] [a,a] |";french5tab
+113;g moll;83r;110. Courante;;;Mandora;;3;"[fd,a1] [aca] [f,b] | [d,d3/2] b/ a1 | b1 [,fd] d | \
+[ace3/2] ,f/ [,df1] | [,da1] ,a [,fb] | [,ca3/2] ,a/ [,,ec1] | \
+[,,fa1] [,,cf] [,ca,a] |";french5tab
+114;g moll;83v;111. Amor poiche non giouane;;;Mandora;;C;"a1 | [,af1] [,ce] [,df] [fb] | [ace3/2] ,f/ [,df1] [aca] | \
+[c,,f1] [e,a] [f,c] h | [ec1] ,,a [dc] a | \
+[aca1] d [d,d] [f,b] |";french5tab
+115;g moll;84v;112. Courante;;;Mandora;;3;"a1 | [ad1] ,,,a ,,a | [,fd3/2] a/ [,df] ,f | \
+[,ce,a1] ,,a ,d | [,df1] [,fd3/2] ,d/4 ,f | a3/2 b/ d1 | \
+[bf1] [ad2] |";french5tab
+116;G dur;85v;113. Courante;;;Mandora;D-Usch133b / 85v - D-Usch133b / 86r;3;"a1 | [a,f3/2] ,f/ [,ea] ,c | [,ef1] ,c ,,,f | \
+[,e,a] [,af] a | [ace1] [c,,f3/2] e/ | f2 ,,c1 | \
+[h,a3/2] f/ e c |";french5tab
+117;G dur;86r;114. Courante;;ff. 86v-87r empty;Mandora;D-Usch133b / 85v - D-Usch133b / 86r;3;"a1 | [af3/2] ,f/ [,ea] ,c | [,ef1] ,c ,,,f | [,e,a1] [,af] a | \
+[ace1] [c,,f3/2] e/ f2 ,,c1 | [h,a3/2] f/ e c |";french5tab
+118;G dur;87v;115. [Bataille];;;Mandora;;C;"[,af1] ,a [,afa] ,,c/ ,,e | [,af1] a [,eaa] ,,,e/ ,,,f | \
+,,a1 ,,,e/ ,,,e ,,a ,,a | ,a/ ,a ,e ,e a a | [,aaa3] :||:";french5tab
+119;G dur;89v;118. allemande;;;Mandora;;C;"[aef1] ,,,a1 ,e/ ,f | a/ ,,a [,ac] [,ce] [,ef1] ,,,a/ ,f | \
+a/ ,e ,c ,a [ec] ,,a ,e ,f |";french5tab
+120;g moll;90v;119. Courante;E. Gaultier;;Mandora;Conc_11;3;"c1 | [cdaa3/2] ,f/ ,d ,c | [,af1] [,ce] ,f | [,daa3/2] ,c/4 ,d ,a1 | \
+[ha1] c e | [fc1] ,,a/ e/4 f c1 |";french5tab
+121;c moll;91v;120. Courante;;;Mandora;;3;"a1 | [af3/2] c/ d1 | ,f1 [ca3/2] d/ | a1 ,b ,a | ,b1 f ,,c | \
+,,d e f | ,a [,df] c/ d |";french5tab
+122;g moll;92v;121. Courante;;;Mandora;;3;",a/ ,c | [,daa1] ,,f/ a c1 | [cce1] a [,ef] | \
+[,ca3/2] ,,a/ ,,c ,,e | [,af1] [,ce] [,df] | \
+[,fb1] [,ca] c/ a |";french5tab
+123;G dur;93v;122. [Courante];;;Mandora;;3;"a1 | [,ef3/2] ,f/ a c | [aca1] [,fc3/2] a/ | [,ef1] ,,,a ,,a | \
+,e1 [,af/] ,c ,e ,f | [ace3/2] c/ a1 | [,fc1] ,e ,,f |";french5tab
+124;g moll;94v;123. [Courante];;;Mandora;;3;"[,d,a1][aca] [f,b] | [d,d3/2] b/ [a,,d1] | [b,,f1] [,fd] d | \
+[a,,d3/2] ,f/ [,df1] | [,da1] ,a [,fb] | [,ca3/2] ,a/ [,,ec1] | \
+[,,fa1] [,,cf] [,ca,a] |";french5tab
