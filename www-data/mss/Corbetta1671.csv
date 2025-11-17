@@ -1,7 +1,9 @@
 Piece Nr;Key;Page nr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+;;;"Concordances from: Monica Hall (web) - Francesco Corbetta - The Best of All /b
+A study of his life and works (revised 2020)";;;;;;;
 1;;1;Prel.de;;b.fa.b.mi tierce mineur;guitar;;C;"c/ | ,d ,,e ,,,e ,,,,f ,,,,c d ,f ,,,,e | \
 ,,d/ c X,d ,c ,,e ,d X,,c e | ,,a/ ,a (c Xa)";french5tab
-2;;1;Allemande du Roy;;la mesme en Musique fol.83;guitar;;C;"!strumup![cdeec3/4] !strumup![cdeec/4] | \
+2;;1;Allemande du Roy;;la mesme en Musique fol.83;guitar;Conc_5489;C;"!strumup![cdeec3/4] !strumup![cdeec/4] | \
 !strumdown![cdeec1] !strumup![cdeec] !strumdown![cdeec] h3/4 h/4 | \
 !strumdown!X[ghg1] ,h !strumdown![hhh3/2] k/ | \
 !strumdown![lhhk2] X,,,,c1 ,c3/4 ,c/4 | \
@@ -27,11 +29,11 @@ X,,c/ c !strumdown!X[aaa3/2] !strumup![ccdee/] | \
 [,,,ab1] ,,a [,b,c/] (,d X,b) ,,d |";french5tab
 8;;7;Prel.de;;;guitar;;C;"d/ | ,e/ ,,f d ,,,,d ,,,f ,,f ,d X,,e | \
 ,,,,d/ ,d ,e ,,d ,,b ,b d b | ,,a/ ,g g X,f";french5tab
-9;;7;Allem.de Sur la mort du duc de Glocester;;;guitar;;C;"!strumup![deffd1] | !strumdown![deffd2] !strumdown!X[ddefd3/2] !strumup![ddefd/] | \
+9;;7;Allem.de Sur la mort du duc de Glocester;;;guitar;Conc_5487;C;"!strumup![deffd1] | !strumdown![deffd2] !strumdown!X[ddefd3/2] !strumup![ddefd/] | \
 !strumdown![deffd1] ,,,,d !strumup![deffd] !strumdown![deffd/] !strumup![deffd] | \
 !strumdown![deffd1] X,,d/ d [ii,g1] X,g/ i | \
 X[hla2] [li,k3/2] l/ |";french5tab
-10;;8;Sarab.de;;;guitar;;3;"!strumup![deffd3/2] !strumup![deffd/] | \
+10;;8;Sarab.de;;;guitar;Conc_5488;3;"!strumup![deffd3/2] !strumup![deffd/] | \
 !strumdown![egfdd1] !strumup![bdc3/2] !strumup![bdc/] | \
 !strumdown![gd1] [,,abb3/2] [,,abb/] | \
 [,,bbd1] X[,,da3/2] ,,b/ | [,,ab1] !strumdown![dedbb3/2] !strumup![dedbb/] | \
@@ -54,7 +56,7 @@ X[h,a2] [,a,a3] [,b,b1] | ,,,d1 ,d [bd,,c3] d1 | \
 15;;13;Prel.de;;;guitar;;C;"!strumdown!X[,,,cc1] ,,,,c/ ,,,c ,,a ,a (a c) | \
 !strumdown![d,,cc1] (c/ Xa) ,,e ,e Xa ,e | \
 [af,,d1] (,,,,c/ X,,,,a) ,,,,c ,,c ,d X,,b |";french5tab
-16;;13;Allemande faite sur l'Emprisonnement du Duc de Bouquingain;;;guitar;;C;"(,,c/ X,,a1) ,,,e/ | !strumdown![,,,ec1] !strumup!X[,,,cc] !strumdown![,,,cc] !strumup![,,,cc/] !strumup![,,,cc] | \
+16;;13;Allemande faite sur l'Emprisonnement du Duc de Bouquingain;;;guitar;Conc_5496;C;"(,,c/ X,,a1) ,,,e/ | !strumdown![,,,ec1] !strumup!X[,,,cc] !strumdown![,,,cc] !strumup![,,,cc/] !strumup![,,,cc] | \
 !strumdown![heeeg1] (h/ f) !strumdown!X[deee3/2] c/ | \
 !strumdown![dfecc1] ([dc/] f) !strumdown!X[cdc1] ([cd,,c/] d) |";french5tab
 17;;15;Sarabande;;;guitar;;3;"!strumdown![,,,cc1] !strumup![,,,cc/] ([,c,,a] ,e) a | \
@@ -130,7 +132,7 @@ X[b,,a1] ,d/ d f1 | !strumdown![dfffd1] ,,,,d/ f [g,a1] |";french5tab
 37;;29;Courante;;;guitar;;3;"!strumup![,bcc/] | !strumdown![,bcc3/2] ([e,e/] [f,f)]) ,d/4 (f | \
 a/) ,a a (,d X,b3/4) ,a/4 | \
 ,,,,a1 !strumdown![,bcc/] ,,,c ,,c (,,a/4 ,,c) |";french5tab
-38;;30;Sarab.de la Victoire;;;guitar;;3;"!strumdown![,bcc1] !strumup![,bcc/] f !strumdown!X[efe1] | \
+38;;30;Sarab.de la Victoire;;;guitar;Conc_5491;3;"!strumdown![,bcc1] !strumup![,bcc/] f !strumdown!X[efe1] | \
 !strumdown!X[fffhh3/2] h/ !strumdown![iffhh1] | \
 !strumdown![fgfhi1] !strumdown![hghff/] !strumup!i !strumdown!h !strumup!f | \
 !strumdown![efecc1] !strumdown![efecc/] !strumup![efecc] [f,,e1] | \
@@ -317,7 +319,7 @@ l1) X[,d,,a3/2] ,c/ | [,d,a1] ,,,,c/ ,c ,,,a a |";french5tab
 ,,,,a1 f !strumdown![gd] !strumup![fccc] | \
 !strumdown![fccc1] l [l,k,a] Xk | \
 [l,,a1] !strumup![fgh] !strumdown![fgh] !strumup!h |";french5tab
-98;;71;Sarabande la Stuarde;;;guitar;;3;"!strumdown![bdc3/2] !strumup![bdc/] d f | \
+98;;71;Sarabande la Stuarde;;;guitar;Conc_5470;3;"!strumdown![bdc3/2] !strumup![bdc/] d f | \
 [ff,,c1] Xd f | [,g,a1] X[,ff,a3/2] ,d/ | \
 X[,dd3/2] ,g/ d f | [g,,f1] [,f,,d/] (,,,,f X,,,,d) ,,d |";french5tab
 99;;71;double;;;guitar;;3;"!strumdown![bdc1] !strumup![bdc/] d f ,,,,a | \
@@ -343,7 +345,7 @@ X[d,c1] ,d [,ff/] (,d | ,f/ ,g) X[,da3/2] ,b/ | [,b,,d1] || \
 !strumdown![dd,,b1] !strumdown![dbdcb3/2] !strumup![dbdcb/] | \
 !strumdown![fgfdd1] X,,,d3/2 f/ | !strumdown![gdefd1] X[a,,,d3/2] a/ | \
 !strumdown![fgfdd1] X[,dd3/2] ,d/ | [dd,b1] X,b3/2 f/ |";french5tab
-105;;77;Tambour de Suisse;;;guitar;;3;"!strumdown![dddff/] !strumup!f | \
+105;;77;Tambour de Suisse;;;guitar;Conc_5485;3;"!strumdown![dddff/] !strumup!f | \
 !strumdown!g1 !strumdown![bdc] !strumdown![dedbb/] !strumup![dedbb] | \
 !strumdown![bdddb1] ,,,,b [,e,,d/] ,,c | \
 [,,da/] b ,,,b ,d !strumdown!X[bbcd1] | \

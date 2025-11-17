@@ -1,0 +1,79 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
+1;;1r;Saltarello;;;Guitar;;none;"[cdca] [cdca] c [cdca] | [daaa] [daaa] | [accc] a [accc] | \
+[cdca] :||";italian4tab
+2;;1v;Galiarda archetto;;;Guitar;;none;"[caaa1] | [abac] [abac] | [cdca] [cdca] c/ [cdca1] | \
+[daaa] | [abac] | [cdca] | [daaa] [daa] d/ [daaa1] :||";italian4tab
+3;;1v;Ruggier;;;Guitar;;none;"[daaa] [daaa] [daaa] | [abac] | [cdca] | [daaa] [daaa] d/ \
+[daaa1] [daaa] [daaa] [daaa] | [abac] [abac] |";italian4tab
+4;;2v;La zoppa;;;Guitar;;none;",d/ a | [cdca1] | [daaa] | [cdca] | f/ d [c,,a1] | \
+[accc] | [cdca] :||";italian4tab
+5;;2v;La contadina;;;Guitar;;none;"[cdca] [cdca] | [daaa] | [cdca] | a/ ,d | [accc1] ,d/ [accc1] | \
+[cdca] [cdca] || ,,,a/ a c d f |";italian4tab
+6;;3r;Spagnioleta, in chave grande;;;Guitar;;none;",d a | [bdca1] a/ [bdca1] | [abac] | ,,,a/ ,,,c | \
+[bbcd1] [bbcd] [bbcd] | ,,a/ ,,c | [bdda1] [bdda] | \
+[abac] |";italian4tab
+7;;4r;Mattacini;;;Guitar;;none;"[accc1] | [cdca] [cdca] | [daaa] [daaa] | [accc] [accc] || \
+[accc] | [cdca] a/ [cdca1] | [daaa] | c/ d | [accc1] [accc] :||";italian4tab
+8;;4r;Romanesca;;;Guitar;;none;"[bbcd] [bbcd] b/ [bbcd1] [bbcd] | [daaa] [daaa] | \
+[abac] [abac] a/ [abac1] [abac] [abac] [abac] | [bdca] [bdca] |";italian4tab
+9;;5r;Ritornello della romanesca;;;Guitar;;none;"[daaa1] | [abac] | [cdca] | [daaa] [daaa] | c/ a ,d ,c ,a | \
+[accc1] | d/ c a | [cdca1] [cdca] c/ [cdca1] |";italian4tab
+10;;5v;Passamezzo in basso;;;Guitar;;none;",d/ a | [cdca1] [cdca] | f/ f d c a | [cdca1] | [daaa] | \
+[abac] | [cdca] | [daaa] [daaa] d [daaa] ||";italian4tab
+11;;7r;La gesometta;;;Guitar;;none;"c/ d [f,,a1] c/ [f,,a1] d/ c a ,d | \
+f d [c,,a1] [,cc] [,d,a] || ,d/ a c d f";italian4tab
+12;;7v;Rose e viole;;;Guitar;;none;",,,a1 a/ c d f c | [d,,c1] a/ d [c,,a1] ,,d/ | \
+f d c a ,d | [,cc1]";italian4tab
+13;;8r;Bergamasca;;;Guitar;;none;"[cdca1] [cdca] | [daaa] [daaa] | [accc] [accc] | \
+[cdca] c/ | f3/4 d/ c a ,d | [accc1] [accc] | [cdca] ||";italian4tab
+14;;8v;Norcina;;;Guitar;;none;",b/ ,,c ,a1 | c/ d ,,c1 | a/ c | [daaa1] c || \
+,d/ ,b d ,,a c d ,,c d c [d,a1] d/ |";italian4tab
+15;;9r;Dama d'amor;;;Guitar;;none;"[bdca1] [bdca] b/ [bdca1] | [abac] | [bbcd] [bbcd] b/ [bbcd1] | \
+,,a ,,c | [bdda] [bdda] | [abac] [abac] | \
+[bbcd] [bbcd] b/ [bbcd1] ||";italian4tab
+16;;9v;Bruscello;;;Guitar;;none;",,,d/ ,,,c ,b ,,,a ,b ,a | [abac1] ,,a/ ,b || \
+[bbcd1] | [abac/] [abac] | [bdca1] b/ [bdca1] | \
+[abac] [abac] :|";italian4tab
+17;;10r;Giardin d amore;;;Guitar;;none;"[b,,a1] a/ [b,,a1] | a/ ,d | [accc1] [accc] | f/ | \
+[efe1] | [cdc] | [efe] | f/ e | [fccc1] [fccc] :||:";italian4tab
+18;;11r;E' diventato questo cor meschino;;;Guitar;;none;"[bbcd1] | [abac] [abac/] [abac1] | [bdca] | [accc] [accc] \
+a/ [accc1] | [bbcd] [daa] b a ,d | [accc1] | ,d/ ,c | \
+[cdca1] :||:";italian4tab
+19;;12r;Da poi che tu mi vo tradire per le languire non voglio più;;ff. 13r-16r empty;Guitar;;none;"[bdca1] [bdca] [bdca] | [accc] [accc] a/ [accc1] | \
+[abc] [abc] [bdd] | [dff] [dff] d [dff] | [daa] [daa] [abc] | \
+[bdd] [bdd] b/ [bdd1] [daa] |";italian4tab
+20;;16v;La pavaniglia;;;Guitar;;none;",,d/ ,,,b ,,,a ,,d ,,c ,,b ,,a ,,b ,,c ,,d ,,,a ,,c ,,d \
+,a ,,a ,,d ,,,a ,,,b ,,,c";italian4tab
+21;;16v;L aria di Pavia;;;Guitar;;none;",,,a/ ,,,c ,,,c ,,,b ,,,a ,,,b ,,d ,,,a ,,,b ,,,c \
+,,,a ,,,b ,,d ,,c ,,b ,,c ,,d ,,d ,,,a ,,,a";italian4tab
+22;;17r;Gagliarda;;;Guitar;;none;",,,a/ ,,,b ,,,c ,,,d ,,,e ,,,c ,,,a ,,,b ,,,c ,,,d \
+,,,d ,,,b ,,,c ,,,d ,,,d ,,,c ,,,b ,,,a ,,d ,,,a ,,c";italian4tab
+23;;17r;Saione;;;Guitar;;none;",,,a/ ,,,d ,,,d ,,,c ,,,c ,,,a ,,,b ,,,c ,,,b ,,,a ,,,a | \
+,,,a ,,,c ,,,c ,,,a ,,,b ,,,b ,,,a ,,d ,,d";italian4tab
+24;;17v;Ballo di Cavalli;;;Guitar;;none;",d/ ,,c ,d ,,c ,,d ,,,a ,,d ,,c ,,d ,,,a ,,,b ,,,c ,,,d ,,,c ,,,b \
+,,,c ,,,c ,,,a ,,,b ,,,d ,,,c";italian4tab
+25;;18r;La tarantella;;;Guitar;;none;",,,a/ ,,,b ,,,b ,,,a ,,,a ,,,b ,,,b ,,,d ,,,c ,,,b ,,,a \
+,,d ,,,a ,,c ,,d ,a |";italian4tab
+26;;18r;Il ballo al Fiore;;;Guitar;;none;",,,d/ ,,,c ,,,b ,,,c ,,,d ,,,d ,,,c ,,,b ,,,a ,,,b ,,,c ,,,c \
+,,,b ,,,a ,,d ,,c ,,d ,,,a ,,,b ,,,c";italian4tab
+27;;18v;La cici;;;Guitar;;none;",,,a/ ,,,c ,,,c ,,,b ,,,a ,,,b ,,,b ,,,c ,,,c ,,,d ,,,d \
+,,,e ,,,e ,,,d ,,,e ,,,d ,,,c ,,,c ,,,b ,,,b";italian4tab
+28;;18v;La callata;;;Guitar;;none;",,,c/ ,,,d ,,,e ,,,d ,,,c ,,,c ,,,d ,,,e ,,,d ,,,c \
+,,,b ,,d ,,c ,,c ,,d ,,,a ,,,b ,,,c";italian4tab
+29;;19r;Ballo di Mantova;;;Guitar;;none;",,d/ ,,,a ,,,b ,,,c ,,,d ,,,d ,,,d ,,,e ,,,e ,,,e ,,,d ,,,d \
+,,,d ,,,c ,,,c ,,,c ,,,d ,,,b ,,,c ,,,b ,,,a ,,d";italian4tab
+30;;19v;La spagnoletta;;;Guitar;;none;",,g/ ,d ,d ,,,b ,,,c ,,,b ,,,c ,,,d ,,,d ,,,b ,,,c ,,,d \
+,,,e ,,,d ,,,c ,,,b ,,,c ,,,d ,,,d ||";italian4tab
+31;;20r;Scappino;;;Guitar;;none;",,c/ ,,d ,,,a ,,,c ,,d ,,,a ,,,a ,,d ,,,a ,,c ,,b ,,c ,,a \
+,,a ,d ,,a ,,b ,,c ,,d ,,,a";italian4tab
+32;;20v;La cecona;;;Guitar;;none;",,c/ ,,d ,,,a ,,c ,,d ,,,a ,,,d ,,,c ,,,b \
+,,,a ,,d ,,,c ,,,a :||";italian4tab
+33;;20v;Saione;;;Guitar;;none;[aa] | d/ d d c c a b b ,d a a a c c c c b a ,d [ad] ,c ,c ||;italian4tab
+34;;21r;Gagliarda;;;Guitar;;none;c/ c | d e d c b a d c b ,d ,d a b c e d c d;italian4tab
+35;;21r;Romanesca;;;Guitar;;none;"c/ d c b a ,d ,c ,d ,e ,d ,c ,b ,a ,,d ,,b ,,d ,a \
+,,c ,,d ,,d ,,d ||";italian4tab
+36;;22r;Corrente franzese;;;Guitar;;none;b/ b a b d b a ,d ,d ,d a b c d c c b a a ||;italian4tab
+37;;22v;Latulluru;;;Guitar;;none;",,c/ ,,d ,,d ,a ,b ,a ,,d ,d ,d ,d ,c ,d :||: \
+,d ,d a b c ,d ,d c a a ,d ,d |";italian4tab
+38;;22v;Ciaccona;;;Guitar;;none;",,c/ ,,c ,,c | ,,a ,,b ,,c ,,,a ,,d ,,,a | ,,c || \
+,,,c ,,,c ,,,c ,,,b ,,,c | ,,,a ,,a ,,b ,,c ,,d ,,,a ,,e ,,,a |";italian4tab
