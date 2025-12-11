@@ -1,30 +1,30 @@
 Piece Nr;Key;Page nr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
 ;;;"Concordances from: Monica Hall (web) - Francesco Corbetta - The Best of All /b
 A study of his life and works (revised 2020)";;;;;;;
-1;;1;Prel.de;;b.fa.b.mi tierce mineur;guitar;;C;"c/ | ,d ,,e ,,,e ,,,,f ,,,,c d ,f ,,,,e | \
+1;b moll;1;Prel.de;;b.fa.b.mi tierce mineur;guitar;Conc_5579;C;"c/ | ,d ,,e ,,,e ,,,,f ,,,,c d ,f ,,,,e | \
 ,,d/ c X,d ,c ,,e ,d X,,c e | ,,a/ ,a (c Xa)";french5tab
-2;;1;Allemande du Roy;;la mesme en Musique fol.83;guitar;Conc_5489;C;"!strumup![cdeec3/4] !strumup![cdeec/4] | \
+2;b moll;1;Allemande du Roy;;la mesme en Musique fol.83;guitar;Conc_5489;C;"!strumup![cdeec3/4] !strumup![cdeec/4] | \
 !strumdown![cdeec1] !strumup![cdeec] !strumdown![cdeec] h3/4 h/4 | \
 !strumdown!X[ghg1] ,h !strumdown![hhh3/2] k/ | \
 !strumdown![lhhk2] X,,,,c1 ,c3/4 ,c/4 | \
 X,,d1 ,,,e '[,,e,c3/2] ,c/ |";french5tab
-3;;3;Cour.te;;;guitar;;3;"!strumup![cdeec/] | !strumdown![cdeec3/2] f/ d ,,e | \
+3;b moll;3;Cour.te;;;guitar;Conc_5580;3;"!strumup![cdeec/] | !strumdown![cdeec3/2] f/ d ,,e | \
 X,,c/ c !strumdown!X[aaa3/2] !strumup![ccdee/] | \
 !strumdown![ccdee1] X,,,c/ (,,,a/4 ,,,c ,,,e/) ,,,,e | \
 ,,,a/ ,,,,c !strumdown![cceec3/2] ,,d/ |";french5tab
-4;;4;Sarab.de;;;guitar;;3;"!strumdown![cdeec1] !strumup![cdeec] h | \
+4;b moll;4;Sarab.de;;;guitar;Conc_5581;3;"!strumdown![cdeec1] !strumup![cdeec] h | \
 !strumdown!X[ghg3/2] h/ [kh,i1] | !strumdown![fhh1] !strumup![fhh] h | \
 !strumdown!X[cdc3/2] !strumup![,ccc/] !strumdown![,ccc1] | \
 !strumdown![d,,c1] !strumup![d,,c] !strumdown![d,,c] | \
 !strumdown![dc,c3/2] !strumup![cdeec/] !strumdown![cdeec1] |";french5tab
-5;;4;Sarab.de;;;guitar;;3;"!strumdown![cdeec1] ,,,,c/ ,d [,f,,e1] | !strumdown![cdc1] ,,,a/ c !strumdown!X[,c,c1] | \
+5;b moll;4;Sarab.de;;;guitar;Conc_5582;3;"!strumdown![cdeec1] ,,,,c/ ,d [,f,,e1] | !strumdown![cdc1] ,,,a/ c !strumdown!X[,c,c1] | \
 !strumdown![cdecc1] !strumdown![cdeec3/2] ,,d/ | \
 [,ae,c1] ,,,e ,,e | !strumdown![cdeec1] ,,,,c/ ,d [,f,,e1] |";french5tab
-6;;5;Passa.lle;;;guitar;;3;"X[,cc1] X,,,e (,d/ ,c) | [,aa1] ,,,c (,c/ ,a) | \
+6;b moll;5;Passa.lle;;;guitar;;3;"X[,cc1] X,,,e (,d/ ,c) | [,aa1] ,,,c (,c/ ,a) | \
 ,,d/ ,a !strumdown![cceec3/2] ,,d/ | [,a'e,c1] ,,,e ,,e | \
 !strumdown![cdeec/]!strumup!e !strumdown![fccc] ,d \
 !strumdown![,ccc] !strumup!c |";french5tab
-7;;6;Allemande Cherie de son Altesse le Duc  d'Yorck;;la mesme en Musique fol. 89;guitar;;C;",b1 | !strumdown![bbcd1] ,,,d !strumdown![,fff/] (,,h X,,f) g | \
+7;b moll;6;Allemande Cherie de son Altesse le Duc  d'Yorck;;la mesme en Musique fol. 89;guitar;Conc_5583;C;",b1 | !strumdown![bbcd1] ,,,d !strumdown![,fff/] (,,h X,,f) g | \
 !strumdown![fgfdd1] ,,,,d [,,,da/] (,,,f X,,,d) ,,,c | \
 [,,,ab1] ,,a [,b,c/] (,d X,b) ,,d |";french5tab
 8;;7;Prel.de;;;guitar;;C;"d/ | ,e/ ,,f d ,,,,d ,,,f ,,f ,d X,,e | \
@@ -247,10 +247,10 @@ X[,bb3/2] (,d/ ,e1) | !strumdown![bbbdd1] (d/ b) ,e1 | \
 74;;54;Prelude;;;guitar;;C;"!strumdown!X[dddff2] !strumdown![dedfg3/2] ,d/ | \
 !strumdown![bbcd/] (,b ,d ,e) X[,ef,a3/2] ,d/ | \
 X[,dd2] [,,fe1] ,d/ ,,f | [,,df1] (,,f/ ,,d) X[,,ca3/2] ,,a/ |";french5tab
-75;;54;Alemande la Canossa;;;guitar;;C;"!strumup![dd,,b/] | !strumdown![dd,,b2] ,,,,a/ (,,,,d X,,,,b) ,,,,a | \
+75;;54;Alemande la Canossa;;;guitar;Conc_5577;C;"!strumup![dd,,b/] | !strumdown![dd,,b2] ,,,,a/ (,,,,d X,,,,b) ,,,,a | \
 ,,,,b1 ,,a '[,d,a] a3/4 c/4 | !strumdown![dd,,b2] !strumdown![fdfed1] d/ f | \
 (!strumdown![gd1] Xd1) [,,ce] (,,d/ ,,f) |";french5tab
-76;;56;Sarab.de;;;guitar;;3;"!strumdown![dd,,b1] !strumup![dd,,b/] f [g,a1] | \
+76;;56;Sarab.de;;;guitar;Conc_5578;3;"!strumdown![dd,,b1] !strumup![dd,,b/] f [g,a1] | \
 X[f,,a1] ,g [d,,b] | !strumdown![bdc1] ,,,a/ b [,ee,d1] | \
 !strumdown![bdddb1] ,,,,b [,e,,d] | ,,,d/ ,e X,d1 [ddd] |";french5tab
 77;;56;Passac.lle;;;guitar;;3;"!strumdown![dddd/] !strumup!f !strumdown!g1 | \

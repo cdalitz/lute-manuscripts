@@ -1,74 +1,168 @@
 PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
-1;C dur;24;Rondeau;F.Corbet;;guitar;;;;french5tab
-2;C dur;25;Gigue;F.Corbet;;guitar;;;;french5tab
-3;d moll;33;Passacaille;F.Corbetta;;guitar;;;;french5tab
-4;a moll;34;Allemande;;;guitar;;;;french5tab
-5;a moll;35;Allemande;;;guitar;;;;french5tab
-6;a moll;36;Courante;;;guitar;;;;french5tab
-7;a moll;36;Menuet;;;guitar;;;;french5tab
-8;a moll;37;Menuet;;;guitar;;;;french5tab
-9;C dur;37;Bourrée;;;guitar;;;;french5tab
-10;C dur;38;Gigue;;;guitar;;;;french5tab
-11;F dur;39;Passacaille;F. Corbetta;;guitar;;;;french5tab
-12;F dur;40;Courante;F. Corbetta;;guitar;Conc_5411;;;french5tab
-13;F dur;41;Sarabande;F. Corbetta;;guitar;Conc_5412;;;french5tab
-14;C dur;41;Sarabande;F. Corbetta;;guitar;Conc_5413;;;french5tab
-15;d moll;44;Allemande;F.C.;;guitar;Conc_5414;;;french5tab
-16;d moll;44;Courante;F. Corbetta;;guitar;;;;french5tab
-17;D dur;45;Sarabande;F. Corbetta;;guitar;Conc_5415;;;french5tab
-18;d moll;46;Gigue;F.C.;;guitar;;;;french5tab
-19;a moll;57;Passacaille;F. Corbet;;guitar;;;;french5tab
-20;G dur;60;Allemande;F.Corbet;;guitar;;;;french5tab
-21;G dur;60;Courante;F. Corbet;;guitar;;;;french5tab
-22;G dur;61;Sarabande;F. Corbet;;guitar;;;;french5tab
-23;G dur;62;Gigue;F. Corbet;;guitar;Conc_5416;;;french5tab
-24;A dur;63;Allemande;F.C.;;guitar;Conc_5417;;;french5tab
-25;D dur;65;Allemande;F.C.;;guitar;Conc_5418;;;french5tab
-26;G dur;66;Courante;F. Corbetta;;guitar;Conc_5419;;;french5tab
-27;d moll;67;Gigue;F.C.;;guitar;Conc_5420;;;french5tab
-28;d moll;68;Allemande;F. Corbetta;;guitar;;;;french5tab
-29;d moll;68;Courante;F. Corbetta;;guitar;;;;french5tab
-30;d moll;69;Sarabande;F. Corbetta;;guitar;;;;french5tab
-31;d moll;70;Gigue;F.Corbetta;;guitar;;;;french5tab
-32;e moll;72;Allemande;F.C.;;guitar;Conc_5421;;;french5tab
-33;e moll;73;Courante;F.C.;;guitar;;;;french5tab
-34;e moll;74;Gigue;F.C.;;guitar;Conc_5422;;;french5tab
-35;e moll;76;Allemande;F.C.;;guitar;Conc_5423;;;french5tab
-36;e moll;77;Gigue;F.C.;;guitar;Conc_5424;;;french5tab
-37;B dur;78;Allemande;F.C.;;guitar;Conc_5425;;;french5tab
-38;g moll;79;Allemande;F. Corbetta;;guitar;;;;french5tab
-39;g moll;80;Courante;F. Corbetta;;guitar;;;;french5tab
-40;g moll;80;Sarabande;F. Corbetta;;guitar;Conc_5426;;;french5tab
-41;g moll;81;Gigue;F. Corbetta;;guitar;;;;french5tab
-42;A dur;85;Allemande;F. Corbetta;;guitar;Conc_5427;;;french5tab
-43;A dur;87;Balet;F.C.;;guitar;Conc_5428;;;french5tab
-44;e moll;88;Allemande;F.C.;;guitar;Conc_5429;;;french5tab
-45;e moll;89;Courante;;;guitar;Conc_5430;;;french5tab
-46;e moll;90;Gigue;F.C;;guitar;Conc_5431;;;french5tab
-47;B dur;90;Allemande;F. Corbetta;;guitar;Conc_5432;;;french5tab
-48;B dur;92;Courante;F. Corbetta;;guitar;Conc_5433;;;french5tab
-49;B dur;92;Sarabande;F. Corbetta;;guitar;Conc_5434;;;french5tab
-50;B dur;93;Brand;F. Corbetta;;guitar;Conc_5435;;;french5tab
-51;F dur;95;Ballet;F. Corbetta;;guitar;;;;french5tab
-52;C dur;96;Chacone;F. Corbetta;;guitar;Conc_5436;;;french5tab
-53;g moll;99;Sarabande;F. Corbetta;;guitar;;;;french5tab
-54;d moll;100;Gigue;F.C.;;guitar;Conc_5437;;;french5tab
-55;g moll;106;Allemande;F. Corbetta;;guitar;;;;french5tab
-56;g moll;106;Sarabande;F. Corbetta;;guitar;Conc_5438;;;french5tab
-57;g moll;107;Gigue;F. Corbetta;;guitar;;;;french5tab
-58;g moll;108;Passacaille;F.C.;;guitar;;;;french5tab
-59;D dur;112;Gigue;F.C.;;guitar;Conc_5439;;;french5tab
-60;e moll;117;Gigue;F.C.;;guitar;Conc_5440;;;french5tab
-61;g moll;123;Prelude;F. Corbetta;;guitar;Conc_5441;;;french5tab
-62;f moll;124;Allemande;F. Corbetta;;guitar;;;;french5tab
-63;c moll;125;Courante;F. Corbetta;;guitar;Conc_5442;;;french5tab
-64;e moll;126;Allemande;F.C.;;guitar;Conc_5443;;;french5tab
-65;b moll;127;Allemande;F.C.;;guitar;Conc_5444;;;french5tab
-66;b moll;128;Courante;F.C.;;guitar;Conc_5445;;;french5tab
-67;d moll;128;Allemande;F.C.;;guitar;Conc_5446;;;french5tab
-68;D dur;131;Allemande;F. Corbetta;;guitar;;;;french5tab
-69;g moll;135;Ballet;F. Corbetta;;guitar;;;;french5tab
-70;g moll;135;Ballet;F. Corbet;;guitar;;;;french5tab
-71;d moll;136;Folies;F. Corbet;;guitar;;;;french5tab
-72;C dur;137;Sarabande;;;guitar;;;;french5tab
-73;G dur;154;Gigue;;;guitar;;;;french5tab
+1;c moll;6;Allemande Tombeau de Mr. Fco Corbetta;De Visée;;Guitar;Conc_1166;;;french5tab
+2;g moll;7;Allemande;De Visée;;Staff;Conc_1166;;;french5tab
+3;a moll;10;Prelude;De Visée;;Guitar;Conc_5529;;;french5tab
+4;a moll;11;Allemande;De Visée;;Guitar;Conc_5530;;;french5tab
+5;a moll;12;Courante;De Visée;;Guitar;Conc_5531;;;french5tab
+6;a moll;12;Sarabande;De Visée;;Guitar;Conc_5532;;;french5tab
+7;a moll;13;Gigue;De Visée;;Guitar;Conc_5533;;;french5tab
+8;a moll;14;Passacaille;De Visée;;Guitar;Conc_5534;;;french5tab
+9;a moll;15;Gavotte;De Visée;;Guitar;Conc_5535;;;french5tab
+10;a moll;16;Gavotte;De Visée;;Guitar;Conc_5536;;;french5tab
+11;a moll;16;Bourée;De Visée;;Guitar;Conc_5537;;;french5tab
+12;a moll;17;GIgue;M. Perez;;Guitar;;;;french5tab
+13;g moll;18;Allemande;;;Guitar;Conc_5577;;;french5tab
+14;g moll;19;Sarabande;F. Corbetta;;Guitar;Conc_5578;;;french5tab
+15;g moll;20;Allemande;Lelio;;Guitar;;;;french5tab
+16;g moll;20;Courante;Lelio;;Guitar;;;;french5tab
+17;G dur;21;Sarabande;De Visée;;Guitar;Conc_5538;;;french5tab
+18;d moll;22;Allemande;Lelio;;Guitar;;;;french5tab
+19;d moll;23;Sarabande;Lelio;;Guitar;;;;french5tab
+20;e moll;23;Gigue;M. Perez;;Guitar;;;;french5tab
+21;G dur;24;Gigue;De Visée;;Guitar;;;;french5tab
+22;C dur;24;Rondeau;F. Corbetta;;Guitar;;;;french5tab
+23;C dur;25;Gigue;F. Corbetta;;Guitar;;;;french5tab
+24;d moll;25;Sarabande;De Visée;;Guitar;Conc_5539;;;french5tab
+25;d moll;26;Sarabande;De Visée;;Guitar;Conc_5540;;;french5tab
+26;g moll;26;Gigue;De Visée;;Guitar;Conc_5541;;;french5tab
+27;g moll;27;Menuet;De Visée;;Guitar;Conc_5542;;;french5tab
+28;d moll;28;Gigue;De Visée;;Guitar;Conc_5543;;;french5tab
+29;d moll;29;Passacaille;De Visée;;Guitar;Conc_5544;;;french5tab
+30;d moll;30;Gavotte;De Visée;;Guitar;Conc_5545;;;french5tab
+31;d moll;30;Gavotte;De Visée;;Guitar;Conc_5546;;;french5tab
+32;d moll;31;Menuet rondeau;De Visée;;Guitar;Conc_5547;;;french5tab
+33;d moll;31;Menuet rondeau;De Visée;;Guitar;Conc_5548;;;french5tab
+34;d moll;32;Bourée;De Visée;;Guitar;Conc_5549;;;french5tab
+35;d moll;33;Passacaille;F. Corbetta;;Guitar;;;;french5tab
+36;a moll;34;Allemande;[F.C];;Guitar;;;;french5tab
+37;a moll;35;Allemande;[F.C];;Guitar;;;;french5tab
+38;a moll;36;Courante;[F.C];;Guitar;;;;french5tab
+39;a moll;36;Menuet;[F.C];;Guitar;;;;french5tab
+40;a moll;37;Menuet;[F.C];;Guitar;;;;french5tab
+41;C dur;37;Bourrée;;;Guitar;;;;french5tab
+42;C dur;38;Gigue;[F.C];;Guitar;;;;french5tab
+43;F dur;39;Passacaille;F. Corbetta;;Guitar;;;;french5tab
+44;F dur;40;Courante;F. Corbetta;;Guitar;Conc_5411;;;french5tab
+45;F dur;41;Sarabande;F. Corbetta;;Guitar;Conc_5412;;;french5tab
+46;F dur;41;Sarabande;F. Corbetta;;Guitar;Conc_5413;;;french5tab
+47;C dur;42;Chacone;J.B Granata;;Guitar;Conc_5584;;;french5tab
+48;D dur;43;Prelude;;;Guitar;;;;french5tab
+49;D dur;44;Allemande;F. Corbetta;;Guitar;Conc_5414;;;french5tab
+50;d moll;44;Courante;F. Corbetta;;Guitar;;;;french5tab
+51;D dur;45;Sarabande;F. Corbetta;;Guitar;Conc_5415;;;french5tab
+52;d moll;46;Gigue;F. Corbetta;;Guitar;;;;french5tab
+53;D dur;47;Chacone;J.B Granata;;Guitar;Conc_5585;;;french5tab
+54;d moll;48;Marizapalos;D. Michel Perez de Zavala;;Guitar;;;;french5tab
+55;G dur;52;Symphonie;J.B Granata;;Guitar;Conc_5586;;;french5tab
+56;d moll;53;Balet;J.B Granata;;Guitar;Conc_5587;;;french5tab
+57;C dur;53;Prelude;De Visée;;Guitar;Conc_5550;;;french5tab
+58;C dur;54;Allemande;De Visée;;Guitar;Conc_5551;;;french5tab
+59;C dur;55;Courante;De Visée;;Guitar;Conc_5552;;;french5tab
+60;C dur;56;Sarabande;De Visée;;Guitar;Conc_5553;;;french5tab
+61;C dur;56;Gigue;De Visée;;Guitar;Conc_5554;;;french5tab
+62;a moll;57;Passacaille;F. Corbetta;;Guitar;;;;french5tab
+63;C dur;58;Gavotte;De Visée;;Guitar;Conc_5555;;;french5tab
+64;C dur;58;Menuet;De Visée;;Guitar;Conc_5556;;;french5tab
+65;F dur;59;Chacone;De Visée;;Guitar;Conc_5557;;;french5tab
+66;G dur;60;Allemande;F. Corbetta;;Guitar;;;;french5tab
+67;G dur;60;Courante;F. Corbetta;;Guitar;;;;french5tab
+68;G dur;61;Sarabande;F. Corbetta;;Guitar;;;;french5tab
+69;G dur;62;Gigue;F. Corbetta;;Guitar;Conc_5416;;;french5tab
+70;A dur;63;Allemande;F. Corbetta;;Guitar;Conc_5417;;;french5tab
+71;a moll;64;Courante;J.B Granata;;Guitar;Conc_5588;;;french5tab
+72;G dur;64;Sarabande;J.B Granata;;Guitar;Conc_5589;;;french5tab
+73;D dur;65;Allemande;F. Corbetta;;Guitar;Conc_5418;;;french5tab
+74;G dur;66;Courante;F. Corbetta;;Guitar;Conc_5419;;;french5tab
+75;d moll;67;Gigue;F. Corbetta;;Guitar;Conc_5420;;;french5tab
+76;d moll;68;Allemande;F. Corbetta;;Guitar;;;;french5tab
+77;d moll;68;Courante;F. Corbetta;;Guitar;;;;french5tab
+78;d moll;69;Sarabande;F. Corbetta;;Guitar;;;;french5tab
+79;d moll;70;Gigue;F. Corbetta;;Guitar;;;;french5tab
+80;G dur;71;Symphonie;J.B Granata;;Guitar;Conc_5586;;;french5tab
+81;e moll;72;Allemande;F. Corbetta;;Guitar;Conc_5421;;;french5tab
+82;e moll;73;Courante;F. Corbetta;;Guitar;Conc_5601;;;french5tab
+83;d moll;74;Sarabande;J.B Granata;;Guitar;Conc_5590;;;french5tab
+84;e moll;74;Gigue;F. Corbetta;;Guitar;Conc_5422;;;french5tab
+85;e moll;75;Passacaille;J.B Granata;;Guitar;Conc_5591;;;french5tab
+86;e moll;76;Allemande;F. Corbetta;;Guitar;Conc_5423;;;french5tab
+87;e moll;77;Gigue;F. Corbetta;;Guitar;Conc_5424;;;french5tab
+88;B dur;78;Allemande;F. Corbetta;;Guitar;Conc_5440;;;french5tab
+89;g moll;79;Allemande;F. Corbetta;;Guitar;;;;french5tab
+90;g moll;80;Courante;F. Corbetta;;Guitar;;;;french5tab
+91;g moll;80;Sarabande;F. Corbetta;;Guitar;Conc_5426;;;french5tab
+92;g moll;81;Gigue;F. Corbetta;;Guitar;;;;french5tab
+93;G dur;82;Passacaille;J.B Granata;;Guitar;Conc_5592;;;french5tab
+94;A dur;82;Allemande;De Visée;;Guitar;Conc_5558;;;french5tab
+95;A dur;84;Courante;De Visée;;Guitar;Conc_5559;;;french5tab
+96;A dur;84;Sarabande;De Visée;;Guitar;Conc_5560;;;french5tab
+97;A dur;85;Allemande;F. Corbetta;;Guitar;Conc_5427;;;french5tab
+98;A dur;86;Passacaille;Gaspar Sanchez;;Guitar;Conc_5436;;;french5tab
+99;A dur;87;Balet;F. Corbetta;;Guitar;Conc_5428;;;french5tab
+100;e moll;88;Allemande;F. Corbetta;;Guitar;Conc_5429;;;french5tab
+101;e moll;89;Courante;;;Guitar;Conc_5430;;;french5tab
+102;e moll;90;Gigue;F. Corbetta;;Guitar;Conc_5602;;;french5tab
+103;B dur;90;Allemande;F. Corbetta;;Guitar;Conc_5603;;;french5tab
+104;B dur;92;Courante;F. Corbetta;;Guitar;Conc_5433;;;french5tab
+105;B dur;92;Sarabande;F. Corbetta;;Guitar;Conc_5434;;;french5tab
+106;B dur;93;Brand;F. Corbetta;;Guitar;Conc_5435;;;french5tab
+107;B dur;94;Passacaille;J.B Granata;;Guitar;Conc_5593;;;french5tab
+108;F dur;95;Ballet;F. Corbetta;;Guitar;;;;french5tab
+109;C dur;96;Chacone;F. Corbetta;;Guitar;Conc_5459;;;french5tab
+110;D dur;98;Allemande;F. Corbetta;;Guitar;Conc_5484;;;french5tab
+111;D dur;98;Courante;F. Corbetta;;Guitar;Conc_5482;;;french5tab
+112;g moll;99;Sarabande;F. Corbetta;;Guitar;;;;french5tab
+113;d moll;100;Gigue;F. Corbetta;;Guitar;Conc_5437;;;french5tab
+114;g moll;101;Prelude;De Visée;;Guitar;Conc_5561;;;french5tab
+115;g moll;102;Allemande;De Visée;;Guitar;Conc_5562;;;french5tab
+116;g moll;103;Courante;De Visée;;Guitar;Conc_5563;;;french5tab
+117;g moll;104;Double de la Courante;De Visée;;Guitar;Conc_5564;;;french5tab
+118;g moll;105;Sarabande;De Visée;;Guitar;Conc_5565;;;french5tab
+119;g moll;106;Allemande;F. Corbetta;;Guitar;;;;french5tab
+120;g moll;106;Sarabande;F. Corbetta;;Guitar;Conc_5438;;;french5tab
+121;g moll;107;Gigue;F. Corbetta;;Guitar;;;;french5tab
+122;g moll;108;Passacaille;F. Corbetta;;Guitar;;;;french5tab
+123;g moll;110;Gavotte;De Visée;;Guitar;Conc_5566;;;french5tab
+124;G dur;111;Sarabande;De Visée;;Guitar;Conc_5567;;;french5tab
+125;D dur;112;Gigue;F. Corbetta;;Guitar;Conc_5439;;;french5tab
+126;c moll;112;Passacaille;J.B Granata;;Guitar;Conc_5594;;;french5tab
+127;d moll;114;Prelude;De Visée;;Guitar;Conc_5568;;;french5tab
+128;d moll;114;Allemande;De Visée;;Guitar;Conc_5569;;;french5tab
+129;d moll;116;Courante;De Visée;;Guitar;Conc_5570;;;french5tab
+130;d moll;116;Sarabande;De Visée;;Guitar;Conc_5571;;;french5tab
+131;e moll;117;Gigue;F. Corbetta;;Guitar;Conc_5440;;;french5tab
+132;a moll;118;Passacaille;J.B Granata;;Guitar;Conc_5595;;;french5tab
+133;c moll;119;Prelude;De Visée;;Guitar;Conc_5572;;;french5tab
+134;c moll;120;Courante;De Visée;;Guitar;Conc_5573;;;french5tab
+135;c moll;121;Sarabande;De Visée;;Guitar;Conc_5574;;;french5tab
+136;c moll;122;Sarabande;De Visée;;Guitar;Conc_5575;;;french5tab
+137;c moll;122;Gavotte;De Visée;;Guitar;Conc_5576;;;french5tab
+138;c moll;123;Prelude;F. Corbetta;;Guitar;Conc_5441;;;french5tab
+139;f moll;124;Allemande;F. Corbetta;;Guitar;;;;french5tab
+140;c moll;125;Courante;F. Corbetta;;Guitar;Conc_5442;;;french5tab
+141;e moll;126;Allemande;F. Corbetta;;Guitar;Conc_5443;;;french5tab
+142;b moll;127;Allemande;F. Corbetta;;Guitar;Conc_5444;;;french5tab
+143;b moll;128;Courante;F. Corbetta;;Guitar;Conc_5445;;;french5tab
+144;d moll;128;Allemande;F. Corbetta;;Guitar;Conc_5446;;;french5tab
+145;d moll;130;Passacaille;J.B Granata;;Guitar;Conc_5596;;;french5tab
+146;D dur;131;Allemande;F. Corbetta;;Guitar;;;;french5tab
+147;d moll;132;Courante;De Visée;;Guitar;Conc_5539;;;french5tab
+148;F dur;132;Passacaille;J.B Granata;;Guitar;Conc_5597;;;french5tab
+149;Eb dur;134;Passacaille;J.B Granata;;Guitar;Conc_5598;;;french5tab
+150;g moll;135;Ballet;F. Corbetta;;Guitar;;;;french5tab
+151;g moll;135;Ballet;F. Corbetta;;Guitar;;;;french5tab
+152;d moll;136;Folies;F. Corbetta;;Guitar;;;;french5tab
+153;C dur;137;Sarabande;;;Guitar;;;;french5tab
+154;G dur;138;Chacone dite Mariona;Lelio;;Guitar;;;;french5tab
+155;a moll;140;Air;M. Perez;;Guitar;Conc_5605;;;french5tab
+156;G dur;141;Grunidora;;;Guitar;;;;french5tab
+157;D dur;142;Trompetes;G. Sanchez;;Guitar;Conc_5604;;;french5tab
+158;a moll;143;Romanesque;J.B Granata;;Guitar;Conc_5599;;;french5tab
+159;c moll;144;Ricercata soave;J.B Granata;;Guitar;Conc_5600;;;french5tab
+160;d moll;146;Folies;;;Guitar;;;;french5tab
+161;b moll;148;Prelude;;;Guitar;Conc_5579;;;french5tab
+162;b moll;148;Allemande;;;Guitar;Conc_5489;;;french5tab
+163;b moll;150;Courante;;;Guitar;Conc_5580;;;french5tab
+164;b moll;151;Sarabande;;;Guitar;Conc_5581;;;french5tab
+165;b moll;152;Sarabande;;;Guitar;Conc_5582;;;french5tab
+166;F dur;152;Allemande;;;Guitar;Conc_5583;;;french5tab
+167;G dur;154;Gigue;;;Guitar;;;;french5tab
