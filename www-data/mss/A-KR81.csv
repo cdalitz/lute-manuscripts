@@ -1,13 +1,14 @@
 PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
-1;F dur;20r;Courante de Goutier;;#1 - PAN 4.188;10a;;3;"h1 | [hg{8}] | [f{a}3/2] h/ ,g ,h | [,fg2] {10}1 | ,,,,,e3 | \
+1;F dur;20r;Courante de Goutier;;PAN 4.188;10a;;3;"h1 | [hg{8}] | [f{a}3/2] h/ ,g ,h | [,fg2] {10}1 | ,,,,,e3 | \
 [,,c,,a1] ,a [,c{a}] | [a{8}1]> [c{9}] c1 | {8}1 d [,,,,d{10}] | ";
-2;g moll;20v;Courande Isabell (old tuning);;#2 - PAN 4.189;6a;Conc_316;3;",,,a/ ,,,c | [,,ad{a}1]> ,,c [,a,d1] | [,,c,d1] {8}/ ,,e [,,aa] \
+2;g moll;20v;Courande Isabell (old tuning);;PAN 4.189 - Incomplete;6a;Conc_316;3;",,,a/ ,,,c | [,,ad{a}1]> ,,c [,a,d1] | [,,c,d1] {8}/ ,,e [,,aa] \
 ,,c | [,,,ca2] {10}1 | [,,,ca1] ,a1> ,b | [,da,a1] ,,,,,b3/2 \
 [,b,,,d/4] ,d | ";
-3;;21v;[Courante];;Start on f.21r missing;OT;;3;;
-4;;22v;Courand Goutier;;#4;OT;;3;"a1 | [abd,a1] {10} f | [e,,,,,a2] a/ ,d | ,b1 {10} ,,,,a | \
+3;;21v;[Courante];;Start on f.21r missing;OT;;3;"y3 y3 | ,,,d/ ,d ,,d ,f ,d f | ,,,,,a/ ,a ,,c a [,b{,a}1] | \
+,,d/ {a} ,,,,,a ',a ,,c ,a |";
+4;;22v;Courand Goutier;;;OT;;3;"a1 | [abd,a1] {10} f | [e,,,,,a2] a/ ,d | ,b1 {10} ,,,,a | \
 [abd2] f1 | d1 {8} ,f | ,d2 ,b/ ,d | ";
-5;g moll;24r;Guttiers Stück so er dem Fürsten von Eggenberg dedicieret;P.Gaultier;#5 - PAN 1.013;6a;Conc_358;C;"[caaa{a}2] [faaa{a}1] [e,,,,a] | [ca,,,b1] {a} [,aa,,b/] ,c \
+5;g moll;24r;Guttiers Stück so er dem Fürsten von Eggenberg dedicieret;P.Gaultier;PAN 1.013;6a;Conc_358;C;"[caaa{a}2] [faaa{a}1] [e,,,,a] | [ca,,,b1] {a} [,aa,,b/] ,c \
 [,ec,,a1] | [caa{a}1] ,a/ [,,cc] [,,aa] ,,,e [,,cc] ,a | \
 [caaa1] ,,,,d/ ,,,,b [a,a,a1] [,b,c,d] | ";
 6;g moll;26v;Praeludium;P.Gaultier;PAN 1.060;6a;Conc_1138;C;"{a} ,,,,a ,,,a ,,a ,a c e f {10} ,,,,a ,,,c ,,e ,e ,,,,,d \
@@ -15,41 +16,41 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNota
 7;g moll;27v;Allemande;P.Gaultier;PAN 3.071;6a;Conc_1141;C;",,,a1 | [,,,af3/2] ,,,c/ ,,a [,a,,,b] [,,c,,d/]> ,,a | \
 ,,,c/ ,,,,a {10}/> ,,,d [,,,a{9}/] ,,c [,,cdd{8}] ,,,c | \
 [,,ad/] ,,,,,b (,a ,b)";
-8;g moll;28r;Sarabande;P.Gaultier;PAN 5.145;6a;Conc_1143;3;"[,aaa{a}1]> [,aaa] ,,,,,a1 | [,,'cce1]> ,a {9}1 | \
+8;g moll;28r;Sarabanda;P.Gaultier;PAN 5.145;6a;Conc_1143;3;"[,aaa{a}1]> [,aaa] ,,,,,a1 | [,,'cce1]> ,a {9}1 | \
 [,baab1] ,a {8} | [,,cd3/2] ,,a/4 ,,,c ,,a1 | \
 [,a,,,b1] a [,b,,,d] | [,b,a3/2] ,a/4 ,b [,a{a}1] | ";
 9;g moll;28v;Courante;P.Gaultier;PAN 4.190;6a;Conc_1142;3;"f1 | [faaa{a}3] | ['ea,,e1] f [c,,a] | ['b,,,a1] {10}1> c | \
 [caa{a}1] [,'c,,,d3/2] ,a/4 ,c | [a{8}1] [,,cc] [,a,,d] | \
 [,b,a1] ['a,,c3/2] ,b/4 a | ";
-10;g moll;29r;Sarab.;P.Gaultier;PAN 5.146;6a;Conc_1144;3;"[faa{a}1] h {10} | ['e,,,a3/2] ,f/4 e ,f1 | [,faa{9}1] \
+10;g moll;29r;Sarabe:;P.Gaultier;PAN 5.146;6a;Conc_1144;3;"[faa{a}1] h {10} | ['e,,,a3/2] ,f/4 e ,f1 | [,faa{9}1] \
 {8}/ ,f a ,b | [,'a{}3/2] ,,c/4 ,a ,,a1 | ,,,,,a/ ,,c ,,,,d a";
-11;g moll;29v;Corrente;P.Gaultier;PAN 4.191;6a;Conc_1145;3;",,a1 | [,,aa{a}3/2] ,,c/ [,,'a/] ,,c | ,a/ {8} [,,'c{8}3/2] \
-,,,d/4 ,,c | ,a1 ,,,,a1> ,,,,c | [,aece3/2] (,,c/ ,,a/ ,,,c) | \
+11;g moll;29v;Corrente;P.Gaultier;PAN 4.191;6a;Conc_1145;3;",,a1 | [,,aa{a}3/2] ,,c/ [,,'a] ,,c | ,a/ {8} [,,'c{8}3/2] \
+,,,d/4 ,,c | ,a1 ,,,,a1> ,,,,c | [,aece3/2] (,,c/ ,,a ,,,c) | \
 ,,a1 {a}/ ,,c ,a ,,a | ";
 12;g moll;30r;Sarabanda;P.Gaultier;PAN 5.147;6a;Conc_1147;3;"[caa{a}1] e f | ['ea,,e1]> c {a}1 | [caaa1] c/ (a/4 ,c) \
 [a,,,a1] | [,'c,,,a3/2] ,,e/4 ,c ,,e1 | [,aeca1] a [,b,,,d] | ";
-13;g moll;30v;Sarab.;;PAN 5.148;6a;Conc_1659;3;"[aaa,,b1] [aaa] [aaa] | [ca{a}1]> e [f,,a1] | \
+13;g moll;30v;Sarabe:;;PAN 5.148;6a;Conc_1659;3;"[aaa,,b1] [aaa] [aaa] | [ca{a}1]> e [f,,a1] | \
 f1 [e,,,a3/2] ,f/4 e | ,f1 {,,a} ,,a | h1 {,a}/ f e ,f | ";
-14;g moll;31r;Courante Le Rine;Jacques Cordier;#14 - PAN 4.192;6a;Conc_834;3;"[,,'a{a}/] ,,c ,a | [,,'a1]> ,,,a ,f1 | [,e,,a1]> \
+14;g moll;31r;Courante Le Rine;Jacques Cordier;PAN 4.192;6a;Conc_834;3;"[,,'a{a}/] ,,c ,a | [,,'a1]> ,,,a ,f1 | [,e,,a1]> \
 ,a f1 | e1 ['c,,a] a/ c | e1 ,,,,a/ c 'a ,b | [,a,,,b1]> \
 [,,'c{,a}] ,,,c1 | ";
 15;g moll;31r;Sarabanda;;PAN 5.024;6a;;3;"[,aaa{a}1] [,aaa] [,'c,,,d/] c | [b,,,a1]> c [caaa{a}1] | \
 ,a1 [,,c,e] [,,a,,a] | [,,,'c{,,,a}] ,,,,e ,,,a | \
 ['faaa{a}1] [faaa] [e,,,d] | [c,,,'b1]> ,,c [,a{,,a}1] | ";
-16;g moll;31v;Couranta;;PAN 4.193;6a;Conc_330;3;",a1 | [,aaa{a}3] | [,ccc,d3/2] a/ [c,,,b/] e | [b,,,a1] {,,,a}/ \
+16;g moll;31v;Couranta;;PAN 4.193;6a;Conc_330;3;",a1 | [,aaa{a}3] | [,ccc,d3/2] a/ [c,,,b] e | [b,,,a1] {,,,a}/ \
 c e ,,,,,d | ,,,,,b1 c [b,,,,a] | ['c,,,,a1] ,a ,c | \
 ['a,,,a1] c e | ";
-17;d moll;32r;Courante;;;;;3;"e1 | [edaaa3] | ['c,,,,e3/2] e/ [a,,,a/] c | [,'c,,,a1] [,,'e] \
-,a/ ,c | [a,,,a1]> ,a ,,d/ ,a | [,,bc3/2] ,,a/ ,,,c [,,,aa1] | ";
+17;d moll;32r;Courante/Courant:;;;;;3;"e1 | [edaaa3] | ['c,,,,e3/2] e/ [a,,,a] c | [,'c,,,a1] [,,'e] \
+,a/ ,c | [a,,,a3/2] ,a/ ,,d ,a | [,,bc3/2] ,,a/ ,,,c [,,,aa1] | ";
 18;d moll;32r;Sarab.;;;;;3;"[edaaa1] [edaa] [edaa] | ['c,,,,e1] e [aaaaa] | \
 ['c,,,,'b3/2] ,d/4 c ,d1 | [ada{,a}1] [ada] (c/ a) | \
 [,c,,,d1] (a/ c) [e{,a}1] | ";
-19;d moll;32v;Allemande;;"incomplete; missing page (f.33r-33v)";;;-;",a | [,aaa{,,,a}] ,,d ,a [,,'bc] ,,a ,,b ,,a ,,,,d | \
+19;d moll;32v;Allemande;;"incomplete; missing pages ff.33r-33v";;;-;",a | [,aaa{,,,a}] ,,d ,a [,,'bc] ,,a ,,b ,,a ,,,,d | \
 ,a [,c,c] a ,,a [c,b] [e,a] [f,,c] [,,d,c] ,,b | ";
 20;g moll;34r;Sarab.;Merville;PAN 5.011;6a;Conc_141;3;"[,,aaa{a}1] [,,aaa] [,,aaa] | [,,,c{,,,a}2] {,,a}1 | \
 (,,,,b/ ,,,a ,,a1) ,,,,,d | [,,,'ca2] {a}1 | | [,faa1] [,faa] \
 [,faa] | ,,,,,a/ ,f [,'d] ,,f ,a ,,a | ";
-21;g moll;34v;Allemande;(A.C.) Pinel;#21 - PAN 3.013;6a;Conc_295;C;",a1 | [,aaa{a}1] ,a/ ,a [,aece1] V[,,c/] ,a | \
+21;g moll;34v;Allemande;(A.C.) Pinel;PAN 3.013;6a;Conc_295;C;",a1 | [,aaa{a}1] ,a/ ,a [,aece1] V[,,c/] ,a | \
 [,,ac{a}/] [,,,'a] ,,,c ,,a [,,c,,d] ,a [,,'a{a}] ,,,c ,,a | ";
 22;g moll;35r;Courante;A.C. (Merville);"""la maggior cosa che habbi da fare è anima tua salvare"" - PAN 4.024";6a;Conc_350;3;"c | [caaa{a}1] ,,,a [caaa] | [ee,,a1] ,f ,e/ e | \
 [faaa1] {a}1> e | ['c,,,,d1] a ,c/ c | e1 {,a}1> c | ";
@@ -58,27 +59,27 @@ c e ,,,,,d | ,,,,,b1 c [b,,,,a] | ['c,,,,a1] ,a ,c | \
 ,,,,,b1 ,,c [,acd] | [,,cac1]> ,,a [,,,cd1] | ";
 24;g moll;36r;Praeludium;;PAN 1.061;6a;;-;"({a} ,,,,a ,,,a ,,a ,a c) c ,a ,,a ,,,a ,,,,a \
 ({a} ,,,,a ,,,a ,,a ,a c) {,,,a} ,,,,a ,,a a";
-25;g moll;36v;Courant;P.Gaultier;#25 - PAN 4.194;6a;Conc_1146;3;"c1 | [caaa{a}3] | ['f{,,,a}1] [e,,,a3/2] ,f/4 e | \
+25;g moll;36v;Courant;P.Gaultier;PAN 4.194;6a;Conc_1146;3;"c1 | [caaa{a}3] | ['f{,,,a}1] [e,,,a3/2] ,f/4 e | \
 ,f1 {,,a} ,,,,b | [cba1]> c 'a/ ,b/4 a | ,a1 ,,,,,b/ \
 ,a [,,c,,a] ,a | ";
-26;g moll;37r;Allemanda;P.Gaultier;#26 - PAN 3.072;6a;Conc_1139;-;"c1 | [caaa{a}3/2] 'c/ ['e,c] [c,a] ['b,,c/]> c | \
+26;g moll;37r;Allemande:;P.Gaultier;PAN 3.072;6a;Conc_1139;-;"c1 | [caaa{a}3/2] 'c/ ['e,c] [c,a] ['b,,c/]> c | \
 Vc {a} ,a [,'c] [ace] ,,a c ,,c ,c e | [,ee] ,,,,a";
-27;g moll;37v;Courante;P.Gaultier;#27 - PAN 4.040;6a;Conc_362;3;",a1 | [,aaa{a}3] | [,aece1] [,,'c] [,acd] | [,,'a{a}1] \
+27;g moll;37v;Courante:;P.Gaultier;PAN 4.040;6a;Conc_362;3;",a1 | [,aaa{a}3] | [,aece1] [,,'c] [,acd] | [,,'a{a}1] \
 ,,,a [,,'c,,d] | ,,a1 [,,,'ca1]> ,,,,e | ,,,a1 {a} V[,,,c] | \
 [,,a{,a}1] [,,'c{,,a}] (,,,d/ ,,c | ,a1)";
-28;g moll;38r;Cour.;P.Gaultier;#28 - PAN 4.195;6a;Conc_1140;3;",a1 | [,aaa{a}3/2] ,b/ [,'a/] ,,a | [,,cc1] [,,,'a] [,a,,e/]> ,,c | \
+28;g moll;38r;Cour:;P.Gaultier;PAN 4.195;6a;Conc_1140;3;",a1 | [,aaa{a}3/2] ,b/ [,'a/] ,,a | [,,cc1] [,,,'a] [,a,,e/]> ,,c | \
 [,,'aa1] {a} [,,,cd/]> ,,a | [,,,ab3/2] ,d/ [,'b/]> ,a | [,,ccd3/2] \
 ,a/ [,b,a/] ,,,c | ";
-29;g moll;38v;Sarabanda;P.Gaultier;#29 - PAN 5.016;6a;Conc_354;3;"[,aaa{a}1] [,aaa] [,,'c,,d/] ,,a | [,,,'c{,,,a}1] ,,,a {,,a} | \
+29;g moll;38v;Sarabande:;P.Gaultier;PAN 5.016;6a;Conc_354;3;"[,aaa{a}1] [,aaa] [,,'c,,d/] ,,a | [,,,'c{,,,a}1] ,,,a {,,a} | \
 [,baab1] [,'a] {,a} | [,,'c,d3/2] ,,a/4 ,,,c ,,a1 | \
 [,a,d1] ,c [,e,c] | [caaa1] (c/ a) [,c,,,d1] | ";
-30;g moll;39r;Sarab.;Merville;#30 - PAN 5.149;6a;Conc_835;3;"[,faa{a}1] [,faa] [,faa] | [,'d{,,,a}1] ,,f ,a | \
+30;g moll;39r;Sarabe:;Merville;PAN 5.149;6a;Conc_835;3;"[,faa{a}1] [,faa] [,faa] | [,'d{,,,a}1] ,,f ,a | \
 a1 [,'b,,,d] a | [,a,,,b1] ,,,,d [,aad] | [,,c,,a1] \
 ,,,,e ,a | [,,'a{a}1] ,,,c/ ,,a ,,,a1 | ";
-31;g moll;39v;sans titre;;PAN 5.150;6a;;3;"[,aaa{a}1] [,aaa] [,aaa] | [,,'c,,a1]> ,a [,a,,,b1] | \
+31;g moll;39v;[Sarabande];;PAN 5.150;6a;;3;"[,aaa{a}1] [,aaa] [,aaa] | [,,'c,,a1]> ,a [,a,,,b1] | \
 [,c,,,d1] a [c,,,b] | ['b,,,a1] c [caaa] | [,,,'cd1]> \
 ,,a ,,c1 | [,,c{,a}2] [,,a{,,a}1] | [,,a,b1] [,,'c{,,a}3/2]";
-32;B dur;39v;Landerli;Merville;#32 Lanturlu - PAN 13.009;6a;Conc_301;C;"[,aad1] ,,,c [,,aa] [,,c,d] | [,'a,d3/2] ,,c/4 ,a ,,a1 \
+32;B dur;39v;Landerli;Merville;Lanturlu - PAN 13.009;6a;Conc_301;C;"[,aad1] ,,,c [,,aa] [,,c,d] | [,'a,d3/2] ,,c/4 ,a ,,a1 \
 ,,,,,b | [aaad1] c [a,,,,d] [,'c] | a1 {,a} [,adcc2] | | \
 [a,,d1] [a,,c] [c,,a] [e,,,e] | ";
 33;g moll;40r;[Heureux séjour de Parthénice];A. Boësset;PAN 13.039;6a;Conc_1660;3;"[caaa{a}1] 'e [faaa] | [e,e1] [,,'c] [c,,d] | \
@@ -87,19 +88,19 @@ a1 [,'b,,,d] a | [,a,,,b1] ,,,,d [,aad] | [,,c,,a1] \
 34;g moll;40v;sans titre;;PAN 4.102;6a;;3;"c1 | [caaa{a}1]> e f1 | [ea,,e1] [caaa] ,,c | \
 [,,de1] ,,,,a [,c,,,d] | [,a,,,b1] [,d,,a] [c,,,c] | \
 [e,,,,a1] c/ e ['c{a}1] | [,d1] [,'c,,,a3/2] ,,e/4 ,c | ";
-35;g moll;41r;Sarab.;;PAN 5.151;6a;;3;"[,aaa{a}1] ,f ,,,,,d | {,,,a}1 ,,,,a [,'e] | \
+35;g moll;41r;Sarabe:;;PAN 5.151;6a;;3;"[,aaa{a}1] ,f ,,,,,d | {,,,a}1 ,,,,a [,'e] | \
 ,f1 {a} {,a} | [,,ccd2] ,,,,,b1 | [,aadd2] [,,a{,,a}1] | \
 ,,c1 {,a} [,,,'c] | ,,a1 ,,,,,b/ ,,,,d [,aad1] | | ";
-36;F dur;41v;Balleto;P.Gaultier;#36 - PAN 12.019;6a;Conc_1149;C;",,c1 | [,,ccd{,a}3/2] ,a/ [,,'a{a}] {,a} [,,'c{,,a}] ,,a | \
+36;F dur;41v;Balleto;P.Gaultier;PAN 12.019;6a;Conc_1149;C;",,c1 | [,,ccd{,a}3/2] ,a/ [,,'a{a}] {,a} [,,'c{,,a}] ,,a | \
 [,,,'c1] {,a}/ {a} [,,c,,a3/2] ,a/ | [,aaddb3/2] a/ [,c,,,d] \
 ,,c e e | ";
-37;F dur;42r;[Second ballet];P.Gaultier;#37 - PAN 12.020 - p.42v empty;6a;Conc_1150;C;"e/ | [edcc{,a}3/2] e/ ['c,,,,d] e [a,,,a] c | [,'cd,,a3/2] \
+37;F dur;42r;[Second ballet];P.Gaultier;PAN 12.020 - f.42v empty;6a;Conc_1150;C;"e/ | [edcc{,a}3/2] e/ ['c,,,,d] e [a,,,a] c | [,'cd,,a3/2] \
 a/ [,a,,,b] ,a [,'c] a | [cc1] ,,,,,d/ [,,,,,'b] ,,,,,a \
 h [,'f{a}]";
 38;G dur;43r;Allemande;R.Mesangeau;PAN 3.040;1a;Conc_833;C;"[,aaa{a}1] ,,,,a/ ,,,a [,aa1] [,,'b/]> ,,d | \
 ,,a/ {a} ,,,,a ,,,a [,aa1]> ,,,,d | [,,,,'c/] [,,'b] \
 ,,,a ,a ,,,,a ,c ,d a | ";
-39;G dur;43v;Sarabande;Jean Heart;#39 - PAN 5.028;1a;Conc_313;3;"[,aaa{a}1] [,aaa] [,aaa] | [,,bc,a1]> ,a ,,a1 | \
+39;G dur;43v;Sarabande;Jean Heart;PAN 5.028;1a;Conc_313;3;"[,aaa{a}1] [,aaa] [,aaa] | [,,bc,a1]> ,a ,,a1 | \
 ,,,,,c1 [,,aaa] ,,,,,d | [,,,'c{,,,a}3/2] ,,,a/4 ,,,c ,,,a1 | \
  | [,ca,d1] [,cba] [,cba] | V[,d1] ,,,,a [,ca,c] | ";
 40;G dur;43v;[Chanson];;PAN 13.099;2a;;C;"['baaa{a}1] ,a ,,a ,,,a | [baaa{a}1] ,a ,,a ,,,a | \
@@ -110,16 +111,16 @@ h [,'f{a}]";
 [,,,a{,,a}] ,,,c | ,,,,e1 {,,,a}2";
 42;G dur;44r;Prelud.;;PAN 1.062;1a;;-;"({a} ,,,,a ,,,a ,,a ,a) ,,a ,,,a ,,,,a {a} ,,,,a ,,,a ,,a ,a \
 ({,a} ,,,,a ,,,c ,,d ,a)";
-43;D dur;44v;Sarabd.;;PAN 5.152;2a;Conc_837;3;"[da,,a1] [da] [da] | ['aa,,a3/2] ,c/4 a ,a1 | [faa{a}1] \
+43;D dur;44v;Sarabe:;;PAN 5.152;2a;Conc_837;3;"[da,,a1] [da] [da] | ['aa,,a3/2] ,c/4 a ,a1 | [faa{a}1] \
 [faa] [d{,a}] | ['bca{,,a}1]> a ,c1 | [da{,a}1] [da] \
 [bc{,,a}] | ['a{,,,a}3/2] ,c/4 a ,a1 | ";
-44;D dur;45r;Mairin;;Die Meierin (#44) - PAN 13.101;2a;Conc_1661;C;"[aad,a1] [aa] | [,c,,,e1] [aa,,a] [,aa,,c] [,,c,,a] | \
+44;D dur;45r;Maorin [Mairin?];;Die Meierin - PAN 13.101;2a;Conc_1661;C;"[aad,a1] [aa] | [,c,,,e1] [aa,,a] [,aa,,c] [,,c,,a] | \
 [,,aa{a}1] [,,,c{,a}] [,,aa{a}] [,,,c{,a}] | [,,a{,,a}/] \
 ,,c [,ad{,,,a}1] [,cd,,a] ,,c | ,a1 {,,,a} | | ";
-45;D dur;45v;Courante;;#45 - PAN 4.025;2a;Conc_5200;3;",a1 | [,ad,a1] {,,,a} [,ad] | [,c,,,a3/2] a/ b d | \
+45;D dur;45v;Courante;;PAN 4.025;2a;Conc_5200;3;",a1 | [,ad,a1] {,,,a} [,ad] | [,c,,,a3/2] a/ b d | \
 a1 ,,,,,c ,,,,e | [aaae1] [,,,,,'a] [faa{a}] | [d{,a}1] \
 ,a d | [b{,,a}1] ['a{,,,a}3/2] ,c/ a | ";
-46;D dur;46r;Ich nimb zu mir (mein Flagolet);A.C;#46 - PAN 13.046;2a; Conc_367;3;"[,adca1] [,adc] [,adc] | [,ccc1] ,,,,,a2 | [a,d1] '[,,c] [c,a] | \
+46;D dur;46r;Ich nimb zu mir (mein Flagolet);A.C;PAN 13.046;2a; Conc_367;3;"[,adca1] [,adc] [,adc] | [,ccc1] ,,,,,a2 | [a,d1] '[,,c] [c,a] | \
 d1 ,,,,,a2 | [aad,a1] [aa] [aa] | ,c1 ,,,,,a \
 [,aaa,c] | ,,,,,a1 [,,c{b}] ,a | ";
 47;e moll;46v;[Sarabande, Voici tantôt la froidure bannie];Moulinié;PAN 5.122;2a;Conc_854;3;"[bca{,,a}1] [bca] [bca] | [bc{,,a}1]> d f1 | \
@@ -135,45 +136,45 @@ d1 ,,,,,a2 | [aad,a1] [aa] [aa] | ,c1 ,,,,,a \
 b1 ['a,,,a3/2] ,c/4 a | ";
 51;D dur;47v;[Wo soll ich hinkehren];;PAN 13.103;2a;Conc_1663;C;"a/ b | [da{,,,a}1] [da] [da] i | [d,,,a1]> b a1 a/ b | \
 [d{,a}1] ,a/ ,c a b [,'c,,,a/] ,,d/8 ,c | ,,d1 ,,,,a2 | | ";
-52;G dur;48r;Sarab.;;PAN 5.153;1a;;3;"{a}1 [,,aa] [,,aa] | ,,,,,a1 [,,bc] [,,bc] | {,,,a}1 ,a \
+52;G dur;48r;Sarabe:;;PAN 5.153;1a;;3;"{a}1 [,,aa] [,,aa] | ,,,,,a1 [,,bc] [,,bc] | {,,,a}1 ,a \
 [,adca/] ,,b | [,,aa{a}1] ,,,a ,c | [,cb,,d2] ,a1 | \
 [,,aa{a}1] [,,,'c{,,,a}3/2] ,,,a/4 ,,,c | ,,,a1 {a}2 | | ";
-53;G dur;48r;Sarab.;;PAN 5.154;1a;;3;"[aaa{a}1] [aaa] [aaa] | ['e{,a}3/2] a/4 c e1 | \
+53;G dur;48r;Sarabe:;;PAN 5.154;1a;;3;"[aaa{a}1] [aaa] [aaa] | ['e{,a}3/2] a/4 c e1 | \
 [e{,,a}1] ['c{,,,a}3/2] a/4 c | a1 {a}2 | | ,,a1 ,a h | \
 ,,f1 ,f f | ";
 54;D dur;48v;Courante;;PAN 4.002;2a;Conc_279;3;"d1 | [d,,,a3/2] b/ a ,c | a1 [,'c,,,a3/2] ,,d/4 ,c | [,,d,,c1] \
 ,,,,,a {a} | [,#h{,a}1] ['f{,,a}] h | i1 [a{,,,a}] [b{,,a}] | ";
-55;D dur;49r;Sarabande;Dufault;#55 - PAN 5.140;2a;Conc_1664;3;"[aad,a1] [aad] [aa] | [,'c,,,e1]> a [,aa,,c] | ,,a1 \
+55;D dur;49r;Sarabande;Dufault;PAN 5.140;2a;Conc_1664;3;"[aad,a1] [aad] [aa] | [,'c,,,e1]> a [,aa,,c] | ,,a1 \
 [,,'c{a}] ,a | [,'c,,,a3/2] ,,d/4 ,c ,,d1 | | [daa{,,,a}1] \
 [da] [da] | [bc{,,a}1]> d a1 | ";
-56;D dur;49r;Courant Bouquet;Bocquet;#56 - PAN 4.196;2a;Conc_1665;3;",a1 | [,adca3/2] ,c/ a b | d1 {,a} ,a | [,h{,a}1] ['f{,,a}1]> \
+56;D dur;49r;Courant Bouguet;Bocquet;PAN 4.196;2a;Conc_1665;3;",a1 | [,adca3/2] ,c/ a b | d1 {,a} ,a | [,h{,a}1] ['f{,,a}1]> \
 h | i1 {,,,a}2 | [h,,,,a1] i [faa{a}] | [d{,a}1] ,a [f{a}] | ";
 57;D dur;49v;[Sarabande];;PAN 5.155;2a;;3;"['a,,,a1] ,a d | ['d{,a}1]> f [b{a}] | [bca{,,a}1] [bca] d | \
 ['a,,,a3/2] ,c/4 a ,c1 | [a,,,a1] [,aa,,c] ,c/ ,a | [,,c,,a1] \
 [,,a{a}] [,,,c{,a}] | ";
-58;D dur;50r;Franz ist ein Herr daraus;;PAN 13.104;2a;;C;"[dad,a1] [da] | [da1] [da] [faa{a}] d | [b{,,a}1] ,c \
+58;D dur;50r;[Unreadable];;PAN 13.104;2a;;C;"[dad,a1] [da] | [da1] [da] [faa{a}] d | [b{,,a}1] ,c \
 [d{,a}] ,a | [baa{a}1] a [,c,,,a3/2] ,,d/4 ,c | ,,d1 ,,,,a | | ";
-59;D dur;50v;Allemande;;PAN 3.073;2a;;C;",,a1 | [,,aeec3/2] ,,a/ [,,c,,b] ,a [,c,,,a] a | [,a,,,c/] ,,a \
+59;D dur;50v;Alemande;;PAN 3.073;2a;;C;",,a1 | [,,aeec3/2] ,,a/ [,,c,,b] ,a [,c,,,a] a | [,a,,,c/] ,,a \
 a [,,,,,'a] {a} ,,a ,a ,c | [,,,'c{,a}/] ,,a [,,c{,,a}] \
 ,,,a [,ad{,,,a}]";
-60;G dur;51r;Couranta;P. Auget;#60 - PAN 4.130;2a;Conc_1666;3;"b1 | [baa{a}2] b1 | ['aa,,a1] b d | [,adc{,a}3/2] ,,b/ ,,a \
+60;G dur;51r;Courante:;P. Auget;PAN 4.130;2a;Conc_1666;3;"b1 | [baa{a}2] b1 | ['aa,,a1] b d | [,adc{,a}3/2] ,,b/ ,,a \
 ,,,c | [,,'a{a}3/2] [,,,ca/] ,,,a ,,,c | ,,,a1 {a} [,,aa] | \
 [,,'b,,a3/2] ,a/ [,,'a{a}] ,,,c/4 ,,a | ";
 61;D dur;51v;Salamon;;PAN 13.050;2a;;3;"[aadca1] [d{,a}] [aa{,,,a}] | [,cc,,a3/2] [,aa/] [,cc/] [aa] | \
 [bc1] {,,a} ['a{,a}/] {a} | [,c,,,a1] ,,,c2 | [de{,,,a}1] \
 [de] [de] | ['bc1] {,,a} [aa{,a}] | ";
-62;h moll;52r;Cour.;;Courande Isabell - PAN 4.189;2a;Conc_316;3;",,a/ ,,c | [,aa,,c1] [,cc,,e] [aa,,a] | [,'c,,,a3/2] a/ ,a ,c | \
+62;h moll;52r;Cour:;;Courande Isabell - PAN 4.189;2a;Conc_316;3;",,a/ ,,c | [,aa,,c1] [,cc,,e] [aa,,a] | [,'c,,,a3/2] a/ ,a ,c | \
 ,,c1 {,a} ,,,,e | [aecd1]> a b1 | d1 {,,,a} [b{,,a}] | ";
 63;G dur;52v;Ballet;;PAN 12.021;2a;;C;"[,aaa{a}1] | [bca,c1] [,aa,,'c] [,,'aa{a}/] ,,,a [,,b,,d] \
 ,,a | [,,,'ca/] ,,,a [,,,'c{,,,a}] ,,,,e ,,,a1 [,aa,,'c] | \
 [,'c,,,d1] ['aa,,a] [b,,,c] ,,,,e | ,,,a/ ,,,c [aca1] [,'b] :| ";
-64;G dur;53r;Allemanda;;PAN 3.074;2a;;C;"b1 | [baa{a}3/2] ,,a/4 ,,b [,a,,,c/] ,,,a [,c,,,d] a | \
+64;G dur;53r;Allemande;;PAN 3.074;2a;;C;"b1 | [baa{a}3/2] ,,a/4 ,,b [,a,,,c/] ,,,a [,c,,,d] a | \
 ['baa{a}1] 'a/ ,c/4 a ,a/ ,,,,a ,,b [,aa,,c] | [,c,,,d/] \
 a [b,,,c] d";
 65;D dur;53v;sans titre;;PAN 13.009;2a;;C;"[,ad,a1] [,,c,,e] [,aa,,c] [,c,,,a] | [aa,,a/] [bc] [aa] \
 [,cc] [,aa,,c1] [,c,,,a] | ['a,,,a/]> b d/ {,,,a} {,,,a} \
 d ['c{,,a}] ,a | d1 ,,,,,a/ ,,,,c [dcc] | | ";
-66;g moll;54r;Sarabande;A.C.;#66 - PAN 5.013;6a;Conc_351;3;"[caa{a}1] [caa] [caa] | ['a,,,a3/2] ,c/4 a ,a1 | [,baa1] \
+66;g moll;54r;Sarabande;A.C.;PAN 5.013;6a;Conc_351;3;"[caa{a}1] [caa] [caa] | ['a,,,a3/2] ,c/4 a ,a1 | [,baa1] \
 ,,,c [,aad] | [,,'c3/2] [,,a{,a}/4] ,,,c ,,a1 | (,,,,,b1 \
 ,,c ,a) | [,,cac1] ,,a [,,,cd] | ";
 67;h moll;54v;Patience;;Je sais Philis qu'en ces bas lieux - PAN 13.112;2a;Conc_4494;3;"[,aa,,c1] [,aa] [,aa] | [,,'ce{,a}1] ,,,d2 | [aad,a1] \
@@ -182,223 +183,223 @@ d ['c{,,a}] ,a | d1 ,,,,,a/ ,,,,c [dcc] | | ";
 68;D dur;55r;Joseph [, lieber Joseph mein];;PAN 13.049;2a;Conc_1667;3;"[d,,,a3/2] b/ a ,c | [,a,,a3/2] ,c/ a b | d1 {,,,a} [f{,,a}] | \
 [dcc,,a] [dcc] | | [bca{,,a}1] [bca] [bca] | [bca{,,a}1] \
 [d{,a}] [faa{a}] | ";
-69;D dur;55r;Ob mich gleich;;#70 - PAN 13.106;2a;;3;"[aad,a1] [aad] [aad] | [d{,a}1] [ba{a}] [a,,,,a/] ,c | \
+69;D dur;55r;Ob mich gleich;;PAN 13.106;2a;;3;"[aad,a1] [aad] [aad] | [d{,a}1] [ba{a}] [a,,,,a/] ,c | \
 [a,,,a1] {,,,a}2 | [aa,,a1] [,c,,,e] [,a,,,c/4] ,c a c | \
 d1 ,,,,,a [dcc] | | ";
-70;D dur;55v;Cour.;;#71 - PAN 4.197;2a;;3;"d1 | [d,,,a1]> b a1 | [,c,,,a1] ,,,c ,c | [,c,,,a3/2] \
+70;D dur;55v;Coure:;;PAN 4.197;2a;;3;"d1 | [d,,,a1]> b a1 | [,c,,,a1] ,,,c ,c | [,c,,,a3/2] \
 a/ b d | ['a,,,a1] ,a f | [faa{a}1] b/ d f b | ";
-71;D dur;56r;Sarabande;Gaultier;#72 - PAN 5.120;2a;Conc_1054;3;"[,,,ca{,,,a}1] [,,,ca] ,,a | [,,,c{,,,a}1]> ,,,a ,,,,e1 | \
+71;D dur;56r;Sarabande;Gaultier; PAN 5.120;2a;Conc_1054;3;"[,,,ca{,,,a}1] [,,,ca] ,,a | [,,,c{,,,a}1]> ,,,a ,,,,e1 | \
 [,aaa{a}1] [,aaa] [,aaa] | [,,'c,,a1]> ,,a ,,,c1 | \
 [,,'a{a}1] ,,c [,ad{,a}] | [,c{,,a}1] a b | [aa{,,,a}3/2] \
 d/ b a | [,#c1] ,,,,,a2 | | ";
 72;D dur;56v;[Gaillarde sur le Passemezzo moderno];;PAN 13.107;2a;;3;"d1 a b | [d,,,a3] b1 a ,c | [,a,,,c1] a [,c,,,d] b \
 [aa,,a] d | [baa{a}4] d1 b | [faaa1] g [d,,,e] f [b,,,c] d | ";
-73;D dur;57r;Graf Schlickh;;"#74 - PAN 13.108 - ff. 57v-58r Staff (3 bars each): Aria, Alto solo; Soprano solo - ff.59r-120v ???";2a;;C;"[de,,a1] | [faaa{a}3/2] [d,,,,a/4] [b,,,,c] ,,,,,e \
+73;D dur;57r;Graf Schlickh (?);;"PAN 13.108 - ff. 57v-58r Staff (3 bars each): Aria, Alto solo; Soprano solo - ff.59r-120v ???";2a;;C;"[de,,a1] | [faaa{a}3/2] [d,,,,a/4] [b,,,,c] ,,,,,e \
 ['a,,,a/] ,c/4 a | ,c1 ,,,,,a [,ccc] ['aa{,,,a}/] d | \
 ['b{,,a}1] a [,c{,a}] | ,a [,,c{a}] ,a [,'c,,,a/]";
-74;;121r;[Ciacona];;#77;OT;;3;"[,dd1] {a} a | [b,,a1] [a,,,d] ,,,,a | [,d,,b1] ,,,,,b \
+74;;121r;[Ciacona];;;OT;;3;"[,dd1] {a} a | [b,,a1] [a,,,d] ,,,,a | [,d,,b1] ,,,,,b \
 ,,,,,d | [add,a1] [add{10}] ,c :| [bdda1] {a} a b/ d | \
 [b,,a1] [a,,,d] ,,,,a | ";italian7tab
-75;;121r;Pavaniglia;Caroso, Marco Fabrizio;#78 Pavaniglia: Amorosino Grimano;OT;Conc_4499;C;"[aabc,a1] d c a | [,ea,c1] ,c ,e a | c1 ,e a c | \
+75;;121r;Pavaniglia;Caroso, Marco Fabrizio;Pavaniglia: Amorosino Grimano;OT;Conc_4499;C;"[aabc,a1] d c a | [,ea,c1] ,c ,e a | c1 ,e a c | \
 [aabc,a2] [aab] | [aabc,a1] d c a | [cdda2] [cd] | ";
-76;;121v;Aria di Fiorenza;Caroso, Marco Fabrizio;#79 Aria di Fiorenza: Laura suave;OT;ConcR1224;C;"[cdda2] {a}1 a | [c,,a1] d [a,,,a] c | [,da,c2] {9}1 ,c | \
+76;;121v;Aria di Fiorenza;Caroso, Marco Fabrizio;Aria di Fiorenza: Laura suave;OT;ConcR1224;C;"[cdda2] {a}1 a | [c,,a1] d [a,,,a] c | [,da,c2] {9}1 ,c | \
 [,d,,c2] [,,d,,c] | [,a,,,d1] ,c ,d ,,,,c | [add,a2] ,c | ";italian7tab
-77;;122r;Aria di Fiorenza in Tripola;;#80;OT;;C;"f/ d | [c,,a1] d/ c [a,,,a1] c/ a | [,da,c1] {9} [,da] \
+77;;122r;Aria di Fiorenza in Tripola;;;OT;;C;"f/ d | [c,,a1] d/ c [a,,,a1] c/ a | [,da,c1] {9} [,da] \
 ,,,,,c/ ,,d | [,a,,,d1] ,c/ ,d [,c,,a1] ,d/ a | [,da{a}1] \
 ,,,,a ,,,a :| ";italian7tab
-78;;122v;Variatio;;#81;OT;;none;"[cdda] [cdd{a}] [cdda] | [acdca] [,da,c] [,da,c{9}] \
+78;;122v;Variatio;;;OT;;none;"[cdda] [cdd{a}] [cdda] | [acdca] [,da,c] [,da,c{9}] \
 [,da,c] [,dd,,c] | [,ab,,d] [,aba] [,ab,,d] [acdca] | \
 [cdda] [cdd{a}] [cdda] | [cdd{a}] | [,ab,,d] [,aba] \
 [,ab,,d] [,ad,,c] | ";italian7tab
-79;;123r;La Folia;;#82;OT;;3;"a ,d | [acdca2]> ,d a2 | [,da{a}2]> a b2 | [abbcd2] \
+79;;123r;La Folia;;;OT;;3;"a ,d | [acdca2]> ,d a2 | [,da{a}2]> a b2 | [abbcd2] \
 {8} [abb] a1 b | [d,,c2] [a,,,d] [b,,a] a1 ,d | [acdca2] \
 {10} [acd] a1 ,d | ";italian7tab
-80;;123v;La Folia in Tripola;;#83;OT;;3;"a/ ,d ,c ,a [,c,,a1] ,d/ a | [,da{a}] d b a ,d | \
+80;;123v;La Folia in Tripola;;;OT;;3;"a/ ,d ,c ,a [,c,,a1] ,d/ a | [,da{a}] d b a ,d | \
 [abbcd2] {8} [abb/] a ,d a b | ";italian7tab
-81;;123v;Variatio;;#84;OT;;3;"[abdca2] {10} ,a | [,b,,a] [,a,,,d] ,,,,,a | [,,d,,b] \
+81;;123v;Variatio;;;OT;;3;"[abdca2] {10} ,a | [,b,,a] [,a,,,d] ,,,,,a | [,,d,,b] \
 [,da{a}] ,b | [,ad,,a] [,adc] ,,c | | [abdca2] {10}1 ,a ,b \
 ,d | [,b,,a] [,a,,,d] ,,,,,a | ";italian7tab
-82;;124v;La Bavaniglia;Passacaglia;#85;OT;Conc_4499;C;"b a ,d | [acdca1] {10} [acd] ,,,,a | [bdda2] {a}1 a | \
+82;;124v;La Bauaniglia;Passacaglia;;OT;Conc_4499;C;"b a ,d | [acdca1] {10} [acd] ,,,,a | [bdda2] {a}1 a | \
 [b,,a1] ,d d b | [abbcd2] {8} | [abb2] [,d,,c] | [abbcd2] {8} | ";italian7tab
-83;;124v;La Bavaniglia che si repeta;;#86;OT;Conc_4499;C;"b/ a ,d | [,c,,a/] ,a ,c ,d [,c,,a] ,d a ,c | \
+83;;124v;La Bauaniglia che si repete.;;;OT;Conc_4499;C;"b/ a ,d | [,c,,a/] ,a ,c ,d [,c,,a] ,d a ,c | \
 [,da{a}] ,c ,d a [b,,a] ,d d b | ";italian7tab
-84;;125r;La Spagnioleta;;#87;OT;Conc_4501;C;",d a | [bdda1] a/ b [a,,,d1] b/ d | [bbdd1] ,,,,,b [bbd] \
+84;;125r;La Spagnioleta;;;OT;Conc_4501;C;",d a | [bdda1] a/ b [a,,,d1] b/ d | [bbdd1] ,,,,,b [bbd] \
 ,,,a/ ,,,,d | [,d,,b1] ,,,,a/ ,,,,b [a,,,d1] b/ d | \
 [bbdd1] ,,,,,b [bbd] :| ";italian7tab
-85;;125v;La Gagliarda Italjana;;#88;OT;;-;"a | [c,,a2] [a,,,e] | [,da,c] [a,c1] ,d | [acdca2] {10} ,d | \
+85;;125v;La Gagliarda Italiana.;;;OT;;-;"a | [c,,a2] [a,,,e] | [,da,c] [a,c1] ,d | [acdca2] {10} ,d | \
 [,c,,a2] [,da,,c] | [,ab,,d] [acdca] | [,da{a}1] ,,,a2 :| ";italian7tab
-86;;126r;La Gagliarda Francese;;#89;OT;;-;"[fd,a2] [d,,c] [a,,,e1] d | [c,,a2] {a} a | [c,,a1] e f ,,,a \
+86;;126r;La Gagliard Francese.;;;OT;;-;"[fd,a2] [d,,c] [a,,,e1] d | [c,,a2] {a} a | [c,,a1] e f ,,,a \
 [f,,c2] e | [fcd,a2] {10} [fcd] | [abd2] [,ab] [,,de] | ";italian7tab
-87;;126v;Cor: Frances:;;#90;OT;;-;",c | [,da{a}3/2] a/ ,d a | [,c,,a1] ,,d [,d,,,d] | [,d,,,b1] \
+87;;126v;Cor. Frances.;;;OT;;-;",c | [,da{a}3/2] a/ ,d a | [,c,,a1] ,,d [,d,,,d] | [,d,,,b1] \
 ,,,,,a/ a [b{a}] d | [a{8}1] ,b d | [d{8}1]> f d1 | ";italian7tab
-88;;127v;[Passacaglia variations];;#91;OT;;3;"[aabc,a2] ,,,c1 ,d a c | [da,c2] [ba,a1] [a,c] | \
+88;;127v;[Passacaglia variations];;;OT;;3;"[aabc,a2] ,,,c1 ,d a c | [da,c2] [ba,a1] [a,c] | \
 [a,d,d2] [ab,,a1] ,,,b ,,,c ,,a | [aab,c2] {9} [aaa] ,e :| ";italian7tab
-89;;128r;Ruggiero;;#92;OT;Conc_3638;C;",d a | [cdda2] [cd] | [ab,,,d2] [acdca1] d | [,da{a}2] \
+89;;128r;Ruggiero.;;;OT;Conc_3638;C;",d a | [cdda2] [cd] | [ab,,,d2] [acdca1] d | [,da{a}2] \
 ,,,,a | ,,,a1 ,c ,d a | [c,,a2] [a,,,e] | [,d,,c2] \
 [a,c2] ,d | [acdca2] {10} | ";italian7tab
-90;;128v;[Colascione];;(Exercise) #93 ;OT;;-;"[,,,c,d2] [,,,c,d] [,,,c,d] [,,,cc1] ,,,,c | [,,c,d] \
+90;;128v;[Colascione?];;(Exercise);OT;;-;"[,,,c,d2] [,,,c,d] [,,,c,d] [,,,cc1] ,,,,c | [,,c,d] \
 [,,,ca] [,,,cc] | [,,,c,a] :||: ,,,c1 ,,,c [,,,c,c2] \
 [,,,c,d] | [,,,ca1] ,,,,c [,,,cd2] [,,,ca] [,,,cc] | [,,,c,a] | ";italian7tab
-91;;129r;Altro non che il mio cuore;;#94;OT;ConcR2661;C;"[fd,a2] {a} c | [a,,,,d] ,d [a,,,a] ,c | [,da{a}2] ,,,,a | \
+91;;129r;Altro non che il mio cuore;;;OT;ConcR2661;C;"[fd,a2] {a} c | [a,,,,d] ,d [a,,,a] ,c | [,da{a}2] ,,,,a | \
 ,,,a c | [a,b] ,d [,c,c] ,a | [,,ee] ,a ,c ,,e | ";italian7tab
-92;;129v;Ballo Tudesco;;#95;OT;;C;"[f,,,a2] h1 [f,,,a] | [d,,,a2] c/ a d c a | [,e,,c2] \
+92;;129v;Ballo Tudesco;;;OT;;6/4;"[f,,,a2] h1 [f,,,a] | [d,,,a2] c/ a d c a | [,e,,c2] \
 [a,,,,d] [c,,,a1] a [,e,,c] | [aacc,a2] ,,,c1 | [aac] :| ";italian7tab
-93;;129v;Cour: Francese;;#96;OT;Conc_276;3;"a | [a,d2] b1 [d,,c2] [b,,a1] a [,d,,c] | [abbcd2] {8} | \
+93;;129v;Cour. Francese. NB;;;OT;Conc_276;3;"a | [a,d2] b1 [d,,c2] [b,,a1] a [,d,,c] | [abbcd2] {8} | \
 [abb] ,d ,b | [,d,,c] ,,,,,d ,a [,b,,a2] ,a1 ,,,d2 | ";italian7tab
-94;;130v;Cour: Franc.;;#97;OT;;3;",,d | [,,d,,b2] [,,b,,a1] [,,,d{a}] [,b,,a2] [,d,,c1] | \
+94;;130v;Cour: Franc.;;;OT;;3;",,d | [,,d,,b2] [,,b,,a1] [,,,d{a}] [,b,,a2] [,d,,c1] | \
 [abbcd2] {8}1 | [abb2] [,d,,c1] | [,b,,a] ,,d | [,a,,,d] \
 ,,,c | [,,d,,b] ,b/ ,a ,,d | ,a ,,,,,a ,,,c | ";italian7tab
-95;;131r;Corr: Francese;;#98;OT;ConcR1213;3;"a | [abdca2] b1 a2 | [ffga2]> h f2 | [dc,,,a2] ,,,c1 | \
+95;;131r;Cor: Francese;;;OT;ConcR1213;3;"a | [abdca2] b1 a2 | [ffga2]> h f2 | [dc,,,a2] ,,,c1 | \
 [f,,,a2] d1 b2 | [d,,,,d] b [a,,,d] | [b,,,,b] a [,d,,,d] | \
 [abbcd] {8}";italian7tab
-96;;131v;Cour: Francese;;#99 - f.132r empty;OT;ConcR652;3;"a | [a,,,a2] ,d1 ,b [,a,,,a] ,,d2 [,,cc1] | ,,d1 ,,,,a ,,,c | \
+96;;131v;Cour Francese;;f.132r empty;OT;ConcR652;3;"a | [a,,,a2] ,d1 ,b [,a,,,a] ,,d2 [,,cc1] | ,,d1 ,,,,a ,,,c | \
 ,,d a ,d | ,b ,,d [,ab] ,,,c [,,dd] ,a/ ,,d | ";italian7tab
-97;;132v;Toccata;;#100;OT;;C;"[abdca3] | f/4 a b ,d a ,,d ,,,c ,,,d ,,,,d ,,,a ,,,,a ,,,,,a \
+97;;132v;Toccata;;;OT;;C;"[abdca3] | f/4 a b ,d a ,,d ,,,c ,,,d ,,,,d ,,,a ,,,,a ,,,,,a \
 ,,,,,b {a} ,,,,,a {10} | [abdcaa] | [ffg,a2] [ffg,a] | ";italian7tab
-98;;133v;[Fuga?];;#101;OT;Conc_3465;C;"[abdca4] | f2 f1 f | d1 a/ b d1 d | b1 ,d/ a [bd1] [bd] | \
+98;;133v;[Fuga?];;;OT;Conc_3465;C;"[abdca4] | f2 f1 f | d1 a/ b d1 d | b1 ,d/ a [bd1] [bd] | \
 [ab1] ,,d/ ,a [abd1] ,,d | [aab1]";italian7tab
-99;;134r;[Toccata];;#102;OT;;C;"[bdda] {a} | f/ b ,d ,,d ,,,d ,,,a ,,,,a ,,,,,b | \
+99;;134r;[Toccata];;;OT;;C;"[bdda] {a} | f/ b ,d ,,d ,,,d ,,,a ,,,,a ,,,,,b | \
 {a}1 d1> b a1 | [bdd1] {a}/ ,,,d ,,,c1 ,,,a | ";italian7tab
-100;;134v;La Vita Berga;Kapsberger;#103;OT;;3;"f1 ,d a | [c,,a1]> d f1 [d,,c] [f,,,a/] d | \
+100;;134v;La Vita [al]Berga;Kapsberger;;OT;ConcR1751;3;"f1 ,d a | [c,,a1]> d f1 [d,,c] [f,,,a/] d | \
 [c,,a2] {a} f/ ,d a | [c,,a1]> d f1 [h,,,,a] f/ e | ";italian7tab
-101;;135r;Chiacona;;#104;OT;;3;"[,d,a] {a} ,d c [acdca2] | [,aa,c1] ,c ,d c [acdca2] :||: \
+101;;135r;Chiacona;;;OT;;3;"[,d,a] {a} ,d c [acdca2] | [,aa,c1] ,c ,d c [acdca2] :||: \
 [cdda1] {a} [cd] [acdca] {10} [acd] | [,da,c1] ,,,,,c \
 [,da] ,,,,,d [acdca2] :| ";italian7tab
-102;;135v;Cour: Francese;;#105;OT;Conc_1668;3;",a | ,d1 ,b/ ,a ,,d1 ,a/ ,b | [,ab1] c/ d1 | \
+102;;135v;Cour: Francese.;;;OT;Conc_1668;3;",a | ,d1 ,b/ ,a ,,d1 ,a/ ,b | [,ab1] c/ d1 | \
 [cd1]> [da] | ,,d1> d c1 | V[d,b1]> ,,d | ";italian7tab
-103;;136v;sans titre;N.Vallet;#106;OT;ConcR535;-;"d | [da2] ,,,,,d ,a1 ,b | [,db] ,,,,,d h | [ddf2] ,,,,,d \
+103;;136v;sans titre;N.Vallet;;OT;ConcR535;-;"d | [da2] ,,,,,d ,a1 ,b | [,db] ,,,,,d h | [ddf2] ,,,,,d \
 c1 d | [fda2] {a}/ d c a | [,d,,c1] ,,,a ,,b a [,b,,a] ,d | ";italian7tab
-104;;137v;Chiacona;;#107 - f.138r empty;OT;;3;"[,ab,,d1] ,,,a ,,b ,a [,,d,,c2] | [aabc,a1] ,,,c [,d,,c] \
+104;;137v;Chiacona;; f.138r empty;OT;;3;"[,ab,,d1] ,,,a ,,b ,a [,,d,,c2] | [aabc,a1] ,,,c [,d,,c] \
 [a,,,d] [c,,a2] :||: [,ab,,d2] ,,,a1 ,a/ [,,d,,c] ,,,a/ ,a | \
 [aabc,a2] ,,,c1 [,d,,c]";italian7tab
-105;;138v;Una Toccata;;#108;OT;;C;"[aabcca] | h/ c e ,e a ,a ,,a ,,b ,,,b ,,,c ,,,,c/4 ,,,,a \
+105;;138v;Una Toccata;;;OT;;C;"[aabcca] | h/ c e ,e a ,a ,,a ,,b ,,,b ,,,c ,,,,c/4 ,,,,a \
 ,,,,,d ,,,,,c ,,,,,a {a} {8} {9} {10} {11} {12} {13}";italian7tab
-106;;139v;Una Toccata;;#109;OT;;C;"[aabcca] | [aabcca1] c [dabc,a] a | [ha,f,a2] [ha,f,a] | \
+106;;139v;Una Toccata;;;OT;;C;"[aabcca] | [aabcca1] c [dabc,a] a | [ha,f,a2] [ha,f,a] | \
 [if,h,f3/2] h/ i h f ,i | [fi,,f1] ,h/ ,i ,h ,i ,f ,h | ";italian7tab
-107;;140v;[Fuga];;#110;OT;ConcR1433;C;"[aabcca] | h2 | h2 d | f h | ,a1 d c a | [ca2] V[d,b] | \
+107;;140v;[Fuga];;;OT;ConcR1433;C;"[aabcca] | h2 | h2 d | f h | ,a1 d c a | [ca2] V[d,b] | \
 [c,d] [,ef] | [a,bc1] ,,,a [,a,b] ,c | V[,da,c] a c a | ";italian7tab
-108;;141v;sans titre;;#111;OT;;3;"[hi1] [hi] [hi] | [hi1]> f ,i1 | [f{10}] ,i [h{9}3/2] ,f/4 ,h | | \
+108;;141v;sans titre;;;OT;;3;"[hi1] [hi] [hi] | [hi1]> f ,i1 | [f{10}] ,i [h{9}3/2] ,f/4 ,h | | \
 [af,,,a2] [af1] | [hi{11}] [hi] [hi] | [fh{a}1]> h f1 | ";italian7tab
-109;;142r;sans titre;;#112;OT;;3;"h1 ,f ,h | [,i,,,a1]> ,h ,i1 | [fh{a}1] h1> i | [hi]> \
+109;;142r;sans titre;;;OT;;3;"h1 ,f ,h | [,i,,,a1]> ,h ,i1 | [fh{a}1] h1> i | [hi]> \
 ,f/ ,h ,i f | b1 ,i h | [f{a}1] ,h h | ";italian7tab
-110;;142v;La Trombeta;Barriera;#113;OT;ConcR1092;C;"[cdda/] c c c ,,,a c f/ d | [c,,a3/2] a/ ,d1 [,,aa{a}1] | \
+110;;142v;La Trombeta;Barriera;;OT;ConcR1092;C;"[cdda/] c c c ,,,a c f/ d | [c,,a3/2] a/ ,d1 [,,aa{a}1] | \
  ,,a/ ,,a ,,a {a} ,,a/ ,,d ,,b |";italian7tab
-111;;143v;La Girumeta che segui doppo la Trombetta;;#114;OT;ConcR1584;-;"c d | [f{a}2] [c,,a1] f [d,,a2] | [c,,a] [a,,,a1] ,d [f{a}2] \
+111;;143v;La Girumeta che segui doppo la Trombetta;;;OT;ConcR1584;-;"c d | [f{a}2] [c,,a1] f [d,,a2] | [c,,a] [a,,,a1] ,d [f{a}2] \
 d1 | [c,,a2] [a,,,a] | [,d,a] | | [,d{a}1] a [c,,a] d [f{a}] \
 d c | ";italian7tab
-112;;144r;Corrent Franc.;Charles de Lespine;#115 (ff.144v-148v empty);OT;Conc_274;-;"[,cde1] c [e,,d] | [f,,e1] e/ f h f | [e,,,e1] ,h [,g,,,i] | \
+112;;144r;Corrent Franc.;Charles de Lespine;ff.144v-148v empty;OT;Conc_274;-;"[,cde1] c [e,,d] | [f,,e1] e/ f h f | [e,,,e1] ,h [,g,,,i] | \
 ,,h2 ,,a1 | [,,ae1] ,,c ,,,c | [,,de1] ,a [,c{8}] | ";italian7tab
-113;;149r;Was wollen wir auff den Abend Thuen;;#116;OT;ConcR980;-;"[,,dca2] [,dda1] [,dda] | [acd,a1] [acd,a] [cdda] [cdda] | \
+113;;149r;Was wollen wir auff den Abend Thuen;;;OT;ConcR980;-;"[,,dca2] [,dda1] [,dda] | [acd,a1] [acd,a] [cdda] [cdda] | \
 [acd,a] | [cdda3/2] a/ ,d [acd,a1] | ,d a ,c [,daa{a}2] :||: \
 [dab,,d1] [dab,,d] [a,d,a] [a,d,a] | ";
-114;;149r;[Sans titre];;#117;OT;;C;"[,dda{a}1] f/ d [cdda1] [a,,,e/] [,da,c] [,cdca/] ,d a ,c \
+114;;149r;[Sans titre];;;OT;;C;"[,dda{a}1] f/ d [cdda1] [a,,,e/] [,da,c] [,cdca/] ,d a ,c \
 [,dda1] {a}  [,dda1] a/ c [da,c1] [cdda] [acd,a1] {,,,a} \
 [acd2] :| ";
-115;;149r;Das Gretl wol selber heimb firen;;#118;OT;ConcR1916;C;"a | [acd,,a2] c1 a2 [,cd,a1] ,d a [,d,,c] ,c3/2 ,a/ [,,d,a2] :||: \
+115;;149r;Die Gretl wol selber heimbfiren;;;OT;ConcR1916;C;"a | [acd,,a2] c1 a2 [,cd,a1] ,d a [,d,,c] ,c3/2 ,a/ [,,d,a2] :||: \
 [,cd,a1] [,,dca3] ,a1 [,cd,a2] | [,,d,,c2] ,a [,cd,a] \
 [,d,,c3] ,1 [,acc,a2] [,,dca] :|";
-116;;149v;English Intrada;;#119;OT;;C;"[,bd2] [,bd1] [,bd] | [,ab2] [,ab1] ,,,c | [,,dd1] ,b ,a ,,d \
+116;;149v;English Intrada.;;;OT;;C;"[,bd2] [,bd1] [,bd] | [,ab2] [,ab1] ,,,c | [,,dd1] ,b ,a ,,d \
  | [,acc2] ,,,,,a | [,bdca2] [,bdca1] [,bdca] | [,ab,,d1] \
 ,,,,,c ,,,,,d ,,,,,a | [,,d,,b1] ,,,,,a ,,,,,b {a} | ";
-117;;149v;Cinque Basso;;ConcR623;OT;;C;"[cdda2] [a,,,e] [,d,,c/] c a ,d | [acd,a1]> [,,d,,c] [,a,,,d] \
+117;;149v;Cinque Basso.;;;OT;ConcR623;C;"[cdda2] [a,,,e] [,d,,c/] c a ,d | [acd,a1]> [,,d,,c] [,a,,,d] \
 ,c ,d a | a/ ,d [a,,,a] ,c [,daa2] :|";
-118;;150r;Couranta (Magdeburg);;Magdeburg (#121);OT;Conc_1669;3;"a | [abd,a1]> ,d [,b,,a1] | [,acc,a1]> ,,d [,,c,,a1] | \
+118;;150r;Couranta (Magdeburg);;Magdeburg;OT;Conc_1669;3;"a | [abd,a1]> ,d [,b,,a1] | [,acc,a1]> ,,d [,,c,,a1] | \
 [,,dca2] {,,,a}1 | [,,dca2] a1 | [aac,,a1]> c [d,,c1] | \
 [ca,,c1]> a [,ea,c1] | [aacc2] ,,,,,a1 | [,aac] :| ";
-119;;150v;Scheckh;;#122 (Scheckenlied);OT;Conc_3637;C;"[,acc,a] ,a [,acc,a] | [a,cc,a2] [,acc,a1] | [,bd,a1] {,,,a}/ \
+119;;150v;Scheckh;;Scheckenlied;OT;Conc_3637;C;"[,acc,a] ,a [,acc,a] | [a,cc,a2] [,acc,a1] | [,bd,a1] {,,,a}/ \
 ,b ,a ,,d | [,acc,a2] ,,,c1 | [,acc,a] [,bd,a] [,db] | \
 [a,b,d1] a [,dd{a}] | [,bd,a1] [,ad,,a] ,,c | [,,dca2] \
 {,,,a}1 :| ";
-120;;150v;Patientia;;#123;OT;Conc_1052;3;"[,,dca/] ,a ,b a ,d ,b | [,db,,d] ,,,a/ [,db] ,a ,b ,d | \
+120;;150v;Patientia;;;OT;Conc_1052;3;"[,,dca/] ,a ,b a ,d ,b | [,db,,d] ,,,a/ [,db] ,a ,b ,d | \
 a/ d c a [ca,,,c] | [aac,,a] ,,,,c [aac] :|";
-121;;151r;Cour;Ballard;#124 (Courante de la Reine Cinquiesme);OT;Conc_1670;3;"{,,,a} | [,bdc2] {a}1 | [,dda1]> ,b ,a/ ,,d | [,,c,,a1] ,,,c | \
+121;;151r;Coure:;Ballard;Courante de la Reine Cinquiesme;OT;Conc_1670;3;"{,,,a} | [,bdc2] {a}1 | [,dda1]> ,b ,a/ ,,d | [,,c,,a1] ,,,c | \
 [aacc2] d1 | [df,,d] f d | [f,,,a] [cf,,c] ,e | ,f ,,,,,a \
 ,,,c | ";
-122;;151v;Der Feind ist kommen;;#125;OT;;3;"a2 | [acd,a2] [,dda{a}1] | [,cdc{,,,a}] a | a ,,,,,a ,d | \
+122;;151v;Der Feind ist kommen (?);;;OT;;3;"a2 | [acd,a2] [,dda{a}1] | [,cdc{,,,a}] a | a ,,,,,a ,d | \
 [,cd] {,,,a} [,d{a}] | ,c1 [,'a,,,a3/2] ,,d/4 ,a | [,dca] | \
 :||: [,cdca1] [,cdc] [,d,,a] | ";
-123;;151v;Amor thuet tyrannisirn;;#126;OT;;C;"[,,dca1]> ,a ,b/ a ,d ,b | [,db,c] [,a,,,d] ,b ,d [a,,,a] \
+123;;151v;Amor thuet tyrannisirn (?);;;OT;;C;"[,,dca1]> ,a ,b/ a ,d ,b | [,db,c] [,a,,,d] ,b ,d [a,,,a] \
 c [d,,,,a] f [c{,,a}] ,,e | [aac,,a1] ,,,c [acc] :| ";
-124;;152r;Couranta;;#127;OT;;3;",,,c | [,,d,a] {,,,a} [,,d,,c] | [,a,,,a/4] ,,d ,a ,e \
+124;;152r;Couranta;;;OT;;3;",,,c | [,,d,a] {,,,a} [,,d,,c] | [,a,,,a/4] ,,d ,a ,e \
 [,d,,c] a | ,c1 ,,,,,c ,,,e | [,cee1] {a} c | [a{,a}] c \
 [,da{,,a}] | ";
-125;;152r;Patientia;;#128;OT;Conc_1052;3;",,d/ ,a | [,bd,a1] ,a/ ,b ,d ,b | [,acc,a1] ,b ,d | \
+125;;152r;Patientia;;;OT;Conc_1052;3;",,d/ ,a | [,bd,a1] ,a/ ,b ,d ,b | [,acc,a1] ,b ,d | \
 [abb,d1] ,d/ a b a | ,d1 ,,,,,d a | [bdda1] a/ b d b | ";
-126;;152v;Dost ich nit klagen uber Dich;;#129;OT;;C;"[,,dca1] ,a ,b ,d [acdca] a | ['bdda1] a/ ,d [acd,a2] | \
+126;;152v;Solt ich nit klagen über dich;;;OT;;C;"[,,dca1] ,a ,b ,d [acdca] a | ['bdda1] a/ ,d [acd,a2] | \
 [,bb,d/] ,d a c d ,,,,,b ,,,,,a ,,,,,b | ";
-127;;152v;Bergamasco;;#130;OT;Conc_45;C;"[acd,a1] [acd,a] [cdda] [cdda] | [aacc] [aac] [,cdc] {,,,a} | \
+127;;152v;Bergamasco;;;OT;Conc_45;C;"[acd,a1] [acd,a] [cdda] [cdda] | [aacc] [aac] [,cdc] {,,,a} | \
 [,c,,a/] ,d a ,c [,dda] ,c ,a ,,d | [,,c,,a] ,,d | ,a ,,c \
 [,,dc{,,,a}2] :|";
-128;;153r;Schäferin;;#131;OT;Conc_4502;C;"[cdda1] [a,,,e/] [,d,,c] [,cd,a1] [,,d,,c] | [,a,,,d] [,c,,a] \
+128;;153r;Schäferin;;;OT;Conc_4502;C;"[cdda1] [a,,,e/] [,d,,c] [,cd,a1] [,,d,,c] | [,a,,,d] [,c,,a] \
 [,dda] {a} :||: [,dda1] {a}/ a [c,,a] d [a,,,c] c | \
 [,d,,c] a [,c,,a] ,d";
-129;;153r;Cour;;#132;OT;;3;"[,dda{a}1] ,,d ,d | [,c,,a] [,d,,c] [a,,,e] | [cdda1]> a \
+129;;153r;Coure:;;;OT;;3;"[,dda{a}1] ,,d ,d | [,c,,a] [,d,,c] [a,,,e] | [cdda1]> a \
 [,d,,a1] | [acd,a2] {,,,a}1 :||: [,dda{a}1] ,,d ,d | \
 [,c,,a] [,d,,c] [a,,,e] | [c,,a/] d c e ,d1 | ";
-130;;153v;Mairin;;Die Meierin (#133);OT;Conc_1661;C;"[,cd,a1] [,cd] ,a/ ,,,,,e [,cd,a1] | [,,da,c] [,,c,,a] \
+130;;153v;Mairin;;Die Meierin;OT;Conc_1661;C;"[,cd,a1] [,cd] ,a/ ,,,,,e [,cd,a1] | [,,da,c] [,,c,,a] \
 [,,'a{a}] [,,,c{,a}] | [,,da{a}] [,,d{,a}] [,a{,,a}] \
 [,cd{,,,a}] | [,ad,,a1] ,,c/ ,d [,cd,a1] {,,,a} :| ";
-131;;153v;Es fliegt ein klein wald vögelein [Courante];;#134;OT;;3;",d | [,cdca1]> d f1 | [dab,,d2] [cdda1] | [acdca3/2] ,d/ ,a c | \
+131;;153v;Es fliegt ein klein wald vögelein;;;OT;;3;",d | [,cdca1]> d f1 | [dab,,d2] [cdda1] | [acdca3/2] ,d/ ,a c | \
 [acdca2] [acdca1] | [cdda1]> d f1 | [ea,,,a1]> f h1 |";
-132;;154r;Courante;;#135;OT;;3;"[cdda1]> a c1 | [acdca2] [cdca1] | [da,c1]> c d1 | \
+132;;154r;Courante:;;;OT;;3;"[cdda1]> a c1 | [acdca2] [cdca1] | [da,c1]> c d1 | \
 [cdda] {a} :||: [,cdca1]> ,d a1 | [,daa2] [,cdca1] | \
 [,acc1]> ,,d ,,c1 | [,,d,a2] {a}1 :| ";
-133;;154v;Toten Tantz;;#136;OT;ConcR1000;C;"[,daa1] [,daa] [,daa] ,c/ ,a | [acd,a1] {a}/ ,d [acdca1] \
+133;;154v;Totendantz;;;OT;ConcR1000;C;"[,daa1] [,daa] [,daa] ,c/ ,a | [acd,a1] {a}/ ,d [acdca1] \
 [aac,,a] | [,cdca] [aab,,a] [caa,c] [caa,c] | [aacc,a2] \
 ,,,c1 :||: [da,c] [cdda] [da,c] [acd,a] | ";
-134;;154v;Alemanda;;#137;OT;;C;"[cdda1] ,a/ ,c ,d a c d | f1 {a} [fdda2] | [ha,f] [fdaa] \
+134;;154v;Alemanda;;;OT;;C;"[cdda1] ,a/ ,c ,d a c d | f1 {a} [fdda2] | [ha,f] [fdaa] \
 [da,c] ,c | [cdda2] {a}1 [fdaa] | [fdaa2] [da,c,a] | ";
-135;;155r;English Cour;;#138 Packington's Pound;OT;ConcR86;3;"[,,d,a1]> ,a ,b1 | [,a,,,a] ,,c ,,,c | [,,d,a1]> ,a ,b1 | \
+135;;155r;English Coure:;;Packington's Pound;OT;ConcR86;3;"[,,d,a1]> ,a ,b1 | [,a,,,a] ,,c ,,,c | [,,d,a1]> ,a ,b1 | \
 [,a,,,a] ,,c ,,,c | [,bd,a] ,d [a,,,d] | [,db,,d] ,a ,,b | ";
-136;;155v;Saltatio Anglica;;#139 Packington's Pound;OT;ConcR86;3;"[,,d,a1]> ,a ,b1 | [,a,,,a] ,,c ,,,c | [,,d,a1]>,a ,b1 | \
+136;;155v;Saltatio Anglica;;Packington's Pound;OT;ConcR86;3;"[,,d,a1]> ,a ,b1 | [,a,,,a] ,,c ,,,c | [,,d,a1]>,a ,b1 | \
 [,a,,,a] ,,c ,,,c | [,b,,d] ,d a | [,d,,,d] ,a ,,b | ";
-137;;155v;Cour;;#140 (pages 156r-161v empty);OT;;3;",,d1 | [,daa1]> a c1 | [da,c2] [cddaa1] | [acd,a2] [,da,c1] | \
+137;;155v;Cour:;;ff. 156r-161v empty;OT;;3;",,d1 | [,daa1]> a c1 | [da,c2] [cddaa1] | [acd,a2] [,da,c1] | \
 [,c,,a1] ,,d c | [a,,,a1] ,c [,da,c] | [,c,,a] ,,d c | ";
 ;;;Guitar section (tuning: e' - b' - g - d - A) - preceeded by Alfabeto explanation (f.162r);;;;;;;
-138;;163r;Bergamasco;;#141;;Conc_45;C;"[,,add2] [,,add] | [d,,ba2] [d,,ba] | [,a,dc2] [,a,dc] | \
+138;;163r;Bergamasco;;;;Conc_45;C;"[,,add2] [,,add] | [d,,ba2] [d,,ba] | [,a,dc2] [,a,dc] | \
 [,,add2] [,,,dd1] ,,,,f | [,,add] ,,,,c [,,a,a] ,,,d | [d,,ba2] \
 [d,,ba] | [,a,,c1] ,,,,d ,,,,f ,,,,c | [,,add2]";italian5tab
-139;;164r;Passagagli;;#142;;;3;",,c1 ,,,a ,,,b ,,,d | [accba2] [aaaba2]> ,c | [adcba2] \
+139;;164r;Passagagli;;;;;3;",,c1 ,,,a ,,,b ,,,d | [accba2] [aaaba2]> ,c | [adcba2] \
 ,a1 ,,,a ,,,b ,,,d | [aacba2] [accaa2]> ,,b | [accba2] \
 ,,,,f1 ,,,,d ,,,,f ,,,,a | ";italian5tab
-140;;165r;Praeludio;;#143;;;C;"[,a,dc1] ,,,,f/ ,,,,d ,,,,c ,,,,a ,,,,c ,,,d | \
+140;;165r;Praeludio;;;;;C;"[,a,dc1] ,,,,f/ ,,,,d ,,,,c ,,,,a ,,,,c ,,,d | \
 ,,,,d ,c ,,,,d ,,,,c [a,,,a] ,,,d ,,,,a ,,,c | \
 ,,,,c ,a ,,,,c ,,,,a [c,,d]";italian5tab
-141;;165v;Corrente;;#144;;;3;",,,,a1 | [a,,,a3/2] ,,,d/ [a,,b] ,,,a | [a,,b1] [,c,a1]> ,,c | \
+141;;165v;Coure;;;;;3;",,,,a1 | [a,,,a3/2] ,,,d/ [a,,b] ,,,a | [a,,b1] [,c,a1]> ,,c | \
 [a,c] ,c ,,c | [,,,ba2] ,,,,a1 | [d,,,a3/2] ,,,,c/ ,,,,d/ \
 ,,,,a | [,a,,c1] ,,,,e ,,,,f | ";italian5tab
-142;;166r;Praeludio;;#145;;;C;"[a,,ca1] ,,,,f/ ,,,,d [,a,,c] ,,,,a ,,,,c ,,,d | \
+142;;166r;Praeludio;;;;;C;"[a,,ca1] ,,,,f/ ,,,,d [,a,,c] ,,,,a ,,,,c ,,,d | \
 [,c,,d] ,,,,a ,,,,d ,,,,c [a,,,a] ,,,d ,,,,a ,,,c | \
 [,a,,c] ,,,,d ,,,,c ,,,,a [c,,d] ,,,c ,,,d ,,,a | ";italian5tab
-143;;166v;Gagliarda;;#146;;;3;"[aa,cdc2] ,a1 ,,,,a [aacdc2] | [caadd] ,,a1 ,,,,c [,,a,a] \
+143;;166v;Gagliarda;;;;;3;"[aa,cdc2] ,a1 ,,,,a [aacdc2] | [caadd] ,,a1 ,,,,c [,,a,a] \
 ,,,d | [accca2] ,,c1 ,,,d [accca2] | [aacdc2] [caadd] \
 [accca] | [aacdc2] ,a1 ,,,,f [,a,,c] ,,,,a/ ,,,,c | ";italian5tab
-144;;167r;Cour;;#147;;;3;",,,,f1 | [,a,,b3/2] ,,,,a/ ,,,d ,,,c | [b,,d1] ,,a ,,,,a | \
+144;;167r;Coure;;;;;3;",,,,f1 | [,a,,b3/2] ,,,,a/ ,,,d ,,,c | [b,,d1] ,,a ,,,,a | \
 [a,,c3/2] ,,,d/ ,,,c ,,,a | [a,,c1] ,,c ,,,,b | [,d,,b3/2] \
 ,,,,d/ ,,,,b ,,,,d | ";italian5tab
-145;;167v;Sondi uoil';;#148;;;C;"[,a,dc1] [e,,,a] [c,,d] | [a,,ca] ,,c [,a,dc] [,cca/] ,,b | \
+145;;167v;Sondi nuit;;Ich erkunde die Nacht;;;C;"[,a,dc1] [e,,,a] [c,,d] | [a,,ca] ,,c [,a,dc] [,cca/] ,,b | \
 [a,c1] [,,cc/] ,,,,a ,,,,e ,,,a c ,,,,a [c,,,c] [,c,,e] \
 [c,,,c] a/ ,,,,e | ";italian5tab
-146;;168r;Occhi belli no no;;#149;;;-;"[,a,dc] ,c [,eec] ,,d | [,,ed1]> ,,c [,,ad/] ,e ,c ,,c | \
+146;;168r;Occhi belli no no;;;;;-;"[,a,dc] ,c [,eec] ,,d | [,,ed1]> ,,c [,,ad/] ,e ,c ,,c | \
 [,a,dc1] [,a,dc] [,eec/] ,,d | ,,e ,,,d ,,,,c ,,c ,,a1 ,e | ";italian5tab
-147;;168v;Chiacona;;#150;;;3;"[d,,ba1] ,,a ,,,b ,,,,a [,,aa1]> ,,,d | [,,cb] ,c ,,,b ,d \
+147;;168v;Chiacona;;;;;3;"[d,,ba1] ,,a ,,,b ,,,,a [,,aa1]> ,,,d | [,,cb] ,c ,,,b ,d \
 [,,ab1]> ,,,a | [d,,a1] ,,,,d ,,,,d [d,,,d] [,a,,b2] | \
 [,c,,a1] ,,,b ,,,,b [,d,,a] [,,ad2] | ";italian5tab
-148;;169r;Passagagli;;#151;;;C;",,,c1 ,,,d ,,,,a | [,a,dc2] [a,,da] ,,c1 ,,,,c | \
+148;;169r;Passagagli;;;;;C;",,,c1 ,,,d ,,,,a | [,a,dc2] [a,,da] ,,c1 ,,,,c | \
 [,,aad2] ,,a1 ,,,,c ,,,,a ,,,d | [,,cdc2] [a,,da] ,,c1 \
 ,,,c | [,a,d2] ,,,,f1 ,,,,d ,,,,c ,,,,a | ";italian5tab
-149;;169v;[Passagagli];;#152;;;C;"[,d,,b/] ,,,,a ,,,,b ,,,,a ,,,,f1 [,d,,f] | [d,,,d/] \
+149;;169v;[Passagagli];;;;;C;"[,d,,b/] ,,,,a ,,,,b ,,,,a ,,,,f1 [,d,,f] | [d,,,d/] \
 ,,,,f ,,,,d ,,,,b ,,,,a1 [d,,,d] | [,a,,b/] ,,,,d ,,,,b \
 ,,,,a [,a,d] ,,,,b ,,,,a ,,,d | ";italian5tab
-150;;170r;[Passagagli];;#153;;;3;"[d,,ba1] ,,a ,,,b ,,,,a [aaaaa2] | [aacba1] ,c [,,,ba] ,d \
+150;;170r;[Passagagli];;;;;3;"[d,,ba1] ,,a ,,,b ,,,,a [aaaaa2] | [aacba1] ,c [,,,ba] ,d \
 [caadd2] | [dcaba1] ,,,,a/ ,,,,b ,,,,d1 ,,,,d [caadd2] | \
 [,dcbb1] ,,,,d ,,,,b [,d,,a] [caadd2] | ";italian5tab
-151;;170v;Praeludio d[omi]ni Sebastiani di Hallwyl [Hallwihl?] quod ipsemet[?] descripsit;;#154;;;C;"[caadd3] | [caadd1] ,,,,d/ ,,,,b ,,,,a ,,,d ,,,b ,,,a | \
+151;;170v;Praeludio dei Sebastiani di Halwill quod ipsamat descripsit;;;;;C;"[caadd3] | [caadd1] ,,,,d/ ,,,,b ,,,,a ,,,d ,,,b ,,,a | \
 [accba2] | [accba1] ,,,,a/ ,,,d ,,,b ,,,a ,,c ,,a | \
 [,dcbb1] ,,,,b/ ,,,,a ,,,d ,,,b ,,,a ,,c | ";italian5tab
-152;;171r;Gagliarda;;#155;;;3;",,,c2 | [caadd] [caadd] [aacdc] | [caadd2] ,,a1 ,,,,f ,,,,d \
+152;;171r;Gagliarda;;;;;3;",,,c2 | [caadd] [caadd] [aacdc] | [caadd2] ,,a1 ,,,,f ,,,,d \
 ,,,,c | [caadd2] [acdda] [a,,c] | [,acdc] ,a [,,cdc] | \
 [,acdb] [,acdb] [,ccba] | [,dcbb2]";italian5tab
-153;;171v;Gagliarda;Unfinished (or missing page);#156;;;3;",,,c1 | [c,,dd2] [c,,dd] [,a,dc] | [,,add2] ,,a1 ,,,,f ,,,,d \
+153;;171v;Gagliarda;Unfinished (or missing page);;;;3;",,,c1 | [c,,dd2] [c,,dd] [,a,dc] | [,,add2] ,,a1 ,,,,f ,,,,d \
 ,,,,c | [,,a,d1] ,,,,c [,,cda2] a1 ,,,c | [,a,d] ,,c [,a,d] | \
 [,a,,b] [,a,,b] [,c,,a] | ";italian5tab

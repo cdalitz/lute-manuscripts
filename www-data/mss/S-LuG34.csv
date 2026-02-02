@@ -30,7 +30,7 @@ c a | \
 [ed{,a}3/2] c/ a1 e | \
 [cc,,,d3/2] c/ [cc,,,e1] e/ ,c | \
 [aVd,,a3/2] ,c/ ,d1 ,,,,,a |"
-7;d moll;5r;Air;;;;Conc_4275;3;"[,aaaa3/2] ,c/ ,a1 | \
+7;d moll;5r;Air;;See Conc_1471;;Conc_4275;3;"[,aaaa3/2] ,c/ ,a1 | \
 '[,,e,,a2] ,,,e1 | \
 [,aaaa3/2] ,c/ ,a1 | \
 [,c,,,d2] {4}1 | \
@@ -38,19 +38,19 @@ c a | \
 V[f{a}2] [e{,a}1] | \
 '[c{4}3/2] a/ ,c1 | \
 [aVd2] {,a}1 :||:"
-8;C dur;6r;sans titre;;;;Conc_4161;C;"[,cd,,d1] ',a3/4 ,,d/4 ',,,,,c/ ,a c1 | \
+8;C dur;6r;[Allemande];;;;Conc_4161;C;"[,cd,,d1] ',a3/4 ,,d/4 ',,,,,c/ ,a c1 | \
 ,,,,,a/ ,,d 'c ,e [ca{a}3/2] {a}/ | \
 {,a}/ ,f h/ f/4 V[,h{,a}1] [c,d{,,a}] |"
 9;C dur;6v;Gavotte;;;;Conc_4268;C;",,,,,d/ ,c {4} ,c ,,,,,c ,a ,,,c ,c | \
 ,,,,,a/ ,,c V,,d ,a {a} ,,c ,,,c {,a} | \
 V[,,dc{,,a}3/2] ,,,c/ [,,aa{,a}] ,,c ,,d ,a | \
 '[,,c{a}3/2] ,,c/ V,,d1 {4} :||:"
-10;C dur;7v;sans titre;unfinished;;;Conc_161;3;"{,,a}1 [,,cec] ',,d | \
+10;C dur;7v;[Chaconne];unfinished;;;Conc_161;3;"{,,a}1 [,,cec] ',,d | \
 [,,a,,a1] ,,,,c [,,ae] | \
 {a}1 [,,dca] ',,c | \
 [,,d{4}1] ,,,,c [,,dc] | \
 [,,aad{,a}1] [,,aa/] ,,a {,,,a} ,,c |"
-11;F dur;7v;Air;;familiar;;Conc_4467;3;"[aVda{,a}1] [c{,,a}] [e{,a}] | \
+11;F dur;7v;Air;;;;Conc_4467;3;"[aVda{,a}1] [c{,,a}] [e{,a}] | \
 '[,c,c{4}3/2] ,a/ [,,d,,d] ,,,,,b | \
 [a,d,,a/] ,,a [,,b{a}] {,a} {,,a} ,,d | \
 '[,,a{,a}3/2] ,,,c/ ,,,a1 | \
@@ -104,11 +104,11 @@ V[,da,a1] (c/ a) (,c ,a) | \
 [,a,,,b/] a '[,c{a}] ,a '[,,e,,a1] [,a,,a] | \
 '[a{,,,a}/] ,c a ,a {,,a} c {,a} e | \
 '[c{4}3/2] a/ [aVd1] {,a} :||:"
-22;d moll;16v;C'est l'amour;;C'est l'amour che nous ménace;;Conc_1284;C;"[,aaa{,,,a}1] ,,a [,aaaa] (,c/ a) | \
+22;d moll;16v;Cash' L'amour;;C'est l'amour che nous ménace;;Conc_1284;C;"[,aaa{,,,a}1] ,,a [,aaaa] (,c/ a) | \
 '[,c{a}3/2] ,a/ '[,,e,,a1] ,,a | \
 ,,,,,e/ ,c ,,,,a a ,,,,,b ,a {a} ,c | \
 '[,a,,,3/2] ,,e/ [,aVf1] {,,,a} :||:"
-23;d moll;17r;Menuette;;;;;3;",,a1 [,aaa{,,,a}/] a '[,c{a}] ,a | \
+23;d moll;17r;Menueth;;;;;3;",,a1 [,aaa{,,,a}/] a '[,c{a}] ,a | \
 [,,e,,a/] ,,c ,,e ,a ,,e1 | \
 ,,,,,c/ ,a ,,,,,e ,c ,,,,a a | \
 '[,c,,,a/] ,a ,c ,d ,c1 |"
@@ -173,7 +173,7 @@ Ve1 [ece,,a2] :||: \
 [e{,,,a}/] d e g '[d{,,a}1] ,c | \
 [,c,,,d/] a ,c ,a [,,d,,a] ,,c ,,d ,a | \
 ,c/ {a} {,a} ,b V,c1 [,ccd{,,a}] :||:"
-36;a moll;26r;Sarabande;;;;Conc_4273;3;"[,,aVe,a3/4] ,,c/4 ,,d/ ,a [,c{a}] ,,c | \
+36;a moll;26r;Saraband;;;;Conc_4273;3;"[,,aVe,a3/4] ,,c/4 ,,d/ ,a [,c{a}] ,,c | \
 '[,,a{,a}3/2] ,,a/4 [,,,dc{,,a}1] | \
 ,,,,,a/ ,,c ,,d ,c '[,a{,,,a}] ,,d | \
 '[,,c{,,a}3/2] ,,a/ [,,aVe1] | \
@@ -216,7 +216,7 @@ V[,,bc{a}1] [,,bca3/2] ,,b/ | \
 {a}/ ,,b ,,,,a ,,b ,,,c ,,b | \
 {,a}/ ,,,d ,,,,d ,,d ',,b ,,,d | \
 {,,a}/ ,,,c ,,,,b ,,,c ,,b ,b |"
-44;g moll;31v;Menuette;;;;;3;"[,abc1] c '[b,,,a] | \
+44;g moll;31v;Menueth;;;;;3;"[,abc1] c '[b,,,a] | \
 V[c{a}2] ,,b1 | \
 ,,,,,a/ ,,d ,,,b ,a {,,,a} ,,d | \
 '[,,b{a}3/2] ,,a/ ,,,c1 | \
@@ -229,12 +229,12 @@ V[,ba/] (,d/4 ,b) ',a3/4 ,,d/4 [,,cc/] {a} ,,,c3/4 ,,,c/4 |"
 46;C dur;33r;Air;;;;;C;"[,c,,,d/] ,a ,c a [,a,,,c1] [,c,,,d] | \
 ,,,,,a/ ,,d ,,,a ,a {a} ,,c ,,,c {,a} | \
 V[,,da{,,a}3/2] ,,,c/ [,,aa{,a}] c 'a ,c |"
-47;C dur;34r;Nun ruhen alle wälder;;;;Conc_4468;C;"[,c{4}/] ,a | \
+47;C dur;34r;Nun ruhen alle Wälder;;;;Conc_4468;C;"[,c{4}/] ,a | \
 V,,d1 [,a,,,c] V[,c,,,d/] a [c{,,a}] e | \
 '[a{,,,a}3/2] ,c/ [,cd{4}1] ,c/ a | \
 V[c{,,a}1] (c/ e) [,ac{a}1] [,c,,,d] | \
 ,,,,,a/ ,,d ,,,a ,a '[,,cc{a}3/2] ,,,c/ |"
-48;C dur;34v;Wach auf mein Herz und singe;;;;;3;",,d1 | \
+48;C dur;34v;Wach auf mein Herz und singe;;;;See ConcM122;3;",,d1 | \
 [,,dcc{4}2] '[,,c{a}1] | \
 [,,aa{,a}3/2] ,,c/ ,,d ,a | \
 '[,,c{a}2] ,,d1 | \
@@ -247,7 +247,7 @@ V[c{,,a}1] (c/ e) [,ac{a}1] [,c,,,d] | \
 [,,aeca2] [,c,,,e1] | \
 [aa,,a1] [,c{a}] '[,ca,,a3/2] ,a/ | \
 [,aaa{,,,a}2] :||:"
-50;G dur;35r;Menuette d'amadis;;Suivons l'Amour;;Conc_1295;3;"[,acc{a}1] [,acc] '[,,cc] | \
+50;G dur;35r;Menuette d'amadas;;Suivons l'Amour (Amadis);;Conc_1295;3;"[,acc{a}1] [,acc] '[,,cc] | \
 V[,c,,,d2] [,a,,,c1] | \
 [,,d,,a1] [,,d{,a}] [,,c{a}] | \
 '[,,a{,,,a}2] [,,,c{,,a}1] | \
@@ -259,7 +259,7 @@ V[,,d,,a1] [,,d{,a}] [,,c{a}] | \
 '[,a{a}3/2] ,,c/ V,,d1 {4} | \
 '[c{,,a}/] a [,c,,,d1] [e{,a}] ([c{,,a}/] e) | \
 '[a{,,,a}3/2] ,c/ [,cdc{4}2] |"
-52;C dur;36r;Menuette;NOTO;ff. 37r-39v empty;;;3;"[,,dcc{4}1] [,,dcc] [,a,,,c] | \
+52;C dur;36r;Menuette;;ff. 37r-39v empty;;;3;"[,,dcc{4}1] [,,dcc] [,a,,,c] | \
 [,c,,,d/] ,a ,c a ,c1 | \
 [c,,,c1] ,,,,,d/ e '[ba,,a1] | \
 [c,,,,a/] ,e c e c1 | \
@@ -285,14 +285,14 @@ V[,,d,,a1] [,,d{,a}] [,,c{a}] | \
 [,,aaVd1] {,a}/ ,,a ,a ,,,c | \
 ,,,e/ ,,e ,,,,,a ,,,c ',,,a ,,,,c | \
 [,a{,,,a}1] ',c/ (a/4 ,c) a/ ,,,,a |"
-- (58b);c moll;41v;Gavotte;;Finis Gavotte in c!;;;C;"{,,a}/ c ,b c {,,,a} a [ca,,,c1] | \
+58b;c moll;41v;Gavotte;;(Incomplete?);;;C;"{,,a}/ c ,b c {,,,a} a [ca,,,c1] | \
 [,ba,,d/] ,b '[,a{,a}] ,,d '[,,c{a}1] ,,,c | \
 [,,d,,a1] [,a,,,c] [,b,,,d] ([,b{,a}/] ,a) | \
 '[,ac{a}3/2] ,,d/ ,,d1 {4} :||:"
 57;d moll;41v;Gavotte;;de luth de Mademoiselle Königsmark;;Conc_4470;C;",,,,a/ ,a ,,,,,e ,c ,,,,a a [,'c{a}] ,a | \
 [,,e,,a1] ,a/ ,c ,c1 [,cee] | ,,e ,c ,a a ,,b ,,a ,,,c ,c | \
 [,,'e,,a3/2] (,a ,,e) [,aaaa1] {,,,a} | "
-58;c moll;42r;Gavotte;;;;;C;"[,b,,,d1] [a,,,a] [c,,,b] [,a,,,c] | \
+58a;c moll;42r;Gavotte;;;;;C;"[,b,,,d1] [a,,,a] [c,,,b] [,a,,,c] | \
 V[,b,,,d/] ,b '[,a{,a}] ,,d '[,,c{a}1] ,,,c | \
 [,bdc,d1] [,bdc/] ,,,,a ,,,,,d ,,,,,b ',,,,,a {a} | \
 [b,a{,,,a}3/2] c/ [cacc{a}2] :||:"
@@ -305,7 +305,7 @@ V[,b,,,d/] ,b '[,a{,a}] ,,d '[,,c{a}1] ,,,c | \
 [,,a,,a/] ,,c V,,d ,a '[,,c{a}1] ,,,c/ {,a} | \
 [,,,c{,,a}2] [,,a{a}/] ,,c ,,d ,a | \
 {a}/ ,,,,a ,,d (,,c ,,d1) {4} :||:"
-61;c moll;43r;Sarabande?;;familiar;;;3;"[,b{4}/] ,b [,bdc1] a | \
+61;c moll;43r;Sarabande?;;Wrong time signature;;;3;"[,b{4}/] ,b [,bdc1] a | \
 [,a,,,b/] ,a [,abaa3/2] (,b/ | \
 [,,d{,a}1]) [,,ddd3/2] ,a/ | \
 '[,,c{a}/] ,,c [,,cca2] :||: \
@@ -334,11 +334,11 @@ V[,,bc1] {a} (c/ a) |"
 [,,ed,a1] ,,f/ (,a/4 ,,e) [,a,,a1] {,,,a} | \
 [,,e,,a1] [,a,,,c] [,c,,,e] a | \
 '[a,a{,,,a}3/2] ,c/4 a [,ced,a1] [,ced] :||:"
-67;D dur;44v;sans titre;;;A-d-f#-a-d'-f'#;;C;",a/ | \
+67;D dur;44v;[Sans titre];;;;;C;",a/ | \
 [,aVf1] {,,,a} [,aaa/] (,c ,e) ,a | \
 ,c/ c ,,e ,e e ,,,,a {,,,a} Vg | \
 {a}/ {,a} ,,f [,,f{,,a}] (,,e ,f) [,e{,,,a}] ,,f |"
-68;d moll;45r;Sarabande;Mercure;see Conc_1768;;;3;"[edf{,,,a}3/2] [edf/] [ed1] | \
+68;d moll;45r;[Sarabande];Mercure;see Conc_1768;;;3;"[edf{,,,a}3/2] [edf/] [ed1] | \
 ,,,,,e/ e ,,a c ,,,,a a | \
 [aaaaa{,,,a}1] [a,,,a] [a,a] | \
 [a,,,,a1] [,,d,c] [,a,a] | \
@@ -348,7 +348,7 @@ V[,,bc1] {a} (c/ a) |"
 [c,,,,c1] ,,,c/ (,a ,c) a | \
 '[,c{4}/] ,c [,cdc1] ,,,,,b | \
 [a,,,,a1] ,,,e/ ,,d a ,c |"
-70;d moll;46r;Courante?;;;;Conc_133;3;",a/ | \
+70;d moll;46r;[Courante];;;;Conc_133;3;",a/ | \
 [,aVf{,,,a}3/2] ,c/ ,,a a | \
 ,,b/ ,a ,,,c ,d ',c ,a | \
 ,,,e/ ,,e ,,,,,a ,,,c ',,,a ,,,,c | \
@@ -359,7 +359,7 @@ V[,,bc1] {a} (c/ a) |"
 '[d,,,d1] {,,a}3/2 e/ | \
 [e,,,,a1] ,,,e/ ,,d ,c ,e | \
 [c{,,a}1] ,,d {,a}/ ,a |"
-72;F dur;47r;sans titre;Logy?;Last 7 bars missing;;Conc_4264;3;"[,,,ad{,a}1] ,,,,d/ ,,,,c [,,,ada1] | \
+72;F dur;47r;[Sans titre];Logy?;Last 7 bars missing;;Conc_4264;3;"[,,,ad{,a}1] ,,,,d/ ,,,,c [,,,ada1] | \
 [,,,cdb1] ,,,,,b/ ,,,,,a ,,,,,b1 | \
 [,,,c{4}1] ,,d ,,b | \
 [,,a{,a}/] (,,b ,,a) (,,,c ,,,a) ,,,,d | \
@@ -378,7 +378,7 @@ c/ ,,,c ,,,a e ,,,,c ,,,,a | \
 ,,d/ ,c ,a a ,c c | \
 [ccd{4}3/2] [c{,,a}/] [c{a}1] | \
 [ccdccd3/2] (,c/ ,d) c |"
-76;a moll;49r;Chiaconne de Montespan;;Jacques Gallot;;Conc_161;3;"{,,a}1 [,,,ec] ',,,d | \
+76;a moll;49r;Chiaconne de Montespan;Jacques Gallot;;;Conc_161;3;"{,,a}1 [,,,ec] ',,,d | \
 [,,a,,a1] ,,,,c [,,aVe] | \
 {a}1 [,,dca] ',,c | \
 V[,,d{4}1] ,,,,c [,,dcc] | \
@@ -394,7 +394,7 @@ V[,,d{4}1] ,,,,c [,,dcc] | \
 [c{4}1] ,,,,,d/ c [ccd1] | \
 [edd/] {,a} e {a} [add,,a1] | \
 [,aba,b3/2] ,a/ [,cb,,d1] |"
-79;F dur;50v;sans titre;;[Courante, Pinel];;Conc_5;3;"a1 | \
+79;F dur;50v;[Courante];Pinel;;;Conc_5;3;"a1 | \
 [aVda{,a}1] e 'c/ a | \
 [,c,,,d/] a [,a{a}1] ,,d | \
 [,,dcc{a}3/2] ,,d/ ',,b ,,a | \
@@ -409,4 +409,3 @@ V[h{,,a}1] c ([e{,a}] [c{,,a}/]) e | \
 [,ab,,b/] ,,,,,a [,cb{a}1] [,da{,a}/] c | \
 [,c,c{4}1] ,a/ ,,d ,,,,,d ,,,,,b | \
 [a,d,,a1] [c,d{,,a}] [e,d{,a}] |"
-;;Accord F mole par Octaves (f. 52r);;;;;;;
