@@ -39,7 +39,7 @@ Diese Datenbank ist entstanden aus einem privaten Inhaltsverzeichnis mit einzeln
   <li>The (American) Lute Society Quarterly Vol 54 (2&amp;3), 10-12 (2019)</li>
   <li>De Tabulatuur no. 120, 20-25 (nov 2020)</li>
   <li>Il Liuto no. 20, 2-11 (2020)</li>
-  <li>Lauteninfo 2020-02, 25-30 (2020)</li>
+  <li>Lauteninfo 2020-03, 32-37 (2020)</li>
   <li>Geluit-Luthinerie no. 83 3/2021, 8-11 (hollandisch)</li>
   <li>Geluit-Luthinerie no. 83 3/2021, 17-20 (franzosisch)</li>
   <li>Bulletin der Societé Français de Luth (2020, ohne weitere Information).</li>
@@ -98,7 +98,7 @@ if ($lang=='eng') {
   <li>The (American) Lute Society Quarterly Vol 54 (2&amp;3), 10-12 (2019)</li>
   <li>De Tabulatuur no. 120, 20-25 (nov 2020)</li>
   <li>Il Liuto no. 20, 2-11 (2020)</li>
-  <li>Lauteninfo 2020-02, 25-30 (2020)</li>
+  <li>Lauteninfo 2020-03, 32-37 (2020)</li>
   <li>Geluit-Luthinerie no. 83 3/2021, pp. 8-11 (dutch)</li>
   <li>Geluit-Luthinerie no. 83 3/2021, pp. 17-20 (french)</li>
   <li>Bulletin of the Societé Français de Luth (2020, no further info available, at present)</li>
