@@ -1,4 +1,4 @@
-PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+Piece Nr;Key;Page nr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
 1;;4r;the pauecheo for ii lutes Johnsone;John Johnson;Lavecchia Pavan, first part of duet;OT;Conc_4386;C;"d/4 c/8 a ,d a c d f d f d f d c a d c d c d c a c | \
 d/4 c/8 d f d c a b a ,d ,b ,d ,b ,a ,,d [,aba,d1] [,aba,d/] [,aba,d] |"
 2;;4r;Lauecheo gallyerde for ii lutes by Johnsone;John Johnson;Lavecchia Galliard, second part of duet;OT;Conc_4387;3/4;"y1 y1 [,acc,a1] | \
@@ -96,12 +96,8 @@ f/8 e f e f e f e f e c a c a ,e ,c |"
 [,d,a/] [,,de] [,adc] ,,c | \
 ,,,,a/ [,cd] ,,,c ,,,,a | \
 [,cd,a1] ,,d/ ,a |"
-19;;10v;the treble to the spanish Pauinge by Alfonces;;Alfonso Ferrabosco;OT;Conc_4405;2/4;",,d/ ,b ,a ,,d | \
-,,c3/2 ,,d/ | \
-,a/4 ,,,c ,,a ,,c ,,d ,,c ,,d/8 ,,c ,,a ,,c | \
-,,d/ ,,b/4 ,,a ,,,c ,,,a ,,,c ,,a | \
-,,c/4 ,,d ,a ,,c ,,d ,a ,b ,,d |"
-20;;11r;the ground to the treble;;Alfonso Ferrabosco;OT;Conc_4343;2/4;"[,,dca/] a ,d ,b | \
+19;;10v;the treble to the spanish Pauinge by Alfonces;Alfonso Ferrabosco;Spanish Pavan, duet treble;OT;Conc_4405;2/4;GB-LblEg2046 / 10v - GB-CuA8844 / 23v - GB-CuDd318 / 14v - S-B172 / 20r - Vallet1615 / 58 - F-Pn1101 / 52 (Gamba) - CH-Bu53 / 64 - D-Bauk85 / 48 (2) - S-B2245 / 8v - S-B2245 / 14v - Besard1603 / 105 - GB-HAB1 / 23v - GB-HAB1 / 27r - RF-SPanON124 / 53v - GB-LblSloane1021 / 22v (2) - NL-Lt1666 / 140 (1) - NL-Lt1666 / 140r (2) - NL-Lt1666 / 140v (1) - NL-Lt1666 / 140v (2) - NL-Lt1666 / 141r (1) - NL-Lt1666 / 141r (2) - Valerius1626 / 259 (2) - GB-Welde / 1 - D-B4022 / 25v ( 2) - D-B4022 / 44r - D-Bs234 / 34r - D-LEm5-32b / 5v - D-LEm6-23 / 36 - F-PnRés941 / 32v - Francisque1600 / 9v - Fuhrmann1615 / 55 (2) - D-Dl297 / 98 - D-LEm6-15 / 85 - D-Lr2000 / 58 - D-DO1214 / 40 - D-ROu54 / 57 - LT-Va285LXXIX / 27 - PL-Kj40159 / 1 - US-CA181 / 4r (2, citt) - LeRoyBallard1565 / 14v (1) - LeRoyBallard1565 / 14v (2) - PhaleseHC1570 / 27v (1) - PhaleseHC1570 / 27v (2) - PhaleseHC1582 / 40r - Cabezòn1578 / 186v - Cabezòn1578 / 190v - Kargel1578 / H2v - Caroso1581 / 39v - Arbeau1589 / 96v - Holborne1597 / C2v - Negri1602 / 135 - Schop1646 / 11v (v+bc) - ValletAS1642 / 43r - Matthysz1644 / 18v (rec) - Matthysz1646 / 11v (rec) - RogerON(2)1700 / 5 - MortierON(2)1700 / 6 - Terpsichore N°29 - GB-CuDd423 / 25r (2, citt) - GB-CuDd423 / 25v (2, citt) - GB-CuDd521 / 2r (citt)
+20;;11r;the ground to the treble;Alfonso Ferrabosco;Spanish Pavan, duet ground;OT;Conc_4343;2/4;"[,,dca/] a ,d ,b | \
 [aac,,a3/2] ,b/ | \
 [,a,,,a/] ,,d ,,,c ,,c | \
 ,,,,a/ ,,d ,,,c ,,,,a | \
@@ -555,7 +551,7 @@ c/ a [,d{,,,a}1] [,bc{,,a}1] | \
 i1 h {,,a} | \
 [fg2] ,,,,,a1 | \
 [dccc1] 'b ,,,,a |"
-102;b moll;44v;[Courant];;;2;Conc_5208;3/4;",a1 | \
+102;b moll;44v;[Courant];;;2;ConcR5208;3/4;",a1 | \
 [,adeec3] | \
 [,,c,e{d}3/2] ,a/ ,c a | \
 [,a,,,c1] ,,a ',,c/ ,,a | \
@@ -661,7 +657,7 @@ a1 ,,,,,a {a}/ [,d,a] ,c3/4 ,,a/4 |"
 [,c,,,a2] ,e1 [,c,,,a3/2] ,a/ ,c1 | \
 [a,,,a3/2] b/ d1 [d,,,a3/2] f/ d1 | \
 [d,,,a3/2] f/ d1 [a,,,a3/2] ,c/ ,a1 |"
-123;a moll;52v;the battelle;;The Battle, duet part;Old Tuning;Conc_4455;3/4;",,d/ ,a [,bbcd1] [,bbcd] | \
+123;a moll;52v;the battelle;;The Battle, duet part;Old Tuning;Conc_4455 - ConcM12;3/4;",,d/ ,a [,bbcd1] [,bbcd] | \
 [,bbcd3/2] ,d/ a b | \
 [d,b,d1] d/ b a ,d | \
 [,bbcd1] [,bbcd2] | \

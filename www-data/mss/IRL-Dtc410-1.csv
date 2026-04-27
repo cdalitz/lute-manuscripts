@@ -313,7 +313,7 @@ z2 [cdda] [dab,,d1] [cdda] | \
 [,dd,ac1] [,dda/] ,,,,,c [,dda,c1] [,dda] |";
 62;;60;batel / pauen;;Battle Pavan;OT;Conc_4342;none;"[abbcd1] [abb] [abb,d] [dbb,d] ,,,c/ b d/4 b a ,d \
 [abb,d1] ,,,c/4 ,d a b [d,,,d] b a ,d ,b/ ,a";
-63;;68;Pauane de la bataille;;Battle Pavan;OT;ConcR193;C;"[fdda2] [fdaa1] [fdaa] | \
+63;;68;Pauane de la bataille;;Battle Pavan;OT;ConcR193 - ConcM12;C;"[fdda2] [fdaa1] [fdaa] | \
 [cdda/] a c/4 a c d [cdda1] [ddf,,d] | \
 [ddf,,d/] ,,d ,,f ,,g [ddf,,d1] [cdda] | \
 [acd,a/] ,a ,c/4 ,a ,c ,d";
@@ -445,7 +445,7 @@ g [hhff,h3/2] f/ |";
 [abd,a1] [abd/] ,,,,c [abb,d1] [,dff,d] | \
 [,bdca1] [,acc,a]  [,,daab/] ,,,,c [,,d,da] ,,,a | \
 ,,,,,a/ [aac] ,,,c ,,d [aacc,a1] [aacc/] ,,,a |";
-97;;97;B Pauan bataille;;Battle Pavan;OT;ConcR193;C;"[fdda3/2] f/ [fdda1] [fdda] | \
+97;;97;B Pauan bataille;;Battle Pavan;OT;ConcR193 - ConcM12;C;"[fdda3/2] f/ [fdda1] [fdda] | \
 [cdda/] ,a/4 ,c ,d a c d [cdda1] [dab,,d] | \
 [dab,,d/4] ,,a ,,b ,,d ,a ,,d ,,b ,,a [dab,,d1] [cdda] |";
 98;;98;[Quadran Pavan];;;OT;;C;"[fdda1] [fdda/] d [c,,a] d [f,,a] c | \
@@ -562,7 +562,7 @@ f/ ,,d/4 ,a ,c ,d a c | \
 [,ddef1] ,,,,,c/ ,,d [,,cc,a1] | \
 [,,dca1] a [,cd,a/] a | \
 [cdda1] [aabc] ,,,e/ ,e/4 f e f c e |";
-122;;128;BITT26, ad secunda[m];;;OT;ConcR193;C;"[fdda2] [fdda1] [fdda] | \
+122;;128;BITT26, ad secunda[m];;;OT;ConcR193 - ConcM12;C;"[fdda2] [fdda1] [fdda] | \
 [cdda1] [cd/] a [cdda1] [dab,,d] | \
 [da,,,d1] d/ c [a,,,d] ,d ,c ,a | \
 [acd,a1] ,,,c/ ,d [ac1] [acd,a] | \
@@ -1044,17 +1044,17 @@ z1 [ffg,a/] [ffg,a] | \
 235;;236;[Prelude];;;OT;;C;"[ab,,a/] ,,d/4 ,a ,b ,d a b | \
 [da/] a/4 b d a b d [b,d,a/] a b/4 a ,d ,b | \
 [,dda/] ,,,c ,,,d ,,b [abd,a/]";
-236;;238;Bataille. / de la Bataille sup[er]ius;;Battle Pavan, first part of duet;OT;ConcR193;C;"[fdaa2] [fdaa1] [fdaa] | \
+236;;238;Bataille. / de la Bataille sup[er]ius;;Battle Pavan, first part of duet;OT;ConcR193 - ConcM12;C;"[fdaa2] [fdaa1] [fdaa] | \
 [cdda1] [cd/] a [cdda1] [dab,,d] | \
 [dab,,a1] d/ c [a,,,,d] ,d ,c ,a | \
 [acd,a1] ,,,c/ ,d [ac1] [acd,a] | \
 [fcd,a2] [fcd1] [fcd,a] |";
-237;;239;La bataille bassus / batail Bas.;;Battle Paven, second part of duet;OT;ConcR193;C;"[aac,,a2] [aac,,a1] [aac,,a] | \
+237;;239;La bataille bassus / batail Bas.;;Battle Paven, second part of duet;OT;ConcR193 - ConcM12;C;"[aac,,a2] [aac,,a1] [aac,,a] | \
 [aac,,a1] ,,,c/ ,,d [aac,,a1] [acd,a] | \
 [acd,a1] [ac/] ,a [,,d,a] ,,c ,,a ,,,c | \
 [,aabc1] ,,,b [,aa] [,aabc] | \
 [,aabc2] [,aabc1] [,aabc] |";
-238;;240;pass. de bataille;;Battle Pavan, first part of duet, p. 243 empty;OT;ConcR193;C;"[fdaa2] [fdaa1] [fdaa] | \
+238;;240;pass. de bataille;;Battle Pavan, first part of duet, p. 243 empty;OT;ConcR193 - ConcM12;C;"[fdaa2] [fdaa1] [fdaa] | \
 [cdda/] a c d [cdda1] [ddf,,d] | \
 [ddf,,d/] ,,d ,,f ,,g [ddf,,d1] [ddf,,d] | \
 [acd,a/] ,d ,c ,a [acd,a] ,a/4 ,c ,d a c d |";
