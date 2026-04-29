@@ -133,7 +133,7 @@ h1 ,a [fc] [,ea] |";germantab
 56;;69;V. Dulce memorie;;;OT;ConcR856;C;"[,dfec2] [,dfec/] ,,,,a ,,,,c/4 ,,,,a ,,,,c ,,,,e | \
 [,ddef1] [,cdca] [,aa,c/] ,c/4 ,d a ,d ,c ,a | \
 [,,ee,c/4] ,,c ,,e ,,f";germantab
-57;;70;VI. Gott ist mein Liecht;;;OT;ConcR850 - ConcM45;C;",a/4 ,,d ,,b ,,a ,,b ,,d ,a ,c [,df1] [a,,c] | \
+57;;70;VI. Gott ist mein Liecht;;;OT;ConcR850,ConcM45;C;",a/4 ,,d ,,b ,,a ,,b ,,d ,a ,c [,df1] [a,,c] | \
 [caa,c/] ,a/4 ,c ,d a c d [caa,c] ,d a c [da,c,a1] |";germantab
 58;;71;VII. Orcum bien;;O combien est malheureux;OT;;C;"[aabc1] c [aabc/] ,c [,d,c] a | \
 [c,da/] a ,d/4 a c d [cdda/] a/4 c [aabc1] |";germantab
@@ -793,7 +793,7 @@ M:C
 247b;;245;Proportio;;;OT;ConcR2598;3;"[abb,d/] ,a ,b ,d a c | [dabc1] ,,,,,a [bdda] | \
 [abb,d1] [abd,a] [,aba,d] | [abb,d2] [dabc1] || \
 [abb,d1] ,,,,c [,daac] |";germantab
-248a;;245;XXVII. Dantz;;;OT;;C;"[ha,g,a2] [ha,g1] ,,,,,a | [ea,c,a1] c/ a ,e a c e | \
+248a;;245;XXVII. Dantz;;;OT;ConcR2288;C;"[ha,g,a2] [ha,g1] ,,,,,a | [ea,c,a1] c/ a ,e a c e | \
 [fcde1] [ea,c] [c,,a/] a ,e ,c | [ca,bc2] [ca,b1] ,,,,c :||:";germantab
 248b;;245;Proportio;;;OT;;3;"[ha,g,a3/2] [ha,g/] ,,,,,a1 | [ea,c,a/] a ,e a c e | \
 [fcde/] e c a ,e ,c | [ca,bc3/2] [ca,b/] ,,,,c1 :||:";germantab
@@ -1485,12 +1485,12 @@ f1 [,a,c/] c e1 |";germantab
 472;;320;I. Allein nach dir Herr;;;OT;ConcR195;C;"[,dda2] [,dba,d1] [,dda] | [,cdca/] ,a/4 ,c [,dda1] [cdda] [cdda/] [cdda] | \
 [acd,a/] ,d/4 a [cdda1] [,dba,d3/2] [,dba,d/] | \
 [,dba,d1] [,dba,d]";germantab
-473;;321;II. O Herre Gott begnade mich;;(Psalm 51);OT;ConcR902 - ConcM69;C;"[,aa,c2] [aabc1] [aab] | [,daac1] [,aba,d] [,daac] [aabc] | \
+473;;321;II. O Herre Gott begnade mich;;(Psalm 51);OT;ConcR902,ConcM69;C;"[,aa,c2] [aabc1] [aab] | [,daac1] [,aba,d] [,daac] [aabc] | \
 [caa,c2] [,daac] | [,cdda1] [dab,,d] [fc,,a] f/ d | \
 [cdda2] [ddf,,d1] [cdda] | [aa,c,a2] [,daac] |";germantab
 474;;321;III. Kompt här zu mir spricht Gottes Sohn;;;OT;;C;"[,dda2] [,dda1] [,dda] | [fcd,a2] z1 [fcd,a] | [dabc1] [cdda] [aac,,a2] | \
 z1 [cdda] [dabc] [dab] | [dab,,d1] [aabc] [bdda/] a b ,d |";germantab
-475;;321;IIII. Dancket dem Herren oder Vitam quae [faciunt beatiorem];;(Psalm 33);OT;Conc_379 - ConcM51;C;"[aabc2] [aabc] | [,ea,c2] [aabc1] [cdda] | [dab,,d2] [dab,,d1] [cdda2] | \
+475;;321;IIII. Dancket dem Herren oder Vitam quae [faciunt beatiorem];;(Psalm 33);OT;Conc_379,ConcM51;C;"[aabc2] [aabc] | [,ea,c2] [aabc1] [cdda] | [dab,,d2] [dab,,d1] [cdda2] | \
 [aabc1] [,ea,c2] | [,ea,c2] :||: [,ea,c2] [aabc] | \
 [cdda/] a c d [cdda1] [aabc] |";germantab
 476;;321;V. Auss dieffer noth schrei;(Mel: Martin Luther);(Psalm 130);OT;ConcM17;C;"[,dda2] [,cdca1] [,dda] | [acd,a2] [acd,a] | [,daac/] ,c ,d a [cdda2] | \
@@ -1503,15 +1503,15 @@ z1 [cdda] [dabc] [dab] | [dab,,d1] [aabc] [bdda/] a b ,d |";germantab
 [aabc1] [,dda] [,,,ca/4] ,d";germantab
 479;;322;VIII. Ich rueff zu dir Herr;;;OT;ConcR2036;C;"[aabc1] ,,,c/ ,d [,bdca1] [,daac] | [,bb,d1] [,,d,a/] ,a [,bb,d1] [,dda] | \
 [aabc2] z1 [aabc/4] ,d a c | [dabc1] [aabc/] ,d";germantab
-480;;322;VIIII. Ein veste Burckh;(Mel: Martin Luther);(Psalm 46);OT;ConcR1509 - ConcM64;C;"[fcd,a1] | [fcd,a2] [fcd,a] | [a,c,e2] [cdda2] [fcd,a1] | \
+480;;322;VIIII. Ein veste Burckh;(Mel: Martin Luther);(Psalm 46);OT;ConcR1509,ConcM64;C;"[fcd,a1] | [fcd,a2] [fcd,a] | [a,c,e2] [cdda2] [fcd,a1] | \
 [,,,,a1] [ea,c] [caa,c] ,,,b | [aac,,a/] ,,a ,,c ,,d [aac,,a1] [fcd,a] | \
 [ea,c2] [cdda] |";germantab
 481;;322;X. Ach Gott von Himel sieh darin;;(Psalm 12);OT;ConcM30;C;"[,dda2] [dab,,d1] [cdda] | [a,b,d1] [,daa] [a,b,d] [cdda] | \
 H[,dda] | [,dda2] [cdda1] [da,,,d] | [fc,,a2] [da,,,d1] [cdda] | \
 [acd,a2] H[cdda] |";germantab
-482;;323;XI. Da Israel auss Egipten zog;;(Psalm 114);OT;ConcR2000 - ConcM132;C;",a/4 ,c ,d a |: ,a1 [c,d2] [a,c1] | [c,,ec1] ,,,e/ ,,c [c,dea1] [ea,c,e] | \
+482;;323;XI. Da Israel auss Egipten zog;;(Psalm 114);OT;ConcR2000,ConcM132;C;",a/4 ,c ,d a |: ,a1 [c,d2] [a,c1] | [c,,ec1] ,,,e/ ,,c [c,dea1] [ea,c,e] | \
 [f,de,c1] [c,,a] [,dd,a] [ac,,a] | [,dfec1] [,cd,,c/] ,,c";germantab
-483;;323;XII. Es seind doch selig alle die;;(Psalm 119);OT;ConcR2041 - ConcM137;C;",,,a2 ,,,a1 ,,,c | [,,aa1] ,,,a [,,aa] [,,bc] | \
+483;;323;XII. Es seind doch selig alle die;;(Psalm 119);OT;ConcR2041,ConcM137;C;",,,a2 ,,,a1 ,,,c | [,,aa1] ,,,a [,,aa] [,,bc] | \
 [,ddef1] [,,da] [,dfec] [acbc] | \
 [cdda1] [,dda/] [,c,a] [ca,a1] [da,c] | \
 [f,d,a1] ,,d ,,b [f,a] |";germantab

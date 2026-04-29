@@ -1,21 +1,21 @@
 PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
-1a;;A1r;Psalm 1;;;OT;ConcR877 - ConcM20;C;"[acd,a2] [cdd{a}] | [aac,,a2] [,cd,a] | [,cd,a1] [acd,a] [,daa{a}] [,cd,a] | \
+1a;;A1r;Psalm 1;;;OT;ConcR877,ConcM20;C;"[acd,a2] [cdd{a}] | [aac,,a2] [,cd,a] | [,cd,a1] [acd,a] [,daa{a}] [,cd,a] | \
 [,daa{a}2] [,acc,a] | [,,d,a2] || z1 [,,d,a] | [,cd,,c2] [,da,c] | \
 [aac,,a2] [acd,a] |"
-1b;;A1v;Variatio;;;OT;ConcR877 - ConcM20;C;"[acd,a2] [cde{a}/] ,a/4 ,c ,d a c/ | [aac,,a/] ,,d ,,c ,d [,cd,a] a c e | \
+1b;;A1v;Variatio;;;OT;ConcR877,ConcM20;C;"[acd,a2] [cde{a}/] ,a/4 ,c ,d a c/ | [aac,,a/] ,,d ,,c ,d [,cd,a] a c e | \
 f/ ,,,,,e ,,,,,c ,,,,,a [c{a}] ,d [,c,,a] a |"
-2a;;A2v;Psalmus 2;;;OT;ConcR878 - ConcM21;C;"[,aa,c2] [,da,c1] [,ce,,c] | [,ab,,d1] [,,da{a}] [,daa{a}] [cdd{a}] | \
+2a;;A2v;Psalmus 2;;;OT;ConcR878,ConcM21;C;"[,aa,c2] [,da,c1] [,ce,,c] | [,ab,,d1] [,,da{a}] [,daa{a}] [cdd{a}] | \
 [acd,a1] [,da,c] [,ce,,c2] || [,daa{a}2] [,cd,a1] [,ac,,a] | \
 [ccd,,c1] [acd,a] [,da,c] [,ca,b] | [,aa,c1] [,da,c] [,ce,,c2] | \
 [,aa,c2] ||"
-2b;;A2v;Variatio;;;OT;ConcR878 - ConcM21;C;"[,aa,c2] [,aa,c/4] ,d ,c ,a ,,,,c ,,f ,,c ,,e | \
+2b;;A2v;Variatio;;;OT;ConcR878,ConcM21;C;"[,aa,c2] [,aa,c/4] ,d ,c ,a ,,,,c ,,f ,,c ,,e | \
 [,ab,,d/] ,,d/4 ,,b [,,da{a}/] ,a/4 ,c \
 [,daa{a}/] a [cdda] {a} |"
-3a;;A4r;Psalmus 3;;;OT;ConcR879 - ConcM22;C;"[,,d,a2] [acd,a] | [a,c,e2] [cd,,c1] [eac] | [fc,ca2] || \
+3a;;A4r;Psalmus 3;;;OT;ConcR879,ConcM22;C;"[,,d,a2] [acd,a] | [a,c,e2] [cd,,c1] [eac] | [fc,ca2] || \
 [fc,ca2] | [ec,,e1] [cdda] [acd,a] [,da,c] | [acd,a2] || \
 [,cd,a2] [,cd,a1] [,,d,a] | [,db,,d1] [,cd,a] [,ad,,a] ,,c | \
 [,,d,a2] ||"
-3b;;A4r;Variatio;;;OT;ConcR879 - ConcM22;C;"[,,d,a2] [acd,a/] ,,d/4 ,a ,c ,d a c | \
+3b;;A4r;Variatio;;;OT;ConcR879,ConcM22;C;"[,,d,a2] [acd,a/] ,,d/4 ,a ,c ,d a c | \
 [a,,,e/] ,e/4 ,c ,a ,c ,e a [cd,,c/] f [ef,c,a/4] f h/ |"
 4a;;B1r;Psalmus 4;;;OT;ConcM23;C;"[dab,,d2] [dab,,d1] [dab,,d] | [cdda1] [,db,,d] [a,b,d] [ca,,c] | \
 [da,c,a1] c/ a [caa,c2] || [da,c2] [fc,,a1] d/ c | \
@@ -23,15 +23,15 @@ f/ ,,,,,e ,,,,,c ,,,,,a [c{a}] ,d [,c,,a] a |"
 4b;;B1v;Variatio;;;OT;ConcM23;C;"[dab,,d2] [dab,,d/] ,,,,a [da,c] ,,,,d | \
 [cdda/4] a ,d ,b [,ab,,d] ,b ,d ,a \
 [a,,,d] d c a [,ef,c] ,f c ,e |"
-5a;;B2v;Psalmus 5;;;OT;ConcR880 - ConcM24;C;"[,aa,c2] [cd,,c1] [ea,c] | [fdaa2] [fc,e] | [hf,,h1] [fc,e] [eh,,e] ,g | \
+5a;;B2v;Psalmus 5;;;OT;ConcR880,ConcM24;C;"[,aa,c2] [cd,,c1] [ea,c] | [fdaa2] [fc,e] | [hf,,h1] [fc,e] [eh,,e] ,g | \
 [cce,,c2] || [hhi,,h2] [hhi,,h1] [hf,g,a] | [fc,,,c1] [ecc,e] [ccd,,c2] | \
 [,da,c2] [,cee,c] ||"
-5b;;B2v;Variatio;;;OT;Concr880 - ConcM24;C;"[,aa,c/] ,,c/4 ,,d ,a ,c ,d a [cdf,c/] f [ef,c] f/4 e | \
+5b;;B2v;Variatio;;;OT;Concr880,ConcM24;C;"[,aa,c/] ,,c/4 ,,d ,a ,c ,d a [cdf,c/] f [ef,c] f/4 e | \
 [fdaa/] ,a/4 ,c ,d a c e [fc,e/] e c f |"
-6a;;B3r;Psalmus 6;;;OT;ConcR881 - ConcM25;C;"[,aa,c2] [,abc,a1] [,abc,a] | [,,d,,c2] [,,da{a}1] ,a/ ,c | \
+6a;;B3r;Psalmus 6;;;OT;ConcR881,ConcM25;C;"[,aa,c2] [,abc,a1] [,abc,a] | [,,d,,c2] [,,da{a}1] ,a/ ,c | \
 [,ab,,d/] ,c [,daa{a}1] [,ddca] ,c | [,daa{a}2] || \
 [cdda2] [cdda1] [fdaa] | [dab,,d1] [cdd{a}] [acd,a2] |"
-6b;;B3v;Variatio;;;OT;ConcR881 - ConcM25;C;"[,aa,c/] c/4 a ,d ,c ,a ,,d [,ab,,a/] ,,b/4 ,,d ,a/ [,,b,,a] | \
+6b;;B3v;Variatio;;;OT;ConcR881,ConcM25;C;"[,aa,c/] c/4 a ,d ,c ,a ,,d [,ab,,a/] ,,b/4 ,,d ,a/ [,,b,,a] | \
 ,,,,,c/ ,,d ,,a/4 ,,b ,,d ,a [,,da{a}/] \
 ,,a/4 ,,b ,,d ,a ,c ,,d |"
 7a;;B4r;Psalmus 7;;;OT;ConcM26;C;"[aabc2] [aabc1] [cd,,c] | [da,c1] [aa,c] [fdaa] [da,c] | \
@@ -39,14 +39,14 @@ f/ ,,,,,e ,,,,,c ,,,,,a [c{a}] ,d [,c,,a] a |"
 [aab,,a1] [,ab,,a] [,da,c] [,da,c] |"
 7b;;B4r;Variatio;;;OT;ConcM26;C;"[aabc2] [aabc/4] d c a [c,,,c] a ,d ,c | \
 [,a,c/] d [a,b] ,,,c [fdaa] c [da,c] ,,,,,a |"
-8a;;C1r;Psalmus 8;;;OT;ConcR882 - ConcM27;C;"[,aa,c2] [,da,c1] ,,b | [acd,a1] ,,b [cdda2] | \
+8a;;C1r;Psalmus 8;;;OT;ConcR882,ConcM27;C;"[,aa,c2] [,da,c1] ,,b | [acd,a1] ,,b [cdda2] | \
 [hhi,,h2] [fdaa1] [ea,c] | [ccde1] [fc,e] [egh,e2] | [cce,,c2] || \
 [hhi,,h2] [hhi,,h1] [hhi,,h] | [fdaa2] [k,,,a] |"
-8b;;C1r;Variatio;;;OT;ConcR882 - ConcM27;C;"[,aa,c/] ,,c/4 ,,d ,a ,c ,d a ,,,,c ,d ,c ,a ,,d ,a ,c ,d | \
+8b;;C1r;Variatio;;;OT;ConcR882,ConcM27;C;"[,aa,c/] ,,c/4 ,,d ,a ,c ,d a ,,,,c ,d ,c ,a ,,d ,a ,c ,d | \
 [acd,a/4] ,d ,c ,a ,c ,d a ,c"
-9a;;C1v;Psalmus 9;;;OT;ConcR883 - ConcM28;C;"[,aaac2] [,aaac1] [,acc,a] | [ccd,,c3/2] e/ [fc,,,c1] e/ c | \
+9a;;C1v;Psalmus 9;;;OT;ConcR883,ConcM28;C;"[,aaac2] [,aaac1] [,acc,a] | [ccd,,c3/2] e/ [fc,,,c1] e/ c | \
 [ecc,e1] [ecc,e] [cce,,c2] || [fc,,,c1] e/ e [ecc,e] ,f c e |"
-9b;;C2r;Variatio;;;OT;ConcR883 - ConcM28;C;"[,aa,c/4] ,d ,a ,c ,d ,a ,,c ,,d [,aa,c/] ,d ,,,,,a/4 ,d ,c ,a | \
+9b;;C2r;Variatio;;;OT;ConcR883,ConcM28;C;"[,aa,c/4] ,d ,a ,c ,d ,a ,,c ,,d [,aa,c/] ,d ,,,,,a/4 ,d ,c ,a | \
 [ccd,,c/] f c e f ,,,,,e ,,,,a ,,,,c |"
 10a;;C2v;Psalmus 10;;;OT;ConcM29;C;"[cdda2] [dab,,d] | [acd,a/] ,d ,a ,c [,da,c3/2] ,c/ | \
 [,aa,c/] ,c ,d ,a [,cd,,c1] [,aa,c] | \
@@ -58,15 +58,15 @@ f/ ,,,,,e ,,,,,c ,,,,,a [c{a}] ,d [,c,,a] a |"
 [hhi,,h2] [fc,,,c] | [hhi,,h2] [cd,,c1] [fc,,a] |"
 11b;;C3v;Variatio;;;OT;ConcM19;C;"[ccd,,c/] ,,f/4 ,c ,e ,f c e [fc,,,c/] ,,,,,e ,,,,a ,,,,,c | \
 [eg,,e/] ,h ,e ,g [ccd,,c] e [f,,e] c |"
-12a;;C4v;Psalmus 12;;;OT;ConcR885 - ConcM30;C;"[caa,c2] [,da,c1] [acd,a] | [cdda2] [fc,,a] | [cd,,c1] [,da,c] [acd,a] [,da,c] | \
+12a;;C4v;Psalmus 12;;;OT;ConcR885,ConcM30;C;"[caa,c2] [,da,c1] [acd,a] | [cdda2] [fc,,a] | [cd,,c1] [,da,c] [acd,a] [,da,c] | \
 [,cf,,c1] ,,e [,aa,c2] || [cd,,c2] [ccd,,c1] [,gh,e] | \
 [cd,,c2] [hhi,,h] | [c,aa1] [hhi,,h] [fc,e2] |"
-12b;;C4v;Variatio;;;OT;ConcR885 - ConcM30;C;"[caa,c3/4] a/4 ,d ,c ,a ,,d ,,,,c ,d ,c ,a [,c,,a] ,d a ,c | \
+12b;;C4v;Variatio;;;OT;ConcR885,ConcM30;C;"[caa,c3/4] a/4 ,d ,c ,a ,,d ,,,,c ,d ,c ,a [,c,,a] ,d a ,c | \
 [cdda/] ,,d ,d/4 a c d [fc,,a/] ,,,,c ,,,,e ,,,,a |"
-13a;;D1r;Psalmus 13;;;OT;ConcR886 - ConcM31;C;"[,aa,c2] [,aa,c1] [,ab,,a] | [,da,c1] [,da,c] [acd,a] [acd,a] | \
+13a;;D1r;Psalmus 13;;;OT;ConcR886,ConcM31;C;"[,aa,c2] [,aa,c1] [,ab,,a] | [,da,c1] [,da,c] [acd,a] [acd,a] | \
 [cdda2] || [cd,,c2] [ea,c1] [fc,,a] | [cd,,c1] [hhi,,h2] [fc,,,c1] | \
 [eh,,e1] ,g [cce,,c2] || [cdda2] [acd,a1] [,da,c] |"
-13b;;D1r;Variatio;;;OT;ConcR886 - ConcM31;C;"[,,a,c/] ,a ,,c ,,e [,aa,c] ,d [,ab,,a] ,c | \
+13b;;D1r;Variatio;;;OT;ConcR886,ConcM31;C;"[,,a,c/] ,a ,,c ,,e [,aa,c] ,d [,ab,,a] ,c | \
 [,d,,c/4] a ,d ,c [,a,,c] ,c ,d ,a [acd,a/] [,da] ,,,c ,d | \
 [cdda2] ||"
 14a;;D1v;Psalmus 14;;;OT;ConcM32;C;"[hhi,,h2] [hhi,,h1] [hhi,,h] | [acd,a2] [cdda] | \
@@ -79,16 +79,16 @@ f/ ,,,,,e ,,,,,c ,,,,,a [c{a}] ,d [,c,,a] a |"
 [hhi,,h2] [ca,,c] | [fc,,a1] [fc,,,c] [eh,ge] ,g | [cce,,c2] ||"
 15b;;D2v;Variatio;;;OT;ConcM33;C;"[,cd,a/4] a ,c ,d ,c ,d a c [a,,,e/] ,,c/4 ,,e ,a ,c ,e a | \
 [cdf,c/] ,,,,e ,,,a ,,,,c [fc,,a] ,,,,c ,,,,e ,,,a |"
-16a;;D3r;Psalmus 16;;;OT;ConcR888 - ConcM34;C;"[fc,ca2] [ea,c,a] | [cd,,c2] [a,c,e1] [,cd,,c] | \
+16a;;D3r;Psalmus 16;;;OT;ConcR888,ConcM34;C;"[fc,ca2] [ea,c,a] | [cd,,c2] [a,c,e1] [,cd,,c] | \
 [aac,,a1] [acd,a] [,da,c] [,da,c] | [,cee,c2] || \
 [,cd,a2] [,acc,a1] [,,d,,c] | [aac,,a2] [acde,a] | \
 [ccd,,c1] [cef,c] [ea,c,a] [acd,a] | [fc,,a2] [ea,c,a] ||"
 16b;;D3v;Variatio;;;OT;ConcM34;C;"[fc,ca/] e c/4 e f/ [ea,c,a] c a/4 c e/ | \
 [ca,,c/] a ,d/4 a c/ [a,,,e/4] ,e ,c ,a [,,d,,c] ,a ,c ,d |"
-17a;;D4r;Psalmus 17;;;OT;ConcR887 - ConcM35;C;"[,daa{a}2] [,cd,a] | [acd,a2] [cdd{a}1] [acd,a] | \
+17a;;D4r;Psalmus 17;;;OT;ConcR887,ConcM35;C;"[,daa{a}2] [,cd,a] | [acd,a2] [cdd{a}1] [acd,a] | \
 [,da,c1] [,acc,a] [,cd,a2] || [,,d,a2] [acd,a1] [a,c,e] | \
 [cd,,c2] [cdda] | [fc,,a1] [fc,,a] [ea,c,a2] | [ccd,,c] ||"
-17b;;D4v;Variatio;;;OT;ConcR887 - ConcM35;C;"[,daa{a}/] ,,a/4 ,,c ,,d ,a ,c ,d [,c,,a/] ,,d ,c ,d | \
+17b;;D4v;Variatio;;;OT;ConcR887,ConcM35;C;"[,daa{a}/] ,,a/4 ,,c ,,d ,a ,c ,d [,c,,a/] ,,d ,c ,d | \
 [a,,,a/] ,c ,,d/4 ,a ,c ,,d [,daa{a}/] d/4 c [acd,a/] c/4 a |"
 18a;;E1r;Psalmus 18;;;OT;ConcM36;C;"[aabc2] [da,c] | [da,c2] [cef,c1] [cef,c] | \
 [da,c1] [fdaa] [hd,,,d] [fdaa] | [da,c2] [cef,c] || \
@@ -96,15 +96,15 @@ f/ ,,,,,e ,,,,,c ,,,,,a [c{a}] ,d [,c,,a] a |"
 [da,c,a1] [da,c,a] [cef,c] [a,d,d] |"
 18b;;E1v;Variatio;;;OT;CincM36;C;"[aabc/] ,,d/4 ,a ,c ,d a c [da,c] a ,c ,d ,c ,d a c | \
 ,,,c/4 d c a ,e a c d [cef,c/] ,f ,e f |"
-19a;;E2v;Psalmus 19;;;OT;ConcR889 - ConcM37;C;"[,,d,a2] [acd,a1] [acd,a] | [cdd{a}2] [acd,a] | [,da,c2] || \
+19a;;E2v;Psalmus 19;;;OT;ConcR889,ConcM37;C;"[,,d,a2] [acd,a1] [acd,a] | [cdd{a}2] [acd,a] | [,da,c2] || \
 [,daa2] [a,d,e1] [cdda] | [dab,,d2] [cef,c] | [aac,,a2] || \
 [,aa,c2] [,da,c1] [,db,,d] | [,c,,a1] ,,d [,a,,,a] ,,c |"
-19b;;E2v;Variatio;;;OT;ConcR889 - ConcM37;C;"[,,d,a/] ,,a/4 ,,c ,,d ,a ,c ,d [,c,,a] ,a ,c ,d a ,c ,d a | \
+19b;;E2v;Variatio;;;OT;ConcR889,ConcM37;C;"[,,d,a/] ,,a/4 ,,c ,,d ,a ,c ,d [,c,,a] ,a ,c ,d a ,c ,d a | \
 [cdd{a}/] ,,,,,a ,,,,,c ,,,,,d [acd,a] ,d ,a ,c |"
-20a;;E3v;Psalmus 20;;;OT;ConcR890 - ConcM38;C;"[ccd,,c2] [cdf,c1] [,gh,e] | [caaa1] [fc,,a] [ea,c] [ccde] | \
+20a;;E3v;Psalmus 20;;;OT;ConcR890,ConcM38;C;"[ccd,,c2] [cdf,c1] [,gh,e] | [caaa1] [fc,,a] [ea,c] [ccde] | \
 [,h,ge1] ,g [cce,,c] [,da,c] | [,da,c1] [,da,c] [,cd,a] [,ab,,a] | \
 [,,ee,c2] || [,da,c2] [acd,a1] [cdda] |"
-20b;;E3v;Variatio;;;OT;ConcR890 - ConcM38;C;"[ccd,,c/] ,,c/4 ,,d ,,f ,c ,d ,f [,da,c/] c [,gh,e] ,h/4 ,g | \
+20b;;E3v;Variatio;;;OT;ConcR890,ConcM38;C;"[ccd,,c/] ,,c/4 ,,d ,,f ,c ,d ,f [,da,c/] c [,gh,e] ,h/4 ,g | \
 [c,,a/] e [f,,,a] c [e,,c] ,c [,,de] c "
 21a;;E4r;Psalmus 21;;;OT;ConcM39;C;"[aac,,a2] [acd,a1] [,da,c] | [,cee,c2] [cdd{a}] | \
 [acd,a1] [,da,c] [,cee,c2] || [,,d,,c2] [,cd,,c1] [,da,c] | \
@@ -112,23 +112,23 @@ f/ ,,,,,e ,,,,,c ,,,,,a [c{a}] ,d [,c,,a] a |"
 [aa,c,,a2] [,cd,a1] [,cd,a] | [,,d,,c1] [,cd,a] [,acc,a2] |"
 21b;;E4v;Variatio;;;OT;ConcM39;C;"[aac,,a/] ,,d/4 ,a ,c ,d a c [acd,a/] c [,da,c] ,,c | \
 [,ce,,c/] ,,f/4 ,c ,d ,f c d [cdd{a}] ,d ,c ,a ,,d ,a ,c ,d |"
-22a;;F1r;Psalmus 22;;;OT;ConcR892 - ConcM40;C;"[,db,,d2] [,ab,,d] | [aab,,a2] [,da,c1] [,da,c] | \
+22a;;F1r;Psalmus 22;;;OT;ConcR892,ConcM40;C;"[,db,,d2] [,ab,,d] | [aab,,a2] [,da,c1] [,da,c] | \
 [dab,,d1] [dab,,d] [cdda2] | [acd,a2] [,ea,c] || \
 [,,d,,c2] [,da,c1] [acd,a] | [cdda2] [cdd{a}] | \
 [acd,a1] [,da,c] [,abc,a2] | [,a,a,d2] [,cee,c] ||"
-22b;;F1r;Variatio;;;OT;ConcR892 - ConcM40;C;"[,db,,d/] ,a ,,b/4 ,,d ,a ,b [,ab,,d] ,,d ,a ,b ,d ,a ,b ,d | \
+22b;;F1r;Variatio;;;OT;ConcR892,ConcM40;C;"[,db,,d/] ,a ,,b/4 ,,d ,a ,b [,ab,,d] ,,d ,a ,b ,d ,a ,b ,d | \
 [aab,,a/] ,,,,,c ,,,,,d ,,,,a [,da,c] ,,,,a ,,,,,d ,,,,,c |"
-23a;;F2r;Psalmus 23;;;OT;ConcR891 - ConcM41;C;"[aab,,a2] [acd,a1] [acd,a] | [,ab,,d2] [,ab,,d] | \
+23a;;F2r;Psalmus 23;;;OT;ConcR891,ConcM41;C;"[aab,,a2] [acd,a1] [acd,a] | [,ab,,d2] [,ab,,d] | \
 [,da,c1] [acd,a] [cdda] [aabc] | [aaa,c1] ,e [aac,,a2] || \
 [da,c,a2] [ed,,c] | [aab,,a2] [,da,c] | \
 [,aa,c2] [,da,c1] [acd,a] |"
-23b;;F2r;Variatio;;;OT;ConcR891 - ConcM41;C;"[aab,,a/] ,a a c [acd,a] ,d [,a,,a] ,c | \
+23b;;F2r;Variatio;;;OT;ConcR891,ConcM41;C;"[aab,,a/] ,a a c [acd,a] ,d [,a,,a] ,c | \
 [,ab,,d/4] ,d ,a ,c ,d ,a ,,b ,,d \
 [,ab,,d/] ,,d/4 ,a ,c ,d a ,c |"
-24a;;F2v;Psalmus 24;;;OT;ConcR893 - ConcM42;C;"[,aa,c2] [ccd,,c] | [,da,c2] [acd,a] | [acd,a1] [,da,c] [,cf,,c] ,,e | \
+24a;;F2v;Psalmus 24;;;OT;ConcR893,ConcM42;C;"[,aa,c2] [ccd,,c] | [,da,c2] [acd,a] | [acd,a1] [,da,c] [,cf,,c] ,,e | \
 [,aa,c2] || [,aa,c2] [,da,c1] [acde,a] | [cdda1] [fdaa] [ea,c] [ea,c] | \
 [cef,c2] || [cd,,c2] [ea,c,a1] [cd,,,c] |"
-24b;;F3r;Variatio;;;OT;ConcR893 - ConcM42;C;"[,aa,c/] ,,c/4 ,,e ,a ,c ,d a [cce,,c/] ,,f ,,c ,,e | \
+24b;;F3r;Variatio;;;OT;ConcR893,ConcM42;C;"[,aa,c/] ,,c/4 ,,e ,a ,c ,d a [cce,,c/] ,,f ,,c ,,e | \
 [,da,c/] ,a/4 ,c ,d a c ,d [,cd,a] a ,c ,d ,c ,d a c |"
 25a;;F3v;Psalmus 25;;;OT;ConcM43;C;"[,daa{a}2] [,cd,,c1] [,ab,,d] | [,,da{a}1] [,da,c2] [acd,a1] | \
 [cdda2] [,db,,d] || [cdda2] [cdda] | [dab,,d1] [cdda] [,daa] [,d,,c] | \
@@ -153,11 +153,11 @@ f/ ,,,,,e ,,,,,c ,,,,,a [c{a}] ,d [,c,,a] a |"
 [bd,,,d1] [bd,,,d] [fdaa] [da,c] | [ca,,c1] ,,,b [aa,c,a2] ||"
 28b;;G2r;Variatio;;;OT;ConcM46;C;"[aab,,a/] ,,,c/4 ,,a ,,b ,,d ,a ,c [cdda] a c d c a ,d ,c | \
 [,ab,,d/] ,b ,a ,,d ,a ,,,,a [,,a,c] ,,,b |"
-29a;;G2v;Psalmus 29;;;OT;ConcR895 - ConcM47;C;"[acd,a2] [cdd{a}] | [acd,a1] [cd,,,c] [ea,c,a2] | \
+29a;;G2v;Psalmus 29;;;OT;ConcR895,ConcM47;C;"[acd,a2] [cdd{a}] | [acd,a1] [cd,,,c] [ea,c,a2] | \
 [fc,ca2] [acd,a] || [fc,,a2] [ea,c,a] | \
 [cef,c1] [fc,ca] [e,,,c] [cef,c] | [aac,,a2] || \
 [acd,a2] | [,cd,a1] [cdd{a}2] [acd,a1] |"
-29b;;G3r;Variatio;;;OT;ConcR895 - ConcM47;C;"[acd,a/4] ,c ,,d ,a ,c/ [,,b{a}] [cdd/4] ,d ,c ,a ,,d ,a ,c ,d | \
+29b;;G3r;Variatio;;;OT;ConcR895,ConcM47;C;"[acd,a/4] ,c ,,d ,a ,c/ [,,b{a}] [cdd/4] ,d ,c ,a ,,d ,a ,c ,d | \
 [acd,a/] ,,,,,e [ccd,,c] ,e \
 [ea,c,a] ,,,a/4 ,,,,e ,,,,c ,,,,a ,,,,c ,,,,,a |"
 30a;;G3v;Psalmus 30;;;OT;ConcM48;C;"[aac,,a2] [,da,c] | [,cd,a2] [,acc,a1] [,aa,c] | \
@@ -166,10 +166,10 @@ f/ ,,,,,e ,,,,,c ,,,,,a [c{a}] ,d [,c,,a] a |"
 [aac,,a2] [,cd,a] |"
 30b;;G3v;Variatio;;;OT;ConcM48;C;"[aa,c,a/] ,,c/4 ,,a ,,c ,,d ,a ,c [,da,c/] ,,a/4 ,,c ,,d ,a ,c ,d | \
 [,c,,a/4] ,,d ,,c ,,a ,,,c ,,a ,,c ,,d [,acc,a/] ,,c/4 ,,d ,a/ ,,,,c |"
-31a;;G4v;Psalmus 31;;;OT;ConcR894 - ConcM49;C;"[ccd,,c2] [a,c,e1] [,cd,,c] | [,da,c1] [,da,c] [acd,a] [cdd{a}] | \
+31a;;G4v;Psalmus 31;;;OT;ConcR894,ConcM49;C;"[ccd,,c2] [a,c,e1] [,cd,,c] | [,da,c1] [,da,c] [acd,a] [cdd{a}] | \
 [,a,,,d1] a2 [cce,,c1] || [,aa,c2] [,cd,,c1] [,da,c] | \
 [acd,a2] [ccd,,c] | [,acc,a2] || [,cd,a2] [acd,a1] [acd,a] |"
-31b;;G4v;Variatio;;;OT;ConcR894 - ConcM49;C;"[ccd,,c/] ,,,e/4 ,,c ,,d/ ,,f [a,,,e/4] c a ,e [,cd,,c/] c | \
+31b;;G4v;Variatio;;;OT;ConcR894,ConcM49;C;"[ccd,,c/] ,,,e/4 ,,c ,,d/ ,,f [a,,,e/4] c a ,e [,cd,,c/] c | \
 [,da,c/4] ,c ,a ,,d ,a ,,,c ,,a ,,c [,cd,a/] a [cdd{a}] ,c |"
 32a;;H1r;Psalmus 32;;;OT;ConcM50;C;"[,,d,a2] [,cd,,c] | [,da,c2] [acd,a] | [aac,,a2] [acd,a1] [,cd,a] | \
 [,dd,,c1] [aac,,a] [cdd{a}2] | [acd,a1] [,da,c] [,cd,,c] [,cd,,c] | \
@@ -186,25 +186,25 @@ f/ ,,,,,e ,,,,,c ,,,,,a [c{a}] ,d [,c,,a] a |"
 [acd,a2] [,daa{a}] || [cdda2] [acd,a1] [,da,c] |"
 34b;;H3v;Variatio;;;OT;ConcM52;C;"[,aa,c/] ,,c/4 ,,e ,a/ ,c [,da,c] ,c/4 ,d [,ce,,c/] ,,f/4 ,,e | \
 [,df,c/] ,f c ,,d [,gh,e] ,h ,e ,g | [cce,,c2] ||"
-35a;;H4r;Psalmus 35;;;OT;ConcR896 - ConcM53;C;"[,daa{a}2] [,db,,d1] [aab,,a] | [cdd{a}1] [acd,a] [,,aac] ,d | \
+35a;;H4r;Psalmus 35;;;OT;ConcR896,ConcM53;C;"[,daa{a}2] [,db,,d1] [aab,,a] | [cdd{a}1] [acd,a] [,,aac] ,d | \
 [,cd,a/] ,d ,a ,c [,daa{a}2] || [cdda2] [cdda1] [acd,a] | \
 [cdda2] [fdaa] | [da,c1] [cdda] [acd,a2] ||"
-35b;;H4r;Variatio;;;OT;ConcR896 - ConcM53;C;"[,daa{a}/] ,,,c/4 ,,a ,,b ,,d ,a ,c [,db,,d/] ,,,,,c [aab,,a] ,c | [cdd{a}/] d/4 c \
+35b;;H4r;Variatio;;;OT;ConcR896,ConcM53;C;"[,daa{a}/] ,,,c/4 ,,a ,,b ,,d ,a ,c [,db,,d/] ,,,,,c [aab,,a] ,c | [cdd{a}/] d/4 c \
 [acd,a/] c/4 a ,,,,c ,,d ,a ,c ,d ,,a ,,,c ,,,a |"
-36a;;I1r;Psalmus 36;;;OT;ConcR903 - ConcM54;C;"[,,d,a2] [,,de,c1] [,acc,a] | [,cd,a1] [,,d,a] [,cd,,c] [,da,c] | \
+36a;;I1r;Psalmus 36;;;OT;ConcR903,ConcM54;C;"[,,d,a2] [,,de,c1] [,acc,a] | [,cd,a1] [,,d,a] [,cd,,c] [,da,c] | \
 [acd,a2] || [acd,a2] [,daa{a}1] [,cd,a] | [,acc,a1] [,,d,a] [,cd,a] [,da,c] | [acd,a2] || \
 [cdd{a}2] [acd,a1] [,da,c] |"
-36b;;I1v;Variatio;;;OT;ConcR903 - ConcM54;C;"[,,d,a/] a/4 ,d ,c ,a ,,d ,,c [,,d,,c/] ,,c/4 ,,d [,acc,a/] ,c/4 ,d | \
+36b;;I1v;Variatio;;;OT;ConcR903,ConcM54;C;"[,,d,a/] a/4 ,d ,c ,a ,,d ,,c [,,d,,c/] ,,c/4 ,,d [,acc,a/] ,c/4 ,d | \
 [,c,,a/] ,a [,,d,a] ,a [,c,,,c] a [,da,c] ,,c |"
-37a;;I2r;Psalmus 37;;;OT;ConcR898 - ConcM55;C;"[,aa,c2] [,acc,a1] [,acc,c] | [cce,,c1] [cd,,c] [fc,,a] [fc,,a] | \
+37a;;I2r;Psalmus 37;;;OT;ConcR898,ConcM55;C;"[,aa,c2] [,acc,a1] [,acc,c] | [cce,,c1] [cd,,c] [fc,,a] [fc,,a] | \
 [acd,a1] [cdda] [ecc,e2] | [cce,,c2] || [hhi,,h2] [hhi,,h1] [hhi,,h] | \
 [k,,,a2] [hff,h] | [fc,e1] [fdaa] [ea,c] [ea,c] |"
-37b;;I2v;Variatio;;;OT;ConcR898 - ConcM55;C;"[,aa,c/] c/4 a ,d ,c ,a ,,d [,ac,,a/] ,,,c/4 ,,a ,,c ,,d ,a ,,c | \
+37b;;I2v;Variatio;;;OT;ConcR898,ConcM55;C;"[,aa,c/] c/4 a ,d ,c ,a ,,d [,ac,,a/] ,,,c/4 ,,a ,,c ,,d ,a ,,c | \
 [ccd,,c/] f [cd,,c] e [fc,,a] ,,a/4 ,,c ,,d ,a ,c ,d |"
-38a;;I3r;Psalmus 38;;;OT;ConcR897 - ConcM56;C;"[da,c2] [cdf,c] | [a,b,d1] [cef,c] [da,c] [fdaa] | \
+38a;;I3r;Psalmus 38;;;OT;ConcR897,ConcM56;C;"[da,c2] [cdf,c] | [a,b,d1] [cef,c] [da,c] [fdaa] | \
 [h,ff2] [fdaa1] [gd,,,d2] [fdaa1] | [da,c2] [cef,c] || \
 [ffg,a1] [ffg,a] [hd,,,d2] | [db,,d1] [ffg,a] [cf,ec] ,e |"
-38b;;I3r;Variatio;;;OT;ConcR897 - ConcM56;C;"[da,c/] ,a/4 ,c ,d a c d [cd,,c/] ,a/4 ,c ,d a c ,d | \
+38b;;I3r;Variatio;;;OT;ConcR897,ConcM56;C;"[da,c/] ,a/4 ,c ,d a c d [cd,,c/] ,a/4 ,c ,d a c ,d | \
 [a,b,d/] ,,d [cef,c] ,,d [da,c] ,c [f,aa] ,d |"
 39a;;I3v;Psalmus 39;;;OT;ConcM57;C;"[,cdca2] [,cd,,c1] [,da,c] | [acd,a2] [cdda] | \
 [ac,,e1] [fc,,a] [ff,c] [e,,c] | [fc,ca2] || \
@@ -212,10 +212,10 @@ f/ ,,,,,e ,,,,,c ,,,,,a [c{a}] ,d [,c,,a] a |"
 [aa,,c1] ,e [aac,,a2] ||"
 39b;;I3v;Variatio;;;OT;ConcM57;C;"[,cd,a/] ,,a/4 ,,c ,,d ,a ,c ,d [,cd,,c/] a [,da,a] ,,c | \
 [acd,a/4] ,d ,c ,a ,c ,d a ,c [cdda/] ,a/4 ,c ,d a c ,d |"
-40a;;I4v;Psalmus 40;;;OT;ConcR899 - ConcM58;C;"[,aa,c2] [,aa,c1] [,aa,c] | [,db,,d2] [aab,,a] | [da,c,a1] [ca,,c] [,bd,a] a | \
+40a;;I4v;Psalmus 40;;;OT;ConcR899,ConcM58;C;"[,aa,c2] [,aa,c1] [,aa,c] | [,db,,d2] [aab,,a] | [da,c,a1] [ca,,c] [,bd,a] a | \
 [aaa,c1] ,e [aac,,a2] || [aa,c2] [da,c1] [da,c] | \
 [cd,,c1] [cdda] [a,b,d2] | [abd,a2] [,ea,c] ||"
-40b;;I4v;Variatio;;;OT;ConcR899 - ConcM58;C;"[,aa,c/] c/4 a ,d ,c ,a ,,d [,aa,c] ,d ,a ,c ,a ,c ,d a | \
+40b;;I4v;Variatio;;;OT;ConcR899,ConcM58;C;"[,aa,c/] c/4 a ,d ,c ,a ,,d [,aa,c] ,d ,a ,c ,a ,c ,d a | \
 [,db,,d/] ,a/4 ,c ,d a c ,d"
 41a;;K1v;Psalmus 41;;;OT;ConcM59;C;"[caa,c2] [hhi,,h1] [hhi,,h] | [fc,,,c2] [hhi,,h] | \
 [k,,,a1] [hf,g,a] [fc,e,c2] | [ecc,e2] [cce,,c1] [,da,c] | \
@@ -223,16 +223,16 @@ f/ ,,,,,e ,,,,,c ,,,,,a [c{a}] ,d [,c,,a] a |"
 [,aa,c2] [ca,,c] |"
 41b;;K2r;Variatio;;;OT;ConcM59;C;"[caa,c/] ,a/4 ,c ,d a c/ [hhi,,h] ,a/4 ,c ,d a c e | \
 [fc,,,c/] e c e/4 f [hhi,,h/] ,,i/4 ,,l ,h ,k ,l h |"
-42a;;K2v;Psalmus 42;;;OT;ConcR923 - ConcM60;C;"[,daa2] [acd,a1] [cdda2] [acd,a1] [,da,c] [,cd,,c] | \
+42a;;K2v;Psalmus 42;;;OT;ConcR923,ConcM60;C;"[,daa2] [acd,a1] [cdda2] [acd,a1] [,da,c] [,cd,,c] | \
 [,ab,,d2] [,,da{a}] || [,daa2] [acd,a1] [cdda2] [dab,,d1] [cdda2] | \
 [acd,a2] [,daa{a}] || [cdda2] [cdda1] [fdaa2] [dab,,d1] |"
-42b;;K3r;Variatio;;;OT;ConcR923 - ConcM60;C;"[,daa{a}/] ,,,a/4 ,,,c ,,a ,,b ,,d ,a [,c,,a] ,d a ,c \
+42b;;K3r;Variatio;;;OT;ConcR923,ConcM60;C;"[,daa{a}/] ,,,a/4 ,,,c ,,a ,,b ,,d ,a [,c,,a] ,d a ,c \
 [cdda] ,d ,c ,a | ,,d ,a ,c ,d [,cd,a/] a \
 [,d,,c] ,,a [,c,,,c] ,,d |"
-43a;;K3v;Psalmus 43;;;OT;ConcR900 - ConcM61;C;"[,daa2] | [acd,a2] [acd,a] | [,da,c1] [,da,c] [db,,d] [dab,,d] | \
+43a;;K3v;Psalmus 43;;;OT;ConcR900,ConcM61;C;"[,daa2] | [acd,a2] [acd,a] | [,da,c1] [,da,c] [db,,d] [dab,,d] | \
 [cdda2] [acd,a] || z1 [,da,c] [acd,a2] | [dab,,d2] [cdda1] [acd,a] | \
 [,aa,c1] [,db] [,ddca] ,c |"
-43b;;K3v;Variatio;;;OT;ConcR900 - ConcM61;C;"[,daa{a}/] ,,a/4 ,,c ,,d ,a ,c ,d | \
+43b;;K3v;Variatio;;;OT;ConcR900,ConcM61;C;"[,daa{a}/] ,,a/4 ,,c ,,d ,a ,c ,d | \
 [acd,a/] [,da] [,c,c] [,a,a] [acd,a] [,da] ,,,c ,c | \
 [,da,c/] ,,,a ,,,b ,,,d [dab,,d]"
 44a;;K4r;Psalmus 44;;;OT;ConcM62;C;"[aacc2] [a,c,e1] [cd,,c] | [ea,c2] [fdaa] | \
@@ -271,18 +271,18 @@ f/ ,,,,,e ,,,,,c ,,,,,a [c{a}] ,d [,c,,a] a |"
 49b;;M1v;Variatio;;;OT;ConcM67;C;"[,,aa/] ,d ,a ,c [,da,c] ,,,c ,,a ,,c | \
 [acd,a/4] ,,,,c ,,,,e ,,,,a [cdda] ,c ,a ,,d | \
 [dab,,d/4] ,,,,a ,,,,c ,,,,e"
-50a;;M2v;Psalmus 50;;;OT;ConcR901 - ConcM68;C;"[cdda2] [acd,a1] [,da,c] | [,cee,c2] [aab,,a] | \
+50a;;M2v;Psalmus 50;;;OT;ConcR901,ConcM68;C;"[cdda2] [acd,a1] [,da,c] | [,cee,c2] [aab,,a] | \
 [cdd{a}1] [acd,a] [,da,c] [,cee,c] | [,aa,c2] || \
 [,aa,c2] [cd,,c1] [cd,,c] | [a,c,e2] [ccd,,c] | \
 [ea,c,a1] [fc,,,c] [ecc,e] [ecc,e] | [cce,,c2] ||"
-50b;;M2v;Variatio;;;OT;ConcR901 - ConcM68;C;"[cdda/] ,d ,a/4 ,c ,d/ [acd,a] c [,da,c] ,,c | \
+50b;;M2v;Variatio;;;OT;ConcR901,ConcM68;C;"[cdda/] ,d ,a/4 ,c ,d/ [acd,a] c [,da,c] ,,c | \
 [,cd,,c/] ,,,e/4 ,,c ,,d ,,f ,c ,d \
 [aab,,a] ,,d ,,b ,,a ,,b ,,d ,a ,c |"
-51a;;M3v;Psalmus 51;;;OT;ConcR902 - ConcM69;C;"[,ccce2] [a,c,e1] [a,c,e] | [ccde,,c2] [,cd,,c] | \
+51a;;M3v;Psalmus 51;;;OT;ConcR902,ConcM69;C;"[,ccce2] [a,c,e1] [a,c,e] | [ccde,,c2] [,cd,,c] | \
 [aac,,a1] [aac,,a] [,acc,a2] | [,daa{a}2] [,cdca] || \
 [,cd,,c2] [,cd,a1] [,acc,a] | [,,d,,c2] [,cde,c] | \
 [,cd,,c1] [,da,c] [acd,a] [ccd,,c] |"
-51b;;M4r;Variatio;;;OT;ConcR902 - ConcM69;C;"[,cc,e3/4] ,a/4 ,c ,a ,c ,e [a,,,e/] ,c/4 ,e a ,c ,e a | \
+51b;;M4r;Variatio;;;OT;ConcR902,ConcM69;C;"[,cc,e3/4] ,a/4 ,c ,a ,c ,e [a,,,e/] ,c/4 ,e a ,c ,e a | \
 [ccd,,c/4] f e c ,f ,d ,c ,,f [,cd,,c] ,,c ,,d ,,f"
 52a;;N1r;Psalmus 52;;;OT;ConcM70;C;"[acd,a2] [a,c,e] | [cd,,c1] [ea,c] [fdaa2] | [fdaa1] [ea,c] [cef,c2] | \
 [aac,,a2] || [,cd,a2] [cdd{a}1] [cdd{a}] | [acd,a1] [,da,c] [acd,a2] || \
@@ -331,11 +331,11 @@ f/ ,,,,,e ,,,,,c ,,,,,a [c{a}] ,d [,c,,a] a |"
 60b;;O4v;Variatio;;;OT;ConcM78;C;"[,db,,d/] ,a ,,b/4 ,d a c [da,c,a/] ,,,,,c [,df,,d] d | \
 [cdd{a}/] d/4 c [acd,a/] c \
 [,a,,c/4] ,,d ,a ,c ,d ,,a ,,,c ,,,a |"
-61a;;P1r;Psalmus 61;;;OT;ConcR904 - ConcM79;C;"[,da,c2] [acd,a1] [acd,a] | [,da,c1] [dab,,d2] [cdd{a}1] | \
+61a;;P1r;Psalmus 61;;;OT;ConcR904,ConcM79;C;"[,da,c2] [acd,a1] [acd,a] | [,da,c1] [dab,,d2] [cdd{a}1] | \
 [aab,,a2] [,ea,c1] [dab,,d2] [cdd{a}1] | [aab,,a2] [,ea,c] || \
 [,aa,c2] [,da,c] | [,abc,a1] [aab,,a] [abd,a] [,ea,c] | \
 [aac,,a2] ||"
-61b;;P1v;Variatio;;;OT;ConcR904 - ConcM79;C;"[,aa,c/4] ,,d ,a ,c ,d ,,,c ,,a ,,b [acd,a] ,,a ,,,c ,,,a ,,,c ,d ,a ,c | \
+61b;;P1v;Variatio;;;OT;ConcR904,ConcM79;C;"[,aa,c/4] ,,d ,a ,c ,d ,,,c ,,a ,,b [acd,a] ,,a ,,,c ,,,a ,,,c ,d ,a ,c | \
 [,da,c1] [dab,,d/] ,,,,a ,,,,c ,,,,e [cdda] {a} |"
 62a;;P2r;Psalmus 62 M.L.H.;;;OT;ConcM80;C;"[ccde2] [fdaa1] [f,,,a] | [da,c2] [cd,,c1] [,da,c2] [acbc1] | \
 [cdda2] || [fdaa2] | [fdaa1] [fc,c] [hf,gh2] | \
@@ -398,10 +398,10 @@ f/ ,,,,,e ,,,,,c ,,,,,a [c{a}] ,d [,c,,a] a |"
 [,db,,d1] [,cd,a] [,daa{a}2] || [cdda2] [cdda1] [cdda] |"
 72b;;R4r;Variatio;;;OT;ConcM90;C;"[,da,c/] ,,a/4 ,,c ,,d ,a ,c ,d [acd,a] ,d ,c ,,a ,,,c ,,,a ,,,c ,c | \
 [cdda/4] ,,d ,a ,c ,d a c d [c,,a/] ,d [acd,a] c |"
-73a;;R4v;Psalmus 73;;;OT;ConcR905 - ConcM91;C;"[acd,a2] [ccd,,c1] [fc,,,c] | [ea,c,a1] [caa,e] ,e [ac,,a] | \
+73a;;R4v;Psalmus 73;;;OT;ConcR905,ConcM91;C;"[acd,a2] [ccd,,c1] [fc,,,c] | [ea,c,a1] [caa,e] ,e [ac,,a] | \
 [a,d,,c1] ,e [aac,,a2] || [fc,ca2] [ea,c,a1] [cef,c] | \
 [fc,ca2] [acd,a] | [ccd,,c1] [ea,c,a] [fc,ca2] ||"
-73b;;R4v;Variatio;;;OT;ConcR905 - ConcM91;C;"[acd,a/] ,c/4 ,d a ,c ,d a [ccd,,c/] e [fc,,,c] ,e | \
+73b;;R4v;Variatio;;;OT;ConcR905,ConcM91;C;"[acd,a/] ,c/4 ,d a ,c ,d a [ccd,,c/] e [fc,,,c] ,e | \
 [ea,c,a/] ,c [,ef,c] ,f c ,e [acd,a] ,,c |"
 74a;;S1v;Psalmus 74;;;OT;ConcM92;C;"[acd,a2] [,cd,a1] [,da,c] | [acd,a2] [aab,,a] | [,cd,,c1] [,daa{a}] [,adc,a] [,acc,a] | \
 [,,d,a2] || [acd,a2] [,cd,a1] [,da,c] | [acd,a2] [,daa{a}] | \
@@ -419,10 +419,10 @@ f/ ,,,,,e ,,,,,c ,,,,,a [c{a}] ,d [,c,,a] a |"
 76b;;S3r;Variatio;;;OT;ConcM94;C;"[aac,,a/] ,a ,,c/4 ,,d ,a ,c ,,,,c ,d ,a ,c ,d/ ,,c | \
 [,cd,a/4] ,,d ,,c ,,a ,,,c ,,a ,,c ,,d \
 [acc,a1] [,aa,c/4] ,d ,c ,a |"
-77a;;S3v;Psalmus 77;;;OT;ConcR906 - ConcM95;C;"[aabc2] [aabc] | [,da,c1] [aabc] [cdda] [da,c] | [cef,c2] [aac,,a] || \
+77a;;S3v;Psalmus 77;;;OT;ConcR906,ConcM95;C;"[aabc2] [aabc] | [,da,c1] [aabc] [cdda] [da,c] | [cef,c2] [aac,,a] || \
 [da,c2] [cd,,c] | [acd,a1] [dab,,d] [cdda] [acd,a] | [,ef,c2] || \
 [,da,c2] [,cd,a] | [,ab,,d1] [aab,,a] [abd,a] [,ea,c] |"
-77b;;S3v;Variatio;;;OT;ConcR906 - ConcM95;C;"[,abc,a/4] a ,c ,d ,c ,d a c [aabc] ,,a ,,b ,,d ,a a ,d ,c | \
+77b;;S3v;Variatio;;;OT;ConcR906,ConcM95;C;"[,abc,a/4] a ,c ,d ,c ,d a c [aabc] ,,a ,,b ,,d ,a a ,d ,c | \
 [,aa,c/4] ,d ,c ,d [,abc] a ,e a"
 78a;;S4v;Psalmus 78;;;OT;ConcM96;C;"[ccd,,c2] [cdf,c] | [hhi,,h2] [fc,,,c1] [cdf,c] | \
 [fc,,a1] [fc,,a] [ea,c,a] [ccd,,c] | [,gh,e2] [cce,,c] || \
@@ -430,7 +430,7 @@ f/ ,,,,,e ,,,,,c ,,,,,a [c{a}] ,d [,c,,a] a |"
 [fc,ca1] [ec,,e] [cdda] [hhi,,h] |"
 78b;;S4v;Variatio;;;OT;ConcM96;C;"[ccd,,c3/4] ,,f/4 ,,d ,,c ,c ,,d [,df,c] c ,d ,,f ,d c e f | \
 [hhi,,h/] ,a/4 ,c ,d a c d [fc,,,c/] e [cdf,c] e |"
-79a;;T1v;Psalmus 79;;;OT;ConcR907 - ConcM97;C;"[,,d,a2] [,db,,d] | [aab,,a2] [cdd{a}] | [cdd{a}2] [cdd{a}1] [cdd{a}] | \
+79a;;T1v;Psalmus 79;;;OT;ConcR907,ConcM97;C;"[,,d,a2] [,db,,d] | [aab,,a2] [cdd{a}] | [cdd{a}2] [cdd{a}1] [cdd{a}] | \
 [acd,a1] [da,c,a] [cf,ec] ,e | [aac,,a2] || [,,d,a2] [,db,,d1] [aab,,a] | \
 [cdd{a}2] [dab,,d] | [cdd{a}1] [acd,a] [cdda] [dd,,c] |"
 79b;;T1v;Variatio;;;OT;ConcM97;C;"[,,d,a/] ,c ,a ,,d [,a,,,d] ,d ,a/4 ,c ,d/ | \
@@ -496,11 +496,11 @@ f/ ,,,,,e ,,,,,c ,,,,,a [c{a}] ,d [,c,,a] a |"
 [hhi,,h1] [hd,,,d] [fdaa2] |"
 90b;;X4r;Variatio;;;OT;ConcM108;C;"[,db,,d/] ,a ,,b/4 ,d a c [dab,,d/] c/4 a ,d/ a/4 c | \
 [db,,d/] a c/4 a c d [f,a,a/] ,,b ,,a/4 ,,b ,,d ,,a |"
-91a;;X4v;Psalmus 91;;;OT;ConcR909 - ConcM109;C;"[,aa,c2] [cd,,c1] [cdda] | [acd,a1] [,cd,a] [,da,c2] | \
+91a;;X4v;Psalmus 91;;;OT;ConcR909,ConcM109;C;"[,aa,c2] [cd,,c1] [cdda] | [acd,a1] [,cd,a] [,da,c2] | \
 [aa,,,d2] [cce,,c] || [cd,,c2] | [fc,ca1] [fc,,,c] [ecc,e] [a,,,e] | \
 [cdda2] [eh,,e1] ,g | [cce,,c2] || \
 [ccd,,c2] [a,c,e1] [,cd,,c] |"
-91b;;Y1r;Variatio;;;OT;ConcR909 - ConcM109;C;"[,aa,c/] ,,c/4 ,,d ,a ,c ,d a [cdf,c/] ,,,,e [cdda] ,a | \
+91b;;Y1r;Variatio;;;OT;ConcR909,ConcM109;C;"[,aa,c/] ,,c/4 ,,d ,a ,c ,d a [cdf,c/] ,,,,e [cdda] ,a | \
 [acd,a/4] ,d ,c ,a [,cd,a] ,d a ,c [,da,c/] ,c ,a ,,d |"
 92a;;Y1v;Psalmus 92;;;OT;ConcM110;C;"[cd,,c2] [cce,,c1] [cd,,c] | [hhi,,h1] [fdaa] [ea,c2] | \
 [cd,,c1] [fc,ca] [ecc,e] [caaa] | [,h,ge1] ,g [cce,,c2] || \
@@ -529,11 +529,11 @@ f/ ,,,,,e ,,,,,c ,,,,,a [c{a}] ,d [,c,,a] a |"
 [acd,a1] [,da,c] [,cfe,c] ,,e | [,aabc2] ||"
 96b;;Y4v;Variatio;;;OT;ConcM114;C;"[hhi,,h/] ,h ,,i ,,l [hhi,,h] ,a ,d/4 a c e | \
 [fc,e/] e f/4 e c ,f [cdda] ,d ,a ,c ,d a c e |"
-97a;;Z1v;Psalmus 97;;;OT;ConcR910 - ConcM115;C;"[acd,a2] [cdda1] [fdaa] | [ff,c1] e [fc,ca2] || \
+97a;;Z1v;Psalmus 97;;;OT;ConcR910,ConcM115;C;"[acd,a2] [cdda1] [fdaa] | [ff,c1] e [fc,ca2] || \
 [fc,ca2] [cdda1] [ec,,e] | [fc,ca1] [cd,,c] [a,c,e2] || \
 [acd,a2] | [fc,ca1] [cdda] [ecc,e] [fc,ca] | \
 [cf,,c1] ,e [aac,,a2] ||"
-97b;;Z1v;Variatio;;;OT;ConcR910 - ConcM115;C;"[acd,a/4] ,c ,,d ,a ,c ,d a ,c [cdda/] e [fdaa] ,c | \
+97b;;Z1v;Variatio;;;OT;ConcR910,ConcM115;C;"[acd,a/4] ,c ,,d ,a ,c ,d a ,c [cdda/] e [fdaa] ,c | \
 [ef,c/4] f e c e f c e [fc,ca2] ||"
 98a;;Z2r;Psalmus 98 M.L.H.;;;OT;ConcM116;C;"[fdaa2] [fdaa1] [f,,a] | [fdaa1] [fdaa] ,,,a f | \
 [cdda1] [fc,ca] [,d,,c] e | [fc,ca2] || \
@@ -547,10 +547,10 @@ f/ ,,,,,e ,,,,,c ,,,,,a [c{a}] ,d [,c,,a] a |"
 99b;;Z3v;Variatio;;;OT;ConcM117;C;"[,daa{a}/] ,,d ,d ,c/4 ,a [,,da{a}/] ,,,c ,,a/4 ,,b ,,d ,,a | \
 [,ab,,d/4] ,c ,d/ [,c,,a/4] ,d a/ | \
 [,daa{a}/] a [c,,a] ,,,c ,,,e ,,,c [cdda] ,c |"
-100a;;Z4r;Psalmus 100 M.L.H.;;;OT;ConcR911 - ConcM118;C;"[ccd,,c2] [ecc,e] | [a,c,e2] [fc,ca] | [ea,c1] [cdf,c2] [,fg,e1] | \
+100a;;Z4r;Psalmus 100 M.L.H.;;;OT;ConcR911,ConcM118;C;"[ccd,,c2] [ecc,e] | [a,c,e2] [fc,ca] | [ea,c1] [cdf,c2] [,fg,e1] | \
 [cce,,c2] || [,cd,,c2] [ccd,,c1] [a,c,e] | [cd,,c2] [fc,ca] | \
 [fdaa1] [ea,c] [fc,ca2] || [fdaa2] [hhi,,h] |"
-100b;;Z4r;Variatio;;;OT;ConcR911 - ConcM118;C;"[ccd,,c/4] ,,f ,,d ,,c ,,,e ,,c ,,d ,,,e [ecc,e/] f e c | \
+100b;;Z4r;Variatio;;;OT;ConcR911,ConcM118;C;"[ccd,,c/4] ,,f ,,d ,,c ,,,e ,,c ,,d ,,,e [ecc,e/] f e c | \
 [a,c,e/] c/4 e [fc,ca/] ,d/4 ,c |"
 101a;;Z4v;Psalmus 101;;;OT;ConcM119;C;"[,,d,a2] [,db,,d] | [cdd{a}2] [acd,a1] [acd,a] | \
 [cdda1] [fdaa] [dab,,d] [cdd{a}] | [acd,a2] [,daa{a}] || \
@@ -563,10 +563,10 @@ f/ ,,,,,e ,,,,,c ,,,,,a [c{a}] ,d [,c,,a] a |"
 [cd,,c1] [fc,,,c] [egh,e2] | [cce,,c2] || [cd,,c2] [fc,ca] |"
 102b;;Aa1v;Variatio;;;OT;ConcM120;C;"[ec,,e/] ,c/4 ,e ,f c e/ [fc,,,c] ,,,,,e ,,,,a ,,,,c | \
 [ecc,e/] f [cdda] e [acd,a] ,d [,cd,,c] c |"
-103a;;Aa2v;Psalmus 103;;;OT;ConcR912 - ConcM121;C;"[aacc2] [caa,c1] [ea,c] | [fdaa2] [fdaa] | [ea,c1] [ca,,c] [ea,c] [fc,,a] | \
+103a;;Aa2v;Psalmus 103;;;OT;ConcR912,ConcM121;C;"[aacc2] [caa,c1] [ea,c] | [fdaa2] [fdaa] | [ea,c1] [ca,,c] [ea,c] [fc,,a] | \
 [cef,c2] [aac,,a] || [acd,a2] | [acd,a1] [,da,c] [,cde,c2] | \
 [,cd,a2] [,cd,a1] [,acc,a] |"
-103b;;Aa2v;Variatio;;;OT;ConcR912 - ConcM121;C;"[aacc/4] ,a ,c ,e a c e a [cf,c/] f [ea,c] h | \
+103b;;Aa2v;Variatio;;;OT;ConcR912,ConcM121;C;"[aacc/4] ,a ,c ,e a c e a [cf,c/] f [ea,c] h | \
 [fdaa/4] c ,d ,f c ,d ,a ,c"
 104a;;Aa3v;Psalmus 104;;;OT;ConcM122;C;"[,aa,c2] [,abc,a] | [,daa{a}2] [,abc,a] | [,,d,,c2] [,da,c1] [,da,c] | \
 [acd,a1] [acd,a] [cdd{a}2] | z1 [cdda] [fdaa2] | [fc,e2] [hff,h] | \
@@ -634,18 +634,18 @@ f/ ,,,,,e ,,,,,c ,,,,,a [c{a}] ,d [,c,,a] a |"
 [dab,,d2] [acd,a] |"
 115b;;Dd1v;Variatio;;;OT;ConcM133;C;"[caa,c3/4] a/4 ,d a c e [fc,ca/] e/4 c [ea,c/] ,,,,,a | \
 [ccd,,c3/4] d/4 c ,f ,d ,c [,aa,c/] ,d ,a ,c |"
-116a;;Dd2r;Psalmus 116 M.L.H.;;;OT;COncR913 - ConcM134;C;"[ffg,a2] [fg,a1] [ffg,a] | [ea,c2] [ffg,a1] [i,,,a] | \
+116a;;Dd2r;Psalmus 116 M.L.H.;;;OT;COncR913,ConcM134;C;"[ffg,a2] [fg,a1] [ffg,a] | [ea,c2] [ffg,a1] [i,,,a] | \
 [hd,,,d1] [hd,,,d] [ffg,a2] | [ea,c,a2] || \
 [ea,c,a2] [ea,c,a1] [ea,c,a] | [ffg,a2] [hd,,,d] | \
 [hd,,,d2] [hd,,,d1] [fd,,,d] |"
-116b;;Dd2v;Variatio;;;OT;COncR913 - ConcM134;C;"[ffg,a/] a f h [fg,a1] [ffg,a] | \
+116b;;Dd2v;Variatio;;;OT;COncR913,ConcM134;C;"[ffg,a/] a f h [fg,a1] [ffg,a] | \
 [ea,c/] ,c/4 ,e a c e/ [f,,,a] h [i,,,a] ,h | \
 [hd,,,d/] ,,,,a ,,,,c ,,,,,d [ffg,a]"
-117a;;Dd3r;Psalmus 117;;;OT;ConcR917 - ConcM135 - ConcM145;C;"[acd,a2] [fc,ca1] [fc,ca] | [ea,c,a1] [acd,a] [ccd,,c] [ea,c,a] | \
+117a;;Dd3r;Psalmus 117;;;OT;ConcR917,ConcM135,ConcM145;C;"[acd,a2] [fc,ca1] [fc,ca] | [ea,c,a1] [acd,a] [ccd,,c] [ea,c,a] | \
 [fc,ca2] || [fc,ca2] [ea,c,a1] [ccd,,c] | \
 [acd,a1] [,daa{a}] [,cdca] ,,d | \
 [,acc,a2] [,,d,a] || [,,d,a2] |"
-117b;;Dd3r;Variatio;;;OT;ConcR917 - ConcM135 - ConcM145;C;"[acd,a/] ,a/4 ,c ,d a c e [fc,,a/] ,,,,c [f,,,e] ,,,a | \
+117b;;Dd3r;Variatio;;;OT;ConcR917,ConcM135,ConcM145;C;"[acd,a/] ,a/4 ,c ,d a c e [fc,,a/] ,,,,c [f,,,e] ,,,a | \
 [ea,c,a/] c [acd,a] ,,,,,e [ccd,,c] f [ea,c] ,,,,,a | \
 [fc,ca2] ||"
 118a;;Dd3v;Psalmus 118;;;OT;ConcM136;C;"[,daa{a}2] [,abc,a1] [,,d,,c] | [,db,,d1] [,da,c] [acd,a] [da,c,a] | \
@@ -653,11 +653,11 @@ f/ ,,,,,e ,,,,,c ,,,,,a [c{a}] ,d [,c,,a] a |"
 [,db,,d1] [da,c,a] [ccd,,c] ,d | [acd,a2] [,daa{a}] ||"
 118b;;Dd4r;Variatio;;;OT;ConcM136;C;"[,daa{a}/] ,,d ,a/4 ,c ,d ,c [,abc,a/] ,c/4 ,a [,,d,,c/] ,,,a | \
 [,db,,d/] ,a/4 ,c [,da,c/] ,,c [acd,a] c [da,c,a] ,c |"
-119a;;Dd4v;Psalmus 119;;;OT;ConcR916 - ConcM137;C;"[,daa2] [acd,a1] [cdda] | [,db,,d2] [cdd{a}] | \
+119a;;Dd4v;Psalmus 119;;;OT;ConcR916,ConcM137;C;"[,daa2] [acd,a1] [cdda] | [,db,,d2] [cdd{a}] | \
 [fda{a}1] [fc,,,c] [dab,,d] [cdd{a}] | [acd,a2] || \
 [cdd{a}2] [,db,,d1] [,cd,a] | [,acc,a2] [,,d,a] | \
 [,db,,d1] [aab,,a] [cd,,c] [fc,,,c] |"
-119b;;Ee1r;Variatio;;;OT;ConcR916 - ConcM137;C;"[,dda{a}/] ,,a/4 ,,c ,,d ,a ,c ,d [acd,a] ,d ,a ,c [cdda/] ,c | \
+119b;;Ee1r;Variatio;;;OT;ConcR916,ConcM137;C;"[,dda{a}/] ,,a/4 ,,c ,,d ,a ,c ,d [acd,a] ,d ,a ,c [cdda/] ,c | \
 [,ab,,d/4] ,d ,a ,c ,a ,c ,d a"
 120a;;Ee1v;Psalmus 120;;;OT;ConcM138;C;"[aabc2] [cd,,c1] [,da,c] | [dab,,d1] [cdd{a}] [acd,a] [,da,c] | \
 [,cfe,c1] ,,e [,aa,c2] || [,abc,a2] [,da,c1] [a,b,d] | \
@@ -680,11 +680,11 @@ f/ ,,,,,e ,,,,,c ,,,,,a [c{a}] ,d [,c,,a] a |"
 [cdda1] [acd,a] [,da,c] c | [,cd,a1] a [,daa{a}2] ||"
 123b;;Ff1r;Variatio;;;OT;ConcM141;C;"[cdd{a}3/4] d/4 c a ,d ,c [,ab,,d/] ,d/4 ,c ,a ,,d ,,b ,,a | \
 [aab,,a/4] ,,d ,,b ,,a ,,b ,,d ,a ,c [cdd{a}/] a [,da{a}] c |"
-124a;;Ff1v;Psalmus 124;;;OT;ConcR914 - ConcM142;C;"[,daa2] [acd,a1] [cdda] | [dab,,d2] [cdda] | \
+124a;;Ff1v;Psalmus 124;;;OT;ConcR914,ConcM142;C;"[,daa2] [acd,a1] [cdda] | [dab,,d2] [cdda] | \
 [acd,a1] [,da,c] [,db,,d] [,cd,a] | [,daa{a}2] || \
 [cdda2] [dd,,c1] [f,,,a] | [hd,,,d2] [fdaa] | \
 [dab,,d1] [cdd{a}] [acd,a2] | [,daa{a}2] [,cd,a] ||"
-124b;;Ff2r;Variatio;;;OT;ConcR914 - ConcM142;C;"[,daa/] ,,a/4 ,,c ,,d ,a ,c ,d [acd,a] ,d ,a ,c [cdda] d a c | \
+124b;;Ff2r;Variatio;;;OT;ConcR914,ConcM142;C;"[,daa/] ,,a/4 ,,c ,,d ,a ,c ,d [acd,a] ,d ,a ,c [cdda] d a c | \
 [dab,,d/] ,,,,a ,,,,c ,,,,e"
 125a;;Ff2v;Psalmus 125;;;OT;ConcM143;C;"[cdf,c2] [cdf,c1] [fc,e,c] | [ecc,e2] [cdda] | \
 [acd,a1] [,da,c] [,cf,,c] ,,e | [,aa,c2] || \
@@ -703,10 +703,10 @@ f/ ,,,,,e ,,,,,c ,,,,,a [c{a}] ,d [,c,,a] a |"
 [ha,g,a2] [ha,g,a1] [fc,,,c] |"
 127b;;Ff4v;Variatio;;;OT;ConcM145;C;"[aac,,a/] ,,,c/4 ,,a ,,c ,,d ,a ,c [aac,,a] ,,d ,,c ,,a ,,c ,,d ,a ,,c | \
 [,cd,a/4] a ,c ,d ,c ,d a c"
-128a;;Gg1r;Psalmus 128;;;OT;ConcR918 - ConcM146;C;"[,aa,c2] [cd,,c1] [cd,,c] | [cdda] [acd,a] [,da,c2] | \
+128a;;Gg1r;Psalmus 128;;;OT;ConcR918,ConcM146;C;"[,aa,c2] [cd,,c1] [cd,,c] | [cdda] [acd,a] [,da,c2] | \
 [,cee,c1] [,cee,c] [,da,c] [caaa] | [cc,,e1] [,gh,e] [cce,,c2] || \
 [cd,,c2] [hhi,,h1] [hhi,,h] | [fc,,e1] [ecc,e] [cdda2] |"
-128b;;Gg1v;Variatio;;;OT;ConcR918 - ConcM146;C;"[,aa,c/] ,,c/4 ,,d ,a ,c ,d a [c,,,c] ,d ,a ,c ,a ,c ,d a | \
+128b;;Gg1v;Variatio;;;OT;ConcR918,ConcM146;C;"[,aa,c/] ,,c/4 ,,d ,a ,c ,d a [c,,,c] ,d ,a ,c ,a ,c ,d a | \
 [cda/] d/4 c [acd,a/] c/4 a [,da,c/] ,c ,a/4 ,c ,d ,a |"
 129a;;Gg2r;Psalmus 129;;;OT;ConcM16;C;"[aab,,a2] [aab,,a1] [,db,,d] | [,cd,a2] [,aa,c] | \
 [,da,c1] [ca,ac] [,cd,a] a | [aaa,c1] ,e [aac,,a2] || \
@@ -727,18 +727,18 @@ f/ ,,,,,e ,,,,,c ,,,,,a [c{a}] ,d [,c,,a] a |"
 [,ab,,d2] | [,daa{a}2] [,db,,d] |"
 131b;;Gg3v;Variatio;;;OT;ConcM147;C;"[aab,,a/] ,d/4 ,c ,a ,,d ,,b ,,a [aab,,a] ,,d ,,b ,,a ,,b ,,d ,a ,c | \
 [,da,c/] a/4 c [dab,,d/] ,,,,a ,,,,c ,,,,e [cdd] {a} |"
-132a;;Gg4r;Psalmus 132;;;OT;ConcR922 - ConcM148;C;"[,cee,c2] [,aa,c1] [,da,c] | [,cee,c2] [cdd{a}] | \
+132a;;Gg4r;Psalmus 132;;;OT;ConcR922,ConcM148;C;"[,cee,c2] [,aa,c1] [,da,c] | [,cee,c2] [cdd{a}] | \
 [acd,a1] [,daac] [,cee,c2] || [,cd,a2] [,daa{a}1] [,cd,a] | \
 [,acc,a1] [,,d,,c] [,daa{a}2] | [,cd,a2] [,acc,a] || \
 [ca,,c2] [ea,c1] [fc,,a] |"
-132b;;Gg4r;Variatio;;;OT;ConcR922 - ConcM148;C;"[,cee,c/] ,,,e/4 ,,c ,,e ,,f ,c/ [,aa,c] ,d ,c ,a | \
+132b;;Gg4r;Variatio;;;OT;ConcR922,ConcM148;C;"[,cee,c/] ,,,e/4 ,,c ,,e ,,f ,c/ [,aa,c] ,d ,c ,a | \
 [,cee,c/] ,,,e/4 ,,c ,,e ,,f ,c ,,e \
 [cdd{a}/] ,,,,,a ,,,,,c ,,,,,e |"
-133a;;Gg4v;Psalmus 133;;;OT;ConcR921 - ConcM149;C;"[,,d,a2] [,cd,a] | [,acc,a2] [,,d,a1] [a,c,e] | \
+133a;;Gg4v;Psalmus 133;;;OT;ConcR921,ConcM149;C;"[,,d,a2] [,cd,a] | [,acc,a2] [,,d,a1] [a,c,e] | \
 [cd,,c1] [fc,ca] [ecc,e] [a,c,e] | [cef,c2] [aac,,a] || \
 [fc,ca2] [fc,ca1] [ea,c,a] | [fc,ca2] [acd,a] | \
 [ccd,,c1] [cdd{a}] [acd,a] [,cd,a] |"
-133b;;Hh1r;Variatio;;;OT;ConcR921 - ConcM149;C;"[,,d,a/] ,,a/4 ,,c ,,d ,,c ,,d ,a [,cd,a] ,a ,,d ,,c ,,d ,a ,c ,,d | \
+133b;;Hh1r;Variatio;;;OT;ConcR921,ConcM149;C;"[,,d,a/] ,,a/4 ,,c ,,d ,,c ,,d ,a [,cd,a] ,a ,,d ,,c ,,d ,a ,c ,,d | \
 [,acc,a/4] ,,d ,,c ,,a ,,c ,,d ,a ,,c"
 134a;;Hh1v;Psalmus 134;;;OT;ConcM150;C;"[,daa{a}2] [,daa{a}1] [,cd,a] | [,ab,,a2] [,,d,,c] | \
 [,da,c2] [acd,a] | [cdd{a}2] || [cdda2] [cd,,c1] [cdda] | \

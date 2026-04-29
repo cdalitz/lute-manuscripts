@@ -5,26 +5,26 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
 1b;;1;2a;;;OT;;C;"f2 a1 b | [a,d/] ,d ,b ,d [,a,c1] [,,dd] | \
 [,,cc/] ,,,a [,,d,d] ,,,a [,d,,c1] ,c/ ,a | \
 [,bdca/] ,d a ,,d [,,c,,a1] [,dd,,b] |"
-2a;;2;Psal. 2. Quare fremu., Pourquoy fo., Wor auff ist, Waerom raest.;;;OT;ConcR878 - ConcM21;C;"[,,dca1] ,,c ,,d ,a [,bdca2] [,ab,,a] [,,dd,b] [,,bc{,a}] \
+2a;;2;Psal. 2. Quare fremu., Pourquoy fo., Wor auff ist, Waerom raest.;;;OT;ConcR878,ConcM21;C;"[,,dca1] ,,c ,,d ,a [,bdca2] [,ab,,a] [,,dd,b] [,,bc{,a}] \
 [,bdca] [ab,,d] [,dba,d] [,bdca] [,acc,a4] ||"
-2b;;2;2a;;;OT;ConcR878 - ConcM21;C;"[,,dca1] ,,c ,,d ,a | [,b,,a/] ,,,,c ,,,,d ,,,a [,a,c] ,,a ,,b ,,,c | \
+2b;;2;2a;;;OT;ConcR878,ConcM21;C;"[,,dca1] ,,c ,,d ,a | [,b,,a/] ,,,,c ,,,,d ,,,a [,a,c] ,,a ,,b ,,,c | \
 [,,dd/] ,,,c ,,,d ,,,a [,,bc] ,,,a ,,,,d ,,,,c |"
-3a;;3;Psal.8. O Iova Rex ill., O nostre Di., O Hochster G., O onse Godt en;;;OT;ConcR882 - ConcM27;C;"[,,dca2] {,,,a}1 [,a,,,d] [,bd,,b3] ,,,,,a1 [,dd{a}] a b ,d \
+3a;;3;Psal.8. O Iova Rex ill., O nostre Di., O Hochster G., O onse Godt en;;;OT;ConcR882,ConcM27;C;"[,,dca2] {,,,a}1 [,a,,,d] [,bd,,b3] ,,,,,a1 [,dd{a}] a b ,d \
 [abd,a4] [fg,d] [df,,d2] [cdda] [abd,a3/2] c/ [da,,,a1] \
 c/ a [caa,c2] {,,a}1 ,,d [aac,,a4] ||"
-3b;;3;2a;;;OT;ConcR882 - ConcM27;C;"[,,dca1] {,,,a}/ ,,,c ,,a ,,c ,,d ,a | \
+3b;;3;2a;;;OT;ConcR882,ConcM27;C;"[,,dca1] {,,,a}/ ,,,c ,,a ,,c ,,d ,a | \
 [,bd,a3/2] ,a/ ,,d ,,b ,,,d ,,,c | \
 [,d,a/] ,,,c ,,,a ,,,,d ,,,,c ,,,,a [,,c,c1] |"
-4a;;4;Psal. 9. Grates tibi, De tout mon, Ich will dich, Heer ick wil u;;;OT;ConcR883 - ConcM28;C;"[,,dca4] [,,da{a}2] [,,da,b] [aab,,a4] \
+4a;;4;Psal. 9. Grates tibi, De tout mon, Ich will dich, Heer ick wil u;;;OT;ConcR883,ConcM28;C;"[,,dca4] [,,da{a}2] [,,da,b] [aab,,a4] \
 [da,c1] c d a [caa,c] ,,,,,d [c,,,a] ,,,,c [aacc,a4] ||"
-4b;;4;2a;;;OT;ConcR883 - ConcM28;C;"[,,dca3/2] ,,b/ ,,,d ,,,c [,,,d{a}1] | \
+4b;;4;2a;;;OT;ConcR883,ConcM28;C;"[,,dca3/2] ,,b/ ,,,d ,,,c [,,,d{a}1] | \
 [,,dca3/2] ,,,,,d/ [,,d,,b] ,,,,,a ,,,,,b1 | \
 [aacc,a3/2] ,,,a/ [,,d,d] ,,,,c ,,,,a1 | \
 [da,,,a1] ,b/ ,d a c d a |"
-5a;;4;Psal 13;;;OT;ConcR886 - ConcM31;C;"[,,dca4] [,,dd2] [,,ddf] [,bdca] [,bdd,b] [,dda{a}] [,db,,d] [abb{,a}4] || \
+5a;;4;Psal 13;;;OT;ConcR886,ConcM31;C;"[,,dca4] [,,dd2] [,,ddf] [,bdca] [,bdd,b] [,dda{a}] [,db,,d] [abb{,a}4] || \
 [acd,a4] [cdda2] [dd,,c] [ab,,d] [f,,,a] \
 [da,,,a4] [caa,c] [aacc,a] ||"
-5b;;4;2a;;;OT;ConcR886 - ConcM31;C;"[,,dca{,,,a}3/2] ,,,d/ ,,,c ,,,a ,,,,d ,,,,c | \
+5b;;4;2a;;;OT;ConcR886,ConcM31;C;"[,,dca{,,,a}3/2] ,,,d/ ,,,c ,,,a ,,,,d ,,,,c | \
 [,,d,a/] ,,,c ,,a ,,c ,,d ,,,,,b ,,,,,a {a} | \
 {,a}/ ,b ,,d ,a [,b,,d] ,d a ,b |"
 6a;;5;Psal. 11. In gratia Iov., Veu que du, Auff Gott mein, Ick betrou op;;;OT;ConcM19;C;"[abd,a4] [da,,,a] [ca,,c] [aab,,a2] [aabc] [caab] \
@@ -32,10 +32,10 @@ c/ a [caa,c2] {,,a}1 ,,d [aac,,a4] ||"
 [ffg,a4] [da,c] [fda] [abb,d2] [da,c]"
 6b;;5;2a;;;OT;ConcM19;C;"[abde,a3/2] ,d/ [a,b1] [c,a] | \
 [da,c3/2] c/ a c d a | [c,,a/] d c a ,d a c d |"
-7a;;6;Psal. 12. Salvum Deus, Donne seco., Bewahr mich, Doet ons byst;;;OT;ConcR885 - ConcM30;C;"[aa,c3/2] b/ a1 ,d [,bdd] ,,,c [,d,a] ,b/ ,d [ab,,d1] ,d a c \
+7a;;6;Psal. 12. Salvum Deus, Donne seco., Bewahr mich, Doet ons byst;;;OT;ConcR885,ConcM30;C;"[aa,c3/2] b/ a1 ,d [,bdd] ,,,c [,d,a] ,b/ ,d [ab,,d1] ,d a c \
 [da,,,d2] ,,,,a1 ,,,,c [ab,,d2] [,bdd] [,dda] [,bd,a] \
 [,acc] ,,,,,a [,,dca{,,,a}4] ||"
-7b;;6;2a;;;OT;ConcR885 - ConcM30;C;"[aa,c3/2] ,d/ a b a ,d | [,bdd1] ,,,c [,d,a/] a b d | \
+7b;;6;2a;;;OT;ConcR885,ConcM30;C;"[aa,c3/2] ,d/ a b a ,d | [,bdd1] ,,,c [,d,a/] a b d | \
 [a,,,d/] b a ,d ,b ,d a c |"
 8a;;6;Psal. 14;;;OT;ConcM32;C;"[fcd,a4] [fdaa2] [f,,,d] [,da,c4] [abd,a] [da,c2] [f,,,a] [ca,,c] [caa{,,a}] [aac,,a4] || \
 [db,,d4] [db,,d2] [cdda] [aabc4] [,da,c]"
@@ -47,15 +47,15 @@ c/ a [caa,c2] {,,a}1 ,,d [aac,,a4] ||"
 9b;;7;2a;;;OT;ConcM98;C;"[,,dca3/2] ,,,,,d/ ,,,,,b1 ,,,,,a | \
 [,,d{a}1] ,,,,d [,,c,ca] ,,a/ ,,c | \
 [,,d,a/] ,,c ,,d ,a [,b{,,,a}] a ,a ,b |"
-10a;;8;Psal. 17 Iustas Deus, Seigneur, enten, Hoer an Herr, Aensiet Heer t're;;;OT;ConcR887 - ConcM35;C;"[,bdca2] ,a1 ,,d [,a,,,a] ,,d ,a ,b [,dd{a}4] [ab{,a}2] \
+10a;;8;Psal. 17 Iustas Deus, Seigneur, enten, Hoer an Herr, Aensiet Heer t're;;;OT;ConcR887,ConcM35;C;"[,bdca2] ,a1 ,,d [,a,,,a] ,,d ,a ,b [,dd{a}4] [ab{,a}2] \
 [,db,,d] [,bdca] [,,da,b] [,acc,a4] ||"
 10b;;8;2a;;;OT;ConcM35;C;"[,bdca3/2] ,,,,c/ ,,,,d ,,,a ,,,c ,,,,a | \
 [,a,,,a3/2] ,,d/ [,,b,,d] ,,d ,a ,b | \
 [,dd{a}3/2] ,b/ ,d a b ,d |"
-11a;;9;Psal. 20. Exaudiat te, Le Seigneur, Der Herr, Godt verh;;;OT;ConcR890 - ConcM38;C;"[aa,c3] ,,,a1 [a,d,d2] [,ca,c] [abd,a] [dab,,d] [c,d,a1] ,,,,c \
+11a;;9;Psal. 20. Exaudiat te, Le Seigneur, Der Herr, Godt verh;;;OT;ConcR890,ConcM38;C;"[aa,c3] ,,,a1 [a,d,d2] [,ca,c] [abd,a] [dab,,d] [c,d,a1] ,,,,c \
 [a,,,d] ,,,,a [,,a,c2] ,c [aac,,a] [,b,,,b1] ,,,,,d \
 [,b,,a] ,,,,c [,bb,d2] [,ab,,d] [,,daa{a}] [,,bc,a4] ||"
-11b;;9;2a;;;OT;ConcR890 - ConcM38;C;"[abd,a3/2] ,,,,c/ ,,,,d ,,,a ,,,c1 | \
+11b;;9;2a;;;OT;ConcR890,ConcM38;C;"[abd,a3/2] ,,,,c/ ,,,,d ,,,a ,,,c1 | \
 [a,d/] ,a ,,b ,,d [,c,c1] ,,d | \
 [a,,c/] ,a a c [d,,,c] c ,d a |"
 12a;;10;Psalm 10 Vt Quid, Douvient, Wie kom, Hoe comt;;;OT;ConcM29;C;"[acd,a4] [bdd{a}] [,d,ff,d] [,bb,d] [,bdca] [,a,c,e2] [,,dca] \
@@ -63,20 +63,20 @@ c/ a [caa,c2] {,,a}1 ,,d [aac,,a4] ||"
 [aabc2] [caab] [da,c]"
 12b;;10;2a;;;OT;ConcM29;C;"[abd,a3/2] ,d/ ,b ,a ,,d ,,b | [bbdd3/2] d/ b1 a | \
 [,dff1] ,,g ,,,,,d ,,f | [,bd,d1] ,,,a ,,,,d ,,,,c |"
-13a;;11;Psal. 5 Aures Deus, Aux Parol. O Herr, Verhoort o;;;OT;ConcR880 - ConcM24;C;"[,,dca1] ,a ,b ,d [aa,,,d2] [c,d,,c] [da,,,a4] [dab,,d] \
+13a;;11;Psal. 5 Aures Deus, Aux Parol. O Herr, Verhoort o;;;OT;ConcR880,ConcM24;C;"[,,dca1] ,a ,b ,d [aa,,,d2] [c,d,,c] [da,,,a4] [dab,,d] \
 [fda{a}2] [da,,,a] [caa,c1] a c2 [aacc,a4] ||"
-13b;;11;2a;;;OT;ConcR880 - ConcM24;C;"[,,dca1] {,,,a}/ ,,c ,,d ,a ,b ,d | \
+13b;;11;2a;;;OT;ConcR880,ConcM24;C;"[,,dca1] {,,,a}/ ,,c ,,d ,a ,b ,d | \
 [aa,,,e1] [,c,,a] [cdd{a}] ,b | [dab,,d1] ,,a ,,,c ,,,a |"
-14a;;12;Psal. 24. Terram Deus, La terre au., Dem Herrn, Die aerd is;;;OT;ConcR893 - ConcM42;C;"[,,dca4] [aa,,,e] [,bdca2] ,a1 ,b [,dd{a}2] \
+14a;;12;Psal. 24. Terram Deus, La terre au., Dem Herrn, Die aerd is;;;OT;ConcR893,ConcM42;C;"[,,dca4] [aa,,,e] [,bdca2] ,a1 ,b [,dd{a}2] \
 ,,,,,a1 ,,,,,c [,db,,d2] [,bdca] [,acc1] \
 ,,,a ,,,,c ,,,c [,,dca{,,,a}4] ||"
-14b;;12;2a;;;OT;ConcR893 - ConcM42;C;"[,,dca3/2] ,,c/ ,,d ,a ,b ,d | \
+14b;;12;2a;;;OT;ConcR893,ConcM42;C;"[,,dca3/2] ,,c/ ,,d ,a ,b ,d | \
 a1 ,,,,,e/ ,,,,,c ,,,,,e ,d ,b ,a | \
 [,bdca1] ,,,,,d ,,,,,b ,,,,,a | [,dd{a}2] ,,,,,a1 ,,,,,c |"
-15a;;13;Psal. 37. Noli malos, Ne sois, Enzurne dich, Quelt u daer;;;OT;ConcR898 - ConcM55;C;"[,,dca{,,,a}4] [,,d,a1] ,,,,,d [,,d,,b2] [aac,,a] \
+15a;;13;Psal. 37. Noli malos, Ne sois, Enzurne dich, Quelt u daer;;;OT;ConcR898,ConcM55;C;"[,,dca{,,,a}4] [,,d,a1] ,,,,,d [,,d,,b2] [aac,,a] \
 [abd,a1] c [da,c] ,,,a [da,c] ,,a [,dff2] \
 [aa,c] [caa,c] {,,a} [aacc,a4] ||"
-15b;;13;2a;;;OT;ConcR898 - ConcM55;C;"[,,dca/] a ,b ,d a3/4 b/4 a ,d ,b ,a | \
+15b;;13;2a;;;OT;ConcR898,ConcM55;C;"[,,dca/] a ,b ,d a3/4 b/4 a ,d ,b ,a | \
 [,,d,a/] ,,,c ,,,,d ,,,a [,,dc] ,,,,a ,,,d ,,,,c |"
 16a;;14;Psal. 41 Felix egen, O Bien-heu, Wol dem, Wel hen die;;;OT;ConcM59;C;"[abd4] [f,,d2] [f,,a] [da,c1] ,,,a ,,,,d ,,,,c \
 [f,,,a2] ,,a [h{f}] [f{a}] [da,,,a1] ,,,,,c ,,,,,d ,,,,a \
@@ -100,10 +100,10 @@ a1 ,,,,,e/ ,,,,,c ,,,,,e ,d ,b ,a | \
 19b;;18;2a;;;OT;ConcM66;C;"[,b,ca1] ,,d/ ,a ,b ,d [a,,,,d] ,b | \
 [bbd,,b3/2] ,,,,,a/ [bdd{a}1] [da/] b | \
 [abd,a3/2] ,a/ ,,d ,a ,b ,d |"
-20a;;19;Psal. 50. Fortis Deorum, Le Dieu, le fo., Gott der uber, Godt die der;;;OT;ConcR901 - ConcM68;C;"[abd,a3/2] ,,,,,b/ ,,,,,d1 ,,,,a [,dd{a}] a [,bd,a] ,d \
+20a;;19;Psal. 50. Fortis Deorum, Le Dieu, le fo., Gott der uber, Godt die der;;;OT;ConcR901,ConcM68;C;"[abd,a3/2] ,,,,,b/ ,,,,,d1 ,,,,a [,dd{a}] a [,bd,a] ,d \
 [,acc,a2] {a}1 {,a} [,da{,,a}] ,a ,b ,d [a{,a}] \
 b [,d{a}] a [,b{,,,a}]"
-20b;;20;2a;;;OT;ConcR901 - ConcM68;C;"a2 ,d1 ,,d/ ,b | [,ab1] ,d/ ,,a [a,,c1] ,,b/ ,d | \
+20b;;20;2a;;;OT;ConcR901,ConcM68;C;"a2 ,d1 ,,d/ ,b | [,ab1] ,d/ ,,a [a,,c1] ,,b/ ,d | \
 [,bd1] ,,,,a [,a,a,d3/2] ,,,,,c/ | \
 [aa,,,a/] ,,d [,a,,,e1] [,,,ca] ,,d/ ,,,,,d |"
 21a;;21;Psal 59 Tandem Deus, Mon Dieu, Errett mich, O heer, ick ben;;;OT;ConcM77;C;"[f,,,a2] d1 c [abd] ,a [abd] ,,b [f,a2] [fd,a] [da,c] [d,,,,a] [caabc4] [aacc,a] || \
@@ -131,10 +131,10 @@ b [,d{a}] a [,b{,,,a}]"
 [dbb,d] [c,da] [aabc] [,ea,c] {,,a} [aacc,a4] ||"
 25b;;25;2a;;;OT;ConcM108;C;"[aacc3/2] ,,a/ ,,c ,,d ,a ,,c | [abd3/2] ,,c/ ,,d ,a ,b ,a | \
 [f,d1] ,,,f [,c,e] ,e | [df,c2] [a,,,a/] ,b a c |"
-26a;;26;Psal. 91. Quem caritas, Qui en la g., Wer in desz, die in Godes;;;OT;ConcR909 - ConcM109;C;"[,,dca1] ,a ,b ,,d [aa,,,e2] [abd,a] [,dda{a}] \
+26a;;26;Psal. 91. Quem caritas, Qui en la g., Wer in desz, die in Godes;;;OT;ConcR909,ConcM109;C;"[,,dca1] ,a ,b ,,d [aa,,,e2] [abd,a] [,dda{a}] \
 [,acc,a] [,bdca1] ,,,,c ,,,,a ,,,,,d [,dd,,b] \
 ,,,,,a ,,,,,b2 [aacc,a4] ||"
-26b;;26;2a;;;OT;ConcR909 - ConcM109;C;"[,,dca1] {,,,a}/ ,,c ,,d ,a ,b ,d | \
+26b;;26;2a;;;OT;ConcR909,ConcM109;C;"[,,dca1] {,,,a}/ ,,c ,,d ,a ,b ,d | \
 [a{,a}/] ,b ,,d ,a ,,b a ,,d ,,b | \
 [,d,d{a}3/2] ,b/ [,a,,,a] ,,,c ,,d ,,c |"
 27a;;27;Psal. 88 O summe salv, O Dieu Etern, O Gott myn, Heer die my;;;OT;ConcM106;C;"[aacc4] [,bd/] [,da] [aa,c] [f,aa] [da,c1] \
@@ -171,10 +171,10 @@ f/ ,,,,a ,,,,c ,,,,e [f,,a] ,,,c ,,,d ,,,a |"
 32b;;32;2a;;;OT;ConcM130;C;"[a,,,a/] ,b ,d a ,,d ,b a c | \
 [da,c/] ,,d ,a ,b [cd,,c1] ,a/ ,,d | \
 [a,b,d/] ,d a ,d [,b,c] ,d ,b ,a |"
-33a;;33;Psal. 114 Cum barbaris, Quand Israel, Da Israel zog, Doe Israel Egy;;;OT;ConcR2000 - ConcM132;C;"[,,dca1] ,,c ,,d ,a [,,d,,b] ,,,,,a [,,d,,b2] \
+33a;;33;Psal. 114 Cum barbaris, Quand Israel, Da Israel zog, Doe Israel Egy;;;OT;ConcR2000,ConcM132;C;"[,,dca1] ,,c ,,d ,a [,,d,,b] ,,,,,a [,,d,,b2] \
 [aac,,a1] ,,d ,a ,b [da,c] ,,,a ,,,,c ,,,c \
 [f,,,a2] ,,,,c1 ,,,,d"
-33b;;33;2a;;;OT;ConcR2000 - ConcM132;C;",,d3/2 ,,,d/ ,,,c ,,,a ,,,,d ,,,,c | \
+33b;;33;2a;;;OT;ConcR2000,ConcM132;C;",,d3/2 ,,,d/ ,,,c ,,,a ,,,,d ,,,,c | \
 [,,d,a/] ,,c ,,d ,a [,,d,,b] ,,,,,a ,,,,,b {a} | \
 [aa,,,a/] ,,c ,,a ,,c [,,d,a] ,b ,d ,b |"
 34a;;34;Psal. 115 Nobis Honor, Non point au, Nit uns nit uns, Niet ons niet ons;;;OT;ConcM133;C;"[abd,a1] ,d a c [da,,,a2] [cac,a] [aac,,a4] \
@@ -183,9 +183,9 @@ f/ ,,,,a ,,,,c ,,,,e [f,,a] ,,,c ,,,d ,,,a |"
 34b;;34;2a;;;OT;ConcM133;C;"[abd,a1] ,,d/ ,a ,b ,d a c | \
 [da,,,a1] c/ a [caa,c3/2] ,,,,a/ | \
 [aa,,,3/2] ,d/ [,b,,a] a ,b a |"
-35a;;35;Psal. 128. Felis vir & be., Bien-heureux, Selig ist der, Salich is hij bev;;;OT;ConcR918 - ConcM146;C;"[,,dca1] ,a ,b ,d [ab,,a] ,,,,c [a,,,d] ,,,a [aa,c] ,,a \
+35a;;35;Psal. 128. Felis vir & be., Bien-heureux, Selig ist der, Salich is hij bev;;;OT;ConcR918,ConcM146;C;"[,,dca1] ,a ,b ,d [ab,,a] ,,,,c [a,,,d] ,,,a [aa,c] ,,a \
 [,db2] [,bd] ,,,,a [,acc] [,acc,a] [,bdca1] ,d [aa,,,d]"
-35b;;35;2a;;;OT;ConcR918 - ConcM146;C;",,d/ ,,,a ,,,,d ,,,,c ,,,,a ,,a/4 ,,c ,,d ,a ,b ,d | \
+35b;;35;2a;;;OT;ConcR918,ConcM146;C;",,d/ ,,,a ,,,,d ,,,,c ,,,,a ,,a/4 ,,c ,,d ,a ,b ,d | \
 a/ ,,d ,,b ,,a [a,,c] ,,,,a ,,,,d ,,,a |"
 36a;;36;Psal. 92 Res aequa con, O on c'est ch, Es ist ein bill, Het sy heerlicke;;;OT;ConcM110;C;"[abd4] [aac2] [abd1] ,,b [f,,e2] [da,c] [caa,c1] \
 ,,,,a ,,,,,c ,,,,c [aa,,,a] c [da,c2] [caa,c] \
@@ -230,9 +230,9 @@ a/ ,,d ,,b ,,a [a,,c] ,,,,a ,,,,d ,,,a |"
 43b;;43;2a;;;OT;ConcM26;C;"[aa,,,a3/2] ,b/ ,a ,,d ,,b ,,a | \
 [a,,c/] c d a [c,,b] ,a a c | \
 [da,c1] ,,,,c/ c [a,,,d] c d a |"
-44a;;44;Psal. 23. Me Dominus, Mon Dieu me, Mein Huter un., Mijn Goedt voet;;;OT;ConcR891 - ConcM41;C;"[aab,,a4] [abd,a2] [aabc] [,aab4] [,abc1] ,,d ,a ,c \
+44a;;44;Psal. 23. Me Dominus, Mon Dieu me, Mein Huter un., Mijn Goedt voet;;;OT;ConcR891,ConcM41;C;"[aab,,a4] [abd,a2] [aabc] [,aab4] [,abc1] ,,d ,a ,c \
 [,da,c2] [acd,a] [cdd{a}] [aab,,a1] ,,d/ ,,b [,,a,c1]"
-44b;;44;2a;;;OT;ConcR891 - ConcM41;C;"[abd2] [,ac1] [,bd] | [aacc1] [,b,,a] [aa,,,e/] ,,,,,a [,,d,a1] | \
+44b;;44;2a;;;OT;ConcR891,ConcM41;C;"[abd2] [,ac1] [,bd] | [aacc1] [,b,,a] [aa,,,e/] ,,,,,a [,,d,a1] | \
 [,ab,,d3/2] ,,,,,c/ ,,,,,d ,,,,a ,,,,,d ,,,,,c |"
 45a;;45;Psal. 28 Quand prece, O Dieu out, Zu dir schreyt, O Heer ghy;;;OT;ConcM46;C;"[aabc3/2] ,,a/ ,,b1 ,,d [caa,c2] ,,,,a1 ,,,,,d \
 [,da,,c] a ,d ,c [,ab,,d2] [,ab] [,cd,,c] \
@@ -254,10 +254,10 @@ a/ ,,d ,,b ,,a [a,,c] ,,,,a ,,,,d ,,,a |"
 [aab,,a4] [,dd,,c2] [,a,c,e] [,bdca] [,dd,,c] [aacc,a4] ||"
 48b;;48;2a;;;OT;ConcM44;C;"[,abc3/2] ,,d/ ,,b ,,a ,,,c ,,,a | \
 [aa,,d1] ,,d/ ,,b ,,d2 | [,da,c3/2] ,b/ ,a ,b ,d a |"
-49a;;49;Psal. 31. In te Deus, I'ay mis en toy, Auff dich setz, Ick stel op u;;;OT;ConcR894 - ConcM49;C;"[aabc4] [,da,c2] [,acc] [,bd,a] [,b,,,b] [,d{a}] \
+49a;;49;Psal. 31. In te Deus, I'ay mis en toy, Auff dich setz, Ick stel op u;;;OT;ConcR894,ConcM49;C;"[aabc4] [,da,c2] [,acc] [,bd,a] [,b,,,b] [,d{a}] \
 [a{,a}] [,,a{,,a}] ,e [aac,,a4] || [,,dca1] ,a ,b \
 ,d [,a,,,d2] [,b,,,a] [,dd{a}4] [a,d,e] [,,da{a}] ||"
-49b;;49;2a;;;OT;ConcR894 - ConcM49;C;"[aabc3/2] ,,a/ ,,b ,,d ,a ,b | \
+49b;;49;2a;;;OT;ConcR894,ConcM49;C;"[aabc3/2] ,,a/ ,,b ,,d ,a ,b | \
 [,da,c3/2] ,b/ [,acc1] ,,d/ ,a | \
 [,bdca1] ,,,,,d [,b,,,b] ,,,,,a | [,d{a}/] ,b ,d ,a"
 50a;;50;Psal. 69. Salvum Deus, Helas, Seign., Herr Gott hil., Ick bid u help;;;OT;ConcM87;C;"[,aaac4] [,db,,d2] [,dd,,c] [aab,,c4] [,abc] \
@@ -272,10 +272,10 @@ a/ ,,d ,,b ,,a [a,,c] ,,,,a ,,,,d ,,,a |"
 51b;;51;2a;;;OT;ConcM101;C;"[aab,,a3/2] ,b/ ,a ,,,c ,a ,b | \
 [,da,c3/2] ,,,,a/ [,db,,d3/2] ,,,,,c/ | \
 [aab,,a3/2] ,a/ ,b ,d a c | d1 [,d,,c] [,b,,d] [,a,,,d] |"
-52a;;52;Psal. 61. Audi Deus, Enten pourquo., Thu Herr mein, Als ick roep;;;OT;ConcR904 - ConcM79;C;"[,ab,,d1] ,,,,a ,,,,,d ,,,,,c [aab,,a] ,,,,,c [a,,,,d] ,,,,a \
+52a;;52;Psal. 61. Audi Deus, Enten pourquo., Thu Herr mein, Als ick roep;;;OT;ConcR904,ConcM79;C;"[,ab,,d1] ,,,,a ,,,,,d ,,,,,c [aab,,a] ,,,,,c [a,,,,d] ,,,,a \
 [,da,c2] [dab,,d1] ,,,,a ,,,,c ,,,,,d [cdda2] [aabc] \
 ,,,,,a [,da,c1] ,,,,a [da,,,d]"
-52b;;52;2a;;;OT;ConcR904 - ConcM79;C;"[,ab,,d3/2] ,,d/ ,a ,,,c ,c ,d | \
+52b;;52;2a;;;OT;ConcR904,ConcM79;C;"[,ab,,d3/2] ,,d/ ,a ,,,c ,c ,d | \
 [aab,,a3/2] ,,a/ [aab] ,,,c ,a ,c | \
 [,da,c3/2] ,,,,a/ [dab,,d] ,,,,,c ,,,,,a c |"
 53a;;52;Psal. 106 Laudate Iova, Lovéz Dieu, Nu lobt Gott, Danckt Godt;;;OT;ConcM124;C;"[da,c4] [caa,c] [ab,,d2] [da,,,d1] ,,,,a ,,,,c ,,,,,d \
@@ -292,15 +292,15 @@ a/ ,,d ,,b ,,a [a,,c] ,,,,a ,,,,d ,,,a |"
 [ca,,c2] [ca] [da,c] [fdaa] [hi,f] [fdaa]"
 55b;;54;2a;;;OT;ConcM159;C;"[aabc3/2] ,d/4 ,b ,a/ ,,d ,,b ,,a | \
 [d,,c3/4] ,,a/4 ,,b ,,d ,a ,b ,a ,b ,d ,a ,b ,d a c |"
-56a;;55;Psal. 77. Ad Iovam Deum, A Dieu ma, Zu Gott in, Ick heb mijn / Secunda Pars;;;OT;ConcR906 - ConcM95;C;"[aacc2] ,,a1 ,,c [abd,a4] [,da,c1] ,,,,a [aa,,,d2] [c,d,,c] \
+56a;;55;Psal. 77. Ad Iovam Deum, A Dieu ma, Zu Gott in, Ick heb mijn / Secunda Pars;;;OT;ConcR906,ConcM95;C;"[aacc2] ,,a1 ,,c [abd,a4] [,da,c1] ,,,,a [aa,,,d2] [c,d,,c] \
 [da,,,a] [caabc] {,,a} [aacc,a4] || [aacc2] ,,a1 ,,c \
 [abd3] ,,b1 [,ea2]"
-56b;;56;Secunda Pars;;;OT;ConcR906 - ConcM95;C;"[aabc3/2] ,b/ ,a ,,d ,a ,,b | [abd,a1] ,,,,c ,,,,a ,,,,,d | \
+56b;;56;Secunda Pars;;;OT;ConcR906,ConcM95;C;"[aabc3/2] ,b/ ,a ,,d ,a ,,b | [abd,a1] ,,,,c ,,,,a ,,,,,d | \
 [,ed,,c2] [a,,,,a/] c d a | \
 [c,,,c1] ,,,b [d,,c/] ,,a ,,b ,,,c |"
-57a;;56;Psal. 100. Orbis Deo vos, Vous tous qui, Ihr Volker, Ghij Volckere;;;OT;ConcR911 - ConcM118;C;"[aa,c1] c d a [cd,a] d c a [,dff] ,,,e [da,c2] [caab] \
+57a;;56;Psal. 100. Orbis Deo vos, Vous tous qui, Ihr Volker, Ghij Volckere;;;OT;ConcR911,ConcM118;C;"[aa,c1] c d a [cd,a] d c a [,dff] ,,,e [da,c2] [caab] \
 [aabc1] ,,d/ ,,b [,,a,c1] ,e/ ,c [,ea{,,a}2] [aacc,a4] ||"
-57b;;57;Secunda Pars;;;OT;ConcR911 - ConcM118;C;"[aabc3/2] ,,a/ ,,b ,,,c ,,,a ,,,,d | \
+57b;;57;Secunda Pars;;;OT;ConcR911,ConcM118;C;"[aabc3/2] ,,a/ ,,b ,,,c ,,,a ,,,,d | \
 [caa,c3/2] d/ c a ,d ,c | \
 [,da1] ,,,,a [dab,,d/] ,,,,a ,,,,c ,,,,e |"
 57c;;57;3a;;;OT;ConcM118;C;"[a,,c/] ,a ,c ,e a c d a | [c,,a/] a c d f d [c,,,a] a | \
@@ -338,10 +338,10 @@ a/ ,,d ,,b ,,a [a,,c] ,,,,a ,,,,d ,,,a |"
 63b;;63;2a;;;OT;ConcM43;C;"[,dda{a}3/2] ,c/ ,d a ,d a | \
 [,c,,a/] ,a ,c ,,d [,a,,,a] ,,d ,a ,,c | \
 [,,d,,c1] ,,,,,a [,d{a}/] ,,d ,a ,c |"
-64a;;64;Psal. 35. In litigantes, Deba contre, Ficht wider, Twijst, Heer, m;;;OT;ConcR896 - ConcM53;C;"[,dda3/2] ,,,c/ ,,,a1 ,,,,e [,da,c2] [acd,a1] ,,,,,d \
+64a;;64;Psal. 35. In litigantes, Deba contre, Ficht wider, Twijst, Heer, m;;;OT;ConcR896,ConcM53;C;"[,dda3/2] ,,,c/ ,,,a1 ,,,,e [,da,c2] [acd,a1] ,,,,,d \
 [ccd,,c2] [aa,,,d1] ,,,,a [,,a,c] ,d ,d ,,b \
 [,,dca] ,c/ ,a [,cd2] [,daa{a}4] ||"
-64b;;64;2a;;;OT;ConcR896 - ConcM53;C;"[,dda3/2] ,,,c/ ,,,a ,,d [,a,,e] ,c | \
+64b;;64;2a;;;OT;ConcR896,ConcM53;C;"[,dda3/2] ,,,c/ ,,,a ,,d [,a,,e] ,c | \
 [,da,c/] ,a ,c ,d [acd,a3/2] ,,,,,d/ | \
 [c,d,,c2] [aa,,,d3/2] ,,,,a/ | [,,a,c/] ,d ,a ,c"
 65a;;65;Psal. 49 Audite gentes, Peuples oy, Hort zu iv, Ghy menschen;;;OT;ConcM67;C;"[,da{a}4] [,db,,d1] ,,,,a ,,,,,d ,,,,,c [aa,,,a2] ,c \
@@ -356,16 +356,16 @@ a/ ,,d ,,b ,,a [a,,c] ,,,,a ,,,,d ,,,a |"
 66b;;67;2a;;;OT;ConcM74;C;"[,daa3/2] ,,,c/ ,,a ,,b ,,d ,,a | \
 [,ab,,d1] ,,,c [,,d,a/] ,a ,c ,,d | \
 [,da,c3/2] ,,,,a/ ,,,,c ,,,,e ,,,,c ,,,,a |"
-67a;;68;Psal. 42. Quemad. Desiderat;;;OT;ConcR923 - ConcM60;C;"[,dda2] ,,,,e1 ,,,,c [acd,a] ,,,,,d [c,d,,c2] d1 c \
+67a;;68;Psal. 42. Quemad. Desiderat;;;OT;ConcR923,ConcM60;C;"[,dda2] ,,,,e1 ,,,,c [acd,a] ,,,,,d [c,d,,c2] d1 c \
 [a{,a}2] [,daa{a}1] ,,,,,a ,,,,,c ,,,,,e \
 [,cdca2] [,acc] ,,,,,a [,,dca{,,,a}4] ||"
-67b;;68;2a;;;OT;ConcR923 - ConcM60;C;"[,dda3/2] ,,,,e/ ,,,,c ,,,,a ,,,,c1 | \
+67b;;68;2a;;;OT;ConcR923,ConcM60;C;"[,dda3/2] ,,,,e/ ,,,,c ,,,,a ,,,,c1 | \
 [acd,a1] ,,,,,d [c,d,,c3/2] ,f/ | \
 ,d/ ,f c1 [a,d{,a}] ,,c | \
 [,da{a}3/2] ,c/4 ,a ,c/ ,,,,a ,d ,c |"
-68a;;69;Psal. 43. O iuste vindix, Revenge moy, Richt mich, Neemt myn sae;;;OT;ConcR900 - ConcM61;C;"[,dda4] [a,d,e3] ,,,,c1 [acd,a4] [,da,c1] ,,,,a [,d,,,d] ,,,,,c \
+68a;;69;Psal. 43. O iuste vindix, Revenge moy, Richt mich, Neemt myn sae;;;OT;ConcR900,ConcM61;C;"[,dda4] [a,d,e3] ,,,,c1 [acd,a4] [,da,c1] ,,,,a [,d,,,d] ,,,,,c \
 [da,,,a2] [da] [ca,,c1] a c2 [aac,,a4] ||"
-68b;;69;2a;;;OT;ConcR900 - ConcM61;C;"[,daa3/2] ,,b/ ,,d ,,a ,,b ,,a | \
+68b;;69;2a;;;OT;ConcR900,ConcM61;C;"[,daa3/2] ,,b/ ,,d ,,a ,,b ,,a | \
 [acd,a3/2] ,a/ ,,d ,a ,c ,d | \
 [a,d/] ,,,c ,,,,e ,,,a ,,,c ,,,,a ,,d ,,b |"
 69a;;70;Psal. 54 Salvum Deus, O Dieu tous, Hilff mir Herr, Och Heer alm;;;OT;ConcM72;C;"[cdd{a}4] [,db,,d2] [,dd,,c] [aab,,a] ,c [cda,c4] [dab,,d2] [dc,,,a] [cdd{a}4] || \
@@ -399,10 +399,10 @@ d c a [c,,a2] [da,,,d1] c [a,,,a] ,d [acd2] [,da{a}4] ||"
 [,b,,,a2] [,daa{a}4] ||"
 74b;;74;Secunda Pars;;;OT;ConcM94;C;"[,dda3/2] ,b/ ,,d ,a ,b ,d | [,bdca3/2] a/ ,,d ,a ,b ,d | \
 [,adc,a1] ,,c/ ,,a ,,c ,,d ,,c1 |"
-75a;;75;Psal. 79. Rex in tuam, Les gens, Die Heÿden, Die Heyd'nen;;;OT;ConcR907 - ConcM97;C;"[,,def4] [,da,e3] ,,,,a1 [aa,,,d4] [cce,,c] [d,,c] \
+75a;;75;Psal. 79. Rex in tuam, Les gens, Die Heÿden, Die Heyd'nen;;;OT;ConcR907,ConcM97;C;"[,,def4] [,da,e3] ,,,,a1 [aa,,,d4] [cce,,c] [d,,c] \
 [cdda2] [cdd] [acd,a] [dab,,a] [ca,,c4] [aacc,a] || \
 [,,def4] [,da,c2] [acd,a] [cdda4] [da,c]"
-75b;;75;2a;;;OT;ConcR907 - ConcM97;C;"[,,dca3/2] ,,,,,d/ ,,,,b ,a [,,b,,a] ,,d | \
+75b;;75;2a;;;OT;ConcR907,ConcM97;C;"[,,dca3/2] ,,,,,d/ ,,,,b ,a [,,b,,a] ,,d | \
 [,da{a}3/2] ,c/ ,,d ,a ,c ,d | \
 [acd,a3/2] ,a/ ,c ,,d ,d a | [cdd{a}4] ||"
 76a;;76;Psal. 84 Exercitum, mi, O Dieu des, O Godt der du, Hoe lieflyck, O;;;OT;ConcM102;C;"[,dda4] [fc,e] [dab2] [cdda] [a,,,e][,dda] [acd,a4] [cdd{a}] || \
@@ -414,11 +414,11 @@ d c a [c,,a2] [da,,,d1] c [a,,,a] ,d [acd2] [,da{a}4] ||"
 [aab,,a] ,c [cdd{a}4] [caa,c1] a c d [f,,e2] [dab] [cdda1]"
 77b;;77;2a;;;OT;ConcM107;C;"[,daa3/2] ,c/ ,d a ,d ,c | [,ab,,a1] ,,d/ ,,b [,,d,,c2] | \
 [,db,,d3/2] ,,,,,c/ [a,,,,a] c d a | [cdd{a}4] ||"
-78a;;78;Psal. 116. Ex corde gra., I'aime mon Dieu, Ich lieb den, Ick heb den Heer;;;OT;ConcR913 - ConcM134;C;"[fcd,a4] [cdda1] a/ c [da,,c2] [f,,,a4] [f,a1] d c a \
+78a;;78;Psal. 116. Ex corde gra., I'aime mon Dieu, Ich lieb den, Ick heb den Heer;;;OT;ConcR913,ConcM134;C;"[fcd,a4] [cdda1] a/ c [da,,c2] [f,,,a4] [f,a1] d c a \
 [ca2] [d,b1] c [a,d] ,d [acd,a2] [,daa{a}4] ||"
-78b;;78;2a;;;OT;ConcR913 - ConcM134;C;"[fd,a2] {,,,a}1 d | [cd,a/] d a c [d,,,c1] ,c/ ,a | \
+78b;;78;2a;;;OT;ConcR913,ConcM134;C;"[fd,a2] {,,,a}1 d | [cd,a/] d a c [d,,,c1] ,c/ ,a | \
 [fcd,a2] {,,,a} | [f,,a1] c/ d f d c a |"
-78c;;79;3a;;;OT;ConcR913 - ConcM134;C;"[f,,,a1] c/ d f d c a | [c,,a1] ,d/ ,c [da,c1] c/ d | \
+78c;;79;3a;;;OT;ConcR913,ConcM134;C;"[f,,,a1] c/ d f d c a | [c,,a1] ,d/ ,c [da,c1] c/ d | \
 #[f,,,a3/2] c/ a ,d ,c ,a |"
 79a;;79;Psal. 134;;;OT;ConcM150;C;"[,dda4] [,da,c2] [,ca,,c] [,ab,,d] [,,def] [,da,c3/2] ,,,,a/ \
 ,,,,,d1 ,,,,,c [aa,,,d] c d a [ccee,c4] || \
@@ -439,19 +439,19 @@ d c a [,db,,d] ,,,,,c [da,,,a] ,c [ddd{a}2] \
 [fda{a}4] [c,,a1] d [c,,,a] a"
 81b;;82;2a;;;OT;ConcM136;C;"[,dda3/2] a/ ,d1 ,c | [,a,,,d/] ,d ,c ,a [,,d,,c] ,a ,c ,,d | \
 ,d1 ,,,,,c [,db,,d] ,,,,,c |"
-82a;;83;Psal. 119. Coram Deo felix, Bien-heureuse, Ah wie so selig ist, Ghelucksalich is de mens;;;OT;ConcR916 - ConcM137;C;"[,dda4] [acd,a1] ,,,,,d [ccd,,c2] [,da,c] ,,,,a1 ,,,,,d \
+82a;;83;Psal. 119. Coram Deo felix, Bien-heureuse, Ah wie so selig ist, Ghelucksalich is de mens;;;OT;ConcR916,ConcM137;C;"[,dda4] [acd,a1] ,,,,,d [ccd,,c2] [,da,c] ,,,,a1 ,,,,,d \
 [c,d,,c] ,,,,,a {a} d [ff{,a}2] [f{,,,a}] \
 [da{,,a}1] {,a} [cdd{a}2] [acd{,,,a}4] ||"
-82b;;83;2a;;;OT;ConcR916 - ConcM137;C;"[,daa1] ,a/ ,c ,d a c ,d | [acd1] [,ab] [c,de/] d c a | \
+82b;;83;2a;;;OT;ConcR916,ConcM137;C;"[,daa1] ,a/ ,c ,d a c ,d | [acd1] [,ab] [c,de/] d c a | \
 [,dff3/2] ,c/ ,d a c d |"
 83a;;84;Psal. 121 Montes in alt, Vers les mont, Mein Augen, Tot den bergen;;;OT;ConcM139;C;"[,dda1] a c ,d [abd,a] ,,,,c ,,,,d ,,,,a [,da,c] ,,,,a \
 [dab,,d] ,,,,a ,,,,c ,,,,e [cdda2] [acd,a] [acd] [,dda{a}4] ||"
 83b;;84;2a;;;OT;ConcM139;C;"[,dda1] ,b/ ,a ,,d ,a ,b ,a | [a,,,d1] ,,d/ ,,b ,,d ,a ,,d1 | \
 [,da,c1] a/ c [d,,,,a/4] ,,a ,,b ,,d"
-84a;;85;Psal. 124. Nunc dicat, Or Peut bien, Furwahr nu, Men mach nu;;;OT;ConcR914 - ConcM142;C;"[,dda1] ,a ,c ,d [a,d,e2] [cdda] [dda,,d1] ,,,,a ,,,,c ,,,,e \
+84a;;85;Psal. 124. Nunc dicat, Or Peut bien, Furwahr nu, Men mach nu;;;OT;ConcR914,ConcM142;C;"[,dda1] ,a ,c ,d [a,d,e2] [cdda] [dda,,d1] ,,,,a ,,,,c ,,,,e \
 [,dda] {a} ,,,,,c ,,,,,d [acd,a2] [,d,,,c] [,db,,d] \
 [,c,ca] [,daa{a}4] |"
-84b;;85;2a;;;OT;ConcR914 - ConcM142;C;"[,dda1] ,a/ ,c ,d a c ,d | [a,,,e1] ,,d [c,,a/] ,,d ,a ,,d | \
+84b;;85;2a;;;OT;ConcR914,ConcM142;C;"[,dda1] ,a/ ,c ,d a c ,d | [a,,,e1] ,,d [c,,a/] ,,d ,a ,,d | \
 [dab,,d3/2] ,,,,,c/ ,,,,,a ,,,,,c ,,,,,d ,,,,a |"
 85a;;86;Psal. 139 Qui sim proda, O Dieu Qui, Herr du erfor, Ghy heb my;;;OT;ConcM155;C;"[,dda2] ,,,,d1 ,,,,c [,bd,a] ,,,,c ,,,,d ,,,a \
 [,acc] ,,,a ,,,c ,,,a [,,d,e2] [,,da] [,ab,,d] \
@@ -469,15 +469,15 @@ d c a [,db,,d] ,,,,,c [da,,,a] ,c [ddd{a}2] \
 [,cee,c3/2] ,,c/ ,,e ,,,e ,,f1 |"
 87b;;88;2a;;;OT;;C;"h3 f1 | [ca1] d c ,,d | ,,a1 [a,b] ,,a [,def] | \
 [,c,e1] ,,e/ ,,c ,,e1 [,a,c] | [,c,,e] [c,aa] [c,c,e] [a,e] |"
-88a;;89;Psal. 6. O rex supreme, Ne vueille, In deinem, Wilt my niet;;;OT;ConcR881 - ConcM25;C;"[,aa,c3] ,,,,a1 [,ab,,d] ,,,,,c [,ab,,a2] [,,d,,c1] \
+88a;;89;Psal. 6. O rex supreme, Ne vueille, In deinem, Wilt my niet;;;OT;ConcR881,ConcM25;C;"[,aa,c3] ,,,,a1 [,ab,,d] ,,,,,c [,ab,,a2] [,,d,,c1] \
 ,,,,,d ,,,,,c ,,,,,a [,,da{a}2] ,,,,,a1 ,,,,,c \
 [,ab,,d] ,c [,d,,c] ,,,a [,,,ca2] [,cd] [,daa{a}4] ||"
-88b;;89;2a;;;OT;ConcR881 - ConcM25;C;"[,aac3/2] ,c/ ,d ,a ,d ,c | [,aa,c3/2] ,,,,e/ [,aaa] ,,,,c ,,,a ,,,c | \
+88b;;89;2a;;;OT;ConcR881,ConcM25;C;"[,aac3/2] ,c/ ,d ,a ,d ,c | [,aa,c3/2] ,,,,e/ [,aaa] ,,,,c ,,,a ,,,c | \
 [,,de1] ,,,c/ ,,,a ,,,,e ,,,,c ,,,,a ,,,,,d |"
-89a;;90;Psal. 22. Quare Deus, Mon Dieu, mon, Mein Gott, Waerom verlaet;;;OT;ConcR892 - ConcM40;C;"[,daac4] [,ab,,d] [aab,,a] [,da,c2] [,dff,d] [d,,,c] \
+89a;;90;Psal. 22. Quare Deus, Mon Dieu, mon, Mein Gott, Waerom verlaet;;;OT;ConcR892,ConcM40;C;"[,daac4] [,ab,,d] [aab,,a] [,da,c2] [,dff,d] [d,,,c] \
 [df,,e] [cdda] {a} [acd,a4] [,daa{a}] || \
 [,,def3] ,,,,e1 [,da,c] ,,,,a [aa,,,d2] [cce,,c4]"
-89b;;90;2a;;;OT;ConcR892 - ConcM40;C;"[,daa{a}3/2] ,c/ ,d a ,d ,c | \
+89b;;90;2a;;;OT;ConcR892,ConcM40;C;"[,daa{a}3/2] ,c/ ,d a ,d ,c | \
 [,ab,,d3/2] ,,,,,c/ ,,,,,d ,,,,a ,,,,,d ,,,,,c | \
 [aab,,a3/2] ,,a/ ,,b ,,d ,a ,c |"
 90a;;91;Psal. 33 Ardenter, Resveilles, Wolauff ihr, Weest nu ver;;;OT;ConcM51;C;"[,aa,c1] ,c ,d a [cca,b2] [cda,c] [fcd,,c] [ec,,e] \
@@ -489,9 +489,9 @@ d c a [,db,,d] ,,,,,c [da,,,a] ,c [ddd{a}2] \
 [ca,,c1] ,,,,a ,,,,c ,,,,e [cd,a]"
 91b;;92;2a;;;OT;ConcM52;C;"[,aa,c3/2] ,,a/ ,,c ,,e ,a ,c | [,d,,c/] ,,a ,c ,a [,c,,b1] ,,a | \
 [,da,c/] ,c ,a ,c ,d a c ,d |"
-92a;;93;Psal. 38. In selo tui, Las ! En ta, Herr zur, Wilt in uwen;;;OT;ConcR897 - ConcM56;C;"[,da,c2] ,c1 ,a [,cee,c4] [,aa,c2] [,ca,a] [,db,,d] \
+92a;;93;Psal. 38. In selo tui, Las ! En ta, Herr zur, Wilt in uwen;;;OT;ConcR897,ConcM56;C;"[,da,c2] ,c1 ,a [,cee,c4] [,aa,c2] [,ca,a] [,db,,d] \
 [aa,,,a1] ,c [cdd{a}2] a1 ,d [acd,a2] {,,a} ||"
-92b;;93;2a;;;OT;ConcR897 - ConcM56;C;"[,da,c3/2] ,c/ ,a ,c ,d ,,c | \
+92b;;93;2a;;;OT;ConcR897,ConcM56;C;"[,da,c3/2] ,c/ ,a ,c ,d ,,c | \
 [,ce,,c1] ,,c/ ,,e ,,f/4 ,,e ,,f ,,e ,,f ,,e ,,c ,,e |"
 93a;;94;Psal. 62 Cordis mei, Mon Ame, Mein Seel, Hoe seer dat;;;OT;ConcM80;C;"[,aa,c1] ,c ,d ,a c ,,,,c ,,,,a ,,,,,c [,dba,d] \
 ,,,,a ,,,,,d ,,,,,c [aab,,a2] ,,,,,c1 ,,,,,d \
@@ -529,16 +529,16 @@ d c a [,db,,d] ,,,,,c [da,,,a] ,c [ddd{a}2] \
 [cdd{a}1] [ab/] c [,df] a [,bd] ,d |"
 99b;;100;2a;;;OT;;C;"#,,,f2 ,a1 ,b | [,db/] ,d a c [da1] ,b | \
 [cd1] [da] [ac] [cd] | a1 ,c/ ,a [ab] ,a/4 ,b ,d/ ,b |"
-100a;;101;Psal. 29. Primarii, Vous tous Pr., Ihr gewalti., Ghij Princen;;;OT;ConcR895 - ConcM47;C;"[,dff4] [ab,,d] [,da,c2] [a,,,,d] [c,d,,c4] \
+100a;;101;Psal. 29. Primarii, Vous tous Pr., Ihr gewalti., Ghij Princen;;;OT;ConcR895,ConcM47;C;"[,dff4] [ab,,d] [,da,c2] [a,,,,d] [c,d,,c4] \
 [da,,,a2] c1 a [,da{,,a}4] || \
 [da,,,a4] [caa,c] [ab,,d2] [dab,,d] \
 [c,,,a3/2] d/ [acd2] [,daa{a}4] ||"
-100b;;101;2a;;;OT;ConcR895 - ConcM47;C;"[,db,,d3/2] ,b/ ,d ,a ,b ,d | [aab,,a3/2] ,,a/ ,,b ,,d ,a ,b | \
+100b;;101;2a;;;OT;ConcR895,ConcM47;C;"[,db,,d3/2] ,b/ ,d ,a ,b ,d | [aab,,a3/2] ,,a/ ,,b ,,d ,a ,b | \
 [,da{,,a}/] ,a ,b ,d [a{,a}] ,,d ,d a |"
-101a;;102;Psal. 73. Est attamen, Si est ce, Furwahr G., Godt is nocht;;;OT;ConcR905 - ConcM91;C;"[,db,,d4] [ab,,d2] [dd,,c] [c,,a] [abd,a] [,,a,c1] \
+101a;;102;Psal. 73. Est attamen, Si est ce, Furwahr G., Godt is nocht;;;OT;ConcR905,ConcM91;C;"[,db,,d4] [ab,,d2] [dd,,c] [c,,a] [abd,a] [,,a,c1] \
 ,d [,da] ,,,,a/ ,,,,,d [,,,ca2] [,cd] [,daa{a}4] || \
 [da,,,a4] [ca,,c2] [ab,,d] [dab,,d4]"
-101b;;102;2a;;;OT;ConcR905 - ConcM91;C;"[,db,,d3/2] ,,a/ ,,b ,,a ,,,c ,,,a | \
+101b;;102;2a;;;OT;ConcR905,ConcM91;C;"[,db,,d3/2] ,,a/ ,,b ,,a ,,,c ,,,a | \
 [a,,,d/] ,,d/4 ,a ,b ,d a c [dab,,d/] ,,,,a ,,,,c ,,,,e |"
 102a;;103;Psal. 68. Ex surgat in, Que Dieu se, Gott mach, Staet op Heer;;;OT;ConcM86;C;"[,,ba,d1] ,,,,a ,,,,,d ,,,,,c [,,bc,a2] [,,d{a}] \
 [,a,,,d] [,,bcd{,a}] [,ab,,d1] ,,,,,c [,b,,,a2] \
@@ -546,9 +546,9 @@ d c a [,db,,d] ,,,,,c [da,,,a] ,c [ddd{a}2] \
 102b;;103;2a;;;OT;ConcM86;C;"[,,ba,d3/2] ,,,,,c/ ,,,,,d ,,,,a ,,,,,d ,,,,,c | \
 [,,bc,a1] ,,a/ ,,b [,,d{a}] ,,,a ,d ,b | \
 [,a,,,d/] ,,b ,,,c ,,a ,,b ,a [,,d,,c1] |"
-103a;;104;Psal. 97. Rex est Deus, L'eternel, De Herr ein, Een Coninck;;;OT;ConcR910 - ConcM115;C;"[,dff3] ,,,e1 [a,,c] ,,,a [db,,d] ,a [d,da2] [cd{a}1] ,b \
+103a;;104;Psal. 97. Rex est Deus, L'eternel, De Herr ein, Een Coninck;;;OT;ConcR910,ConcM115;C;"[,dff3] ,,,e1 [a,,c] ,,,a [db,,d] ,a [d,da2] [cd{a}1] ,b \
 [dab,,d4] || [da,,,a1] c a ,d [acd,a2] [c,d,,c]"
-103b;;104;2a;;;OT;ConcR910 - ConcM115;C;"[,da,c3/2] a/ c ,d d c | [ab,,d1] ,,,,c/ ,,,,a [da,,,d1] ,b/ ,a | \
+103b;;104;2a;;;OT;ConcR910,ConcM115;C;"[,da,c3/2] a/ c ,d d c | [ab,,d1] ,,,,c/ ,,,,a [da,,,d1] ,b/ ,a | \
 [d,da1] c/ a [cd{a}] ,a ,b ,,d | [dab,,d4] ||"
 104a;;105;Psal. 82 Stans in sac, Dieu est als, Gott stehet, Godt is inde;;;OT;ConcM101;C;"[,dff,d4] [,dda2] [,d,,c] [ab,,d] [,bdd] [,dda] [bdd{a}] \
 [acd,a4] [,dda{a}] || [,db,,d4] [,da,c2] [,,da] [,bdca] [bb,d]"
@@ -560,9 +560,9 @@ a1 c [da,,,a] ,,,,,c ,,,,,d ,,,,a [caa,c2] [da,,,d1] \
 c [a,,,a] ,d [acd] ,,b [,daa{a}4] ||"
 105b;;106;2a;;;OT;ConcM123;C;"[,,ba,d3/2] ,,a/ ,,b ,,d ,a ,b | [,aff3/2] ,,e/ [,,bc] ,b ,a ,b | \
 [,da,c3/2] ,,,,a/ ,,,,c ,,,,d ,,,,c ,,,,a |"
-106a;;107;Psal. 133. Res ecce quam, O combien, Schaw, wie, Siet hoe fijn;;;OT;ConcR921 - ConcM149;C;"[,,ba,d4] [,ab,,a] [,,da,c] [,,ba,d2] [,d,,,c] [aab,,a] \
+106a;;107;Psal. 133. Res ecce quam, O combien, Schaw, wie, Siet hoe fijn;;;OT;ConcR921,ConcM149;C;"[,,ba,d4] [,ab,,a] [,,da,c] [,,ba,d2] [,d,,,c] [aab,,a] \
 [da,c] [ca,,c] [,dda] [acd,a] ,,d1 ,,b [,daa{a}4] ||"
-106b;;107;2a;;;OT;ConcR921 - ConcM149;C;"[,,bc3/2] ,,,a/ ,,,,c ,,,a ,,,,d ,,d | \
+106b;;107;2a;;;OT;ConcR921,ConcM149;C;"[,,bc3/2] ,,,a/ ,,,,c ,,,a ,,,,d ,,d | \
 [,a,,c1] ,,b/ ,,a ,,b ,,,a [,,b,d1] | \
 [,,def3/2] ,,f/ ,,d ,,,f ,,d ,,,,d |"
 107a;;108;6. PRAELUDIUM;;;OT;;C;"[aacc,a2] ,a1 ,,,,,c | [,a,,,e1] ,,,c [,c,,a] ,,a | \
@@ -610,14 +610,14 @@ c [a,,,a] ,d [acd] ,,b [,daa{a}4] ||"
 [f,,,a1] ,,,,c ,,,,e ,,,a [e,,c] ,c [c,,a] ,a"
 115b;;117;2a;;;OT;ConcM145;C;"[a,d3/2] ,d/ ,c ,a ,,d ,,c | [f,a/] ,c ,a ,c [fd,a1] ,c | \
 [ea,c3/2] ,,,a/ [a,,,e1] ,,d |"
-116a;;118;Psal. 117. Laudate gentes, Toutes gens, Den Herren lo., Ghij Heijdenen;;;OT;ConcR917 - ConcM135 - ConcM145;C;"[acd1] ,a ,,d ,,c [f,a] ,,,c [f,,a2] [ea,c1] ,,,a \
+116a;;118;Psal. 117. Laudate gentes, Toutes gens, Den Herren lo., Ghij Heijdenen;;;OT;ConcR917,ConcM135,ConcM145;C;"[acd1] ,a ,,d ,,c [f,a] ,,,c [f,,a2] [ea,c1] ,,,a \
 [a,,,e2] [c,,a1] ,,,,e [e,,,c] ,d [fc,,a2] {,,,a} ||"
-116b;;118;2a;;;OT;ConcR917 - ConcM135 - ConcM145;C;"[acd3/2] ,,c/4 ,,a ,,,c/ ,,,a ,,,,e ,,,,c | \
+116b;;118;2a;;;OT;ConcR917,ConcM135,ConcM145;C;"[acd3/2] ,,c/4 ,,a ,,,c/ ,,,a ,,,,e ,,,,c | \
 [fc,,a/] ,,,,c ,,,,a ,,,,,e [f,,,,c] ,e ,c ,e | \
 [ef,,,a3/2] {a}/ [a,d{,a}3/2] ,,c/ |"
-117a;;119;Psal. 103. Mens Domino, Sus, Loués, Nu preisz, Mijn siele / Secunda Pars;;;OT;ConcR912 - ConcM121;C;"[aacc3/2] ,,a/ ,,c1 ,,d [ca,b] a/ c [ea,c1] ,d [fc,,a4] \
+117a;;119;Psal. 103. Mens Domino, Sus, Loués, Nu preisz, Mijn siele / Secunda Pars;;;OT;ConcR912,ConcM121;C;"[aacc3/2] ,,a/ ,,c1 ,,d [ca,b] a/ c [ea,c1] ,d [fc,,a4] \
 [fc,,,c1] ,,,,,e ,,,,a ,,,,c [ec,,e2] [ca,b] [ea,c]"
-117b;;120;Secunda Pars;;;OT;ConcR912 - ConcM121;C;"[aacc3/2] ,,a/ ,,c ,,d ,a ,c | [ca,b3/2] a/4 c [ea,c1] ,d | \
+117b;;120;Secunda Pars;;;OT;ConcR912,ConcM121;C;"[aacc3/2] ,,a/ ,,c ,,d ,a ,c | [ca,b3/2] a/4 c [ea,c1] ,d | \
 [f,,,a3/2] c/4 a ,d ,c ,a ,c ,,d ,a ,c"
 118a;;121;(7.) PRAELUDIUM;;;OT;;C;"c3/2 c/ b1 ,d | c1 e [f,,e3/2] ,,,e/ | \
 [e,,d1] ,,,,e [c,a] [a,c/] ,d | [,cd1] c [,ac] b |"
@@ -632,19 +632,19 @@ c [a,,,a] ,d [acd] ,,b [,daa{a}4] ||"
 [,da,c1] ,,,,a [,a,c,d2] [,ca,,c4] || [,,de1] ,a ,c ,d [aac2]"
 120b;;123;2a;;;OT;ConcM81;C;"[,da,c3/2] ,,,c/ ,,a ,,d ,,c1 | [,cde1] ,,a/ ,,c ,,d ,a [,c,c] [,d,a] | \
 [a,,,e/] ,,d ,,c ,,a ,,c ,c ,a ,c |"
-121a;;124;Psal. 51. Rerum Deus, Misericorde, Herr Gott, Ontfermt u over;;;OT;ConcR902 - ConcM69;C;"[,cde4] [a,d,e2] [aacc] [caa,c4] [,cde2] ,,,c1 ,,,a \
+121a;;124;Psal. 51. Rerum Deus, Misericorde, Herr Gott, Ontfermt u over;;;OT;ConcR902,ConcM69;C;"[,cde4] [a,d,e2] [aacc] [caa,c4] [,cde2] ,,,c1 ,,,a \
 [a,c,e2] [ac1] ,,,a [,acc2] ,,,a1 ,,,,e [,daac3] \
 ,c/ ,a [,cee,c4] ||"
-121b;;124;2a;;;OT;ConcR902 - ConcM69;C;"[,c,e1] ,,a/ ,,c ,,d ,a ,c ,d | [a,d,e1] ,,,a [a,cc] ,d/ a | \
+121b;;124;2a;;;OT;ConcR902,ConcM69;C;"[,c,e1] ,,a/ ,,c ,,d ,a ,c ,d | [a,d,e1] ,,,a [a,cc] ,d/ a | \
 [cd,a3/2] a/ ,d c a ,d |"
 122a;;125;Psal. 131. Non est sup., Seigneur, Mein Hertz, Mijn hert is;;;OT;ConcM147;C;"[ccde4] [ec,,e] [ac,,e2] [fc,,a] [ea,,c] [ca,a] [,cc{,a}] b [cce,,c4] || \
 [,cd,,c2] ,d1 a [cc,e2] [a,c,e] [cdda4]"
 122b;;125;2a;;;OT;ConcM147;C;"[cc,e3/2] ,f/ c e f c | [ea,c3/2] ,,,e/ ,,,c1 ,,,a | \
 [a,,,e/] c e a [f,,,a] ,c ,d ,c |"
-123a;;126;Psal. 16. Servum tuum, Sois moy, Bewahr mic., Bewaert mij;;;OT;ConcR888 - ConcM34;C;"[fc,c4] [ec,d2] [ccde] [a,c,e] [,cde1] ,d [aacc2] \
+123a;;126;Psal. 16. Servum tuum, Sois moy, Bewahr mic., Bewaert mij;;;OT;ConcR888,ConcM34;C;"[fc,c4] [ec,d2] [ccde] [a,c,e] [,cde1] ,d [aacc2] \
 [acd,a] [,da,c1] ,c [,da{,,a}] a [,cee,c4] || \
 [,cdca1] ,,,,c ,,,,e ,,,a [,acc] ,,,,,a [,,d,,c2]"
-123b;;126;2a;;;OT;ConcR888 - ConcM34;C;"[fcd,a4] | [ea,c3/2] c/ a c e a | [c,,a1] ,a/ ,,d ,a ,c ,d ,a | \
+123b;;126;2a;;;OT;ConcR888,ConcM34;C;"[fcd,a4] | [ea,c3/2] c/ a c e a | [c,,a1] ,a/ ,,d ,a ,c ,d ,a | \
 [a,,,e/] c a ,d"
 124a;;127;Psal. 39 Dixi, via, I'ay dit en, Ich war bey, Ick sprack, ick;;;OT;ConcM57;C;"[,cdca4] [,ca,,c2] [,daa{a}] [acd,a4] [c,,a2] ,a [a,,,e3/2] \
 ,,,,c/ [f,,,a2] [fa,,,a1] e/ c e1 ,d [fcd,a4] {,,,a} ||"
@@ -661,9 +661,9 @@ c [a,,,a] ,d [acd] ,,b [,daa{a}4] ||"
 126b;;128;2a;;;OT;ConcM112;C;"[,cde3/2] ,a/ ,c ,d [a,,c] ,c | \
 [c,,a1] ,a/ ,,d [ca,a1] ,,a/ ,,c | \
 [a,d,e1] ,,c/ ,,a ,,c1 ,,,,c |"
-127a;;129;Psal. 132. Esto memor, Vueille Sei., Gedenck o, Gedenck do;;;OT;ConcR922 - ConcM148;C;"[,cee2] ,,,c1 ,,,e [,a,a2] [,da,c] [,cde3] ,,,c1 [cdda2] a1 ,d [acd,a2] [,da,c] [,cee,c4] || \
+127a;;129;Psal. 132. Esto memor, Vueille Sei., Gedenck o, Gedenck do;;;OT;ConcR922,ConcM148;C;"[,cee2] ,,,c1 ,,,e [,a,a2] [,da,c] [,cde3] ,,,c1 [cdda2] a1 ,d [acd,a2] [,da,c] [,cee,c4] || \
 [,cee2] ,a1 ,c [,da,c2] [,ca,b] [,aa,c]"
-127b;;129;Secunda Pars;;;OT;ConcR922 - ConcM148;C;"[,cee3/2] ,a/ ,,e ,a ,c ,,,c | \
+127b;;129;Secunda Pars;;;OT;ConcR922,ConcM148;C;"[,cee3/2] ,a/ ,,e ,a ,c ,,,c | \
 [,a,a/] ,,,c ,,,a ,,,,e [,da,c] ,c ,d a | \
 [,c,e/4] ,,a ,,c ,,d"
 128a;;130;Psal. 102 Exaudi Deus, Seigneur, Mein Gebet, Wilt myn gebedt;;;OT;ConcM120;C;"[eccde4] [fc,,,c] [ec,,e2] [cdda] [acd,a] [ccd,,c] [,da,c] \
@@ -703,10 +703,10 @@ c [a,,,a] ,d [acd] ,,b [,daa{a}4] ||"
 [a,d1] ,d [,cd] ,,b |"
 134b;;136;2a;;;OT;;C;"f2 d1 b | [gd1] f/ g [f,g1] [d,e] | ,e1 f/ d [bd] a d b | \
 [acd3/2] ,d/ [a,b1] [b,,d/] a |"
-135a;;137;Psal. 40. Resideravi, Apres avoir, Ich hab ge., Na dat ick lan.;;;OT;ConcR899 - ConcM58;C;"[,,dca4] [,,d,,b2] [,,da{a}] [,bdca] [,db,,d] [bbd,,b] \
+135a;;137;Psal. 40. Resideravi, Apres avoir, Ich hab ge., Na dat ick lan.;;;OT;ConcR899,ConcM58;C;"[,,dca4] [,,d,,b2] [,,da{a}] [,bdca] [,db,,d] [bbd,,b] \
 [a,b,d] [,,,d{a}] ,d [,,,ca] ,c [,daa{a}4] || [,dff4] \
 [bdda2] [bb,d] [ab,,d] [ab,,a]"
-135b;;137;2a;;;OT;ConcR899 - ConcM58;C;"[,,da{a}3/2] ,,,,,a/ ,,,,,b1 ,,,,,d | \
+135b;;137;2a;;;OT;ConcR899,ConcM58;C;"[,,da{a}3/2] ,,,,,a/ ,,,,,b1 ,,,,,d | \
 [,,dca1] ,,,,c/ ,,,,e [,,da3/2] ,a/ | \
 [,bdca1] {,,,a}/ ,a ,b ,,d ,a ,c |"
 136a;;138;Psal. 86. Aures o Deus, Mon Dieu, Herr dein, O Heer, opent;;;OT;ConcM104;C;"[,dda4] [,db,,d] [,cd,a2] [,d,,,b] [aa,,,a1] ,c [bdd{a}2] \
@@ -742,18 +742,18 @@ c [a,,,a] ,d [acd] ,,b [,daa{a}4] ||"
 141b;;143;2a;;;OT;;C;"#,,,h2 #,,,h1 #,,f | #,,h1 #,,,h #,,h ,,i | \
 #[,f,,a3/2] ,d/ [,c,,a] ,d [,a,,c1] | \
 ,,,,e/ ,,d [,,d,a1] ,,,,e/ ,,d [,,ca] ,,a |"
-142a;;144;Psal. 1. Qui non malo, Qui au cons., Wer nicht, Die niet en.;;;OT;ConcR877 - ConcM20;C;"[acd,a4] [cdd{a}1] ,,a ,a ,,d [aacc,a] ,,a ,,d ,,c \
+142a;;144;Psal. 1. Qui non malo, Qui au cons., Wer nicht, Die niet en.;;;OT;ConcR877,ConcM20;C;"[acd,a4] [cdd{a}1] ,,a ,a ,,d [aacc,a] ,,a ,,d ,,c \
 [,cdca] ,a ,c ,d [aab,,a3] ,,,,,c1 [,db,,d2] [,cdca]"
-142b;;144;2a;;;OT;ConcR877 - ConcM20;C;"[acd,a4] | [cdd{a}1] ,c ,a ,,d | [aac,,a1] [,,d,e] ,,,,c ,,c | \
+142b;;144;2a;;;OT;ConcR877,ConcM20;C;"[acd,a4] | [cdd{a}1] ,c ,a ,,d | [aac,,a1] [,,d,e] ,,,,c ,,c | \
 [,cdc{,,,a}1] ,,a/ ,,c ,,d ,a ,c ,d |"
-143a;;145;Psal. 3. Quam multi, O Seigneur, Wie viel se., Hoe veel is;;;OT;ConcR879 - ConcM22;C;"[,,dca1] ,a ,c ,d [aa,,,e4] [acd,a] [cdd{a}1] a/ c [ea,,,a2] [fcd{,,,a}4] || \
+143a;;145;Psal. 3. Quam multi, O Seigneur, Wie viel se., Hoe veel is;;;OT;ConcR879,ConcM22;C;"[,,dca1] ,a ,c ,d [aa,,,e4] [acd,a] [cdd{a}1] a/ c [ea,,,a2] [fcd{,,,a}4] || \
 [fcd,a4] [ea,,,a2] [ca,,c] [a,d,e] [,ea,c] [aacc,a4] ||"
-143b;;145;2a;;;OT;ConcR879 - ConcM22;C;"[,,dca1] {,,,a}/ ,,c ,,d ,a ,c ,d | \
+143b;;145;2a;;;OT;ConcR879,ConcM22;C;"[,,dca1] {,,,a}/ ,,c ,,d ,a ,c ,d | \
 a1 ,,d ,,c/ ,,a ,,,c ,,,a | \
 [a,,,e/] ,d ,c ,a ,,d ,,c ,,a ,,,c |"
-144a;;146;Psal. 19. Coeli Dei, Les cieux, Die Himmel, Die Hemelen;;;OT;ConcR889 - ConcM37;C;"[,,dca1] ,a ,c ,,d [a,,,,e] ,a [ac,,a] ,,,,,d [c,d,,c] \
+144a;;146;Psal. 19. Coeli Dei, Les cieux, Die Himmel, Die Hemelen;;;OT;ConcR889,ConcM37;C;"[,,dca1] ,a ,c ,,d [a,,,,e] ,a [ac,,a] ,,,,,d [c,d,,c] \
 ,,,,,a ,,,,,c ,,,,,d [acd,a2] ,a1 ,c [,daa{a}4] ||"
-144b;;146;2a;;;OT;ConcR889 - ConcM37;C;"[,,dca3/2] ,a/ ,c ,d a c | [acd1] ,,,,a [aa,,,d] [,c,,a] | \
+144b;;146;2a;;;OT;ConcR889,ConcM37;C;"[,,dca3/2] ,a/ ,c ,d a c | [acd1] ,,,,a [aa,,,d] [,c,,a] | \
 [cdd{a}1] a/ c d c a ,d |"
 145a;;147;Psal. 57 Clemens fave, Aye pitie, Erbar dich, Ontfermt u Heer;;;OT;ConcM75;C;"[acd,a4] [da,,,a] [caa,c] [aacc] [fdaa] [da,c2] [a,d,e] [cdda] [cdd{a}] [acd,a] {,,,a} || \
 [a,c,e2] ,,d [c,,a] [da,c] [fcd,a4] [fcd,,c] [da,,,a2]"
@@ -781,9 +781,9 @@ a1 ,,d ,,c/ ,,a ,,,c ,,,a | \
 149b;;152;2a;;;OT;ConcM50;C;"[,,dca1] ,,a/ ,,c ,,d ,a ,c ,d | \
 [,ca,,c1] ,,a/ ,,c ,,d ,,c ,,a ,,,c | \
 [,,a{a}/] ,d ,a ,c ,d a c ,d |"
-150a;;153;Psal. 36. Ex impii, Du malin, Ausz desz, Des boosdoen.;;;OT;ConcR903 - ConcM54;C;"[,,dca3] ,,,,,e1 [,,d,,c2] [,ac,,a] [,cdca] ,,d1 ,,,,,e [,cd,,c] ,,,,,a [,da{a}2] [acd,a4] || \
+150a;;153;Psal. 36. Ex impii, Du malin, Ausz desz, Des boosdoen.;;;OT;ConcR903,ConcM54;C;"[,,dca3] ,,,,,e1 [,,d,,c2] [,ac,,a] [,cdca] ,,d1 ,,,,,e [,cd,,c] ,,,,,a [,da{a}2] [acd,a4] || \
 [a,,,e1] ,,d ,a ,c [,da] ,,c [,cd] ,,,,a"
-150b;;154;Secunda Pars;;;OT;ConcR903 - ConcM54;C;"[,,dca3/2] ,,a/ ,,,c ,,,a ,,,,e ,,,,c | \
+150b;;154;Secunda Pars;;;OT;ConcR903,ConcM54;C;"[,,dca3/2] ,,a/ ,,,c ,,,a ,,,,e ,,,,c | \
 [,,dca1] ,,,,,e/ ,,,,,c [,ac,,a1] {a} | \
 [,c{,a}/] ,d ,c ,a [,,d{a}] ,,c ,,d ,a |"
 151a;;155;Psal. 47 Gentes cant, Or sus tous, Nu ir Volcke, Alle Volck ge;;;OT;ConcM65;C;"[aacc4] [,cdca] [,,d,,c2] [,ac,,a] [,cdca] [,da{a}1] ,,,,,a \

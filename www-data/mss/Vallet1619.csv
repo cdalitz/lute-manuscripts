@@ -1,9 +1,9 @@
 PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
-1a;;1;Phe 12. A 9;;Psalm 12;OT;ConcR885 - ConcM30;C;",,d1 ,,b ,,,d2 | [a,b1] ,d [,cd/] ,,b ,,,d ,,,c | \
+1a;;1;Phe 12. A 9;;Psalm 12;OT;ConcR885,ConcM30;C;",,d1 ,,b ,,,d2 | [a,b1] ,d [,cd/] ,,b ,,,d ,,,c | \
 [,d,a1] ,,,,d/ ,,,,c [a,,,a1] ,,d | [,,cc1] ,,,a [ff,,e] d |"
-_1b;;3;Seconde partye;;;OT;ConcR885 - ConcM30;C;"f2 ,,d | [bde1] [,bd] [dd,f] ,f | [fg,d2] [bd,a1] ,b | \
+_1b;;3;Seconde partye;;;OT;ConcR885,ConcM30;C;"f2 ,,d | [bde1] [,bd] [dd,f] ,f | [fg,d2] [bd,a1] ,b | \
 [ddef1] [,d,d] [dc,c] f | [gd,a1] [f,g] ,,e [d,,c] |"
-_1c;;5;Troisiesme partye;;;OT;ConcR885 - ConcM30;C;"f/ d b a [bd] ,b ,,e ,,d | [d,e1] ,,,f [fd/] d f h | \
+_1c;;5;Troisiesme partye;;;OT;ConcR885,ConcM30;C;"f/ d b a [bd] ,b ,,e ,,d | [d,e1] ,,,f [fd/] d f h | \
 [if,h1] ,,,f ,,,,i ,,,,h [f,,d1] [b,,a] |"
 2;;7;Phe 16. A 8;;Psalm 16;OT;ConcM34;C;"c2 a1 ,d | [,cd1] a ,,c [c,a] | [ea,c1] a [f,,,e] [e,,a/] c | \
 [add1] ,c/ ,,c ,,a ,a [,c,,e1] |"
@@ -13,10 +13,10 @@ _1c;;5;Troisiesme partye;;;OT;ConcR885 - ConcM30;C;"f/ d b a [bd] ,b ,,e ,,d | [
 [,ab,,d3/2] ,,d/4 ,a ,,b1 [,a,,,c/] ,,,,,a [,,a{b}1] ,,d |"
 5;;13;Phe 33. A 9;;Psalm 33;OT;ConcM51;C;"[,dda1] f ,,d/ d [b,d] d | [ab1] [da] [,bd/] ,d [a,b1] | \
 ,,,d/ ,d/4 ,b [,dd1] [a,cc] [,bd,a] |"
-6;;15;Phe 40. A 9;;Psalm 40;OT;ConcR899 - ConcM58;C;"[if,h2] [hf,g1] [ffgh] | [ea,c1] a [,,d,e] [bd,a] | \
+6;;15;Phe 40. A 9;;Psalm 40;OT;ConcR899,ConcM58;C;"[if,h2] [hf,g1] [ffgh] | [ea,c1] a [,,d,e] [bd,a] | \
 [aa,c1] [,bd,a] [,a,,,e] [,,dca] | \
 [,,cc,a1] ,,,c [,,d{,a}] [,bdc{,,a}] | [,ab,,a2] a1 ,,,a |"
-7;;17;Phe 42. A 9;;Psalm 42;OT;ConcR923 - ConcM60;3;"[,ab3/2] ,c/ ,d2 [aabc] | [,da,c2] [dab,,d1] ,,,,a [caa,c2] | \
+7;;17;Phe 42. A 9;;Psalm 42;OT;ConcR923,ConcM60;3;"[,ab3/2] ,c/ ,d2 [aabc] | [,da,c2] [dab,,d1] ,,,,a [caa,c2] | \
 [aa,,,a1] ,b [,ab] {a} [a,a{,a}] ,,,c | \
 [caab{,,a}2] [,,b,,a1] a [,d,,,c] ,b |"
 8;;19;Phe 47. A 9;;Psalm 47;OT;ConcM65;C;",,d2 ,,a | [,d,a1] ,,,c [,c,e] ,,d | \
@@ -40,13 +40,13 @@ _10c;;26;Troisieme Verset;;;OT;ConcM99;C;",,b3/2 ,,,d/ ,,,c1 ,,b | [,,da1] ,a [,
 [,,cc{,a}2] ,,d | [,,,c,a1] ,,c/ ,,a ,,c1 [,,d,,c] |"
 12;;29;Phe 92. A 9;;Psalm 92;OT;ConcM110;C;",,d2 ,,d1 ,,d | [af1] ,d [,b,c] ,a/ ,,d | \
 [aabc1] ,,,c [abd] [,ab] | [f,de1] ,e [da,c] c/ a |"
-13;;31;Phe 91. A 9;;Psalm 91;OT;ConcR909 - ConcM109;C;"[,,dca3/2] ,,,,,d/ ,,,,,b1 ,,,,,a/ {a} | \
+13;;31;Phe 91. A 9;;Psalm 91;OT;ConcR909,ConcM109;C;"[,,dca3/2] ,,,,,d/ ,,,,,b1 ,,,,,a/ {a} | \
 [abb{,a}1] ,,d/ ,a [,bd{,,a}1] ,,b | \
 [,daa{a}1] ,,d [,a,,,a/] ,,c/4 ,,a ,,c1 | \
 [,b,c1] [,,d,,b] ,b [,,b,,a] |"
 14;;33;Phe 110. A 9;;Psalm 110;OT;ConcM128;C;"[abd2] [,ac1] [,bd] | [,a,c/] ,,a ,,b ,,d ,a ,,b ,,d ,a | \
 [,bdca/] ,d a1 [,,,c,e/] ,d [,bdca1] |"
-15;;35;Phe 100. A 9;;Psalm 100;OT;ConcR911 - ConcM118;C;",,a2 c/ ,,c ,,d ,a | [bc1] ,,c [c,d] [f,,e] | \
+15;;35;Phe 100. A 9;;Psalm 100;OT;ConcR911,ConcM118;C;",,a2 c/ ,,c ,,d ,a | [bc1] ,,c [c,d] [f,,e] | \
 [ec,d2] [,cde1] [a,,,e] | [,,def3/2] ,a/ [,ccee1] ,,,d | \
 [,,de1] [,c,,,c] [,da,c/] a c ,,,,a |"
 16;;37;Phe 107. A 9;;Psalm 107;OT;ConcM125;C;",d2 ,,d1 ,d | ,,e1 ,f [b,da] a/ ,d | \
@@ -55,14 +55,14 @@ _10c;;26;Troisieme Verset;;;OT;ConcM99;C;",,b3/2 ,,,d/ ,,,c1 ,,b | [,,da1] ,a [,
 17;;39;Phe 112. A 9;;Psalm 112;OT;ConcM130;C;",,d4 | [,,ea2] ,,d | ,,,d1 ,a [,b,c2] | \
 ,,,,d1 ,a [,,da] ,a | [,b,,d1] ,d a ,,d | \
 [,d,,c1] ,,c/ ,,a ,,c1 a |"
-18;;41;Phe 116. A 9;;Psalm 116;OT;ConcR913 - ConcM134;C;",,d2 ,,,a | ,,a2 [,,bc] | [,,d,,c1] ,d [,,,ca] ,c | \
+18;;41;Phe 116. A 9;;Psalm 116;OT;ConcR913,ConcM134;C;",,d2 ,,,a | ,,a2 [,,bc] | [,,d,,c1] ,d [,,,ca] ,c | \
 [,dda1] {a} [,ab,,a] ,,,,,d | [,cd,,c1] [,d{a}] [acd,a2] | \
 {a}1 ,,d [,d,a] [,bdca] |"
-19;;43;Phe 119. A 9;;Psalm 119;OT;ConcR916 - ConcM137;C;",,b2 [,,da1] ,,f/ ,,d | [,,bc/] ,,d ,a ,c [,d,e3/2] ,,,c/ | \
+19;;43;Phe 119. A 9;;Psalm 119;OT;ConcR916,ConcM137;C;",,b2 [,,da1] ,,f/ ,,d | [,,bc/] ,,d ,a ,c [,d,e3/2] ,,,c/ | \
 [,d,a/] ,,,c ,,a ,,b [,cd1] ,,d | [,ab1] ,,a/ ,,,c [,a,a,d1]"
-20a;;45;Phe 128. A 9;;Psalm 128;OT;ConcR918 - ConcM146;C;",,d2 [,d,a1] ,d | ,,d/ ,d ,b ,d/4 ,b ,a/ ,,b/4 ,,a ,,b/ ,,,c | \
+20a;;45;Phe 128. A 9;;Psalm 128;OT;ConcR918,ConcM146;C;",,d2 [,d,a1] ,d | ,,d/ ,d ,b ,d/4 ,b ,a/ ,,b/4 ,,a ,,b/ ,,,c | \
 ,,,d/ ,,d ,d ,b [,dedb] ,,,,a ,,,,b a |"
-_20b;;47;Second Verset;;;OT;ConcR918 - ConcM146;C;"[,dda1] ,b/ ,a ,,d1 ,d/ ,,,c | \
+_20b;;47;Second Verset;;;OT;ConcR918,ConcM146;C;"[,dda1] ,b/ ,a ,,d1 ,d/ ,,,c | \
 [,bdd1] [,d,c/] ,,,a a ,,,,e ,,d d | \
 ,,,a/ b a b [d,,c] ,b ,a ,b |"
 21;;49;Phe 137. A 8;;Psalm 137;OT;ConcM153;C;"c1 ,,a/ a [,df] ,c [,dc,c1] | \

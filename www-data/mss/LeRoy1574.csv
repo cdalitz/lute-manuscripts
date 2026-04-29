@@ -1,15 +1,15 @@
 PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
-1;;4v;Quand mon mary;Lassus arr.;first setting;OT;ConcR875 - ConcM7;C;",a1 ,d/ ,d | a1 c | c1 b | c2 | z2 | z2 | z1 f/ f | \
+1;;4v;Quand mon mary;Lassus arr.;first setting;OT;ConcR875,ConcM7;C;",a1 ,d/ ,d | a1 c | c1 b | c2 | z2 | z2 | z1 f/ f | \
 e1 c | a/ ,d ,c1 |"
-2;;6v;The former song finely handeled. / Quand mon mary;Lassus arr.;second setting;OT;ConcR875 - ConcM7;C;"[,af1] [,df/] [,df] | [a,d1] [c,a] | [c,d1] [b,c] | [c,a2] | \
+2;;6v;The former song finely handeled. / Quand mon mary;Lassus arr.;second setting;OT;ConcR875,ConcM7;C;"[,af1] [,df/] [,df] | [a,d1] [c,a] | [c,d1] [b,c] | [c,a2] | \
 z2 | z2 | z1 [fc/] f | e/ ,a [cd] ,d | [ac/] [,df] [,ce1] |"
-3;;8r;Example of 3-voice setting;;;OT;ConcR875 - ConcM7;C;"[,af1] [,df/] [,df] | [a,d1] [c,a] | [c,d1] [b,c] | \
+3;;8r;Example of 3-voice setting;;;OT;ConcR875,ConcM7;C;"[,af1] [,df/] [,df] | [a,d1] [c,a] | [c,d1] [b,c] | \
 [c,a,c] ,,,a/ ,,,a | ,,,c1 ,,a | ,,a1 ,,,d | ,,,e1 [fc/] f | \
 e/ ,a [cd] ,d |"
-4;;10v;Quand mon mary / The ioynyng of fower partes together;Lassus arr.;;OT;ConcR875 - ConcM7;C;"[,af1] [,df/] [,df] | [a,d1] [c,a] | [c,d1] [b,c] | \
+4;;10v;Quand mon mary / The ioynyng of fower partes together;Lassus arr.;;OT;ConcR875,ConcM7;C;"[,af1] [,df/] [,df] | [a,d1] [c,a] | [c,d1] [b,c] | \
 [c,a,c1] [,,,ac/] [,,,ac] | [,,,ca1] [,,a,,c] | \
 [,,a,a1] [,,,d,e] | [,,,e,c1] [fc/] f | e/ ,a [cd] ,d |"
-5;;15v;Quand mon mary / the former song finely handeled;Lassus arr.;;OT;ConcR875 - ConcM7;C;"[,af1] [,df/] [,df] | [a,d/4] ,d a ,c [c,a] ,,,c ,,a ,,,a | \
+5;;15v;Quand mon mary / the former song finely handeled;Lassus arr.;;OT;ConcR875,ConcM7;C;"[,af1] [,df/] [,df] | [a,d/4] ,d a ,c [c,a] ,,,c ,,a ,,,a | \
 ,,d/ c ,,c b | [c,a,c1] [,,,ac/] [,,,ac] |"
 6;;14v;Si Ie bien qui au plus grand bien;Lassus arr.;;OT;;C;"z2 | c2 | a1 c | e1 e | f1 z/ e/4 c | a1 f | e1 c | z1 b | c2 | \
 z2 | z1 c |"
@@ -176,13 +176,13 @@ M:3
 63;;85v;I Truste in God - The xi. Psalme;;;OT;ConcM19;C;"[cdf,c2] | [fc,e,c2] | [ec,de2] | [ccd,,c1] [ccde] | \
 [ea,c1] [fc,,e] | [h,i,kh1] [fc,e,c] | [ec,de/] ,,,e ,,,,e [ec,d] | \
 ,,,,,c/ [cce] ,,,e ,,f | [cce,,c2] |"
-64;;86r;O Lorde giue eare to;;Wrong page nr 74r;OT;ConcR887 - ConcM35;C;"[,ddef2] | [,cdca2] | [acd,a2] | [cdda1] [acd,a] | \
+64;;86r;O Lorde giue eare to;;Wrong page nr 74r;OT;ConcR887,ConcM35;C;"[,ddef2] | [,cdca2] | [acd,a2] | [cdda1] [acd,a] | \
 [,da,c1] [,acc,a] | ,,,,a/ [,cd] ,,,c ,d | [,cdca2] | \
 [,,dca2] | [acd,a1] [acc,e] | [cdf,c2] | [cdda2] |"
 65;;86v;I Lift my harte to thee - The xxv. Psalme;;;OT;ConcM43;C;"[aac,,a2] | [,ea,c1] [,ccce] | [,ac1] [ac,,e] | ,,c1 [ca,,c] | \
 [ea,c,a2] | ,,,,a/ [ac] ,,d ,,,c | [acd,a2] | [ea,c2] | \
 [ec,de2] | [fcd,a1] [ea,c,a] |"
-66;;87r;THe wicked with his - The xxxvj. Psalme;;Wrong page nr 75r;OT;ConcR903 - ConcM54;C;"[,bbcd2] | [,bdca1] [,dff,d] | [abb,d1] [,bb,d] | \
+66;;87r;THe wicked with his - The xxxvj. Psalme;;Wrong page nr 75r;OT;ConcR903,ConcM54;C;"[,bbcd2] | [,bdca1] [,dff,d] | [abb,d1] [,bb,d] | \
 [abd,a1] [cdda] | ,,,,,d/ [ddf] ,,,f ,,g | [ddf,,d2] | \
 [dfg,d2] | [bbd,,b1] [abb,d] | [,dff,d1] [,bbcd] |"
 67;;87v;Giue thankes - The cvii. Psalme;;;OT;ConcM125;C;"[,aa,c2] | [,abc,a2] | [ccd,,c2] | [haa,,h1] [hf,,ha] | \

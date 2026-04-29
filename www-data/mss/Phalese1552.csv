@@ -204,7 +204,7 @@ c1 [,daac/] ,c ,a ,,d [,dff,d1] |"
 76;;66;Domine Deus omnipotens;;;OT;;C;",,,c2 ,,,c1 ,,,c | \
 ,,a/ ,,,a ,,,c ,,a [,ab/4] ,,a ,,,c ,,,a ,,,c ,,a ,,b ,,d | \
 [,a,c1] ,a [,cd/] ,,d"
-77a;;68;Stabat mater dolorosa;;;OT;ConcR3572 - ConcM10;C;",,d2 [f,d] | [f,de2] [c,da] | [,dff3/2] ,,,e/ [dabc1] d | \
+77a;;68;Stabat mater dolorosa;;;OT;ConcR3572,ConcM10;C;",,d2 [f,d] | [f,de2] [c,da] | [,dff3/2] ,,,e/ [dabc1] d | \
 [cdda1] ,,a/ ,d [,dd,f1] ,,,c/ ,,,a | \
 [,daa1] ,,d/ ,,,a [,dfa1] ,,d |"
 77b;;70;Eya mater - Secunda pars;;;OT;ConcR1598;C;"[c,da2] X[ca,a1] [,d,,c] | \
@@ -216,11 +216,11 @@ X[,df3/2] ,,d/ ,,f ,c ,d1 | f1 ,c/ ,a [f,d] ,,c ,,d ,a |"
 [ab/] ,d [ab] c [db1] [da/] ,,d |"
 80;;73;Benedictus;;Duo;OT;;C;"[a,d2] [b,d1] a | ,,d/ ,d a ,b [b,d1] a | \
 ,,c1 ,d/ ,b [,ac1] ,,d | [,a,c1] ,,d/ ,a [,b,c1] ,a |"
-81;;74;Pater noster;;;OT;ConcR3570 - ConcM8;C;"a2 a | [a,,Xc/] ,d a c [df,c2] | X[dXf,c/] ,,a ,,b ,,d [cdf2] | \
+81;;74;Pater noster;;;OT;ConcR3570,ConcM8;C;"a2 a | [a,,Xc/] ,d a c [df,c2] | X[dXf,c/] ,,a ,,b ,,d [cdf2] | \
 [,a,c/] ,,a ,,b ,,a [aa,c2] |"
 82;;75;Benedictus;;;OT;;C;",a2 ,b1 ,,d | ,d2 ,b1 a | [ca1] ,d d [ca] | \
 [ab1] ,,d [,df] ,a | ,b1 a [ca] ,d |"
-83;;76;Ave Maria;;;OT;ConcR3571 - ConcM9;C;"[,,bXc/] ,,a ,,b ,,d [,,bc/4] ,,d ,a ,,d ,,b ,,,c ,,a ,,b | \
+83;;76;Ave Maria;;;OT;ConcR3571,ConcM9;C;"[,,bXc/] ,,a ,,b ,,d [,,bc/4] ,,d ,a ,,d ,,b ,,,c ,,a ,,b | \
 [,,aa/] ,a ,,d/4 ,,b ,,a ,,,c"
 84;;77;Tribulatio & angustia;;;OT;;C;",a2 [ca] | [ca/] a c/4 a c d [c,d/] a/4 c a/ ,d | \
 [a,d1] ,b a [db] |"
@@ -385,7 +385,7 @@ a1 a/ ,d ,c1 ,a | ,c/ ,d ,c ,a [,ca1] ,d |"
 c3/2 d/ a1 a | [,df3/2] a/ c d c1 |"
 149;;137;In te domine speraui;;;OT;ConcR557;C;",,d2 ,,d1 ,,d | z1 ,,d1 ,,c ,,a | [a,d1] ,,c/ ,,a [a,,c2] | \
 a1 ,,,c [,ea] [,cd] | a/ ,,c ,,,c ,,a"
-150a;;139;Stabat mater;Josquin de pres;;OT;ConcR3573 - ConcM10;C;",,d2 ,,d/ ,,b ,,d/4 ,,b ,,a ,,,c | [,,de2] [,,da] | \
+150a;;139;Stabat mater;Josquin de pres;;OT;ConcR3573,ConcM10;C;",,d2 ,,d/ ,,b ,,d/4 ,,b ,,a ,,,c | [,,de2] [,,da] | \
 [,ab3/2] ,,a/ [,abc2] | [,dda1] ,,a [,ddef] ,,,c/ ,,,a |"
 150b;;141;Eya mater - secunda pars;;;OT;ConcR1598;C;"[c,da2] [ca,a1] [,d,,c] | [c,,,c1] ,c/ ,a [cca2] | \
 [ca,,c2] [ca,,c1] ,,d/ ,,b | [c,de2] [cd,,c1] [,df] | \
