@@ -85,10 +85,10 @@ c | [,,'e,,a1] {a} [,a{,a}] | [,c{a}1] [,'c,,,a3/2] ,a/ | \
 ,c/ a/4 ,c a/ ,,,,a | "
 32;F dur;15r;Praeludium;Hinterleitner;;;Conc_3872;;"{,a} e ,d c e g {,,a} h ,f ,h f ,f {,a} ,h [,'f] a ,,h ,a \
 ,,,h ,,,f ,,a ,,,,f ,,,a"
-33;F dur;15v;Ballet;E.Reusner;;;Conc_1498;C;"a/ | [ada{,a}1] ,,,,,a/> ,,d [,ab{d}1] ,,,a/> ,a | \
+33;F dur;15v;Ballet;E.ReusnerJ;;;Conc_1498;C;"a/ | [ada{,a}1] ,,,,,a/> ,,d [,ab{d}1] ,,,a/> ,a | \
 [,,d{,,a}/]> ,a [,,'bc/]> ,,a [,,a{,a}1] [,,,ad/]> e | \
 [ed1] ,,,,a/ a [ca,,,c1] ,,,,,d/> ,c | "
-34;F dur;15v;Courant;E.Reusner;;;Conc_1499;3;"a/ | [ada{,a}1] ,d/> [,'c] ,a1 | [,,d,,a1] ,,a/ ,,,,,b ,a1 | \
+34;F dur;15v;Courant;E.ReusnerJ;;;Conc_1499;3;"a/ | [ada{,a}1] ,d/> [,'c] ,a1 | [,,d,,a1] ,,a/ ,,,,,b ,a1 | \
 ,,,,,a/ ,,d [,,'b{a}1]> ,,a | [,,aaa3/2] ,,d/ [,,'b] ,,a | \
 [,,,c{,,a}1] ,,,,,d/> ,,b | "
 35;F dur;16v;Sarabanda;;;;Conc_3915;3;"[ad{,a}1] ,h1> g | [h{,,a}1] ,f/ h 'f1 | [,h{,a}1] \
@@ -218,21 +218,21 @@ e/> g | "
 [c,d{,,a}1]> a [,cd{,a}1] | [,ac{a}2] [c,d{,,a}1] | \
 [e,d{,a}2] [c,c{a}1] | [a,,,,a1] ,,,,,c [,c,,,d] | \
 [,ac{a}2] [,ac1] | [,acc2] :| "
-75;B dur;36v;Sarabanda;E.Reusner;;;Conc_1502;3;",,,,,a/ a ,a ,,,a ,,b a | [c{,,a}1] ,,,,b1> ,,d | {,a}/ a \
+75;B dur;36v;Sarabanda;E.ReusnerJ;;;Conc_1502;3;",,,,,a/ a ,a ,,,a ,,b a | [c{,,a}1] ,,,,b1> ,,d | {,a}/ a \
 ,,,a1 ,,a/ ,b | [,a{,a}1] [,,baa2] | {a}/ ,a ,,,,a ,,b ,,,c \
 ,a | "
-76;B dur;36v;Courant;E.Reusner;;;Conc_1503;3;",a/ | [,ab1] ,,,,,a/ ,b a ,a | {c}/ ,,d {a} ,,,a ,,b ,,,,c | \
+76;B dur;36v;Courant;E.ReusnerJ;;;Conc_1503;3;",a/ | [,ab1] ,,,,,a/ ,b a ,a | {c}/ ,,d {a} ,,,a ,,b ,,,,c | \
 [,,a{,a}1] [,,,'a] {,,a} | [,,ba{,,,a}1] {4}/ ,,,a ,,d ,,,,b | "
-77;B dur;37v;Sarabanda;E.Reusner;;;Conc_1212;3;"[,ab,,a/]> ,a [,aba1]> ,,,b | {,,a}/ ,,b [,,bcb1]> ,,b | \
+77;B dur;37v;Sarabanda;E.ReusnerJ;;;Conc_1212;3;"[,ab,,a/]> ,a [,aba1]> ,,,b | {,,a}/ ,,b [,,bcb1]> ,,b | \
 [,bdc{4}/]> ,b [,'ba{,a}1] ,a | {a}/ ,a [,abc1]> ,a | \
 [,b,,,c1] [,cbc1]> ,c | "
-78;B dur;38r;Courant;E.Reusner;;;Conc_1504;3;",a/ | [,ab,,a1] ,b [a,,,a] | [c{,,a}1] [,'b{4}3/2] ,a/ | \
+78;B dur;38r;Courant;E.ReusnerJ;;;Conc_1504;3;",a/ | [,ab,,a1] ,b [a,,,a] | [c{,,a}1] [,'b{4}3/2] ,a/ | \
 [,,d{c}3/2] ,,,a/ ,,,,,a ,a | [,,d{,,a}/] ,,b [,,'a{,a}3/2] ,,a/ | \
 [,,b,,a1] ,,,a ,a | [,,d{c}1] a3/2 ,,d/ | "
-79;B dur;38v;Gavotta;E.Reusner;;;Conc_1505;C;",a/ | [,ab,,a1] ,,,,,c/ ,b ,,,,a a {,,a} c | ['e{,a}1]> \
+79;B dur;38v;Gavotta;E.ReusnerJ;;;Conc_1505;C;",a/ | [,ab,,a1] ,,,,,c/ ,b ,,,,a a {,,a} c | ['e{,a}1]> \
 e [f{a}1] ,,,,a/ a | [c,,,b1] ,,,,,a/ ,a [,b,,,c1] [a{c}/]> \
 ,b | [,'a,,,a1]> ,,d [,,da{,a}1] :| "
-80;B dur;38v;Guigue;E.Reusner;;;Conc_1211;3;",,b/ | [,,b,,a2] ,,,a1 | [,ab2] [,b,,,c1] | ,,,,a1 a ,,,a | \
+80;B dur;38v;Guigue;E.ReusnerJ;;;Conc_1211;3;",,b/ | [,,b,,a2] ,,,a1 | [,ab2] [,b,,,c1] | ,,,,a1 a ,,,a | \
 [,,'b2] a1 | ,,,,b1 ,,,c ,,d | [,,df{,a}2] [,,,'a1] | ,,,,,a1 \
 ,a ,,b | ,,,a2 ,a1 | "
 81;g moll;39v;sans titre - accord;;Passacaglia;;Conc_3922;3;"[cab{a}1] {,a} [c{,,a}] | [cb{4}1] e/ c ['b{,,,a}] ,a | \

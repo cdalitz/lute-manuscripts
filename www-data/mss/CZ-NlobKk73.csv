@@ -205,9 +205,9 @@ V[,,d,,a1] [,a{,a}/] ,,d ([,,c{a}] ,,d) | [,,'a,a1] \
 a/4 a [c,,,,a] e V[f{a}/] ,a V[,b,c] ,,,a/4 ,d | "
 84;B dur;132;Courente du Faut;F.Dufault;;;Conc_2153;3;",,d/ ,a ,,g | ,,,f/ a ,a1 ,f/ ,,,f | [,fde1] [,'d] \
 ,,,,f/ f | ['e,,,d1]> ,f ,d1 | V[f,,,a1] ,,,,b/ c ,,,,d ,d | "
-85;B dur;134;Guigue;E.Reusner;;;Conc_1550;6/8;"f1 f/ 'e/> ,f a/ | ,b/> c ,b/ [,'a/]> a ,,b/ | \
+85;B dur;134;Guigue;E.ReusnerJ;;;Conc_1550;6/8;"f1 f/ 'e/> ,f a/ | ,b/> c ,b/ [,'a/]> a ,,b/ | \
 ,,,c/> ,b ,,,c/ ,,a/> a ,b/ | "
-86;B dur;136;Sarabande;E.Reusner;;;Conc_494;3;"[,aff1] [,aff/] ,,g [,,de] a | [,bbc1] [,bbc/] ,d [,,aa] ,a | \
+86;B dur;136;Sarabande;E.ReusnerJ;;;Conc_494;3;"[,aff1] [,aff/] ,,g [,,de] a | [,bbc1] [,bbc/] ,d [,,aa] ,a | \
 ,,,,b/ ,,,c ,,d ,a [,,,aa] ,,b | ,,,,,d/ ,,,,b [,,'b] ,,a \
 V[,,b{d}] ,,d | "
 87;B dur;137;Menuet;;;;;3;"[,aba{d}1] (,a/ ,b) ,d1 | [,,'b{d}1] (,,b/ ,,d) ,a1 | \
@@ -223,14 +223,14 @@ V[,,b{d}] ,,d | "
 ,b a | [,'a{d}1] ,a/ ,,d ,,b1 | ([,,d,,a/] ,,b ,,d) ,a ,,d1 | "
 92;g moll;145;Rigodon;;;;Conc_2154;C;"[c,b{a}1] | ['b,a,a2] [c,b{a}] | ['b,a,a2] ,a1 [,f,f] | \
 [,h,,h1] [f,,,f] {,,,a}/ (h f) ,h | [f{a}1] ,f ,a [c,b{a}] | "
-93;g moll;146;sans titre;;;;Conc_3968;3;"[,abc{a}/] ,a [cabc1]> e | [,'ed,,a1]> ,e [ca,,,b1] | \
+93;g moll;146;[Sarabande];;;;Conc_3968;3;"[,abc{a}/] ,a [cabc1]> e | [,'ed,,a1]> ,e [ca,,,b1] | \
 V[,bdc{4}/] ,a [,aab{,,,a}] ,b ,a ,,d | [,,'b{a}1]> ,,a ,,,c1 | "
-94;d moll;147;Menuet;;;;;3;",,a1 | [,aaa{,,,a}1] (,a/ ,c) a ,c | [,'a{,,,a}1] ,,a ,,,a | \
+94;D dur;147;Menuet;;;A-d-f#-a-d'-f'#;;3;",,a1 | [,aaa{,,,a}1] (,a/ ,c) a ,c | [,'a{,,,a}1] ,,a ,,,a | \
 [,aaa{,,,a}2] [,ca,,e1] | [aa,,a1] ([aa/] [bc]) ([d,,,,a] ,b) | "
-95;d moll;148;Menuet;;;;;3;"[,aaa{,,,a}1] (,c/ ,a) [,,e{,,a}] ,c | [,'a{,a}1] ,,a ,,a | \
+95;D dur;148;Menuet;;;A-d-f#-a-d'-f'#;;3;"[,aaa{,,,a}1] (,c/ ,a) [,,e{,,a}] ,c | [,'a{,a}1] ,,a ,,a | \
 [aaa{,,,a}1] (b/ a) [,c,,,a] b | ['a,,,a1] ,a ,a | \
 V[dc{4}1] (d/ b a) ,c | "
-96;B dur;150;sans titre;;;;;3;"[,aba{d}2] [,,d,,a1] | [,a{d}1] ,,b [,,d,,a] | [,aba{d}1] \
+96;B dur;150;[Menuet];;;;;3;"[,aba{d}2] [,,d,,a1] | [,a{d}1] ,,b [,,d,,a] | [,aba{d}1] \
 ([,b,,,a/] ,a) ([,,d{a}] ,,b) | V[,,d{,a}1] ,,,a ,,,a | \
 [a,d,,a1] (a/ c a) ,b | "
 97;g moll;151;Menuet du Faut;F.Dufault?;pp 152/3 tuning indications;;;3;"[,ab{a}1] ,a/ ,,d ,a1 | [,ab{a}1] V[,bd,,d2] | \
@@ -240,3 +240,6 @@ V[dc{4}1] (d/ b a) ,c | "
 ,f1 | V[,h{,a}2] [,'f{,,a}1] | [aa{,,,a}2] [,,,,,'d1] | "
 99;F dur;156;Menuet;;;;Conc_3954;3;"[aVda{,a}1] (c/ a) (,c ,a) | [,,d,d1] ,,,e ,,d | [ada{,a}1] \
 [ada/] c Ve1 | ['c{4}1] ,c c | h1 ,,,,h ['f,,f/] ,h | "
+100;F dur;157;Menuet;;p. 158 tunings;;;3;"[aVda{,a}1] [,'cb{a}2] | [aVdd,,a1] [add/] c a1 | \
+V[c{,,a}1] 'c3/2 ,d/4 c | ([e{,a}/] c) (e f) e1 | \
+[c,,,c1] ['a,,,a] [,c,,,d] | "
