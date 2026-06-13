@@ -1,12 +1,12 @@
 PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
-1;;2r;Prélude Vinsan;;;;;;
+1;d moll;2r;Prélude Vinsan;Vincent?;;;;none;
 2;d moll;2v;Allemande Vinsan;Dufault, Du But or Vincent;;;Conc_312;C;",,a1 | [,,aaa{,,,a}3/2] ,,c/4 ,,e ,a/ ,c [,,'e,,a] {a} | \
 [,aaa{,a}/] e ['c{a}1]> a [,ce,,a] ,a | \
 [,aaaa{,,,a}/] e ,a ,c [ed] ,,d [cc] [,,'b] | "
-3;d moll;3v;Curante Vinsan;Vincent;;;Conc_2033;3;"e/ | [eaaaa1]> c [a,a/] ,c | [,ab1] [,'c,c1]> ,a | \
+3;d moll;3v;Curant Vinsan;Vincent;;;Conc_2033;3;"e/ | [eaaaa1]> c [a,a/] ,c | [,ab1] [,'c,c1]> ,a | \
 [,,ee1] [,aaa] [,c,,c] | [,da,a1] [,,'aa1]> ,,b | \
 [,,da,a1] ,,,,c [,,d,d] | [,a,,db/] ,,d [,,'bca{a}1]> ,,a | "
-4;d moll;4v;S[arabande] Vinsan;Vincent;;;;3;"[,aaaa1] [ec,,,e1]> c | ['aaaa1] [aabaab1]> c | \
+4;d moll;4v;S[arabande] Vinsan;Vincent;5 tuned to A;;;3;"[,aaaa1] [ec,,,e1]> c | ['aaaa1] [aabaab1]> c | \
 [e,d,,a1] [f,a{a}1]> e | ['c,,,,d1] [ccd{4}1]> {,,,a} | \
 {,,a}1 [,,dcc1]> ,,b | [,,'aa{,a}1] [,,aada1]> ,,,,,c | "
 5;d moll;5v;Courante Vieux Gaultier;V.Gaultier;;;Conc_1041;3;"e1 | [eaaaa1] {,,,a} [ec,,,e/] c | ['aaaaa/] ,c [,aaaa{,,,a}1] \
@@ -48,13 +48,13 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
 [,aaae1] [,a,,'ca1]> ,,e | [,afa{,,,a}1] ,,,,a2 :||: \
 [aaaaa1] b2 | [d{,a}1] ['daaa1]> b | [b{a}1] ['b,c1]> \
 [b,e] | [a,f1] [,'ce,,a1]> ,a | "
-18;d moll;17v;Allemande;J.Gaultier (d'Angleterre);;;;C;"e1 e | [eaaa{,,,a}2] ,,,,a1 ,,,a | [eaaa1] 'c/ (a/4 c) \
+18;d moll;17v;Allemande de gaultier d'angleterre de sa derniere composition;J.Gaultier (d'Angleterre);;;;C;"e1 e | [eaaa{,,,a}2] ,,,,a1 ,,,a | [eaaa1] 'c/ (a/4 c) \
 e/ [,'c] (,a/4 ,c) | a1 ,,e [,a,,a] [,,'b,c] | \
 [,,aa1] (,,,,d/4 ,,,,c ,,,,a) [,,,c,e1] [,,,'a/] ,,,,c | "
-19;d moll;18v;Curante Gaultier d'Angleterre;J.Gaultier (d'Angleterre);;;;3;"a/ a | [aaaa{,,,a}1] c e | [,'cac{4}1]> a 'a/ ,c | \
+19;d moll;18v;Courante Gaultier d'Angleterre mesme ton;J.Gaultier (d'Angleterre);;;;3;"a/ a | [aaaa{,,,a}1] c e | [,'cac{4}1]> a 'a/ ,c | \
 ['aaa{,,,a}3/2] ,c/4 a ,a1 | [,,dcc{,,a}1] ,a [,,'b] | \
 [,,aad{,a}1] ,,c [,,ec{,,a}] | [,aaa{,,,a}1] [,'c1]> a | "
-20;d moll;19v;Sarabande même Gaultier;J.Gaultier (d'Angleterre);;;;3;"[,aaa{,,,a}3/2] [,aaa/4] [,aaa] [,aaa1] | \
+20;d moll;19v;Sarabande du Même Gaultier;J.Gaultier (d'Angleterre);;;;3;"[,aaa{,,,a}3/2] [,aaa/4] [,aaa] [,aaa1] | \
 [ea{,,,a}1] [ea] [cc,,,e] | ['a,,,a3/2] ,c/4 a ,a1 | \
 [,abc{a}1] [,abc1]> ,c | [,,'ee,c1]> ,a [,aaaa1] | \
 [,aaa{,,,a}3/2] [,aaa/4] [,aaa] [,aaa1] | "
@@ -65,6 +65,6 @@ e/ [,'c] (,a/4 ,c) | a1 ,,e [,a,,a] [,,'b,c] | \
 22;d moll;20v;Curante;;;;;3;"e/ e | [eaaaa1]> c a/ ,c | ['a{,,,a}3/2] ,c/4 a ,a/ a | \
 [,,ee,a1]> {a} ,,,,,a/ {a} | [,a{,a}1] [,'c{,,a}3/2] ,a/4 ,c | \
 [a{,,,a}1] ,a1> a | "
-23;d moll;21v;Curante Jeune Gaultier;V.Gaultier;La Lyonnaise;;Conc_133;3;",a1 | [,aVf1] ,c [a,a] | [,ab1]> ,,,c [,'c/] ,a | \
+23;d moll;21v;Curante Jeune Gaultier;V.Gaultier;Sur La royal de Gualtier d'Angleterre [La Lyonnaise];;Conc_133;3;",a1 | [,aVf1] ,c [a,a] | [,ab1]> ,,,c [,'c/] ,a | \
 [,,,'e1] ,,e/ ,,,c [,,,'a] ,,,,c | [,a,,a1] [,,dcc1]> ,,b | \
 [,,'aad1] ,,b {,,a}/ ,,d | "

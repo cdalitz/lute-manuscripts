@@ -7,7 +7,7 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
 [,ab1] ,,,c ,c/ ,a | \
 [,,'ee3/2] ,,,c/ ,,,a ,,,,c | \
 ,,,,a/ ,a ,,,,c ,,,c ,,d ,,b | "
-3;d moll;4v;Courante de gautier;D.Gaultier;#3;;Conc_741;3;",,a3/4 ,,,c/4 | \
+3;d moll;4v;Courante de gautier;D.Gaultier;;;Conc_741;3;",,a3/4 ,,,c/4 | \
 ',,,a3/2 ,,,,a/ ,,,,,e ,,,,c | \
 [,,,,af3/2] ,,,a/ [,,,,ca1] | \
 [,,,,a{,,,a}3/2] ',,,,c/ ,,,a ,,,,a | \
@@ -21,19 +21,19 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
 [,'c{4}3/2] a/ [,,d,,a1] | \
 [,aba,b3/2] [,aba/] [,aba] ',,,,,a | \
 {a}/ ,,b a ,c [a{,a}1] | "
-6;d moll;7r;Sarabande de Du Buth;Du But;#6;;Conc_742;3;"[aaaaa1] c e | \
+6;d moll;7r;Sarabande de Du Buth;Du But;;;Conc_742;3;"[aaaaa1] c e | \
 [,ca,,e3/2] ,c/ [a,,,a1] | \
 ,,,,c3/2 [,a,,d/] [,'c,c] ,a | \
 [,,'ee3/2] ,a/ [,aaaa1] | \
 ,,,,,d1 [,a,,,b] [,,d,,a] | \
 {a}/ ,,,,a ,,b ,,,,c [,,aad{,a}1] | "
-7;d moll;7v;Courante de Mr du Buth;;#7;;Conc_129;3;",a1 | \
+7;d moll;7v;Courante de Mr du Buth;;;;Conc_129;3;",a1 | \
 [,aaa{,,,a}3/2] ,c/ a c | \
 a/ ,,,,,d [ca,,,b3/2] e/ | \
 [eca,,a3] | \
 ,c3/4 ,d/4 [,'c,c3/2] ,a/ | \
 ,,,e/ ,,e ,,,,,a ,a ,c {a} | "
-8;d moll;8v;Sarab de Vincent;Vincent;#8;;Conc_322;3;"[ea,,a1] [ec,,,e3/2] e/ | \
+8;d moll;8v;Sarab de Vincent;Vincent;;;Conc_322;3;"[ea,,a1] [ec,,,e3/2] e/ | \
 [ed,,a1] {,,,a}2 | \
 [fa{a}1] ['cc{4}3/2] c/ | \
 [e{,a}1] ,,,,d2 | \
@@ -43,7 +43,7 @@ a/ ,,,,,d [ca,,,b3/2] e/ | \
 9;a moll;18v;Allemande du vieux gautier;Bocquet or V.Gaultier;;;Conc_142;C;"Ve3/2 'd/ e3/4 ,c/4 ,d/ c | \
 ',c/ ,,a ,d/ ',c/4 ,a ,c/ ,,,c [,'a,a] ,,d/4 ,a | \
 ,c/ ,,,,c (,,a/4 ,,c ,,d) ,a ',,c/ {,,a} ',,a/ ,,,d/4 ,,a | "
-10;a moll;19v;Allemande de Mr Emond;Emond;#11;;Conc_743;C;"e/ | \
+10;a moll;19v;Allemande de Mr Emond;Emond;;;Conc_743;C;"e/ | \
 [ecde,a3/2] 'd/ e3/4 ,c/4 a/ ',a | \
 [,cd/] [,ac] [,cd3/4] ,,,e/4 [,ac/] ,,,e [,cc'd3/4] ,a/4 | \
 [,,de/] ,,c [,,d,,a] [,,'c,,c] [,,a,,d/] ,,,,,a ,,,,,d ,,,,a | "
@@ -59,7 +59,7 @@ V[,,d,,a3/2] ,,a/ ',,c ,,d | \
 ,,,,,a/ ,,,,c ,,d {a} [,a{,a}1] | \
 [,c{,,a}1] ,,,,c [,,cd/] ,,c | \
 [,,de1] [,,ce{,,a}3/2] ',,,d/ | "
-13;a moll;22v;Sarabande de du buth;Du But, le Fils;#14;;Conc_155;3;"[,,a,,a1] [,,ae/] ,,c X,,d ,a | \
+13;a moll;22v;Sarabande de du buth;Du But, le Fils;;;Conc_155;3;"[,,a,,a1] [,,ae/] ,,c X,,d ,a | \
 [,c{b}1] [,,c,c2] | \
 X[,,d,ca1] [,a,a{,,,a}/] ,,d ,,c ,,a | \
 [,,,'d{,,a}1] [,cdcc2] | \
@@ -73,13 +73,13 @@ X[,,d,ca1] [,a,a{,,,a}/] ,,d ,,c ,,a | \
 ['c,,,c1] ,,c ,,d/ c | \
 ,,,,a/ ,,d a ,,d ',,c a | \
 ,,,,,d1 ,c/ ,,,c ,,,e ,c | "
-16;a moll;25r;Menuet de L'opera d'atys;Lully;#17 Menuet 'Que devant vous tout s'abaisse et tout tremble';;Conc_744;3;"[,c,,,a1] ,c/ ,d [c{,,a}1] | \
+16;a moll;25r;Menuet de L'opera d'atys;Lully;Menuet 'Que devant vous tout s'abaisse et tout tremble';;Conc_744;3;"[,c,,,a1] ,c/ ,d [c{,,a}1] | \
 [,,d{,a}1] [,,da] [,d{,,,a}] | \
 [,'a{a}1] ,a c | \
 [,'c{4}3/2] ,a/ ,,d1 | \
 [,a{a}1] ,a/ ,d ([,c{,,a}] ,a) | \
 [,,'d,,a3/2] ,,d/ [,ad1] | "
-17;a moll;25v;Canaries vieux gaultier;Du But, le Fils or V.Gaultier;#18 Gigue du Roy;;Conc_156;3;",,a1 | \
+17;a moll;25v;Canaries vieux gaultier;Du But, le Fils or V.Gaultier;Gigue du Roy;;Conc_156;3;",,a1 | \
 ,,,,c3/2 ,,,,a/ V,,,,c1 | \
 ,,,,,a2 V,,d1 | \
 [,,d,c3/2] ,,,e/ ,,c1 | \
@@ -99,13 +99,13 @@ X[,,d,ca1] [,a,a{,,,a}/] ,,d ,,c ,,a | \
 [,,'c,c1] {,,a}/ ,,,e ',,,d ,,,,a | \
 [,,a,,d1] ,,,,,c ',,,d/ ,,a/4 ,,,d | \
 [,,a,,a/] ,,,,d ,,a ,,c ,,d ,a | "
-20;a moll;27v;Courante de gautier;D.Gaultier;#21;;Conc_745;3;",c1 | \
+20;a moll;27v;Courante de gautier;D.Gaultier;;;Conc_745;3;",c1 | \
 [,c,,,a1] ,,,e2 | \
 [,c,d1] ',a3/2 ,c/ | \
 [,,'d,,a3/2] ,,c/ ,,a1 | \
 [,c,,,d1] ,e ',,,,,c/ d | \
 [e,,,,a3/2] e/ g/ ,,,,g | "
-21;a moll;28v;Sarabande de gautier;D.Gaultier;#22 cf Conc_747;;Conc_746;3;"[,c,e1] e/ ,,,c ,,,a e | \
+21;a moll;28v;Sarabande de gautier;D.Gaultier;cf Conc_747;;Conc_746;3;"[,c,e1] e/ ,,,c ,,,a e | \
 [dcc,c1] [dcc/] d [e,,,,a1] | \
 [,cde1] [,cde/] e ['c,,,c1] | \
 ,,,a/ ,, a ,c [,'a,c1] | \
@@ -119,42 +119,42 @@ c1 ,,c ,,e | "
 23;C dur;37v;allemande;;;;;C;"[ccd{4}3/2] e/ 'c3/4 ,c/4 V,d/ c | \
 ',c/ ,,d ,c ',,c ,,a ,c ,d c | \
 e/ ,d [cc] [aa] [,cd] a c ',,c | "
-24;C dur;38v;courante de mr du buth;Du But;#25;;Conc_436;3;",,,c/ ,,d ,a | \
+24;C dur;38v;courante de mr du buth;Du But;;;Conc_436;3;",,,c/ ,,d ,a | \
 [,,'c{a}1] ,,,c ,,,a | \
 ,,,,c/ c ,,d ,,,,a ,,c a | \
 [,'c,,,d3/2] a/ ,,,,,c c | \
 [,,d,,a3/2] ,a/ [,c{a}1] | "
-25;C dur;39v;gigue du buth;Du But;#26;;Conc_748;C;",,,c1 ,,a ,,c | \
+25;C dur;39v;gigue du buth;Du But;;;Conc_748;C;",,,c1 ,,a ,,c | \
 ,,d1 ,,,,,d ,,,,c ,,,a | \
 ,,,c1 ,,,,,d [,,,c,c] ,,,,d | \
 [,,,,cd1] {a} ,,,,a ,,c | \
 ,,d1 ,,,,,d ',c a | "
-26;C dur;40v;sarabande du buth;Du But;#27;;Conc_749;3;"[,,,'c{4}/] ,,a ,,,,c1 [,,a{,a}] | \
+26;C dur;40v;sarabande du buth;Du But;;;Conc_749;3;"[,,,'c{4}/] ,,a ,,,,c1 [,,a{,a}] | \
 [,,aad1] [,,aad/] [,,aad] [,,,cc1] | \
 [,,aaa1] ',,c [,,d,,d] | \
 [,,cc{a}1] [,,cc/] [,,cc] ,,,,c ,,d | \
 ,,,,,c/ ,a ,,,c ,c ,,,,,a a | "
-27;C dur;41v;Courante de B.;Brossard;#28;;;3;",c1 | \
+27;C dur;41v;Courante de B.;Brossard;;;;3;",c1 | \
 [,cdc{4}3/2] ,,f/ [,,d,c1] | \
 [c,,c/] ,d [,'c,c,d3/2] ,d/ | \
 [c,,,,c1] ,a/ ,,,c ,,,a ,,,,c | \
 ,,,,a/ ,c [,'c,,,d3/2] ,a/ | \
 [,acc{a}3/2] ,,a/ [a,c1] | "
-28;C dur;42r;2. Courante B.;Brossard;#29;;;3;"c1 | \
+28;C dur;42r;2. Courante B.;Brossard;;;;3;"c1 | \
 [ccd{4}3/2] ,d/ [,c,c] ,,f | \
 [,,d,c1] [c,,,,c1] ,a/ a | \
 [,'c,,,d3/2] a/ [c,,,c1] | \
 [e,,a1] [,'aa,a3/2] ,,d/ | \
 [,,cc1] [,,ca/] ,,c [,,d,c1] | "
-29;C dur;42v;allemande de mr Edmond;Emond;#30;;Conc_765;C;",,d/ | [,,dcc{4}3/2] ,,,c/ ,,,e3/4 ,,,,c/4 V,,,,d3/4 ,,,c/4 | \
+29;C dur;42v;allemande de mr Edmond;Emond;;;Conc_765;C;",,d/ | [,,dcc{4}3/2] ,,,c/ ,,,e3/4 ,,,,c/4 V,,,,d3/4 ,,,c/4 | \
 ',,,,d/ ,,,,,d ,,,,c ,,,,a ,,,c3/4 ,,,c/4 [,,,ccd/] [,,db,a] | \
 [,,'c{a}/] ,,,c [,,dc{,,a}3/4] ,,d/4 [,,d{,a}/] \
 ,,,e {,,a} [a,c{,,,a}] | "
-30;g moll;50v;allemande de La baulle;La Baulle;#31;;;C;"c/ | \
+30;g moll;50v;allemande de La baulle;La Baulle;;;;C;"c/ | \
 [cabc{a}1] [cab/] e/4 ,f/8 e [f{a}/] c ['a,d,,a3/4] ,b/4 | \
 [,aba{d}/] ,,,a [,ab/4] ,d ,b ,a [,,d,,a3/4] ,,,c/4 \
 ',,,b/ ,a/4 ,,d | "
-31;D dur;75v;Allemande de Monsieur Edmond;Emond;#32;;Conc_750;C;",,a/ | \
+31;D dur;75v;Allemande de Monsieur Edmond;Emond;;;Conc_750;C;",,a/ | \
 [,,aae{,,,a}1] ',,,c/ ,,,,e/4 ,,,c ,,,e/ ,,,,,a \
 [,,,'c,c3/4] ,,,,,e/4 | \
 [,,,,ef/] ,,,,,a ',,,,c3/4 {a}/4 [,,,,a{,a}/] \
@@ -166,7 +166,7 @@ e/ ,d [cc] [aa] [,cd] a c ',,c | "
 [,,a,e3/2] ,a/ ',,,,c ,,e | \
 ,a3/2 {,,,a}/ e ,,,,a | \
 [c,c1] [c,a{,,,a}3/2] ,e/ | "
-33;D dur;127v;Courante de Monsieur Edmond;Emond;#34;;Conc_4002;3;"e1 | \
+33;D dur;127v;Courante de Monsieur Edmond;Emond;;;Conc_4002;3;"e1 | \
 [eea{,,,a}3] | \
 [ec{4}1] 'c3/2 ,e/4 c | \
 [,e{,,,a}1] ,,,,a/ ,e c ,,,,c | \
@@ -196,7 +196,7 @@ V[e,,,,a3/2] ,a/ ,,e e | "
 [,,'c{,,a}3/2] ,,e/ ,a ,,,d | \
 ,,,e/ ,,e ,c1 [,,cd] | \
 [,e,,e1] {,a}/ e e1 | "
-39;A dur;154r;Double;Gaultier;#40;;Conc_232;3;"e/ 'd ,e | \
+39;A dur;154r;Double;Gaultier;;;Conc_232;3;"e/ 'd ,e | \
 [,'c,,,a1] ,,a/ ,e ',c ,a | \
 ,c/ ,,,e ,,,d ,c ,,c ,a | \
 ,,,e/ ,,e [,,'c{,,a}] ,,a ,,c ,,e | "
@@ -216,7 +216,7 @@ V[e,,,,a3/2] ,a/ ,,e e | "
 [,a,,e{,,,a}3/2] ,a/ {,,a} ,,,d | "
 43;f# moll;175r;Prelude de La baulle;Gaultier;;;Conc_23;none;"{,a}1 ,,,,e ,,,d ,,a {,a} ',,a1 ,,,d/ ,,a ,,c ,,e ,,,,e ,e \
 d e ,,e 'd ,,c ,,a ,e ,,,d ',d [,e,,e1]"
-44;f# moll;175v;Allemande de Mons. Emond;Emond;#45;;;C;",,,,e3/2 ,,,d/8 ,,a ,,,d ,,a3/4 {,a}/4 ,,a/ ,,c | \
+44;f# moll;175v;Allemande de Mons. Emond;Emond;;;;C;",,,,e3/2 ,,,d/8 ,,a ,,,d ,,a3/4 {,a}/4 ,,a/ ,,c | \
 V,,e1 V,e3/4 d/4 V[e,,,e3/4] e/4 e/ ['d,,d] | \
 [,e,e3/4] ,e/4 ',c3/4 ,,e/4 ,a/ ,,e ,,,,e ,,e | "
 45;f# moll;176r;gauotte de mr gallot;Jacques Gallot;La Dauphine;;Conc_226;C;",,e1 ,e/ d | \
@@ -224,7 +224,7 @@ V,,e1 V,e3/4 d/4 V[e,,,e3/4] e/4 e/ ['d,,d] | \
 V[e{,a}1] [ee,,e] ['d,,d] [,e,e] | \
 [d,c/] e d ,e [,e,d3/2] ,d/ | \
 [,eee2] ::"
-46;f# moll;176v;Courante de Gallot;Jacques Gallot;La belle Vilette (#47);;Conc_224;3;",,e/ ,,,e ,,,d ,,c ,,,,e ,,a | \
+46;f# moll;176v;Courante de Gallot;Jacques Gallot;La belle Vilette;;Conc_224;3;",,e/ ,,,e ,,,d ,,c ,,,,e ,,a | \
 [,,cd/] ,,,,e ',,,,d ,,e [,,a,e1] | \
 [,,,d{4}1] [,,,e,e] [,,,'d,c] | \
 ,,,,,a/ ,,,,e {4} ,,,,,a ,,,,e ,,,,d | "
@@ -240,21 +240,21 @@ V[e{,a}1] [ee,,e] ['d,,d] [,e,e] | \
 [,ecd1] ',c3/2 ,a/ | \
 [,,ee1] ,a [,c,d] | \
 [,,ee1] ,e [,,fg/] ,g | "
-50;f# moll;182v;Double de la 1ere Courante de gautier;V.Gaultier;#51 (2nd part and double are interchanged with respect to other sources);;Conc_5606;3;",,e/ ,,,d ,,c | \
+50;f# moll;182v;Double de la 1ere Courante de gautier;V.Gaultier;2nd part and double are interchanged with respect to other sources;;Conc_5606;3;",,e/ ,,,d ,,c | \
 [,,ae1] {,a}/ ,,e ,,,e ,e | \
 [,ecd1] ',c3/2 ,a/ | \
 [,,ee/] ,,c ,,e ,a ,c ,,,d | \
 ,,,e ,e ,,c [de] | "
-51;f# moll;183v;2de Courante de gautier;Gaultier;#52;;Conc_751;3;",,,d/ ,,a ,,c | \
+51;f# moll;183v;2de Courante de gautier;Gaultier;;;Conc_751;3;",,,d/ ,,a ,,c | \
 ,,e1 ,,,e/ ,a ,c ,,,d | \
 [,e,,e1] ,,,,a [d,,,,c/] ,e | \
 [,'d,,,c1] {4}3/2 b/4 ,d | \
 [b{,a}1] [,,ee3/2] ,b/ | "
-52;f# moll;185v;Double;Gaultier;#53;;Conc_752;3;",,,d/ ,,a ,,c | \
+52;f# moll;185v;Double;Gaultier;;;Conc_752;3;",,,d/ ,,a ,,c | \
 ,,e1 ,,,e/ ,a ,,e ,,,,c | \
 [,a,,a/] ,c ,e ,,,,,e ,,,,,c ,e | \
 [,d,,,e1] {4}/ ,,c ',,a ,,,d | "
-53;f# moll;186v;3eme Courante de gautier;D.Gaultier;Le Triomphe (#54);;Conc_753;3;",,e1 | \
+53;f# moll;186v;3eme Courante de gautier;D.Gaultier;Le Triomphe;;Conc_753;3;",,e1 | \
 [,,ee{,a}3/2] ,,c/ ,,e ,,,d | \
 ,,,e/ {4} ',,,d/ ,,a/4 ,,,d ,,a3/4 ,,,,d/4 | \
 V,,,,e1 {,a}3/2 ,,,d/ | \
@@ -265,14 +265,14 @@ V,,,,e1 {,a}3/2 ,,,d/ | \
 [,,ae{a}1] ,,,,e [,,cd] | \
 [,,ee,a1] [,,'cd{,,a}3/2] ,,,e/4 ,,c | \
 ,,,e1 {,,a}3/2 ,c/ | "
-55;f# moll;188v;Sarabande de gautier;D.Gaultier;#56;;Conc_754;3;"[,e{,a}1] ',g/ e/4 ,g e1 | \
+55;f# moll;188v;Sarabande de gautier;D.Gaultier;;;Conc_754;3;"[,e{,a}1] ',g/ e/4 ,g e1 | \
 [,c{4}1] ,,a ',c/ ,a/4 ,c | \
 [,e{,,,a}3/2] ,c/ ',a ,,e | \
 [,,'c{,,a}3/2] ,,,e/4 ,,c [,,,e,a1] | \
 [,,eVe3/2] [,,ee/] [,,cd{a}1] | "
-56;B dur;200r;Prelude;La Baulle;#57;Ton des Trompettes: Bb,d,f,bb,d',f';;none;",,,,,a ,,,,a ,,,a ,,a ,a ,a ,,a ,,,a ,,,,a ,,,,,a \
+56;B dur;200r;Prelude;La Baulle;;Ton des Trompettes: Bb,d,f,bb,d',f';;none;",,,,,a ,,,,a ,,,a ,,a ,a ,a ,,a ,,,a ,,,,a ,,,,,a \
 ,,,,a ,,,a ,,a ,a ,b ',b (,a ,b ,d) ,,,,,a a ,d ,,a"
-57;B dur;200v;allemande;;#58;Ton des Trompettes: Bb,d,f,bb,d',f';Conc_755;C;",a/ | \
+57;B dur;200v;allemande;;;Ton des Trompettes: Bb,d,f,bb,d',f';Conc_755;C;",a/ | \
 [,aaaaa3/4] ,a/4 [,b,,,c/] ,,,,a/4 a ,,,,b/ ,a [,,'ca3/4] ,,a/4 | \
 [,,aVf1] ,,a/4 ,a ,,c ,b ,a a ,,,,,a/ [a,c{a}3/4] ,b/4 | "
 58;B dur;201v;Courante de sommeil;V.Gaultier;;Ton des Trompettes: Bb,d,f,bb,d',f';Conc_66;3;",a/ | \
@@ -281,14 +281,14 @@ V,,,,e1 {,a}3/2 ,,,d/ | \
 [,,ca1] {,a}/ ,,e ',,c1 | \
 {,,,a}/ ,,,a ,,,c {,,a} {,a} X,,,e | \
 [,,aa,a3/2] V[,,'c/] ,a {a} | "
-59;B dur;202v;gigue;;#60;Ton des Trompettes: Bb,d,f,bb,d',f';Conc_4186;C;"[aVd1] a3/4 ,b/4 ,a/ ,,a c3/4 ,,c/4 | \
+59;B dur;202v;gigue;;;Ton des Trompettes: Bb,d,f,bb,d',f';Conc_4186;C;"[aVd1] a3/4 ,b/4 ,a/ ,,a c3/4 ,,c/4 | \
 [aa/] ,,,a3/4 ',,,a/4 ,,,,b/ ',,,,a a ,a3/4 ,a/4 | \
 [,b,,,c/] a c ',,,,,a {a} a a3/4 ,b/4 | "
-60;B dur;203v;Sarabande;Merville;#61;Ton des Trompettes: Bb,d,f,bb,d',f';;3;"[,aaaaa1] [,aaa/] [,aaa] {,a}/ ,,c | \
+60;B dur;203v;Sarabande;Merville;;Ton des Trompettes: Bb,d,f,bb,d',f';;3;"[,aaaaa1] [,aaa/] [,aaa] {,a}/ ,,c | \
 [,,ced1] [,,ced/] ,a {,,,a} ,,a | \
 [,,aca{,c}1] [,,aca/] ,,c {4} ,,a | \
 [,,,ee{,,,a}1] [,,,ee/] ,,a {,,a} ,,,c | "
-61;B dur;204r;Sarabande;Merville;#62;Ton des Trompettes: Bb,d,f,bb,d',f';;3;"[aaaaaa1] [aaaa/] [aaaa] {,a} ,,c | \
+61;B dur;204r;Sarabande;Merville;;Ton des Trompettes: Bb,d,f,bb,d',f';;3;"[aaaaaa1] [aaaa/] [aaaa] {,a} ,,c | \
 [,,,,(d/] ,,,e ,,c ',,a ,,,e [,,,,d)] | \
 ,,,,,a/ ,a ,,a X,b ,d1 | \
 ,,,,,c/ ,d ',b ,a ,,c ,,,a | "
@@ -300,7 +300,7 @@ f/ ,a ,,f ,f a ,,,f ,,c ,,,e | \
 ,a/ a ,,a a c3/4 c/4 | \
 [c,,,b1] ',,a ,,c | \
 [,a,,a1] [,,aa] 'a3/4 a/4 | "
-64;B dur;207v;Sarabande;Henry;#65;Ton des Trompettes: Bb,d,f,bb,d',f';;3;"[,,,aaa1] [,,,aa3/2] ,,,a/ | \
+64;B dur;207v;Sarabande;Henry;;Ton des Trompettes: Bb,d,f,bb,d',f';;3;"[,,,aaa1] [,,,aa3/2] ,,,a/ | \
 V[,,,cVb{,,a}3/2] ,,,e/ [,,aaa{,,,a}1] | \
 {4}/ ,,,f ',,,e1 {,a}/ ,,f | \
 [,,'e,,a3/2] ,,a/ ,,,a a | \

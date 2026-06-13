@@ -17,16 +17,16 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNota
 [,,,cd/4] ,,,,c ,,,,a ,,,,,d ,,,,a1 ,b/ ,,,,c ,,,,d/4 ,,,,a ,,,,d ,,,a |";germantab
 8;;22v;Tristis est anima mea. ORL. 5. Voc.;;;OT;;;",,d2 [,,def/] ,,a/4 ,,b ,,d ,,a ,,b ,,d | [,aaa/] ,,b/4 ,,d ,a ,,b ,,d ,a [,,dce/] \
 ,,,,a/4 ,,,,c ,,,,e ,,,,a ,,,,c ,,,,e |";germantab
-9;;23v;Quem vidistis pastores dicite. ORL. 5. voc.;;Conc?;OT;ConcR2199;;",,c2 ,,c/4 ,,a ,,,c ,,,b ,,,c ,,a ,,c ,,,c | \ 
+9;;23v;Quem vidistis pastores dicite. ORL. 5. voc.;;;OT;ConcR2199;;",,c2 ,,c/4 ,,a ,,,c ,,,b ,,,c ,,a ,,c ,,,c | \ 
 ,,a/4 ,,,c ,,,b ,,,,e ,,,c ,,,b ,,,c/8 ,,,b ,,,,e ,,,b [h,,,h1] ,f |  ";germantab
-10;;24v;Susanna frumb. Orl. v. voc.;;Conc?;OT;ConcR860;;",d/4 a b d b b/8 a ,d/4 ,b [,de/] ,,d ,,b/4 ,,d ,,e/8 ,,d ,,e ,b | \ 
+10;;24v;Susanna frumb. Orl. v. voc.;;;OT;ConcR860;;",d/4 a b d b b/8 a ,d/4 ,b [,de/] ,,d ,,b/4 ,,d ,,e/8 ,,d ,,e ,b | \ 
 ,,,a/4 [bd] ,,,,d ,,d [,gea,g/] ,,,,,f [d,e,,d/4] ,,,,,f  ";germantab
 11;;25v;1. Ricercar MN;;MN 3;OT;ConcR2485;;"[ffgh2] [ffgh1] ,,,f | [ff,d1] ,d/ ,,g [,ddd] ,f f ,d | [fffc1] d/ c \ 
 [dffc1] [,fg,d] | [bd,a1] ,,d/ ,b [aa,c] ,,c/4 ,,a ,,d ,,c ,,d/8 ,,c ,,a ,,c |";germantab
 12;;26v;2. Ricercare MN;;MN 5;OT;ConcR2489;;,d2 ,,e1 ,,,f | ,,g1 ,d ,,,f/ ,,e ,e1 | ,,,,g/ ,d/4 ,e [,d,,d/] ,,g [,d,d] ,,g ,g ,,,,g |  ;germantab
 13;;27v;3. Ricercare MN;;MN 20;OT;;;c2 c1 ,d | a/4 ,d a/8 ,d a c d1 ,,f/ c/4 d c/ a | ;germantab
 14;;29r;4. Ricercare MN;;MN 21;OT;;;a2 [c,f1] e | ,c1 f [ce/] e/4 g h1 | ,f/ f e [ce] [ac] ,a [f,d] ,,f | ;germantab
-15;;30v;Ricercar super Susan' ung jour MN;;"MN 22; Conc?";OT;ConcR860;;,,,c2 [,,bc/] > ,,a ,,b/4 ,,a ,,b ,,d | [,,bc/] ,,a/4 ,,b [,,d,a] ,a ,b ,a/8 ,,d [,a,c/] ,,d [,ab] ,,a | ;germantab
+15;;30v;Ricercar super Susan' ung jour MN;;MN 22;OT;ConcR860;;,,,c2 [,,bc/] > ,,a ,,b/4 ,,a ,,b ,,d | [,,bc/] ,,a/4 ,,b [,,d,a] ,a ,b ,a/8 ,,d [,a,c/] ,,d [,ab] ,,a | ;germantab
 16;;32r;Ricercar MN;;MN 8;OT;ConcR2491;;",c2 a1 ,e | [c,a1] f ,,d/ e/4 c [a,c1] | \ 
 [,df/] ,f [cd] e [f,,e] ,c/4 ,a [,cd/] ,d | ";germantab
 17;;33v;Gajarto Englesse MN;;;OT;;;"[,aaac/] ,c | [,daac1] ,,,,c/ ,c [,daac] a | [,daac1] [a,d,e] [caab/] ,,d | \
@@ -97,7 +97,7 @@ a/ c [dabc1] [cdda] [,cdca/] ,a | ,d/ ,c [,ddef1] ,,,e [,dde] :|";germantab
 [hiif2] [hiif] | [fd,e1] [dabc] > ,,,a [dabc] | [cdda2] [cdd] :||:";germantab
 43b;;71r;Nachtantz;;;OT;ConcR2644;;"[ddff1] | [ddff1] > ,,g [ddff] | [abb,d2] [cdda1] | [ddf,,d1] > ,,g ,,f/ ,,d | \  
 [ddf,,d2] [ddff1] :||:  ";germantab
-44;;71r;Nun welche hie ir hoffnung gar. Psalm.;;[Psalm 125];OT;;;"[,bbcd2] [,aba,d1] [,bdca] | [abb,d1] > ,d [,bdca/] ,,d [,adc,a] ,,c | [,bdca1] || \ 
+44;;71r;Nun welche hie ir hoffnung gar. Psalm.;;[Psalm 125];OT;ConcM143;;"[,bbcd2] [,aba,d1] [,bdca] | [abb,d1] > ,d [,bdca/] ,,d [,adc,a] ,,c | [,bdca1] || \ 
 [abb,d/] ,d a c [dab,,d1] [dab,,d] |  ";germantab
 45a;;71v;Passamezo MN;;;OT;ConcR2645;;"[eff,,a1] [c,d] [aacc/] [,ea] [a,c] [c,d] | [eff,,a/] c/4 e [fc,ce1] [,,def] [ha,g,h] | \  
 [ac,ca1] [fc,ce] ,,,a/ e/4 c [f,,c/4] e f/8 e c e | ";germantab

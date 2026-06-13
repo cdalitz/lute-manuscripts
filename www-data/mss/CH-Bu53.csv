@@ -26,7 +26,7 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
 [,#h2] ,,a1 | \
 [,,ae1] ,,c ,,d | \
 [,,de1] ,d [,c,c] | "
-5;B dur;5r;Courante;Gautier;#5;Old Tuning;ConcR1076;3;"d1 | \
+5;B dur;5r;Courante;Gautier;;Old Tuning;ConcR1076;3;"d1 | \
 [ddff,d3/2] ,,,e/ [,,,'c] ,,,a | \
 [a,,,d1] [,,,,'c/] d ['c,,,a1] | \
 [d,,,,d1] ,,,,f ,,,f | \
@@ -127,7 +127,7 @@ i1 ,,,,,a3/2 f/ | \
 ,e1 ,,,,e d | \
 [c,,,c3/2] f/ [e,,,e1] | \
 f3/2 ,,,,,c/ ,,,,,e1 | "
-21;g moll;18v;Courante de Gauttier;Gautier;#21;Old Tuning;Conc_3507;3;",a1 | \
+21;g moll;18v;Courante de Gauttier;Gautier;;Old Tuning;Conc_3507;3;",a1 | \
 [,ab,,a1] {a} [,,d{,a}] | \
 [,,ac{,,a}1] ,,,b ,,d | \
 [,,#b1] ,,,c ,,,,,a | \
@@ -218,7 +218,7 @@ k3/2 {,a}/4 h 'g1 | \
 39;g moll;29v;(Allemande) Gaultier;;PAN 3.001;5;;C;"[,,,aa{a}3/2] ,,,c/ ,,,d ,,a ,,,c ,,,a | \
 ,,e/ ,,,,e {,,,a} ,,c {a} ,,c ,,a ,,,c/4 ,,a | \
 ,,,c/ {,,,a} ,,,,a ,,a [,,cb] ,a [,,cd] ,,a/4 ,,c | "
-40;d moll;30v;sans titre;V.Gaultier;L'immortelle (#41);;Conc_95;3;",,a/ [,,,'c] ,,a | \
+40;d moll;30v;sans titre;V.Gaultier;L'immortelle;;Conc_95;3;",,a/ [,,,'c] ,,a | \
 [,,,aa3/2] ,,,a/ ,,,,c ,,,c | \
 [,,aad1] [,,aa] ,a/ ,,,c | \
 [,,ee1] ,,,,,a/ ,,,c [,,,'a] ,,,,c | \
@@ -230,7 +230,7 @@ k3/2 {,a}/4 h 'g1 | \
 {,a}/ ,a [,,'e{,,a}3/2] ,a/ | \
 [,aaa{,,,a}1] [,,'aa{,a}3/2] ,,b/ | \
 [,,d,,a3/2] [,a{d}/] [,,'b] ,,a | "
-42;d moll;31v;Gigue de Gaultier;V.Gaultier or Dubut;#43;;Conc_290;C;",a/ | \
+42;d moll;31v;Gigue de Gaultier;V.Gaultier or Dubut;;;Conc_290;C;",a/ | \
 [,aaaa3/2] ,,,,c/ ,,,,a/4 ,,,,c ,,,,d ,,,,a ,,a/ ,,,,,d | \
 [,a,,,b/] {a} ,c ,,f [,,e,,a] ,,,e a ,a | \
 'e/ ,,,,a {a} f e c {4} 'e | "
@@ -238,7 +238,7 @@ k3/2 {,a}/4 h 'g1 | \
 [,a{,,,a}/] ,,e ,a ,,a ,,,c ,,,a | \
 ,,d/ {,,a} ,,,c ,a [,,d{4}] ,,b | \
 [,,a{,a}/] ,,,,,d ,,,,a ,,,,c ,,,a ,,,c | "
-44;e moll;34v;sans titre (fragment);J.Boyer;"""Beauté dont les divins attraits"" (#45) - PAN 13.008";2a;;none;"f1 | \
+44;e moll;34v;sans titre (fragment);J.Boyer;"""Beauté dont les divins attraits"" - PAN 13.008";2a;;none;"f1 | \
 [fca{,,a}3] | \
 [d{c}/] {a}/4 f [f{c}1] [d{,a}] b ['a{,,,a}] | \
 b1 [bcb,,d2] d1 [d,,,a2] ,"
@@ -365,7 +365,7 @@ f/ ,,,a 'e3/4 ,f/4 ,e/ ,,,,a [c,a,b] ,,c | \
 ,,,,,b1 a [,b,c] | \
 [,a,d3/2] ,b/ ,d1 | \
 [,,c,d3/2] ,a/ ,,a1 | "
-74;g moll;59v;[Prelude];;PAN 1.010 (NOTO);6a;;none;"{a} ,,,a ,,a ,a c ,a ,,a ,,,a {a} ,,a ,a c e f \
+74;g moll;59v;[Prelude];;PAN 1.010;6a;;none;"{a} ,,,a ,,a ,a c ,a ,,a ,,,a {a} ,,a ,a c e f \
 {a} ,,,a ,,a ,a f {,a} e ,a f"
 75;B dur;60v;sans titre (upside down);Champ.;PAN 4.019;6a;Conc_298;3;"a1 | \
 [aaaddb3] | \
