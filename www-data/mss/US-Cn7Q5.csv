@@ -285,12 +285,12 @@ h1 {a}3/2 ,,,,,a/ | ,,,,,b1 ,a [,c,a] | \
 108;g moll;86;[Courante];;;5;;3;"a1 | [aaaa3/2] c/ d a | [h,a1] [f,c3/2] d/ | \
 [cee1] ,,,,a/ ,,,c ,,a ,,c | ,,e/ ,,c ,,a3/2 ,,,c/4 ,,a | \
 ,,,c1 {,,,a}2 |"
-109;g moll;87;SAMAN (?)[Courante];;;5;René Saman?;3;"h1 | [haa{a}3/2] h/ f h | ,i1 ,h3/2 a/4 ,h | \
+109;g moll;87;[Courante];;Some kind of signature at the end, undecifrable;5;;3;"h1 | [haa{a}3/2] h/ f h | ,i1 ,h3/2 a/4 ,h | \
 ,,i1 ,,,a3/2 (3,a/4 ,c ,e) | a1 [ca,,,d] ,b |"
 110;g moll;88;[Courante];;;5;;3;",a1 | [,aaa{a}3] | [c{,,,a}1] ,,e [,,cc] | \
 [,aa{a}1] ,,,,,b2 | [,b,a,d/] ,,,c [,aa,,b3/2] ,,,d/ | \
 a/ {a}3/2 [cf1] | ,e1 [af,a] {a}/ ,,,c |"
-111;g moll;89;[Courante];;Unfinished;5;;3;"a1 | [aaaa{a}3/2] c/ d f | [h,,,a1] [f{,,a}3/2] ,i/4 f | \
+111;g moll;89;[Courante];;"Only first part; 2nd part is fragment on p. 90(2)?";5;;3;"a1 | [aaaa{a}3/2] c/ d f | [h,,,a1] [f{,,a}3/2] ,i/4 f | \
 ,a1 ,,a [,b,,,d/] ,d | [,a,,,b3/2] a/ ,d ,b |"
 112;g moll;89;[Courante];;;5;;3;",a1 | [,aaa{a}2] ,,a/ [,,cc] | ,,a1 {a} a | \
 [,e{,,,a}1] c/ ,,c ,,a ,,,c | ,,,a1 h [fh] | \
@@ -298,31 +298,31 @@ e1 ,,,,a/ f h1 | [,hi1] ,,,h ,,,f |"
 113;g moll;90;[Courante];;;5;;3;"h1 | [haa{a}2] ,,,f/ ,a | ,,a1 ,,,a [,,cce] | \
 [,,aaf3/2] ,,,c/ ,,a1 | {,,a}1 [,,cab3/2] ,b/ | \
 ,a1 ,,,,,b ,d | [ad{a}1] ,c3/2 ,,a/ |"
-114;g moll;90;Fragment;;;5;;3;",a1 | [,aaaa3/2] ,,c/ ,,a ,,,c | ,,,a1 a [ce] | \
+114;g moll;90;[Fragment];;2nd part of p 89 (1)?;5;;3;",a1 | [,aaaa3/2] ,,c/ ,,a ,,,c | ,,,a1 a [ce] | \
 [d{a}1] ,,a [,,cc] | [,,aa3/2] ,f/ [,d,,,a] ,,f | \
 ,a1 [,,c{,a}3/2] ,,a/4 ,,c |"
 115;g moll;91;[Courante];;;5;;3;"a1 | [aaa{a}3/2] c/ a1 | [c,,,a1] ,a ,e | \
 [aaa{a}3/2] c/ d1 | [c,c{,b}1] [aaa{a}] ,c | \
 [,eeca1] {,,,a} a | c1 ,d ,,e |"
-116;g moll;92;Lespinus(?) me fecit [Courante];;;5;;3;"a1 | [aaa{a}3/2] c/ d f | h1 [hh{,a}3/2] f/ | \
+116;g moll;92;[Courante];;Lespinus(?) me fecit;5;;3;"a1 | [aaa{a}3/2] c/ d f | h1 [hh{,a}3/2] f/ | \
 [d{a}1] a/ c d ,f | [,b,a/] ,a [,,c,d] ,a ,b ,d |"
 117;g moll;93;[Courante];;;5;;3;",a/ ,,c ,a | ,,a1 ,,,a3/2 ,a/ | [,,c,e1] [,,aaf] ,,,,e/ ,,,a | \
 ,,,c1 ,,,,a3/2 ,,,,,d/4 ,,,,a | ,,,,,b1 ,,,a [,,,,ea] | \
 {a}2 ,f/ ,d |"
 118;g moll;94;[Courante];;;5;Conc_2621;3;",,a1 | [,,aa{a}3/2] ,,a/ ,,c ,a | [,b,,,d1] [,a,a3/2] ,,c/4 ,a | \
 ,,a1 [,,,ab] ,b/ ,,,,d | [,aaa1] ,f3/2 c/ | [,e,,a1] {,,,a}2 |"
-119;g moll;95;[Enfin ces beaux yeux (+ double)];;;5;Conc_287;3;",a1 [,aaa{a}3/2] ,,,c/ | ,,,d/ ,b ,a3/2 ,,c/4 ,a | \
+119;g moll;95;[Enfin ces beaux yeux];;;5;Conc_287;3;",a1 [,aaa{a}3/2] ,,,c/ | ,,,d/ ,b ,a3/2 ,,c/4 ,a | \
 ,,c3/2 ,,,,d/ ,,,,b ,,,,d | [,a,,a1] {,a}/ ,,e ,,c ,,,c | \
 [,,a{a}1] ,,,,a/ ,,c ,,a1 |"
 120;g moll;96;Volte;;;5;;3;"[,,aa{a}1] ,a [,b,c] | [,d,d{,,,a}3/2] ,f/ ,d ,,f | \
 ,a1 [,,c{,a}3/2] ,,a/ ,,c | ,,a1 ,,,,,b ,,,,,d | \
 ,,,,a1 ,i ,,,i/ ,,h |"
-121;G dur;96;C. [Courante];;Cont'd after next piece on p.97;1a;;3;"a1 | [aaaa{a}3/2] ,e/ a c | e1 ,,,,,d [c,,,a3/2] a/4 c | \
+121;G dur;96;C[ourante];;Cont'd after next piece on p.97;1a;;3;"a1 | [aaaa{a}3/2] ,e/ a c | e1 ,,,,,d [c,,,a3/2] a/4 c | \
 a1 {a} ,,,a | [aaa2] e1 | [eaa{a}3/2] f/ [h,a1] | \
 [a,,f1] c [e,,a] |"
-122;g moll;97;C. [Courante];;Unfinished;5;;3;",,a1 | [,,aa{a}3/2] ,,c/ ,a ,b | ,d1 {,,,a}/ ,f ,d ,,f | \
+122;g moll;97;C[ourante];;First part only;5;;3;",,a1 | [,,aa{a}3/2] ,,c/ ,a ,b | ,d1 {,,,a}/ ,f ,d ,,f | \
 ,a1 [,,c{,a}/] ,,e ,,c ,,a | ,,,c1 {,,,a} ,,,,e |"
-123;g moll;98;C. [Courante];;;5;Conc_3478;3;",,a | [,,aa{a}3/2] ,,c/ ,,a1 | [,,,c{,,,a}1] [,,,df2] | \
+123;g moll;98;C[ourante];;;5;Conc_3478;3;",,a | [,,aa{a}3/2] ,,c/ ,,a1 | [,,,c{,,,a}1] [,,,df2] | \
 {,a}1 [,,cdd] ,,,c | ,a1 ,,,,,b ,,,,d | [,aad2] ,,c1 | \
 [,a,d3/2] ,,,c/ [,c,a1] | [,d,,a1] [a,,,,b] ,,,d |"
 124;g moll;99;[Courante, La Bocane];;Unfinished;5;ConcR1647;3;",,,a1 | [,,,a{a}3/2] ,,e/4 ,a [,,cc1] | \
@@ -347,7 +347,7 @@ a/ ,e [a,f1] h | [c{,,,a}3/2] ,a/ ,,,,,c1 | \
 [,,dc1] [,,dc] {a} | [,,aa2] {,,a}1 | \
 [,cf1] [,cf] ,,,,,a | [,,bcc2] {,a}1 | \
 [,,dc1] [,,dc] [,,a{a}] |"
-131;G dur;107;[Sarabande];;;OT;;3;",a1 {a}3/2 ,c/ | ,,,,,a1 ,,b ,e | ,,,e3/2 ,f/ ,,,,c1 | \
+131;G dur;107;[Sarabande];;;1a;;3;",a1 {a}3/2 ,c/ | ,,,,,a1 ,,b ,e | ,,,e3/2 ,f/ ,,,,c1 | \
 c1 ,,,,,d ,,a/ ,,,c | ,,,a1 {,,a} ,c | \
 {,a}3/2 ,,d/ [,,a{a}1] |"
 132;G dur;108;[Sarabande];;;1a;;3;"{a}1 | [,,aa1] [,,aa] {a} | [,,aa2] ,,,,a1 | \
@@ -381,7 +381,7 @@ e1 ,,,,,c3/2 ,c/ | ,b1 ,,a {,,,a} | [ced3/2] e/ c a |"
 [,de1] ,,,,a/ a ,c ,d | ,a/ ,,c ,a ,c ,d a |"
 142;g moll;113;[Courante];;;5;;3;"a1 | [aaaa{a}3/2] c/ a1 | [c,,,e1] ,,e h | \
 [,faa{,,a}2] ,d/ ,,f | ,a1 {a} [,,,c{,a}] | [,,ea1] ,,,d ,f |"
-143;G dur;114;Cana[rie];;;1a;;3;",a1 {a} ,,a | ,c1 ,,,,,d a | ,,,,,c1 ,,,a {,,a} | \
+143;G dur;114;Cana[ries];;;1a;;3;",a1 {a} ,,a | ,c1 ,,,,,d a | ,,,,,c1 ,,,a {,,a} | \
 [c{,,,a}3/2] ,e/ a1 :||: {,,a}1 ,,,,e ,,,a | \
 {,a}1 ,,,c ,,,,a | {a}1 ,,,,c ,,,e |"
 144;g moll;115;[Sarabande];;Unfinished;5;;3;"{a}1 | [aaaa2] ,,,,,a1 | [,de2] {,a}1 | \
@@ -395,18 +395,19 @@ e1 ,,,,,c3/2 ,c/ | ,b1 ,,a {,,,a} | [ced3/2] e/ c a |"
 147;g moll;116;[Sarabande];;;5;;3;"[aaaa{a}1] [aaaa] ,,,,,a | [,de3/2] ,b/ ,a ,,c | \
 ,a1 ,,,,a {,a} | [,,ccd2] ,,e/ ,,,f | ,,a1 ,,,,b ,,c | \
 [,,,c{,a}3/2] ,a/ ,,a1 |"
+148;g moll;116;Fragment [Sarabande];;;5;;3;{a} | [,,aa1] [,,aa] ,,c | ,,e1 ,,,,e ,,c | [,,aa1] [,,,c{,,,a}3/2] ,,,,e/ | ,,,a2 :||
 148;g moll;116;Fragment [Sarabande];;;5;;3;"{a}1 | [aaaa2] {,,,a}1 | ,d1 ,,a {,a} | \
 [,,c,d3/2] ,,e/ [,,c{,,a}1] | ,,a1 {,,a} [,,aab] | y y y y"
-149;D dur;116bis;Fantasie;;;2a;;C;"d2 ,,,,a1 b | ,,,,,c1 a ,c {a} | [,a{,a}1] ,,a ,,,,,a ,c | \
+149;D dur;117;Fantasie;;;2a;;C;"d2 ,,,,a1 b | ,,,,,c1 a ,c {a} | [,a{,a}1] ,,a ,,,,,a ,c | \
 [,aa1] ,c [a,,,a] c | [d{,a}1] ,e f ,h/ ,f |"
-150;B dur;117;[Sarabande];;;5;;3;",,,,,b1 [,,aa] {,a} | [,,ccd2] {,,a}1 | [,da{,,,a}1] [,da] a | \
+150;B dur;117bis;[Sarabande];;Followed by fragment?;5;;3;",,,,,b1 [,,aa] {,a} | [,,ccd2] {,,a}1 | [,da{,,,a}1] [,da] a | \
 [,bcc3/2] ,a/4 ,b ,,c1 | ,d1 {,a}/ ,,a ,,,c1 | \
 ,a3/2 ,,,f/ ,a ,,a |"
 151;g moll;118;[Branles de Bocan. 1er Branle];;;5;;C;",,a/ ,,c | [,aad1] ,a [,aa,,b] [,,c{,a}] | \
 [,aa,,b1] a ,d [,b,c,d] | \
 [,a,da/] ,,,,b [,,c,d3/2] ,,a/4 ,,c | \
 ,,e1 [,,aa] [,,c,b] ,,a |"
-152;g moll;118;[Branle];;;OT;;C;"[aaaa1] c [da,a] c/ a | [,d,,a1] ,a ,,,d ,d | \
+152;g moll;118;[Branle];;;5;;C;"[aaaa1] c [da,a] c/ a | [,d,,a1] ,a ,,,d ,d | \
 [,b,a,d1] ,a [,,c{,a}3/2] ,,a/ ,,c | \
 [,a,,,b1] ,,a [,,c,b] ,,a |"
 153;g moll;119;[Branles de Bocan. 2de Branle];;;5;;C;"[a,,a1] ,a d [c,,,e] | [a,,a3/2] ,d/4 a [c,,,a1] [a,,,c] | \
@@ -424,16 +425,16 @@ e1 ,,,,,c3/2 ,c/ | ,b1 ,,a {,,,a} | [ced3/2] e/ c a |"
 [,c,,,e1] [,a,ce3/4] ,,,c/4 ,,a/ ,,c |"
 158;g moll;124;[Courante];;;5;;3;"a1 | [afaa3] | [,e,ca1] a c/ a/4 c | [d,,a1] a c/ d | \
 f1 ,,,,e [da,a] | c1 ,,,,a ,,,,,d | ,,,,,b1 [da] [f,c,,a] |"
-159;g moll;125;1. [Branles de Bocan. 1er Branle];;;5;;C;",,a/ ,,c | [,a{a}1] ,a [,a,,,b] [,,c{,a}] | \
+159;g moll;125;1° [Branles de Bocan. 1er Branle];;;5;;C;",,a/ ,,c | [,a{a}1] ,a [,a,,,b] [,,c{,a}] | \
 [,a{,,,a}1] ,f [,d,c] [,b,a] | [,a,,a1] [,acd] [,,c,d] ,,a/ ,,c | \
 [,a,a1] ,,a2 ,,,c/ ,,,d |"
-160;g moll;125;2. [Branles de Bocan. Branle gai];;;5;;3;"c/ [a,,a1] | [,e,,a1] a3/2 ,e/4 a | c1 [,a,,,b] ,c/ ,e | \
+160;g moll;125;2do [Branles de Bocan. Branle gai];;;5;;3;"c/ [a,,a1] | [,e,,a1] a3/2 ,e/4 a | c1 [,a,,,b] ,c/ ,e | \
 [a,,a1] [,e,,a] ,c/ ,e | [a{a}3/2] :||: ,c/ [,d,,a1] | \
 [,,a{a}1] ,,a3/2 ,,,c/4 ,,a |"
 161;D dur;126;Sarab[ande];;;7;;3;"{,,,a}1 | [aca1] [aca] ,,,,,a | [,,ce3/2] a/ {a}1 | \
 [daa{,a}1] [daa] ,,,,,a/ ,,a | ,,,e1 ,a ,,,,,c | \
 ,,,,,b/ a ,,a1 ,,,c |"
-162;g moll;126;Fragment;;;5;;3;"{a}1 | [,aaa1] [,aaa] {,a} | [,,ccd3/2] ,a/ {,,a}1 | \
+162;g moll;126;[Fragment];;;5;;3;"{a}1 | [,aaa1] [,aaa] {,a} | [,,ccd3/2] ,a/ {,,a}1 | \
 [,da{,,,a}1] [,da] ,,,f/ ,,a | ,,,,,a1 y y y y y"
 163;D dur;126;[Sarabande];;Unfinished;7;;3;"{,,,a}1 | [aca,a3/2] b/ d1 | [,,,eca1] {a} {,a} | \
 [,,aaa2] {a}1 | [fdf1] [fdf] [,,,,a{,a}] | \
@@ -451,14 +452,14 @@ a1 ,,,,a [,ace] | [,,aae3/2] ,d/ ,,,c a |"
 168;D dur;131;[Cloches or Fantasie];;;7;;none;"d1 | [d{,,,a}1] b [a{,a}] {,,a} [,,cf{,a}1] ,,,e/ ,a ,,a1 \
 d [,,,,aa] [,c{,,,a}/] ,,,e b1 {,,a}/ {,a} [,,,c{a}1] \
 ,,a [,,cf,a]"
-169;D dur;132;[Cloches or Fantasie - draft];;;7;;3;"d1 | [d{,a}1] b [a{,,,a}] | {,,a}1 [,,cf{,a}] ,,,e | \
+169;D dur;132;[Cloches or Fantasie - draft];;;7;;none;"d1 | [d{,a}1] b [a{,,,a}] | {,,a}1 [,,cf{,a}] ,,,e | \
 ,a/ ,,a d1 ,,,,a ,c/ ,,,e b1 {,,a} {,a} [,,,c{a}1] ,a"
 170;D dur;133;[Sarabande];;;2a;;3;"{,,,a}1 | [aadc2] {,a}1 | [ded2] ,,,,,c1 | [faa1] [faa] d/ ,f | \
 a1 {,,,a} {a} | [,aaa1] [,aaa] ,,,,,a | [,ccc1] [,ccc] ,,,,a |"
 171;h moll;133;[Sarabande];;;2a;;3;"[aaaaa1] [aaa] [aaa] | [,a{a}3/2] ,,c/4 ,a ,,a1 | \
 [b{,,a}1] ,c d | [,ac,,a1] ,c ,,,c | d1 ,,,a3/2 ,,,,e/4 ,,,a | \
 ,,,,c1 ,,,,,e ,a |"
-172;D dur;134;Can[arie];;;2a;;3;",,a/ ,,c | ,a1 {,a} {a} | [,c,,,a1] ,,c3/2 ,e/ | \
+172;D dur;134;Cana[rie];;;2a;;3;",,a/ ,,c | ,a1 {,a} {a} | [,c,,,a1] ,,c3/2 ,e/ | \
 ,a1 ,,,,a ,,,c | ,,d3/2 :||: f/ h1 | i1 ,,a ,f | ,e1 ,,,,a d |"
 173;g moll;135;[Sarabande];;;5;;3;"[aaaa{a}2] {,a}1 | ,d1 ,,a a | {,,a}1 ,b3/2 ,,c/ | \
 ,a1 {,,,a} {a} | ,,a1 ,,,a {,a} | ,,c1 ,,,c ,,e | \
@@ -512,21 +513,21 @@ a1 {,,,a} {a} | [,aaa1] [,aaa] ,,,,,a | [,ccc1] [,ccc] ,,,,a |"
 189;g moll;143;[Sarabande];;;5;Conc_849;3;"[,,aaa{a}1] [,,aaa] [,,aaa] | [,,ca{,a}3/2] ,,e/ {,,a}1 | \
 [,,ea1] [,,ea] ,,c | [,,ea{,,,a}3/2] ,,c/ {a}1 :||: \
 [,,aa{a}1] [,,aa] ,,,a/ ,,,c | ,,a1 {a}/ ,,,,d ,,,,b ,,,,a |"
-190;g moll;144;(Sarabande);;;OT;;3;",a1 ,,a ,d | a1 ,,c ,c | ,e1 ,,,,a d | {,,a}1 f ,,f | \
+190;g moll;144;[Sarabande];;;5;;3;",a1 ,,a ,d | a1 ,,c ,c | ,e1 ,,,,a d | {,,a}1 f ,,f | \
 h1 ,,,,a ,h/ ,f | ,e1 ,,,,,a ,,,,,d |"
-191;g moll;145;[Sarabande];;;OT;;3;"{a}1 | [,,aaa2] {,a}1 | [,dcc1] ,c ,,,,,b | \
+191;g moll;145;[Sarabande];;;5;;3;"{a}1 | [,,aaa2] {,a}1 | [,dcc1] ,c ,,,,,b | \
 [,aadd3/2] ,,,,,a/ [aaa{a}1] | [,d,,,d1] ,b ,,,c | \
 [,,ada2] {,,,a}1 | ,d1 {,a} [,,ed] | [,,a{a}1] [,,c,d3/2] ,a/ |"
 192;g moll;146;[Sarabande];;with 2 doubles;5;;3;"{a}1 | [,aaa1] [,aaa] ,b | ,d3/2 ,,,,,a/ [,bc,,d1] | \
 [,aa,a2] [,,c{,a}3/4] ,a/4 | ,,a1 ,,,,,b :||: \
 {,a}1 | [,,,cd1] [,,,cd] ,,,d | ,,c3/2 ,a/ {a}1 |"
-193;B dur;147;[Sarabande];;Unfinished;5;;3;"[,aaddb1] [,aad] {,,a} | [,baa3/2] ,d/ a1 | \
+193;g moll;147;[Sarabande];;;5;;3;"[,aaddb1] [,aad] {,,a} | [,baa3/2] ,d/ a1 | \
 {,a}1 ,d3/2 ,,f/ | ,a1 ,,,,,b ,d | \
 [a,,,,a1] [,c{a}3/2] ,a/4 ,c | ,d1 {,a} ,b/ ,a |"
 194;g moll;148;[Sarabande];;;5;;3;"{a}1 | [,aaa2] {,a}1 | [,,ccd2] {,,a}1 | \
 [,,aab1] [,,aa] {,,,a} | [,,,ca2] :||: {a}1 | \
 [da1] [da] {,a} | [cd2] {,,a}1 | [ab1] [ab] {,a} |"
-195;g moll;148;(Fragment);;;5;;none;"a/4 ,d ',b a ,a ,d ',b ,d ',a ,b ,,c ,a ,b ',a ,,c ,a ,,a \
+195;g moll;148;(Prelude);;;5;;none;"a/4 ,d ',b a ,a ,d ',b ,d ',a ,b ,,c ,a ,b ',a ,,c ,a ,,a \
 ,,c ,a ,,c ,,a"
 196;B dur;149;[Sarabande];;;5;;3;",a1 ,,a ,b/ ,a | ,,c1 ,,,,,a ,a | {a}1 ,,a3/2 ,,,c/4 ,,a | \
 ,,,c1 ,,,,a ,,,,c | ,,,,e1 ,a3/2 ,,,c/ | ,,a1 {a} a/ c |"
@@ -555,9 +556,8 @@ h1 ,,,,a ,h/ ,f | ,e1 ,,,,,a ,,,,,d |"
 204;B dur;156;[Sarabande];;;5;;3;"[,aaddb{,a}1] [,aadd] [,aadd] | [,,ccd{,a}3/2] ,a/ {,,,a}1 | \
 [,,aab{,,a}1] [,,aab] [,,aab] | [,,,c{,a}3/2] ,a/ ,,a1 | \
 ,a1 ,,,a ,,,c | [,a,d1] ,,,,d ,,c |"
-205;D dur;157;[Fantasie];;;8b;;none;"[,aaddb{,a}1] [,aadd] [,aadd] | [,,ccd{,a}3/2] ,a/ {,,,a}1 | \
-[,,aab{,,a}1] [,,aab] [,,aab] | [,,,c{,a}3/2] ,a/ ,,a1 | \
-,a1 ,,,a ,,,c | [,a,d1] ,,,,d ,,c |"
+205;D dur;157;[Fantasie];;;8b;;none;"d/ b [a{,,a}1] ,,,a/ ,,,b [,c,d1] ,,c/ a ,a1 ,,,f/ ,a ,,c1 \
+,,,,,a/ {b} [,,,,a{a}1] {,a} [,,,,e{,,a}] ,,d [,cdd] ,,c"
 206;g moll;158;[Branles de Bocan. 1er Branle];;;5;;none;",,,a/ ,,,d3/2 ,,,a/ ,,c3/2 ,,e/ ,,a3/2 ,,,a/ ,,,d3/2 \
 ,,,a/ ,,c3/2 ,,,c/ ,a3/2 ,c/ ,e1 ,a ,c/ ,e a c"
 207;h moll;159;[Courante];;;8b;Conc_3505;3;"a1 | [aaa{,a}3] | ,a1 ,,,f/ ,,c ,a a | \
@@ -572,9 +572,9 @@ h1 ,,,,a ,h/ ,f | ,e1 ,,,,,a ,,,,,d |"
 210;h moll;162;[Courante];;;8b;;3;",,a/ ,,c | [,aaa{,,,a}3/2] ,,a/ ,,,d ,,,b | \
 [aa,,a1] [,c,,,a3/2] ,a/4 ,c | ,a1 {,,a}/ ,c a c | \
 [dc,,,e3/2] a/ [,a,,,c1] |"
-211;h moll;163;[Courante];;;8b;;3;"a1 | [aad{,,a}2] [,c,,,e1] | [a,,,a1] [c{,a}3/2] ,e/4 c | \
+211;D dur;163;[Courante];;;8b;;3;"a1 | [aad{,,a}2] [,c,,,e1] | [a,,,a1] [c{,a}3/2] ,e/4 c | \
 d1 ,,,,,a ,,,d | [dcc3/2] d/ b d | a1 {,,a}/ c d1 |"
-212;h moll;164;[Courante];;;8b;;3;"a1 | [aaa1] {,,,a} ,,,,,c | [,,c,,b1] {a} ,a/ ,,c | \
+212;D dur;164;[Courante];;;8b;;3;"a1 | [aaa1] {,,,a} ,,,,,c | [,,c,,b1] {a} ,a/ ,,c | \
 ,,a1 {,,,a}/ ,,c ,a ,c | a1 {,,a}/ c d1 | ,,,a1 [fe] e |"
 213;h moll;165;[Courante];;;8b;;3;"a1 | [aaa{,,,a}1] ,,a [,,ce] | [,aaa3/2] ,,,,,c/ ,,,,,b ,,c | \
 ,,a1 {,,,a} f | e1 {a} [,cc] | [,aa,,c1] ,,,,a [b{,a}] | \
@@ -582,14 +582,14 @@ d1 ,,,,,a ,,,d | [dcc3/2] d/ b d | a1 {,,a}/ c d1 |"
 214;h moll;166;[Courante];;;8b;Conc_356;3;"f1 | [fe{,,,a}3/2] h/ f1 | [d{a}1] ,,d [bc{,a}] | \
 [ae{,,a}3/2] ,f/ ,e1 | [,e,,a1] [,c,,,a] ,e/ ,c | \
 [,a,,,c1] ,,a ,c/ a |"
-215;h moll;167;[Courante];;;8b;Conc_11;3;"a1 | [aaa{,,,a}3/2] ,c/ ,a ,,c | [,,a,,c1] [a{e}] ,,,,e/ ,c | \
+215;D dur;167;[Courante];;;8b;Conc_11;3;"a1 | [aaa{,,,a}3/2] ,c/ ,a ,,c | [,,a,,c1] [a{e}] ,,,,e/ ,c | \
 [,a,,,c3/2] ,,c/4 ,a ,,a1 | [fed{,a}1] h [f,,,,c] | \
 [d{,a}3/2] c/4 d ,e1 |"
 216;h moll;168;[Courante, La Bocane];;Ennemond Gaultier;8b;;3;",,a1 | [,,aaa{,,,a}3/2] ,e/ [,c,d,e1] | \
 [,a,a,c1] [,,ce{a}3/2] ,,a/4 ,,c | \
 [,a{,,,a}1] ,,a ,a/ ,c | [a{,,a}1] [,aa] a/ c | \
 [d,,a1] ,e f/ h |"
-217;h moll;169;[Courante];;;8b;;3;",,a1 | [,,aa{,,,a}3/2] ,,c/ ,,d1 | [,,cee1] ,e [,c,,,e] | \
+217;D dur;169;[Courante];;;8b;Conc_5609;3;",,a1 | [,,aa{,,,a}3/2] ,,c/ ,,d1 | [,,cee1] ,e [,c,,,e] | \
 [,aa,a3/2] ,c/ a c | [d,,a1] ,e f/ h | [i{,,,a}1] ,,h ,,f | \
 [aed1] ,,,e ,c |"
 218;h moll;170;[Courante];;;8b;;3;"f1 | [fea{,,,a}3/2] h/ i1 | [h,,a1] ,,f ,,i/ ,h | \
@@ -601,10 +601,10 @@ a1 {,,a} ,,f/ a | ,a1 [,c,,,a3/2] ,,d/4 ,c | \
 [,,da{,,,a}1] ,,,,,c ,,,,,e | [,ccd1] [,e,,a3/2] ,c/4 ,e |"
 220;h moll;172;[Courante];;;8b;;3;"a1 | [aaa{,,,a}3/2] ,c/ ,a ,,c | [,,aa,c1] [,,ce{a}3/2] ,a/ | \
 ,,a1 {,,,a}/ ,,c ,a ,c | [a{,,a}1] ,a f | [d,,a1] ,e i/ h |"
-221;h moll;173;[Courante];;;8b;;3;",,a1 | [,,aa{,,,a}3/2] ,,c/ ,,d1 | [,,cee1] ,e [,c,,,e] | \
+221;D dur;173;[Courante];;;8b;Conc_5609;3;",,a1 | [,,aa{,,,a}3/2] ,,c/ ,,d1 | [,,cee1] ,e [,c,,,e] | \
 [,aa3/2] ,c/ a c | [d,,a1] ,e f/ h | [i{,,,a}1] ,,h ,,f | \
 [aed1] ,,,e ,,c |"
-222;h moll;174;[Courante];;Contrepartie;8b;;3;",,a1 | [,,aa{,,,a}3/2] ,,d/ ,,c ,,a | [,,,ee1] {a}/ ,,a,,c1 | \
+222;h moll;174;[Courante];;Contrepartie of p. 173;8b;;3;",,a1 | [,,aa{,,,a}3/2] ,,d/ ,,c ,,a | [,,,ee1] {a}/ ,,a,,c1 | \
 [,a,,a3/2] ,,c/ ,,a ,,c  | [,a{a}1] d [b{,a}] | \
 [a{,,a}1] ,a [,,ad] |"
 223;h moll;175;Le double de La Bocane;;;8b;;3;",,a1 | [,,aa{,,,a}3/2] ,e/ ,c ,e | \
@@ -621,19 +621,19 @@ f/ ,,,a [da,,e1] [baaa/] {a} ,,,,,c ,,,,,e |"
 227;D dur;179;[Sarabande];;;8b;;3;"{,,a}1 | [aad1] [aad] {a} | [da2] {,,,a}1 | \
 [faa1] [faa] d/ ,f | a1 ,,,,a {b} | \
 [,aab1] [,aab] ,,,,,a | [,ccd2] {,,a}1 | [,ccd2] {,,a}1 |"
-228;D dur;180;[Sarabande];;Contrepartie;8b;;3;"{,,a}1 | [,ada1] [,ada] ,a/ ,c | a1 ,,,,a {,,,a} | \
+228;D dur;180;[Sarabande];;;8b;;3;"{,,a}1 | [,ada1] [,ada] ,a/ ,c | a1 ,,,,a {,,,a} | \
 [bca1] [bca] a/ b | d1 ,,,a {b} | [,,ab1] [,,ab] ,,,,,a | \
 [,cdc1] [,cdc] {,,a} |"
-229;h moll;180;[Sarabande];;Contrepartie;8b;;3;"{,,,a}1 | [,aaa1] [,aaa] {a} | [eec2] {,,a}1 | \
+229;h moll;180;[Sarabande];;Contrepartie of p. 181 (2);8b;;3;"{,,,a}1 | [,aaa1] [,aaa] {a} | [eec2] {,,a}1 | \
 [fed1] [fed] ,,c/ ,,a | ,e1 ,,,e ,,,,a | [,add1] [,add] ,,,,,a | \
 [d,c2] ,f/ d |"
-230;h moll;181;[Sarabande];;;8b;;3;"{,,,a}1 | [,,aa1] [,,aa] {a} | [,,cee2] {,,a}1 | \
+230;h moll;181;[Sarabande];;Partie for p. 180 (2);8b;;3;"{,,,a}1 | [,,aa1] [,,aa] {a} | [,,cee2] {,,a}1 | \
 [,ea1] [,ea] ,c/ ,a | ,,c1 ,,,a ,,,,a | \
 [aad1] [aad] ,,,,,a | [,cc2] ,,f/ a |"
-231;D dur;181;[Sarabande];;;8b;;3;"{,,a}1 | [,ada1] [,ada] ,,,,,a | [,ccc2] {,,,a}1 | \
+231;D dur;181;[Sarabande];;See p. 182 (1);8b;;3;"{,,a}1 | [,ada1] [,ada] ,,,,,a | [,ccc2] {,,,a}1 | \
 [aaa1] [aaa] ,c/ ,a | ,,c1 ,,,,,a {a} | \
 [da1] [da] b/ d | a1 {,,a} {b} |"
-232;D dur;182;[Sarabande];;;2a;;3;"{,,,a}1 | [aada1] [aada] ,,c/ ,,a | ,,,c1 {,a} {a} | \
+232;D dur;182;[Sarabande];;See p. 181 (2);2a;;3;"{,,,a}1 | [aada1] [aada] ,,c/ ,,a | ,,,c1 {,a} {a} | \
 [faa1] [fa] ,c/ ,a | ,,c1 ,,,,,a {,,a} | \
 [bc1] [bc] a/ b |"
 233;D dur;182;[Sarabande];;;2a;;3;"[,adc{,,,a}1] [,adc] ,c | [,,c,,b3/2] a/ ,,,,,c1 | \
@@ -659,7 +659,7 @@ a1 ,,a [,,c,,a/] a | [,,af3/2] ,f/ ,,f ,a | a1 ,,a [,,ce] |"
 240;D dur;187;[Sarabande];;Unfinished;2a;;3;"[aadc{,,,a}1] [aadc] ,,,,,a | [dccc3/2] d/ [b{,a}] a | \
 ,c1 ,,,c ,,d | [,,ccca3/2] {a}/ ,a ,c | \
 {,a}1 [,c,c3/2] ,a/4 ,c | ,a1 ,,,,,c ,,,e |"
-241;G dur;187;[Sarabande];;Unfinished;1a;;3;"[,c,,,a1] ,e ,c/ ,a | ,,c1 {a}/ ,a ,c ,,a | a1 {a}2 | \
+241;G dur;187;[Sarabande];;"Unfinished; followed by tuning indication";1a;;3;"[,c,,,a1] ,e ,c/ ,a | ,,c1 {a}/ ,a ,c ,,a | a1 {a}2 | \
 [eaaa1] [eaa] {,,,a} | [ced2] ,,,,,a1 | [fc1] [fc] e/ f |"
 242;G dur;187;[Sarabande];;draft;1a;;3;"{a}1 | [,,aa1] [,,aa] {,,a} | [,,bc2] {,a}1 | \
 [,cdc1] [,,dc3/2] ,,b/ | [,,a{a}1] ,,,a {,,,a} | \

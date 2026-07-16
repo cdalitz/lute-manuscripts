@@ -2,6 +2,9 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNota
 1;;4r;Pavana genant / La Barroncina.;;;OT;ConcR1547;C|;"[,ab/] ,b | [,db,cd2] | [,db,cd/] ,a ,b ,d | [abb,d3/2] ,d/ | \
 [,bdd,b1] [,ab,,d] | ,,,a/ [,dd] [,,bc] [,,b,d] | \
 ,,,a/ [,,bc] ,,,a [,dd] |";germantab
+1a;;4v;anderst;;;OT;;C|;"[,db,,d/] ,,,a/4 a [,d,,,d/4] ,b ,a ,,d | \
+[,ab,,d/4] ,,d ,a ,b [,d,,,d] ,a [,b,,,d] ,d | \
+[abb,d/4] ,a ,b ,e a c d c |";germantab
 2;;5v;"Der erst Sprynngerdanntz 
 Saltarello Primo";;;OT;ConcR1548;3/4;"[,ab,,d/] ,b | [,ab,,d1] ,,,a ,,,,,d | [,db,,d1] ,,,a/ ,a ,b ,d | \
 [ab,,d1] ,,b [,d,,c] | [,bd,,b1] ,,,d [,ab,,d] | \
@@ -13,9 +16,9 @@ Saltarello Primo";;;OT;ConcR1548;3/4;"[,ab,,d/] ,b | [,ab,,d1] ,,,a ,,,,,d | [,d
 [ab,,d1] ,,,,d/ d c a | [da,,,d1] ,,,a/ ,b [,ab,,d1] |";germantab
 3a;;7v;Le riprese;;;OT;;3/4;"[da,,,d/] c d a c d | [c,,a1] ,d ,,d | [cd,a/] a c d f c | \
 [da,,,d1] ,,,a ,,,,,d | [ab,,d1] [ab] [ab,,d] |";germantab
-3b;;8r;annderst;;;OT;;3/4;"[,dba,d1] [,dba,d] [abb,d] | [,db,cd/] ,b ,a ,,d [,ab,,d1] | \
+3b;;8r;anderst;;;OT;;3/4;"[,dba,d1] [,dba,d] [abb,d] | [,db,cd/] ,b ,a ,,d [,ab,,d1] | \
 ,,,a/ ,d [,b,ca] ,a ,,d ,d | [aa,c,a/] ,b ,a ,,d [,,cc,a1] |";germantab
-4;;10r;Der dritt Sprynngerdanntz genant Barbarina;;;OT;ConcR1735;3/4;"a/ c [da,,,d1] c/ a | [,db,,d1] ,,,a/ ,a ,b ,d | [ab,,d1] [,d,,c] [,b,,a] | \
+4;;10r;Der dritt Sprynngerdanntz genannt Barbarina;;;OT;ConcR1735;3/4;"a/ c [da,,,d1] c/ a | [,db,,d1] ,,,a/ ,a ,b ,d | [ab,,d1] [,d,,c] [,b,,a] | \
 [,ab,,d3/2] ,,d/ ,,b1 | a/ c [da,,,d1] c/ a |";germantab
 5;;10v;Pauana genannt Moniardina .P.P.B.;;;OT;ConcR1730;C|;"[,bb,d/] ,d | [abb,d3/2] ,d/ | [,bbcd3/4] ,d/4 [abb,d1] | \
 [,db,cd/] ,,,a/4 a ,d ,b ,a ,,d | [,ab,,d/] ,,,a/4 ,,d ,a ,,b ,,d ,a |";germantab
@@ -55,7 +58,7 @@ Saltarello Primo";;;OT;ConcR1548;3/4;"[,ab,,d/] ,b | [,ab,,d1] ,,,a ,,,,,d | [,d
 [aabc1] [acd,a] [,ea,c] |";germantab
 14a;;19v;Annderst;;Für den drittenn Sprynngerdanntz nim den 3. aus der Pavana Rinoldina;OT;;3/4;"[da,a,d1] [da] [da,a,d] | [abb,d/] ,a ,b ,d a d | [cd,a/] a c d [f,,a] c | \
 [dab,,d1] ,,,a ,,,,,d |";germantab
-15;;20r;Pauana genannt La Pianzolenta.;;;OT;ConcR1748;C|;"[acd,a2] | [acd,a1] [acd,a] | [cdda1] [ffh,a] | [eff,,a1] [acd,a] | \
+15;;20r;Pauana genannt La Pianzolenta. P.P.B.;;;OT;ConcR1748;C|;"[acd,a2] | [acd,a1] [acd,a] | [cdda1] [ffh,a] | [eff,,a1] [acd,a] | \
 [cdda1] [e,,c] | [f,de/] c/4 e f c e f | ,,,,,a/ [ea] ,,,c ,,,,,a |";germantab
 15a;;21r;Annderst;;;OT;;C|;"[acd,a2] | [acd,a1] [acd,a] | [cdda1] [fc,,a/4] e c f | [ea,,,a1] [acd,a] | \
 [cdda1] [ea,c] | [fca/4] e c a [c,,a] f e c |";germantab
@@ -105,7 +108,7 @@ Saltarello Primo";;;OT;ConcR1548;3/4;"[,ab,,d/] ,b | [,ab,,d1] ,,,a ,,,,,d | [,d
 28;;33v;Der dritt Sprynngerdanntz genannt Deh Leua su Bruneta;;;OT;ConcR1742;3/4;"[cd,a2] | [da,,,d2] [cd,a1] | [ab,,d2] [,d,,c1] | [ac,,a2] ,,d1 | \
 [cd,a1] [cd,a] [da,,,d] | [cd,a1] ,,d [ab,,d] | [,db,c1] [,dd,a] [,cd,a] | \
 [,dda2] ,,,a1 | y1 [,dda2] |";germantab
-28a;;34r;Annderst;;;OT;;3/4;"[,cd,a1] | [da,,,d2] [cd,a1] | [ab,,d1] ,,b [ab,,d/] ,d | [,cd,a1] ,,,c ,,,,a | \
+28a;;34r;Annderst;;Ennd der Italianischenn Dannzenn;OT;;3/4;"[,cd,a1] | [da,,,d2] [cd,a1] | [ab,,d1] ,,b [ab,,d/] ,d | [,cd,a1] ,,,c ,,,,a | \
 [cd,a1] [cd,a/] d f d | [cd,a1] ,,d/ a [,d,,c1] | [,db,,d1] [,dd,a] [,cd,a] |";germantab
 29;;34v;Reuillez vous ceur. Das vogel gesanng;;;OT;ConcR1275;C|;"a1 a/ a | a/ ,b ,d a | [b,d1] [a,d/] [,dd] | [,cd/] ,,d ,d ,c | \
 ,d/ ,,e [a,d] ,,b | [fg,d1] [ff/] [fd] |";germantab
@@ -113,9 +116,9 @@ Saltarello Primo";;;OT;ConcR1548;3/4;"[,ab,,d/] ,b | [,ab,,d1] ,,,a ,,,,,d | [,d
 ,,,,c/4 ,,d ,,c ,,a [,,d,c/] [,,c,c] | [,bb,a/] ,,,c/4 a ,d ,b ,a ,,d |";germantab
 29b;;37r;Rossignol du boys Joly. Der dritt theyl;;;OT;ConcR1277;C|;",,,d/4 ,,,c ,,,d/8 ,,,c ,,,a ,,,c ,,,d/ ,,,c | [,,ddf/] ,,,,d ,,,,f ,,,d | \
 ,,,c/ ,,,,d [,,d,c] ,,,,a | ,,,,c/4 ,,d ,,c ,,a ,,d/ [,,c,c] |";germantab
-29c;;39r;Arriere Maystre cogue. Der vierdt theyl.;;;OT;ConcR1278;C|;",,,d3/4 ,,,c/ | [,,,df/] ,,,,d ,,,,f ,,,d | ,,,c/ ,,,,d [,,d,c] ,,,,a | \
+29c;;39r;Arriere Maystre coque. Der vierdt theyl.;;;OT;ConcR1278;C|;",,,d3/4 ,,,c/ | [,,,df/] ,,,,d ,,,,f ,,,d | ,,,c/ ,,,,d [,,d,c] ,,,,a | \
 ,,,,c/4 ,,d ,,c ,,a ,,d ,,c/8 ,,d ,,c/4 ,,a/8 ,,c |";germantab
 30;;40v;Ein Franntzösische Fäldschlacht. Im abtzug,;;;OT;ConcR1279,ConcM12;C|;"f2 | f1 f | [fd2] | [fd1] ,d | [cd,a2] | [cdda1] [c,,a] | [c,da/] ,,,,e [,,da] c | \
 [cdda/] d [cdda1] | ,,,,a/ [add] ,c ,a |";germantab
-30a;;43r;Der annder theyl.;;;OT;ConcR2119,ConcM13;C|;"[cdda2] | [cdda2] | [cdda/4] c c c c/ c | [c,da/4] c c c c/ f | \
+30a;;43r;Der annder theyl.;;f. 47r: Finis;OT;ConcR2119,ConcM13;C|;"[cdda2] | [cdda2] | [cdda/4] c c c c/ c | [c,da/4] c c c c/ f | \
 [cdda/4] ,d ,d ,d ,d/ ,d |";germantab

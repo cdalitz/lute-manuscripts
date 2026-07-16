@@ -19,7 +19,7 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNota
 [c,,,,a1] [c,,,,e3/2] ,c1 | \
 [,da{8}/] {a} ,c3/2 ,a/ | \
 [,aa,a1] [,aa{10}2] ||";italian7tab
-5;d moll;6v;sans titre;;;;Conc_303;3;",a/ ,,e | \
+5;d moll;6v;[Gigue];;;;Conc_303;3;",a/ ,,e | \
 ,a2 {10}1 | \
 {9}1 ,,d ,,,f | \
 {8}1 ,,a ,,,,f | \
@@ -40,14 +40,14 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNota
 [,c,,,a3/2] ,a/4 ,,e ,a1 | \
 [aa,,a1] c [e,,,,d] | \
 [aa,,,b1] c [e,,,,a] |";italian7tab
-8;d moll;7v;Corrente caravande;;;;Conc_4514;3;"e1 | \
+8;d moll;7v;Corrente Sarabande;;;;Conc_4514;3;"e1 | \
 [eda,a3] | \
 [eda3/2] c/ e c | \
 [a,,,a1] ,c/ a ,a1 | \
 [c{a}/] a [,c,,,a3/2] ,a/4 ,,e | \
 ,a1 {10}2 | \
 [,c,,,d1] a [c,,,,b] |";italian7tab
-9;d moll;7v;[Gigue];;;;;3;",c1 | \
+9;d moll;7v;[Canarie];;;;;3;",c1 | \
 [,d,,a2] ,d1 | \
 [,c{a}2] ,a1 | \
 [,,e,,a2] ,,a1 | \
@@ -76,7 +76,7 @@ e1 ,a/ ,c [ed] ,,d c ,,b |";italian7tab
 b a ,a ,,a ,,,a ,,,b ,,,,,a";italian7tab
 14;D dur;10r;[Prélude];;;A-d-f#-a-d'-f'#;;none;"{10}/ ,,,,a ,,,a ,,a ,e ,c a ,,,,,c ,,,,a ,,,a ,,c ,a a \
 ,,,,,a {a} ,,,,a ,,,b ,,c ,c a/4 ,c a/ {8}";italian7tab
-15;D dur;10v;[Courante];;unfinished;;Conc_326;3;",,a/ ,,a | \
+15;D dur;10v;[Courante];;unfinished;A-d-f#-a-d'-f'#;Conc_326;3;",,a/ ,,a | \
 [,aaaa{10}1] ,,c/ ,a ,,a ,,,b | \
 [,,,aa1] [,,,baa] ,,,,,a/ ,,a | \
 [,,cba3/2] ,,c/ [,,a{8}1] | \
@@ -97,7 +97,7 @@ a/ ,a [,cd] [a,,e] [,a,f] ,,,c ,c ,a | \
 [,,,c,d{9}1] ,,a [,,ca{10}] | \
 [,,d,c{11}1] ,,,,,d/ ,,d [,ad,,c1] | \
 [,cd,,d1] [ba,,a] c |";italian7tab
-19;g moll;11v;[Sarabande];;;B-d-g-a#-d'-f';;3;",,,,a1 ,,,,f2 | \
+19;g moll;11v;[Sarabande];;;B-d-g-bb-d'-f';;3;",,,,a1 ,,,,f2 | \
 ,,,,d1 ,,,,a2 | \
 [,,cab1] ,,,,,d ,,a | \
 [,,,ca{10}3/2] ,,,,e/ ,,,a1 :||: \
@@ -113,7 +113,7 @@ a/ ,a [,cd] [a,,e] [,a,f] ,,,c ,c ,a | \
 [,,,af{a}3/2] ,,,c/ ,,,,e {10} ,,a3/4 ,,c/4 | \
 [,aaa{a}3/2] ,a/ ,c ,,,,a ,f3/4 e/4 | \
 [faa{a}3/2] ,d/ ,c {11} a3/4 c/4 |";italian7tab
-22;d moll;12r;Prima accordatura;;Courante;;Conc_4513;3;",a1 | \
+22;d moll;12r;Prima accordatura;;Sarabande;;Conc_4513;3;",a1 | \
 [,aaa{10}3/2] ,a/ [,,d{9}] ,,b | \
 [,,a{8}3/2] ,,,c/4 ,,a ,,,a1 | \
 [,ab{a}1] ,c [aa,,a] | \
