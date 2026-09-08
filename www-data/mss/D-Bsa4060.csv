@@ -385,7 +385,7 @@ h/ ,,h | "
 118;C dur;106v;Allemande;Anonym;;;;C;"h/ | [hfh{4}/] e ['c,,,,c] {a}/4 ,d [,'c,,,d/] ,,d \
 {4}/4 ,c [ca,,,c] ,,c | [,,d,,a/] ,,,,c [,aa,e] {,,,a}/4 \
 ,,d [,,'cc{a}/] ,,,c/4 ,,d ,a/ ,,,,d | "
-119;C dur;107v;Allemande;;;;Conc_1644;C;"c/ | [ccdccd1] {4}/ c/4 e ['aa{e}/] ,c/4 a ,c/ ,,,,,d | \
+119;C dur;107v;Allemande;E.ReusnerJ;;;Conc_1644;C;"c/ | [ccdccd1] {4}/ c/4 e ['aa{e}/] ,c/4 a ,c/ ,,,,,d | \
 [,ad,,c3/4] ,,,c/4 ,,,,,a ,,,e ,,d [,,,'c] ,,,,e ,,,e ,,d \
 ,a {a}/4 ,,c ,,,c/ | "
 120;C dur;108v;Courante;Anonym;;;Conc_502;3;",,,e/ ,,,c ,,,a | [,,,,c{4}1] ,,,,,d [,,,cc] | \
@@ -716,354 +716,356 @@ V,,,d/ | [,,,cb{,,a}3/2] ,,b/ ,,,c ,,b | "
 226;B dur;207v;La Magnifique, Courante de Monsieur Dubut;Pierre Dubut;;;;3;",,b/ ,,a ,,,c | ,,,a1 ,,,,a [,,,,#b/] ,,,a | [,,,,'a1] {d} \
 ,,,a3/4 ,,,c/4 | [,,,'a,a1] {a} [,,,,'b/] ,,,,a | V,,,,b1 \
 {,a} ,,,,a3/4 ,,,,a/4 | "
-227;B dur;208v;Courante;Anonym;;;;3;"f/ | [#f1] a [,,#b] | [,bd1] [,'ba] ,,,a/ a | [,aba,b3/2] \
+227;B dur;208v;Allemande;;;;;C;",,b/ | [,,baab/4] f e ,f ',d (,b ,a) (,,d ,,b) (,,,c ,,,a) ,,,,b ,,,,a (,,,,,d ,,,,,b ,,,,,a) | \
+[,,baa{d}1] [aab/] V[,b,c,d] ,b '[,baa{'a}] [,ba] ,a |"
+228;B dur;208av;Courante;Anonym;;;;3;"f/ | [#f1] a [,,#b] | [,bd1] [,'ba] ,,,a/ a | [,aba,b3/2] \
 ,a/ [,,da,a] ,a | [,,'ba{a}/] ,,b ,,,,a ,,b ,,,,c ,,b | \
 [,,aad{,a}3/2] (,,b/ ,,d) ,,,,b | "
-228;B dur;209v;Gique;J.A. Losy;;;Conc_877;3;"a1 | ,d1 a ,d | ,d1 a ,a | ,b1 c ,,d | ,a1 a ,,b | ,,d1 ,b \
+229;B dur;209v;Gique;J.A. Losy;;;Conc_877;3;"a1 | ,d1 a ,d | ,d1 a ,a | ,b1 c ,,d | ,a1 a ,,b | ,,d1 ,b \
 ,,a | ,,b1 ,a ,,,a | "
-229;B dur;211v;Courante;J.A. Losy;;;Conc_880;3;",,,a/ V,,,c ,,a | {d}/ ,,b ,,,a ,a (,,d ,,b) | ,,,,,a/ ,,d \
+230;B dur;211v;Courante;J.A. Losy;;;Conc_880;3;",,,a/ V,,,c ,,a | {d}/ ,,b ,,,a ,a (,,d ,,b) | ,,,,,a/ ,,d \
 ,,,a ,,d ,a ,c | ,,,,,a/ ,d ,,d ,d [,,'b] ,,a | "
-230;B dur;213v;Allemande de Mons: Nivert;Hinrich Niewerth;;;;C;"[,,baa{d}1] [,,ba/] [,,ba] [a,d,,a] c 'a ,b | [,aba/] {d} \
+231;B dur;213v;Allemande de Mons: Nivert;Hinrich Niewerth;;;;C;"[,,baa{d}1] [,,ba/] [,,ba] [a,d,,a] c 'a ,b | [,aba/] {d} \
 [,aba] ,,,,,a [,c{a}] e Vf {,a} | {,,a}/ (,f/4 ,,g) h3/4 h/4 \
 [h,h/] f h/4 k 'h ,i | "
-231;B dur;214v;Courante;Anonym;;;;3;",,b1 | [,,baa{d}3] | [a,d,,a/] c 'a3/2 ,b/ | [,'a{d}3/2] ,,d/ \
+232;B dur;214v;Courante;Anonym;;;;3;",,b1 | [,,baa{d}3] | [a,d,,a/] c 'a3/2 ,b/ | [,'a{d}3/2] ,,d/ \
 ,,b1 | [a,d,,a1] [c{a}] h/ f | [e{,a}3/2] ,f/ a1 | [f{a}1] \
 [#e{,,,a}1] ,f/ e | "
-232;B dur;215r;Sarabande;Anonym;;;;3;"[aab{d}1] ['a,d,,a3/2] ,b/ | [,'a{d}3/2] ,,d/ ,,b1 | \
+233;B dur;215r;Sarabande;Anonym;;;;3;"[aab{d}1] ['a,d,,a3/2] ,b/ | [,'a{d}3/2] ,,d/ ,,b1 | \
 [,bb1] [,bd,,a3/2] a/ | [,'a{d}3/2] ,,d/ [,,d{,a}1] | \
 [c,,,c3/4] c/4 [ccdcc3/2] f/ | ['d{,a}3/2] ,f/ ,d ,,,f | "
-233;B dur;215v;Gique;Anonym;;;;3;"[f2] e1 | Vf2 c1 | ['a,a3/2] ,b/ [,ab1] | [,,'d{,a}3/2] \
+234;B dur;215v;Gique;Anonym;;;;3;"[f2] e1 | Vf2 c1 | ['a,a3/2] ,b/ [,ab1] | [,,'d{,a}3/2] \
 ,,,f/ ,,a1 | [,,,#f{a}2] ,,,,f1 | [,,,#f2] ,,d1 | ,a1 \
 ,,,c [,,,'a] | ,,,,b1 ,,,c ,,d | "
-234;G dur;217r;Prelude;Anonym;;;;none;"[,acc{a}1] [,aae{,a}/] {,,a} ,,,c ,a [,,#d] ,,d {,,,a} ,,,b \
+235;G dur;217r;Prelude;Anonym;;;;none;"[,acc{a}1] [,aae{,a}/] {,,a} ,,,c ,a [,,#d] ,,d {,,,a} ,,,b \
 ,,d ,a {a} ,,,c ,,c ,,,,,d ,,,c ,,c {,,,a} ,,,c ,,a {,,a} \
 ,,,c ,,d {,a} ,,a ,a"
-235;G dur;217v;Allemande p. M. Launay;de Launay;;;;C;",a/ | [,acc{a}3/2] (,c/4 ,a ,,d) [,,'c/] ,,,c ,,d ,,,,,a | \
+236;G dur;217v;Allemande p. M. Launay;de Launay;;;;C;",a/ | [,acc{a}3/2] (,c/4 ,a ,,d) [,,'c/] ,,,c ,,d ,,,,,a | \
 [,ad,,c/] [,,,'c1] (,,,c/4 ,,a ,,c) [,,d,,a/] [,,,'b/4] ,,,,c \
 ,,,b3/4 ,,a/4 | "
-236;G dur;218v;Courante;Anonym;;;;3;",c/ ,a ,,d | [,,'c1] {a}/ ,,d ,a ,,,,,a | ,,,,,c/ ,a \
+237;G dur;218v;Courante;Anonym;;;;3;",c/ ,a ,,d | [,,'c1] {a}/ ,,d ,a ,,,,,a | ,,,,,c/ ,a \
 [,'cd,,a3/2] ,e/ | c1 {a} ,,,c | [cacc3/2] ,e/ c e | \
 [g{a}3/2] e/ ['c{,a}] ,e | "
-237;G dur;219v;Courante de M. Gautier;Denis Gaultier;;;Conc_199;3;"c1 | [cac{a}3/2] (b/ c) (,a | ,c3/2) (,,c/ ,,d) ,a | \
+238;G dur;219v;Courante de M. Gautier;Denis Gaultier;;;Conc_199;3;"c1 | [cac{a}3/2] (b/ c) (,a | ,c3/2) (,,c/ ,,d) ,a | \
 [,,'c1] ,,,c ,a/ ,,,,e | ,,,,c/ ,,,c ,,c ,e c ,,e | \
 [,ef,a3/2] c/ e ,,,,,d | "
-238;G dur;220v;Sarabande;Anonym;;;;3;"[,acc{a}1] ,c [,,'c/] ,,d | [,acc{a}1] [,ac] [,ac/] ,,,b | \
+239;G dur;220v;Sarabande;Anonym;;;;3;"[,acc{a}1] ,c [,,'c/] ,,d | [,acc{a}1] [,ac] [,ac/] ,,,b | \
 [,c{,,a}3/2] [,'c/] (c ,e/4) c | [,ef{,,,a}3/2] ,,,,,d/ \
 ,,,,,c ,a | ,,,c/ ,a c ,d [,c,,,d1] | "
-239;G dur;221v;Gique;Anonym;;;Conc_4136;C;",a/ ,,a3/4 ,,d/4 | [,,'cc3/2] ,,,,a/ ,,a3/2 ,,,,,d/ | \
+240;G dur;221v;Gique;Anonym;;;Conc_4136;C;",a/ ,,a3/4 ,,d/4 | [,,'cc3/2] ,,,,a/ ,,a3/2 ,,,,,d/ | \
 [,,,c,c3/2] ,a/ [,c,,,a3/2] ,e/ | c1 {a} [e{,a}3/2] ,a/ | \
 [g{a}3/2] ,c/ {,a}3/2 [,'b/] | "
-240;G dur;222v;Gique p M. Henry Niverth;Hinrich Niewerth;;;;C;"[,af3/2] (,a/4 ,,d) ,,c3/4 ,,,c/4 ,,a3/4 ([,,,'b/4] | \
+241;G dur;222v;Gique p M. Henry Niverth;Hinrich Niewerth;;;;C;"[,af3/2] (,a/4 ,,d) ,,c3/4 ,,,c/4 ,,a3/4 ([,,,'b/4] | \
 ,,,c/) {a} ,,,,a3/4 ,,,,a/4 [,,,,,'c/] ,,,c [,,dc,a] [,,,'b] | \
 [,,cc{a}/] ,,d ,a3/4 ,c/4 [,,a{,a}/] ,,,,a ,,a3/4 ,,c/4 | "
-241;G dur;223v;Courante;Anonym;;;;3;"c3/4 ,e/4 | c1 {a}3/4 e/4 g3/4 ,e/4 | V[,f{,,a}1] ['e{4}3/2] \
+242;G dur;223v;Courante;Anonym;;;;3;"c3/4 ,e/4 | c1 {a}3/4 e/4 g3/4 ,e/4 | V[,f{,,a}1] ['e{4}3/2] \
 ,f/ | [,e{,,,a}3/2] c/ [b,,,,a] ,c | ,,,,,c/ ,a c1 ,,,,,d3/4 \
 ,c/4 | [,'a,,a3/2] ,,d/ [,,c,c1] | "
-242;G dur;224v;Sarabande;Anonym;;;;3;"[,,cc{a}1] [,,'d] ,a | [,aa{,a}3/2] ,,d/ [,,cc{a}1] | \
+243;G dur;224v;Sarabande;Anonym;;;;3;"[,,cc{a}1] [,,'d] ,a | [,aa{,a}3/2] ,,d/ [,,cc{a}1] | \
 [,cdc,d1] [,cdc/] [,cd] [,e,,,c] c | ,,,,,a/ c ,,d ,e \
 (c/4 ,e) [c{a}1] | [e,,,e1] ,a [g{a}] | "
-243;G dur;225r;Courante de Mons: Gautier La Richelieu;Denis Gaultier;;;Conc_204;3;",,,c/ ,,a | V,,c1 ,,,c [,a,,e3/4] ,a/4 | [,a,c1] c/ ,,,,a \
+244;G dur;225r;Courante de Mons: Gautier La Richelieu;Denis Gaultier;;;Conc_204;3;",,,c/ ,,a | V,,c1 ,,,c [,a,,e3/4] ,a/4 | [,a,c1] c/ ,,,,a \
 ,e c/4 ,e | c/ ,,,,c [,,'c] ,,d ,a ,,,,e | [,a,c1] \
 [,aab{,,,a}3/2] ,,d/ | [,,'cc1] {a}/ ,,c [,,a,,a1] | "
-244;G dur;225v;Le Raccommodement, Courante p. M. Gautier;Denis Gaultier;;;Conc_203;3;",a/ ,,d ,a | [,,'c1] ,,,c3/2 ,,a/4 ,,,b | ,,,c3 | \
+245;G dur;225v;Le Raccommodement, Courante p. M. Gautier;Denis Gaultier;;;Conc_203;3;",a/ ,,d ,a | [,,'c1] ,,,c3/2 ,,a/4 ,,,b | ,,,c3 | \
 [,,cc1] [,,#a,a3/2] ,,,b/ | V,,,c1 ,,,,c/ ,,a ,,c ,,,,a | \
 [,,d,,d1] [,a,c,'c3/2] ,a/ | [,c,c,d3/2] ,e/ c ,,,,,c | "
-245;G dur;226v;Suises pas, ou Tombour de Suises;Anonym;;;Conc_3718;C;"[,,,cac{a}2] [,,'a{,a}3/2] ,,,c/4 ,,a | [,,c{a}1] ,,,c/ \
+246;G dur;226v;Suises pas, ou Tombour de Suises;Anonym;;;Conc_3718;C;"[,,,cac{a}2] [,,'a{,a}3/2] ,,,c/4 ,,a | [,,c{a}1] ,,,c/ \
 ,,,,,a [,a,,,c1] [,a,,,'a] | [,acc{a}1] ,c/ b [c{,,a}1] \
 ['ba] | V[ca{a}1] ,,,,,a [,a,,,c/] ,c [,'a3/4] ,,d/4 | "
-246;G dur;227v;Chaconne de Mons: Mouton;Charles Mouton;;;Conc_3719;3;"{a}/ ,a [,,#cc3/2] ,,d/ | [,,'a,a3/2] ,,,c/4 ,,a [,,,cc1] | \
+247;G dur;227v;Chaconne de Mons: Mouton;Charles Mouton;;;Conc_3719;3;"{a}/ ,a [,,#cc3/2] ,,d/ | [,,'a,a3/2] ,,,c/4 ,,a [,,,cc1] | \
 [,,,,cd1] ,,a/ [,,,,,'c] ,,,c1 | {,,,a}/ ,,,,,a ,,,c ,,,b \
 ,,,c1 | [,a{a}/] ,a ,c ,,d [,,cc] ,,d | "
-247;G dur;229v;Courante de Monsieur Gautier;Denis Gaultier;;;Conc_201;3;",a/ ,c ,e | c1 ,,,c e/ ,,,,e | ,,,c/ ,a ,,a1 ,,c/ ,a | \
+248;G dur;229v;Courante de Monsieur Gautier;Denis Gaultier;;;Conc_201;3;",a/ ,c ,e | c1 ,,,c e/ ,,,,e | ,,,c/ ,a ,,a1 ,,c/ ,a | \
 [,cd3/2] ,c/ [,'a{a}] ,,d | [,a,,,c1] ,,c [,,e,,e/] ,,,c | "
-248;G dur;230v;Double;Denis Gaultier;;;Conc_202;3;",a/ ,c ,e | c1 ,,,c [e,,,e] | [,a,c/] ,c [,'a] ,,a ,,c ,a | \
+249;G dur;230v;Double;Denis Gaultier;;;Conc_202;3;",a/ ,c ,e | c1 ,,,c [e,,,e] | [,a,c/] ,c [,'a] ,,a ,,c ,a | \
 ,,d/ ,c ,,c ,,a [,,,'c] ,,,a | ,,,,c/ ,,d [,,'c] ,,,,a \
 [,,a,,e] ,,,c | "
-249;G dur;231v;Courante du même;Denis Gaultier;;;Conc_769;3;",a1 | [,a{a}/] ,a [,acc3/2] ,c/ | [,c,ee1] [,'a3/2] ,,d/ | \
+250;G dur;231v;Courante du même;Denis Gaultier;;;Conc_769;3;",a1 | [,a{a}/] ,a [,acc3/2] ,c/ | [,c,ee1] [,'a3/2] ,,d/ | \
 [,,#cc1] {a}/ ,a [,c{,a}] ,e | [c{,,a}1] ,c [e,e/] c | \
 [,ef{,,,a}1] ,,,,a3/2 ,,,,,d/ | "
-250;G dur;232v;Double;Anonym;;;Conc_3720;3;",a1 | [,a{a}/] ,a [,acc3/2] ,c/ | [,c,ee1] [,#a3/2] ,,d/ | \
+251;G dur;232v;Double;Anonym;;;Conc_3720;3;",a1 | [,a{a}/] ,a [,acc3/2] ,c/ | [,c,ee1] [,#a3/2] ,,d/ | \
 [,,#cc1] {a}/ ,a [,c{,a}] ,e | [c{,,a}/] e c ,c [ee] c | \
 [,ef{,,,a}3/2] ,c/ [,'e,,a] ,,,,,d | "
-251;G dur;233v;Gique de Mons: Gautier;Gaultier;;;Conc_3494;C;"[,,cc{a}3/2] ,,c/ [,,#cc] {a} V,,d ,,,,,a | [,a,,,c/] ,,,,a \
+252;G dur;233v;Gique de Mons: Gautier;Gaultier;;;Conc_3494;C;"[,,cc{a}3/2] ,,c/ [,,#cc] {a} V,,d ,,,,,a | [,a,,,c/] ,,,,a \
 ,,,c ,a [,c,,,d] ,c [,e,,a] ,e | [c,,,c/] ,c ,,c ,,d [,a,,e] \
 ,,a [,,'cc] ,,c | "
-252;G dur;234v;Gique de Mons: Mouton;Charles Mouton;;;Conc_1109;C;"[,,cc{,,a}3/2] ,,d/ [,,'c3/4] ,,,c/4 ,,c/ V,,d | ,a/ {a} \
+253;G dur;234v;Gique de Mons: Mouton;Charles Mouton;;;Conc_1109;C;"[,,cc{,,a}3/2] ,,d/ [,,'c3/4] ,,,c/4 ,,c/ V,,d | ,a/ {a} \
 ,a3/4 ,c/4 [,e,,a/] ,,,,,d [c,,,,'c3/4] c/4 | [c,d,,a1] \
 [,ea3/4] ,a/4 [,'a,,,c/] ,,,c ,a3/4 ,a/4 | "
-253;G dur;235v;Courante de Mons: Gautier;Gaultier;;;Conc_1856;3;"c1 | [cac{a}3/2] ,a/ ,c ,,c | ,,,,,a/ ,,d ,,,,e ,c ,a ,,d | \
+254;G dur;235v;Courante de Mons: Gautier;Gaultier;;;Conc_1856;3;"c1 | [cac{a}3/2] ,a/ ,c ,,c | ,,,,,a/ ,,d ,,,,e ,c ,a ,,d | \
 [,,'cc3/2] ,,,,e/ [,,,,'c] ,,d | ,,,,a/ ,,c {,,,a} ,,,c \
 ,,a ,,,b | "
-254;G dur;236v;Gique;Anonym;;;Conc_346;3;",,,,a1 | [,,,,#f3/2] ,,a/ [,,,,'e1] | V[,,,caa2] ,,a1 | \
+255;G dur;236v;Gique;Anonym;;;Conc_346;3;",,,,a1 | [,,,,#f3/2] ,,a/ [,,,,'e1] | V[,,,caa2] ,,a1 | \
 V[,,c{4}3/2] ,,d/ ,,c1 | [,,'a{,,,a}2] [,af1] | [,,'d3/2] \
 ,a/ ,,,g1 | [,,a,a3/2] ,,c/ [,,d,,d1] | [,a,,,c3/2] \
 ,c/ [,,d,,a1] | "
-255;D dur;238r;Prelude;[Emond];;;Conc_3862;none;"[,,ace{,,,a}] [,,aec{4}] [,,,'c] ,,a [,,,baa{,,,a}] [,,,cac] \
+256;D dur;238r;Prelude;[Emond];;;Conc_3862;none;"[,,ace{,,,a}] [,,aec{4}] [,,,'c] ,,a [,,,baa{,,,a}] [,,,cac] \
 [,,,,,'a] {a} [,,a{,a}] ,,,,a ,,d ,a {a} ,,,c ,,c ,a ,c \
 {,a} ,e {,,a} c ,a ,,e e [ga{,,,a}]"
-256;D dur;238v;Allemande, La Superbe p. M: du Faux;François Du Fault;;;Conc_2016;C;"e1 | [eef{,,,a}3/2] ,/4 ,f/4 ,e ,,h ,,f/ e/4 ,,e [g,,g/] i/4 \
+257;D dur;238v;Allemande, La Superbe p. M: du Faux;François Du Fault;;;Conc_2016;C;"e1 | [eef{,,,a}3/2] ,/4 ,f/4 ,e ,,h ,,f/ e/4 ,,e [g,,g/] i/4 \
 k | [i,a3/4] g/4 e ,,,,f [,,,,'e] [g,,,f/] ,,a/4 e \
 ['c,c3/4] ,,e/4 | "
-257;D dur;239v;Pavane surnomeé La dedicace;Denis Gaultier;;;Conc_206;C;"[,,aba3/2] ,,a/4 ,,,b ,,a/ ,,,,,e ,,,,c ,,,c | [,,,'ba1] \
+258;D dur;239v;Pavane surnomeé La dedicace;Denis Gaultier;;;Conc_206;C;"[,,aba3/2] ,,a/4 ,,,b ,,a/ ,,,,,e ,,,,c ,,,c | [,,,'ba1] \
 {,,,a}/ ,,,,,d [,,,,,'c] ,,,c [,,,,'ea] ,,,c/4 ,,,,e | \
 ,,,c/ {a} ,,,,a ,,a ,,c ,,,b [,ccc] ,,e | "
-258;D dur;240v;Allemande de Mons: Emons;Emond;;;Conc_750;C;",,a/ | [,,aee{,,,a}1] [,,,'c/] ,,,,e/4 ,,,c ,,,e/ ,,,,,a \
+259;D dur;240v;Allemande de Mons: Emons;Emond;;;Conc_750;C;",,a/ | [,,aee{,,,a}1] [,,,'c/] ,,,,e/4 ,,,c ,,,e/ ,,,,,a \
 [,,,'c,c3/4] ,,,,,e/4 | [,,,,ef/] ,,,,,a [,,,,'c3/4] {a}/4 \
 [,,,,a{,a}/] ,,,e [,,cc{,,a}3/4] ,,e/4 | [,a{,,,a}/] ,,,,e \
 ,,,,a [,c,,,e] [,e,,a] ,,,,,c [,e,,,'a] [c{a}] | "
-259;D dur;241v;Courante de Mons: Emons;Emond;;;Conc_4012;3;",,a/ ,,c ,,e | [,a{,,,a}1] ,,,,a ,,,,c | [,a,,e1] ,,a \
+260;D dur;241v;Courante de Mons: Emons;Emond;;;Conc_4012;3;",,a/ ,,c ,,e | [,a{,,,a}1] ,,,,a ,,,,c | [,a,,e1] ,,a \
 [,,cc] | [,,aVe1] ,,,,,a ,,,,,c | [,,,e,e1] [,,,#c3/2] ,,a/ | \
 [,,,#ba3/2] ,,,c/ ,,,,,c1 | [,,a,,e1] ,,,,c [,,,,ef] | "
-260;D dur;242v;Sarabande de Mons: Gautier;Jacques Gallot / Du But;;;Conc_2037;3;",e/ [,e{,,,a}] ,e | [,efea3/2] ,e/ [,'c,,,(e1] | [,'ca3/2] \
+261;D dur;242v;Sarabande de Mons: Gautier;Jacques Gallot / Du But;;;Conc_2037;3;",e/ [,e{,,,a}] ,e | [,efea3/2] ,e/ [,'c,,,(e1] | [,'ca3/2] \
 ,e/ [,a{e})1] | ,,,d/ ,,c ,a ,c ,,,,,a ,,e | [,,eec3/2] ,,f/ \
 [,,fee1] | [,,fee{,,,a}3/2] V,,d/ [,,'c{a}] ,,c | "
-261;D dur;243v;Courante de Monsieur Gautier;Denis Gaultier;;;Conc_209;3;"e1 | [eea{,,,a}3/2] c/ ,e ,c | ,a/ ,,,,a e ,,,,,e ,,a c | \
+262;D dur;243v;Courante de Monsieur Gautier;Denis Gaultier;;;Conc_209;3;"e1 | [eea{,,,a}3/2] c/ ,e ,c | ,a/ ,,,,a e ,,,,,e ,,a c | \
 [,'e,,a3/2] ,c/ ,,a ,a | [,c,,,e/] ,e [,,,,,'c] ,,,d \
 ,a3/4 ,a/4 | "
-262;D dur;244v;Courante de Mons: Gautier;Gaultier;;;;3;"e1 | [eefee1] g [cc,,c] | [,ea,e1] ,,,c [,#c,e] | \
+263;D dur;244v;Courante de Mons: Gautier;Gaultier;;;;3;"e1 | [eefee1] g [cc,,c] | [,ea,e1] ,,,c [,#c,e] | \
 [,,fg1] [,,,#e] [,c,c] | [,,a,e1] [,,ccc3/2] ,,e/ | \
 ,,,,a/ ,a ,c ,,,,,e ,,,,,c ,e | [,,,,,#a1] {a}/ ,c {,,a} ,a | "
-263;D dur;245v;Canarie de Mons: Gautier;Ennemond Gaultier;;;Conc_1738;3;"e/ 'c | [,ef3/2] c/ [,ce1] | [,ac3/2] ,,,c/ ,c1 | [,e,,e3/2] \
+264;D dur;245v;Canarie de Mons: Gautier;Ennemond Gaultier;;;Conc_1738;3;"e/ 'c | [,ef3/2] c/ [,ce1] | [,ac3/2] ,,,c/ ,c1 | [,e,,e3/2] \
 {,a}/ ,,,f1 | [,a,g3/2] ,a/ ,,,,,c1 | [,c,,,e3/2] ,,a/ \
 [,e,,a1] | [c,,,c3/2] e/ [,a,,a1] | "
-264;D dur;246v;Sarabande de Mons: Gautier;Gaultier;;;;3;"[eaa,a1] [eea/] e ,,,c e | [#cc3/2] ,,e/ ,,f ,e | \
+265;D dur;246v;Sarabande de Mons: Gautier;Gaultier;;;;3;"[eaa,a1] [eea/] e ,,,c e | [#cc3/2] ,,e/ ,,f ,e | \
 [,#c,,,a3/2] (,a/4 ,,e) [,a,,a1] | [,aab{,,,a}1] [,aab/] \
 ,a {a}1 | [,,cca1] [,,cca/] ,,c ,,,,b1 | "
-265;A dur;248r;Prelude;Anonym;;;;none;",c ,,e ,,,e ,c ,,,,,a ,,,e ,,e ,c ,,,e ,,,d ,,c ,c ,,,d ,,,,e \
+266;A dur;248r;Prelude;Anonym;;;;none;",c ,,e ,,,e ,c ,,,,,a ,,,e ,,e ,c ,,,e ,,,d ,,c ,c ,,,d ,,,,e \
 ,,a ,a ,,,,e ,,,d ,a ,,,e ,,e ,,,,c ,,,e ,,c [,,,'d] ,,,,a"
-266;A dur;248v;Allemande;Anonym;;;;C;",c1 | [,cee,a3/2] ,,,d/ [,aee/] ,,,,a [,,cec] [,,,'d] | \
+267;A dur;248v;Allemande;Anonym;;;;C;",c1 | [,cee,a3/2] ,,,d/ [,aee/] ,,,,a [,,cec] [,,,'d] | \
 [,,e,,a/] [,,eec1] ,,,,,c/ ,,,,,e/4 [,c,,,e] [,ca/] \
 [,'a,,a3/4] ,,e/4 | [,,cdc] {,,a} [d,c] [e{,a}] [g{a}/] \
 (,a/4 ,c ,e) ([,'c/] ,a/) | "
-267;A dur;249v;Courante l'immitable p. Gautier;Gaultier;;;Conc_19;3;"e/ d ,e | [,c,,,a1] [,,'a2] | [,cd1] [,'a] ,,,e/ ,,e | \
+268;A dur;249v;Courante l'immitable p. Gautier;Gaultier;;;Conc_19;3;"e/ d ,e | [,c,,,a1] [,,'a2] | [,cd1] [,'a] ,,,e/ ,,e | \
 [,,c{,,a}3/2] ,,e/ ,a ,,,d | ,,,e/ ,,e ,c1 ,,,d/ ,,c | \
 [,e,,e1] {,a}/ (d e1) | "
-268;A dur;250v;Double;Gaultier;;;Conc_19;3;"e/ 'd ,e | [,c,,,a1] ,,a/ ,e ,c ,a | ,c/ ,,,e ,,,d ,a ,,,e \
+269;A dur;250v;Double;Gaultier;;;Conc_19;3;"e/ 'd ,e | [,c,,,a1] ,,a/ ,e ,c ,a | ,c/ ,,,e ,,,d ,a ,,,e \
 ,,e | [,,c{,,a}/] ,,a ,,c ,,e [,'c] ,,,d | "
-269;A dur;251v;Sarabande;Anonym;;;;3;"[,,eeca1] [,,eec] [,a{,,,a}/] ,,e | [,,c{,,a}3/2] (,,a/4 \
+270;A dur;251v;Sarabande;Anonym;;;;3;"[,,eeca1] [,,eec] [,a{,,,a}/] ,,e | [,,c{,,a}3/2] (,,a/4 \
 ,,,d) ,,a1 | [,c,,,a1] ,,,,a [,c,,c] | ,,,b/ ,,a ,a ,,,d \
 [,,ee1] | ,,,,,a/ ,,e ,c ,e [d{a}1] | "
-270;A dur;252v;Allemande = Gique La delicate ou la delicatesse p. M. Gautier;Denis Gaultier;;;Conc_21;C;",,a/ | [,,aeca3/2] (,,c/ ,,e) ,,,e ,,e ,a | [,c,e,'a/] ,c \
+271;A dur;252v;Allemande = Gique La delicate ou la delicatesse p. M. Gautier;Denis Gaultier;;;Conc_21;C;",,a/ | [,,aeca3/2] (,,c/ ,,e) ,,,e ,,e ,a | [,c,e,'a/] ,c \
 [,e,d{a}] (d [e,,,e{,a}]) e ,,,,a ,e | [,c,,,e/] ,c e ,c \
 [,e,,a] ,,,,,c d [e,,,,a] | "
-271;A dur;253v;Ciaconne de Mons: Gautier;Denis Gaultier;;;Conc_2239;3;",c3/2 ,,e/ ,a ,,c | [,,ee3/2] [,,ee/] ,a {,,,a} | \
+272;A dur;253v;Ciaconne de Mons: Gautier;Denis Gaultier;;;Conc_2239;3;",c3/2 ,,e/ ,a ,,c | [,,ee3/2] [,,ee/] ,a {,,,a} | \
 [,a,d{,,a}3/2] ,c/ ,,,e ,,e | [,,c,c3/2] ,,,e/4 ,,c \
 [,,,e,a1] | [,,ee1] [,,ee/] [,,ee] [,,c{a}1] | "
-272;A dur;254v;Courante de M. Gautier;Gaultier / Du But;;;Conc_17;3;"[,,'e3/4] ,a/4 | ,c1 ,,a ,e/ ,,a | [,ecd1] ,c3/2 ,a/ | \
+273;A dur;254v;Courante de M. Gautier;Gaultier / Du But;;;Conc_17;3;"[,,'e3/4] ,a/4 | ,c1 ,,a ,e/ ,,a | [,ecd1] ,c3/2 ,a/ | \
 [,,ee1] ,a/ ,,,,a [,,cdc1] | ,,,e/ ,,e [,,'c{,,a}3/2] \
 (,,,e/4 ,,c) | ,,,e1 ,,,,,a3/2 [,,,'d/] | "
-273;A dur;256v;Double;Gaultier / Du But;;;Conc_17;3;"[,,'e3/4] ,a/4 | ,c/ ,,a ,e [,'c] ,e ,,a | ,,,d/ ,e [,'c] \
+274;A dur;256v;Double;Gaultier / Du But;;;Conc_17;3;"[,,'e3/4] ,a/4 | ,c/ ,,a ,e [,'c] ,e ,,a | ,,,d/ ,e [,'c] \
 ,,,e ,,e ,,c | ,,e/ ,,,e ,a ,,,e [,,,'d] ,,,,e | "
-274;A dur;257v;Tombeau de Blanrocher p. M: Gautier;Denis Gaultier;;;Conc_29;C;"[,cee,a3/2] (,c/4 ,,e) ,a ,c ,,,e/ [,ccd3/4] ,a/4 | \
+275;A dur;257v;Tombeau de Blanrocher p. M: Gautier;Denis Gaultier;;;Conc_29;C;"[,cee,a3/2] (,c/4 ,,e) ,a ,c ,,,e/ [,ccd3/4] ,a/4 | \
 [,,ee/] ,,,,,a1 [,,,'d/] [,aa,e3/4] ,a/4 [,c,,'c3/4] ,,e/4 | \
 [,ef,a1] {,,,a}3/4 ,c/4 ,e/ ,,,,,e [,e,,,c3/4] d/4 | "
-275;A dur;258v;Courante p. M. Launay;de Launay;;;;3;",,a/ | [,,aeca3/2] ,,c/ ,,e ,,,d | ,,,e3/4 ,,e/4 ,,,d/ ,,c \
+276;A dur;258v;Courante p. M. Launay;de Launay;;;;3;",,a/ | [,,aeca3/2] ,,c/ ,,e ,,,d | ,,,e3/4 ,,e/4 ,,,d/ ,,c \
 ,,,,e ,,a | [,,,'d{,,a}1] ,,,,c/ {,,,a} [,,,ec{4}] | \
 {,,,a}/ ,,c [,,'c{,,a}3/2] (,,a/4 ,,,d) | ,,a1 ,,,,,a/ \
 (,,c ,,e) ,a | "
-276;A dur;259v;Sarabande;Anonym;;;;3;"[e,e,,a1] [ece] [ec3/4] e/4 | [d,,,c1] ,,,,e/ e [,c,,,e1] | \
+277;A dur;259v;Sarabande;Anonym;;;;3;"[e,e,,a1] [ece] [ec3/4] e/4 | [d,,,c1] ,,,,e/ e [,c,,,e1] | \
 [,cee1] ,,,,,a/ ,e {d} ,a | [,'a{a}3/2] ,,e/4 ,a [,,e,,a/] \
 ,,,e | [,,c{a}1] (,,c3/4 ,,e/4) [,,a{,a}] | "
-277;A dur;260v;La Rodomontade p. M. Launay;de Launay;;;;3;",c/ | [,cee,a3/2] ,e/ ,c1 | ,,e1 ,,,,,a {a} | {,a}1 ,a ,,e | \
+278;A dur;260v;La Rodomontade p. M. Launay;de Launay;;;;3;",c/ | [,cee,a3/2] ,e/ ,c1 | ,,e1 ,,,,,a {a} | {,a}1 ,a ,,e | \
 [,,cdc{,,a}1] ,,,,c ,,,,a | ,,,,,e3/2 ,c/ ,,a1 | \
 [,,,,,'c3/2] [,aa/] ,,,d1 | [,,ad,a3] ,,,e/4 ,,c (,e ,a) | "
-278;A dur;261v;La bien aimee, Allemande p. M. Gallot;Jacques Gallot;;;;C;",c1 | [,cee,a3/4] ,a/4 ,,e ,a V[,ce{,,a}/] [,'a/4] ,,e \
+279;A dur;261v;La bien aimee, Allemande p. M. Gallot;Jacques Gallot;;;;C;",c1 | [,cee,a3/4] ,a/4 ,,e ,a V[,ce{,,a}/] [,'a/4] ,,e \
 [,,'c/] ,a/4 ,,,d [,,#e#e3/4] ,,c/8 ,,,d | [,,ee/] [,,'c/4] \
 ,a [,ce/] ,c/4 ,,e [,ea,a/] [,,,,,'c/4] [da] [ece,,a/] \
 [e,e/4] ,c | "
-279;A dur;262v;La Basilique Allemande p. Mons: Gallot;Jacques Gallot;;;Conc_3698;C;"[,,eca3/2] ,,e/4 ,a ,c/ {,,a} [,,cec] [,,,'d] | ,,a/ ,,,,,a \
+280;A dur;262v;La Basilique Allemande p. Mons: Gallot;Jacques Gallot;;;Conc_3698;C;"[,,eca3/2] ,,e/4 ,a ,c/ {,,a} [,,cec] [,,,'d] | ,,a/ ,,,,,a \
 e ,,,d [ea,,e] e ['d,c,c] V,,e | [,e,,a/] [,c,,c] [,aa,e] \
 ,,e [,,c{a}] ,,,,c [,'ccd] ,a | "
-280;A dur;263v;Suises pas p. Mons: Gallot;Jacques Gallot;;;;C;"[,,aeca2] [,,c{,,a}3/2] ,,,e/4 ,,c | V,,e1 ,,,,a [,c{a}] \
+281;A dur;263v;Suises pas p. Mons: Gallot;Jacques Gallot;;;;C;"[,,aeca2] [,,c{,,a}3/2] ,,,e/4 ,,c | V,,e1 ,,,,a [,c{a}] \
 [,c,,,a] | [,c{,,a}1] [,e,,a3/4] d/4 [e,,,,e1] [e,,,,c] | \
 [eca,,a2] [,c{a}/] ,e ,c3/4 ,a/4 | "
-281;A dur;264v;Sarabande;Anonym;;;Conc_25;3;"[ece1] [ece/] e {,,a}1 | [dcc1] [dcc/] d [e{,a}1] | \
+282;A dur;264v;Sarabande;Anonym;;;Conc_25;3;"[ece1] [ece/] e {,,a}1 | [dcc1] [dcc/] d [e{,a}1] | \
 [,e,e1] [,'c,d3/2] ,a/ | [,,ee1] [,,ee/] ,,e [,,'cd1] | \
 [,,ee1] ,,,,,a [,,e,c] | [,a,,e{,,,a}3/2] ,a/ {,,a}1 | "
-282;A dur;265r;Courante;Anonym;;;Conc_26;3;",,a1 | [,,ae1] ,c/ ,,e ,,,d1 | [,,a,e1] [,,'c,c3/2] ,,,d/ | \
+283;A dur;265r;Courante;Anonym;;;Conc_26;3;",,a1 | [,,ae1] ,c/ ,,e ,,,d1 | [,,a,e1] [,,'c,c3/2] ,,,d/ | \
 [,,ee1] ,,,,,a2 | [,,e{,a}1] ,,a [,a,,e] | [,c,,,e1] ,,a \
 e/ c | [,e,,a1] ,a [,,e,c] | "
-283;A dur;265v;Canarie de Monsieur Gautier;Vieux Gaultier;;;Conc_231;3;",,e/ ,a1 | ,c3/2 ,,a/ ,e1 | [,'c,,,a3/2] ,e/ [d{a}1] | \
+284;A dur;265v;Canarie de Monsieur Gautier;Vieux Gaultier;;;Conc_231;3;",,e/ ,a1 | ,c3/2 ,,a/ ,e1 | [,'c,,,a3/2] ,e/ [d{a}1] | \
 [e{,a}1] ,,,,e3/2 ,a/ | [,c,,,e1] ,,a [,e,,a] | [,a,,,c3/2] \
 ,,,d/ ,c1 | [,,ee,a3/2] {a}/ [,,a{,a}1] | V,,c1 {,,a} ,,,,c | \
 [,,cd3/2] :| "
-284;A dur;266v;Sarabande;Anonym;;;;3;"[,cdd{,,a}1] [,ccd/] [,ccd] ,,,,,f1 | [,c,,,e1] ,,,e \
+285;A dur;266v;Sarabande;Anonym;;;;3;"[,cdd{,,a}1] [,ccd/] [,ccd] ,,,,,f1 | [,c,,,e1] ,,,e \
 [,a,,a] | [,a,b,c1] ,,,d [,,ee,a] | [,,cd{,,a}3/2] ,,e/ \
 {,,,a}1 | [,,,d,e3/2] ,,a/ {,a}1 | [,,cb{,,,a}3/2] ,,,,a/ \
 ,,,,c ,,e | "
-285;A dur;267v;Canarie de Mons: Gautier;Vieux Gaultier;;;Conc_231 ;3;",,e/ ,a1 | [,c,e3/2] ,e/ [,d,d1] | [e,,,e3/2] ,,,c/ \
+286;A dur;267v;Canarie de Mons: Gautier;Vieux Gaultier;;;Conc_231 ;3;",,e/ ,a1 | [,c,e3/2] ,e/ [,d,d1] | [e,,,e3/2] ,,,c/ \
 [,,,,'a1] | [,c,,,e3/2] ,,a/ [,e,,a1] | ,c1 [,'a,,e3/2] \
 ,,e/ | ,a3/2 ,,,d/ ,,c1 | [,,ee3/2] ,,,,,a/ [,b,,,c1] | "
-286;A dur;268v;Courante de Monsieur Gautier;Gaultier;;;;3;",,a1 | [,,ae2] ,c1 | [,c,d1] ,,c ,a/ ,c | ,,,e/ ,,e \
+287;A dur;268v;Courante de Monsieur Gautier;Gaultier;;;;3;",,a1 | [,,ae2] ,c1 | [,c,d1] ,,c ,a/ ,c | ,,,e/ ,,e \
 ,,,,,a1 e/ ,,,d | ,,,,e/ e [#d,c,c3/2] ,,,,a/ | ,,,,,e/ e \
 ,c ,,a 'd ,e/4 d | "
-287;A dur;269v;Double;Anonym;;;;3;",,a1 | [,,ae3/2] ,,c/ ,,e ,a | [,c,d/] ,,c ,c ,e [,'c] ,a | \
+288;A dur;269v;Double;Anonym;;;;3;",,a1 | [,,ae3/2] ,,c/ ,,e ,a | [,c,d/] ,,c ,c ,e [,'c] ,a | \
 [,,ee/] ,,c ,,e ,,a e ,,,d | ,,,,e/ e [d,,,c] e 'd ,,,,a | "
-288;A dur;270v;Courante;Anonym;;;;3;",,e1 | [,,eeca3] | [,,#cdc3/2] ,,c/ ,,e [,,,ee] | \
+289;A dur;270v;Courante;Anonym;;;;3;",,e1 | [,,eeca3] | [,,#cdc3/2] ,,c/ ,,e [,,,ee] | \
 [,ccd3] | [,cee3/2] ,c/ ,e d | [e,,,e3/2] e/ [#d,,,,e1] | \
 ,c/ e [,ee,a3/2] ,,c/4 d | "
-289;A dur;271v;Double;Anonym;;;;3;",c/ [,'a] ,,e/4 ,a | ,,e/ ,,,e ,,,,,a ,,,,,c ,,,,,e ,,,,a | \
+290;A dur;271v;Double;Anonym;;;;3;",c/ [,'a] ,,e/4 ,a | ,,e/ ,,,e ,,,,,a ,,,,,c ,,,,,e ,,,,a | \
 ,,,,c/ ,,,e ,,c ,,,d ,,,,e ,,,e | ,,,d/ ,,c ,c ,e ,c ,a | "
-290;A dur;272v;Sarabande Mes Amities;Anonym;;;;3;"[,'c3/2] ,a/4 ,,e ,a1 | [,,e,,e1] [,,'c,a3/2] ,,a/ | \
+291;A dur;272v;Sarabande Mes Amities;Anonym;;;;3;"[,'c3/2] ,a/4 ,,e ,a1 | [,,e,,e1] [,,'c,a3/2] ,,a/ | \
 [,,,dc1] ,a [,,ee] | [,,'c{,,a}3/2] ,,,e/4 ,,c [,,,e,a1] | \
 e3/2 ,,,,,c/ ,,,,,e1 | [,ca1] [,ca/] [,ca] [,e,,a1] | "
-291;f# moll;274r;Prelude;Anonym;;;;C;",,e/ ,e ,e {,a} ,,,,e ,,,e ,,e ,e {,a} ,e d ,,,,d ,,e d e \
+292;f# moll;274r;Prelude;Anonym;;;;C;",,e/ ,e ,e {,a} ,,,,e ,,,e ,,e ,e {,a} ,e d ,,,,d ,,e d e \
 ,,,,e ,a ,a d ,,,,c ,,e ,a b ,,,,a ,,c ,,f ,c ,,a ,,e ,a"
-292;f# moll;274v;La Lucrece Allemande de M. Gautier;Jacques Gallot;;;Conc_223;C;"[,ea{,a}1] ,,c/ d [e,e1] ['d,c/] [,e,e] | [,d,d{a}1] [,ea/] \
+293;f# moll;274v;La Lucrece Allemande de M. Gautier;Jacques Gallot;;;Conc_223;C;"[,ea{,a}1] ,,c/ d [e,e1] ['d,c/] [,e,e] | [,d,d{a}1] [,ea/] \
 ,c [,'a,,e] ,,,d ,,a ,,c | [,,ee{,a}/] ,,,,e [,,'cd] ,,e \
 [,a,,e] {,a} [,eee] [,'g] | "
-293;f# moll;275v;L' Amoureuse Courante de Mons: Gautier;Gaultier;;;Conc_751;3;",,,d/ ,,a/4 ,,c | ,,e1 ,,,e/ ,a ,c ,,,d | [,e,,e1] ,,,,a \
+294;f# moll;275v;L' Amoureuse Courante de Mons: Gautier;Gaultier;;;Conc_751;3;",,,d/ ,,a/4 ,,c | ,,e1 ,,,e/ ,a ,c ,,,d | [,e,,e1] ,,,,a \
 [d,,,,c/] ,e | [,e,,,e1] {4}3/2 b/4 ,d | [b{,a}1] [,,ee3/2] \
 ,b/ | [,ccd{a}3/2] ,e/ [,'c] ,a | "
-294;f# moll;276v;La belle Malade p. Mons: Gallot;Jacques Gallot;;;Conc_1615;3;",a/ ,,e ,a | [,,'c1] ,,,e ,,c/ ,,,d | [,,a,e1] [,,,'d{4}/] \
+295;f# moll;276v;La belle Malade p. Mons: Gallot;Jacques Gallot;;;Conc_1615;3;",a/ ,,e ,a | [,,'c1] ,,,e ,,c/ ,,,d | [,,a,e1] [,,,'d{4}/] \
 ,,a/4 ,,,e ,,a/ ,,,,,e | ,,,,e1 {,a}2 | [,,aee1] [,,ae/] \
 ,,a [,,cd1] | [,,ee{,a}3/2] ,a/ [,c{,,a}1] | "
-295;f# moll;277v;Mariane, Courante de vieux Gautier;Ennemond Gaultier;;;Conc_4013;3;",,e/ | [,,e,e1] {,a} [,,cd] | [,,ee1] [,,'c,c3/2] ,,,,a/ | \
+296;f# moll;277v;Mariane, Courante de vieux Gautier;Ennemond Gaultier;;;Conc_4013;3;",,e/ | [,,e,e1] {,a} [,,cd] | [,,ee1] [,,'c,c3/2] ,,,,a/ | \
 ,,,,,e/ ,,a ,c1 ,a/ [,,,,,'c] | ,,,,,a1 [,,'ee3/2] ,,c/ | \
 [,,cd{,,a}3/2] ,,e/ [,a{,,,a}1] | [,c{4}1] ,,a3/2 ,e/ | "
-296;f# moll;278v;La Tourterelle Courante p. Mons: Gallot;Jacques Gallot;;;Conc_228;3;",e/ | [,eee{,a}1] [,'g/] e/4 ,g [e,,,e1] | [e{,,a}1] \
+297;f# moll;278v;La Tourterelle Courante p. Mons: Gallot;Jacques Gallot;;;Conc_228;3;",e/ | [,eee{,a}1] [,'g/] e/4 ,g [e,,,e1] | [e{,,a}1] \
 [gef{,,,a}3/2] i/ | [igi{4}1] ,,e/ g e ,g | e/ ,,,g [,e,'e1] \
 [,g,,g] | [e,e,e1] [,e{,a}] [,'c/] ,a | "
-297;f# moll;279v;La Divine Sarab de Mons: Gallot;Jacques Gallot;;;Conc_1081;3;"[e{,a}/] e ['eee,e3/2] ,g/4 e | ,g/ {4} [,,ee1] e/ ,g | \
+298;f# moll;279v;La Divine Sarab de Mons: Gallot;Jacques Gallot;;;Conc_1081;3;"[e{,a}/] e ['eee,e3/2] ,g/4 e | ,g/ {4} [,,ee1] e/ ,g | \
 [,ee,,f/] ,,,,e ,,,g 'e ,g e | [,'d{4}/] ,d [,de,,e3/2] \
 [,,'c/] | [,eeg{,a}1] ,,,f/ ,,h [,,fge1] | "
-298;f# moll;280r;La Cigale Menuet du même;Jacques Gallot;;;Conc_1082;3;"[,ea{,a}1] [,e,d{4}] [,'d] | [,ea{,a}1] c V[e,e] | \
+299;f# moll;280r;La Cigale Menuet du même;Jacques Gallot;;;Conc_1082;3;"[,ea{,a}1] [,e,d{4}] [,'d] | [,ea{,a}1] c V[e,e] | \
 ['da,,,c1] ,e [,d,d{4}] | [,ea{,a}/] ,d V,e d ,e1 | [,ee,,a1] \
 [,ec{a}3/2] ,d/ | [,ea{,a}3/2] d/ ,,e e | "
-299;f# moll;280v;La Grande Virago Gique p. Mons: Gallot;Jacques Gallot;;;Conc_678;C;",e3/2 d/ e [,e,,e] [,'c,d] ,a | [,,e/] ,,,,,a [,a,,e] ,,e \
+300;f# moll;280v;La Grande Virago Gique p. Mons: Gallot;Jacques Gallot;;;Conc_678;C;",e3/2 d/ e [,e,,e] [,'c,d] ,a | [,,e/] ,,,,,a [,a,,e] ,,e \
 [,,'c{a}] ,,,,e [,,e,d] ,,c | [,,'a{,a}/] ,,,d ,,a [,,a,e] \
 [,,,'dc] ,,,,,e [,,,,ef] ,,,,,c | "
-300;f# moll;281v;La belle Flamande Sarabande;Jacques Gallot;;;Conc_1083;3;"[,,eee{,,,a}1] [,,ee/] ,,e {a}1 | [,,'c,d3/2] ,,e/ {,a} \
+301;f# moll;281v;La belle Flamande Sarabande;Jacques Gallot;;;Conc_1083;3;"[,,eee{,,,a}1] [,,ee/] ,,e {a}1 | [,,'c,d3/2] ,,e/ {,a} \
 ,,,d | [,,aee1] [,,ae/] ,,a [,,,d,c1] | [,,,d{4}1] ,,,,,e/ \
 ,,,e [,,,'d,c1] | [,,e,,a1] ,,,e3/2 ,e/ | [,dc{a}1] [,dc/] \
 ,d [,dc1] | "
-301;f# moll;282v;Le Doge de Venise (Chaconne sans chanterelle);Jacques Gallot;;;Conc_1085;3;",,e1 | [,,'a,e{,a}3/2] ,,,d/ ,,a ,,,,e | [,,c{a}1] ,,,d/ \
+302;f# moll;282v;Le Doge de Venise (Chaconne sans chanterelle);Jacques Gallot;;;Conc_1085;3;",,e1 | [,,'a,e{,a}3/2] ,,,d/ ,,a ,,,,e | [,,c{a}1] ,,,d/ \
 ,,e ,,c1 | [,,aee{,a}1] [,,,'d,c3/2] ,,,,e/ | [,,,,'de1] \
 {4} ,,e | [,,'a{,a}/] ,,,d ,,a ,,,,e ,,,d ,,a | "
-302;f# moll;284v;La pomme d'Or Courante;Jacques Gallot;;;Conc_1086;3;",,e/ ,,,g ,,e | [,,,ee1] {,a}/ ,,,,e [,,,dd1] | [,,aee3/2] \
+303;f# moll;284v;La pomme d'Or Courante;Jacques Gallot;;;Conc_1086;3;",,e/ ,,,g ,,e | [,,,ee1] {,a}/ ,,,,e [,,,dd1] | [,,aee3/2] \
 ,,,,c/ [,,,,'a] ,,c | [,,ee{4}3/2] ,,,,,e/ [,,,d,'c1] | \
 [,,e,,a1] ,,,,e/ ,a [,,'c{a}] ,,,a | [,,a{,a}1] ,,,,e/ \
 ,,a ,e ,e | "
-303;f# moll;285v;La chevre de Vieux Mons: Gautier;Ennemond Gaultier;;;Conc_214;3;"[,'d{4}2] ,,a1 | [,,,'d3/2] ,e/ ,,,,e1 | d3/2 [,,,,'d/] \
+304;f# moll;285v;La chevre de Vieux Mons: Gautier;Ennemond Gaultier;;;Conc_214;3;"[,'d{4}2] ,,a1 | [,,,'d3/2] ,e/ ,,,,e1 | d3/2 [,,,,'d/] \
 ,,e1 | {4}3/2 ,,,,e/ ,,,d1 | ,,a3/2 ,,,,,e/ ,,,,,f1 | \
 ,,,,e3/2 ,,c/ ,,,d1 | ,,e2 {4}1 | ,,,,,e3/2 ,,e/ [,,,,,'c1] | "
-304;f# moll;286v;La Contre Chevre, Canarie;Jacques Gallot;;;Conc_1087;3;",,,,e1 | [,,,'d{4}3/2] ,,a/ ,,c1 | ,,,,,e1 ,,a ,,,,e | \
+305;f# moll;286v;La Contre Chevre, Canarie;Jacques Gallot;;;Conc_1087;3;",,,,e1 | [,,,'d{4}3/2] ,,a/ ,,c1 | ,,,,,e1 ,,a ,,,,e | \
 ,,,d1 [,,,,'d3/2] ,,e/ | {,a}3/2 ,,c/ [,,a,e1] | [,,,dc1] ,,e \
 ,,,,e | [,,e,c{a}1] [,,,,'b3/2] ,,d/ | ,,e1 {4} ,,,,,e | "
-305;f# moll;287v;La Pigeonne sans chantarelle, Courante;Jacques Gallot;;;Conc_1088;3;",,e1 | [,,e{,a}1] ,,,e3/2 ,a/ | [,,e{,,a}1] [,,e,e{,,,a}3/2] \
+306;f# moll;287v;La Pigeonne sans chantarelle, Courante;Jacques Gallot;;;Conc_1088;3;",,e1 | [,,e{,a}1] ,,,e3/2 ,a/ | [,,e{,,a}1] [,,e,e{,,,a}3/2] \
 ,,c/ | [,,e{4}1] ,,,,d ,,e/ [,,,,,'c] | [,,e,,a1] ,,,,e/ ,a \
 [,,'c{a}] ,,,a | [,,a{,a}1] ,,,,e ,e | [,ec{a}1] [,'c,,c3/2] \
 ,a/ | "
-306;f# moll;288v;Double;Jacques Gallot;;;Conc_1089;3;",,e/ | [,,e{,a}1] ,,,e/ ,,c ,,e ,a | ,,e/ {,,a} {,,,a} \
+307;f# moll;288v;Double;Jacques Gallot;;;Conc_1089;3;",,e/ | [,,e{,a}1] ,,,e/ ,,c ,,e ,a | ,,e/ {,,a} {,,,a} \
 ,,,,e ,,e ,,c | [,,e{4}/] ,,,a ,,e ,,,,,e [,,,,,'c] ,,,d | \
 [,,e,,a/] [,,'c] ,,e ,,,,e ,,c [,,,,'d] | "
-307;f# moll;289v;La Maladie;Charles Mouton;;;Conc_220;3;"[,h{,a}/] ,g ,h1 g/ i | [,'g{,,a}/] ,g [,gh{4}1] ,,,i/ ,,h | \
+308;f# moll;289v;La Maladie;Charles Mouton;;;Conc_220;3;"[,h{,a}/] ,g ,h1 g/ i | [,'g{,,a}/] ,g [,gh{4}1] ,,,i/ ,,h | \
 ,,,g1 ,,,,h/ ,,k ,,,,g ,,i | ,,k1 {,a}/ ,c ,a ,,e | "
-308;f# moll;290r;Le Toxin. Gique de Mons: Mouton;Charles Mouton;;;Conc_1913;C;"[,'e1] {,a}/ d e ,,e [,ef] ,,c | [,de3/2] ,,c/ [,ea] ,,,,e \
+309;f# moll;290r;Le Toxin. Gique de Mons: Mouton;Charles Mouton;;;Conc_1913;C;"[,'e1] {,a}/ d e ,,e [,ef] ,,c | [,de3/2] ,,c/ [,ea] ,,,,e \
 [,'c] [,a,d] | [,,ee/] ,,,,c [,,,dd] [,,,ee] ,,,,,c [,,,'d] \
 ,,a ,,,,e | "
-309;f# moll;290v;La Villette Courante de M. Gallot;Jacques Gallot;;;Conc_224;3;",,e3/4 ,,,e/4 [,,,'d3/4] ,,c/4 ,,,,e3/4 ,,a/4 | [,,cd3/4] \
+310;f# moll;290v;La Villette Courante de M. Gallot;Jacques Gallot;;;Conc_224;3;",,e3/4 ,,,e/4 [,,,'d3/4] ,,c/4 ,,,,e3/4 ,,a/4 | [,,cd3/4] \
 ,,,,e/4 ,,,,d3/4 ,,e/4 ,,,,e3/4 ,,a/4 | {4}3/4 ,,,d/4 \
 ,,,,,e3/4 ,,,e/4 [,,,'d,c1] | ,,,,,a3/4 ,,,,e/4 {4}3/4 \
 {a}/4 ,,,,e3/4 ,,,,d/4 | "
-310;f# moll;291v;La Royale. Sarabande de M. Gallot;Jacques Gallot;;;Conc_1416;3;"[,,eee{,a}1] [,,ee/] ,,e {4}1 | [,,edd1] [,,e,,e] [,a,,,'c] | \
+311;f# moll;291v;La Royale. Sarabande de M. Gallot;Jacques Gallot;;;Conc_1416;3;"[,,eee{,a}1] [,,ee/] ,,e {4}1 | [,,edd1] [,,e,,e] [,a,,,'c] | \
 {a}/ ,,c [,'c] ,a ,,,,,a ,,e | [,,'c{,,a}3/2] (,,a/4 ,,,d) \
 [,,a{,a}1] | [eee,e1] [eee/] e {4}1 | "
-311;f# moll;292v;La Religieuse portugaise Sarabande;Jacques Gallot;;;Conc_225;3;"[,e{,a}/] ,e [,ee,e1] [,ee/] ,e | [,'c{4}/] ,c ,,,,,e ,,,d \
+312;f# moll;292v;La Religieuse portugaise Sarabande;Jacques Gallot;;;Conc_225;3;"[,e{,a}/] ,e [,ee,e1] [,ee/] ,e | [,'c{4}/] ,c ,,,,,e ,,,d \
 ,c ,,a | [,a,,,c/] ,a [,a,'d1] [,c{a}/] ,a | [,,e,,a/] ,,e \
 ,,,,c ,,,e ,,e ,a | "
-312;f# moll;293v;La Dauphine Gavotte de Mons. Gallot;Jacques Gallot;;;Conc_226;C;",,e1 ,e3/4 d/4 | [,'d{4}1] ,,e ,e3/4 ,d/4 ,e3/4 d/4 | \
+313;f# moll;293v;La Dauphine Gavotte de Mons. Gallot;Jacques Gallot;;;Conc_226;C;",,e1 ,e3/4 d/4 | [,'d{4}1] ,,e ,e3/4 ,d/4 ,e3/4 d/4 | \
 V[e{,a}1] [e,,,e] ['d,,d] [,e,e] | [d,c3/4] e/4 'd3/4 ,e/4 \
 {4}3/4 ,,,d/4 ,e3/4 ,d/4 | [,eee{a}2] :| "
-313;f# moll;294v;La belle Suissesse Gique;Jacques Gallot / Emond;;;Conc_2195;C;",,e1 ,,,e3/4 ,,e/4 [,,cd3/4] ,,,,e/4 [,,e,d3/4] ,,c/4 | \
+314;f# moll;294v;La belle Suissesse Gique;Jacques Gallot / Emond;;;Conc_2195;C;",,e1 ,,,e3/4 ,,e/4 [,,cd3/4] ,,,,e/4 [,,e,d3/4] ,,c/4 | \
 [,,a,e3/4] ,,a/4 ,,,,,e3/4 [,,,d,c/4] ,,,,,a/ [,,,ee] \
 [,,,d,c3/4] ,,,,e/4 | [,,,,'d{a}1] {4}3/4 ,,,,d/4 \
 V[,,,,e{,a}3/4] ,,,d/4 ,,,e3/4 ,,c/4 | "
-314;f# moll;295v;La Nonpareille. Courante de M. Gallot;Jacques Gallot;;;Conc_229;3;"b/ ,d d | [bVe1] {,a}3/2 ,e/ | [,ea,e1] ([,'ccd3/2] ,a/) | \
+315;f# moll;295v;La Nonpareille. Courante de M. Gallot;Jacques Gallot;;;Conc_229;3;"b/ ,d d | [bVe1] {,a}3/2 ,e/ | [,ea,e1] ([,'ccd3/2] ,a/) | \
 [,,ee1] ,,,,,a/ ,,,,c ,,e ,,e | [,,cd{a}1] [,,,'b/] ,,,,d/4 \
 ,,,b ,,,,d/ ,,c | [,,a{,a}1] [,,a,ee3/2] ,,a/ | "
-315;f# moll;296v;L' Eternelle. Courante du même;Jacques Gallot;;;Conc_227;3;"e/ ,g e | ,e1 {,a}/ ,e ,,h ,e | [,,fg1] ,,,,e/ ,,f [,,f,g] \
+316;f# moll;296v;L' Eternelle. Courante du même;Jacques Gallot;;;Conc_227;3;"e/ ,g e | ,e1 {,a}/ ,e ,,h ,e | [,,fg1] ,,,,e/ ,,f [,,f,g] \
 ,,h | [,,'ee1] ,,,,,a/ ,a [,,e,e] ,a | [,,'c{a}/] ,,,,e \
 ([,,,,'d] ,,e [,,'c] ,,e) | "
-316;f# moll;297v;Le Depart Courante de Mons: Mouton;Charles Mouton;;;Conc_216;3;",e1 | [,eee{,a}3/2] ,,,,c/ [,,,,'a] ,,,,,e | [,a,,,'c1] \
+317;f# moll;297v;Le Depart Courante de Mons: Mouton;Charles Mouton;;;Conc_216;3;",e1 | [,eee{,a}3/2] ,,,,c/ [,,,,'a] ,,,,,e | [,a,,,'c1] \
 [,'cc{a}3/2] ,a/ | [,,e,,a1] ,,,,c ,,,e | [,,c,e{a}1] \
 [,,,,'d3/2] ,,e/ | [,a{,a}1] [,,'c] ,,e/ ,,,d | "
-317;f# moll;298v;Sarabande de Mons: Mouton;Charles Mouton;;;Conc_1213;3;"[,,eee{,a}1] [,,eee/] ,,e [,,eee1] | [,,edd{4}1] [,,edd/] ,,e \
+318;f# moll;298v;Sarabande de Mons: Mouton;Charles Mouton;;;Conc_1213;3;"[,,eee{,a}1] [,,eee/] ,,e [,,eee1] | [,,edd{4}1] [,,edd/] ,,e \
 [,,,,,'c1] | {c}/ ,,e ,,,,,c ,a {,,a} ,,e | [,,'c,c3/2] \
 ,,,e/4 ,,c [,,,e,a1] | [,cee1] [,cee/] ,c [,ccd1] | "
-318;f# moll;299r;Gavotte de Mons: Mouton;Charles Mouton;;;Conc_221;C;"[,e{,a}1] d/ | Ve1 ,,,,e/ ,e [,ccd3/2] ,a/ | [,,ee1] ,,,,c/ \
+319;f# moll;299r;Gavotte de Mons: Mouton;Charles Mouton;;;Conc_221;C;"[,e{,a}1] d/ | Ve1 ,,,,e/ ,e [,ccd3/2] ,a/ | [,,ee1] ,,,,c/ \
 ,,e [,,'cd3/2] [,,,'d/] | [,,a,e1] ([,,'a/] ,,,d/4 ,,a) \
 [,,'a{,a}3/2] ,,,d/4 ,,a | ,,,d1 {4} :| "
-319;f# moll;299v;Sarabande de Mons: Gautier;Gaultier;;;Conc_1176;3;",,,,e/ ,,e ,e ,,,e ,,e1 | ,,,,,c/ ,,e ,a ,,a ,,,d1 | \
+320;f# moll;299v;Sarabande de Mons: Gautier;Gaultier;;;Conc_1176;3;",,,,e/ ,,e ,e ,,,e ,,e1 | ,,,,,c/ ,,e ,a ,,a ,,,d1 | \
 ,,,,,a/ ,,,,c ,,e ,,,d ,,a1 | [,,c{,,a}/] ,e [,'c] ,a \
 [,,e,,a1] | "
-320;f# moll;300r;Gavotte;Anonym;;;;C;"[,,ee{,a}1] [,,eee] [,ee{,,,a}] ,,,,,a/ ,,,,,c | [,'d,d{4}3/2] \
+321;f# moll;300r;Gavotte;Anonym;;;;C;"[,,ee{,a}1] [,,eee] [,ee{,,,a}] ,,,,,a/ ,,,,,c | [,'d,d{4}3/2] \
 ,e/ [,ee{,a}1] [,eee] | [,ce,,a1] [,cee] [ee{,a}] {4}/ \
 {,,,a} | [,,'c{,,a}3/2] [,,,'d/] ,,a1 ,,,,,a :| "
-321;f# moll;300v;Allemande;Anonym;;;Conc_4014;C;",e/ | [,eeee{,a}/] (,,,,,f/4 [,,,,,#e]) ,,,,,f/ ,,,,e \
+322;f# moll;300v;Allemande;Anonym;;;Conc_4014;C;",e/ | [,eeee{,a}/] (,,,,,f/4 [,,,,,#e]) ,,,,,f/ ,,,,e \
 [,,'c{a}/4] ,,,e [,,,'d] ,,,,e ,,,,,e ,,,,e ,,,d ,,,,d | \
 V,,,,e1 {,a}/4 i 'g ,h [gh{a}3/4] ,,k/4 [,,ig{4}] ,g i g | "
-322;f# moll;301v;Courante;Anonym;;;Conc_4015;3;",e/ ,e ,,,e ,e ,,,d ,d | ,,,,e/ ,e {,a}3/2 ,,e/ | [,,cde1] \
+323;f# moll;301v;Courante;Anonym;;;Conc_4015;3;",e/ ,e ,,,e ,e ,,,d ,d | ,,,,e/ ,e {,a}3/2 ,,e/ | [,,cde1] \
 ,,,,,e/ ,,a ,,c ,,,d | [,,ae{,a}1] [,,,'d,c3/2] ,,,,e/ | \
 ,,,,,e/ ,,,,d {4} ,,a ,,c ,,e | "
-323;f# moll;302v;Gique;Anonym;;;Conc_4016;3;",,e2 [,,'c1] | ,,e2 ,,,e1 | ,,,d1 ,,c ,,,,e | [,,#e,d2] \
+324;f# moll;302v;Gique;Anonym;;;Conc_4016;3;",,e2 [,,'c1] | ,,e2 ,,,e1 | ,,,d1 ,,c ,,,,e | [,,#e,d2] \
 , [,,'c1] | [,,a,e3/2] ,,c/ [,,e{,,a}1] | [,e{,,,a}3/2] {4}/ \
 ,c1 | [,a,,,c3/2] ,,,d/ ,a1 | [,,e,,a2] ,e1 | "
-324;f# moll;303v;Le Dialogue des Graces sur Iris par Monsieur Mouton;Charles Mouton;;;Conc_1912;C;"[,eee{,a}1] ,,,,e3/4 ,,,,g/4 ,,,,h/4 ,e ,,,f ,,e [,,fg3/4] \
+325;f# moll;303v;Le Dialogue des Graces sur Iris par Monsieur Mouton;Charles Mouton;;;Conc_1912;C;"[,eee{,a}1] ,,,,e3/4 ,,,,g/4 ,,,,h/4 ,e ,,,f ,,e [,,fg3/4] \
 Vd/4 | [,'d{4}3/4] ,e/4 d/4 (,b ,c) ,,,,,e ,,,d/4 ,,,e \
 ,,,,c/4 ,,,,e ,e/4 ,c ,,e/ | "
-325;f# moll;304v;Canarie de Mons: Mouton;Charles Mouton;;;Conc_222;3;"{,a}1 | [,eeee3/2] ,g/ e1 | [,#d{4}3/2] ,,c/ ,,e1 | \
+326;f# moll;304v;Canarie de Mons: Mouton;Charles Mouton;;;Conc_222;3;"{,a}1 | [,eeee3/2] ,g/ e1 | [,#d{4}3/2] ,,c/ ,,e1 | \
 [,ea2] [d,,,d1] | V[e,,,e3/2] g/ [e{,a}1] | {,,a}1 ,g ,,f | \
 [,,'e1] e [g,,g] | [i,,,h3/2] ,,g/ ,,h1 | "
-326;f# moll;305v;Double sur le Depart de Mons: Mouton;Charles Mouton;;;Conc_216;3;",e1 | [,e{,a}/] ,d ,e ,c [,'a] ,,e | ,a/ ,,,e [,,,'d] ,a ,c \
+327;f# moll;305v;Double sur le Depart de Mons: Mouton;Charles Mouton;;;Conc_216;3;",e1 | [,e{,a}/] ,d ,e ,c [,'a] ,,e | ,a/ ,,,e [,,,'d] ,a ,c \
 ,,c | [,,ee/] ,,c ,,e ,,,e [,,,'d] ,,,,e | ,,,,c/ ,,e [,,'c] \
 ,,,,d ,,,,e ,,,d | "
-327;f# moll;306v;Courante de Mons: Emons;Emond;;;Conc_3721;3;",e/ ,d | ,e1 ,,e [,,'c/] ,,,d | [,,ae1] ,,,,e [,,,'d,e/] \
+328;f# moll;306v;Courante de Mons: Emons;Emond;;;Conc_3721;3;",e/ ,d | ,e1 ,,e [,,'c/] ,,,d | [,,ae1] ,,,,e [,,,'d,e/] \
 ,,,,d | V,,,,e1 {,a}3/2 ,,,,d/ | ,,,,e/ ,,,d ,,,e ,,,,c ,,,,a \
 ,,c | [,,e,,e1] [,'a/] ,,e/4 ,a ,c/ ,,a | "
-328;f# moll;307r;Gique du même;Jacques Gallot / Emond;;;Conc_2195;C;",,e1 ,,,e3/4 ,,e/4 [,,cd/] ,,,,e [,,e,d] ,,c | \
+329;f# moll;307r;Gique du même;Jacques Gallot / Emond;;;Conc_2195;C;",,e1 ,,,e3/4 ,,e/4 [,,cd/] ,,,,e [,,e,d] ,,c | \
 [,,a,e/] ,,a ,,,,,e [,,,d,c] ,,,,,a ,,,,e [,,,d,c] [,,,,ea] | \
 [,,,,d{a}1] {4}/ ,,,,d [,,,,e{,a}] ,,,d ,,,e ,,c | "
-329;f# moll;307v;Le Boeuf. Courante de M. Gautier;Emond;;;Conc_1168;3;",e1 | [,eee{,a}1] ,,,,e2 | ,g/ e/4 ,g e/ ,,e [,g,g1] | \
+330;f# moll;307v;Le Boeuf. Courante de M. Gautier;Emond;;;Conc_1168;3;",e1 | [,eee{,a}1] ,,,,e2 | ,g/ e/4 ,g e/ ,,e [,g,g1] | \
 [,e,e3/2] [,d,d/] [,e,,e1] | {,a}2 i/ ,,,,g | [i,,,Vh3/2] \
 i/ ['g,,g1] | [e,e1] ,,,,e ,e/ ,,,,g | "
-330;f# moll;308v;Le Bucentaure;Ennemond Gaultier;;;Conc_32;C;"[,,e,d{c}1] [,,,,ea] {a}/ ,,,d ,,,,e/4 ,,c ,,,,d/ | \
+331;f# moll;308v;Le Bucentaure;Ennemond Gaultier;;;Conc_32;C;"[,,e,d{c}1] [,,,,ea] {a}/ ,,,d ,,,,e/4 ,,c ,,,,d/ | \
 [,,a{,a}/] ,,,,e ,,c ,,a {4}/4 ,,,,,e ,,,,e/ ,,,d ,,,,d | \
 ,,,,e/ {,a} b/4 ,d b/ {4}/ [e,e] [d,c] [,e,e] | "
-331;f# moll;309v;Le Mouton Canarie de M. Mouton;Charles Mouton;;;Conc_222;3;"{,a}1 | [,eeee3/2] ,g/ e1 | [,'d{4}3/2] ,,c/ ,,e1 | \
+332;f# moll;309v;Le Mouton Canarie de M. Mouton;Charles Mouton;;;Conc_222;3;"{,a}1 | [,eeee3/2] ,g/ e1 | [,'d{4}3/2] ,,c/ ,,e1 | \
 [,'ea2] [d,,,d1] | V[e,,,e3/2] g/ [e{,a}1] | [,g{,,a}2] \
 ,,f1 | [,,'e3/2] e/ [g,,g1] | [i,,,h3/2] ,,g/ ,,h1 | "
-332;f# moll;310v;Tombeau de Mons: Gautier;Denis Gaultier;;;Conc_34;C;"['ea{,a}3/2] a/4 ,e a/ {,a} [,,'c] ,,,d | [,,ee/] {,a}1 \
+333;f# moll;310v;Tombeau de Mons: Gautier;Denis Gaultier;;;Conc_34;C;"['ea{,a}3/2] a/4 ,e a/ {,a} [,,'c] ,,,d | [,,ee/] {,a}1 \
 ,,,,e/4 ,,,,c ,,,,a ,,,,,e ,,,d/ ,,a {,a} | [,,aee1] \
 ,a/ {,a} ,,,g ,,,,,e ,,,,e ,,,f | "
-333;f# moll;311v;Allemande de Monsieur Gautier;Gaultier;;;;C;",,e/ ,c [,,'c/4] ,,e ,a/ ,,e ,,,e [,,'c] ,,,d | \
+334;f# moll;311v;Allemande de Monsieur Gautier;Gaultier;;;;C;",,e/ ,c [,,'c/4] ,,e ,a/ ,,e ,,,e [,,'c] ,,,d | \
 [,,ae1] ,,,,e ,,,d/ ,,,,,e ,,,,,c ,,,,,e | [,,,,ea1] {,a} \
 ,e/ ,e [,'cc{a}] ,a | "
-334;f# moll;312v;Courante de Monsieur Gautier;Gaultier;;;;3;"e/ d ,e | [,de3/2] ,,c/ ,,,e ,e | [d,,d1] ,,,,e [d,,,d] | \
+335;f# moll;312v;Courante de Monsieur Gautier;Gaultier;;;;3;"e/ d ,e | [,de3/2] ,,c/ ,,,e ,e | [d,,d1] ,,,,e [d,,,d] | \
 [e,,,e3/2] [,,,,'c/] ,,,,a ,,c | ,,,,,e/ ,,,d ,,a ,c \
 [,a,,ec] ,,e | "
-335;f# moll;313v;Gique;Anonym;;;;3;",d/ | ,e3/4 ,,e/4 ,,,e3/4 ,,,,e/4 [,,'e3/4] ,,g/4 | \
+336;f# moll;313v;Gique;Anonym;;;;3;",d/ | ,e3/4 ,,e/4 ,,,e3/4 ,,,,e/4 [,,'e3/4] ,,g/4 | \
 [,,eg/] ,,,,e ,,,,d/4 ,,,d ,,e/ ,,c/ ,,,e/4 ,,c | \
 ,,,e/ ,,,,e ,,,,,e3/4 ,,,,,f/4 ,,,,c/4 ,,,d ,,c/ | "
-336;f# moll;314v;Allemande de Mons: Gautier;Gaultier;;;;C;",e1 | [,eee{,a}1] 'd3/4 ,d/4 e/ ,,,,e/4 ,,,d ,,a/ [,,ad/4] \
+337;f# moll;314v;Allemande de Mons: Gautier;Gaultier;;;;C;",e1 | [,eee{,a}1] 'd3/4 ,d/4 e/ ,,,,e/4 ,,,d ,,a/ [,,ad/4] \
 ,,,,e | ,,,,d/ ,e/4 d ,,e/ ,,c {a}/4 ,,a ,,c ,,e ,,,,e/ \
 [,,,'d] | "
-337;f# moll;315v;Allemande de Mons: Gautier;Gaultier;;;Conc_4017;C;",c/4 ,a ,,e ,a | ,,e3/4 {,a}/4 ,,e/ {,,a} [,ea{,,,a}3/4] \
+338;f# moll;315v;Allemande de Mons: Gautier;Gaultier;;;Conc_4017;C;",c/4 ,a ,,e ,a | ,,e3/4 {,a}/4 ,,e/ {,,a} [,ea{,,,a}3/4] \
 ,,,,,e/4 ,,,,,c/ d | [,d{4}/] ,,e ,,c ,,,d/4 ,,a ,,,,e/ \
 ,,,d/4 ,,a [,,,'d,c/] ,,,,e | "
-338;f# moll;316v;Courante du même;Gaultier;;;Conc_4018;3;",,e/ ,,c ,,e | [,,,ee1] {,a} [,,'c3/4] ,,a/4 | ,,,d/ ,,,,d \
+339;f# moll;316v;Courante du même;Gaultier;;;Conc_4018;3;",,e/ ,,c ,,e | [,,,ee1] {,a} [,,'c3/4] ,,a/4 | ,,,d/ ,,,,d \
 ,,,,e ,,,d ,,a ,,c | ,,e1 ,,,,,e [,,,,,'c3/4] ,,,,,e/4 | \
 ,,,,,a/ ,,e ,,e ,b V,c {a} | [,eee{,a}3] | "
-339;f# moll;317v;Sarabande en Courante du même;Denis Gaultier;;;Conc_35;3;",e1 ,,,e ,,,d/ ,d | [,e,,e1] {,a}/ ,,e [,,'c1] | \
+340;f# moll;317v;Sarabande en Courante du même;Denis Gaultier;;;Conc_35;3;",e1 ,,,e ,,,d/ ,d | [,e,,e1] {,a}/ ,,e [,,'c1] | \
 [,,a,,e1] ,,c [,,,d{4}] | [,,ae{,a}1] ,,,,e [,,cd] | \
 [,,ee,a1] [,,'cd{,,a}3/2] ,,,e/4 ,,c | ,,,e1 ,,,,,a3/2 ,c/ | "
-340;f# moll;318v;Gique du même;Denis Gaultier;;;Conc_1177;C;"i3/2 g/ e ,e d e | [g,f/] ,e ,,,g ,g [e,e] ,c d ,,c | \
+341;f# moll;318v;Gique du même;Denis Gaultier;;;Conc_1177;C;"i3/2 g/ e ,e d e | [g,f/] ,e ,,,g ,g [e,e] ,c d ,,c | \
 [,ea1] [d,c/] ,,a [g,,d] ,e d ,d | "
-341;f# moll;319v;Courante du même;Gaultier;;;Conc_22;3;",,e/ ,,,d ,,c | [,,aVe1] {,a}/ ,,e ,,,e ,e | [,ecd1] [,'c3/2] \
+342;f# moll;319v;Courante du même;Gaultier;;;Conc_22;3;",,e/ ,,,d ,,c | [,,aVe1] {,a}/ ,,e ,,,e ,e | [,ecd1] [,'c3/2] \
 ,a/ | [,,ee1] ,a [,c,d] | [,,ee1] ,e [,,fg/] ,g | [e,e,e1] \
 {,a} d/ ,,c | "
-342;f# moll;320v;Sarabande du même;François Du Fault;;;Conc_1169;3;"[,,aee{,a}1] ,,a/ ,,a {4}1 | [,,,'d,e3/2] ,c/ ,,,,,c1 | \
+343;f# moll;320v;Sarabande du même;François Du Fault;;;Conc_1169;3;"[,,aee{,a}1] ,,a/ ,,a {4}1 | [,,,'d,e3/2] ,c/ ,,,,,c1 | \
 [,a,,e1] ,,,d [,,ee,a] | [,,'cd{,,a}3/2] ,,,e/4 ,,c ,,,e1 | \
 ,,e3/2 ,,,e/ [,,cd1] | [,,ee1] ,,,,e ,,g | "
-343;A dur;321v;Les larmes de Mons: Gautier;Gaultier;2.p La Pleureuse;;Conc_31;3;",,c3/2 ,,e/ [,'a] ,,e/4 ,a | ,c/ ,,e [,'ac3/2] ,,,d/ | \
+344;A dur;321v;Les larmes de Mons: Gautier;Gaultier;2.p La Pleureuse;;Conc_31;3;",,c3/2 ,,e/ [,'a] ,,e/4 ,a | ,c/ ,,e [,'ac3/2] ,,,d/ | \
 [,,ee1] ,,,,,a/ ,,,g ,,h {a} | [,e{,a}1] [,'g/] e ,g/4 e ,,g/ | "

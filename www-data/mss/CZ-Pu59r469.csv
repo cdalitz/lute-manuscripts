@@ -1,191 +1,528 @@
 PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNotation
-;;;Listing and concordances from Christian Meyer: Sources Manuscrites en Tablature, Vol III/2;;;;;;;
-1;;7r;Praeambulum;;;OT;;;;germantab
-2;;7v;Praeambulum;;;OT;ConcR3258;;;germantab
-3;;8r;Mumrayskey Tanecz;;;OT;ConcR3259;;;germantab
-4;;8v;Introi[tus];;;OT;ConcR3260;;;germantab
-5;;9r;Intrada;;;OT;ConcR3261;;;germantab
-6a_1;;9v;Tanecz Studiosorum;;;OT;ConcR951;;;germantab
-6b_1;;9v;[Proportio];;;OT;;;;germantab
-6a_2;;10r;[Tanecz Studiosorum];;one note higher;OT;ConcR951;;;germantab
-6b_2;;10r;[Proportio];;;OT;;;;germantab
-7;;10v;Galliarda;;La Caracossa;OT;ConcR202;;;germantab
-8;;11r;[Galliarda;;idem - one note higher;OT;;;;germantab
-9a_1;;11v;Gyney Tanecz tyz studiosorum;;;OT;ConcR951;;;germantab
-9b_1;;11v;[Proportio];;;OT;;;;germantab
-9a_3;;12r;[Gyney Tanecz tyz studiosorum];;idem - one note higher;OT;ConcR951;;;germantab
-9b_2;;12r;[Proportio];;;OT;;;;germantab
-10;;12v;Galliarda;;;OT;ConcR3262;;;germantab
-11;;13r;sans titre;;idem - one note higher;OT;ConcR3263;;;germantab
-12a_1;;13v;Tanecz welmi Pekney;;;OT;ConcR3265;;;germantab
-12b_1;;13v;[Proportio];;;OT;ConcR3266;;;germantab
-12a_2;;14r;[Tanecz welmi Pekney];;idem - one note higher;OT;ConcR3267;;;germantab
-12b_2;;14r;[Proportio];;;OT;ConcR3268;;;germantab
-3_1;;14v;Chipassa;;;OT;ConcR178;;;germantab
-3_2;;15r;[Chipassa];;idem - one note lower;OT;ConcR3269;;;germantab
-4a_1;;15v;Tanecz;;;OT;ConcR3270;;;germantab
-4b_1;;15v;[Proportio];;;OT;ConcR3271;;;germantab
-4a_2;;16r;[Tanecz];;idem - one note lower;OT;ConcR3272;;;germantab
-4b_2;;16r;[Proportio];;;OT;ConcR3273;;;germantab
-5_1;;16v;Galliarda pekna a kratka;;;OT;ConcR3274;;;germantab
-5_2;;17r;[Galliarda pekna a kratka];;idem - one note lower;OT;ConcR3275;;;germantab
-6a_1;;17v;Tanecz;;;OT;ConcR3276;;;germantab
-6b_1;;17v;[Proportio];;;OT;ConcR3277;;;germantab
-6a_2;;18r;[Tanecz];;idem - one note lower;OT;ConcR3278;;;germantab
-6b_2;;18r;[Proportio];;;OT;ConcR3279;;;germantab
-7_1;;18v;Gal[liarda];;;OT;ConcR3280;;;germantab
-7_2;;19r;[Galliarda];;idem - one note lower;OT;ConcR3281;;;germantab
-8a_1;;19v;Tanecz polskey;;;OT;ConcR3282;;;germantab
-8b;;19v;[Proportio];;;OT;ConcR3285;;;germantab
-8a_2;;20r;[Tanecz polskey];;idem - one note higher;OT;ConcR3284;;;germantab
-9_1;;20v;Gal[liarda] wesela, Mir liebt ihm grönen Mayen;;;OT;ConcR3286;;;germantab
-9_2;;21r;Mir liebt ihm grönen Mayen;;idem - one note higher;OT;ConcR3287;;;germantab
-10;;21v;Ciprian Gal[liarda];;;OT;ConcR3288;;;germantab
-11;;22r;Gina Gallyarda;;;OT;ConcR3290;;;germantab
-12a;;22v;Tanecz Pekney;;;OT;ConcR3291;;;germantab
-12b;;22v;[Proportio];;;OT;ConcR3292;;;germantab
-13a;;23r;Chorea;;;OT;ConcR2306;;;germantab
-13b;;23r;[Proportio];;;OT;ConcR3295;;;germantab
-14a;;23v;Tanecz;;;OT;ConcR3296;;;germantab
-14b;;23v;[Proportio];;;OT;ConcR3297;;;germantab
-15a;;24r;Tanecz;;;OT;ConcR3298;;;germantab
-15b;;24r;[Proportio];;;OT;ConcR3299;;;germantab
-16a;;24v;Tanecz;;;OT;ConcR3300;;;germantab
-16b;;24v;[Proportio];;;OT;ConcR3301;;;germantab
-17a;;25r;Tanecz;;;OT;ConcR3302;;;germantab
-17b;;25r;[Proportio];;;OT;ConcR3303;;;germantab
-18;;25v;Galliarda elegans;;;OT;ConcR3304;;;germantab
-19a;;26r;Tanecz Spacz pecze[ny];;;OT;ConcR3305;;;germantab
-19b;;26r;[Proportio];;;OT;ConcR3306;;;germantab
-20a;;26v;Tanecz welmy pekney;;cf. ConcR3307;OT;;;;germantab
-20b;;27r;Zhuru;;cf. ConcR3308;OT;;;;germantab
-21a;;27v;Gyney tez Pekney;;;OT;ConcR3291;;;germantab
-21b;;27v;Zhuru;;;OT;ConcR3292;;;germantab
-22a;;28v;Gyney;;;OT;ConcR3309;;;germantab
-22b;;29r;Zhuru;;;OT;ConcR3310;;;germantab
-23a;;29v;Polskey Tanecz;;;OT;ConcR3358;;;germantab
-23b;;30r;Zhuru;;;OT;ConcR3359;;;germantab
-24a;;30v;Tanczek welmy pekney;;;OT;;;;germantab
-24b;;30v;Zhuru;;;OT;;;;germantab
-25;;30v;Kdy by bylo co ge komu milo potom;;;OT;;;;germantab
-26;;31r;Vitam queae faciuntt;;;OT;;;;germantab
-27a;;31v;Tanecz Maximiliani;;;OT;ConcR3311;;;germantab
-27b;;31v;Zhuru;;;OT;ConcR3312;;;germantab
-28;;32r;Cantilena in forma choreae;;;OT;ConcR3313;;;germantab
-29;;32r;Praeambulum 1.;;;OT;ConcR3314;;;germantab
-30;;32r;Praeambulum 2.;;;OT;;;;germantab
-31;;32v;III. Praeambulum;;;OT;;;;germantab
-32;;32v;Praeambulu[m] IV;;;OT;ConcR3314;;;germantab
-33;;32v;Venus du und dein Kind - Krasny byl Absolon;;;OT;ConcR611;;;germantab
-34;;33r;Wolauf gutt gesellen von hinenn / Meilandt;;;OT;ConcR2528;;;germantab
-35;;33r;Von nöten ist das ich itzt trag gedult / Jacob regnardt;;;OT;ConcR3315;;;germantab
-36a;;33v;Tanecz;;;OT;ConcR3316;;;germantab
-36b;;33v;Zhuru;;;OT;ConcR3317;;;germantab
-37;;34r;Cypryanska Galliarda - Vide fol. 28;;;OT;ConcR2279;;;germantab
-38;;34v;Christe summe optifex;;;OT;ConcR3318;;;germantab
-39;;34v;Gal[liarda];;;OT;ConcR3319;;;germantab
-40a;;35r;Gal[liarda];;;OT;ConcR3320;;;germantab
-40b;;35r;Vel;;;OT;ConcR3321;;;germantab
-41;;35r;Chorea NB;;;OT;ConcR3322;;;germantab
-42a;;35v;Zu freüden feines Meigdelein hab ich mir Außerwelt. Tanecz;;;OT;ConcR3323;;;germantab
-42b;;35v;[Proportio];;;OT;ConcR3324;;;germantab
-43;;36r;Gal[liarda];;La Gianetta Padovana;OT;ConcR3327;;;germantab
-44;;36v;sans titre;;;OT;ConcR3328;;;germantab
-45;;36v;Gal[liarda] NB;;;OT;ConcR3329;;;germantab
-46a;;37r;Chorea repondns Choreae fol. 30 - Sequitur proportio;;;OT;ConcR3293;;;germantab
-46b;;37v;[Proportio];;;OT;ConcR3294;;;germantab
-47;;37v;Alia Chorea. Cziziczku Ptaczku;;;OT;ConcR3330;;;germantab
-48a;;38r;Chorea;;;OT;ConcR3307;;;germantab
-48b;;38r;[Proportio];;;OT;ConcR3308;;;germantab
-49a;;38v;Chorea respondens Superiori choreae;;;OT;ConcR3307;;;germantab
-49b;;38v;[Proportio];;;OT;ConcR3308;;;germantab
-50a;;39r;Chorea similis choreis f. 24 et 25;;;OT;ConcR3283;;;germantab
-50b;;39r;[Proportio];;;OT;;;;germantab
-51;;39r;Chorea - Vide supra fol:;;;OT;ConcR3322;;;germantab
-52;;39v;Alia Chorea;;;OT;ConcR3332;;;germantab
-53;;39v;sans titre;;;OT;ConcR3333;;;germantab
-54;;40r;Parvulus nobis nascitur;;;OT;;;;germantab
-55;;40r;Puer natus in Bethleem;;;OT;ConcR1504;;;germantab
-56;;40v;Pekney kausek;;;OT;ConcR3334;;;germantab
-57;;40v;Tanecz Wratislawsky - Vide Supra folio 13.;;;OT;ConcR3264;;;germantab
-58;;40v;Polskey Tanecz;;;OT;ConcR3335;;;germantab
-59;;41r;Galliarda Britannica NB;;;OT;ConcR3336;;;germantab
-60;;41v;Galliarda (crossed out) / Intrada;;;OT;;;;germantab
-61;;41v;Tanecz;;;OT;;;;germantab
-62;;42r;Polskey Tanecz;;;OT;ConcR3331;;;germantab
-63;;42r;sans titre;;;OT;;;;germantab
-64;;42v;Er fetzl;;Canario;OT;;;;germantab
-65a;;42v;sans titre;;;OT;ConcR3337;;;germantab
-65b;;43r;[Proportio];;;OT;;;;germantab
-66;;43v;sans titre;;;OT;;;;germantab
-67a;;44r;Zu freuden feines Megdelein hab ich mir außerwelt - Aliter fol. 52;;;OT;ConcR3325;;;germantab
-67b;;44r;[Proportio];;;OT;ConcR3326;;;germantab
-68;;44v;Chorea;;Ich bin zu lang gewesen;OT;ConcR3338;;;germantab
-69;;44v;Elselein liebes Elselein mein;;;OT;ConcR3341;;;germantab
-70;;45r;Galliarda;;;OT;;;;germantab
-71;;45v;Surrexit;;;OT;;;;germantab
-72;;45v;Nu lob mein Seel den Herren;;;OT;ConcR1511;;;germantab
-73;;46v;Carmina Horatij;;Iam satis terris;OT;;;;germantab
-74a;;46v;Chorea;;Was wollen wir auf den Abend tun;OT;ConcR980;;;germantab
-74b;;46v;Zhuru;;;OT;;;;germantab
-75;;46v;Gaillarda;;ff. 47r-113v vacuo;OT;ConcR3342;;;germantab
-76a;;114r;Passamezo;;;OT;;;;germantab
-76b;;114v;Saltarella;;;OT;ConcR3343;;;germantab
-76c;;114v;Repress;;;OT;;;;germantab
-77a;;115r;Passamezo NB - Sequitur Saltarella;;;OT;;;;germantab
-77b;;115v;Saltarella;;;OT;;;;germantab
-77c;;115v;Repress;;;OT;;;;germantab
-78a;;116r;Passamezo - Sequitur Saltarello Verte;;;OT;ConcR3344;;;germantab
-78b;;116v;Saltarella;;;OT;ConcR3345;;;germantab
-78c;;116v;Repress;;;OT;ConcR3346;;;germantab
-79a;;117r;Passamezo - Saltarello Sequitur;;;OT;ConcR3347;;;germantab
-79b;;117v;Saltarella;;;OT;ConcR3348;;;germantab
-79c;;117v;Repress;;;OT;ConcR3349;;;germantab
-80a;;117v;Passamezo - Sequitur Saltarella;;;OT;;;;germantab
-80b;;118v;Saltarella;;;OT;;;;germantab
-81a;;118v;Passemezo - Sequitur Saltarella;;cf. CZ-Pu59r469 / 128v (1);OT;ConcR3350;;;germantab
-81b;;119v;Saltarella;;cf. CZ-Pu59r469 / 128r (2);OT;;;;germantab
-82a;;120r;Saltarello (crossed out) Passamezo - Sequitur Saltarella;;;OT;ConcR3351;;;germantab
-82b;;120v;Saltarella;;;OT;;;;germantab
-82c;;120v;Repress;;;OT;ConcR3352;;;germantab
-83a;;121r;Passemezo;;;OT;ConcR3353;;;germantab
-83b;;121v;Saltarello;;;OT;ConcR3354;;;germantab
-83c;;121v;Repress;;;OT;ConcR3355;;;germantab
-84;;122r;Senot e giorno Zu dir herr Christe;;;OT;ConcR3356;;;germantab
-85;;122v;Herzlich lieb hab ich dich o Herr / Franciscus Scheuffer;;;OT;;;;germantab
-86;;122v;Herzlich lieb hab ich dich o Herr;;;OT;;;;germantab
-87;;123r;Ich bin so lang gewesen;;;OT;ConR3338;;;germantab
-88;;123v;Allein nach dir Herr Jesu Christe Si[mpliciter absq[ue] coleratam;;;OT;ConcR195;;;germantab
-89;;124r;Wen ich den gantz tag;;;OT;ConcR2187;;;germantab
-90;;124r;Nach laß ich mich nich;;;OT;ConcR3357;;;germantab
-91;;124v;Passamezo;;Title 'Saltarello' on f.125r;OT;;;;germantab
-92;;125v;Doulce memoire;;;OT;ConcR856;;;germantab
-93;;126v;Tutto logiorno;;;OT;ConcR2187;;;germantab
-94a;;127r;Passamezo Venetiano;;cf. CZ-Pu59r469 / 136v;OT;;;;germantab
-94b;;127v;Saltarella;;cf. CZ-Pu59r469 / 137v (1);OT;;;;germantab
-94c;;127v;Repress;;cf. CZ-Pu59r469 / 137v (2);OT;;;;germantab
-95a;;128r;Passamezo;;;OT;;;;germantab
-95b;;128r;Saltarella;;cf. CZ-Pu59r469 / 119v;OT;;;;germantab
-96a;;128v;Passamezo;;cf. CZ-Pu59r469 / 118v (2);OT;;;;germantab
-96b;;128v;Saltarella - Sequitur Repress;;;OT;;;;germantab
-96c;;129r;Repress;;;OT;;;;germantab
-97a;;129v;Passamezo;;;OT;;;;germantab
-97b;;130v;Saltarella;;;OT;;;;germantab
-97c;;131r;Repress;;;OT;;;;germantab
-98;;131r;Musica, Klang Lieblicher Gsang na dlauhey takt;;;OT;;;;germantab
-99a;;131v;Passamezo;;;OT;;;;germantab
-99b;;132v;Saltarella;;;OT;;;;germantab
-99c;;133r;Repress welmy Pekney;;;OT;;;;germantab
-100a;;133v;Pasa[amezo] Malcontent;;;OT;ConcR3362;;;germantab
-100b;;134r;Saltarella - Repress;;;OT;;;;germantab
-100c;;134v;Repress;;;OT;;;;germantab
-101;;135r;Lobet den Herren alle Heiden;;Pour un plaisir;OT;ConcR858;;;germantab
-102;;135v;Ym Meyen Scandelli;;;OT;;;;germantab
-103a;;136v;Passamezo;;cf. CZ-Pu59r469 / 127r;OT;;;;germantab
-103b;;137v;Saltarello;;cf. CZ-Pu59r469 / 127v (1);OT;;;;germantab
-103c;;137v;Repress;;cf. CZ-Pu59r469 / 127v (2);OT;;;;germantab
-104;;138v;Die schöne Sommer Zeutt;;Almande Amour;OT;ConcR764;;;germantab
-105;;138v;Saltarello;;;OT;;;;germantab
-106;;139v;Cantate Polonicum;;;OT;;;;germantab
-107;;140v;Paduana elegans;;;OT;;;;germantab
-108;;141r;Susanna se [videns];;;OT;ConcR860;;;germantab
+;;;Listing and concordances from Christian Meyer: Sources Manuscrites en Tablature, Vol III/2 /<br> Incipit prepared from Sarge Gerbode's website;;;;;;;
+1;;7r;Praeambulum;;;OT;;C;"[,,a,,c3/2] ,,c/ [,,d,,c/] ,,c ,,d ,a | \
+[,cd,a/] ,d ,c ,a [fcd,a1] [e,fc/] c | \
+[a,c,e/] c/4 e [fcd,a1] [effc] [ccde] |";germantab
+2;;7v;Praeambulum;;;OT;ConcR3258;C;"[cdda/] ,c/4 ,a ,,d ,,b ,,a ,,,c [cdda/] d [ffg,a1] | \
+[dabc1] [caa,c] [,abc,a/] a/4 ,d [a,bc,a/] ,d/4 a | \
+[caa,c/] d [caa,c] a";germantab
+3;;8r;Mumrayskey Tanecz;;;OT;ConcR3259;3;"[fdaa1] |: [fdaa2] [ddf,,d1] | [cdda2] [acd,a1] | \
+[cdda3/2] a/ [,da,c1] | [abb,d2] [cdda1] | \
+[ddf,,d1] ,,,f/ ,,g ,,f ,,d | [ddf,,d2] [ddf,,d1] | \
+[cdda3/2] d/ f1 |";germantab
+4;;8v;Introi[tus];;;OT;ConcR3260;3;"[,bdca3/2] ,d/ [abb,d1] | [bbdd2] [abb,d1] | \
+[,dda1] ,c [,dda] | [acd,a2] ,,,c1 | [bdca3/2] ,d/ [abb,d1] | \
+[bbdd2] [abb,d1] | [,dda3/2] ,c/ [,dda1] | [acd,a2] [bbd,,b1] |";germantab
+5;;9r;Intrada;;;OT;ConcR3261;3;"[,da,c3/2] a/ c1 | [dabc2] [caab1] | [aabc1] ,,d [aabc] | \
+[,aabc3] | [,da,c3/2] a/ c1 | [dabc2] [c,ab1] | \
+[aabc1] ,,d [aabc] | [,aabc2] [dab,,d1] [c,d,a2] [aab,,a1] :||:";germantab
+6a_1;;9v;Tanecz Studiosorum;;;OT;ConcR951;C;"[,dda/] ,c ,d a [bdda1] [bdda] | [abb,d/] ,a ,b ,d [abb,d1] [abb,d] | \
+[,dda/] a [bdda1] [abb,d] [,dda] | \
+[acd,a/] ,a ,c ,d [acd1],,,,a :||:";germantab
+6b_1;;9v;[Proportio];;;OT;;3;"[,dda/] ,c ,d a [bdda1] | [abb,d/] ,a ,b ,d [abb,d1] | \
+[bdda1] [abb,d] [,dda] | [acd,a/] ,a ,c ,d [acd,a1] :||:";germantab
+6a_2;;10r;[Tanecz Studiosorum];;one note higher;OT;ConcR951;C;"[aabc1] ,,,c/ c [dabc1] [dabc] | [cdda1] ,,d/ a [cdda1] [cdda] | \
+[aabc1] [dabc] [cdda] [aabc] | [caa,c1] ,,a/ a \
+[caa,c1] [caa,c] :||:";germantab
+6b_2;;10r;[Proportio];;;OT;;3;"[aabc1] ,,,c/ c [dabc1] | [cdda1] ,,d/ a [cdda1] | \
+[aabc1] [aabc] ,,,c | [caa,c1] ,,a/ a [caa,c1] :||: \
+[aabc1] ,,,c/ c [dabc] |";germantab
+7;;10v;Galliarda;;La Caracossa;OT;ConcR202;3;"[acd,a1] [acd] [acd,a] | [acd,a/] ,a ,c ,d [acd,a1] | \
+[,dda/] ,c ,d a b ,d | [abb,d/] ,a ,b ,d [abb,d1] |";germantab
+8;;11r;[Galliarda;;idem - one note higher;OT;;3;"[,ea,c1] [,ea] [,ea,c] | [,ea,c1] ,a/ ,c [,ea,c1] | \
+[aabc/] ,,a ,,b ,,d [aabc1] | [cdda1] ,,d/ a [cdda1] | \
+[dab,,d1] [dab] [dab,,d] |";germantab
+9a_1;;11v;Gyney Tanecz tyz studiosorum;;;OT;ConcR951;C;"[,dda1] a/ b d b a ,d | [acd,a1] ,,,c/ ,d [acd,a1] [bdda] | \
+[dabc1] [abb,d] [bdda] a/ ,d | \
+[acd,a1] ,,,c/ ,d [acd1] ,,,,a :||:";germantab
+9b_1;;11v;[Proportio];;;OT;;3;"[bdda/] a d b a ,d | [acd,a1] ,,,c [bdda] | \
+[dabc1] [abb,d] [bdda] | [acd,a1] ,,,c/ ,d [acd,a1] :||: \
+[bbd,,b1] ,,,d/ ,,e [bbd,,b1] |";germantab
+9a_3;;12r;[Gyney Tanecz tyz studiosorum];;idem - one note higher;OT;ConcR951;C;"[aabc/] ,,a ,,b ,,d ,a ,c ,d a | [caa,c/] a c d [caa1] ,,,,c | \
+[dab,,d1] [cdda] [aabc/] ,c ,d a |";germantab
+9b_2;;12r;[Proportio];;;OT;;3;"[aabc/] ,,d ,a ,c ,d a | [caa,c/] a c d [caa,c1] | \
+[dab,,d1] [cdda] [aabc] | [caa,c] [caa] ,,,,c :||:";germantab
+10;;12v;Galliarda;;;OT;ConcR3262;3;"[bbd,,b1] [bbd,,b] [bbd,,b] | [bde,b1] ,b/ ,d [bbd,,b1] | \
+,,b/ ,,d [abb,d1] ,d/ a | [bbd,,b1] ,,,d/ ,,e [bbd,,b1] :||: \
+[bbd,,b1] [bbd,,b/] ,,,,,d ,,,,a ,,,,c |";germantab
+11;;13r;[Galliarda];;idem - one note higher;OT;ConcR3263;3;"[dab,,d1] [dab] [dab,,d] | [abb,d/] ,a ,b ,d [abb,d1] | \
+[dab,,d1] [cdda/] d ,,d c | [dab,,d1] ,,,a [dab,,d] :||: \
+[dab,,d1] [dab] [dab,,d] |";germantab
+12a_1;;13v;Tanecz welmi Pekney;;;OT;ConcR3265;C;"[ddf,,d1] |: [ddf,,d1] ,,,f/ f [hd,f,d1] [fdd,f] | \
+[ddf,,d1] h [fdd,f] [fdd,f] | [cdda/] a [dabc1] [ddda] c | \
+[ddf,,d1] ,,,f/ ,,g [ddf,,d1] [ddf,,d] :|";germantab
+12b_1;;13v;[Proportio];;;OT;ConcR3266;3;"[ddf,,d/] f h1 [fdd,f] | [ddf,,d1] h [fdd,f] | \
+[cdda1] [dabc] [cdda] | [ddf,,d1] ,,,,f [ddf,,d] :| \
+[ddf,,d1] ,,,,f [abb,d] |: [abb,d1] ,,,c [,dba,d] |";germantab
+12a_2;;14r;[Tanecz welmi Pekney];;idem - one note higher;OT;ConcR3267;C;"[ffh,,f1] |: [ffh,,f1] ,,,h/ h [kf,h,f1] [hff,h] | \
+[ffh,,f1] k [hff,f] [hff,f] | [effc1] [f,de] [f,fc] e | \
+[ffh,,f1] ,,,h/ ,,i [ffh,,f1] [ffh,,f] :|";germantab
+12b_2;;14r;[Proportio];;;OT;ConcR3268;3;"[ffh,,f/] h k1 [hff,h] | [ffh,,f1] k [hff,h] | \
+[ffhh1] [fhi,f] [hff,h] | [ffh,,f1] ,,,h [ffh,,f] :| \
+[ffh,,f1] ,,,h [cdda] |: [cdda1] a/ c [acd,a1] |";germantab
+3_1;;14v;Chipassa;;;OT;ConcR178;3;"[aa,c1] |: [caa,c3/2] [caa/] ,,,,c1 | [caa,c1] [caa,c] [a,c,e] | \
+[caa,c/] a ,e a c e | [caa,c/] a c ,e a c |";germantab
+3_2;;15r;[Chipassa];;idem - one note lower;OT;ConcR3269;3;"[cd,a] |: [acd,a1] ,,,c/ c a ,d | [acd,a1] [acd,a] [,da,c] | \
+[acd,a1] ,,,c/ c a ,d | [acd,a/] ,d a ,c ,d a |";germantab
+4a_1;;15v;Tanecz;;;OT;ConcR3270;C;"[aac,,a1] ,,,c [aac,,a] [,ea,c] | [aac,,a1] ,e/ a [caa,c1] [caa,c] | \
+[ea,c,a1] ,,,c/ c [ea,c,a1] [fcd,a] | \
+[ea,c,a1] c/ a [caa,c1] [caa,c] :||:";germantab
+4b_1;;15v;[Proportio];;;OT;ConcR3271;3;"[aac,,a1] [aac,,a] [,ea,c] | [aac,,a1] ,e/ a [caa,c1] | \
+[ea,c,a1] [ea,c,a] [fcd,a] | [ea,c,a1] c/ a [caa,c1] :||: \
+[ea,c,a1] [ea,c,a] [fcd,a] | [ea,c,a1] c/ a [caa,c1] |";germantab
+4a_2;;16r;[Tanecz];;idem - one note lower;OT;ConcR3272;C;"[,dda1] ,a/ ,c [,dda1] [,cdca] | [,dda/] ,a ,c ,d [acd,a1] [acd,a] | \
+[cdda1] ,,d/ a [cdda1] [dab,,d] | \
+[cdda/] a ,d c [acd,a1] ,,,c :||:";germantab
+4b_2;;16r;[Proportio];;;OT;ConcR3273;3;"[,dda1] [,dda] [,cdca] | [,dda/] ,a ,c ,d [acd,a1] | \
+[cdda1] [cdda] [dab,,d] | [cdda1] a/ ,d [acd,a1] | \
+[fdaa1] [fdaa] [dab,,d] |";germantab
+5_1;;16v;Galliarda pekna a kratka;;;OT;ConcR3274;3;"[aac,,a1] [aac,,a] [c,d,,c] | [aac,,a1] ,,a/ ,,c [acd,a1] | \
+[aac,,a1] [aaa,c] ,e | [aac,,a1] [aac] ,,,,,a :||: \
+[cdda1] [cdda] [aabc] | [,ea,c/] ,c ,e a [cdda1] |";germantab
+5_2;;17r;[Galliarda pekna a kratka];;idem - one note lower;OT;ConcR3275;3;"[cdda1] [cdda] [dab,,d] | [cdda1] a/ c [acd,a1] | \
+[,da,c1] [,ddca] ,c | [,dda1] ,a/ ,c [,dda1] :||: \
+[abb,d/] c [abb,d1] [,dda] |";germantab
+6a_1;;17v;Tanecz;;;OT;ConcR3276;C;"[ea,c,a1] ,,,c/ c a c e c | [ea,c,a1] ,,,c/ c [ea,c1] ,,,,,a | \
+[ea,c1] [a,c,e] [cdda] [ea,c] | \
+[fcd,a1] c/ e [fcd,a1] :||:";germantab
+6b_1;;17v;[Proportio];;;OT;ConcR3277;3;"[ea,c,a1] ,,,c/ c a c | [ea,c,a1] ,,,c/ c [ea,c,a1] | \
+[a,cc1] [cdda] [ea,c] | [fcd,a1] c/ e [fcd,a1] :||: \
+[cdda1] ,,d/ a [cdda1] |";germantab
+6a_2;;18r;[Tanecz];;idem - one note lower;OT;ConcR3278;C;"[cdda3/2] d/ [cdda1] [cdda] | [cdda/] a ,d a [cdda1] [cdda] | \
+[cdda1] [,da,c] [abb,d] [cdda] | \
+[ddf,,d1] ,,,f/ ,,g [ddf1] ,,,,,d :||:";germantab
+6b_2;;18r;[Proportio];;;OT;ConcR3279;3;"[cdda3/2] d/ [cdda1] | [cdda/] a ,d a [cdda1] | \
+[,da,c1] [abb,d] [cdda] | [ddf,,d1] ,,,f [ddf,,d] :||: \
+[abb,d3/2] c/ [abb,d1] | [abb,d/] ,a ,b ,d [abb,d1] |";germantab
+7_1;;18v;Gal[liarda];;;OT;ConcR3280;3;"[aacc1] ,,,c/ ,d ,c ,a | [acd,a1] ,,,c/ ,d [acd,a1] | \
+,a/ ,c [,dd,c1] ,,c | [acd,a1] ,,,c/ ,d [acd,a1] :||: \
+[,cdca1] [,da,c] [a,c,e] |";germantab
+7_2;;19r;[Galliarda];;idem - one note lower;OT;ConcR3281;3;"[,dda/] a ,d ,b ,a ,,d | [,ab,,d1] ,,,a/ ,,d [,aba,d1] | \
+,,d/ ,a [,bdca1] ,a/ ,b | [,ab,,d1] ,,,a/ ,,d [,aba,d1] :|";germantab
+8a_1;;19v;Tanecz polskey;;;OT;ConcR3282;C;"[,dda1] [,dda] [,cdca] [,dda] | [,ab,,d1] ,,,a/ ,,d [,aba,d1] ,,d/ ,a | \
+[,cdca/] ,a [,da,c1] [,ddca] ,c | \
+[,dda3/2] ,,,c/ [,dda1] ,,,a :|";germantab
+8b_1;;19v;[Proportio];;;OT;ConcR3285;3;"[,dda3/2] [,cdca/] [,dda1] | [,ab,,d/] ,,d [,aba,d1] ,,d/ ,a | \
+[,cdca/] [,da,c] [,ddca1] ,c | [,dda2] ,,,a1 :||: \
+[bbdd3/2] [abb,d/] [,dda1] | [,ddca1] ,c [,dda] |";germantab
+8a_2;;20r;[Tanecz polskey];;idem - one note higher;OT;ConcR3284;C;"[aabc1] [aabc] [,ea,c] [aabc] | [,cd,a1] ,,,c/ ,d [,cdca1] [aab,,a] | \
+[,cdca/] ,d [aab,,a1] [aaa,c] ,e | \	
+[aac,,a1] ,,,c/ ,,d [aac1] ,,,,,a :||:";germantab
+8b_2;;20r;[Proportio];;;OT;ConcR3752;3;"[aabc3/2] [,ea,c/] [aabc1] | [,cdca/] ,d [,cdca1] [aab,,a] | \
+[,cdca/] [aab,,a] [aaa,c1] ,e | [aac,,a2] ,,,c1 :||: \
+[dabc3/2] [cdda/] [aabc1] | [aaa,c1] ,e [aac,,a] |";germantab
+9_1;;20v;Gal[liarda] wesela, Mir liebt ihm grönen Mayen;;;OT;ConcR3286;3;",,d/ ,a |: [abd,a1] ,,,c/ ,d [abd,a1] | [abd,a1] [,dba,d] [,dba,d] | \
+[abb,d1] ,,,c/ b a ,d | [abb,d1] [abb,d] [,dab,d] | \
+[,bdca1] ,,d/ ,a [,bdca1] |";germantab
+9_2;;21r;Mir liebt ihm grönen Mayen;;idem - one note higher;OT;ConcR3287;3;",a/ ,c |: [,da,c1] ,a/ ,c [,da,c1] | [,da,c1] [acd,a] ,d/ a | \
+[cdda1] ,d/ a c d | [cdda/] a c ,d [a,d,a] ,c |";germantab
+10;;21v;Ciprian Gal[liarda];;;OT;ConcR3288;3;"[acd,a1] [acd,a] [cdda] | [acd,a1] ,,,c/ ,d [acd,a1] | \
+[acd,a1] [,dba,d] ,c/ ,a | [cce,,c1] ,,,e/ ,,f [cce,,c1] | \
+[cdda1] [cdd] [cdda] | [acd,a/] ,d a ,c [,d,a] ,c |";germantab
+11;;22r;Gina Gallyarda;;;OT;ConcR3290;3;"[cdda1] [cdda] [cdda] | [cdda/] a c ,d a c | \
+[acd,a1] ,,,c/ c a ,d | [acd,a1] ,,,c [acd,a] | \
+[aabc1] [aab] ,,,c |";germantab
+12a;;22v;Tanecz Pekney;;;OT;ConcR3291;C;"[ffg,a1] |: [ffg,a/] h i1 h f | [dabc2] [abb,d] | \
+[dabc1] a/ c [dabc1] [bdda] | [abb,d1] ,,,c/ ,d [abb1] ,,,,d | \
+[,dba,d1] ,a/ ,c [,dba,d1] d |";germantab
+12b;;22v;[Proportio];;;OT;ConcR3292;3;"[ffg,a/] i h1 f | [dabc2] [abb,d1] | [dabc/] c [dabc1] [bdda] | \
+[abb,d2] ,,,c1 | [,dba,d/] ,c [,dba,d1] d | \
+[abb,d/] ,,,c [abb,d1] ,d/ ,b |";germantab
+13a;;23r;Chorea;;;OT;ConcR2306;C;"[cdda3/2] d/ [cdda1] [aabc] | [,da,c/] ,c ,d a [cdda1] [dab,,d] | \
+[cdda1] [aabc] [aaa,c] ,e | \
+[aac,,a1] ,,,c/ ,,d [aac1] ,,,,,a :||:";germantab
+13b;;23r;[Proportio];;;OT;ConcR3295;3;"[cdda1] [cdda] [aabc] | [,da,c/] ,c ,d a [cdda1] | \
+[aabc1] [acd,a] [,ea,c] | [aac,,a1] ,,,c/ ,,d [aac,,a1] :||: \
+[,dda1] [,dda] [,cdca] |";germantab
+14a;;23v;Tanecz;;;OT;ConcR3296;C;"[,aa,c1] [,da,c] [,cdca] [,aa,c] | [c,da/] ,d a c [da,,c] c [a,b] ,d | \
+[,cdca/] ,d [,,a,c] ,d [,cdca] ,a [,ddca] ,c |";germantab
+14b;;23v;[Proportio];;;OT;ConcR3297;3;"[,aa,c1] [,da,c] ,c/ ,a | [cdda/] ,a [da,,c] c [a,b] ,d | \
+[,cdca1] [,da,c] [,cdca] | [,dda1] ,a/ ,c [,dda1] :||: \
+[,da,c1] [a,c,e] [cdda] |";germantab
+15a;;24r;Tanecz;;;OT;ConcR3298;C;"[,dda/] [,dda] [acd,a] [cdda] [ddf,,d1] [cdda] | \
+[acd,a1] ,,,c [acd,a/] ,d/4 a [cdda/] [ea,c] | \
+[fcd,a/] c/4 e [fcd/] ,,,,a [fdaa] [fdaa] [ddf,,d] [cdda] |";germantab
+15b;;24r;[Proportio];;;OT;ConcR3299;3;"[,dda3/2] [acd,a/] [cdda1] | [ddf,,d2] [cdda1] | \
+[acd,a2] ,,,c1 | [acd,a3/2] [cdda/] [ea,c1] | \
+[fcd,a2] ,,,,a1 | [fdaa3/2] [ddf,,d/] [cdda1] | \
+[acd,a2] ,,,c1 :||: [acd,a/] c [ddf,,d1] [acd,a] |";germantab
+16a;;24v;Tanecz;;;OT;ConcR3300;C;"[acd,a1] ,,,c/ c [acd,a1] [acd,a] | [acd,a/] ,a ,c ,d a ,c ,d a | \
+[cdda/] a ,d ,c ,a ,,d ,,c ,,a |";germantab
+16b;;24v;[Proportio];;;OT;ConcR3301;3;"[acd,a1] ,,,c/ c [acd,a1] | [acd,a/] ,d a ,c ,d a | \
+[cdda/] a ,d ,c ,a ,,d | [aac,,a1] ,,,c/ ,,d [aac,,a1] :||:";germantab
+17a;;25r;Tanecz;;;OT;ConcR3302;C;"[,dda/] a/4 c [ddf,,d/] [cdda] [acd,a] [,da,c] [,cdca] [,da,c] | \
+[acd,a/] ,,,c/4 c [acd,a/] [cdda] \
+[acd,a] ,,,c/4 c [acd/] ,,,,a |";germantab
+17b;;25r;[Proportio];;;OT;ConcR3303;3;"[,dda/] c [ddf,,d1] [cdda] | [acd,a/] [,da,c] [,cdca1] [,da,c] | \
+[acd,a3/2] [acd,a/] [cdda1] | [acd,a2] ,,,c1 | [,dda/] c [ddf,,d1] [cdda] | \
+[acd,a/] [,da,c] [,ddca1] [,cdca] |";germantab
+18;;25v;Galliarda elegans;;;OT;ConcR3304;3;"[,dda3/2] a/ c1 | [ddf,,d2] [ddf,,d1] | [acd,a1] c [dabc] | \
+[cdda2] [cdda1] | [,da,c2] [,da,c1] | [,aba,d3/2] ,c/ [,da,c1] | \
+[acd,a2] [acd,a1] | [acd,a3] :||: [acd,a2] [acd,a1] |";germantab
+19a;;26r;Tanecz Spacz pecze[ny];;;OT;ConcR3305;C;"[cdda1] a/ c [acd,a1] [,dda] | [cdda1] [cdda] [acd,a] [,dda] | \
+[cdda/] d f1 [ddf,,d] [cdda] | \
+[acd,a1] ,,,c/ ,d [acd1] ,,,,a :||:";germantab
+19b;;26r;[Proportio];;;OT;ConcR3306;3;"[cdda3/2] [acd,a/] [,dda1] | [cdda3/2] [acd,a/] [,dda1] | \
+[cdda/] f [ddf,,d1] [cdda] | [acd,a2] ,,,c1 :||: \
+[acd,a2] [cdda/] [cdda] | [acd,a1] ,d/ ,c ,a ,,d |";germantab
+20a;;26v;Tanecz welmy pekney;;cf. ConcR3307;OT;;C;"[abd,a1] ,,,c/ ,d [abd,a1] [ffg,a] | [dabc1] a/ c [dabc1] [abb,d] | \
+[cdda/] a [dabc1] [ddda] c | \
+[ddf,,d1] ,,,f/ ,,g [ddf,,d] f h1 |";germantab
+20b;;27r;Zhuru;;cf. ConcR3308;OT;;3;"[abd,a1] [abd,a] [ffg,a] | [dabc1] c/ d [abb,d1] | \
+[cdda1] [dabc] [cdda] | [ddf,,d1] ,,,f/ f h1 | \
+[fdaa1] ,,,a [dabc] | [caa,c1] a/ c [abb,d1] |";germantab
+21a;;27v;Gyney tez Pekney;;;OT;ConcR3291;C;"[ffg,a1] |: [ffg,a/] h i1 h f | [dabc2] [abb,d] | \
+[dabc1] a/ c [dabc1] [bdda] | [abb,d1] ,,,c/ ,d [abb1] ,,,,d | \
+[,dba,d1] ,a/ ,c [,dba,d1] d |";germantab
+21b;;27v;Zhuru;;;OT;ConcR3292;3;"[ffg,a/] i h1 f | [dabc2] [abb,d1] | [dabc/] c [dabc1] [bdda] | \
+[abb,d2] ,,,c1 | [,dba,d/] ,c [,dba,d1] d | \
+[abb,d/] ,,,c [abb,d1] ,d/ ,b |";germantab
+22a;;28v;Gyney;;;OT;ConcR3309;C;"[cdda1] ,,d/ d [cdda1] [acd,a] | [,da,c/] ,a ,c ,d [,c,,,c] ,,d ,a ,c | \
+[,aba,d/] ,c ,d ,a [a,,c] ,d ,c ,a |";germantab
+22b;;29r;Zhuru;;;OT;ConcR3310;3;"[cdda1] [cdda] [acd,a] | [,da,c/] ,a ,c ,d [,cd,,c1] | \
+[,aba,d1] [a,,c/] ,d ,c ,a | [cce,,c1] ,,,e [cce,,c] :||: \
+[,dda1] [,dda] [,dca] |";germantab
+23a;;29v;Polskey Tanecz;;;OT;ConcR3358;C;"[aacc1] [aacc/] c a ,d ,c ,a | [acd,a1] ,,,c/ ,d [acd,a1] ,d/ a | \
+[cdda1] a/ c [ea,c1] c/ e |";germantab
+23b;;30r;Zhuru;;;OT;ConcR3359;3;"[aacc/] c a ,d ,c ,a | [acd,a1] ,,,c [acd,a] | \
+[cdda1] a/ c [ea,c1] | [fcd,a1] c/ e [fcd,a1] :||: \
+[cdda1] [cdda] [hhi,,h] |";germantab
+24a;;30v;Tanczek welmy pekney;;;OT;;C;"[,,d,a2] ,,d1 ,,,,a | [aacc2] [aac1] [abb,d] | \
+[,db1] ,a [,bd] ,,,a | [aacc2] [aac1] ,,,c :||: \
+[,bd1] [,bd] [,db] [,db] | [abb,d2] [abb,d1] [,db] |";germantab
+24b;;30v;Zhuru;;;OT;;3;"[,,d,a3/2] ,,d/ ,,,,a1 | [aacc2] [abb,d1] | \
+[,db1] ,a [,bd] | [aacc3/2] [aac/] ,,,c1 :||: \
+[,bd1] [,bd] [,db] | [abb,d2] [,db1] | [,bd1] ,,,a [aacc] |";germantab
+25;;30v;Kdy by bylo co ge komu milo potom;;If everyone had what they like, what would happen?;OT;;C;"[,cd1] ,a [,bd,a] [,ac,,a] | [,cd/] ,,c ,,d ,a [,bd,a1] [,ac,,a] | \
+[abb,d1] [abb] [,da,c] [,bd,a] | [,ac,,a2] [,,d,a] :||: \
+[abb,d1] [abb] [,da,c] [,b,,a] |";germantab
+26;;31r;Vitamque facient?;;;OT;;C;"[aabc2] [aabc/] ,,a/4 ,,b ,,d ,,b ,,a ,,,c | \
+[,ea,c2] [aabc1] [cdda] | [dab,,d2] [dab,,d1] [cdda] | \
+y1 [aabc] | [,ea,c2] [,ea,c] |";germantab
+27a;;31v;Tanecz Maximiliani;;;OT;ConcR3311;C;"[,aa,c1] ,,d/ ,a [,ca,b1] [,da,c] | [aab,,a1] ,,,c [aab,,a] [,da,c] | \
+[acd,a1] [ccd,,c] [da,c,a] [dc,c] | \
+[cdda1] ,,c/ d [cdda1] a/ c |";germantab
+27b;;31v;Zhuru;;;OT;ConcR3312;3;"[,aa,c1] [,ca,b] [,da,c] | [aab,,a1] ,,,c [,da,c] | \
+[acd,a1] [ccd,,c] [dc,c] | [cdda/] a [da,,c] c [a,c] ,d | \
+[,cdca1] [,da,c] [,cdca] |";germantab
+28;;32r;Cantilena in forma choreae;;;OT;ConcR3313;C;"[caa,c1] |: [cdda2] [,da,c1] a/ c | [dabc1] a/ c [dabc1] [caa,c] | \
+[abb,d1] ,,a/ ,,b [a,d,a1] ,,b | \
+[cef,c1] ,,,e/ ,f [cef,c1] [caa,c] :|";germantab
+29;;32r;Praeambulum 1.;;;OT;ConcR3314;C;"[aabc1] [aabc] [,da,c] [,da,c] | [abb,d1] ,,,,c/ ,,,,a [,ab,,d1] [abd,a] | \
+[,daac1] [abb,d] [cdda] [,da,c] | [abb,d1] [cdda] [dabc] [abb,d] | \
+[fcd,a1] f/ d c1 a |";germantab
+30;;32r;Praeambulum 2.;;;OT;;2;"a/4 c d a c a ,d ,c | ,a/4 ,c ,d ,c ,a ,,d ,,b ,,a | \
+[aabc1] [abd,a] |";germantab
+31;;32v;III. Praeambulum;;;OT;;C;"[,,da,c1] [,ab,,d] [,cd,a] [,,da,c] | \
+[,ab,,d1] [,cd,a] [,da,c] [,aba,d] | \
+[,cd,a1] [,da,c] [abb,d] [,da,c] | \
+[abb,d1] [cdda] [dabc] [abb,d] | \
+[cdda1] [,da,c] [abb,d] [,bd,a] |";germantab
+32;;32v;Praeambulu[m] IV;;;OT;ConcR3314;C;"[aabc1] [aabc] [,daac] [,daa] | \
+[abb,d1] ,,,,c/ ,,,,d [aab,,d1] [abd,a] | \
+[,daac1] [abb,d] [cdda] [,da,c] | \
+[abb,d1] [cdda] [dabc] [abb,d] | [fcd,a1] f/ d c1 a |";germantab
+33;;32v;Venus du und dein Kind - Krasny byl Absolon;;;OT;ConcR611;C;"[,daac2] [,daac1] c | [cca1] [aab] [cca2] | \
+[,dda1] c [caa,c3/2] a/ | [,dda1] ,c/ ,a [,cee,c2] :| \
+[,dda1] ,c/ ,a [,cee,c1] [,cee] |:";germantab
+34;;33r;Wolauf gutt gesellen von hinenn / Meilandt;;;OT;ConcR2528;C;"[abd,a1] [aacc] [cdda/] [dbb,d1] [bdda/] | \
+[aacc1] [,cdca] [,dba,d/] [abb,d1] [,dba,d/] | \
+[,bdca/] [,acc] ,,d/4 ,a ,,c/ | \
+[,cdca1] y/ [aab,,a/] [,ea,c1] [aabc/]";germantab
+35;;33r;Von nöten ist das ich itzt trag gedult / Jacob regnardt;;;OT;ConcR3315;C;"[acd1] [acd/] [cdda] [acd1] [,cde/] ,a/4 ,c | \
+[,dff/] [,cd] [,acc/4] ,,d ,,a ,,c [,cd,a2] :||: \
+y/ [acd/] [fcde] [fcde] [cdda1] [ea,c/] [acd] |";germantab
+36a;;33v;Tanecz;;;OT;ConcR3316;C;"[cdda1] a/ c [,aba,d1] [,abc,a] | \
+[ccd,,c1] ,,,e/ ,,f [ccd1] ,,,,,c | \
+[,dd1] [,ab,,d] [aa,c] [acd,a] | \
+[cdda1] ,,d/ a [,da,c1] a/ c |";germantab
+36b;;33v;Zhuru;;;OT;ConcR3317;3;"[cdda1] [,aba,d] [,abc,a] | [cce,,c1] ,,,e [,d,a] | \
+[,aba,d1] [aa,c] [acd,a] | [cdda1] ,,d/ a [,da,c1] | \
+[da,c,a1] ,,,c/ c [acd,a1] | [cdda1] a/ c a ,d |";germantab
+37;;34r;Cypryanska Galliarda - Vide fol. 28;;;OT;ConcR2279;3;"[,dba,d1] [,dba,d] [abb,d] | [,dba,d1] ,,,a/ ,b ,a ,,d | \
+[,bdca/] ,a ,,d ,a ,b ,d | [aac,,a1] ,,,c/ ,,d [aac,,a1] | \
+[abb,d1] [abb] [abb,d] |";germantab
+38;;34v;Christe summe optifex;;;OT;ConcR3318;C;"[caa,c1] |: [caa,c/] ,d a c [da,c,a1] ,,,c/ c | \
+[abb,d1] [abb,d] [,da,c] [,aba,d] | \
+[,bdca1] ,a/ ,,d [aac,,a1] ,,,c/ ,,d |";germantab
+39;;34v;Gal[liarda];;;OT;ConcR3319;3;"[acd,a1] [acd,a] [cdda] | [acd,a1] ,,,c/ ,d [acd,a1] | \
+,d/ a [cdda] a ,d c | [acd,a1] ,,,c [acd,a] :||: \
+[,dba,d1] [,dba,d] [,cdca] |";germantab
+40a;;35r;Gal[liarda];;;OT;ConcR3320;3;"[acd,a1] [acd] [acd,a] | [acd,a1] ,d/ a [cdda] a | \
+[,dba,d/] ,c ,d a [cdda] a | [dab,,d1] ,,,a/ c [acd,a1] | \
+[,da,c1] [,ddca] ,c |";germantab
+40b;;35r;Vel;;;OT;ConcR3321;3;"a/ c [dabc] a [caa,c] ,d | [abb,d/] ,d a ,b [,dba,d] ,a | \
+[,bdca/] ,a ,b ,d [abb] ,,,,d |";germantab
+41;;35r;Chorea NB;;;OT;ConcR3322;C;"[dab,,d1] d [dab,,d] [cdda] | [dab,,d1] ,,,a/ c a1 [,da,c] | \
+[abb,d/] c d ,,b [,,da1] c | \
+[ddf,,d1] ,,,f/ ,,g [ddf1] ,,,,,d :||:";germantab
+42a;;35v;Zu Freüden eines Mägdeleins hab ich mich außerwält. Tanecz;;;OT;ConcR3323;C;"[aacc1] |: [,efec1] ,c/ ,e [aacc] ,d ,c ,a | \
+[,cdca1] ,,d/ ,a [,cdca1] [f,de,c] | [ec,ce1] [caaa] [,hhge] [,ghge] | \
+[c,ee,c1] ,,,e/ ,,f [c,ee,c1] [aacc] :|";germantab
+42b;;35v;[Proportio];;;OT;ConcR3324;3;"[aacc1] |: [,efec1] ,c/ ,e [aacc1] | [,cdca1] ,a/ ,c [f,de,c1] | \
+[ec,ce3/2] [caaa/] [,ghge1] | [c,ee,c1] ,,,e [aacc] :| \
+[c,ee,c1] ,,,e [ec,ce1] |: [ffhh1] ,,f/ ,,h [effc1] |";germantab
+43;;36r;Gal[liarda];;La Gianetta Padovana (Chr. Meyer);OT;ConcR3327;3;"[cdda1] |: [acd,a3/2] [acd,a/] [,dfec1] | \
+[,cee,c1] [,aba,d/] ,,,c ,,,a ,,,c | \
+[cce,,c1] ,,,e [,cdca] | [,cdca1] ,e/ a [,efec1] | \
+[a,c,e1] [,cdca] [,dfec/] ,f |";germantab
+44;;36v;[Tanecz];;;OT;ConcR3328;C;"[abb,d3/2] b/ [abb,d1] [,db,,d] | [,bdca1] ,d [abb,d] [,dda/] ,b | \
+[,acc1] [,bdd] [,adc] ,,c | [,,dca/] ,,c ,,d ,a ,b ,a ,b ,d :||:";germantab
+45;;36v;Gal[liarda] NB;;;OT;ConcR3329;3;"[aabc/] c |: [dabc3/2] [dabc/] [cdda1] | [abb,d1] [,da,c] [,bdca] | \
+[,ab,,d1] ,,,a/ ,,d ,,b ,,a | [,ab,,d1] ,,,a [aabc] | \
+[,da,c/] ,c ,d a [cdda1] |";germantab
+46a;;37r;Chorea repondens Choreae fol. 30 - Sequitur proportio;;;OT;ConcR3293;C;"[hhi,,h1] |: [hhi,,h1] k/ l k1 h | [fhia2] [,da,c] | \
+[fd,,a1] ,c/ ,a [fc,,a1] ,c | [cdda1] ,,d/ d [cdd1] ,,,a |";germantab
+46b;;37v;[Proportio];;;OT;ConcR3294;3;"[hhi,,h/] l k1 h | [fhi,f2] [,da,c1] | [fd,,a1] ,c/ ,a [fd,,a] ,c | \
+[cdda/] d [cdd1] ,,,a | [acd,a/] ,,,c [acd,a1] ,d/ ,a |";germantab
+47;;37v;Alia Chorea. Cziziczku Ptaczku;;;OT;ConcR3330;C;"[cdf1] ,,,,c [ccd,,c] [cdf,c] | [hf,gh2] [cdf,c] | \
+[h,fgh1] e/ f h1 [ffh,a] | [ea,c,a3/2] c/ [acd,a1] ,,,,a | \
+[fc,e,c1] c/ e [fc,e,c1] [ec,ce] |";germantab
+48a;;38r;Chorea;;;OT;ConcR3307;C;"[abd,a3/2] ,d/ [abd,a1] [ffg,a] | [dabc/] c a ,d [abb,d] c d a | \
+[cdda1] [dabc] [ddda] c | [ddf,,d1] ,,,f/ ,,g [ddf,,d] f h1 |";germantab
+48b;;38r;[Proportio];;;OT;ConcR3308;3;"[abd,a1] [abd,a] [ffg,a] | [dabc1] c/ d [abb,d1] | \
+[cdda1] [dabc] [cdda] | [ddf,,d1] ,,,f/ f h1 | \
+[fdaa1] ,,,a [dabc] | [caa,c1] a c [abb,d1] |";germantab
+49a;;38v;Chorea respondens Superiori choreae;;;OT;ConcR3307;C;"[cdf,c3/2] ,f/ [cdf,c1] [hhi,,h] | [f,he1] e [fhi] ,,,,f | \
+[effc1] [f,de] [f,fc] e | [ffh,,f1] ,,,h/ ,,i [ffh,,f] h k1 | \
+[hff1] ,,,,h [hff,h] [f,he] |";germantab
+49b;;38v;[Proportio];;;OT;ConcR3308;3;"[cdf,c1] [cdf,c] [hhi,,h] | [f,he1] e/ f [fhi,f1] | \
+[f,fc1] e/ c [f,fc] e | [ffh,,f1] ,,,h/ h k1 | \
+[hff1] ,,,,h [fhhe] |";germantab
+50a;;39r;Chorea similis choreis f. 24 et 25;;;OT;ConcR3283;C;"[ffg,a1] [ffg,a] [effc] [ffg,a] | [cdda1] ,,d/ d [cdda1] [acd,a] | \
+[cdda/] d f1 [f,fc] e | [fcd,a1] c/ e [fcd,a1] [fcd,a1] :||:";germantab
+50b;;39r;[Proportio];;;OT;;3;"[ffg,a3/2] [effc/] [ffg,a1] | [cdda/] d [cdda1] [acd,a] | \
+[cdda/4] d f/ [f,fc1] e | [fcd,a2] ,,,,a1 :||: \
+[if,h/] h/4 f [hff,h1] [ffg,a] |";germantab
+51;;39r;Chorea - Vide supra fol:;;;OT;ConcR3322;C;"[dab,,d1] d [dab,,d] [cdda] | [dab,,d1] ,,,a/ c a1 [,da,c] | \
+[abb,d/] c d ,,b [,,da1] c | \
+[ddf,,d1] ,,,f/ ,,g [ddf1] ,,,,,d :||:";germantab
+52;;39v;Alia Chorea;;;OT;ConcR3332;C;"[fdaa1] ,,,a/ d [cdda1] [fdaa] | [dabc1] [cdda] [a,c,e] [,daac] | \
+[acd,a1] ,,,c/ c [da,,c] c [a,c] ,d | \
+[acd,a1] ,,,c/ c [acd,a1] ,d/ a |";germantab
+53;;39v;[Proportio];;;OT;ConcR3333;3;"[dabc/] [f,a] |: [hiif1] ,,i/ h [fhi,f1] | \
+[dabc/] c [a,b] c [da,c] a | \
+[f,,a/] d [c,d] [a,b] [a,d,d] ,,,c |";germantab
+54;;40r;Parvulus nobis nascitur;;;OT;;C;"[,daac2] [,daac1] c | [cca1] [aab] [cca2] | \
+[,dda1] c [caa,c3/2] [,dda1] ,c/ ,a [,cee,c2] :|| \
+[,dda1] ,c/ ,a [,cee,c1] [,cee] ||:";germantab
+55;;40r;Puer natus in Bethleem;;;OT;ConcR1504;C;"[aabc1] |: [aabc1] ,,d [aabc] | [cdda1] a [cdda] | \
+[dab,,d1] c [aabc] | [,ea,c1] ,c [,ea,c] | \
+[ddf,,d1] f/ d [ffg,a1] | [dabc1] [ddda] c |";germantab
+56;;40v;Pekney kausek;;;OT;ConcR3334;C;"[fdaa3/2] d/ [cdda1] [hd,f,d] | [fdaa3/2] d/ [cdda1] a/ ,d | \
+[fdaa1] [fdda] [ddf,,d] [cdda] | [a,d,a1] ,c [,dda] ,,,a :||: \
+[acd,a1] [acd,a] [cdda] [cdda] |";germantab
+57;;40v;Tanecz Wratislawsky - Vide Supra folio 13.;;Completed on f 13r (Tanecz welmi pekney);OT;ConcR3264;C;"[ffh,,f1] | [ffh,,f1] ,,,h/ h [kf,h,f1] [hff,h] | \
+[ffh,,f1] k [hff,h] [hff,h] | [effc1] [f,ce] [f,fc] e | \
+[ffh,,f1] ,,,h/ ,,i [ffh,,f1] :||";germantab
+58;;40v;Polskey Tanecz;;;OT;ConcR3335;C;"[,aa,c3/2] ,c/ ,a1 [aabc] | [,da,c1] ,,a/ ,c ,a1 [,abc] | \
+[,bdca1] [,ab,,d] [,,da/] ,,b ,,d1 | \
+[,ab,,d1] ,,,a/ ,,d [,aba1] ,,,,,d :||:";germantab
+59;;41r;Galliarda Britannica NB;;;OT;ConcR3336;3;"[,,dca1] [,aba,d] [,cdca] | [,daa/] ,c/4 ,a ,,d ,,b ,,a ,,,c ,,,a1 | \
+[,,da1] [,aba,d] [,cdca] | [,dda/] a ,d ,c [,aba,d1] |";germantab
+60;;41v;Galliarda (crossed out) / Intrada;;;OT;;3;"[acd,a3/2] ,d/ [acd,a1] | [cdda3/2] a/ [cdda1] | \
+[dab,,d3/2] c/ [dab,,d1] | [acd,a2] [acd,a1] | \
+[cdda3/2] d/ f1 | [effc1] f [effc] | [fcd,a2] [fcd,a1] |";germantab
+61;;41v;Tanecz;;;OT;;C;"[ea,c,a1] [cef,c] [fc,e,c] [ec,ce] | \
+[ccee,c3/2] ,f/ [,efec1] [,ac,,e] | \
+[acd,a/] ,d [aac,,a1] [,f,ec] ,e | \
+[aac,,a2] ,,d/ ,,c ,,a ,,,c :||:";germantab
+62;;42r;Polskey Tanecz;;;OT;ConcR3331;C;"[cda,c1] ,c/ ,d [ccd,,c1] [cdf,c] | [hf,gh2] [cdf,c] | \
+[hf,gh1] e/ f h1 [ffh,,f] | [ea,c,a1] c [acd] ,,,,a | \
+[fcd,,c1] c/ e [fcd,,c1] [ecc,e] |";germantab
+63;;42v;Er fetzl;;Canario;OT;;3;"[,dda1] |: [fdaa3/2] d/ f1 | [hd,f,d1] f h | \
+[fdaa3/2] d/ [cdda1] | [acd,a2] [,dda1] | [fdaa2] [fdaa1] | \
+[hd,f,d1] f h | [fdaa3/2] d/ [cdda1] |";germantab
+64a;;42v;[Tanecz];;;OT;ConcR3337;C;"[ddf,,d1] |: [ddf,,d/] ,,d ,,f ,,g [ddf,,d1] [cdda] | \
+[acd,a1] ,d/ a [,da,c1] ,c/ ,d | [abb,d/] c d ,,b [ddda1] c |";germantab
+64b;;43r;[Proportio];;;OT;;3;"[ddf,,d1] |: [ddf,,d/] f [ddf,,d1] [cdda] | \
+[abb,d1] ,d/ a [,da,c1] | [abb,d/] [dabc] [ddda1] c | \
+[ddf,,d2] [ddf,,d1] :|| [ddf,,d2] [,dba,d1] |: \
+[,dba,d/] [abb,d] [,dba,d1] [,dba,d] |";germantab
+65;;43v;[Tanecz];;;OT;;C;"[,bd1] |: [,ab1] [,,dd] [,a,c] ,b | [,d,a1] ,b/ ,a ,,d ,a [,bd1] | \
+[,ab1] [,,dd] [,bdd] ,d | [a,,c1] ,d/ ,b ,a1 [,bd] |";germantab
+66a;;44r;Zu Freüden eines Mägdeleins hab ich mich außerwält - Aliter fol. 52;;;OT;ConcR3325;C;"[aacc1] |: [caab1] a/ c [aacc] ,d ,c ,a | \
+[,cdca/] ,d a c e1 [fcd,,c] | [ea,,,e1] [ccd,a] [cdf,c] [,ghge] | \
+[cce,,c1] ,,,e/ ,,f [cce,,c1] [aacc] :||";germantab
+66b;;44r;[Proportio];;;OT;ConcR3326;3;"[aacc1] |: [caab1] a/ c [aacc] ,d | [acd,a1] ,,,c [fcd,,c] | \
+[ea,,,e1] [ccd,a] [,ghge] | [cce,,c1] ,,,e [aacc] :|| \
+[cce,,c1] ,,,e c/ e |:";germantab
+67;;44v;Chorea;;Ich bin zu lang gewesen;OT;ConcR3338;C;"[abb,d1] [dab,,d] | [abb,d/] [,dba,d1] [,bdca/] | \
+[,adca/] ,,c [,cdca1] :||: y/ [abb,d/] [abb,d] [abb,d] | \
+[,db,,d/] [,db,,d] [abb,d] ,d/4 a | \
+[,dba,d/] [,bdca] ,a/4 ,b [,dddf/] |";germantab
+68;;44v;Elselein liebes Elselein mein;;;OT;ConcR3341;3;"[aabc1] [aab] [,bde] | [dabc1] [dab/] ,,,c [cdda1] | \
+[abb,d1] [,db,c] [,bd,a] | [,ab,,d1] ,,,a/ a [,db,c1] | \
+[,bd,a1] [,aba,d] [,,da,c] | [,ac,,a1] ,,,c/ ,b [,aba,d1] |";germantab
+69;;45r;Galliarda;;;OT;;3;"a/ c |: [da,c,a3/2] c/ a1 | [da,c,a1] f/ d c a | \
+[cdda1] ,d/ a c d | [c,da/] a c d [c,da1] |";germantab
+70;;45v;Surrexit;;;OT;;3;"[fcd,a1] | [fcd,a1] c/ e [fcd,a1] | [ea,c3/2] ,,,,e/ [ea,c1] | \
+[fcd,a1] e [cdda] | [acd,a2] [acd1] | [cdda/] a c e [fcd,a1] |";germantab
+71;;45v;Nun lob mein Seel den Herren;;;OT;ConcR1511;3;"[,dda1] |: [,da,c2] [,cdca1] | [,aa,c2] [,cdca1] | \
+[,da,c2] [acd,a1] | [cdda2] [cdda1] | [cdda3/2] d/ [cdda1] | \
+[cdda2] [acd,a1] | [,da,c1] [,ddca] ,c | [,dda2] [,dda1] :||";germantab
+72;;46v;Carmina Horatij;;Iam satis terris;OT;;C;"[cd,a2] [,ab,,d1] [,ab,,d2] [,ab,,d] [,ab,,d] | \
+[,daa1] [,daa] [,c,ca2] | [,c,ca2] [,da,c1] [,ab,,d2] | \
+y1 [a,d,a2] [a,d,a1] | [a,d,a2] [da,c] [a,d,a] [,da,c1] \
+[,da,c] [,db,c2] [,db,c1] [,cd,a] |";germantab
+73a;;46v;Chorea;;Was wollen wir auf den Abend tun;OT;ConcR980;C;"[,dda1] [,dda] [acd,a] [acd,a] | [cdda1] a/ c [acd,a1] [cdda] | \
+[aab,,a1] [,da,,c] [,dba,d] [,cdca] | \
+[,dda/] ,c ,d a [,dd1] ,,,a :||:";germantab
+73b;;46v;Zhuru;;;OT;;3;"[,dda1] [,dda] [acd,a] | [cdda1] a/ c [aab,,a1] | \
+[,da,,c1] [,dba,d] [,cdca] | [,dda/] ,c ,d a [,dda1] :||: \
+[dab,,d1] [dab,,d] [acd,a] |";germantab
+74;;46v;Gaillarda;;ff. 47r-113v vacuo;OT;ConcR3342;3;"[,dda1] [,da,c] [acd,a] | [cdda1] ,,d/ d [cdda] a | \
+[,da,c1] [abb,d] [cdda] | [ddf,,d1] ,,,f/ ,,g [ddf,,d1] | \
+[ddf,,d1] [acd,a] f/ d |";germantab
+75a;;47r;Passamezzo;;;OT;;C;",,d/ ,a | [abd,a1] ,,,c [abd] [acd,a] | [abd,a1] ,,,c/ a ,d ,b [,a,a] ,,d | \
+[,ab,,d1] ,,,a/ ,,a ,,b ,,d ,a ,,d |";germantab
+76a;;114r;Passamezo;;;OT;;C;",,d/ ,a | [abd,a1] ,,,c/ a ,,,,a ,d [,b,c] [,a,a] | \
+[abd,a/] c [da,,c] c [abb,d] ,d/4 a [,dda/] ,b |";germantab
+76b;;114v;Saltarella;;;OT;ConcR3343;3;",,d/ ,a | [abd,a/] ,,,c ,,,,a ,d [,b,c] [,a,a] | \
+[abd,a/] d [caa,c] a [,d,,d] ,b | [,ab,,d1] ,,,a/ ,b ,a ,,d |";germantab
+76c;;114v;Repress;;;OT;;3;"[cdda1] ,,d/ a [cdda1] | [cdda1] [aabc] ,,c | \
+[cd,a1] ,,,c/ ,d ,c ,a | [acd,a1] ,,,c [acd,a] | \
+[cdda/] a ,d a [c,da] ,d |";germantab
+75b;;115v;Saltarella;;;OT;;3;",d/ ,a | [abd,a1] ,,d/ ,a ,b ,d | [abd,a/] ,a ,d ,b ,a ,,d | \
+[,ab,,d1] ,,,a/ ,,d ,,b ,,a | [,aba,d/] ,,d ,a ,b ,d ,a |";germantab
+75c;;115v;Repress;;;OT;;3;"[cdda1] ,,d/ a [cdda1] | [cdda1] [aadc] ,,c | \
+[acd,a1] ,,,c/ c a ,d | [acd,a/] ,d a ,d ,c ,a |";germantab
+77a;;116r;Passamezo - Sequitur Saltarello Verte;;;OT;ConcR3344;C;",,d/ ,a | [abd,a1] ,,,c/ ,d [abd,a1] [aac,,a] | \
+[,,d,a/] ,a ,b ,,,,c [abb,d] ,,,a ,,,c ,,,e | \
+[ddf,,d/] ,,d ,,f ,,g ,d ,,g ,,f ,,d |";germantab
+77b;;116v;Saltarello;;;OT;ConcR3345;3;",,d/ ,a | [abd,a1] ,,,c/ ,d [abd,a1] | [aac,,a1] [abd,a/4] ,,,,c ,,,,d ,,,a ,,,c/ ,,,e | \
+[ddf,,d/] ,,g ,d ,,g ,,f ,,d |";germantab
+77c;;116v;Repress;;;OT;ConcR3346;3;"[cdda/] a ,d a [c,da] ,d | a/ c [aadc3/2] ,,c/ | \
+[acd,a1] ,,,c/ c a ,d | [acd,a/] ,d a ,c ,d a |";germantab
+78a;;117r;Passamezo - Saltarello Sequitur;;;OT;ConcR3347;C;"a/ c | [da,c,a1] ,,,c/ [c,d] [a,b] [,da] [a,b] [c,d] | \
+[da,c,a1] ,,,c/ ,,a [da,c,a] ,,d ,a ,c | \
+[cdda1] ,d/ f ,,,a [cdda] [da,c] ,c |";germantab
+78b;;117v;Saltarello;;;OT;ConcR3348;3;"a/ c | [da,c,1] ,,,c/ [c,d] [a,b] [,da] | \
+[da,c,a/] ,,a [dabc] ,,d ,a ,c | [cdda1] ,,d/ d c a |";germantab
+78c;;117v;Repress;;;OT;ConcR3349;3;"[acd,a1] ,,,c/ ,a [acd,a] ,d | [aac/] ,,,,,a [aaa,c1] ,e | \
+[aac,,a1] ,,,c/ ,c ,a ,,d | [aac,,a/] ,,d ,a ,c [,,d,,a] ,a |";germantab
+79a;;117v;Passamezo - Sequitur Saltarella;;;OT;;C;",,d/ ,a | [acd,a/] ,a/4 ,c ,,d/ c [a,d,a] ,c [,dd,c] ,,c | \
+[acd,a/] ,a ,c ,d a ,c [,d,,a] a |";germantab
+79b;;118v;Saltarella;;;OT;;3;",,d/ ,a | [acd,a1] ,,,c/ c a ,d | [acd,a/] ,d a ,c ,d a | \
+[cdda1] ,d/ a c d |";germantab
+80a;;118v;Passemezo - Sequitur Saltarella;;cf. CZ-Pu59r469 / 128v (1);OT;ConcR3350;C;",d/ a | [cdda1] ,,d/ d [cdda] a/4 c [da,c/] ,c | \
+[cdda/] a [,da,c1] [abb,d/] d [,,da] c | [dab,,d1] c/ a";germantab
+80b;;119v;Saltarella;;cf. CZ-Pu59r469 / 128r (2);OT;;3;",d/ a | [cdda1] ,,d/ d [cdda1] | [,da,c1] [abb,d] [cdda] | [dab,,d1] c/ a ,d ,b | \
+[dab,,d/] ,,,a ,,,,,d ,,,,a ,,,,c ,,,,e |";germantab
+81a;;120r;Saltarello (crossed out) Passamezo - Sequitur Saltarella;;;OT;ConcR3351;C;",,d/ ,a | [abd,a1] ,,,c/ ,d [abd,a1] [aac,,a] | \
+[abd,a/] ,a ,,d ,a [ab,,a] ,,d ,a ,b | \
+[,a,a,d1] ,,,a/ ,b [,aba,d] ,,d ,,b ,,a |";germantab
+81b;;120v;Saltarella;;;OT;;3;",,d/ ,a | [abd,a1] ,,d/ ,a ,b ,d | [abd,a/] ,a ,d ,b ,a ,,d | \
+[,ab,,d1] ,,,a/ ,,d ,,b ,,a |";germantab
+81c;;120v;Repress;;;OT;ConcR3352;3;"[cdda1] ,,d/ a [cdda1] | [cdda1] [aadc] ,,c | \
+[acd,a1] ,,,c/ c a ,d | [acd,a1] ,,,c [acd,a] | \
+[cdda/] a ,d a [c,da] ,d |";germantab
+82a;;121r;Passemezo;;;OT;ConcR3353;C;",a/ ,c | [,da,c1] ,a/ ,c [,da,c] a c a | \
+[,da/] ,,,,c [,a,a] ,c [,da,c] ,,,,e ,,,a ,,,c | \
+[acd,a1] ,,,c/ c";germantab
+82b;;121v;Saltarello;;;OT;ConcR3354;3;",a/ ,c | [,da,c/] ,c ,a ,c ,d a | [,da,c/] ,c ,d ,,,,e ,,,a ,,,c | \
+[acd,a1] ,,,c/ c a ,d |";germantab
+82c;;121v;Repress;;;OT;ConcR3355;3;"[cef,c1] | [ea,c,a1] ,,,c/ c [ea,c,a1] | [ea,c,a1] [ccf,,c] ,,e | \
+[cef,c1] ,,,e/ e c ,f | [cef,c/] ,f c ,e ,f c |";germantab
+83;;122r;Senot e giorno Zu dir herr Christe;;;OT;ConcR3356;C;"[,acc/] ,,,c [,ccce] [,efec] [aacc/4] ,,d ,a ,,c [acd,a] ,a ,c ,,d | \
+[,,c,,a/] [effc] [cefec] [aac,,a] \
+[acd,a] ,,,,,e/4 ,,,,,c [aac,,a/] [aacc] |";germantab
+84;;122v;Herzlich lieb hab ich dich o Herr / Franciscus Scheuffer;;Only two tablature lines- crossed out with the title;OT;;C;"[ddff2] [ddff1] [cdda] | [aabc1] [,da,c] [,bbcd] [,aba,d] | \
+[abb,d/] ,,d/4 ,,b ,,d ,,a ,,b ,,d [,daac2] | \
+[ddff1] ,d/ ,,g [ddff1] [cdda/] a/4 c |";germantab
+85;;122v;Herzlich lieb hab ich dich o Herr;;;OT;;C;"[ddff2] [ddff1] [cdda] | [aabc1] [,da,c] [,bbcd] [,aba,d] | \
+[abb,d/] ,,d/4 ,,b ,,d ,,a ,,b ,,d [,daac2] | \
+[ddff1] ,d/ ,,g [ddff1] [cdda/] a/4 c |";germantab
+86;;123r;Ich bin so lang gewesen;;;OT;ConR3338;C;"[abb,d/] ,a ,b ,d [dab,,d2] | [abb,d1] [,dba,d2] [,bdca1] | \
+[aac,,a/] ,,d ,a ,,c [,cdca2] :||: y1 [abb,d] [abb,d] [abb,d] | \
+[,dba,d1] [,dba,d] [abb,d] [abb,d] |";germantab
+87;;123v;Allein nach dir Herr Jesu Christe Si[mpliciter absq[ue] coleratam;;;OT;ConcR195;C;"[,dda2] [,db,,d1] [,dda] [,cd,a] [,dda] y/ [cdda] [cdda] [cdda] [acd,a1] [cdda] | \
+[,dba,d3/2] [,dba,d/] [,dba,d1] [,dba,d] | \
+[,cd,a1] [,cd,a] [,aaac] [,aaac] |";germantab
+88;;124r;Wen ich den gantz tag;;;OT;ConcR2187;C;"[,abc1] [,abc/] [,aab] [,abc] [,bd,a] [,abc1] | \
+[abb,d1] [abb,d/] [,dda] [,bdd] [,dde] [,abc1] :||: \
+y/ [abd] [ab] ,,d [bbdd] [bbdd] [,dd] |";germantab
+89;;124r;Noch laß ich mich nich;;;OT;ConcR3357;C;"[,abc1] [,abc/4] ,,,d ,,,c ,,,a [abb,d/] [,dda/4] a ,d ,b [,acc/] | \
+[,bd,a/4] ,a/8 ,b ,d ,b ,a ,,d [,acc/] [abb,d] \
+[abb,d1] [,dba,d/] [,bd,a] |";germantab
+90;;124v;Passamezo;;Title 'Saltarello' on f.125r;OT;;C;",,d/ ,a | [,bd,a/] ,,,c ,,d ,a [abd,a] ,d [aab,c] [,da] | \
+[,bdca/] d [caa,c] a [,d,,d] ,b [,a,a] ,,d |";germantab
+91;;125v;Doulce memoire;;;OT;ConcR856;C;"[,bdca2] [,bdca/] ,,,,,d ,,,,a ,,,,c | \
+[,bbcd1] [,aba,d] [,,dca/4] ,a ,b ,,d ,a ,,d ,,c ,,a | \
+[,,cc,a/] ,,d ,a ,,c";germantab
+92;;126v;Tutto logiorno;;;OT;ConcR2187;C;"[cefec3/4] ,f/4 |: [cefec/] [cefec] [cefec] ,c ,e ,f [cefe] ,,,,c | \
+[dffc,a/] [cefec] [aabc] [acd,a] [h,ikkh1] [h,ikkh/] [ha,a] | \
+[hd,a/] [ddf,,d] [hdf,,d] ,,f";germantab
+93a;;127r;Passamezo Venetiano;;cf. CZ-Pu59r469 / 136v;OT;;C;",a/ ,c | [,da,c1] ,a/ ,c [,da,c] a c a | \
+[,da,c/] ,c ,a c [da,,c] c [a,c] ,d | [acd,a1] ,,,c/ c";germantab
+93b;;127v;Saltarella;;cf. CZ-Pu59r469 / 137v (1);OT;;3;",a/ ,c | [,da,c/] ,c ,a ,,d ,a ,c | [,da,c/] ,c ,d ,a ,c ,d | \
+[acd,a1] ,,,c/ c a ,d |";germantab
+93c;;127v;Repress;;cf. CZ-Pu59r469 / 137v (2);OT;;3;"[ea,c,a1] ,,,c/ c [ea,c,a1] | [ea,c,a1] [ccf,,c3/2] ,,e/ | \
+[cef,c1] ,,,e/ e c ,f | [cef,c1] ,,,e [cef,c] :||";germantab
+94a;;128r;Passamezo;;;OT;;C;",,d/ ,a | [acd,a/] ,a/4 ,c ,,d/ c [a,d,a] ,c [,dd,c] ,,c | \
+[acd,a/] ,a ,c ,d a ,c [,d,,a] a |";germantab
+94b;;128r;Saltarella;;cf. CZ-Pu59r469 / 119v;OT;;3;",,d/ ,a | [acd,a1] ,,,c/ c a ,d | [acd,a/] ,d a ,c ,d a | \
+[cdda1] ,d/ a c d |";germantab
+95a;;128v;Passamezo;;cf. CZ-Pu59r469 / 118v (2);OT;;C;",d/ a | [cdda1] ,,d/ d [cdda] a/4 c [da,c/] ,c | \
+[cdda/] a [,da,c1] [abb,d/] d [,,da] c | [dab,,d1] c/ a";germantab
+95b;;128v;Saltarella - Sequitur Repress;;;OT;;3;",d/ a | [cdda1] ,,d/ d [cdda1] | [,da1] [abb,d] [cdda] | \
+[dabc1] c/ a ,d ,b | \
+[dab,,d/] ,,,,,c ,,,,,d ,,,,a ,,,,c ,,,,e |";germantab
+95c;;129r;Repress;;;OT;;3;"[acd,a1] ,,,d/ ,d [acd,a1] | [acd,a1] [,dd,c3/2] ,,c/ | \
+[acd,a/] ,a ,,d ,a ,c ,d | [acd,a/] ,d a ,c ,d a |";germantab
+96a;;129v;Passamezo;;;OT;;C;",,,c/ ,,a | [aac,,a1] ,,,c [aac] [aac,,a] | \
+[aac,,a/] ,,a ,,c ,,d ,a ,,c [,,d,,a] ,a | \
+[acd,a1] ,,,c/ c [a,d,a] ,c [,dd,c] ,,c |";germantab
+96b;;130v;Saltarello;;;OT;;3;",,,c/ ,,a | [aac,,a1] ,,,,c/ ,c ,a ,,d | \
+[aac,,a/] ,,d ,a ,,c [,,d,,a] ,a | \
+[acd,a1] ,,,c/ a [,da,c] ,c |";germantab
+96c;;131r;Repress;;;OT;;3;",,,b1 [a,c,e] [a,e,e] | [caa,c1] ,,,b/ a [caa,c1] | \
+[aaa,c1] [ccf,,c] [cce,,c] | [caa,c1] ,,,b/ a [caa,c] | \
+[ea,c,e1] [fcd,,c] ,,,b | [ea,c,a1] ,,,c/ e [ccd,,c1] |";germantab
+97;;131r;Musica, Klang Lieblicher Gsang na dlauhey takt;;;OT;;C;"[ffg,a2] [ffg,a1] [effc] | [effc2] [ccde] | \
+[cdda1] [aacc2] [a,dce1] | [,da,c1] [,da] [acd] [,cd,a] | \
+[cdd,f/] ,,,c ,,,e ,,c [a,d,a1] [ffg,a] |";germantab
+98a;;131v;Passamezo;;;OT;;C;",d/ a | [b,da1] ,,d/ d [bdda1] [acd,a] | \
+[,dda/] a b ,,,c ,,,d ,,b ,,d ,a | \
+[abb,d1] ,,,c/ d ,,,,d b a ,d |";germantab
+98b;;132v;Saltarella;;;OT;;3;",d/ a | [bdda1] ,,d/ d [bdda1] | [a,,c1] ,,,d/ ,d ,,d ,a | \
+[abb,d1] ,,,c/ ,d [abb,d1] | [,db,,d1] [abb,d/] ,b ,d a |";germantab
+98c;;133r;Repress welmy Pekney;;;OT;;3;"[acd,a1] ,,,c/ b a ,d | [acd,a1] [bdda] d/ b | \
+[acd,a1] ,,,c/ ,d ,c ,a | [acd,a/] ,d a ,b ,d a |";germantab
+99a;;133v;Pasa[amezo] Malcontent;;;OT;ConcR3362;C;"[ea,c,a1] | [fc,ca1] [fc,ca2] [cef,c/] ,c/4 ,e | \
+[eff,,a/] ,,,c e f [eff,,a] f [hf,g,a1] | \
+[fhaa/] e/4 f [ef/] [he]";germantab
+99b;;134r;Saltarella - Repress;;;OT;;3;"[ea,c,a1] | [fc,ca2] [fc,ca1] | [cef,c1] ,,f/ ,c [cef,c1] | \
+[eff,,a1] ,,,c/ c e f | [eff,,a/] c e f [ha,g,a1] | \
+[fhaa3/2] h/ [fhaa1] |";germantab
+99c;;134v;Repress;;;OT;;3;"[ea,c,a1] c/ a ,e ,c | [caa,c3/2] [caa/] ,,,,c1 | \
+[,ea,c/] ,c ,e a c ,e | [aac,,a1] [aac] ,,,,,a | \
+c/ e [fcd,a1] [ea,c,a] | [caa,c1] [caa] ,,,,c |";germantab
+100;;135r;Lobet den Herren alle Heiden;;Pour un plaisir;OT;ConcR858;C;",,,,,d1 [,,,a,d/] ,,,,a [,,,ac] [,,,c,d] [,,a,a] [,,,ac] | \
+[,,bcd/] ,,a [,dff,d] ,,d [,dff,d] [a,b] [cdda] [,df] | \
+[abb,d/] c [dabc] ,,d";germantab
+101;;135v;Ym Meyen Scandelli;;;OT;;C;"[c,e,c1] [c,d] [,,hge/] ,g [ccde,c] [ccde,c] | \
+[,ghge/4] ,e/8 ,g ,h ,g ,e ,g [ccee,c/] c [,efec/4] \
+,c/8 ,e ,f ,e ,c ,e [aacc,a/] [,,cc,a] |";germantab
+102a;;136v;Passamezo;;cf. CZ-Pu59r469 / 127r;OT;;C;",a/ ,c | [,da,c1] ,a/ ,c [,da,c] a c a | \
+[,da,c/] ,c ,a c [da,,c] c [a,c] ,d | \
+[acd,a1] ,,,c/ c";germantab
+102b;;137v;Saltarella;;cf. CZ-Pu59r469 / 127v (1);OT;;3;",a/ ,c | [,da,c/] ,c ,a ,,d ,a ,c | [,da,c/] ,c ,d ,,,c ,,a ,,c | \
+[acd,a1] ,,,c/ c a ,d |";germantab
+102c;;137v;Repress;;cf. CZ-Pu59r469 / 127v (2);OT;;3;"[ea,c,a1] ,,,c/ c [ea,c,a1] | c/ e [ccf,,c3/2] ,,e/ | \
+[cef,c/] ,f c ,f [,e,e] [,c,c] | [cef,c/] ,f c ,e [,f,,c] c |";germantab
+103;;138v;Die schöne Sommer Zeitt;;Almande Amour;OT;ConcR764;C;"[abb,d1] | [abb,d1] [,dba,d] [,bdca] ,a/ ,,d | \
+[aac,,a1] ,,,c/ ,,d [aac,,a1] [abb,d] | \
+[abb,d1] [,dba,d] [,bdca] ,a/ ,,d | \
+[aac,,a1] ,,,c/ ,,d [aac,,a1] [abb,d] |";germantab
+104;;138v;Saltarello;;;OT;;3;"[abb,d1] | [abb,d1] ,d/ a [,dba,d1] | \
+[,bdca/] ,a ,,d ,a ,b ,d | [aac,,a1] ,,,c/ ,,a ,,c ,,d | \
+[aac,,a1] ,,,c [abb,d] |";germantab
+105;;139v;Cantate Polonicum;;;OT;;C;",a1 ,a/ ,a [a,,c1] a/ [a,,c] | [,da/] ,a ,d [ac] [,d,,c] ,a [,d,,c] ,,,,c | \
+[ac,c/] c [da] [ac,ca] [cd,a] ,,,,c ,,,a [ac,c/4] ,a |";germantab
+106;;140v;Paduana elegans;;;OT;;C;"[abd,a2] [abd,a/] ,,a/4 ,,c ,,d ,a ,c/8 ,d a c | \
+[dab,,a1] [abd,a/] ,d/4 a [bdda1] [,dba,d] | \
+[abb,d3/2] [abb,d/] [b,,a/] a ,,d ,,,,e |";germantab
+107;;141r;Susanna se [videns];;;OT;ConcR860;C;"a2 d1 ,f/ d | [db1] [,,dc/] d/4 f [hf1] [hff,h/] ,,f | \
+[hff,h/] k [hff,h] ,,,f [fgfd1] [fghhf] |: \
+[,ff,h1] [hff,h] [hiif] [kh,hk/] h/4 k |";germantab
