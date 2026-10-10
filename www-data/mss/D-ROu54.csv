@@ -1,5 +1,5 @@
 PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
-1;B dur;0;Aria;;;B d f a d' f';;6/4;"[,,baaa2] [,,,a{,,,a}1] [,,,c{,,a}2] [,,a,b{4}1] | \
+1;B dur;0;Aria;;;Bb d f a d' f';;6/4;"[,,baaa2] [,,,a{,,,a}1] [,,,c{,,a}2] [,,a,b{4}1] | \
 [,,baaa1] ,,d [,ab] [,,'d{,a}2] [,,baaa1] | \
 [,,ded{,a}2] [,a{,,,a}1] [,,bc{,,a}2] [,,dcc{4}1] | \
 [,,aa{,,,a}1] [,,'b,,a] ,,a [,,,'c{4}2] [,,,a{,a}1] | \
@@ -794,53 +794,53 @@ c/4 ,a ,,a/ a | [,'c/] ,,,c [,,aa] ,a [,,d,c] [,,aa] \
 232;d moll;269;Courante P.;Pinel;;;Conc_2319;3;"e3/4 e/4 | [eda{,,,a}1] ,,,,a [eda] | ['c{a}3/4] c/4 \
 [cabca3/2] ,,d/ | [,'ca1] ,,,,,a/ ,a ,,e ,,,c | [,,,'a/] \
 ,,,,c ,,,,a ,a [,,dca] ,,b | [,,aad3/2] ,,b/ ,d1 | "
-233;B dur;270;Chique Villiers (accord Mercure);;;B d f a d' f';;C;",,b/ | [,,'baaa3/2] [,,d{c}/] ,,,a ,,b [,,'a{,a}3/4] (,,,c/8 \
+233;B dur;270;Chique Villiers (accord Mercure);;;Bb d f a d' f';;C;",,b/ | [,,'baaa3/2] [,,d{c}/] ,,,a ,,b [,,'a{,a}3/4] (,,,c/8 \
 ,,a) | ,,,a/ ,,,c [,,'a] ,,b ,,,c ,,,a ,,,,b ,,d | '{c}/ {a} \
 {,a} ,a ,,b ,,,c/4 {,,,a} {,,a} ,,b [,,'a] ,,,c | "
-234;B dur;270;Courante;;;B d f a d' f';;3;"[aabaab1] [aaba] [cb{,,a}] | [,b,,,c3/2] ,b/ [a,,,a1] | \
+234;B dur;270;Courante;;;Bb d f a d' f';;3;"[aabaab1] [aaba] [cb{,,a}] | [,b,,,c3/2] ,b/ [a,,,a1] | \
 ([,,b{a}1] [,,d{c}] [,a,,,a]) | [,,'d{,a}3/2] (,,,f/4 ,,d) \
 [,,,f,a1] | ['a,,,a1] [cb,,b3/2] e/ | f1 ['e{,a}3/2] f/ | \
 h1 [a,,,,a] ['c{4}3/4] (,d/8 c) | "
-235;B dur;271;Saraband;;;B d f a d' f';;3;"f1 [aa] [cb{,,a}] | [ada{,a}3/2] ,b/ [,ab,,a1] | \
+235;B dur;271;Saraband;;;Bb d f a d' f';;3;"f1 [aa] [cb{,,a}] | [ada{,a}3/2] ,b/ [,ab,,a1] | \
 [,b,,,c1] [a,,,a] [c,b,b] | [,,'d{,a}3/2] (,,,f/4 ,,d) \
 [,,,f,a1] | ,a/ ,,d [,,'b{a}1] [,,,c{,,a}] | ,,d/ ,,b \
 [,,'a{,a}1] [,,b{a}] | "
-236;B dur;272;Chanson;;;B d f a d' f';Conc_364;C;"[,ab,,a1] ,,d/ [,,'b] | [,,da{c}1] a ['a{a}3/2] ,c/ \
+236;B dur;272;Chanson;;;Bb d f a d' f';Conc_364;C;"[,ab,,a1] ,,d/ [,,'b] | [,,da{c}1] a ['a{a}3/2] ,c/ \
 [ada{,a}2] | [,da{,,,a}1] f/ ,d [cb{,,a}1] [aab{,,,a}] | \
 [,bb{4}1] [,,'a] [,abaa{5}2] | [,ab,,a1] ,,d/ ,,b \
 [,,da{c}1] a | "
-237;B dur;273;Sarab. De du Faut pag. 9;F.Dufault;;B d f b d' f';Conc_2320;3;"[faaa,a1] [faa3/2] e/ | {,,a}/ c [cba,b2] | [aaaaa1] \
+237;B dur;273;Sarab. De du Faut pag. 9;F.Dufault;;Bb d f bb d' f';Conc_2320;3;"[faaa,a1] [faa3/2] e/ | {,,a}/ c [cba,b2] | [aaaaa1] \
 ['a,c{a}3/2] ,b/ | ,,,,,a/ ,a [,aaa2] | [,,ced1] [,,ccc3/2] \
 ,,a/ | [,,,ed/] ,,a ,,c ,,,,,a ,,,,,c ,,,c | "
-238;B dur;274;Allemande Gautier pag. 9;F.Dufault;;B d f b d' f';Conc_2321;C;",,a/ | [,,aaaa1] ,,,,a [,,aa] [,,,e,c/] [,,,'c] | \
+238;B dur;274;Allemande Gautier pag. 9;F.Dufault;;Bb d f bb d' f';Conc_2321;C;",,a/ | [,,aaaa1] ,,,,a [,,aa] [,,,e,c/] [,,,'c] | \
 [,,,aa1] ,,,f/ [,,,'e] [,,,cb] ,,c ,a ,,a | [,,,'e{,a}/] \
 ,,f [,,ef] ,,f [a,aa1] [,,,'e/] ,,f | "
-239;B dur;276;Courante Gautier pag. 10;V.Gaultier;;B d f b d' f';Conc_66;3;",a/ | [,aaaaa/] ,b [ad2] | [,,af/] ,,a [,,,'e] ,,c ,,a ,a | \
+239;B dur;276;Courante Gautier pag. 10;V.Gaultier;;Bb d f bb d' f';Conc_66;3;",a/ | [,aaaaa/] ,b [ad2] | [,,af/] ,,a [,,,'e] ,,c ,,a ,a | \
 ,,,a/ ,,c {,a} ,,e [,,'c1] | {,,,a}/ ,,,a ,,,c {,,a} {,a} \
 ,,,e | "
-240;B dur;277;Courante Gautier pag. 10;V.Gaultier;;B d f b d' f';Conc_49;3;"a/ c e | V[f,,,,a1] ,,a a/ ,b | [,'a1] ,,a [c{,,a}/] c | \
+240;B dur;277;Courante Gautier pag. 10;V.Gaultier;;Bb d f bb d' f';Conc_49;3;"a/ c e | V[f,,,,a1] ,,a a/ ,b | [,'a1] ,,a [c{,,a}/] c | \
 [cba,b3/2] ,,a/ ,,c ,,a/4 ,,c | [,aaaa1] [,,aa] a/ a | \
 [adc{a}1] [,,ca] [,a,,,a/] ,a | "
-241;B dur;278;Allemande de Bechon pag. 10.11;Bechon;;B d f b d' f';;C;"a/ a | [aaaf3/2] ,,,e/ ,,a ,,,,f [,,aVf3/4] ,,a/4 | \
+241;B dur;278;Allemande de Bechon pag. 10.11;Bechon;;Bb d f bb d' f';;C;"a/ a | [aaaf3/2] ,,,e/ ,,a ,,,,f [,,aVf3/4] ,,a/4 | \
 [,,,'e{,a}/] ,,,a [,,'a] ,,,e/4 ,,a ,,c/ ,,,,b/4 ,,,a \
 [adaaa3/4] a/4 | [,b,,,c/] {a}/ a [,aa,,a/] ,,,c/4 ,,c"
-242;B dur;280;Courante de Bechon pag. 11;Bechon;;B d f b d' f';;3;"c/ a ,b | [,'aa3/2] ,,c/ ,,a ,,,e | [,bac/] ,,,e [,aaf3/2] \
+242;B dur;280;Courante de Bechon pag. 11;Bechon;;Bb d f bb d' f';;3;"c/ a ,b | [,'aa3/2] ,,c/ ,,a ,,,e | [,bac/] ,,,e [,aaf3/2] \
 ,,,,a/ | V,,,,b/ ,a [,,'c{,a}3/2] (,,a/4 ,,,e) | ,,a1 ,,,,,a \
 f | [h{a}3/2] ,,h/ ,,f h | "
-243;B dur;281;Sarabande de du Faut pag. 11;F.Dufault;;B d f b d' f';Conc_2322;3;"[ada,,a1] [ada/] a ,,c ,b | ,,,e/ ,,c ,b a [,aa1] | ,,,c/ ,,a \
+243;B dur;281;Sarabande de du Faut pag. 11;F.Dufault;;Bb d f bb d' f';Conc_2322;3;"[ada,,a1] [ada/] a ,,c ,b | ,,,e/ ,,c ,b a [,aa1] | ,,,c/ ,,a \
 ,b ,,,e ,,a ,a | [,,cfd1] [,,,'e/] ,,,,b [,,a,a1] | \
 [,,,e,c1] [,,'a,,a3/2] ,,c/ | "
-244;B dur;282;Chique de du Faut pag. 12;F.Dufault;;B d f b d' f';Conc_2323;3;",,,a/ | [,,a,,a1] [,,c{a}3/4] [,a,,,a/4] [,b,,,c/] [a,,,a] | \
+244;B dur;282;Chique de du Faut pag. 12;F.Dufault;;Bb d f bb d' f';Conc_2323;3;",,,a/ | [,,a,,a1] [,,c{a}3/4] [,a,,,a/4] [,b,,,c/] [a,,,a] | \
 [c,,,b/] [a,,a] ,b [,a,c] [,,,'a] [,b,,b] | [a,,,a/] ,,a \
 [c,,,b] [a,aa] [,,,e{,a}] ,b | [,'a,,,a3/4] ,,c/4 ,,,,,a/ \
 ,,,c ,b [,a,a] | "
-245;B dur;283;Gigue Strobel pag. 12;V.Strobel;;B d f b d' f';Conc_5350;C;",d/ ,b [,'a] ,,,f ,,c ,,,e ,,a ,,,,f | [,,,,'d3/4] ,,,,,f/4 \
+245;B dur;283;Gigue Strobel pag. 12;V.Strobel;;Bb d f bb d' f';Conc_5350;C;",d/ ,b [,'a] ,,,f ,,c ,,,e ,,a ,,,,f | [,,,,'d3/4] ,,,,,f/4 \
 ,,,,a/ ,,,a [,,,,,'c3/4] ,,,,,a/4 [,,c{a}/] ,b | [,'aaaaa/] \
 ,,c/4 ,a ,,c/ {,a} [,,,c{,,a}3/4] ,,,e/4 [,,a{,,,a}/] ,,,a | "
-246;B dur;284;Saraband de Mercure;J.Mercure;;B d f a d' f';Conc_2324;3;"[aab1] [aa] ,,a3/4 a/4 | [,bbc3/2] ,b/ [a,a3/4] ,b/4 | \
+246;B dur;284;Saraband de Mercure;J.Mercure;;Bb d f bb d' f';Conc_2324;3;"[aab1] [aa] ,,a3/4 a/4 | [,bbc3/2] ,b/ [a,a3/4] ,b/4 | \
 [,ab1] [,'a,,a/] ,b a ,,,,b | [,,'d{,a}3/2] (,,,f/4 ,,d) \
 ,,,f1 | [,bb{a}1] [,'a/] (,,d/4 ,a) [,,d{c}1] | "
-247;B dur;285;Courante de du Faut pag. 11;F.Dufault;;B d f b d' f';Conc_2325;3;"a/4 c e | [faa,,a3] | [c,,,b1] ['aaa{a}3/2] ,b/ | \
+247;B dur;285;Courante de du Faut pag. 11;F.Dufault;;Bb d f bb d' f';Conc_2325;3;"a/4 c e | [faa,,a3] | [c,,,b1] ['aaa{a}3/2] ,b/ | \
 [,aaaaa3] | [,b,,,c3/2] ,d/ [,a,,aa1] | [,,'c{,a}3/2] \
 (,,a/4 ,,,e) ,,a1 | ,/ a/ [c{,,a}3/2] f/ | [ed{,a}3/2] \
 f/ [h{a}1] | "

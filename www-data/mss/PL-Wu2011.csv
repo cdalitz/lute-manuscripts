@@ -5,7 +5,7 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
 {,a}/ {,,a} {,,,a} {,,a} | {,a}/ {,,a} {,a} {,,,a} | \
 [,,a,,a1]> ,,a | [,,c{a}/] ,,d/4 ,a [,cd/] ,a | "
 ;;;Morgen übung;;;;;;
-3;d moll;4;Symphonie;;;;;C;"[e{,,,a}/] | [,a,,,b/] [,c{a}] [,,'e,,a/]> ,a [,a,,a/] {,,,a} \
+3;d moll;4;1. Symphonie;;;;;C;"[e{,,,a}/] | [,a,,,b/] [,c{a}] [,,'e,,a/]> ,a [,a,,a/] {,,,a} \
 z/ a/ | [c{,,a}/] [a{,,,a}] [c{,,a}] [e{,a}] [f{a}1] \
 z/ [e{,a}/] | [c{,,a}/] [a{,,,a}] [,c{,a}] [,a{a}] [,,e,,a] {6}"
 4;d moll;4;Ermuntere dich, mein Geist, Meditative;;;;;C;"([e{,,,a}/4] c) | ['a,,,,b/] [,c{a}/4] ,a [,,'e,,a/]> ,a \
@@ -19,7 +19,7 @@ a/ ([,c{a}/4] ,a) [e,,,,a/] [,,a{6}] | "
 ['a{,,,a}2] [,c{6}1] | [e{,a}1] [,a{d}2] | \
 [c{a}1] [,,e,,a2] | ([,a{a}/] ,c) [a,,,,a1] [,'c] | "
 ;;;Demüthige Verehrung d.d.d. Dreyfaltigkeith;;;;;;
-7;e moll;6;Symfonia;;;;;C;"[,,cc{,,a}1] [cc] [,e{,,,a}] [,,c{,,a}] | \
+7;e moll;6;2. Symfonia;;;;;C;"[,,cc{,,a}1] [cc] [,e{,,,a}] [,,c{,,a}] | \
 [,,a{,a}1] [,e{,,,a}] [,,a{4}] [,,,c{5}] | \
 [,,,b{6}1] ,,a [,,,b{,a}] [,,,,c{a}] | "
 8;e moll;6;Wie kan O! Grosser Gott!, Meditative;;;;;C;",,c/ | [,,c{,,a}/] [,c{4}] [,e{6}] c [,b{5}1] z/ \
@@ -32,7 +32,7 @@ a/ ([,c{a}/4] ,a) [e,,,,a/] [,,a{6}] | "
 [,c{4}/] ,a ,,d ,,c ,,a ,,,c | ,,,,e/ ,,,c ,,a1 ,,,,a | \
 [e{,a}1] ,c [e{,,a}] | "
 ;;;Erinnerung der Erschaffung;;;;;;
-11;a moll;9;Symphonia;;;;;C;"[e{6}/] ,,a ,,a ,,a [,,c{b}/] ,,a [,,a,,a] ,,a | \
+11;a moll;9;3. Symphonia;;;;;C;"[e{6}/] ,,a ,,a ,,a [,,c{b}/] ,,a [,,a,,a] ,,a | \
 [,a{6}/] a ,a ,,d [,,c{,,a}1] {,,a}/ {,,,a} | \
 [c{4}/] ,,d [,,d{,,a}] ,,d [,a{,a}/] ,,d [,,d{,,a}] ,,d | "
 12;a moll;9;Vatter Himmels und der Erden, Meditative;;;;;C;"[e{6}1] [c{,,a}] ['a{,,,a}] [,c{4}] | \
@@ -48,7 +48,7 @@ a/ ([,c{a}/4] ,a) [e,,,,a/] [,,a{6}] | "
 [a{,,,a}2] [,c{4}1] | [,'a{,a}1] (,,d/ ,,c) [,,d{,,a}1] | \
 [a{,,,a}1] ,,a [,,c{a}] | "
 ;;;Nützliche Betrachtung der Ewigkeith;;;;;;
-15;a moll;12;Symphonia;;;;;C;"[,cde{6}1] [,'a] ,,d/ ,,,,,a ,,,,,d ,,,,,a | \
+15;a moll;12;4. Symphonia;;;;;C;"[,cde{6}1] [,'a] ,,d/ ,,,,,a ,,,,,d ,,,,,a | \
 [,,c{,,,a}1] [,,'a] ,,,d/ {,,a} {b} {,,a} | \
 [c{a}/] 'a [,c{4}/] {,,,a} {4} | [,a{5}1] ,,d [,,'c/] \
 {,,a} {b} {,,a} | "
@@ -61,8 +61,8 @@ z/ [,,,c{4}/] [,,a{,a}] [,,c{a}] | "
 18;a moll;14;Piezza;;;;;C;"[,,a{6}1] ,,c [,,d,,a] [,,c{a}] | [,a{5}/] ,,d [,,c{4}] \
 [,,a{,,,a}] [,,c{,,a}/] ,,,,c ,,,,c1 | \
 [,c{6}1] e/ ,c [,'a{5}1] z1 | [,a{5}1] (c/ ,a) [,,d{6}1] z1 | "
-;;;Bekanntnus des Glaubens;;;;;;
-19;F dur;16;Symfonia;;;;;C;"[,,d{,a}1] [,a{5}] [,,,,'c{4}] ,,,a | \
+;;;Bekanntnis des Glaubens;;;;;;
+19;F dur;16;5. Symfonia;;;;;C;"[,,d{,a}1] [,a{5}] [,,,,'c{4}] ,,,a | \
 [,,b{a}1]> [,,a{,a}] [,,,c{4}1] z1 | \
 [,c{4}1] [c{,,a}] [,,'c{a}] [,,d{,,a}] | \
 [a{,,,a}1] [,c{,,a}/] {,a} [,acc{a}1] z1 | \
@@ -70,11 +70,11 @@ z/ [,,,c{4}/] [,,a{,a}] [,,c{a}] | "
 20;F dur;16;Ich glaub an Einen Gott, Aria Meditative;;;;;C;"[,,d{,a}/] | [,a,,,b1] [,,d,,a] [,,b{a}] (,,a/ ,,b) | \
 [,,,c,d/] {4} z/ [,c{4}/] [a{,,,a}/] ,a ([,,d{,,a}] ,,c) | \
 [,,a{,a}/] ,,a z/ [c{4}/] [e{,a}/] [c{,,a}] [a{,,,a}/]> ,c | "
-21;A dur;17;Adagio;;;;;C;",,,,,a/ ,,e e ,,d ,,c ,a ,,c ,,,,,a | \
+21;a moll;17;Adagio;;;;;C;",,,,,a/ ,,e e ,,d ,,c ,a ,,c ,,,,,a | \
 {b}/ ,c ,d ,c {,c}/ ,c ,,c ,c | \
 {,b}/ ,,a ,b ,,a {,,b} ,a ,,a ,a | "
 ;;;Trost der Hoffnung;;;;;;
-22;d moll;18;Symphonia;;;;;3/4;"[,aaa{a}2] ,c1 | [,,e,,a2] [,a{,a}1] | \
+22;d moll;18;6. Symphonia;;;;;3/4;"[,aaa{a}2] ,c1 | [,,e,,a2] [,a{,a}1] | \
 [c{,,a}1] a ,c | [,d{,,,a}2] ,a1 | [e,,,a2] [,c,,,e1] | \
 [,d,,a2] ,c1 | [a,,,,b1] ,c ,a | "
 23;d moll;18;Was wirdt mich doch wohl erschröcken, Aria Meditative;;;;;3/4;"[eaa{,,,a}2] ,a1 | ,,e2 [,a{,a}1] | \
@@ -85,7 +85,7 @@ z/ [,,,c{4}/] [,,a{,a}] [,,c{a}] | "
 {,a}1 ,,a {a} | [,,,'a2] ,,a1 | ,,,,,d1 ,,,c ,,,,c | \
 ,,,,,e1 ,,a ,,,c | {,,,a}1 ,,,a ,,,,a | "
 ;;;Erweckung der Liebe;;;;;;
-25;a moll;20;Lente;;;;;C;"[a(a,,,a/] [,c)] ([,c{a}1] [,a{,a}/]) ,,d [,,d{,,a}1] | \
+25;a moll;20;7. Lente;;;;;C;"[a(a,,,a/] [,c)] ([,c{a}1] [,a{,a}/]) ,,d [,,d{,,a}1] | \
 ([,a,,,b/] ,,d) [,,d,,a1] ([,,b{a}/] ,,a) [,,a{,a}1] | \
 ([,,c{,,,a}/] ,,a) ,,a1 [,,,'d{,,a}2] | \
 [,,a{6}1] a [,a{5}] c | "
@@ -93,116 +93,116 @@ z/ [,,,c{4}/] [,,a{,a}] [,,c{a}] | "
 z/ [,c{a}/] | [a,,,,a/] [,c{a}] [,a{,a}/]> ,c [,ccd{,,a}/] \
 ,c z/ c/ | [c{4}/] e [a{,,,a}] ,c [ad{,,,a}1] [c{,,a}/] | "
 ;;;Betrachtung der Barmherzigkeith Gottes;;;;;;
-27;d moll;22;Simfonia;;;;;C;"[,aa{,,,a}/]> a ,c/ ,a [,c,,,e1] ,,a | \
+27;d moll;22;8. Simfonia;;;;;C;"[,aa{,,,a}/]> a ,c/ ,a [,c,,,e1] ,,a | \
 [,,,c{,,a}/]> ,,b ,,a/ ,,,c [,,a{,a}1] ,,,a | \
 [,,a{,a}/]> ,a [,,e,,a/] ,a [,c,,,e1] ,,a | \
 [,c,,,e/]> c a/ ,c [a,,,a1] [,a{,,,a}] | "
-28;d moll;22;Wilst du O! Vatter dich, Meditative;;;;;C;"[,a{,,,a}/] | [,,a{,a}/] [,,c{a}] [,,e,,a] [,a,,,c] \
+28;d moll;22;Wilst du O! Vatter dich, Aria Meditative;;p. 23 empty;;;C;"[,a{,,,a}/] | [,,a{,a}/] [,,c{a}] [,,e,,a] [,a,,,c] \
 [,c,,,e] z/ [a{,,,a}/] | [c{,,a}/] a [,c{,a}] ,a \
 [,e,,a] [,,e{6}] z/ [,,d{,a}/] | [a{,,,a}/] a [c{,,a}] e \
 [,a,,,b1] z/ [,a,,,b/] | "
 ;;;Betrachtung der Gerechtigkeith Gottes;;;;;;
-29;F dur;24;Symphonia;;;;;2/4;"{,a}/ a ,c a | [,,d,,a1] z/ [,a,,,b/] | ,,d/ ,a [,,,c{4}1] | \
+29;F dur;24;9. Symphonia;;;;;2/4;"{,a}/ a ,c a | [,,d,,a1] z/ [,a,,,b/] | ,,d/ ,a [,,,c{4}1] | \
 z/ [,,d,,a/] ,,b ,,d | [,,,a,b1] z/ ,,d/ | \
 [,a,,,b1] [,c,,,d] | "
-30;F dur;24;Ach Herr! du bist gerecht, Aria Meditative;;;;;2/4;",,d/ | [ad{,a}1] z/ [c{,,a}/] | [e{,a}1]> [,c{4}] | \
+30;F dur;24;Ach Herr! du bist gerecht, Aria Meditative;;p. 25 empty;;;2/4;",,d/ | [ad{,a}1] z/ [c{,,a}/] | [e{,a}1]> [,c{4}] | \
 [ad{,a}1] z/ [c{,,a}/] | [a{,,,a}/] [,c{4}] ,a ,,d | \
 [,,c{a}/] ,,,c z/ [a,,,,a/] | "
 ;;;Erinnerung der Vorsehung Gottes;;;;;;
-31;a moll;26;Symphonia;;;;;C;"[,c{6}/] [,,a{5}] [,,a{4}] [,,a{6}] [,a{,,a}/] [,,,d{b}] \
+31;a moll;26;10. Symphonia;;;;;C;"[,c{6}/] [,,a{5}] [,,a{4}] [,,a{6}] [,a{,,a}/] [,,,d{b}] \
 [,,,d{,b}] [,,,d{,,a}] | [,,a{,,,a}/] [a{,,a}] [a{,a}] \
 [a{,,,a}] [a{4}/] [,c{,,,a}] [,c{,,a}] [,c{4}] | \
 [,a{b}/] [,,d,,a] [,,d,,d] [,,d,,a] ,,d [,,c{b}] \
 [,,c,,c] [,,c{b}] | "
-32;a moll;26;Wie groß bist du O! Herr!, Aria;;;;;C;",c/ | V[e,,,,a] ,,d [,,c{a}] [,,d,,a] \
+32;a moll;26;Wie groß bist du O! Herr!, Aria Meditative;;p. 27 empty;;;C;",c/ | V[e,,,,a] ,,d [,,c{a}] [,,d,,a] \
 [,acc{a}1] z/ [c{,,a}/] | [a{,,,a}/] [,c{4}] [,a{5}] \
 [,,d{6}] [,acc{a}1] z/ [,c{4}/] | [a{,,,a}/] \
 ,,d ,,c ,,a [,,,'d{,,a}1] z/ ,,c/ | "
 ;;;Ergebung in den Willen Gottes;;;;;;
-33;d moll;28;Symfonia;;;;;C;"[,a{,,,a}/] [e{,a}] a [,a{,,,a}] [,c{a}/] c [,,e,,a] ,,a | \
+33;d moll;28;11. Symfonia;;;;;C;"[,a{,,,a}/] [e{,a}] a [,a{,,,a}] [,c{a}/] c [,,e,,a] ,,a | \
 [,,a,,a/] (,a/4 ,,d) [,,b{a}/] ,,a [,,,c{,,a}/]> ,,a \
 [,,ae,a1] | [,,a{,a}/] ,a [,,c{a}] ,c [,,e,,a/] ,a \
 [,ce,,a1] | "
-34;d moll;28;Lasse mich O! Vatter Leben, Aria Meditative;;;;;C;"(,a/4 ,c) | [a{,,,a}/] [,,e,,a] [,(a,,,b/4]> a ,c [,a)] \
+34;d moll;28;Lasse mich Leben O! Vatter, Aria Meditative;;p. 29 empty;;;C;"(,a/4 ,c) | [a{,,,a}/] [,,e,,a] [,(a,,,b/4]> a ,c [,a)] \
 [,c,,,a/] ,,a z/ (,c/4 a) | [c{,,a}/] [e{,a}] ['a{a}/] \
 ,c/4 ,a [,,e,,a1] z/ ([a{,a}/4] ,c) | "
 ;;;Anbethung des Aller Heyligsten Sacraments;;;;;;
-35;d moll;30;Symphonia;;;;;C;"[,,a{,,,a}/] a (,c ,a) [,c,,,a1] ,,a | \
+35;d moll;30;12. Symphonia;;;;;C;"[,,a{,,,a}/] a (,c ,a) [,c,,,a1] ,,a | \
 [,c{a}/] ,,a ,,,c ,,a ,,,a1 [,,,,a{a}] | \
 [,c,,,e/] c a ,c [a,,,,a1] [,a{,,,a}] | \
 [e,,,,e1] [,c,,,a] [a,,,,b] [,a{a}] | "
-36;d moll;30;Eylet liebste Adams Kinder, Aria Meditative;;;;;C;"[,,a{,,,a}1] [,a{,a}/] [,c{a}] [a,,,,a1] ,,a | \
+36;d moll;30;Eylet liebste Adams Kinder, Aria Meditative;;p. 31 empty;;;C;"[,,a{,,,a}1] [,a{,a}/] [,c{a}] [a,,,,a1] ,,a | \
 [,,'ba1]> [,,a{,a}] [,,,c,d1] [,,,c{4}] | \
 [,c{4}1] [c{,,a}] [,,'c{a}1]> [,,d{,a}] | \
 [,'a{a}1]> ,,d [,,dcc{4}2] | \
 [a,,,,a1] (c/ e) [,a,,,b1] a | "
 ;;;Betrachtung des Leydens undt des Todes Christi;;;;;;
-37;g moll;32;Symphonia;;;;;C;"[,abc{a}1] [,b,,,a] [,a,,,b] [,,d,,a] | \
+37;g moll;32;13. Symphonia;;;;;C;"[,abc{a}1] [,b,,,a] [,a,,,b] [,,d,,a] | \
 [,,b{a}1] (,,a/ ,,,c) ,,,b2 | \
 [,a{5}1] [,b{4}] [a{,,,a}] ,,b | \
 [,,d,,a1] [,a,,,b] [,b{a}] [,,c{,,a}] | \
 [a{,,,a}1] [c{,,a}] [a{,a}] [,,b{a}] | "
-38;g moll;32;Kommet doch ihr Fromme Hertzen, Aria Meditative;;;;;C;"[cabc{a}1] [,a,,,a] [,b,,,b1]> [,a{a}] | \
+38;g moll;32;Kommet doch ihr Fromme Hertzen, Aria Meditative;;p. 33 empty;;;C;"[cabc{a}1] [,a,,,a] [,b,,,b1]> [,a{a}] | \
 [,,d,,a1] [,a{,b}] [,,b{a}] ,,,c | \
 [,,a{,b}1] [,,b{a}] [,,d,,a] ,a | \
 [,,b{a}1]> ,,a [,,a,a1] {,,,a} | \
 [,a{5}1] [,b{4}] [a{,,,a}] [,,b{a}] | "
 ;;;Reumüthige Gedancken Eines büssenden Sünders;;;;;;
-39;g moll;34;Symfonia;;;;;C;"[,,,c{a}/] ,,,c ,,b ,,,c [,,b{a}/] [,,d,,a] [,a,,,b] ,,,c | \
+39;g moll;34;14. Symfonia;;;;;C;"[,,,c{a}/] ,,,c ,,b ,,,c [,,b{a}/] [,,d,,a] [,a,,,b] ,,,c | \
 [,a{5}/] [c{4}] [b{,,,a}] ,a [c{d}/] [f{a}] [e{,a}] ,a | \
 [c{,,a}/] ,a [,b{4}1] [,a{,,,a}/] ,,a [,,b{a}1] | "
-40;g moll;34;Darff ich dich grosser Gott, Aria Meditative;;;;;C;"[,abc{a}/] | [,b,,,a/] ,a [,,e,,a/]> a [,a,,a1] z/ [c{,,a}/] | \
+40;g moll;34;Darff ich dich grosser Gott, Aria Meditative;;p. 35 empty;;;C;"[,abc{a}/] | [,b,,,a/] ,a [,,e,,a/]> a [,a,,a1] z/ [c{,,a}/] | \
 [a{,,,a}/] [,b{4}] [,a{,,,a}] [,,d{,,a}] [,,'d{,a}/]> ,,b \
 [,,ba{d}1] | [,a{5}1] ,a/ ,b [a{,,,a}/]> c [ad1] | "
 ;;;Buss=Gedancken;;;;;;
-41;a moll;36;Symfonia;;;;;C;"[ecd,,a/] ,c [,c{a}] c [a{,,,a}/] ,a ,a a | \
+41;a moll;36;15. Symfonia;;;;;C;"[ecd,,a/] ,c [,c{a}] c [a{,,,a}/] ,a ,a a | \
 [,c{4}/] ,,c [,,c{b}] ,a [,,d{4}/] ,,a ,,a ,,d | \
 [,,c{,,a}/] ,,,d ,,,d [,a{5}] [,,d{6}/] ,,a ,,a [,c{4}] | "
-42;a moll;36;Drey Einig Grosser Gott, Aria Meditative;;;;;C;",c/ | [,,a,,a/] ,,d [,,c{,,,a}] ,,a [,,,d{,,a}1] \
+42;a moll;36;Drey Einig Grosser Gott, Aria Meditative;;p. 37 empty;;;C;",c/ | [,,a,,a/] ,,d [,,c{,,,a}] ,,a [,,,d{,,a}1] \
 z/ [,c{4}/] | [a{,,,a}/] ,c ([e{,a}/4] c) (a ,c) \
 [,acc{a}/]> ,a [,acc1] | (,c/4 a) [c{4}/] [c{,,,a}] \
 [c{,,a}/4] {,a} [,,c{a}/] [,,d,,a1] | "
 ;;;Tägliche Erforschung des Gewissens;;;;;;
-43;F dur;38;Symphonia;;;;;C;"[ad{,a}/] (a/4 ,c) a/ [,,d,,a] [,a,,,b/] (,a/4 ,,d) \
+43;F dur;38;16. Symphonia;;;;;C;"[ad{,a}/] (a/4 ,c) a/ [,,d,,a] [,a,,,b/] (,a/4 ,,d) \
 ,a/ [,,a{,a}] | [,,b{a}/] ,a ,,d ,,b ([,,a{,a}/] ,,,c) \
 ,,,a1 | [a{,a}/] (e/4 c) e/ [,,d,,a] [,a,,,b/] \
 (,a/4 ,,d) ,a/ [,,a{,a}] | "
-44;F dur;38;Nun will dich Sonne sich, Aria Meditative;;;;;C;"[a{,a}/] | [,,d,,a/] [,a,,,b] [,,d,,a] [,,b{a}] [,,a{,a}1] z/ \
+44;F dur;38;Nun will dich Sonne sich, Aria Meditative;;f. 39 empty;;;C;"[a{,a}/] | [,,d,,a/] [,a,,,b] [,,d,,a] [,,b{a}] [,,a{,a}1] z/ \
 [,,d,,a/] | [,a,,,b/] [,,d,,a] [,,b{a}] [,,a{,a}] [,,,c{4}/] \
 ,,,c z/ [a{,,,a}/] | ,c/ ,a ,c a [ccd{,,a}1] z/ c/ | "
 ;;;Betrachtung, wie mann das gantze Jahr zugebracht hat;;;;;;
-45;f# moll;40;Symphonia;;;;;3/4;"([,,e{,a}/] ,a) | [,c{4}2] [,,a{,,,a}1] | [,,,d{,,a}2] \
+45;f# moll;40;17. Symphonia;;;;;3/4;"([,,e{,a}/] ,a) | [,c{4}2] [,,a{,,,a}1] | [,,,d{,,a}2] \
 [,,a{,a}1] | [,,c{a}3] | [,a{,a}2] [,,e{,,a}1] | \
 V[,e{,,,a}2] [,c{4}1] | [,'a{5}2] [,,e{6}1] | \
 [,,c{,,a}3] | "
-46;f# moll;40;Wie hab ich Grosser Gott, Aria Meditative;;;;;3/4;"([,,a{,a}/] ,,c) | [,,e,,a2] ,a1 | [,c{a}2] ,a1 | \
+46;f# moll;40;Wie hab ich Grosser Gott, Aria Meditative;;p. 41 empty;;;3/4;"([,,a{,a}/] ,,c) | [,,e,,a2] ,a1 | [,c{a}2] ,a1 | \
 [,,e,,a2] (,,e/ ,a) | [,c{4}2] [,,a{,,,a}1] | [,,,d{,,a}2] \
 , [,,a{,a}1] | [,,c{,,,a}2] (,,a/ ,,,d) | [,,a,,a3] | "
 ;;;Erinnerung des Todes;;;;;;
-47;A dur;42;Symphonia;;;;;C;"[,,e,,a1] [,a{a}] [,,e,,a] [,,c{a}] | \
+47;A dur;42;18. Symphonia;;;;;C;"[,,e,,a1] [,a{a}] [,,e,,a] [,,c{a}] | \
 (,,e/ ,,c) (,,a ,,,d) [,,a{,a}1] ,,,b | \
 [,e{,,,a}1] e [d{4}] [,,e{5}] | \
 ([g{,,,a}/] e) (,g ,e) [a{4}2] | \
 [d{,,a}1] [,,e,,a] [,e{,,,a}] [,,c{,,a}] | "
-48;A dur;42;Es ist nun gahr zu wahr;;;;;C;",,e/ | ,,a/ ,,,d (,,a/4 ,,,d) (,,,,e ,,,,d) [,,,,e{,a}1] \
+48;A dur;42;Es ist nun gahr zu wahr. Aria Meditative;;p.43 empty;;;C;",,e/ | ,,a/ ,,,d (,,a/4 ,,,d) (,,,,e ,,,,d) [,,,,e{,a}1] \
 z/ [,,e,,a/] | [,a,,,c/] [,,e,,a] [,,c{a}/]> [,,a{,a}] \
 [,,e{4}/] ,,e z/ ,c/ | [,c{4}/4] [,e{,,,a}] [,c{,,a}] \
 ,,a [,,e,,a1] z/ [,,e{,a}/] | "
 ;;;Bereithung zum Tode;;;;;;
-49;g moll;44;Symfonia;;;;;C;"[cabc{a}/] ,,,,,a (,,,,,b/4 ,,d ,,b ,,a) [,,,c{a}1]> \
+49;g moll;44;19. Symfonia;;;;;C;"[cabc{a}/] ,,,,,a (,,,,,b/4 ,,d ,,b ,,a) [,,,c{a}1]> \
 [,b,,,a] | ([,b{a}/] ,a) [,a{,a}] ,,d [,,d{,,a}/] ,,b \
 [,,b{4}] ,,a | [,,a{,,,a}1] {,,b} {,b} {,,,a} | "
-50;g moll;44;So muß ich endlich, Aria Meditative;;;;;C;"[cabc{a}/] | [b,,,,a1] [c,,,,b] ,a [,,e,,a] | \
+50;g moll;44;So muß ich endlich, Aria Meditative;;p.45 empty;;;C;"[cabc{a}/] | [b,,,,a1] [c,,,,b] ,a [,,e,,a] | \
 [,,b{a}1] z/ [,a{5}/] [,b{4}] ,,,c [,,,b{6}] ,,,c | \
 [,,a{,,,a}/] ,,a z/ a/ ([,b{4}/4] ,a) (,,d ,,b) \
 [,,a{,a}/] [,,b{a}] | "
 ;;;Buß=Gedancken;;;;;;
-51;g moll;46;Symphonia;;;;;C;"[,,,c{a}1] [,,a{,b}] [,,b{a}] ,,,c | \
+51;g moll;46;20. Symphonia;;;;;C;"[,,,c{a}1] [,,a{,b}] [,,b{a}] ,,,c | \
 [,b{4}1] [,a{,,,a}] [c{,,a}] [b{,,,a}] | \
 [c{5}1] [e{4}] [,a{,,,a}2] | \
 [c{,,a}1] [,,d,,a] [a{,,,a}] [,,b{a}] | \
 [,b{4}1] ,,a [,,d,,a] [,,b{a}] | "
-52;g moll;46;Ich fall' O! grosser Gott!;;;;;C;"[cabc{a}1] ,,,c z/ [,b{4}/] [,a{,,,a}/] [,,d,,a] | \
+52;g moll;46;Ich fall' O! grosser Gott! Aria Meditative;;p.47 empty;;;C;"[cabc{a}1] ,,,c z/ [,b{4}/] [,a{,,,a}/] [,,d,,a] | \
 [,,bc{a}1] z/ [a{,,,a}/] [,,b{,,a}] ,b [,a{,a}/]> ,,d | \
 [,,'d{,a}/]> ,,b [,,ba{d}1] z/ [c{,,a}/] [b{,,,a}] c | \
 [e{4}/] c ['b{,,,a}1]"
@@ -215,7 +215,7 @@ z/ [,,e,,a/] | [,a,,,c/] [,,e,,a] [,,c{a}/]> [,,a{,a}] \
 {6} z/ [,e,,a/] | [,c,,,e/] [,a,,,c] [,,e,,a] [,,c{,,a}] \
 [,,e,,a/] ,,a z/ [,c{a}/] | [e{,a}/] [d{,,a}] [,e{a}] ,c \
 [,b,,,c1] z/ [,c{a}/] | "
-;;;Omni die die MARIÆ;;;;;;
+;;;Omni die dic MARIÆ;;;;;;
 55;A dur;50;Symfonia;;;;;C;"[ece,,a{6}1] (d/ ,e) [,c{4}1] [,e{,,,a}] | \
 [,c{4}1] ([,a{5}/] ,c) [,,e{6}1] [,e{,,,a}] | \
 [,a{,a}1] [,,e{,,a}] [,,c{,,,a}] [,,a{4}] | \
@@ -263,10 +263,10 @@ z/ [,,e,,a/] | [,a,,,c/] [,,e,,a] [,,c{a}/]> [,,a{,a}] \
 67;f# moll;63;Sarabande;;;;Conc_815;3;"[,e{,a}/] (,,e/4 ,,c) [,,'a/] ,,,d ,,,e ,e | \
 [,e{4}1] (,e/ d) ,,e1 | [,,c{a}/]> ,,a ,,c/ d ,,c d | \
 [,,a{,a}1] ,,,d/ ,,a ,,,,e1 | "
-68;A dur;64;Passpie;D.Kellner;;;Conc_1404;3/8;",c/ | [e,,,,a/] ,,a [,,a,,a] | [,,'a{,a}1] [e{,,a}/] | \
+68;A dur;64;Passpie;D.Kellner;pp. 65-95 missing;;Conc_1404;3/8;",c/ | [e,,,,a/] ,,a [,,a,,a] | [,,'a{,a}1] [e{,,a}/] | \
 [e{,a}/] ,,a [,,a{4}] | [,,a{,,,a}1] [,e,,,a/] | \
 [,c{a}/] ,e [,a{,a}] | [,,e{,,a}/] ,a [,,c{,,,a}] | "
-69;C dur;96;[Adagio, 2.H.];Zedlack;;;Conc_2726;2/4;"[,,,c{a}/] [,,c{,,,a}1] ,,a/ | (,,,c/4 ,,,,e) ,,,c/ \
+69;C dur;96;[Adagio, 2.H.];C. Zedlack;;;Conc_2726;2/4;"[,,,c{a}/] [,,c{,,,a}1] ,,a/ | (,,,c/4 ,,,,e) ,,,c/ \
 ,,,c ,,,c | [,,,c{4}/] ,c [,'a{,,,a}/4] (,,d ,,c ,,a) | \
 [,,,c{a}/] {,a} {,,a} {,,,a} | [,,d{4}/] V,c1 ,a/ | "
 70;C dur;97;Menuet;Losy?;;;Conc_2729;3;"[ccd{4}1] (e/ c) ([a{a}] ,c) | [,'a{a}1] (,,d/ ,,c) ,,d1 | \
@@ -279,7 +279,7 @@ z/ [,,e,,a/] | [,a,,,c/] [,,e,,a] [,,c{a}/]> [,,a{,a}] \
 [,,a,,c1] ,a ,,a | [,,,c{4}1] {a}/ {,a} {,,a} {,,,a} | \
 (3[,c{4}/4] ,d ,c) [,a,,,c1] c | (3[,,d,,a/4] ,a ,,d \
 [,,c{a}1] c | "
-73;C dur;99;Menuet;;;;Conc_2735;3;"[h{4}2] 'g1 | [e,d{,a}1] ,,d ,,d | [c{,,a}1] ,,d ,,d | \
+73;C dur;99;Menuet Ariosa;;;;Conc_2735;3;"[h{4}2] 'g1 | [e,d{,a}1] ,,d ,,d | [c{,,a}1] ,,d ,,d | \
 [ed{,a}3] | [c{,,a}1] ,,d ,,d | [aa{,,,a}3] | \
 [,c{4}1] ,a ,,d | [,,'cc{a}1] (,,a/ ,,c) ,,,c1 | "
 74;C dur;100;Aria;Losy;;;Conc_504;C;"[hfh{4}1] [g{,,,a}/]> ,h [,f{,,a}1] ,,h | \
@@ -297,16 +297,16 @@ z/ [,,e,,a/] | [,a,,,c/] [,,e,,a] [,,c{a}/]> [,,a{,a}] \
 {,,a}/ ,,,c ,,d ,,d/ ,,c ,,d | \
 {,a}/ ,,a ,a ,a/ ,c ,d | [,,c{a}/] ,,d ,a ,,,c1 {,a}/ | \
 {,,a}/ ,,d c {,a}/ ,,d e | "
-78;e moll;104;Aria;;;;;3;"[,,ccc{,,a}1] [,,d,,a] [,,c{a}] | \
+78;e moll;104;Aria;;4 tuned to B;;;3;"[,,ccc{,,a}1] [,,d,,a] [,,c{a}] | \
 ([,c{,,a}/] ,e) [,'bc{4}2] | \
 [cac{a}1] [,a,,,c] [,c,,,d] | \
 [,,d,,a2] [,,c{a}1] | [cac{a}1] [,a,,,c] [,,c{a}] | \
 [,c,,,d1] ,,a ,,,,e | [,,,c{,,a}1] [,,a{,a}] [,,c{a}] | "
-79;e moll;105;Aria;;;;;C;"[,,ccc{,,a}1] [,,d,,a] [,,c{a}] {,a} | \
+79;e moll;105;Aria;;4 tuned to B;;;C;"[,,ccc{,,a}1] [,,d,,a] [,,c{a}] {,a} | \
 [,,c{,,a}1] [,,d,,a] [,,c{a}] [e{,a}] | \
 [,b,,,c1] [,,c,,a] [c{,,a}] [,e{,,,a}] | \
 [,a,,,c1] c [,c,,,d] [,a,,,c] | \
 ([,,d,,a/] ,a) (,,c ,,d) [,,a,a1] {,,,a} | "
-80;e moll;106;Gigue;;;;Conc_3740;6/8;",,c/ | ,,,,c/ ,,c ,,,c ,,,,b/ ,,c ,,,b | \
+80;e moll;106;Gigue;;4 tuned to B;;Conc_3740;6/8;",,c/ | ,,,,c/ ,,c ,,,c ,,,,b/ ,,c ,,,b | \
 ,,,,c/ ,,c ,,,c {,,a}1 ,c/ | {,a}/ ,a ,,a ,,,,a ,a ,,d | \
 {a}/ ,,c ,,,c ,,,,a1 ,,c/ | "

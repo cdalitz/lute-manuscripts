@@ -29,11 +29,11 @@ PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab;TabNota
 17b;c moll;14v;[Passazmezo] Alio modo;;;OT;;;[abd,a/] ,a ,,d ,,b ,,d ,a ,b ,d a c d c a ,d ,b ,a | [abd,a/] ,a ,b ,d a c d a ;germantab
 17c;c moll;15v;Saltarello;;;OT;;;[abd,a2] > [abd] ,,,c | [,daac2] [abb,d] [cdda] | [dab,,d2] > [dab] ,,,a | [dab,,d1] ,,,,,c [dab,,d] ,,,,a [dab,c] ,,,,,d | ;germantab
 18;G dur;16r;Passazmezo;;;OT;;;[aac,,a2] ,,,c ,,d [aac,,a2] [,,db,c] | [aac,,a2] ,,,c1 ,,a [aac,,a1] ,,d [aad,,a] ,,c | [acd,a2] ,,,c1 ,d [acd,a2] [,dcac] |   ;germantab
-19a;;17v;Passazmezo;;;fefe;;;[,aaaa1] ,,d [,daaa2] [,daaa] [,daaa] | [,aaaa2] [,daaa] [,daaa] ,,d1 ,a | [,bcd,a2] ,,c1 ,a ,b ,d a ,d | ;germantab
-19b;;18r;Saltarello;;;fefe;;;,a1 ,b | [,da,a2] ,,,a1 ,b ,a2 | [,aaaa2] ,b [,daaa] | [,b,d,a2] ,,c ,a ,b ,d | [,b,d,x2] ,,1 ,a ,,d2 |;germantab
-20a;;18v;Tanz;;;OT?;;;[,aaaa2] :||: [,,ca2] [,,ca] [,aaaa] [,aaa] | [,bcd1] ,a ,b ,d [,bcd2] ,a | [,,ca2] [,,ac] [,,ca] ,,,,,b |;germantab
-20b;;19r;Nachtanz;;;OT?;;;[,faaa2] :||: [,,ca2] [,,ca2] [,aaaa] | [,bcd1] ,a ,b ,d [,bcd] ,a | [,,ca2] [,,ac] [,,ca] | [,faaa2] :||: [,,ca2] [,,ca2] [,aaaa] | [,bcd1] ,a ,b ,d [,bcd] ,a | [,,ca2] [,,ac] [,,ca] | [,aa,a2] ,,,a  [,aaaa] | ;germantab
-21;l;19v;Lacaracossa;;;OT?;;;[cdca2] [cdc] [cdca] | [cdca1] a c d [cdca2] | [daa,a1] ,,c [,a,a] ,c [,d,,a] a | [bdd,,a2] [bdc] [bdc,,a] |;germantab
+19a;;17v;Passazmezo;;;fefe (a e c g c Bb);;;[,aaaa1] ,,d [,daaa2] [,daaa] [,daaa] | [,aaaa2] [,daaa] [,daaa] ,,d1 ,a | [,bcd,a2] ,,c1 ,a ,b ,d a ,d | ;germantab
+19b;;18r;Saltarello;;;fefe (a e c g c Bb);;;,a1 ,b | [,da,a2] ,,,a1 ,b ,a2 | [,aaaa2] ,b [,daaa] | [,b,d,a2] ,,c ,a ,b ,d | [,b,d,x2] ,,1 ,a ,,d2 |;germantab
+20a;;18v;Tanz;;;fefe (a e c g c Bb);;;[,aaaa2] :||: [,,ca2] [,,ca] [,aaaa] [,aaa] | [,bcd1] ,a ,b ,d [,bcd2] ,a | [,,ca2] [,,ac] [,,ca] ,,,,,b |;germantab
+20b;;19r;Nachtanz;;;fefe (a e c g c Bb);;;[,faaa2] :||: [,,ca2] [,,ca2] [,aaaa] | [,bcd1] ,a ,b ,d [,bcd] ,a | [,,ca2] [,,ac] [,,ca] | [,faaa2] :||: [,,ca2] [,,ca2] [,aaaa] | [,bcd1] ,a ,b ,d [,bcd] ,a | [,,ca2] [,,ac] [,,ca] | [,aa,a2] ,,,a  [,aaaa] | ;germantab
+21;;19v;Lacaracossa;;;fefe (a e c g c Bb);;;[cdca2] [cdc] [cdca] | [cdca1] a c d [cdca2] | [daa,a1] ,,c [,a,a] ,c [,d,,a] a | [bdd,,a2] [bdc] [bdc,,a] |;germantab
 22a;g moll;20r;Passazmezo;;;OT;;;a1 c | [da,c,a2] d c [aa,c,a1] ,d a c | [da,c,a2] a1 c [da,c,a] a c d | [cdda2] [cdd1] a [,dda] a c d |;germantab
 22b;g moll;20v;Saltarello;;;OT;;;[aabc1] c :||: [dabc2] ,,,,,a [c,a ,b] | [aabc] c [dabc] | [cdda2] ,d1 a c d | [cdda1] a c ,d a c |;germantab
 ;;;Stücke in französischer Tabulatur evtl für Cyther;Pieces in French tablature for cittern;;;;;;
