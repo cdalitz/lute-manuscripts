@@ -1,0 +1,108 @@
+PieceNr;Key;PageNr;Name;Composer;Comment;Tuning;Concordances;TimeInz;Tab
+1;;1r;Prelude de H.;;;Th;;C;"{,,,a}/ a (,b ,,d) a ,,,,a a ,,,c ,,d ,b [ad] (,b ,,d) a \
+(,,,,c ,,,,d) a (,,,a ,,,c) a"
+2;;2r;Prelude hurel;;;Th;;C;"{,,,a}/ a (,b ,,d) a ,,,,a a ,,,c ,,d ,b a {,,,a} (,a ',b ,d) a \
+[abdca1] ||"
+3;;3r;Allemande de H.;;;Th;;C;"a1 | [abdc{,,,a}3/2] a/ ,,d d '[b,,,a3/4] ,,,,c/4 | \
+,,,,d/ a ,,,,,e (,a/4 ,a ,c ,d) '[,b,,a/] {a}/4 ,a \
+'[,a,,,a/] ,,,,a/4 ,a |"
+4;;4r;Gigue de H.;;;Th;;3;",,,,a1 | X,b3/2 ,d/ a1 | ',b1 {,,,a} a | ,,d3/2 ,,f/ ,,g1 | \
+',,f1 ,,,,,a ,a | ,,,c3/2 ,,a/ ,,b1 | \
+X[,,,d{a}3/2] ,,b/ '[,,,c{,a}1] |"
+5;;5r;Courante de H.;;;Th;;3;",,,g/ ,,,h ,,f | [,,g{,,,a}3/2] ,,,h/ ,,f ,,g | \
+[,,i{,,a}/] (,,g ,,f) f ,,,f ,g | a1 {,a} ,,,,d | \
+[,bbc3/2] d/ 'b a |"
+6;;6r;Sarabande de H.;;;Th;;3;"a/ ,d ',b ,a ,,,,a a | [,a,,,'e3/2] ,d/ '[,b,,a] a | \
+Vb/ ,,,a 'c ,,,,d V[d,,,c1] | '[ea,,,a3/2] ,,a/4 e [,,d,a1] |"
+7;;6v;Courante de H.;;f. 7r empty;Th;;3;"a/ ,,a e | [,,d{,,,a}3/2] ,,f/ V[,,g,a1] | X[,,g,,a1] X[,,da,b3/2] ,,f/ | \
+'[e,,,,a1] {6}2 | [,,d,,b1] [,,,c,d3/2] ,,,d/ | \
+'[,,,a{4}3/2] ,,,,d/4 ,,,a X,,,,d1 | \
+X[,,b{,a}1] '[,,ca{,,a}3/2] ,,c/ |"
+8;;7v;Gavotte de hurel;;;Th;;C;"[,,,,a{,,,a}1] [a,,,,e/] ,d '[,b,,a1] [,,,,ab] | \
+X[b{a}3/2] ,d/ [d{,,a}1] '[a{,a}] | \
+X[,,d{,,,a}1] '[,,aa{a}] V[,,b,ca1] (,,d/ ,,c) | \
+[,,da,b3/2] ,,f/ '[e,,,,a1] {6} |:|"
+9;;8v;Prelude H.;;;Th;;C;"{a}/ ,,,,a ,,,a a ,,a ,d ,,d1 | ,,,a/ ,,,,e ,,d a ,,a ,,,f1 {a} \
+X[,daaa3/2] (,c/4 ,d) (a c1) ,a {,a} a"
+10;;9v;Autre prelude H.;;;Th;;C;"{a}1 X[,daaa] a ,,a d [,,d{a}] {,a}3/2 (,,d/4 ,,b ,,a) \
+a3/4 ,,a/4 V,,b1 {a} [,daaa3/2] | (a/ c1) {,,,a} [acdca3/2]"
+11;;10v;Allemande gigue de hurel;;;Th;;C;"f/ | [fdaaa{a}3/2] d/ 'c ,,,,a 'a ,,,,,d | \
+',,,,,c/ ,,,,a ,d ,c [,a,,,d] ,,,,,c '[,c,,,a] [,d{a}] | \
+{,a}/4 a ,,,,a/ ,,d [,,f{,,a}]"
+12;;11v;Courante hurel;;;Th;;3;"f1 | [fdaa{a}3/2] ,c/ X,d a | Vc1 '[a{,a}] {,,a}/ ,d | \
+'[,c{,,,a}3/2] (,,,,c/ ,,,,a) ,,,,,d | \
+',,,,,c/ ,d ,,,,,a ,,b ,d ,c |"
+13;;12r;Autre Courante hurel;;;Th;;3;",,a1 | [,,aaa{a}3/2] ,,,a/ ',,a ,,b | \
+V[,,d,ac1] [a,'d{,a}3/2] ,,d/ | [,,def{a}3/2] ,,,,,a/ {a} {,a} | \
+X[,,i{,,a}1] '[,,da{5}3/2] ,,d/ | \
+V[,,f{4}3/2] ,,d/ (,,,f ,,a) |"
+14;;12v;Sarabande La Boulonoise hurel;;;Th;;3;"[cdd{a}1] [cdda3/4] c/4 ([a{,a}] c d/) | \
+'[cc,,a3/2] a/ X[,d,,c1] | [,aXb,,a1] {,a}/ ,,d '[,,aa{a}1] | \
+'[,,aa{7}3/2] ,,,c/4 ,,a ,,,c1 | \
+[acdc{,,,a}1] [acdc3/4] a/4 [acd,a1] |"
+15;;13r;Gavotte La Lionne de hurel;;;Th;;C;"[,,a{a}/] ,,,c ,,a ,,b [a{,a}1] {a}/ ,,a | \
+X[,d{,,a}1] {4}/ a '[,c{,,,a}1] ,,,,a | \
+[,,de{5}1] V,,f '[da{6}1] )[,,a{7}/] ,,b) | \
+'[,,,ca{,,,a}3/2] (,,,a/4 ,,,,e) ,,,a1 {7} |:|"
+16;;13v;Gavotte pour Mad.lle de Lionne par Hurel;;;Th;;C;"X[,,iaa{a}3/2] ,,i/ [a,'h{,,,a}1] X[,,i{5}] | \
+'[,,de3/2] ,,d/ V[,,f{4}1] '[e{6}] | \
+[da,,,a1] [f{,,a}/] ,,f [a{,a}1] ,,d/ {a} | \
+'[,,da,a3/2] ,,c/ V[,,d,a1] {,,,a} |:|"
+17;;14r;Menuet de poictou;;;Th;;3;"[,,a{a}3/2] ,,,c/ ,,a1 | ,,,a1 [a,Xd{,a}2] | \
+'[,,aa{a}2] [,,f{4}1] | '[,,d{7}/] ,,,f ,,d ,,f ,,d1 | \
+'[,,aa{a}3/2] ,,,c/ ,,a1 | ,,a1 [a,Xd{,a2}] | \
+'[,,aa{a}2] [,,f{4}1] | '[,,de{a}1] {7}2 |:|"
+18;;15v;Autre;f. 16r empty;;Th;;3;"X[,daa{a}3/2] a/ ,,a1 | X[,,b,,a1] [a,Vd{,a}2] | \
+'[,,aa{a}2] X[,,b,,a1] | [a,,,a/] (c a) ,d '[,c{,,,a}1] | \
+X[,daa{a}3/2] a/ ,,a1 | X[,,b,,a1] [a,Vd{,a}2] | \
+X[,,f{a}2] '[e,,,,a1] | V[f,,,a1] {,,,a}2 |:|"
+19;;16v;Prelude hurel;;;Th;;C;"{,,,a}3/2 a/4 ,d ',c3/2 ,d/ a1 ,,d3/4 (e/4 c a) (,d ,c ,a) \
+,,,,a (,,,,,e ,,,,,c ,,,,,a) {a} {,a} {,,a} [acdca{,,,a}1] |:|"
+20;;17v;Courante de H.;;;Th;;3;",c1 | [,cdc{,,,a}1] ',d/ (a/4 ,d) a3/4 ,,,,a/4 | \
+,,,,,e/ ,,,,,c ,,,,,a a ,a a | [acdc{,,,a}3/2] a/ (,,a ,,,g) | \
+,,,h/ ,,f '[,,h,a3/2] ,,f/ |"
+21;;18v;Courante de H.;;;Th;;3;"f/ 'e c | [a,,,a3/2] ,c/ X,d a | V[cdd{a}1] '[a{,a}] {,,a}/ ,d | \
+'[,c{,,,a}1] ,,,,a ,,,c | [acd3/2] ,d/ [a,,,,e1] | \
+[,,,,ac1] ,a [,cb,,a] |"
+22;;19v;Sarabande de H.;;;Th;;3;"[acdc{,,,a}1] [acd3/4] a/4 [acdca1] | \
+'[aa,,,e3/2] ,d/ '[,c,,a1] | V[,daa{a}3/2] {,a}/ [,dc{,,a}1] | \
+'[,cd{,,,a}3/2] ,a/ [aaccc{6}1] | [aaccca1] [aac3/4] a/4 [aacc1] | \
+[caa'b3/2] ,,f/ '[e,,,,a1] |"
+23;;20r;Les Matassins;;;Th;;6/4;",,,,a1 | ',c3/2 ,d/ [a{,,,a}1] [a{,a}] V[cdd{a}2] | \
+'[a,,,,a1] ,,,,,c [aa,,,e] [ac,,a] V[cd2] | \
+'[a,,,a3/2] ,d/ ',c1 X[,d,,c1] [,a,,,e] a | \
+'[,c,,a3/2] ,a/ ,,,,a1 ,,,,a ,,,,,e [,,,,ac] |"
+24;;20v;Les Pellerins;;;Th;;C;"[,c,ca/] ,c ',a ,,,,a | [aa,,,Xe1] ,,,,,d/ a [,,aa,c] ,,c [,,d{a}] ,,f | \
+'[ea,,,a/] ,,a/4 e [,,d{,a}/] {,,a} [,c,c{,,,a}] ,c ',a ,,,,a |"
+25;;21v;Prelude de hurel;;;Th;;C;"{4}/ ,,,,,d ,,,,c ,,,a ,,b ,a ),,b ,,,a) ,a \
+V[,b,c,d3/2] [,b,c/] [,b,c1] [,b,c,c] [,b,a,c] ',a/ ,,,,a ,a1 \
+{4} ,,,,,d ,,,,c ,,,a ,,b ,a [,abacd] |:|"
+26;;22v;Courante de H.;;;Th;;3;",,,a/ X,,,c ,,a | V[,,bacd{4}3/2] ,a/ X,b ,d | \
+[a{,a}1] '[,d{a}3/2] ,b/ | '[,a,,,d1] {4} ,,,,,d | \
+[,aVbac3/2] ,,a/ ,,,f ,,d | V,,f1 ,,,,,d2 |"
+27;;23r;Sarabande de H.;;;Th;;3;"[,,bacd1] [,dbacd{4}3/2] [,dba/] | {,a}1 [abbcd3/2] [abb/] | \
+{a}1 '[,daa{7}3/2] [,baa/] | {4}1 [,abacd2] | \
+[,,ff{4}1] '[,,de{a}3/2] ,,a/ | V[,,bcca1] [,,bcd{a}3/2] ,,d/ | \
+[,,b,c{a}1] '[,,b,a{7}3/2] ,,a/ |"
+28;;23v;Autre Cour.te de H.;;;Th;;3;",,a/ ,,,f ,,d | V[,,f{4}3/2] ,,d/ ',,b ,,a | \
+[a{,a}1] '[,d{a}3/2] ,b/ | '[,a,,,d3/2] ,c/ V,d1 | \
+[,dd,,c1] [adb,,a] ',c3/4 d/4 | '[c{a}1] X,d {,a} |"
+29;;24v;Autre Sarabande Hurel;;;Th;;3;"[,,i{4}/] ,,g ',,f ,,,h ,,f1 | \
+'[,,de{a}/] {,a} {,,a} ,,f [,,gh{,,,a}1] | \
+'[,,f{,,a}/] ,,,h ,,f ,,g ,,i {,a} | \
+'[,,de{a}3/2] ,,,f/4 ,,a X[,,,f,a1] |"
+30;;25r;Gavotte hurel;;;Th;;C;"[,,bac{4}1] ',,f3/4 ,,g/4 [,,i{5}/] {4} [,,g{,,,a}] ,,f | \
+'[,,de{a}1] {,,a}/ ,,f '[d,,,,a] ,,a a {a} | \
+[a,d{,a}3/2] ,,f/ [,,aad1] [,,b,(c/] [,,,,d)] |"
+31;;25v;Prelude A mi la re de H.;;;Th;;C;",,,,,a/ a (,a ,,b) a ,,,,c a ,,,c ,,b ,a a a (,a ,,b) a |:| \
+{6} [aabcca] || ,,a ,,,f ,,d V,,f"
+32;;26v;Sarabande de H.;;;Th;;3;",,,,a/ ,a a c Vd1 | '[c,,,c3/2] a/ '[,e{,,a}1] | \
+,,,,,a/ ,a a (,,,,,a ,,,,,c) ,d | [,daaa3/2] ,b/ [,a,,,d1] | \
+X,,f3/2 ,,,,a/ ,,,,c ,,d |"
+33;;27v;Chaconne composée pour Mad.lle de la Balme Par Hurel;;f. 29r empty;Th;;3;"[aaVbcca3/2] [,bbc/] | [,baa{a}1] X[,,f3/2] [,,f'e{,,a}/] | \
+[a,f{,a}1] '[,,de] {,,,a}/ [,ed] | V[,,bc{,,a}1] [,aacc3/2] [,,db/] | \
+[aabcc{6}1] || [aab,,a1] [,bd/] ,,b | \
+'[,,ac1] '[,,aa] [,,bac/] ,,d |"
+34;;29v;Menuet de l'opera;;;Th;;3;",a1 | [,abcc{6}2] '[,,a{,,a}1] | V[,,(bc,a/] ,,d ,,b [,,a)] a1 | \
+X[,,f,,d1] [,,f{4}] ,a | [aa,,,d2] [,,ab,c1] | \
+V[,,(bc,a/] ,,d ,,b [,,a)] a ,,a | '[,,a{,,a}2] |:|"
